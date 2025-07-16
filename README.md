@@ -13,6 +13,9 @@
     <a href="https://twitter.com/Rahul22642132">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
     </a>
+  </div>
+  
+  <div style="margin-top: 10px;">
     <a href="https://dev.to/rahuljoshi07">
       <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
     </a>
@@ -47,7 +50,7 @@ I'm a multidisciplinary developer passionate about building exceptional digital 
 
 <div align="center">
   
-  <h4>Frontend Development</h4>
+  <h4>Frontend Technologies</h4>
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -59,11 +62,12 @@ I'm a multidisciplinary developer passionate about building exceptional digital 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </p>
 
-  <h4>Backend Development</h4>
+  <h4>Backend Technologies</h4>
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   </p>
 
   <h4>Database & Storage</h4>
@@ -72,6 +76,7 @@ I'm a multidisciplinary developer passionate about building exceptional digital 
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
     <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
+    <img src="https://img.shields.io/badge/Azure_Database-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Database" />
   </p>
 </div>
 
@@ -98,8 +103,8 @@ I'm a multidisciplinary developer passionate about building exceptional digital 
   <p>
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
     <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+    <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
   </p>
 </div>
 
@@ -262,28 +267,27 @@ I'm actively seeking opportunities to collaborate on innovative projects across 
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rahul-joshi7">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:rj1342627@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://twitter.com/Rahul22642132">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
-  </a>
-  <a href="https://dev.to/rahuljoshi07">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-  </a>
-  <a href="https://rahuljoshi07.github.io/Personal-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
+  <div>
+    <a href="https://www.linkedin.com/in/rahul-joshi7">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:rj1342627@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://twitter.com/Rahul22642132">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+    </a>
+  </div>
+  <div style="margin-top: 10px;">
+    <a href="https://dev.to/rahuljoshi07">
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+    </a>
+  </div>
 </div>
 
 <hr style="height:3px;border-width:0;color:#3498DB;background-color:#3498DB;border-radius:2px;margin:30px 0">
 
 <div align="center">
-  <p>📅 Last Updated: 2025-07-16 07:04:47</p>
   <p>⭐️ From <a href="https://github.com/Rahuljoshi07">Rahuljoshi07</a></p>
   <img src="https://komarev.com/ghpvc/?username=Rahuljoshi07&color=3498DB&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  <p><small>This profile README automatically updates daily</small></p>
 </div>
