@@ -4,17 +4,14 @@
   <p><em>Building scalable applications, optimizing infrastructure, and creating immersive gaming experiences</em></p>
   
   <div>
-    <a href="https://www.linkedin.com/in/rahuljoshi-dev/">
+    <a href="https://www.linkedin.com/in/rahul-joshi7">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:rj1342627@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://twitter.com/RahulJoshi_dev">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="https://dev.to/rahuljoshi">
-      <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+    <a href="https://twitter.com/Rahul22642132">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
     </a>
   </div>
 </div>
@@ -44,6 +41,7 @@ I'm a multidisciplinary developer specializing in **Full Stack Development**, **
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -51,10 +49,8 @@ I'm a multidisciplinary developer specializing in **Full Stack Development**, **
 
   #### Backend Technologies
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
 
   #### Database & Storage
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -107,7 +103,7 @@ I'm a multidisciplinary developer specializing in **Full Stack Development**, **
       <h3 align="center">Restaurant Website</h3>
       <div align="center">  
         <a href="https://github.com/Rahuljoshi07/Restaurant" target="_blank">
-          <img src="https://via.placeholder.com/500x300?text=Restaurant+Website" alt="Restaurant Website" width="100%" />
+          <img src="https://github.com/user-attachments/assets/8bbbd89a-f30a-4872-8594-a06119c3c496" alt="Restaurant Website" width="100%" />
         </a>
         <p>
           <a href="https://github.com/Rahuljoshi07/Restaurant" target="_blank">
@@ -125,7 +121,7 @@ I'm a multidisciplinary developer specializing in **Full Stack Development**, **
       <h3 align="center">Kubernetes Monitoring Stack</h3>
       <div align="center">  
         <a href="https://github.com/Rahuljoshi07/-Initial-commit-Flask-Prometheus-Grafana-on-Kubernetes" target="_blank">
-          <img src="https://via.placeholder.com/500x300?text=K8s+Monitoring+Solution" width="100%" />
+          <img src="https://i.imgur.com/JNcDzkK.png" width="100%" alt="Kubernetes Monitoring Screenshot" />
         </a>
         <p>
           <a href="https://github.com/Rahuljoshi07/-Initial-commit-Flask-Prometheus-Grafana-on-Kubernetes" target="_blank">
@@ -142,7 +138,7 @@ I'm a multidisciplinary developer specializing in **Full Stack Development**, **
       <h3 align="center">Docker Telegram Bot</h3>
       <div align="center">  
         <a href="https://github.com/Rahuljoshi07/docker-telegram-bot" target="_blank">
-          <img src="https://via.placeholder.com/500x300?text=Docker+Telegram+Bot" width="100%" />
+          <img src="https://i.imgur.com/LUsQBBH.png" width="100%" alt="Docker Telegram Bot" />
         </a>
         <p>
           <a href="https://github.com/Rahuljoshi07/docker-telegram-bot" target="_blank">
@@ -157,7 +153,7 @@ I'm a multidisciplinary developer specializing in **Full Stack Development**, **
       <h3 align="center">Jenkins Node Pipeline</h3>
       <div align="center">  
         <a href="https://github.com/Rahuljoshi07/jenkins-node-pipeline" target="_blank">
-          <img src="https://via.placeholder.com/500x300?text=CI/CD+Pipeline" width="100%" />
+          <img src="https://i.imgur.com/JrDVAQN.png" width="100%" alt="Jenkins Pipeline" />
         </a>
         <p>
           <a href="https://github.com/Rahuljoshi07/jenkins-node-pipeline" target="_blank">
@@ -180,7 +176,7 @@ I'm a multidisciplinary developer specializing in **Full Stack Development**, **
     <td width="50%">
       <h3 align="center">Dimensional Shift</h3>
       <div align="center">  
-        <img src="https://via.placeholder.com/500x300?text=Unity+3D+Puzzle+Game" width="100%" />
+        <img src="https://i.imgur.com/Ia9s0HU.jpg" width="100%" alt="Unity 3D Puzzle Game Concept" />
         <p><strong>Unity 3D, C#, Shader Graph</strong></p>
         <p><em>In Development</em> - First-person puzzle game where players manipulate dimensions to solve environmental challenges. Features procedural level generation and dynamic lighting effects.</p>
       </div>
@@ -188,7 +184,7 @@ I'm a multidisciplinary developer specializing in **Full Stack Development**, **
     <td width="50%">
       <h3 align="center">Strategic Empires</h3>
       <div align="center">  
-        <img src="https://via.placeholder.com/500x300?text=Strategy+Game" width="100%" />
+        <img src="https://i.imgur.com/dlGXcmF.jpg" width="100%" alt="Strategy Game Concept" />
         <p><strong>Unity 3D, C#, Multiplayer Networking</strong></p>
         <p><em>In Development</em> - Turn-based strategy game featuring resource management, diplomacy systems, and procedurally generated maps with multi-player capabilities.</p>
       </div>
@@ -200,11 +196,13 @@ I'm a multidisciplinary developer specializing in **Full Stack Development**, **
 ## 📈 GitHub Statistics
 
 <div align="center">
+  <!-- These stats are auto-updating daily -->
   <img src="https://github-readme-stats.vercel.app/api?username=Rahuljoshi07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" width="49%" alt="Rahul's Github Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahuljoshi07&theme=tokyonight&hide_border=true&background=0d1117" width="49%" alt="Rahul's Github Streak"/>
 </div>
 
 <div align="center">
+  <!-- This updates daily -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahuljoshi07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117" width="50%" alt="Rahul's Top Languages"/>
 </div>
 
@@ -219,8 +217,8 @@ I'm a multidisciplinary developer specializing in **Full Stack Development**, **
   <tr>
     <td>
       ✅ React.js<br>
-      ✅ Node.js & Express<br>
-      ✅ REST APIs<br>
+      ✅ Node.js<br>
+      ✅ Tailwind & Bootstrap<br>
       🔄 State Management<br>
       🔄 Performance Optimization<br>
       📆 Progressive Web Apps<br>
@@ -256,36 +254,26 @@ Legend: ✅ Mastered | 🔄 Currently Learning | 📆 Planned
 - **Mentorship Opportunities** to guide aspiring developers
 - **Learning Communities** focused on game development with Unity
 
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Implementing CI/CD Pipelines for Game Development](https://dev.to/)
-- [Optimizing Kubernetes Clusters for Unity Game Servers](https://dev.to/)
-- [Full Stack Development Best Practices in 2025](https://dev.to/)
-- [Containerization Strategies for Web Applications](https://dev.to/)
-<!-- BLOG-POST-LIST:END -->
-
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rahuljoshi-dev/">
+  <a href="https://www.linkedin.com/in/rahul-joshi7">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:rj1342627@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://twitter.com/RahulJoshi_dev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://dev.to/rahuljoshi">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  <a href="https://twitter.com/Rahul22642132">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <p>📅 Last Updated: 2025-07-16 06:28:41</p>
+  <p>📅 Last Updated: 2025-07-16 06:45:15</p>
   <p>⭐️ From <a href="https://github.com/Rahuljoshi07">Rahuljoshi07</a></p>
   <img src="https://komarev.com/ghpvc/?username=Rahuljoshi07&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <!-- This README updates daily through GitHub Actions -->
+  <p><small>This profile README automatically updates daily</small></p>
 </div>
