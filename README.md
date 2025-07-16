@@ -3,17 +3,17 @@
   
   <p><em>Building scalable applications, optimizing infrastructure, and creating immersive gaming experiences</em></p>
   
-  <div>
-    <a href="https://www.linkedin.com/in/rahul-joshi7">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:rj1342627@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://twitter.com/Rahul22642132">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
-    </a>
-  </div>
+ <div>
+  <a href="https://www.linkedin.com/in/rahul-joshi7" style="margin: 0 6px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rj1342627@gmail.com" style="margin: 0 6px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/Rahul22642132" style="margin: 0 6px;">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
+</div>
   
   <div style="margin-top: 10px;">
     <a href="https://dev.to/rahuljoshi07">
@@ -23,6 +23,8 @@
 </div>
 
 <hr style="height:3px;border-width:0;color:#3498DB;background-color:#3498DB;border-radius:2px">
+
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rahuljoshi07&theme=nord&column=7&no-frame=true&margin-w=15" width="100%" alt="Trophy" />
@@ -265,17 +267,17 @@ I'm actively seeking opportunities to collaborate on innovative projects across 
 </div>
 
 <div align="center">
-  <div>
-    <a href="https://www.linkedin.com/in/rahul-joshi7">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:rj1342627@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://twitter.com/Rahul22642132">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
-    </a>
-  </div>
+ <div>
+  <a href="https://www.linkedin.com/in/rahul-joshi7" style="margin: 0 6px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rj1342627@gmail.com" style="margin: 0 6px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/Rahul22642132" style="margin: 0 6px;">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
+</div>
   <div style="margin-top: 10px;">
     <a href="https://dev.to/rahuljoshi07">
       <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
