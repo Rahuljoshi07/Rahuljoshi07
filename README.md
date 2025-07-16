@@ -3,19 +3,21 @@
   
   <p><em>Building scalable applications, optimizing infrastructure, and creating immersive gaming experiences</em></p>
   
- <div>
-  <a href="https://www.linkedin.com/in/rahul-joshi7" style="margin: 0 6px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:rj1342627@gmail.com" style="margin: 0 6px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://twitter.com/Rahul22642132" style="margin: 0 6px;">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
-  </a>
-</div>
+  <div>
+    <a href="https://www.linkedin.com/in/rahul-joshi7" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:rj1342627@gmail.com" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://twitter.com/Rahul22642132">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+    </a>
+  </div>
   
-  <div style="margin-top: 10px;">
+  <div style="margin-top: 15px;">
     <a href="https://dev.to/rahuljoshi07">
       <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
     </a>
@@ -23,8 +25,6 @@
 </div>
 
 <hr style="height:3px;border-width:0;color:#3498DB;background-color:#3498DB;border-radius:2px">
-
-
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rahuljoshi07&theme=nord&column=7&no-frame=true&margin-w=15" width="100%" alt="Trophy" />
@@ -69,14 +69,16 @@ I'm a multidisciplinary developer passionate about building exceptional digital 
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </p>
 
   <h4>Database & Storage</h4>
   <p>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
     <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
-    <img src="https://img.shields.io/badge/Azure_Database-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Database" />
+    <img src="https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Blob Storage" />
   </p>
 </div>
 
@@ -103,8 +105,8 @@ I'm a multidisciplinary developer passionate about building exceptional digital 
   <p>
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
     <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
     <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
+    <img src="https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Blob Storage" />
   </p>
 </div>
 
@@ -138,7 +140,18 @@ I'm a multidisciplinary developer passionate about building exceptional digital 
 
 > A modern, interactive portfolio website showcasing my professional journey, skills, and projects. Features a responsive design, animated sections, and an intuitive user interface that reflects my personal brand and technical capabilities.
 
-### Enterprise Kubernetes Monitoring Platform
+### Weather Dashboard
+<div align="left">
+  <a href="https://github.com/Rahuljoshi07/weather-dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github" alt="GitHub Repository"/>
+  </a>
+</div>
+
+**Technologies:** React, JavaScript, OpenWeatherMap API, Chart.js, Tailwind CSS
+
+> Real-time weather application that fetches data from OpenWeatherMap API. Features include current weather conditions, 5-day forecast, interactive weather maps, location search, and responsive design for all devices. Implements client-side caching for improved performance.
+
+### Enterprise Kubernetes Monitoring Stack
 <div align="left">
   <a href="https://github.com/Rahuljoshi07/-Initial-commit-Flask-Prometheus-Grafana-on-Kubernetes" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github" alt="GitHub Repository"/>
@@ -162,17 +175,6 @@ I'm a multidisciplinary developer passionate about building exceptional digital 
 **Technologies:** React.js, Vite, Tailwind CSS, AOS Animation Library
 
 > A modern restaurant website featuring dark/light mode toggle, smooth animations, and responsive design. Implements best practices for user experience, performance optimization, and accessibility.
-
-### Automated DevOps Pipeline for Node.js
-<div align="left">
-  <a href="https://github.com/Rahuljoshi07/jenkins-node-pipeline" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github" alt="GitHub Repository"/>
-  </a>
-</div>
-
-**Technologies:** Jenkins, Docker, Node.js, CI/CD, GitHub Integration
-
-> End-to-end CI/CD pipeline for Node.js applications that automates the software delivery process. Includes automated testing, dependency scanning, container building, and deployment to multiple environments.
 
 <div align="center">
   <h2>🎯 Game Development Projects (Coming Soon)</h2>
@@ -267,18 +269,20 @@ I'm actively seeking opportunities to collaborate on innovative projects across 
 </div>
 
 <div align="center">
- <div>
-  <a href="https://www.linkedin.com/in/rahul-joshi7" style="margin: 0 6px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:rj1342627@gmail.com" style="margin: 0 6px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://twitter.com/Rahul22642132" style="margin: 0 6px;">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
-  </a>
-</div>
-  <div style="margin-top: 10px;">
+  <div>
+    <a href="https://www.linkedin.com/in/rahul-joshi7">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:rj1342627@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/Rahul22642132">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+    </a>
+  </div>
+  <div style="margin-top: 15px;">
     <a href="https://dev.to/rahuljoshi07">
       <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
     </a>
@@ -288,6 +292,8 @@ I'm actively seeking opportunities to collaborate on innovative projects across 
 <hr style="height:3px;border-width:0;color:#3498DB;background-color:#3498DB;border-radius:2px;margin:30px 0">
 
 <div align="center">
+  <p>📅 Last Updated: 2025-07-16 07:24:43</p>
   <p>⭐️ From <a href="https://github.com/Rahuljoshi07">Rahuljoshi07</a></p>
   <img src="https://komarev.com/ghpvc/?username=Rahuljoshi07&color=3498DB&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <p><small>This profile README automatically updates daily</small></p>
 </div>
