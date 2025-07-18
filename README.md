@@ -191,7 +191,7 @@ I'm a multidisciplinary developer passionate about building exceptional digital 
 > Turn-based strategy game featuring resource management, diplomacy systems, and procedurally generated maps. Includes both single-player campaigns against AI opponents and multiplayer capabilities for competitive play.
 
 <div align="center">
-  <h2>🤖 AI Contribution Bot Dashboard</h2>
+  <h2>🤖 Contribution Dashboard</h2>
 </div>
 
 <!-- START_BOT_DASHBOARD -->
