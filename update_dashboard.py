@@ -7,8 +7,10 @@ Automatically updates the contribution dashboard in your GitHub profile README
 import os
 import requests
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 import re
+import time
+import hashlib
 
 class DashboardUpdater:
     def __init__(self, github_token, bot_repo_owner, bot_repo_name, profile_repo_owner, profile_repo_name):
