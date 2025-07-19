@@ -191,7 +191,7 @@ I'm a multidisciplinary developer passionate about building exceptional digital 
 > Turn-based strategy game featuring resource management, diplomacy systems, and procedurally generated maps. Includes both single-player campaigns against AI opponents and multiplayer capabilities for competitive play.
 
 <div align="center">
-  <h2>🤖 AI Contribution Bot Dashboard</h2>
+  <h2>🤖 Contribution Dashboard</h2>
 </div>
 
 <!-- START_BOT_DASHBOARD -->
@@ -227,9 +227,6 @@ I'm a multidisciplinary developer passionate about building exceptional digital 
 
 <div align="center">
   <h4>🕐 Last Updated: 2025-07-18 21:19:09 UTC</h4>
-  <a href="https://github.com/Rahuljoshi07/github-contribution-bot" target="_blank">
-    <img src="https://img.shields.io/badge/View_Bot_Repository-181717?style=for-the-badge&logo=github" alt="Bot Repository"/>
-  </a>
 </div>
 <!-- END_BOT_DASHBOARD -->
 
