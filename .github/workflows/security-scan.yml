@@ -1,0 +1,47 @@
+name: "Security Scan"
+
+on:
+  push:
+    branches: [ "main", "master" ]
+  pull_request:
+    branches: [ "main", "master" ]
+  schedule:
+    - cron: '0 4 * * 0'  # Run every Sunday at 4 AM UTC
+
+jobs:
+  security-scan:
+    name: Security Vulnerability Scan
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Run Trivy vulnerability scanner
+      uses: aquasecurity/trivy-action@master
+      with:
+        scan-type: 'fs'
+        scan-ref: '.'
+        format: 'sarif'
+        output: 'trivy-results.sarif'
+        
+    - name: Upload Trivy scan results
+      uses: github/codeql-action/upload-sarif@v3
+      if: always()
+      with:
+        sarif_file: 'trivy-results.sarif'
+        
+    - name: Run npm audit (if package.json exists)
+      run: |
+        if [ -f "package.json" ]; then
+          npm audit --audit-level moderate
+        fi
+      continue-on-error: true
+      
+    - name: Run pip safety check (if requirements.txt exists)
+      run: |
+        if [ -f "requirements.txt" ]; then
+          pip install safety
+          safety check -r requirements.txt
+        fi
+      continue-on-error: true

@@ -1,0 +1,57 @@
+version: 2
+updates:
+  # Enable version updates for npm
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 10
+    reviewers:
+      - "Rahuljoshi07"
+    assignees:
+      - "Rahuljoshi07"
+    commit-message:
+      prefix: "security"
+      include: "scope"
+    
+  # Enable version updates for pip
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 10
+    reviewers:
+      - "Rahuljoshi07"
+    assignees:
+      - "Rahuljoshi07"
+    commit-message:
+      prefix: "security"
+      include: "scope"
+    
+  # Enable version updates for Docker
+  - package-ecosystem: "docker"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5
+    reviewers:
+      - "Rahuljoshi07"
+    assignees:
+      - "Rahuljoshi07"
+    commit-message:
+      prefix: "security"
+      include: "scope"
+
+  # Enable version updates for GitHub Actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5
+    reviewers:
+      - "Rahuljoshi07"
+    assignees:
+      - "Rahuljoshi07"
+    commit-message:
+      prefix: "security"
+      include: "scope"
