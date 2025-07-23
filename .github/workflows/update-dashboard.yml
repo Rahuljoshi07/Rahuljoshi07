@@ -1,12 +1,12 @@
-name: 📊 Update Profile Dashboard - Real-Time
+name: 🤖 Auto-Update Contribution Dashboard
 
 on:
-  schedule:
-    # Run every 15 minutes to match bot frequency
-    - cron: '*/15 * * * *'
+  # Trigger when contribution bot runs and pushes new data
+  repository_dispatch:
+    types: [update-dashboard, bot-completed]
   
+  # Manual trigger for testing
   workflow_dispatch:
-    # Allow manual triggering
     inputs:
       force_update:
         description: 'Force update dashboard'
@@ -14,9 +14,9 @@ on:
         default: 'true'
         type: boolean
   
-  # Trigger when bot repository pushes new contributions
-  repository_dispatch:
-    types: [update-dashboard]
+  # Schedule backup - run daily at midnight UTC
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   update-dashboard:
@@ -32,25 +32,86 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         persist-credentials: true
         
-    - name: 🐍 Set up Python
-      uses: actions/setup-python@v4
+    - name: 🔧 Checkout contribution bot repository
+      uses: actions/checkout@v4
       with:
-        python-version: '3.9'
+        repository: Rahuljoshi07/github-contribution-bot
+        token: ${{ secrets.GITHUB_TOKEN }}
+        path: ./bot-repo
         
-    - name: 📦 Install dependencies
+    - name: 🚀 Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: 📦 Install bot dependencies
       run: |
-        python -m pip install --upgrade pip
-        pip install requests
+        cd bot-repo
+        npm install
+        
+    - name: 🤖 Run contribution bot
+      run: |
+        cd bot-repo
+        node run-production.js || node index.js
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_USERNAME: Rahuljoshi07
+        YOUR_NAME: "Rahul Joshi"
+        YOUR_EMAIL: "rj1342627@gmail.com"
+        
+    - name: 📋 Copy contributions data
+      run: |
+        if [ -f bot-repo/contributions.json ]; then
+          cp bot-repo/contributions.json ./contributions.json
+          echo "✅ Contributions data copied successfully"
+        else
+          echo "⚠️ No contributions.json found, creating empty data"
+          echo '{"issues":[],"pullRequests":[],"comments":[],"stats":{"totalIssues":0,"totalPRs":0,"totalComments":0,"successRate":0}}' > contributions.json
+        fi
         
     - name: 📊 Update dashboard
-      run: python update_dashboard.py
+      run: |
+        if [ -f update-profile-dashboard.js ]; then
+          node update-profile-dashboard.js
+        else
+          echo "⚠️ Dashboard update script not found, using Python fallback"
+          if [ -f update_dashboard.py ]; then
+            python update_dashboard.py
+          fi
+        fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
+    - name: 💾 Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Check if there are changes
+        if git diff --quiet; then
+          echo "No changes to commit"
+        else
+          git add .
+          timestamp=$(date -u "+%Y-%m-%d %H:%M:%S UTC")
+          git commit -m "🤖 Auto-update dashboard - $timestamp"
+          git push
+          echo "✅ Dashboard updated and pushed to GitHub"
+        fi
+        
     - name: 📈 Generate summary
       run: |
-        echo "## 📊 Dashboard Update Report" >> $GITHUB_STEP_SUMMARY
-        echo "- **Execution Time:** $(date)" >> $GITHUB_STEP_SUMMARY
+        echo "## 🤖 Dashboard Update Report" >> $GITHUB_STEP_SUMMARY
+        echo "- **Execution Time:** $(date -u)" >> $GITHUB_STEP_SUMMARY
         echo "- **Status:** ✅ Dashboard updated successfully" >> $GITHUB_STEP_SUMMARY
-        echo "- **Next Update:** Tomorrow at 12:00 UTC" >> $GITHUB_STEP_SUMMARY
+        echo "- **Trigger:** ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
         echo "- **Profile URL:** https://github.com/Rahuljoshi07" >> $GITHUB_STEP_SUMMARY
+        
+        # Show contribution stats if available
+        if [ -f contributions.json ]; then
+          total_issues=$(cat contributions.json | jq -r '.stats.totalIssues // 0')
+          total_prs=$(cat contributions.json | jq -r '.stats.totalPRs // 0')
+          total_comments=$(cat contributions.json | jq -r '.stats.totalComments // 0')
+          echo "- **Issues:** $total_issues" >> $GITHUB_STEP_SUMMARY
+          echo "- **Pull Requests:** $total_prs" >> $GITHUB_STEP_SUMMARY
+          echo "- **Comments:** $total_comments" >> $GITHUB_STEP_SUMMARY
+        fi
