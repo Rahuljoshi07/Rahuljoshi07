@@ -190,32 +190,62 @@ I'm a multidisciplinary developer passionate about building exceptional digital 
 
 > Turn-based strategy game featuring resource management, diplomacy systems, and procedurally generated maps. Includes both single-player campaigns against AI opponents and multiplayer capabilities for competitive play.
 
-<!-- START_BOT_DASHBOARD -->
 <div align="center">
   <h2>🤖 Contribution Dashboard</h2>
+</div>
+
+<!-- START_BOT_DASHBOARD -->
+<div align="center">
   <table>
     <tr>
       <td align="center">
         <h3>📈 Daily Contributions</h3>
-        <!-- Badges will be auto-updated -->
+        <img src="https://img.shields.io/badge/Issues-0-brightgreen?style=for-the-badge&logo=github" alt="Issues Created"/>
+        <img src="https://img.shields.io/badge/PRs-0-blue?style=for-the-badge&logo=git" alt="Pull Requests"/>
+        <img src="https://img.shields.io/badge/Comments-0-orange?style=for-the-badge&logo=comment" alt="Comments"/>
       </td>
       <td align="center">
         <h3>🎯 Success Rate</h3>
-        <!-- Badges will be auto-updated -->
+        <img src="https://img.shields.io/badge/Success_Rate-0%25-red?style=for-the-badge" alt="Success Rate"/>
+        <img src="https://img.shields.io/badge/Active_Repos-0-purple?style=for-the-badge" alt="Active Repositories"/>
       </td>
     </tr>
     <tr>
       <td align="center">
         <h3>📊 Total Stats</h3>
-        <!-- Badges will be auto-updated -->
+        <img src="https://img.shields.io/badge/Total_Contributions-0-gold?style=for-the-badge" alt="Total Contributions"/>
+        <img src="https://img.shields.io/badge/Last_Activity-Today-green?style=for-the-badge" alt="Last Activity"/>
       </td>
       <td align="center">
         <h3>🔥 Current Streak</h3>
-        <!-- Badges will be auto-updated -->
+        <img src="https://img.shields.io/badge/Contribution_Streak-0 Days-fire?style=for-the-badge" alt="Contribution Streak"/>
+        <img src="https://img.shields.io/badge/Status-Active-yellow?style=for-the-badge" alt="Bot Status"/>
       </td>
     </tr>
   </table>
-  <h4>🕐 Last Updated: -</h4>
+</div>
+
+<div align="center">
+  <h4>🕐 Last Updated: 2025-07-23 08:34:52 UTC</h4>
+  <a href="https://github.com/Rahuljoshi07/github-contribution-bot" target="_blank">
+    <img src="https://img.shields.io/badge/View_Bot_Repository-181717?style=for-the-badge&logo=github" alt="Bot Repository"/>
+  </a>
+</div>
+<!-- END_BOT_DASHBOARD -->
+
+<div align="center">
+  <h2>📊 GitHub Performance</h2>
+</div>
+
+<div align="center">
+  <!-- These stats are auto-updating daily -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahuljoshi07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=3498DB&icon_color=3498DB&text_color=FFFFFF" width="49%" alt="Rahul's Github Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahuljoshi07&theme=tokyonight&hide_border=true&background=0d1117&stroke=3498DB&ring=3498DB&fire=3498DB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3498DB&sideLabels=3498DB&dates=FFFFFF" width="49%" alt="Rahul's Github Streak"/>
+</div>
+
+<div align="center">
+  <!-- This updates daily -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahuljoshi07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=3498DB" width="50%" alt="Rahul's Top Languages"/>
 </div>
 <!-- END_BOT_DASHBOARD -->
 
