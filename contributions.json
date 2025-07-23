@@ -55,6 +55,20 @@
         }
       ],
       "type": "issue"
+    },
+    {
+      "id": 12345,
+      "title": "Test Issue - Bot Testing",
+      "repository": "test/repository",
+      "url": "https://github.com/test/repo/issues/1",
+      "createdAt": "2025-07-23T09:21:41.465Z",
+      "status": "open",
+      "labels": [
+        {
+          "name": "bug"
+        }
+      ],
+      "type": "issue"
     }
   ],
   "pullRequests": [
@@ -101,12 +115,23 @@
       "type": "pullRequest",
       "additions": 10,
       "deletions": 5
+    },
+    {
+      "id": 67890,
+      "title": "Test PR - Bot Testing",
+      "repository": "test/repository",
+      "url": "https://github.com/test/repo/pull/1",
+      "createdAt": "2025-07-23T09:21:41.645Z",
+      "status": "open",
+      "type": "pullRequest",
+      "additions": 10,
+      "deletions": 5
     }
   ],
   "comments": [],
   "stats": {
-    "totalIssues": 4,
-    "totalPRs": 4,
+    "totalIssues": 5,
+    "totalPRs": 5,
     "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
