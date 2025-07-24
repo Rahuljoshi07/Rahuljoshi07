@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753349598960,
+      "repository": "meilisearch/strapi-plugin-meilisearch",
+      "issueTitle": "Hooks not working",
+      "url": "https://github.com/meilisearch/strapi-plugin-meilisearch/issues/1034",
+      "createdAt": "2025-07-24T09:33:18.960Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
