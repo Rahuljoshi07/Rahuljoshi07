@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753320715303,
+      "repository": "hoeci/sort-play",
+      "issueTitle": "Upgrading a playlist made with the extension instead of making new ones",
+      "url": "https://github.com/hoeci/sort-play/issues/32",
+      "createdAt": "2025-07-24T01:31:55.303Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
