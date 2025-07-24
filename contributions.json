@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753358936442,
+      "repository": "pelias/placeholder",
+      "issueTitle": "placeholder_1 | parent not found! continent_id 102191581",
+      "url": "https://github.com/pelias/placeholder/issues/215",
+      "createdAt": "2025-07-24T12:08:56.442Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
