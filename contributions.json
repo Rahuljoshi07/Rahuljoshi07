@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753383158039,
+      "repository": "hello-robot/stretch_urdf",
+      "issueTitle": "RE1 URDF has minor offsets in base causing calibration issue",
+      "url": "https://github.com/hello-robot/stretch_urdf/issues/20",
+      "createdAt": "2025-07-24T18:52:38.039Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
