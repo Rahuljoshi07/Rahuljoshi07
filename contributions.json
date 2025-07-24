@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753328885005,
+      "repository": "vmware/ansible-vsphere-gos-validation",
+      "issueTitle": "[New Feature] Refine variables naming convention to avoid conflict",
+      "url": "https://github.com/vmware/ansible-vsphere-gos-validation/issues/298",
+      "createdAt": "2025-07-24T03:48:05.005Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
