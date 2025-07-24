@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753381971768,
+      "repository": "gensecaihq/Wazuh-MCP-Server",
+      "issueTitle": "Missing dependencies: websockets",
+      "url": "https://github.com/gensecaihq/Wazuh-MCP-Server/issues/33",
+      "createdAt": "2025-07-24T18:32:51.769Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
