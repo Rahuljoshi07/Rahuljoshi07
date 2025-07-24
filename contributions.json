@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753354314391,
+      "repository": "jshttp/negotiator",
+      "issueTitle": "[Bug] invalid sorting with mediaType parsing",
+      "url": "https://github.com/jshttp/negotiator/issues/78",
+      "createdAt": "2025-07-24T10:51:54.392Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
