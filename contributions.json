@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753351158989,
+      "repository": "DataDog/dd-trace-js",
+      "issueTitle": "[BUG]: Maximum number of active requests reached: payload is discarded",
+      "url": "https://github.com/DataDog/dd-trace-js/issues/6159",
+      "createdAt": "2025-07-24T09:59:18.989Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
