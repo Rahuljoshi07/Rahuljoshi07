@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753394755073,
+      "repository": "BasisResearch/effectful",
+      "issueTitle": "Remove special casing of `NotImplementedError` in operation definitions",
+      "url": "https://github.com/BasisResearch/effectful/issues/312",
+      "createdAt": "2025-07-24T22:05:55.073Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
