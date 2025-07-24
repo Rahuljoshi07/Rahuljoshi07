@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753331990040,
+      "repository": "tanaikech/ToolsForMCPServer",
+      "issueTitle": "Gemini CLI v0.1.13: Issues with Schema for InputSchema",
+      "url": "https://github.com/tanaikech/ToolsForMCPServer/issues/2",
+      "createdAt": "2025-07-24T04:39:50.040Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
