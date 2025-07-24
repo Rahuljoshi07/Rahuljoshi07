@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753387017668,
+      "repository": "gcovr/gcovr",
+      "issueTitle": "Question regarding gcovr coverage and unreachable branches",
+      "url": "https://github.com/gcovr/gcovr/issues/1070",
+      "createdAt": "2025-07-24T19:56:57.668Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
