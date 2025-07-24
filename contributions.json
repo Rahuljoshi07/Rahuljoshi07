@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1753351158989,
-      "repository": "DataDog/dd-trace-js",
-      "issueTitle": "[BUG]: Maximum number of active requests reached: payload is discarded",
-      "url": "https://github.com/DataDog/dd-trace-js/issues/6159",
-      "createdAt": "2025-07-24T09:59:18.989Z",
+      "id": 1753351233689,
+      "repository": "stac-utils/stac-fastapi-elasticsearch-opensearch",
+      "issueTitle": "[BUG] Error when creating Item with property that is an array of objects before Index exists",
+      "url": "https://github.com/stac-utils/stac-fastapi-elasticsearch-opensearch/issues/413",
+      "createdAt": "2025-07-24T10:00:33.689Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
