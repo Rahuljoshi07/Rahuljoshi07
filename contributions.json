@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753376625505,
+      "repository": "PolicyEngine/policyengine-core",
+      "issueTitle": "Weights return nans when using the `calculate_dataframe` function when mapped to any entity besides household",
+      "url": "https://github.com/PolicyEngine/policyengine-core/issues/384",
+      "createdAt": "2025-07-24T17:03:45.505Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
