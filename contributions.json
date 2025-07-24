@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753354833499,
+      "repository": "aiidalab/aiidalab-qe",
+      "issueTitle": "[Test aiida-core 2.7.0rc1] Bug report: Application crashed with TypeError",
+      "url": "https://github.com/aiidalab/aiidalab-qe/issues/1316",
+      "createdAt": "2025-07-24T11:00:33.499Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
