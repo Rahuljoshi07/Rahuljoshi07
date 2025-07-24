@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753375953829,
+      "repository": "numz/ComfyUI-SeedVR2_VideoUpscaler",
+      "issueTitle": "CUDA error: out of memory in RTX 5090 default workflow!?",
+      "url": "https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler/issues/74",
+      "createdAt": "2025-07-24T16:52:33.829Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
