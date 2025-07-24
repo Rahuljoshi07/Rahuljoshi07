@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753351613097,
+      "repository": "accordproject/concerto",
+      "issueTitle": "Decorator arguments are not type checked while creating a `ModelFile`",
+      "url": "https://github.com/accordproject/concerto/issues/1029",
+      "createdAt": "2025-07-24T10:06:53.098Z",
+      "type": "comment",
+      "content": "Adding TypeScript could improve code quality and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
