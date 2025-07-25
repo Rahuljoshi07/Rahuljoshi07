@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753443812267,
+      "repository": "facebookresearch/spdl",
+      "issueTitle": "Multi-GPU Training Support",
+      "url": "https://github.com/facebookresearch/spdl/issues/838",
+      "createdAt": "2025-07-25T11:43:32.268Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
