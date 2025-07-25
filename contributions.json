@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753412775289,
+      "repository": "langgenius/dify-official-plugins",
+      "issueTitle": "FeishuDocument tool use Lark's Api",
+      "url": "https://github.com/langgenius/dify-official-plugins/issues/1338",
+      "createdAt": "2025-07-25T03:06:15.289Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
