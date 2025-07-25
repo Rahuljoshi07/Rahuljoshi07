@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753448061773,
+      "repository": "viewvc/viewvc",
+      "issueTitle": "Unable to query commit database (SQL syntax error)",
+      "url": "https://github.com/viewvc/viewvc/issues/376",
+      "createdAt": "2025-07-25T12:54:21.773Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
