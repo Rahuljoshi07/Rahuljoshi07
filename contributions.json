@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753484511354,
+      "repository": "marksweb/django-nh3",
+      "issueTitle": "Conflicting pre-commit hooks",
+      "url": "https://github.com/marksweb/django-nh3/issues/53",
+      "createdAt": "2025-07-25T23:01:51.354Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
