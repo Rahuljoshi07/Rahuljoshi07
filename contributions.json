@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753423733854,
+      "repository": "LibrePhotos/librephotos-docker",
+      "issueTitle": "Database can't be on an external harddrive",
+      "url": "https://github.com/LibrePhotos/librephotos-docker/issues/54",
+      "createdAt": "2025-07-25T06:08:53.854Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
