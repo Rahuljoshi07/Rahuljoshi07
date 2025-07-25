@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753402751625,
+      "repository": "actionless/pikaur",
+      "issueTitle": ".cache/pikaur/pkg symlink ➡ FileExistsError: [Errno 17] File exists:",
+      "url": "https://github.com/actionless/pikaur/issues/873",
+      "createdAt": "2025-07-25T00:19:11.625Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
