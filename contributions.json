@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753453663361,
+      "repository": "muyoou/st-memory-enhancement",
+      "issueTitle": "使用哈基米2.5pro启用表格后就报错（很喜欢大佬的插件，非常好用，之前用ds模型时并不会报错）",
+      "url": "https://github.com/muyoou/st-memory-enhancement/issues/143",
+      "createdAt": "2025-07-25T14:27:43.361Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
