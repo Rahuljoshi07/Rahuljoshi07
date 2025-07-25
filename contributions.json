@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753455392524,
+      "repository": "alorence/django-modern-rpc",
+      "issueTitle": "V2 - TODO list",
+      "url": "https://github.com/alorence/django-modern-rpc/issues/84",
+      "createdAt": "2025-07-25T14:56:32.524Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
