@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1753450012383,
+      "id": 1753450051584,
       "repository": "thatlonelybugbear/automated-conditions-5e",
-      "issueTitle": "[Enhancement] - Fixes for distance checks",
-      "url": "https://github.com/thatlonelybugbear/automated-conditions-5e/issues/376",
-      "createdAt": "2025-07-25T13:26:52.383Z",
+      "issueTitle": "[Bug] - Fix for gridless distances",
+      "url": "https://github.com/thatlonelybugbear/automated-conditions-5e/issues/395",
+      "createdAt": "2025-07-25T13:27:31.584Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
