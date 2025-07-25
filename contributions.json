@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753453471500,
+      "repository": "neetozone/neeto-editor",
+      "issueTitle": "Image upload fails at first try",
+      "url": "https://github.com/neetozone/neeto-editor/issues/1524",
+      "createdAt": "2025-07-25T14:24:31.500Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
