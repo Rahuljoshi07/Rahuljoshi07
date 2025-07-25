@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753473418136,
+      "repository": "temporalio/sdk-python",
+      "issueTitle": "[Bug] sdk metrics do not include tags added with \"telemetry.global_tags\"",
+      "url": "https://github.com/temporalio/sdk-python/issues/775",
+      "createdAt": "2025-07-25T19:56:58.136Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
