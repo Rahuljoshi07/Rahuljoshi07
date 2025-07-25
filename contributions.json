@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753456139951,
+      "repository": "gnosis/prediction-market-agent-tooling",
+      "issueTitle": "Bug: maximum sell amount exceeded",
+      "url": "https://github.com/gnosis/prediction-market-agent-tooling/issues/644",
+      "createdAt": "2025-07-25T15:08:59.951Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
