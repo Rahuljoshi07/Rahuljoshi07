@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1753406641311,
-      "repository": "nextcloud/preferred_providers",
-      "issueTitle": "emails with a + character don't work",
-      "url": "https://github.com/nextcloud/preferred_providers/issues/6",
-      "createdAt": "2025-07-25T01:24:01.311Z",
+      "id": 1753406670807,
+      "repository": "scientific-python/specs",
+      "issueTitle": "BUG: CI rendering is failing",
+      "url": "https://github.com/scientific-python/specs/issues/398",
+      "createdAt": "2025-07-25T01:24:30.807Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
