@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753405260420,
+      "repository": "ImBIOS/bun-node",
+      "issueTitle": "[FEAT]: Add Bun version 1.2.11",
+      "url": "https://github.com/ImBIOS/bun-node/issues/32",
+      "createdAt": "2025-07-25T01:01:00.421Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
