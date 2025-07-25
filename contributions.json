@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753476097064,
+      "repository": "lookbook-hq/lookbook",
+      "issueTitle": "Previews with Phlex > 2.0.0 are broken when working with `Lookbook::Preview`",
+      "url": "https://github.com/lookbook-hq/lookbook/issues/715",
+      "createdAt": "2025-07-25T20:41:37.065Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
