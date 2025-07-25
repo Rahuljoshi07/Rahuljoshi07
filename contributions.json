@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753466117304,
+      "repository": "layer5io/layer5",
+      "issueTitle": "[Bug] Console Error in main page of website",
+      "url": "https://github.com/layer5io/layer5/issues/6635",
+      "createdAt": "2025-07-25T17:55:17.304Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
