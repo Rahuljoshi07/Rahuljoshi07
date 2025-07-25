@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753432153090,
+      "repository": "dteviot/WebToEpub",
+      "issueTitle": "[NSFW] questionablequesting thread pack epub error: can't access property \"querySelector\"",
+      "url": "https://github.com/dteviot/WebToEpub/issues/2051",
+      "createdAt": "2025-07-25T08:29:13.090Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
