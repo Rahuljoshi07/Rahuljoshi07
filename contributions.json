@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753402217363,
+      "repository": "langchain-ai/langchain-aws",
+      "issueTitle": "Bedrock Checkpoint Saver does not work with async streaming (Not Implemented)",
+      "url": "https://github.com/langchain-ai/langchain-aws/issues/528",
+      "createdAt": "2025-07-25T00:10:17.363Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
