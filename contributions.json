@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753401982627,
+      "repository": "kamkyu94/TrackTrack",
+      "issueTitle": "Bug in get_prev_box()",
+      "url": "https://github.com/kamkyu94/TrackTrack/issues/9",
+      "createdAt": "2025-07-25T00:06:22.627Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
