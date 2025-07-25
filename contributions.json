@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753455089325,
+      "repository": "nextcloud/notes",
+      "issueTitle": "Ctrl+S opens new empty tab",
+      "url": "https://github.com/nextcloud/notes/issues/1178",
+      "createdAt": "2025-07-25T14:51:29.325Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
