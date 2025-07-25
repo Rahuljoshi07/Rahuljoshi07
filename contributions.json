@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1753428251097,
-      "repository": "GetStream/stream-video-js",
-      "issueTitle": "Calling `StreamVideoRN.onPushLogout()` causes state desync between VoIP notifications and in-app ringing screen on iOS",
-      "url": "https://github.com/GetStream/stream-video-js/issues/1861",
-      "createdAt": "2025-07-25T07:24:11.097Z",
-      "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
