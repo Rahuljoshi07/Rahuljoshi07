@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753415905865,
+      "repository": "etal/cnvkit",
+      "issueTitle": "Error creating a flat reference file: Intel MKL ERROR: Parameter 6 was incorrect on entry to DGELSD",
+      "url": "https://github.com/etal/cnvkit/issues/508",
+      "createdAt": "2025-07-25T03:58:25.865Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
