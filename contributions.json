@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753444356498,
+      "repository": "open-io/oio-sds",
+      "issueTitle": "Docker Image Version 20.04 Fails to Launch",
+      "url": "https://github.com/open-io/oio-sds/issues/2121",
+      "createdAt": "2025-07-25T11:52:36.498Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
