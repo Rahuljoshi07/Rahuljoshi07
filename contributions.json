@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753499204721,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Add tests for <Milestones> component",
+      "url": "https://github.com/OWASP/Nest/issues/1858",
+      "createdAt": "2025-07-26T03:06:44.721Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
