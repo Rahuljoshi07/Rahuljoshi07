@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753566293242,
+      "repository": "gelbphoenix/autocaliweb",
+      "issueTitle": "[FEATURE] Add support for USB transfer to e-book readers",
+      "url": "https://github.com/gelbphoenix/autocaliweb/issues/33",
+      "createdAt": "2025-07-26T21:44:53.242Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. (Suggested by Rahul Joshi..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
