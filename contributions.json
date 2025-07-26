@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753509695504,
+      "repository": "ttsim-dev/gettsim",
+      "issueTitle": "BUG: Template: Root nodes of group IDs when policy input traverses automatically generated function",
+      "url": "https://github.com/ttsim-dev/gettsim/issues/1051",
+      "createdAt": "2025-07-26T06:01:35.504Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
