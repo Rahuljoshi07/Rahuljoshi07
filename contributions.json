@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753515325809,
+      "repository": "ipspace/netlab",
+      "issueTitle": "[BUG] Cannot use node output settings in a group",
+      "url": "https://github.com/ipspace/netlab/issues/2551",
+      "createdAt": "2025-07-26T07:35:25.810Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
