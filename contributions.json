@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753505047149,
+      "repository": "apache/cordova-common",
+      "issueTitle": "Failed to install '<plugin>': TypeError: Cannot read properties of undefined (reading 'id')",
+      "url": "https://github.com/apache/cordova-common/issues/201",
+      "createdAt": "2025-07-26T04:44:07.149Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
