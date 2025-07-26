@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753501387507,
+      "repository": "testflows/TestFlows-GitHub-Hetzner-Runners",
+      "issueTitle": "Frequent \"list index out of range\" errors and subsequent crashes",
+      "url": "https://github.com/testflows/TestFlows-GitHub-Hetzner-Runners/issues/76",
+      "createdAt": "2025-07-26T03:43:07.507Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
