@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753557923307,
+      "repository": "RegioHelden/django-kafka",
+      "issueTitle": "Disable all the messaging within a \"single click\"",
+      "url": "https://github.com/RegioHelden/django-kafka/issues/49",
+      "createdAt": "2025-07-26T19:25:23.308Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
