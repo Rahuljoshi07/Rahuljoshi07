@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753513267018,
+      "repository": "ramseymcgrath/PCILeechFWGenerator",
+      "issueTitle": "0.7.6 AND 0.7.7 ERROR",
+      "url": "https://github.com/ramseymcgrath/PCILeechFWGenerator/issues/172",
+      "createdAt": "2025-07-26T07:01:07.018Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
