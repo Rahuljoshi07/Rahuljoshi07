@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753543750650,
+      "repository": "eu-sovereign-cloud/spec",
+      "issueTitle": "Remove unused 404 for delete of resources",
+      "url": "https://github.com/eu-sovereign-cloud/spec/issues/245",
+      "createdAt": "2025-07-26T15:29:10.651Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
