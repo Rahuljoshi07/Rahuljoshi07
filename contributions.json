@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753547871416,
+      "repository": "mwood77/ws4kp-international",
+      "issueTitle": "Kiosk mode via permalink not working",
+      "url": "https://github.com/mwood77/ws4kp-international/issues/67",
+      "createdAt": "2025-07-26T16:37:51.416Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
