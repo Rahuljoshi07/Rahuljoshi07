@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753502524610,
+      "repository": "aiida-vasp/aiida-vasp",
+      "issueTitle": "Vasp output parsing issue with misc",
+      "url": "https://github.com/aiida-vasp/aiida-vasp/issues/770",
+      "createdAt": "2025-07-26T04:02:04.610Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
