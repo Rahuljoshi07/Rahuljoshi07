@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1753510446092,
-      "repository": "stabldev/torrra",
-      "issueTitle": "[Bug] Error while dowloading",
-      "url": "https://github.com/stabldev/torrra/issues/76",
-      "createdAt": "2025-07-26T06:14:06.092Z",
+      "id": 1753510508233,
+      "repository": "fails-components/webtransport",
+      "issueTitle": "Writing new Uint8Array() causes server freeze with quic_bug_10586_6: span.empty() && !fin",
+      "url": "https://github.com/fails-components/webtransport/issues/365",
+      "createdAt": "2025-07-26T06:15:08.233Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
