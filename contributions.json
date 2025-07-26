@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753562006739,
+      "repository": "comcode-org/hackmud_wiki",
+      "issueTitle": "We need a page similiar to client_error.mdx but for account issues.",
+      "url": "https://github.com/comcode-org/hackmud_wiki/issues/536",
+      "createdAt": "2025-07-26T20:33:26.739Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
