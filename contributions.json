@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1753505494922,
+      "id": 1753505555652,
       "repository": "apache/cordova-common",
-      "issueTitle": "Failed to install '<plugin>': TypeError: Cannot read properties of undefined (reading 'id')",
-      "url": "https://github.com/apache/cordova-common/issues/201",
-      "createdAt": "2025-07-26T04:51:34.922Z",
+      "issueTitle": "TypeError: Cannot read properties of undefined (reading 'path') when config-file present in config.xml",
+      "url": "https://github.com/apache/cordova-common/issues/220",
+      "createdAt": "2025-07-26T04:52:35.652Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
