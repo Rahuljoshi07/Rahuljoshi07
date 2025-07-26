@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1753545479604,
+      "id": 1753545526322,
       "repository": "agusmakmun/django-markdown-editor",
       "issueTitle": "Bug when search users url is empty",
       "url": "https://github.com/agusmakmun/django-markdown-editor/issues/279",
-      "createdAt": "2025-07-26T15:57:59.605Z",
+      "createdAt": "2025-07-26T15:58:46.322Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
