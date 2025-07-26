@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753535046765,
+      "repository": "Bithomp/frontend-react",
+      "issueTitle": "bug in the token select on /send page",
+      "url": "https://github.com/Bithomp/frontend-react/issues/459",
+      "createdAt": "2025-07-26T13:04:06.765Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
