@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753517290778,
+      "repository": "cliffano/nestor",
+      "issueTitle": "Job within a folder results in Not Found error",
+      "url": "https://github.com/cliffano/nestor/issues/58",
+      "createdAt": "2025-07-26T08:08:10.778Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
