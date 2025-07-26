@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753510381516,
+      "repository": "apache/cordova-common",
+      "issueTitle": "Failed to install '<plugin>': TypeError: Cannot read properties of undefined (reading 'id')",
+      "url": "https://github.com/apache/cordova-common/issues/201",
+      "createdAt": "2025-07-26T06:13:01.516Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
