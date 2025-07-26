@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753511590010,
+      "repository": "oe-alliance/oe-alliance-plugins",
+      "issueTitle": "EPGTranslator : mo file compiling error",
+      "url": "https://github.com/oe-alliance/oe-alliance-plugins/issues/906",
+      "createdAt": "2025-07-26T06:33:10.010Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
