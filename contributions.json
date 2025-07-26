@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753522360945,
+      "repository": "rcbj/oauth2-oidc-debugger",
+      "issueTitle": "Fix OIDC Implicit Flows debugger functionality",
+      "url": "https://github.com/rcbj/oauth2-oidc-debugger/issues/72",
+      "createdAt": "2025-07-26T09:32:40.945Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
