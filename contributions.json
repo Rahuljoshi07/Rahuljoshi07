@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753572711226,
+      "repository": "octodns/octodns-cloudflare",
+      "issueTitle": "BUG: Tag and comment implementation does not seem right",
+      "url": "https://github.com/octodns/octodns-cloudflare/issues/142",
+      "createdAt": "2025-07-26T23:31:51.226Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
