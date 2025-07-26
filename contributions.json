@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753545667817,
+      "repository": "erfanzar/EasyDeL",
+      "issueTitle": "CUDA-based RMSNorm for Performance Optimization",
+      "url": "https://github.com/erfanzar/EasyDeL/issues/200",
+      "createdAt": "2025-07-26T16:01:07.818Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
