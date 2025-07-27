@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753653807062,
+      "repository": "Yaofang-Liu/Pusa-VidGen",
+      "issueTitle": "Slow Startup Time with Multi-GPU DeepSpeed Training",
+      "url": "https://github.com/Yaofang-Liu/Pusa-VidGen/issues/30",
+      "createdAt": "2025-07-27T22:03:27.062Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
