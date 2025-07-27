@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753578213752,
+      "repository": "wahaha303/ICCPlus",
+      "issueTitle": "Migration to Svelte is an issue because of Svelte inconsistency and compatibility issue. Also there is a lack of retro-compatibility with community extension and tools made for interactive cyoa.",
+      "url": "https://github.com/wahaha303/ICCPlus/issues/36",
+      "createdAt": "2025-07-27T01:03:33.753Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
