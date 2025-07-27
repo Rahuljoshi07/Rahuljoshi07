@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753617753436,
+      "repository": "ericbuess/claude-code-docs",
+      "issueTitle": "Documentation update failed - 2025-07-24",
+      "url": "https://github.com/ericbuess/claude-code-docs/issues/3",
+      "createdAt": "2025-07-27T12:02:33.436Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
