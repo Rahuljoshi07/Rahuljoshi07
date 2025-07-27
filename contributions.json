@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753597443062,
+      "repository": "jurialmunkey/plugin.video.themoviedb.helper",
+      "issueTitle": ":bug: Window manager doesn't reopen the dialog that initially ran themoviedb helper",
+      "url": "https://github.com/jurialmunkey/plugin.video.themoviedb.helper/issues/1627",
+      "createdAt": "2025-07-27T06:24:03.062Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
