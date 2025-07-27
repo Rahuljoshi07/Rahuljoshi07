@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753624212450,
+      "repository": "pythonitalia/pycon",
+      "issueTitle": "When a grantee confirms his grant the Pending status is not updated",
+      "url": "https://github.com/pythonitalia/pycon/issues/4408",
+      "createdAt": "2025-07-27T13:50:12.450Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for react ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
