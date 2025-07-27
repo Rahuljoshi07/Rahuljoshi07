@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753614412727,
+      "repository": "Davidyz/VectorCode",
+      "issueTitle": "[BUG] Error in tool_transformers.lua when use vectorise ls in codecomanion.nvim",
+      "url": "https://github.com/Davidyz/VectorCode/issues/251",
+      "createdAt": "2025-07-27T11:06:52.727Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
