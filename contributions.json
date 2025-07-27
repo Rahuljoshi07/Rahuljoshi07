@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1753589330124,
+      "id": 1753589374136,
       "repository": "nextcloud/serverinfo",
-      "issueTitle": "PG Database with dots in the name causes serverInfo to fail",
-      "url": "https://github.com/nextcloud/serverinfo/issues/556",
-      "createdAt": "2025-07-27T04:08:50.124Z",
+      "issueTitle": "Adding custom metric",
+      "url": "https://github.com/nextcloud/serverinfo/issues/841",
+      "createdAt": "2025-07-27T04:09:34.136Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
