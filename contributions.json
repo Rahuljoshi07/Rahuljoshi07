@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753613254156,
+      "repository": "themm1/procyclingstats",
+      "issueTitle": "Bug: Parser cannot correctly return \"Startlist quality score\" anymore",
+      "url": "https://github.com/themm1/procyclingstats/issues/63",
+      "createdAt": "2025-07-27T10:47:34.156Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
