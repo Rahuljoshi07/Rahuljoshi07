@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1753652218792,
+      "id": 1753652250841,
       "repository": "antoniandre/vue-cal",
-      "issueTitle": "[Feature] Add support for header date label click event or slot",
-      "url": "https://github.com/antoniandre/vue-cal/issues/77",
-      "createdAt": "2025-07-27T21:36:58.792Z",
+      "issueTitle": "[Bug] v-model:view-date doesn't work properly, the day view doesn't show the day of viewDate",
+      "url": "https://github.com/antoniandre/vue-cal/issues/65",
+      "createdAt": "2025-07-27T21:37:30.841Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
