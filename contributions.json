@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753648527388,
+      "repository": "O-X-L/ansible-opnsense",
+      "issueTitle": "Problem: Rule inet46 & TCP/UDP",
+      "url": "https://github.com/O-X-L/ansible-opnsense/issues/245",
+      "createdAt": "2025-07-27T20:35:27.388Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
