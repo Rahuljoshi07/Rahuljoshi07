@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753630130221,
+      "repository": "flipcomputing/flock",
+      "issueTitle": "Exiting play view sometimes takes you to a blank area",
+      "url": "https://github.com/flipcomputing/flock/issues/11",
+      "createdAt": "2025-07-27T15:28:50.221Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
