@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753640703961,
+      "repository": "marketcalls/openalgo",
+      "issueTitle": "Flattrade expiry  api not providing expiry dates",
+      "url": "https://github.com/marketcalls/openalgo/issues/326",
+      "createdAt": "2025-07-27T18:25:03.961Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
