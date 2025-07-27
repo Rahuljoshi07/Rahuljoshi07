@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753598263273,
+      "repository": "rkzofficial/ha-miraie-ac",
+      "issueTitle": "Error setting up the component",
+      "url": "https://github.com/rkzofficial/ha-miraie-ac/issues/47",
+      "createdAt": "2025-07-27T06:37:43.273Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
