@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753598859675,
+      "repository": "nextcloud/polls",
+      "issueTitle": "Group: Time zone issues",
+      "url": "https://github.com/nextcloud/polls/issues/4045",
+      "createdAt": "2025-07-27T06:47:39.675Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
