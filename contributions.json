@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753597208118,
+      "repository": "ptarmiganlabs/butler-sos",
+      "issueTitle": "Start getting app names error",
+      "url": "https://github.com/ptarmiganlabs/butler-sos/issues/943",
+      "createdAt": "2025-07-27T06:20:08.118Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
