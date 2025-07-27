@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753597653267,
+      "repository": "OsProgramadores/shapes-and-math",
+      "issueTitle": "Ao apertar botão de STOP e clicar novamente em cima do botão escolhido, as formas não começam a aparecer",
+      "url": "https://github.com/OsProgramadores/shapes-and-math/issues/13",
+      "createdAt": "2025-07-27T06:27:33.267Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
