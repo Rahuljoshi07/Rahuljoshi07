@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753718544281,
+      "repository": "turner-townsend/flask-pydantic-spec",
+      "issueTitle": "[BUG] HTTP 207 is not supported ",
+      "url": "https://github.com/turner-townsend/flask-pydantic-spec/issues/58",
+      "createdAt": "2025-07-28T16:02:24.281Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
