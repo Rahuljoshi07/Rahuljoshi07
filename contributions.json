@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753709162016,
+      "repository": "ingadhoc/odoo-argentina",
+      "issueTitle": "Mismo error",
+      "url": "https://github.com/ingadhoc/odoo-argentina/issues/1137",
+      "createdAt": "2025-07-28T13:26:02.016Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
