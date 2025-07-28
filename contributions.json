@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753701567740,
+      "repository": "stackitcloud/stackit-sdk-python",
+      "issueTitle": "`pydantic.ValidationError` in `list_clusters` due to invalid `maintenance.timeWindow` year (0000)",
+      "url": "https://github.com/stackitcloud/stackit-sdk-python/issues/2039",
+      "createdAt": "2025-07-28T11:19:27.740Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
