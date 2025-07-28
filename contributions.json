@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753738252666,
+      "repository": "BretFisher/docker-mastery-for-nodejs",
+      "issueTitle": "Should the FROM statement on this line be referencing the base stage that has the production dependencies and not the dev stage?",
+      "url": "https://github.com/BretFisher/docker-mastery-for-nodejs/issues/264",
+      "createdAt": "2025-07-28T21:30:52.666Z",
+      "type": "comment",
+      "content": "Adding TypeScript could improve code quality and maintainability. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
