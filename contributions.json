@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753691072874,
+      "repository": "didi/dimina",
+      "issueTitle": "[Bug] 自定义组件中 properties 的同步更新问题",
+      "url": "https://github.com/didi/dimina/issues/62",
+      "createdAt": "2025-07-28T08:24:32.874Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
