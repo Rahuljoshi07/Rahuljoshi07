@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753734792591,
+      "repository": "Azure/azure-iot-ops-cli-extension",
+      "issueTitle": "[bug] init command fails if kube-config does not contain the selected cluster",
+      "url": "https://github.com/Azure/azure-iot-ops-cli-extension/issues/109",
+      "createdAt": "2025-07-28T20:33:12.591Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
