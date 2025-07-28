@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753668291973,
+      "repository": "open-spaced-repetition/fsrs4anki-helper",
+      "issueTitle": "[BUG] Statistics are emty right after starting Anki",
+      "url": "https://github.com/open-spaced-repetition/fsrs4anki-helper/issues/585",
+      "createdAt": "2025-07-28T02:04:51.973Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
