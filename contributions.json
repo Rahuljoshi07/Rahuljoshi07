@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753737456318,
+      "repository": "rosskhanas/react-qr-code",
+      "issueTitle": "svg optimization",
+      "url": "https://github.com/rosskhanas/react-qr-code/issues/281",
+      "createdAt": "2025-07-28T21:17:36.319Z",
+      "type": "comment",
+      "content": "Using web workers for heavy computations could improve UI responsiveness. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
