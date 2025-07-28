@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1753676212711,
+      "id": 1753676261375,
       "repository": "UltiMafia/Ultimafia",
       "issueTitle": "bug(game): Games sometimes don't end when postgame timer ends",
       "url": "https://github.com/UltiMafia/Ultimafia/issues/2159",
-      "createdAt": "2025-07-28T04:16:52.711Z",
+      "createdAt": "2025-07-28T04:17:41.376Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
