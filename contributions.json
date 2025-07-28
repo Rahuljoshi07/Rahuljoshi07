@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753721966588,
+      "repository": "IronCoreLabs/recrypt-node-binding",
+      "issueTitle": "[SPIKE] Investigate new neon build process",
+      "url": "https://github.com/IronCoreLabs/recrypt-node-binding/issues/120",
+      "createdAt": "2025-07-28T16:59:26.588Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
