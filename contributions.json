@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753710417448,
+      "repository": "FKLC/WhatsAppToDiscord",
+      "issueTitle": "Messages from Discord are not sent to a specific group on WhatsApp",
+      "url": "https://github.com/FKLC/WhatsAppToDiscord/issues/236",
+      "createdAt": "2025-07-28T13:46:57.448Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
