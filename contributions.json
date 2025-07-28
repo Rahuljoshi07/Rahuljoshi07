@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1753722018919,
-      "repository": "okta/okta-signin-widget",
-      "issueTitle": "Forgot Password: unregistered email still advances to MFA step with no error",
-      "url": "https://github.com/okta/okta-signin-widget/issues/3833",
-      "createdAt": "2025-07-28T17:00:18.919Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
