@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753742871020,
+      "repository": "princenyeche/jiraone",
+      "issueTitle": "An error has occurred: 'NoneType' object has no attribute 'startswith'",
+      "url": "https://github.com/princenyeche/jiraone/issues/141",
+      "createdAt": "2025-07-28T22:47:51.020Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
