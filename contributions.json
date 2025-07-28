@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1753713905027,
-      "repository": "Amarjha01/InfantCareCompass",
-      "issueTitle": "year not coming dynamically",
-      "url": "https://github.com/Amarjha01/InfantCareCompass/issues/134",
-      "createdAt": "2025-07-28T14:45:05.027Z",
+      "id": 1753713966936,
+      "repository": "immortalwrt/luci",
+      "issueTitle": "Cannot read properties of null (reading 'wifi')",
+      "url": "https://github.com/immortalwrt/luci/issues/520",
+      "createdAt": "2025-07-28T14:46:06.936Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
