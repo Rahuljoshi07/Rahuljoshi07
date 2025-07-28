@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753727270129,
+      "repository": "ncbi/icn3d",
+      "issueTitle": "Problem on reissuing Ig detection with a specified template (or not)",
+      "url": "https://github.com/ncbi/icn3d/issues/122",
+      "createdAt": "2025-07-28T18:27:50.129Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
