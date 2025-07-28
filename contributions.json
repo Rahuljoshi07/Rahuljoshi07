@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753698955850,
+      "repository": "AdobeDocs/adobe-dev-console",
+      "issueTitle": "Issue in /main/src/pages/guides/authentication/UserAuthentication/index.md",
+      "url": "https://github.com/AdobeDocs/adobe-dev-console/issues/201",
+      "createdAt": "2025-07-28T10:35:55.850Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
