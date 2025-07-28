@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753672443625,
+      "repository": "XSpoonAi/spoon-core",
+      "issueTitle": "Bug: Improper GAS Value in NEP-17 Token Transfers",
+      "url": "https://github.com/XSpoonAi/spoon-core/issues/61",
+      "createdAt": "2025-07-28T03:14:03.625Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
