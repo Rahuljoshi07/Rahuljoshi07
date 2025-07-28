@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753730881229,
+      "repository": "snakemake/snakemake-workflow-catalog",
+      "issueTitle": "Repo missing from standardized table",
+      "url": "https://github.com/snakemake/snakemake-workflow-catalog/issues/51",
+      "createdAt": "2025-07-28T19:28:01.229Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
