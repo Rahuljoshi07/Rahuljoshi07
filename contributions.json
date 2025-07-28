@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753705851839,
+      "repository": "hiero-ledger/hiero-sdk-js",
+      "issueTitle": "Make `Client` fetch the newest address book when initialized",
+      "url": "https://github.com/hiero-ledger/hiero-sdk-js/issues/3239",
+      "createdAt": "2025-07-28T12:30:51.839Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
