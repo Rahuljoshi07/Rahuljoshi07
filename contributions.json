@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753687363049,
+      "repository": "opendatacube/datacube-ows",
+      "issueTitle": "Update to LXML 6",
+      "url": "https://github.com/opendatacube/datacube-ows/issues/1189",
+      "createdAt": "2025-07-28T07:22:43.049Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
