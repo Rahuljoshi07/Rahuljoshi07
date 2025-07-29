@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1753787077549,
+      "id": 1753787136024,
       "repository": "KittyGiraudel/react-a11y-footnotes",
       "issueTitle": "There is a bug with two or more links with same texts",
       "url": "https://github.com/KittyGiraudel/react-a11y-footnotes/issues/145",
-      "createdAt": "2025-07-29T11:04:37.549Z",
+      "createdAt": "2025-07-29T11:05:36.024Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
