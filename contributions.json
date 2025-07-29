@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753782864667,
+      "repository": "CNFeffery/feffery-utils-components",
+      "issueTitle": "fuc.FefferyGrid layouts callback: item x & y position no callback, \"w\" & \"h\" no issue",
+      "url": "https://github.com/CNFeffery/feffery-utils-components/issues/62",
+      "createdAt": "2025-07-29T09:54:24.667Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
