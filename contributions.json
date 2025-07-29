@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753757601890,
+      "repository": "DataKitchen/dataops-observability",
+      "issueTitle": "API: Journey Dag endpoints accepts duplicate edges",
+      "url": "https://github.com/DataKitchen/dataops-observability/issues/4",
+      "createdAt": "2025-07-29T02:53:21.890Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
