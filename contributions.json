@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753792429707,
+      "repository": "DjangoCRM/django-crm",
+      "issueTitle": "Database issue",
+      "url": "https://github.com/DjangoCRM/django-crm/issues/216",
+      "createdAt": "2025-07-29T12:33:49.707Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
