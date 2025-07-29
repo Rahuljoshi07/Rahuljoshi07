@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753793222443,
+      "repository": "multitude-amsterdam/p5Catalyst",
+      "issueTitle": "Scrollbar styling missing in Firefox",
+      "url": "https://github.com/multitude-amsterdam/p5Catalyst/issues/65",
+      "createdAt": "2025-07-29T12:47:02.443Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
