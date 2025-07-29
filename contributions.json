@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753815275539,
+      "repository": "WesternFriend/westernfriend.org",
+      "issueTitle": "Allow users to change password",
+      "url": "https://github.com/WesternFriend/westernfriend.org/issues/1168",
+      "createdAt": "2025-07-29T18:54:35.539Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
