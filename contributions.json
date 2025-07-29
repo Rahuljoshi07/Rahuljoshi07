@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753747845827,
+      "repository": "nrbnlulu/strawberry-django-auth",
+      "issueTitle": "reCAPTCHA and friends support",
+      "url": "https://github.com/nrbnlulu/strawberry-django-auth/issues/581",
+      "createdAt": "2025-07-29T00:10:45.827Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
