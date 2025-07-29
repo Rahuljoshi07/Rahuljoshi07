@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753832774724,
+      "repository": "opendatacube/datacube-explorer",
+      "issueTitle": "The `_find_product_fixed_metadata` method does not always return same data",
+      "url": "https://github.com/opendatacube/datacube-explorer/issues/743",
+      "createdAt": "2025-07-29T23:46:14.724Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
