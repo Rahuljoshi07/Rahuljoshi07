@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753820317205,
+      "repository": "emlearn/emlearn",
+      "issueTitle": "Conversion should error/warn on models with bad data range",
+      "url": "https://github.com/emlearn/emlearn/issues/118",
+      "createdAt": "2025-07-29T20:18:37.205Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
