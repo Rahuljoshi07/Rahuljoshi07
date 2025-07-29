@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753747719245,
+      "repository": "kengorab/abra-lang",
+      "issueTitle": "Incorrect arity allowed for function value",
+      "url": "https://github.com/kengorab/abra-lang/issues/539",
+      "createdAt": "2025-07-29T00:08:39.245Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
