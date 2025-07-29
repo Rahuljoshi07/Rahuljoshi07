@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753802337659,
+      "repository": "CCDirectLink/CCLoader",
+      "issueTitle": "Crashes are not written to log.txt",
+      "url": "https://github.com/CCDirectLink/CCLoader/issues/113",
+      "createdAt": "2025-07-29T15:18:57.659Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
