@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753777629049,
+      "repository": "red-hat-storage/ocs-ci",
+      "issueTitle": "[Bug]: NooBaa core and database pods remain in a Pending state due to insufficient schedulable resources across available worker nodes after replacing one of the worker nodes",
+      "url": "https://github.com/red-hat-storage/ocs-ci/issues/12705",
+      "createdAt": "2025-07-29T08:27:09.049Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
