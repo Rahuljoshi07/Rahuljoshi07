@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753748008246,
+      "repository": "nrbnlulu/strawberry-django-auth",
+      "issueTitle": "Enhance Security with HTTPOnly Cookie-Based JWT Authentication Support",
+      "url": "https://github.com/nrbnlulu/strawberry-django-auth/issues/508",
+      "createdAt": "2025-07-29T00:13:28.246Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
