@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753818189895,
+      "repository": "axios/axios-docs",
+      "issueTitle": "Ambiguity on basic auth and authorization header between instance based request and plan requests",
+      "url": "https://github.com/axios/axios-docs/issues/221",
+      "createdAt": "2025-07-29T19:43:09.895Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
