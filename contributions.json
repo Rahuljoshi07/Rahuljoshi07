@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1753803536734,
-      "repository": "ansible-collections/community.crypto",
-      "issueTitle": "openssh_keypair module always calls chattr after creating a file, causing exception on fs not supporting file attributes",
-      "url": "https://github.com/ansible-collections/community.crypto/issues/416",
-      "createdAt": "2025-07-29T15:38:56.734Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
