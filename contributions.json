@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753807443775,
+      "repository": "49jan/hass-ecovent",
+      "issueTitle": "OverflowError: int too big to convert",
+      "url": "https://github.com/49jan/hass-ecovent/issues/4",
+      "createdAt": "2025-07-29T16:44:03.775Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
