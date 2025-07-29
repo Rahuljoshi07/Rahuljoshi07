@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753833137363,
+      "repository": "buildkite/test-collector-javascript",
+      "issueTitle": "Test Analytics service availability shouldn't interrupt tests",
+      "url": "https://github.com/buildkite/test-collector-javascript/issues/23",
+      "createdAt": "2025-07-29T23:52:17.363Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
