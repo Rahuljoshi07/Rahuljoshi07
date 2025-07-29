@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753802948087,
+      "repository": "zpix1/yt-anti-translate",
+      "issueTitle": "[BUG] Not all titles are being \"un-translated\"",
+      "url": "https://github.com/zpix1/yt-anti-translate/issues/82",
+      "createdAt": "2025-07-29T15:29:08.087Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
