@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753819690365,
+      "repository": "stjude/proteinpaint",
+      "issueTitle": "hiercluster: issues with clustering numeric terms",
+      "url": "https://github.com/stjude/proteinpaint/issues/3568",
+      "createdAt": "2025-07-29T20:08:10.365Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
