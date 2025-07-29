@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753827097915,
+      "repository": "wagtail/wagtail.org",
+      "issueTitle": "Package imports fails",
+      "url": "https://github.com/wagtail/wagtail.org/issues/501",
+      "createdAt": "2025-07-29T22:11:37.915Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
