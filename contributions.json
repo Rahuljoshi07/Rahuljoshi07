@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753808227428,
+      "repository": "nextcloud/richdocuments",
+      "issueTitle": "Collabora resets file changes at server restart",
+      "url": "https://github.com/nextcloud/richdocuments/issues/3799",
+      "createdAt": "2025-07-29T16:57:07.428Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
