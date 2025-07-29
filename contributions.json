@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753825121730,
+      "repository": "AllTheMods/ATM-10",
+      "issueTitle": "[Recipe Issue]: ADD: ME Infinity Cell - Obsidian",
+      "url": "https://github.com/AllTheMods/ATM-10/issues/3203",
+      "createdAt": "2025-07-29T21:38:41.730Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
