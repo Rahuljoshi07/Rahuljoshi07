@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753787077549,
+      "repository": "KittyGiraudel/react-a11y-footnotes",
+      "issueTitle": "There is a bug with two or more links with same texts",
+      "url": "https://github.com/KittyGiraudel/react-a11y-footnotes/issues/145",
+      "createdAt": "2025-07-29T11:04:37.549Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
