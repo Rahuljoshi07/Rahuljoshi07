@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753812371520,
+      "repository": "microsoftgraph/microsoft-graph-devx-content",
+      "issueTitle": "Investigate missing permissions for `GET /groups/{group-id}/planner`",
+      "url": "https://github.com/microsoftgraph/microsoft-graph-devx-content/issues/361",
+      "createdAt": "2025-07-29T18:06:11.520Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
