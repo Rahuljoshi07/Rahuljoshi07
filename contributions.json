@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753771229231,
+      "repository": "noobaa/noobaa-core",
+      "issueTitle": "NC | Make list accounts/buckets and update account/bucket tolerant to errors like missing master key, permissions etc",
+      "url": "https://github.com/noobaa/noobaa-core/issues/8104",
+      "createdAt": "2025-07-29T06:40:29.231Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
