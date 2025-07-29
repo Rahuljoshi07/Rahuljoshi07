@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753770983648,
+      "repository": "zotero/zotero-google-docs-integration",
+      "issueTitle": "v2: Error with unlinked citations?",
+      "url": "https://github.com/zotero/zotero-google-docs-integration/issues/65",
+      "createdAt": "2025-07-29T06:36:23.648Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
