@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753801672311,
+      "repository": "GSA/notifications-api",
+      "issueTitle": "Research why botocore.errorfactory:NoSuchKey errors continue to be thrown and what can be done to prevent them",
+      "url": "https://github.com/GSA/notifications-api/issues/1392",
+      "createdAt": "2025-07-29T15:07:52.311Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
