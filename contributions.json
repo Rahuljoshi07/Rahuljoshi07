@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753749925062,
+      "repository": "katelyynn/bleh",
+      "issueTitle": "gallery without a sort button causes a page crash",
+      "url": "https://github.com/katelyynn/bleh/issues/193",
+      "createdAt": "2025-07-29T00:45:25.062Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
