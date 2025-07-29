@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1753825337411,
-      "repository": "cmbruns/pyopenxr",
-      "issueTitle": "xr.exception.GraphicsDeviceInvalidError",
-      "url": "https://github.com/cmbruns/pyopenxr/issues/120",
-      "createdAt": "2025-07-29T21:42:17.411Z",
+      "id": 1753825399276,
+      "repository": "ioBroker/ioBroker.javascript",
+      "issueTitle": "[Bug]: Type declaratons are broken with 9.x",
+      "url": "https://github.com/ioBroker/ioBroker.javascript/issues/1892",
+      "createdAt": "2025-07-29T21:43:19.276Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
