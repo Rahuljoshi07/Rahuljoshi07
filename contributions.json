@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753784180818,
+      "repository": "bucketeer-io/bucketeer",
+      "issueTitle": "fix: permission denied when account is organization owner",
+      "url": "https://github.com/bucketeer-io/bucketeer/issues/2034",
+      "createdAt": "2025-07-29T10:16:20.818Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
