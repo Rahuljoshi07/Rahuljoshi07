@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753828721528,
+      "repository": "mzivic7/endcord",
+      "issueTitle": "[PYI-124126:ERROR] Failed to execute script 'main' due to unhandled exception!",
+      "url": "https://github.com/mzivic7/endcord/issues/22",
+      "createdAt": "2025-07-29T22:38:41.528Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
