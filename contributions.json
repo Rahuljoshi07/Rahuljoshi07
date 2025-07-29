@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753779339652,
+      "repository": "FuelRats/fuelrats.com",
+      "issueTitle": "As a Rat I want an automatically generated error report which may be easily send to the tech rats.",
+      "url": "https://github.com/FuelRats/fuelrats.com/issues/350",
+      "createdAt": "2025-07-29T08:55:39.652Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
