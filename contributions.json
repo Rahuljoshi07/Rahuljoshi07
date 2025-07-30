@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753880745791,
+      "repository": "samarsajad/Hospital_Management_Website",
+      "issueTitle": "Hi @samarsajad,  I noticed that the issue assigned to me was marked as Level 3, but the merged PR has a Level 2 tag. Could you please clarify if this was intentional or if I should request a tag update? Just asking so I can track my points correctly for GSSoC",
+      "url": "https://github.com/samarsajad/Hospital_Management_Website/issues/93",
+      "createdAt": "2025-07-30T13:05:45.792Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
