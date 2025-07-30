@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753886853687,
+      "repository": "elrebelde21/LoliBot-MD",
+      "issueTitle": "Error en la instalación",
+      "url": "https://github.com/elrebelde21/LoliBot-MD/issues/22",
+      "createdAt": "2025-07-30T14:47:33.687Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
