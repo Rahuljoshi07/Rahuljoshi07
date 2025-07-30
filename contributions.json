@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753891945778,
+      "repository": "WhiteSevs/TamperMonkeyScript",
+      "issueTitle": "[Bug] 抖音优化现在还是不能自动跳过节能",
+      "url": "https://github.com/WhiteSevs/TamperMonkeyScript/issues/143",
+      "createdAt": "2025-07-30T16:12:25.778Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
