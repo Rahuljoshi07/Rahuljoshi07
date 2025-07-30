@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753890701955,
+      "repository": "kartoza/django-bims",
+      "issueTitle": "FADAtims taxa upload",
+      "url": "https://github.com/kartoza/django-bims/issues/4648",
+      "createdAt": "2025-07-30T15:51:41.955Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
