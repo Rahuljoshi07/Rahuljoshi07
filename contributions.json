@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753835920441,
+      "repository": "robertvoy/ComfyUI-Distributed",
+      "issueTitle": "Cross-platform path separator issue prevents Windows/Linux distributed processing when using subfolders",
+      "url": "https://github.com/robertvoy/ComfyUI-Distributed/issues/19",
+      "createdAt": "2025-07-30T00:38:40.441Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
