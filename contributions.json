@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753878027047,
+      "repository": "apel/apel",
+      "issueTitle": "PID file not cleaned up if summariser crashes out.",
+      "url": "https://github.com/apel/apel/issues/418",
+      "createdAt": "2025-07-30T12:20:27.047Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
