@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753897486316,
+      "repository": "salesforce/eslint-plugin-lwc",
+      "issueTitle": "BUG: context.getScope is not a function (with ESLint v9)",
+      "url": "https://github.com/salesforce/eslint-plugin-lwc/issues/202",
+      "createdAt": "2025-07-30T17:44:46.316Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
