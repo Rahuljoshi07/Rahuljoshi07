@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753864462525,
+      "repository": "bugsfreeweb/LiveTVCollector",
+      "issueTitle": "Special M3U Collection error",
+      "url": "https://github.com/bugsfreeweb/LiveTVCollector/issues/1",
+      "createdAt": "2025-07-30T08:34:22.525Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
