@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753847967414,
+      "repository": "foundryvtt-starfinder/foundryvtt-starfinder",
+      "issueTitle": "Key Ability Score selector has no effect",
+      "url": "https://github.com/foundryvtt-starfinder/foundryvtt-starfinder/issues/223",
+      "createdAt": "2025-07-30T03:59:27.414Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
