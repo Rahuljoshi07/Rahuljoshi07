@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753896274165,
+      "repository": "BottlecapDave/HomeAssistant-OctopusEnergy",
+      "issueTitle": "Elec current demand and total current and accumulative consumption are \"unavailable\"",
+      "url": "https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy/issues/1381",
+      "createdAt": "2025-07-30T17:24:34.165Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
