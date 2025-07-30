@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753855876200,
+      "repository": "loopbackio/strong-error-handler",
+      "issueTitle": "Support `expose` property of http-errors",
+      "url": "https://github.com/loopbackio/strong-error-handler/issues/78",
+      "createdAt": "2025-07-30T06:11:16.200Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
