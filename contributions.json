@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753875267429,
+      "repository": "gravity-ui/chartkit",
+      "issueTitle": "Refactor `SplitPane` component",
+      "url": "https://github.com/gravity-ui/chartkit/issues/540",
+      "createdAt": "2025-07-30T11:34:27.429Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
