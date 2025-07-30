@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753841090383,
+      "repository": "alibaba/TorchEasyRec",
+      "issueTitle": "embedding dimension change. ",
+      "url": "https://github.com/alibaba/TorchEasyRec/issues/84",
+      "createdAt": "2025-07-30T02:04:50.383Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
