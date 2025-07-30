@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753855641667,
+      "repository": "alibaba/ChatLearn",
+      "issueTitle": "[BUG]  Resource temporarily unavailable",
+      "url": "https://github.com/alibaba/ChatLearn/issues/262",
+      "createdAt": "2025-07-30T06:07:21.667Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
