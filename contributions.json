@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753858495127,
+      "repository": "shader-slang/slang-vscode-extension",
+      "issueTitle": "Fix logic error in `meta.bracket.square.access.slang`",
+      "url": "https://github.com/shader-slang/slang-vscode-extension/issues/32",
+      "createdAt": "2025-07-30T06:54:55.127Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
