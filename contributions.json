@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753888194116,
+      "repository": "DjangoCRM/django-crm",
+      "issueTitle": "massemail not sending",
+      "url": "https://github.com/DjangoCRM/django-crm/issues/226",
+      "createdAt": "2025-07-30T15:09:54.116Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
