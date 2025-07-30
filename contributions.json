@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753838228336,
+      "repository": "HuaweiCloudDeveloper/mcp-server",
+      "issueTitle": "An error in mcp-server/huaweicloud_services_server/mcp_server_vpn/src /mcp_server_vpn/",
+      "url": "https://github.com/HuaweiCloudDeveloper/mcp-server/issues/98",
+      "createdAt": "2025-07-30T01:17:08.336Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
