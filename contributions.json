@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753871941921,
+      "repository": "remarkablemark/html-dom-parser",
+      "issueTitle": "[client] cannot properly parse `<head>` when using CRLF",
+      "url": "https://github.com/remarkablemark/html-dom-parser/issues/1067",
+      "createdAt": "2025-07-30T10:39:01.921Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
