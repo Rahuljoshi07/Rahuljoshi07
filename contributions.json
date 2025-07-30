@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753901078351,
+      "repository": "probabl-ai/skore",
+      "issueTitle": "bug(skore): not possible to choose default backend in a nested context",
+      "url": "https://github.com/probabl-ai/skore/issues/1951",
+      "createdAt": "2025-07-30T18:44:38.351Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
