@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753893119978,
+      "repository": "WentUrc/astrbot_plugin_turnrig",
+      "issueTitle": "[BUG] NapCat无法正常进行合并消息转发",
+      "url": "https://github.com/WentUrc/astrbot_plugin_turnrig/issues/47",
+      "createdAt": "2025-07-30T16:31:59.979Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
