@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753857617313,
+      "repository": "ptarmiganlabs/butler-sos",
+      "issueTitle": "QIX performance metrics doesn't work without QS engine log level config set to debug",
+      "url": "https://github.com/ptarmiganlabs/butler-sos/issues/944",
+      "createdAt": "2025-07-30T06:40:17.313Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
