@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753881478982,
+      "repository": "LUMII-Syslab/viziquer",
+      "issueTitle": "Wikidata Q12 is buggy",
+      "url": "https://github.com/LUMII-Syslab/viziquer/issues/11",
+      "createdAt": "2025-07-30T13:17:58.982Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
