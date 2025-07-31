@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753990108049,
+      "repository": "rollbar/rollbar.js",
+      "issueTitle": "Consider a max execution time parameter for all object traversal functions",
+      "url": "https://github.com/rollbar/rollbar.js/issues/991",
+      "createdAt": "2025-07-31T19:28:28.049Z",
+      "type": "comment",
+      "content": "Adding TypeScript could prevent type-related bugs and improve maintainability. This suggestion is pa..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
