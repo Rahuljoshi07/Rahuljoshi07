@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753937748759,
+      "repository": "TATP-233/DISCOVERSE",
+      "issueTitle": "docker error: docker load -i discoverse_v1.6.1.tar.gz",
+      "url": "https://github.com/TATP-233/DISCOVERSE/issues/60",
+      "createdAt": "2025-07-31T04:55:48.759Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
