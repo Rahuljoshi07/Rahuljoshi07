@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753967680662,
+      "repository": "BragginRites/bg3-inspired-hotbar",
+      "issueTitle": "Deselecting a token results in the error in console",
+      "url": "https://github.com/BragginRites/bg3-inspired-hotbar/issues/231",
+      "createdAt": "2025-07-31T13:14:40.662Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
