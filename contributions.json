@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753932815795,
+      "repository": "ramakay/claude-self-reflect",
+      "issueTitle": "⚙️  Setting up Continuous Import (Watcher)... ⚠️  Docker compose not found    The watcher requires Docker t",
+      "url": "https://github.com/ramakay/claude-self-reflect/issues/13",
+      "createdAt": "2025-07-31T03:33:35.795Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
