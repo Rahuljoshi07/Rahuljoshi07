@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753989579895,
+      "repository": "TIGER-AI-Lab/VLM2Vec",
+      "issueTitle": "Error loading the VisRAG training set",
+      "url": "https://github.com/TIGER-AI-Lab/VLM2Vec/issues/132",
+      "createdAt": "2025-07-31T19:19:39.895Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
