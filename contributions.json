@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1753977287707,
-      "repository": "secureCodeBox/secureCodeBox",
-      "issueTitle": "Parser occasionally fails with \"The specified key does not exist\" due to early startup",
-      "url": "https://github.com/secureCodeBox/secureCodeBox/issues/3139",
-      "createdAt": "2025-07-31T15:54:47.707Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
