@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1753979104920,
-      "repository": "silverwind/versions",
-      "issueTitle": "Exclude reverted commits in changelog",
-      "url": "https://github.com/silverwind/versions/issues/32",
-      "createdAt": "2025-07-31T16:25:04.920Z",
+      "id": 1753979160155,
+      "repository": "CycloneDX/cdxgen",
+      "issueTitle": "Generated purl for OCI images includes namespace, which is not allowed by purl spec",
+      "url": "https://github.com/CycloneDX/cdxgen/issues/1797",
+      "createdAt": "2025-07-31T16:26:00.155Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
