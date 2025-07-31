@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753980788087,
+      "repository": "earth-system-radiation/pyRTE-RRTMGP",
+      "issueTitle": "Run line_profiler to understand line-by-line relative performance of Python code",
+      "url": "https://github.com/earth-system-radiation/pyRTE-RRTMGP/issues/195",
+      "createdAt": "2025-07-31T16:53:08.087Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
