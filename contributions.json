@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753961942527,
+      "repository": "idurar/mern-admin",
+      "issueTitle": "[Bug]:Navigation reloads with content loader causing usability issues",
+      "url": "https://github.com/idurar/mern-admin/issues/23",
+      "createdAt": "2025-07-31T11:39:02.527Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
