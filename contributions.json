@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753942734279,
+      "repository": "flipcomputing/flock",
+      "issueTitle": "Changing colour of an object resets also live resets its position",
+      "url": "https://github.com/flipcomputing/flock/issues/72",
+      "createdAt": "2025-07-31T06:18:54.279Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
