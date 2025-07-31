@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753925730623,
+      "repository": "kruskal-labs/toolfront",
+      "issueTitle": "Improve error handling for `ask()`",
+      "url": "https://github.com/kruskal-labs/toolfront/issues/32",
+      "createdAt": "2025-07-31T01:35:30.623Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
