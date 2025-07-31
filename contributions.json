@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1753951235095,
+      "id": 1753951299720,
       "repository": "camunda/element-templates-json-schema",
       "issueTitle": "Hidden property without `value` is allowed in the schema",
       "url": "https://github.com/camunda/element-templates-json-schema/issues/181",
-      "createdAt": "2025-07-31T08:40:35.095Z",
+      "createdAt": "2025-07-31T08:41:39.720Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
