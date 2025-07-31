@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753938583837,
+      "repository": "openml-stack/SentiLog-AI",
+      "issueTitle": "Bug Report: Poor Visibility of Input Fields in Dark Mode on Signup Page",
+      "url": "https://github.com/openml-stack/SentiLog-AI/issues/125",
+      "createdAt": "2025-07-31T05:09:43.837Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
