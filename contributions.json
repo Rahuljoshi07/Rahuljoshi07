@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753932635862,
+      "repository": "infokiller/web-search-navigator",
+      "issueTitle": "[Bug]: Could you update extension to work with latest Chrome?",
+      "url": "https://github.com/infokiller/web-search-navigator/issues/664",
+      "createdAt": "2025-07-31T03:30:35.862Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
