@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753975623457,
+      "repository": "OpenCTI-Platform/connectors",
+      "issueTitle": "[microsoft-sentinel-incidents]: Duplicate alerts ingested when parent incident is updated in Azure Sentinel",
+      "url": "https://github.com/OpenCTI-Platform/connectors/issues/4335",
+      "createdAt": "2025-07-31T15:27:03.457Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
