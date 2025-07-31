@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753952463791,
+      "repository": "kube-HPC/hkube",
+      "issueTitle": "Jobs screen stuck on loading after scrolling - UI",
+      "url": "https://github.com/kube-HPC/hkube/issues/2191",
+      "createdAt": "2025-07-31T09:01:03.791Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
