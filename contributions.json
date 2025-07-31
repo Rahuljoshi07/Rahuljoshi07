@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753950835975,
+      "repository": "redhat-performance/benchmark-runner",
+      "issueTitle": "Bug report form contains unnecessary information",
+      "url": "https://github.com/redhat-performance/benchmark-runner/issues/1058",
+      "createdAt": "2025-07-31T08:33:55.975Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
