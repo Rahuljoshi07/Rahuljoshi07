@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1753931643790,
-      "repository": "cfinke/Typo.js",
-      "issueTitle": "typo.js:440 Uncaught (in promise) ReferenceError: textCode is not defined",
-      "url": "https://github.com/cfinke/Typo.js/issues/92",
-      "createdAt": "2025-07-31T03:14:03.790Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
