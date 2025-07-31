@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753992560452,
+      "repository": "microsoft/json-schemas",
+      "issueTitle": "Power BI Bug in PBIP format",
+      "url": "https://github.com/microsoft/json-schemas/issues/386",
+      "createdAt": "2025-07-31T20:09:20.452Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
