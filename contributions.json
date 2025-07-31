@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753971081184,
+      "repository": "useshortcut/api-cookbook",
+      "issueTitle": "[Bug]: Import fails with long titles",
+      "url": "https://github.com/useshortcut/api-cookbook/issues/97",
+      "createdAt": "2025-07-31T14:11:21.185Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
