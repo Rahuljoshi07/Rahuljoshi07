@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753988140443,
+      "repository": "TF-Chan-Lab/panGraphViewer",
+      "issueTitle": "gfa2rGFA.py caused KeyError: '1779060'",
+      "url": "https://github.com/TF-Chan-Lab/panGraphViewer/issues/11",
+      "createdAt": "2025-07-31T18:55:40.443Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
