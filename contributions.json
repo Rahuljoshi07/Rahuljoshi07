@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753966442127,
+      "repository": "follow-redirects/follow-redirects",
+      "issueTitle": "axios auth does not seem to be propagated on redirect in 1.15.4+",
+      "url": "https://github.com/follow-redirects/follow-redirects/issues/243",
+      "createdAt": "2025-07-31T12:54:02.127Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
