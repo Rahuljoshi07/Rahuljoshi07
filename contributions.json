@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753960512376,
+      "repository": "PLAYG0N/mkdocs-panzoom",
+      "issueTitle": "Slow builds with mkdocs-panzoom",
+      "url": "https://github.com/PLAYG0N/mkdocs-panzoom/issues/30",
+      "createdAt": "2025-07-31T11:15:12.376Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
