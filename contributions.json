@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753933848766,
+      "repository": "libyal/dtformats",
+      "issueTitle": "Chrome Cache File Documentation Error",
+      "url": "https://github.com/libyal/dtformats/issues/35",
+      "createdAt": "2025-07-31T03:50:48.766Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
