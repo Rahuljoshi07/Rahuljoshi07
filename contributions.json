@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753980357357,
+      "repository": "awslabs/graphrag-toolkit",
+      "issueTitle": "Build Phase Fails with OpenSearch circuit_breaking_exception and BulkIndexError",
+      "url": "https://github.com/awslabs/graphrag-toolkit/issues/60",
+      "createdAt": "2025-07-31T16:45:57.357Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
