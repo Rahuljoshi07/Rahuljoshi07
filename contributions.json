@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753982483172,
+      "repository": "DataDog/dd-trace-js",
+      "issueTitle": "[FEATURE]: Start a new span with no parent",
+      "url": "https://github.com/DataDog/dd-trace-js/issues/6077",
+      "createdAt": "2025-07-31T17:21:23.172Z",
+      "type": "comment",
+      "content": "Using a bundler like Webpack or Vite could improve performance. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
