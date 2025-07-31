@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753958700606,
+      "repository": "greenbone/gsa",
+      "issueTitle": "Chart: Next Scheduled Tasks - not working",
+      "url": "https://github.com/greenbone/gsa/issues/4543",
+      "createdAt": "2025-07-31T10:45:00.607Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
