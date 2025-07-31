@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753953960387,
+      "repository": "2Abendsegler/GClh",
+      "issueTitle": "[Search Map] The GClh features are no longer available (Tech migration)",
+      "url": "https://github.com/2Abendsegler/GClh/issues/2708",
+      "createdAt": "2025-07-31T09:26:00.387Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
