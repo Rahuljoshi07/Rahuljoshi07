@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753927549529,
+      "repository": "andrewmcgr/klipper_tmc_autotune",
+      "issueTitle": "toff cant set to 0",
+      "url": "https://github.com/andrewmcgr/klipper_tmc_autotune/issues/32",
+      "createdAt": "2025-07-31T02:05:49.529Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
