@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753959665312,
+      "repository": "Plant-Root-Soil-Interactions-Modelling/CPlantBox",
+      "issueTitle": "[PlantVisualiser]: Segmentation fault for visualisation of high-time-res",
+      "url": "https://github.com/Plant-Root-Soil-Interactions-Modelling/CPlantBox/issues/105",
+      "createdAt": "2025-07-31T11:01:05.312Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
