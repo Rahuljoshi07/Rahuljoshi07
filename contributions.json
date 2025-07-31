@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753952700880,
+      "repository": "ByteDance-Seed/Seed-X-7B",
+      "issueTitle": "vllm error requires chat template",
+      "url": "https://github.com/ByteDance-Seed/Seed-X-7B/issues/7",
+      "createdAt": "2025-07-31T09:05:00.880Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
