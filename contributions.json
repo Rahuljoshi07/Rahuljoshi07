@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753970138821,
+      "repository": "MarioVilas/winappdbg",
+      "issueTitle": "Thread.get_linear_address doesn't take into account the segment's granularity",
+      "url": "https://github.com/MarioVilas/winappdbg/issues/57",
+      "createdAt": "2025-07-31T13:55:38.821Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
