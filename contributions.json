@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753965297320,
+      "repository": "elliottech/lighter-python",
+      "issueTitle": "Bug: ValidationError in Trade model - taker_initial_margin_fraction_before field doesn't allow None values",
+      "url": "https://github.com/elliottech/lighter-python/issues/15",
+      "createdAt": "2025-07-31T12:34:57.320Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
