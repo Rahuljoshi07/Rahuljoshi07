@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753935940835,
+      "repository": "azuline/rose",
+      "issueTitle": "releases.source_path conflict when release is to-be-renamed to an existing release name",
+      "url": "https://github.com/azuline/rose/issues/151",
+      "createdAt": "2025-07-31T04:25:40.836Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
