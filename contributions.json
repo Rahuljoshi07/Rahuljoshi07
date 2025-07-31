@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753974208141,
+      "repository": "avniproject/avni-webapp",
+      "issueTitle": "Not showing error when editing encounter not part of user's catchment",
+      "url": "https://github.com/avniproject/avni-webapp/issues/1540",
+      "createdAt": "2025-07-31T15:03:28.141Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
