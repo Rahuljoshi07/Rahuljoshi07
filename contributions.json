@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1753968446813,
+      "repository": "divi-24/SheSync",
+      "issueTitle": "[BUG] Product Filters Located Below Items",
+      "url": "https://github.com/divi-24/SheSync/issues/341",
+      "createdAt": "2025-07-31T13:27:26.813Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
