@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754028640997,
+      "repository": "sailaja-adapa/Vipreshana",
+      "issueTitle": "[Bug]: Icon and website name misalignment",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/issues/254",
+      "createdAt": "2025-08-01T06:10:40.997Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
