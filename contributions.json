@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754064758962,
+      "repository": "slack-samples/bolt-js-starter-template",
+      "issueTitle": "Error: Unable to find a manifest file in this project",
+      "url": "https://github.com/slack-samples/bolt-js-starter-template/issues/54",
+      "createdAt": "2025-08-01T16:12:38.962Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
