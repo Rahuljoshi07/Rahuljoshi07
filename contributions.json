@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754016970784,
+      "repository": "klein0r/ioBroker.comfoairq",
+      "issueTitle": "temperatureOutdoor is always reseting to 0",
+      "url": "https://github.com/klein0r/ioBroker.comfoairq/issues/256",
+      "createdAt": "2025-08-01T02:56:10.785Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
