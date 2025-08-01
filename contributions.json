@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754019678312,
+      "repository": "FullStackWithLawrence/aws-openai",
+      "issueTitle": "🐛  No Instructions for CloudWatch and ARN configuration during terraform apply",
+      "url": "https://github.com/FullStackWithLawrence/aws-openai/issues/175",
+      "createdAt": "2025-08-01T03:41:18.312Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
