@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754018563502,
+      "repository": "oqtopus-team/oqtopus-cloud",
+      "issueTitle": "[Bug]: Inappropriate verification when username and email did not match",
+      "url": "https://github.com/oqtopus-team/oqtopus-cloud/issues/289",
+      "createdAt": "2025-08-01T03:22:43.503Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
