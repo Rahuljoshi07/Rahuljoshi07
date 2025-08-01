@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754020750197,
+      "repository": "FullStackWithLawrence/aws-openai",
+      "issueTitle": "🐛  No Instructions for CloudWatch and ARN configuration during terraform apply",
+      "url": "https://github.com/FullStackWithLawrence/aws-openai/issues/175",
+      "createdAt": "2025-08-01T03:59:10.197Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
