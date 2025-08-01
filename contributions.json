@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754034049779,
+      "repository": "Andrews54757/FastStream",
+      "issueTitle": "[BUG]",
+      "url": "https://github.com/Andrews54757/FastStream/issues/375",
+      "createdAt": "2025-08-01T07:40:49.779Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
