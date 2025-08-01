@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754051837040,
+      "repository": "HarshS16/Civix",
+      "issueTitle": "[Bug]:Wrong toast alert while logging in",
+      "url": "https://github.com/HarshS16/Civix/issues/331",
+      "createdAt": "2025-08-01T12:37:17.040Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
