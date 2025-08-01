@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754084989380,
+      "repository": "griptape-ai/griptape-nodes",
+      "issueTitle": "Update error toasts so that they don’t include “altered_workflow_state=false, exception=Null” and other confusing stuff.",
+      "url": "https://github.com/griptape-ai/griptape-nodes/issues/1800",
+      "createdAt": "2025-08-01T21:49:49.380Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
