@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754052092644,
+      "repository": "gelbphoenix/autocaliweb",
+      "issueTitle": "[FEATURE] Consider not to chown /calibre-library/ during init",
+      "url": "https://github.com/gelbphoenix/autocaliweb/issues/53",
+      "createdAt": "2025-08-01T12:41:32.644Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. (Suggested by Rahul Joshi..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
