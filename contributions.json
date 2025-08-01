@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1754008049491,
-      "repository": "nextcloud/contacts",
-      "issueTitle": "file_exists(): open_basedir restriction in effect. File(/files) is not within the allowed path(s)",
-      "url": "https://github.com/nextcloud/contacts/issues/3019",
-      "createdAt": "2025-08-01T00:27:29.492Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
