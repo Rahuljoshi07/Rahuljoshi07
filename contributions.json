@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754062215924,
+      "repository": "atomeocean/job-compass",
+      "issueTitle": "[BUG] 修改招聘信息中侧边栏显示的美国银行名称",
+      "url": "https://github.com/atomeocean/job-compass/issues/290",
+      "createdAt": "2025-08-01T15:30:15.924Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
