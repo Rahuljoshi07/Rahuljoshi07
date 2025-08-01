@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754047695269,
+      "repository": "tfranzel/drf-spectacular-sidecar",
+      "issueTitle": "Add Scalar static files support",
+      "url": "https://github.com/tfranzel/drf-spectacular-sidecar/issues/13",
+      "createdAt": "2025-08-01T11:28:15.269Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
