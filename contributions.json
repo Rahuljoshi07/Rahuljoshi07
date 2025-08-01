@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754056590761,
+      "repository": "massalabs/massa-web3",
+      "issueTitle": "token balanceOf throw error",
+      "url": "https://github.com/massalabs/massa-web3/issues/756",
+      "createdAt": "2025-08-01T13:56:30.761Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
