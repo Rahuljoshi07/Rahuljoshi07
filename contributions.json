@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1754037664904,
+      "id": 1754037715008,
       "repository": "swissspidy/voice-search",
-      "issueTitle": "Compatibility with Ajax Search Lite plugin",
-      "url": "https://github.com/swissspidy/voice-search/issues/25",
-      "createdAt": "2025-08-01T08:41:04.904Z",
+      "issueTitle": "Don't search if permission has not been granted",
+      "url": "https://github.com/swissspidy/voice-search/issues/105",
+      "createdAt": "2025-08-01T08:41:55.008Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
