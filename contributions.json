@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754012512330,
+      "repository": "nextcloud/tasks",
+      "issueTitle": "Direct link to task does not scroll/jump down to where the task is in the list",
+      "url": "https://github.com/nextcloud/tasks/issues/2893",
+      "createdAt": "2025-08-01T01:41:52.330Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
