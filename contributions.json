@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1754014948367,
+      "id": 1754014997068,
       "repository": "LibreSign/libresign",
-      "issueTitle": "Documents not loadable with Secure View",
-      "url": "https://github.com/LibreSign/libresign/issues/5248",
-      "createdAt": "2025-08-01T02:22:28.367Z",
+      "issueTitle": "Signed document not viewable in Nextcloud",
+      "url": "https://github.com/LibreSign/libresign/issues/5249",
+      "createdAt": "2025-08-01T02:23:17.068Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
