@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1754034211658,
-      "repository": "aircrushin/promptMinder",
-      "issueTitle": "建议增加 docker-compose 版本",
-      "url": "https://github.com/aircrushin/promptMinder/issues/3",
-      "createdAt": "2025-08-01T07:43:31.658Z",
+      "id": 1754034266008,
+      "repository": "CCGE-BOADICEA/pedigreejs",
+      "issueTitle": "If `noparents` is `true`, still has to assign `father` and `mother` to avoid `reading x from undefined` error",
+      "url": "https://github.com/CCGE-BOADICEA/pedigreejs/issues/143",
+      "createdAt": "2025-08-01T07:44:26.008Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
