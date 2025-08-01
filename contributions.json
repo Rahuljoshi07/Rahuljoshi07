@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754019062263,
+      "repository": "fastify/aws-lambda-fastify",
+      "issueTitle": "AWS Lambda plans to remove support for callback-based function handlers",
+      "url": "https://github.com/fastify/aws-lambda-fastify/issues/268",
+      "createdAt": "2025-08-01T03:31:02.263Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
