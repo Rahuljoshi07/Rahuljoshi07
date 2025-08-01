@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754084377343,
+      "repository": "LLNL/thicket",
+      "issueTitle": "Get Thicket ready for breaking changes in Pandas 3.0",
+      "url": "https://github.com/LLNL/thicket/issues/221",
+      "createdAt": "2025-08-01T21:39:37.343Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. (Suggested by..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
