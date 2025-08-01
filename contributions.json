@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754035299477,
+      "repository": "sipeed/MaixPy",
+      "issueTitle": "当一个应用同时存在nn.Speech和audio.Recorder的时候会报错",
+      "url": "https://github.com/sipeed/MaixPy/issues/140",
+      "createdAt": "2025-08-01T08:01:39.477Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
