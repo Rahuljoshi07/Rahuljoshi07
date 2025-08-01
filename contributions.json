@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1754014362549,
+      "id": 1754014406054,
       "repository": "algertc/ALPR-Database",
-      "issueTitle": "Missing database schema elements prevent plate data storage in fresh installations",
-      "url": "https://github.com/algertc/ALPR-Database/issues/69",
-      "createdAt": "2025-08-01T02:12:42.549Z",
+      "issueTitle": "Bug: No validation if entering known plate twice",
+      "url": "https://github.com/algertc/ALPR-Database/issues/61",
+      "createdAt": "2025-08-01T02:13:26.054Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
     }
   ],
   "stats": {
