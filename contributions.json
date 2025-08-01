@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754011985603,
+      "repository": "nextcloud/richdocuments",
+      "issueTitle": "Document fails to load after successful WSS handshake (old version `Nextcloud Office 8.6.1` works perfectly)",
+      "url": "https://github.com/nextcloud/richdocuments/issues/4695",
+      "createdAt": "2025-08-01T01:33:05.604Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
