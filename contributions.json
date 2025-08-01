@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754086146459,
+      "repository": "Arize-ai/openinference",
+      "issueTitle": "[bug] Smolagents instrumentor is not instrumenting steps",
+      "url": "https://github.com/Arize-ai/openinference/issues/2000",
+      "createdAt": "2025-08-01T22:09:06.460Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
