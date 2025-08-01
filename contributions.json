@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754054851533,
+      "repository": "frida/frida-java-bridge",
+      "issueTitle": "[Armv7a Android11] Regression issue: `Java.perform` api fails due to instructions parsing error",
+      "url": "https://github.com/frida/frida-java-bridge/issues/364",
+      "createdAt": "2025-08-01T13:27:31.533Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
