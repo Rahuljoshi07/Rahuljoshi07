@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754085802042,
+      "repository": "langchain-ai/langsmith-sdk",
+      "issueTitle": "LangGraph Node Interrupt show the node with Status = \"ERROR\"",
+      "url": "https://github.com/langchain-ai/langsmith-sdk/issues/1127",
+      "createdAt": "2025-08-01T22:03:22.042Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
