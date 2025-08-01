@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754059774902,
+      "repository": "wondrify/asset-pipeline",
+      "issueTitle": "Documentation links lead to a site with the error \"This site can’t be reached\"",
+      "url": "https://github.com/wondrify/asset-pipeline/issues/345",
+      "createdAt": "2025-08-01T14:49:34.902Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
