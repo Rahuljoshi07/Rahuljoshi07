@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754045425366,
+      "repository": "Health-Informatics-UoN/carrot-mapper",
+      "issueTitle": "Fix workflow security",
+      "url": "https://github.com/Health-Informatics-UoN/carrot-mapper/issues/1169",
+      "createdAt": "2025-08-01T10:50:25.366Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
