@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754058069544,
+      "repository": "particle-iot/particle-cli",
+      "issueTitle": "Particle Container Registry auth issues",
+      "url": "https://github.com/particle-iot/particle-cli/issues/852",
+      "createdAt": "2025-08-01T14:21:09.544Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
