@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754077060565,
+      "repository": "griptape-ai/griptape-nodes",
+      "issueTitle": "ControlFlowResolvedEvent Occurs Before Node finishes processing with LocalWorkflowExecutor",
+      "url": "https://github.com/griptape-ai/griptape-nodes/issues/1802",
+      "createdAt": "2025-08-01T19:37:40.565Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
