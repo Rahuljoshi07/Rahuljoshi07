@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754021987977,
+      "repository": "jesterr0/NfoForge",
+      "issueTitle": "Potential bug where images of 3 uploaded returns images with an extra vertical space",
+      "url": "https://github.com/jesterr0/NfoForge/issues/167",
+      "createdAt": "2025-08-01T04:19:47.977Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
