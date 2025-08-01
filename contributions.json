@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754035691836,
+      "repository": "eslint/rewrite",
+      "issueTitle": "Change Request: `defineConfig` to freeze config",
+      "url": "https://github.com/eslint/rewrite/issues/245",
+      "createdAt": "2025-08-01T08:08:11.836Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
