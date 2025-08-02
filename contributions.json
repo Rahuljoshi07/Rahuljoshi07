@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1754173717143,
+      "id": 1754173750804,
       "repository": "rpy2/rpy2",
       "issueTitle": "rinterface.initr() fails with OSError [Errno 22] due to renv status header",
       "url": "https://github.com/rpy2/rpy2/issues/1195",
-      "createdAt": "2025-08-02T22:28:37.143Z",
+      "createdAt": "2025-08-02T22:29:10.804Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "Unicode encoding issues might be causing this problem. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
