@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754093385696,
+      "repository": "openwisp/openwisp-radius",
+      "issueTitle": "[bug/tests] Flawed tests due to timezone handling",
+      "url": "https://github.com/openwisp/openwisp-radius/issues/611",
+      "createdAt": "2025-08-02T00:09:45.697Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
