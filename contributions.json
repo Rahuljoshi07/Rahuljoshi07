@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754123629115,
+      "repository": "zstar1003/ragflow-plus",
+      "issueTitle": "[Question]: 启动很多次都是mysql无法启动.",
+      "url": "https://github.com/zstar1003/ragflow-plus/issues/206",
+      "createdAt": "2025-08-02T08:33:49.115Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
