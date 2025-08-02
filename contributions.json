@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754155411402,
+      "repository": "elliottech/lighter-python",
+      "issueTitle": "'int' object has no attribute 'decode' error in latest SDK versions",
+      "url": "https://github.com/elliottech/lighter-python/issues/19",
+      "createdAt": "2025-08-02T17:23:31.402Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
