@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754131499767,
+      "repository": "marketcalls/openalgo",
+      "issueTitle": "websocket issue Internal access .",
+      "url": "https://github.com/marketcalls/openalgo/issues/379",
+      "createdAt": "2025-08-02T10:44:59.767Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
