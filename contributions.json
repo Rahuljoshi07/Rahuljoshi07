@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754151807919,
+      "repository": "Sanjai-Shaarugesh/Advanced-Weather-Companion",
+      "issueTitle": "Manual Location Fix",
+      "url": "https://github.com/Sanjai-Shaarugesh/Advanced-Weather-Companion/issues/2",
+      "createdAt": "2025-08-02T16:23:27.919Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
