@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754130312246,
+      "repository": "SumitGorai01/TechieBlog",
+      "issueTitle": "Bug: Incorrect Date and Time Format in Upcoming Events",
+      "url": "https://github.com/SumitGorai01/TechieBlog/issues/520",
+      "createdAt": "2025-08-02T10:25:12.246Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
