@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754106378182,
+      "repository": "fossology/FOSSologyUI",
+      "issueTitle": "useEffect directly using async function causes issues",
+      "url": "https://github.com/fossology/FOSSologyUI/issues/307",
+      "createdAt": "2025-08-02T03:46:18.182Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
