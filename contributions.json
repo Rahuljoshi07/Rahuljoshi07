@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754098830104,
+      "repository": "nextcloud/talk-desktop",
+      "issueTitle": "Video file download/streaming is incomplete after first file, only works after restarting app (Windows Desktop)",
+      "url": "https://github.com/nextcloud/talk-desktop/issues/1401",
+      "createdAt": "2025-08-02T01:40:30.105Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
