@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754100751405,
+      "repository": "tenstorrent/tt-torch",
+      "issueTitle": "Bitwise left/right shift fails to compile using torch-xla",
+      "url": "https://github.com/tenstorrent/tt-torch/issues/1127",
+      "createdAt": "2025-08-02T02:12:31.405Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
