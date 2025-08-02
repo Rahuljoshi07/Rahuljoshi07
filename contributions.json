@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754169877614,
+      "repository": "steren/stereo-img",
+      "issueTitle": "not able to use two <stereo-img> elements on the same page and use VR",
+      "url": "https://github.com/steren/stereo-img/issues/3",
+      "createdAt": "2025-08-02T21:24:37.614Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
