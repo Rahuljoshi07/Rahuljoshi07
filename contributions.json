@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754094803879,
+      "repository": "streetrace-ai/streetrace",
+      "issueTitle": "Optimize startup performance for info commands (--help, --version)",
+      "url": "https://github.com/streetrace-ai/streetrace/issues/61",
+      "createdAt": "2025-08-02T00:33:23.879Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
