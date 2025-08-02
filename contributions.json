@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1754106747758,
+      "id": 1754106781832,
       "repository": "streamich/spyfs",
       "issueTitle": "fs.closeSync error",
       "url": "https://github.com/streamich/spyfs/issues/156",
-      "createdAt": "2025-08-02T03:52:27.758Z",
+      "createdAt": "2025-08-02T03:53:01.832Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
