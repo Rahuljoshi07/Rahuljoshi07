@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754159992199,
+      "repository": "linuxmint/cinnamon-spices-applets",
+      "issueTitle": "[Cinnamenu@json] (New) categories not sorted alphabetically",
+      "url": "https://github.com/linuxmint/cinnamon-spices-applets/issues/7463",
+      "createdAt": "2025-08-02T18:39:52.199Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
