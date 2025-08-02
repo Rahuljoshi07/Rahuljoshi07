@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754149285011,
+      "repository": "lapo-luchini/asn1js",
+      "issueTitle": "LDAP ExtendedResponse incorrectly labeled with LDAP message definition",
+      "url": "https://github.com/lapo-luchini/asn1js/issues/100",
+      "createdAt": "2025-08-02T15:41:25.011Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
