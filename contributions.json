@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754109052146,
+      "repository": "anup2702/build-on-coffee",
+      "issueTitle": "Dark Mode Toggle Not Functioning – UI Bug & Enhancement",
+      "url": "https://github.com/anup2702/build-on-coffee/issues/103",
+      "createdAt": "2025-08-02T04:30:52.146Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
