@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754178857122,
+      "repository": "a-rich/DJ-Tools",
+      "issueTitle": "Stability issues with requests to the search endpoint of the Spotify API",
+      "url": "https://github.com/a-rich/DJ-Tools/issues/58",
+      "createdAt": "2025-08-02T23:54:17.122Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
