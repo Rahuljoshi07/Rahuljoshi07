@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1754106378182,
-      "repository": "fossology/FOSSologyUI",
-      "issueTitle": "useEffect directly using async function causes issues",
-      "url": "https://github.com/fossology/FOSSologyUI/issues/307",
-      "createdAt": "2025-08-02T03:46:18.182Z",
+      "id": 1754106415613,
+      "repository": "libtcod/python-tcod",
+      "issueTitle": "Support for building `python-tcod` with Python 3.13 `--disable-gil` (no-GIL) build",
+      "url": "https://github.com/libtcod/python-tcod/issues/161",
+      "createdAt": "2025-08-02T03:46:55.613Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
