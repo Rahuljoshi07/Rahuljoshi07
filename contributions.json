@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754156465081,
+      "repository": "ioBroker/ioBroker.docs",
+      "issueTitle": "[Bug]: Links in translated pages point to original language",
+      "url": "https://github.com/ioBroker/ioBroker.docs/issues/521",
+      "createdAt": "2025-08-02T17:41:05.081Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
