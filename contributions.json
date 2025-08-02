@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754134542852,
+      "repository": "cdisc-org/cdisc-rules-engine",
+      "issueTitle": "Update USDM data service to improve performance of conversion of JSON data to tabular format",
+      "url": "https://github.com/cdisc-org/cdisc-rules-engine/issues/1233",
+      "createdAt": "2025-08-02T11:35:42.852Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
