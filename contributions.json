@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754248154816,
+      "repository": "creosB/AI-Side-Panel-Extension",
+      "issueTitle": "Settings and Split view being stripped off from extension UI in Brave Browser",
+      "url": "https://github.com/creosB/AI-Side-Panel-Extension/issues/6",
+      "createdAt": "2025-08-03T19:09:14.816Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
