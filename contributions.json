@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1754190551262,
+      "id": 1754190583467,
       "repository": "somiibo/facebook-bot",
       "issueTitle": "Error when run \"NPM Start\"",
       "url": "https://github.com/somiibo/facebook-bot/issues/3",
-      "createdAt": "2025-08-03T03:09:11.262Z",
+      "createdAt": "2025-08-03T03:09:43.468Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
