@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754260886074,
+      "repository": "francois-le-ko4la/lovelace-entity-progress-card",
+      "issueTitle": "[Bug]: icons not loading in the application",
+      "url": "https://github.com/francois-le-ko4la/lovelace-entity-progress-card/issues/86",
+      "createdAt": "2025-08-03T22:41:26.075Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
