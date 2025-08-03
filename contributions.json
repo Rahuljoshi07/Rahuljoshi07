@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1754210187748,
-      "repository": "nextcloud/text",
-      "issueTitle": "In tables right and middle alignment conflict with the buttons in the table head",
-      "url": "https://github.com/nextcloud/text/issues/3526",
-      "createdAt": "2025-08-03T08:36:27.749Z",
+      "id": 1754210233429,
+      "repository": "MartinThoma/algorithms",
+      "issueTitle": "Optimize flattening: Replace numpy.ndarray.flatten(block) with block.ravel() for better performance and readability",
+      "url": "https://github.com/MartinThoma/algorithms/issues/21",
+      "createdAt": "2025-08-03T08:37:13.429Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
