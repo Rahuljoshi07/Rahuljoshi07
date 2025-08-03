@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754219082872,
+      "repository": "lapo-luchini/asn1js",
+      "issueTitle": "Add support for PKCS12/PFX defenition",
+      "url": "https://github.com/lapo-luchini/asn1js/issues/91",
+      "createdAt": "2025-08-03T11:04:42.873Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
