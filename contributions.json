@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754207981039,
+      "repository": "cea-hpc/clustershell",
+      "issueTitle": "ClusterShell.Propagation.RouteResolvingError: No route available to pm4-nod01",
+      "url": "https://github.com/cea-hpc/clustershell/issues/566",
+      "createdAt": "2025-08-03T07:59:41.039Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
