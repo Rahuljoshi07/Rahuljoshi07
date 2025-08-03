@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754181998720,
+      "repository": "pnpm/pnpm.io",
+      "issueTitle": "Bug: clicking edit page goes to 404",
+      "url": "https://github.com/pnpm/pnpm.io/issues/649",
+      "createdAt": "2025-08-03T00:46:38.720Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
