@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754208805871,
+      "repository": "phoebe-project/phoebe2",
+      "issueTitle": "Experiencing multiple bugs with Phoebe 2.4.19, forced to downgrade.",
+      "url": "https://github.com/phoebe-project/phoebe2/issues/1050",
+      "createdAt": "2025-08-03T08:13:25.871Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
