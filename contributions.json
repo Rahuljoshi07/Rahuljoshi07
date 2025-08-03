@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1754261081016,
-      "repository": "keyteki/keyteki",
-      "issueTitle": "Governess Silvina bug",
-      "url": "https://github.com/keyteki/keyteki/issues/4571",
-      "createdAt": "2025-08-03T22:44:41.016Z",
+      "id": 1754261124327,
+      "repository": "tetra-framework/tetra",
+      "issueTitle": "DJango models are not correctly en/decoded for Javascript",
+      "url": "https://github.com/tetra-framework/tetra/issues/91",
+      "createdAt": "2025-08-03T22:45:24.327Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
     }
   ],
   "stats": {
