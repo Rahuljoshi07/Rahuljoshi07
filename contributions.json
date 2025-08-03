@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754219413451,
+      "repository": "flamingrickpat/private-machine",
+      "issueTitle": "How is the real-world performance?",
+      "url": "https://github.com/flamingrickpat/private-machine/issues/5",
+      "createdAt": "2025-08-03T11:10:13.451Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
