@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754253559993,
+      "repository": "Highl1te/HighliteDesktop",
+      "issueTitle": "Bug Report: Inventory Tooltips broken on trade screens",
+      "url": "https://github.com/Highl1te/HighliteDesktop/issues/139",
+      "createdAt": "2025-08-03T20:39:19.993Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
