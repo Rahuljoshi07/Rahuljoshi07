@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754251712729,
+      "repository": "shbatm/MMM-RTSPStream",
+      "issueTitle": "[Bug] Installation script TEST_STRING",
+      "url": "https://github.com/shbatm/MMM-RTSPStream/issues/104",
+      "createdAt": "2025-08-03T20:08:32.729Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
