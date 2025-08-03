@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754236035602,
+      "repository": "RaindragonD/FACTR_Teleop",
+      "issueTitle": "Sporadic communication error when running gravity comp demo",
+      "url": "https://github.com/RaindragonD/FACTR_Teleop/issues/3",
+      "createdAt": "2025-08-03T15:47:15.602Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
