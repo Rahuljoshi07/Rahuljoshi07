@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754246198297,
+      "repository": "anup2702/build-on-coffee",
+      "issueTitle": "Scroll Bug in all routes",
+      "url": "https://github.com/anup2702/build-on-coffee/issues/130",
+      "createdAt": "2025-08-03T18:36:38.297Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
