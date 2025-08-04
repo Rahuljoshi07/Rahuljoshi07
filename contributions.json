@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754292375039,
+      "repository": "LedgerHQ/ledger-live",
+      "issueTitle": "[Bug]: ESM code is broken",
+      "url": "https://github.com/LedgerHQ/ledger-live/issues/10460",
+      "createdAt": "2025-08-04T07:26:15.039Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
