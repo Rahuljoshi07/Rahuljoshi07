@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754278073698,
+      "repository": "Genshin-bots/gsuid_core",
+      "issueTitle": "使用了mysql数据库之后web控制台保存设置偶尔会出现接口报错：\"Internal Server Error\"",
+      "url": "https://github.com/Genshin-bots/gsuid_core/issues/138",
+      "createdAt": "2025-08-04T03:27:53.698Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
