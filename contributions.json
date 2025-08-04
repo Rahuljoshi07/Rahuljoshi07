@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754316707463,
+      "repository": "ourbigbook/ourbigbook",
+      "issueTitle": "Make CLI work on Windows development: napi-v3-win32-x64\\node_sqlite3.node is not a valid Win32 application",
+      "url": "https://github.com/ourbigbook/ourbigbook/issues/373",
+      "createdAt": "2025-08-04T14:11:47.463Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
