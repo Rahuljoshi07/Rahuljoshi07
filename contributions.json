@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754297726533,
+      "repository": "anekobtw/youtube-dl-bot",
+      "issueTitle": "add /stats command ",
+      "url": "https://github.com/anekobtw/youtube-dl-bot/issues/13",
+      "createdAt": "2025-08-04T08:55:26.533Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. (Suggested by Rahul Joshi..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
