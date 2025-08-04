@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754337836129,
+      "repository": "w3c/aria-at-app",
+      "issueTitle": "Closing test runner and returning to the test queue does not retain queue state",
+      "url": "https://github.com/w3c/aria-at-app/issues/1478",
+      "createdAt": "2025-08-04T20:03:56.129Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
