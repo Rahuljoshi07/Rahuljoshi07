@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754344631020,
+      "repository": "ARM-software/workload-automation",
+      "issueTitle": "finalize() not called in with some configs",
+      "url": "https://github.com/ARM-software/workload-automation/issues/1295",
+      "createdAt": "2025-08-04T21:57:11.020Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
