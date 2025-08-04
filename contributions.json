@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754344922609,
+      "repository": "codeforsanjose/heartofthevalley",
+      "issueTitle": "Rearchitecture",
+      "url": "https://github.com/codeforsanjose/heartofthevalley/issues/139",
+      "createdAt": "2025-08-04T22:02:02.610Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
