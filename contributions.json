@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754341001671,
+      "repository": "tenstorrent/tt-smi",
+      "issueTitle": "Error while installing latest tt-smi",
+      "url": "https://github.com/tenstorrent/tt-smi/issues/132",
+      "createdAt": "2025-08-04T20:56:41.671Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
