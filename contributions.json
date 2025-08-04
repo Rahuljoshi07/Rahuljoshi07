@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1754351378092,
-      "repository": "mdziekon/octoprint-spoolman",
-      "issueTitle": "[BUG] This plugin reports filament consumption several times",
-      "url": "https://github.com/mdziekon/octoprint-spoolman/issues/73",
-      "createdAt": "2025-08-04T23:49:38.092Z",
+      "id": 1754351409283,
+      "repository": "a16z/halmos",
+      "issueTitle": "Spurious CEx for both Halmos and hevm",
+      "url": "https://github.com/a16z/halmos/issues/562",
+      "createdAt": "2025-08-04T23:50:09.283Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
