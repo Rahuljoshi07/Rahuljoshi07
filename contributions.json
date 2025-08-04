@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754336260826,
+      "repository": "mikey0000/Mammotion-HA",
+      "issueTitle": "Integration error. Check the logs",
+      "url": "https://github.com/mikey0000/Mammotion-HA/issues/409",
+      "createdAt": "2025-08-04T19:37:40.826Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
