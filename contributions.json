@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1754351350229,
+      "id": 1754351378092,
       "repository": "mdziekon/octoprint-spoolman",
-      "issueTitle": "Spool usage not reporting/updating correctly with MMU3 enabled",
-      "url": "https://github.com/mdziekon/octoprint-spoolman/issues/67",
-      "createdAt": "2025-08-04T23:49:10.229Z",
+      "issueTitle": "[BUG] This plugin reports filament consumption several times",
+      "url": "https://github.com/mdziekon/octoprint-spoolman/issues/73",
+      "createdAt": "2025-08-04T23:49:38.092Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
