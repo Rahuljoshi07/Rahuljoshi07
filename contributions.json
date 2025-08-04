@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754311506296,
+      "repository": "open-telemetry/opentelemetry.io",
+      "issueTitle": "Github Markdown alerts are not rendered correctly",
+      "url": "https://github.com/open-telemetry/opentelemetry.io/issues/7464",
+      "createdAt": "2025-08-04T12:45:06.296Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
