@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754322756462,
+      "repository": "kelciour/movies2anki",
+      "issueTitle": "An error occurred while generating a mobile card! ",
+      "url": "https://github.com/kelciour/movies2anki/issues/43",
+      "createdAt": "2025-08-04T15:52:36.462Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
