@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754342106355,
+      "repository": "chimera-linux/cports",
+      "issueTitle": "[Bug] Monaspace font shipped nerd fonts by default",
+      "url": "https://github.com/chimera-linux/cports/issues/4608",
+      "createdAt": "2025-08-04T21:15:06.355Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
