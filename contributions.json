@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754295832858,
+      "repository": "databrickslabs/lakebridge",
+      "issueTitle": "[BUG]: Datastage transpile failing and output file is getting generated same as input",
+      "url": "https://github.com/databrickslabs/lakebridge/issues/1846",
+      "createdAt": "2025-08-04T08:23:52.858Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
