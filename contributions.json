@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1754344663433,
-      "repository": "typeddjango/djangorestframework-stubs",
-      "issueTitle": "ChoiceField's choices and Enum produces `arg-type` mypy error",
-      "url": "https://github.com/typeddjango/djangorestframework-stubs/issues/795",
-      "createdAt": "2025-08-04T21:57:43.433Z",
-      "type": "comment",
-      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
