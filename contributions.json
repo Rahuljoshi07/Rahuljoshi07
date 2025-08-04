@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754305551914,
+      "repository": "OmniSaleGmbH/lalalai",
+      "issueTitle": "[Bug] Python example does not match with API docs",
+      "url": "https://github.com/OmniSaleGmbH/lalalai/issues/2",
+      "createdAt": "2025-08-04T11:05:51.915Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
