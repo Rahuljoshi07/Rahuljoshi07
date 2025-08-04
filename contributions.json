@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1754344631020,
-      "repository": "ARM-software/workload-automation",
-      "issueTitle": "finalize() not called in with some configs",
-      "url": "https://github.com/ARM-software/workload-automation/issues/1295",
-      "createdAt": "2025-08-04T21:57:11.020Z",
+      "id": 1754344663433,
+      "repository": "typeddjango/djangorestframework-stubs",
+      "issueTitle": "ChoiceField's choices and Enum produces `arg-type` mypy error",
+      "url": "https://github.com/typeddjango/djangorestframework-stubs/issues/795",
+      "createdAt": "2025-08-04T21:57:43.433Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
     }
   ],
   "stats": {
