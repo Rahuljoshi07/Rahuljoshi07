@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754311709437,
+      "repository": "openfoodfacts/open-prices",
+      "issueTitle": "Prices: mobile contributions are marked as \"Other contributions\"",
+      "url": "https://github.com/openfoodfacts/open-prices/issues/880",
+      "createdAt": "2025-08-04T12:48:29.437Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
