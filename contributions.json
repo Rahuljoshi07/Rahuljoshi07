@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754308619169,
+      "repository": "JohanFalt/Foundry_WoD20",
+      "issueTitle": "Wraith Sheets won't open",
+      "url": "https://github.com/JohanFalt/Foundry_WoD20/issues/1214",
+      "createdAt": "2025-08-04T11:56:59.169Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
