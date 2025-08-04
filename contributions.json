@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754295489969,
+      "repository": "dualshock-tools/dualshock-tools.github.io",
+      "issueTitle": "More a question about stick range rather than an issue",
+      "url": "https://github.com/dualshock-tools/dualshock-tools.github.io/issues/88",
+      "createdAt": "2025-08-04T08:18:09.969Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
