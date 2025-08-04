@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754274398447,
+      "repository": "riolubruh/YABDP4Nitro",
+      "issueTitle": "[Bug Report] YABDP4 Crashing on MacOS.",
+      "url": "https://github.com/riolubruh/YABDP4Nitro/issues/290",
+      "createdAt": "2025-08-04T02:26:38.447Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
