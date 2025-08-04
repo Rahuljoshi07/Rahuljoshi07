@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754303626695,
+      "repository": "rustfoundation/safety-critical-rust-coding-guidelines",
+      "issueTitle": "Setup GitHub App to be able to trigger `on: push` and `on: pull_request` workflows for auto-pr",
+      "url": "https://github.com/rustfoundation/safety-critical-rust-coding-guidelines/issues/164",
+      "createdAt": "2025-08-04T10:33:46.695Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
