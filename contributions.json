@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754350290384,
+      "repository": "keyboardio/Chrysalis",
+      "issueTitle": " Chrysalis -- Shift 'secondary action' modifier doesn't work",
+      "url": "https://github.com/keyboardio/Chrysalis/issues/1290",
+      "createdAt": "2025-08-04T23:31:30.384Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
