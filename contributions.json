@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754291313283,
+      "repository": "TencentBlueKing/bk-lite",
+      "issueTitle": "监控策略-监控对象切换 Tab 页面后选中状态消失",
+      "url": "https://github.com/TencentBlueKing/bk-lite/issues/625",
+      "createdAt": "2025-08-04T07:08:33.283Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
