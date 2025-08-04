@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754306285657,
+      "repository": "Materials-Consortia/optimade-python-tools",
+      "issueTitle": "Client does not use configured HTTP session for scraping provider list",
+      "url": "https://github.com/Materials-Consortia/optimade-python-tools/issues/2275",
+      "createdAt": "2025-08-04T11:18:05.657Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
