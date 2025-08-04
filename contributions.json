@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754310714947,
+      "repository": "Ge0rg3/flask-parameter-validation",
+      "issueTitle": "Question: How to validate the min and max value of a float",
+      "url": "https://github.com/Ge0rg3/flask-parameter-validation/issues/58",
+      "createdAt": "2025-08-04T12:31:54.947Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
