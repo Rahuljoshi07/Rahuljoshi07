@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754401220178,
+      "repository": "immortalwrt/luci",
+      "issueTitle": "Cannot read properties of null (reading 'wifi')",
+      "url": "https://github.com/immortalwrt/luci/issues/520",
+      "createdAt": "2025-08-05T13:40:20.178Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
