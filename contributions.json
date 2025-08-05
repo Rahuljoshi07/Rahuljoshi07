@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754359998693,
+      "repository": "solsticegamestudios/GModCEFCodecFix",
+      "issueTitle": "Terrible performance with `gmodpatchtool`",
+      "url": "https://github.com/solsticegamestudios/GModCEFCodecFix/issues/188",
+      "createdAt": "2025-08-05T02:13:18.693Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
