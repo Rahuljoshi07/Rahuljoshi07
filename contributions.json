@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754399253376,
+      "repository": "structurizr/ui",
+      "issueTitle": "Perspective view not applied when all relationships animation are finished in a DynamicView",
+      "url": "https://github.com/structurizr/ui/issues/107",
+      "createdAt": "2025-08-05T13:07:33.376Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
