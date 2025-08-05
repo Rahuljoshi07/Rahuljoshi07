@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754363944137,
+      "repository": "asyncjs/async-website",
+      "issueTitle": "Pre block styling fix",
+      "url": "https://github.com/asyncjs/async-website/issues/216",
+      "createdAt": "2025-08-05T03:19:04.137Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
