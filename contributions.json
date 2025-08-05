@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754433433565,
+      "repository": "castorini/rank_llm",
+      "issueTitle": "optional sglang and tensorrt-llm installations do not work",
+      "url": "https://github.com/castorini/rank_llm/issues/290",
+      "createdAt": "2025-08-05T22:37:13.565Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
