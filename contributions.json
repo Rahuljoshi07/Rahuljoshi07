@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754400005978,
+      "repository": "zachleat/zachleat.com",
+      "issueTitle": "Import old dev.opera article",
+      "url": "https://github.com/zachleat/zachleat.com/issues/57",
+      "createdAt": "2025-08-05T13:20:05.978Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
