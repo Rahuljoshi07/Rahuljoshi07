@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754400152414,
+      "repository": "AFM-SPM/TopoStats",
+      "issueTitle": "[Bug]: installing topostats with python 3.10 installs deprecated matplotlib code",
+      "url": "https://github.com/AFM-SPM/TopoStats/issues/1189",
+      "createdAt": "2025-08-05T13:22:32.414Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
