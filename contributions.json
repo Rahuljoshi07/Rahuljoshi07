@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754358862642,
+      "repository": "MCPJam/inspector",
+      "issueTitle": "Issue and feedback (Windows debugging on start up)",
+      "url": "https://github.com/MCPJam/inspector/issues/308",
+      "createdAt": "2025-08-05T01:54:22.642Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
