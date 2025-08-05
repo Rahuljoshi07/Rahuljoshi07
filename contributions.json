@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754401814211,
+      "repository": "bigcommerce/stencil-cli",
+      "issueTitle": "download stencil-cli error",
+      "url": "https://github.com/bigcommerce/stencil-cli/issues/1273",
+      "createdAt": "2025-08-05T13:50:14.212Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
