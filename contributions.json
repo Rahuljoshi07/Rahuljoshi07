@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754435553697,
+      "repository": "salesforce/lwc-test",
+      "issueTitle": "css `@import` not resolving with jest",
+      "url": "https://github.com/salesforce/lwc-test/issues/266",
+      "createdAt": "2025-08-05T23:12:33.697Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
