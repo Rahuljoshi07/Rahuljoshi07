@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754401505470,
+      "repository": "gbrammer/msaexp",
+      "issueTitle": "Issue with downloading data from DAWN Archive",
+      "url": "https://github.com/gbrammer/msaexp/issues/85",
+      "createdAt": "2025-08-05T13:45:05.470Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
