@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754433685354,
+      "repository": "langchain-ai/langsmith-docs",
+      "issueTitle": "DOC: <Issue related to /administration/how_to_guides/organization_management/create_account_api_key>",
+      "url": "https://github.com/langchain-ai/langsmith-docs/issues/919",
+      "createdAt": "2025-08-05T22:41:25.354Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
