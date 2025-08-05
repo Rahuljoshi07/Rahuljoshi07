@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754416786881,
+      "repository": "gmlarumbe/tree-sitter-systemverilog",
+      "issueTitle": "Parsing error when using reserved keywords in `text_macro_usage`",
+      "url": "https://github.com/gmlarumbe/tree-sitter-systemverilog/issues/45",
+      "createdAt": "2025-08-05T17:59:46.881Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
