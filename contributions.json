@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754421848264,
+      "repository": "glomatico/votify",
+      "issueTitle": "KeyError: 'AccessToken' and Error Code 400 Unauthorized Request \"Usage of this endpoint is not permitted under the Spotify Developer Terms and Developer Policy, and applicable law\"",
+      "url": "https://github.com/glomatico/votify/issues/63",
+      "createdAt": "2025-08-05T19:24:08.264Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
