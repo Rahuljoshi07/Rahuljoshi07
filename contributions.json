@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754414905104,
+      "repository": "twreporter/twreporter-react",
+      "issueTitle": "macos node19 yarn install error",
+      "url": "https://github.com/twreporter/twreporter-react/issues/2444",
+      "createdAt": "2025-08-05T17:28:25.104Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
