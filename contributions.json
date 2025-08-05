@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754411215023,
+      "repository": "FdelMazo/FIUBA-Plan",
+      "issueTitle": "Bug al cargar horarios 2025C1",
+      "url": "https://github.com/FdelMazo/FIUBA-Plan/issues/113",
+      "createdAt": "2025-08-05T16:26:55.023Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
