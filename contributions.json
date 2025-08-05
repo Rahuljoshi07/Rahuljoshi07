@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754385017520,
+      "repository": "bbc/bug",
+      "issueTitle": "Improve UI experience when BUG module updates are available",
+      "url": "https://github.com/bbc/bug/issues/179",
+      "createdAt": "2025-08-05T09:10:17.520Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
