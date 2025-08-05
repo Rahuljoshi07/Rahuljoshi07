@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754408501741,
+      "repository": "HugoGresse/open-feedback",
+      "issueTitle": "Broken link in README.md",
+      "url": "https://github.com/HugoGresse/open-feedback/issues/1652",
+      "createdAt": "2025-08-05T15:41:41.741Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
