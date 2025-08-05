@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754377023144,
+      "repository": "he0119/nonebot-plugin-wordcloud",
+      "issueTitle": "Bug: 词云插件仍会尝试往bot已经不在了的群推送消息",
+      "url": "https://github.com/he0119/nonebot-plugin-wordcloud/issues/349",
+      "createdAt": "2025-08-05T06:57:03.144Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
