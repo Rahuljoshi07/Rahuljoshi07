@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754393266873,
+      "repository": "CycloneDX/cyclonedx-node-npm",
+      "issueTitle": "[BUG] missing properties for \"private\", \"development\" and \"bundled\" dependnecies",
+      "url": "https://github.com/CycloneDX/cyclonedx-node-npm/issues/1330",
+      "createdAt": "2025-08-05T11:27:46.873Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
