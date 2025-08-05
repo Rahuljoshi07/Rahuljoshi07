@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754353418514,
+      "repository": "pallets-eco/flask-security",
+      "issueTitle": "Replace `bleach` with `nh3`",
+      "url": "https://github.com/pallets-eco/flask-security/issues/1103",
+      "createdAt": "2025-08-05T00:23:38.514Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
