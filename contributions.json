@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754493143624,
+      "repository": "hiero-ledger/hiero-sdk-js",
+      "issueTitle": "Make `Client` fetch the newest address book when initialized",
+      "url": "https://github.com/hiero-ledger/hiero-sdk-js/issues/3239",
+      "createdAt": "2025-08-06T15:12:23.624Z",
+      "type": "comment",
+      "content": "Adding TypeScript could prevent type-related bugs and improve maintainability. (Suggested by Rahul J..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
