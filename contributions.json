@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754516581064,
+      "repository": "openwisp/openwisp-wifi-login-pages",
+      "issueTitle": "[bug] Sync auth: querystring params not relayed",
+      "url": "https://github.com/openwisp/openwisp-wifi-login-pages/issues/904",
+      "createdAt": "2025-08-06T21:43:01.064Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
