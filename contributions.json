@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754452778911,
+      "repository": "xieyumc/YuYuWechat",
+      "issueTitle": "[BUG] 后端出现500问题，发送命令时候，时不时出现",
+      "url": "https://github.com/xieyumc/YuYuWechat/issues/39",
+      "createdAt": "2025-08-06T03:59:38.911Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
