@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754477060140,
+      "repository": "SumitGorai01/TechieBlog",
+      "issueTitle": "UI Issue: Community Stats Section Overflows on Medium Screens (768px)",
+      "url": "https://github.com/SumitGorai01/TechieBlog/issues/577",
+      "createdAt": "2025-08-06T10:44:20.140Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
