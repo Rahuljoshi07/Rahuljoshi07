@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754449299251,
+      "repository": "nextcloud/appstore",
+      "issueTitle": "[Bug]: Very slow access to apps.nextcloud.com/api/v1/apps.json for checking app updates",
+      "url": "https://github.com/nextcloud/appstore/issues/1584",
+      "createdAt": "2025-08-06T03:01:39.251Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
