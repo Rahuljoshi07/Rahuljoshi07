@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754443271529,
+      "repository": "dokieli/dokieli",
+      "issueTitle": "Associate accessibility issue from the accessibility report with EARL test results",
+      "url": "https://github.com/dokieli/dokieli/issues/468",
+      "createdAt": "2025-08-06T01:21:11.529Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
