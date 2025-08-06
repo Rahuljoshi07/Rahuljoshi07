@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1754462518005,
+      "id": 1754462550844,
       "repository": "Fdawgs/node-poppler",
       "issueTitle": "TypeError: null is not an object (evaluating 'popplerVersionRegex.exec(stderr)[1]')",
       "url": "https://github.com/Fdawgs/node-poppler/issues/649",
-      "createdAt": "2025-08-06T06:41:58.005Z",
+      "createdAt": "2025-08-06T06:42:30.844Z",
       "type": "comment",
       "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
     }
