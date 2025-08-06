@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1754474155746,
+      "id": 1754474186917,
       "repository": "nextcloud/contacts",
-      "issueTitle": "Slashes in vCard UIDs break routing",
-      "url": "https://github.com/nextcloud/contacts/issues/4603",
-      "createdAt": "2025-08-06T09:55:55.746Z",
+      "issueTitle": "Batch actions for adding to group and moving from one address book to another",
+      "url": "https://github.com/nextcloud/contacts/issues/4601",
+      "createdAt": "2025-08-06T09:56:26.917Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
