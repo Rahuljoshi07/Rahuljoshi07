@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754483017175,
+      "repository": "ComPlat/chemotion_REPO",
+      "issueTitle": "[Bug] Confirmed analysis windows do no close/move when scrolling",
+      "url": "https://github.com/ComPlat/chemotion_REPO/issues/147",
+      "createdAt": "2025-08-06T12:23:37.175Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
