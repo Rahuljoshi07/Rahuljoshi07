@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1754446913245,
+      "id": 1754446953969,
       "repository": "LibreSign/libresign",
-      "issueTitle": "Document to sign is not visible on mobile browser",
-      "url": "https://github.com/LibreSign/libresign/issues/5274",
-      "createdAt": "2025-08-06T02:21:53.246Z",
+      "issueTitle": "Configuration check issues",
+      "url": "https://github.com/LibreSign/libresign/issues/5259",
+      "createdAt": "2025-08-06T02:22:33.969Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
