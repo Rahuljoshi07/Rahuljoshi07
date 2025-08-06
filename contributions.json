@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754439832587,
+      "repository": "flatpak/flatpak-builder-tools",
+      "issueTitle": "flatpak-node-generator does not work well with lockfile v3 in monorepo",
+      "url": "https://github.com/flatpak/flatpak-builder-tools/issues/366",
+      "createdAt": "2025-08-06T00:23:52.587Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
