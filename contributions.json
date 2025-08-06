@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754511679133,
+      "repository": "factionsecurity/faction",
+      "issueTitle": "/assessments/addDefaultVuln does not sanitize Name or Severity leading to possible security issues",
+      "url": "https://github.com/factionsecurity/faction/issues/103",
+      "createdAt": "2025-08-06T20:21:19.133Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
