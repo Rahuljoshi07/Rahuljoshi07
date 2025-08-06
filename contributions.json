@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754498329351,
+      "repository": "reagento/dishka",
+      "issueTitle": "provide a FromScope annotation for parameter resolution to enable resolving a context type thats intentionally provided on multiple scopes",
+      "url": "https://github.com/reagento/dishka/issues/505",
+      "createdAt": "2025-08-06T16:38:49.352Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
