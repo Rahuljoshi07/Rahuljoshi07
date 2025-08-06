@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754468019876,
+      "repository": "Foundryborne/daggerheart",
+      "issueTitle": "[BUG] - Can't resize compendium Environments entries",
+      "url": "https://github.com/Foundryborne/daggerheart/issues/637",
+      "createdAt": "2025-08-06T08:13:39.876Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
