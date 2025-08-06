@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754505286083,
+      "repository": "Shopify/flow-code-examples",
+      "issueTitle": "Example GraphQL Input Query Throws Error In Flow",
+      "url": "https://github.com/Shopify/flow-code-examples/issues/6",
+      "createdAt": "2025-08-06T18:34:46.083Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
