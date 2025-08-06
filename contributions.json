@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754486546032,
+      "repository": "JasdewStarfield/Path-of-Truth",
+      "issueTitle": "Alex's Mobs的瞻远者导致崩溃（召唤时导致server崩溃，且疑似只出现于服务端）",
+      "url": "https://github.com/JasdewStarfield/Path-of-Truth/issues/13",
+      "createdAt": "2025-08-06T13:22:26.032Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
