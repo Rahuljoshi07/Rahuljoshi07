@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754442632954,
+      "repository": "wopian/kitsu",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/wopian/kitsu/issues/701",
+      "createdAt": "2025-08-06T01:10:32.954Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
