@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754449697108,
+      "repository": "apache/cordova-common",
+      "issueTitle": "TypeError: Cannot read properties of undefined (reading 'path') when config-file present in config.xml",
+      "url": "https://github.com/apache/cordova-common/issues/220",
+      "createdAt": "2025-08-06T03:08:17.108Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
