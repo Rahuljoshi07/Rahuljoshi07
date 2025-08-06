@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754475404598,
+      "repository": "RetroAchievements/docs",
+      "issueTitle": "docs:  libretro-core-support redirect issue",
+      "url": "https://github.com/RetroAchievements/docs/issues/207",
+      "createdAt": "2025-08-06T10:16:44.598Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
