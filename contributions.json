@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754482591586,
+      "repository": "cliffano/nestor",
+      "issueTitle": "Cannot read property 'headers' of undefined",
+      "url": "https://github.com/cliffano/nestor/issues/56",
+      "createdAt": "2025-08-06T12:16:31.587Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
