@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754480983146,
+      "repository": "snowflakedb/snowflake-connector-nodejs",
+      "issueTitle": "SNOW-2247778: Connector failing with `JSON` parsing error when fetching large result sets with `streamRows`",
+      "url": "https://github.com/snowflakedb/snowflake-connector-nodejs/issues/1141",
+      "createdAt": "2025-08-06T11:49:43.146Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
