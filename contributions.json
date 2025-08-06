@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754465360093,
+      "repository": "Xxiii8322766509/NagaAgent",
+      "issueTitle": "[BUG] 配置脚本无法检测Python版本",
+      "url": "https://github.com/Xxiii8322766509/NagaAgent/issues/24",
+      "createdAt": "2025-08-06T07:29:20.093Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
