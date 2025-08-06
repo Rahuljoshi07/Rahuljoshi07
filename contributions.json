@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754504331072,
+      "repository": "Foundryborne/daggerheart",
+      "issueTitle": "[BUG] - Character Creation - Wizard, School of Knowledge can select 3 Domain Cards, not 2.",
+      "url": "https://github.com/Foundryborne/daggerheart/issues/627",
+      "createdAt": "2025-08-06T18:18:51.072Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
