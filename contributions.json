@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754479449860,
+      "repository": "nextstrain/seasonal-flu",
+      "issueTitle": "Add back our ability to exclude specific sites from tree builders in the workflow with `tree_exclude_sites`",
+      "url": "https://github.com/nextstrain/seasonal-flu/issues/232",
+      "createdAt": "2025-08-06T11:24:09.860Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
