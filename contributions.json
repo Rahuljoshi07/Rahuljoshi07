@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754467536883,
+      "repository": "StanfordVL/BEHAVIOR-1K",
+      "issueTitle": "Playback: fix emitter and temperature playback issue",
+      "url": "https://github.com/StanfordVL/BEHAVIOR-1K/issues/1772",
+      "createdAt": "2025-08-06T08:05:36.884Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
