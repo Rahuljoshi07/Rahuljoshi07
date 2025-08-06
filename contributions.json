@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1754470061072,
+      "id": 1754470108809,
       "repository": "pl4nty/anutimetable",
-      "issueTitle": "Assuming each course code has only one class per session",
-      "url": "https://github.com/pl4nty/anutimetable/issues/513",
-      "createdAt": "2025-08-06T08:47:41.072Z",
+      "issueTitle": "Assuming events only have one location",
+      "url": "https://github.com/pl4nty/anutimetable/issues/409",
+      "createdAt": "2025-08-06T08:48:28.809Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
