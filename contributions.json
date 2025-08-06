@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754512180699,
+      "repository": "geobtaa/geoportal",
+      "issueTitle": "Troubleshoot a handful of item pages with 500 errors",
+      "url": "https://github.com/geobtaa/geoportal/issues/685",
+      "createdAt": "2025-08-06T20:29:40.699Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
