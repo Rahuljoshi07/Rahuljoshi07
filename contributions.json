@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754457105473,
+      "repository": "browniebroke/django-codemod",
+      "issueTitle": "Django 4  django.dispatch.Signal unexpected keyword argument providing_args",
+      "url": "https://github.com/browniebroke/django-codemod/issues/502",
+      "createdAt": "2025-08-06T05:11:45.473Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. This suggestion is particularly relevant..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
