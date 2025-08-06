@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754514270910,
+      "repository": "equinor/template-fastapi-react",
+      "issueTitle": "React FastAPI Template - Improvement week february 2025",
+      "url": "https://github.com/equinor/template-fastapi-react/issues/274",
+      "createdAt": "2025-08-06T21:04:30.910Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
