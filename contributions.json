@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754510036436,
+      "repository": "bitwarden/mcp-server",
+      "issueTitle": "Bug: BW_SESSION environment variable not passed to child processes",
+      "url": "https://github.com/bitwarden/mcp-server/issues/57",
+      "createdAt": "2025-08-06T19:53:56.436Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
