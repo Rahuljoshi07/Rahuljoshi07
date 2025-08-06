@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754518922176,
+      "repository": "zqcrafts/SkySense-O",
+      "issueTitle": "FileNotFoundError: [Errno 2] No such file or directory: './SkySense_O/datasets/fused_dataset/decode_ann_itag_eng.json'",
+      "url": "https://github.com/zqcrafts/SkySense-O/issues/11",
+      "createdAt": "2025-08-06T22:22:02.176Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
