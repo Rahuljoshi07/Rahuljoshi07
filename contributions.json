@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754506597337,
+      "repository": "AAA3A-AAA3A/AAA3A-cogs",
+      "issueTitle": "[TicketTool] Error on ticket create",
+      "url": "https://github.com/AAA3A-AAA3A/AAA3A-cogs/issues/84",
+      "createdAt": "2025-08-06T18:56:37.337Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
