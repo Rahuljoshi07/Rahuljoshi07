@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754459371299,
+      "repository": "gbouras13/phold",
+      "issueTitle": "Torch/pytorch dependency issue",
+      "url": "https://github.com/gbouras13/phold/issues/91",
+      "createdAt": "2025-08-06T05:49:31.299Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
