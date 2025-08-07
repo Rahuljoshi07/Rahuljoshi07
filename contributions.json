@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754536474877,
+      "repository": "STForScratch/ScratchTools",
+      "issueTitle": "I have four issues. Can you patch the issues? (Collaborate me)",
+      "url": "https://github.com/STForScratch/ScratchTools/issues/990",
+      "createdAt": "2025-08-07T03:14:34.878Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
