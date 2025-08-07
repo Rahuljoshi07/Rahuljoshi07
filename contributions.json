@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754585696201,
+      "repository": "hCaptcha/react-hcaptcha",
+      "issueTitle": "Type errors upgrading from 1.8.1 to 1.9.0+",
+      "url": "https://github.com/hCaptcha/react-hcaptcha/issues/217",
+      "createdAt": "2025-08-07T16:54:56.201Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
