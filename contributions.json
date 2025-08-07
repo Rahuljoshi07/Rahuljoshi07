@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754537010986,
+      "repository": "brainpy/BrainPy",
+      "issueTitle": "Delay in FullProjAlignPost* is off by a few steps",
+      "url": "https://github.com/brainpy/BrainPy/issues/709",
+      "createdAt": "2025-08-07T03:23:30.987Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
