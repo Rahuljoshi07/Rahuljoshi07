@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754573219034,
+      "repository": "descope/django-descope",
+      "issueTitle": "Incompatible with Django 5.2.5",
+      "url": "https://github.com/descope/django-descope/issues/316",
+      "createdAt": "2025-08-07T13:26:59.034Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
