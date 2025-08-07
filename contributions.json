@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754537773307,
+      "repository": "renmu123/biliLive-tools",
+      "issueTitle": "BUG 闪退",
+      "url": "https://github.com/renmu123/biliLive-tools/issues/141",
+      "createdAt": "2025-08-07T03:36:13.307Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
