@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754543494978,
+      "repository": "maproulette/maproulette3",
+      "issueTitle": "\"View attic\" option is not available for some time",
+      "url": "https://github.com/maproulette/maproulette3/issues/2466",
+      "createdAt": "2025-08-07T05:11:34.978Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
