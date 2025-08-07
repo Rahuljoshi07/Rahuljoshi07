@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754598000723,
+      "repository": "hydrologie/xhydro",
+      "issueTitle": "Mistake in the computation of pw_events in the PMP module",
+      "url": "https://github.com/hydrologie/xhydro/issues/316",
+      "createdAt": "2025-08-07T20:20:00.723Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
