@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754547346583,
+      "repository": "malzariey/filament-daterangepicker-filter",
+      "issueTitle": "[Bug]: Year Dropdown display date as NaN and not functional.",
+      "url": "https://github.com/malzariey/filament-daterangepicker-filter/issues/181",
+      "createdAt": "2025-08-07T06:15:46.584Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
