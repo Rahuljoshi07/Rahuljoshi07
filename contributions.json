@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754546048579,
+      "repository": "maproulette/maproulette3",
+      "issueTitle": "Clone Challenge does not re-enable the \"OSM/External Id Property\" field",
+      "url": "https://github.com/maproulette/maproulette3/issues/2698",
+      "createdAt": "2025-08-07T05:54:08.579Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
