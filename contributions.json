@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754600624175,
+      "repository": "lemonade-sdk/lemonade",
+      "issueTitle": "LLM Chat: switch model in same conversation may raise exceeds the model's maximum allowed prompt length exception",
+      "url": "https://github.com/lemonade-sdk/lemonade/issues/133",
+      "createdAt": "2025-08-07T21:03:44.175Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
