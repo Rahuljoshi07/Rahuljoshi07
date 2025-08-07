@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754591328495,
+      "repository": "JCSDA/spack-stack",
+      "issueTitle": "jedi-bundle fails to build on Derecho using the spack-stack-1.9.1 gnu environment",
+      "url": "https://github.com/JCSDA/spack-stack/issues/1688",
+      "createdAt": "2025-08-07T18:28:48.495Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
