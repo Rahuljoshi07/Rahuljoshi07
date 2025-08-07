@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754564498375,
+      "repository": "ArduPilot/UAVLogViewer",
+      "issueTitle": "Module not found: Error: Can't resolve './JsDataflashParser/parser' in '/opt/gits/UAVLogViewer/src/tools/parsers'",
+      "url": "https://github.com/ArduPilot/UAVLogViewer/issues/455",
+      "createdAt": "2025-08-07T11:01:38.375Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
