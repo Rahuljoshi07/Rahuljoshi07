@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754561212261,
+      "repository": "i4Ds/Karabo-Pipeline",
+      "issueTitle": "Wrong longitude for SKA1LOW",
+      "url": "https://github.com/i4Ds/Karabo-Pipeline/issues/643",
+      "createdAt": "2025-08-07T10:06:52.261Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
