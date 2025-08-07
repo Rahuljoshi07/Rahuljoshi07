@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754581305792,
+      "repository": "4xian/claude-auto-api",
+      "issueTitle": "默认路径的写出来。默认是~/.claude/settings.json",
+      "url": "https://github.com/4xian/claude-auto-api/issues/1",
+      "createdAt": "2025-08-07T15:41:45.792Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
