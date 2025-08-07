@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754573724634,
+      "repository": "SitecorePowerShell/Console",
+      "issueTitle": "“Stack is null or empty” error occurs when running SPE Publish-Item script",
+      "url": "https://github.com/SitecorePowerShell/Console/issues/1382",
+      "createdAt": "2025-08-07T13:35:24.634Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
