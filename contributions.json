@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754568254884,
+      "repository": "google/closure-compiler-npm",
+      "issueTitle": "bug(paths): build failed if “.js” in the end of the directory name",
+      "url": "https://github.com/google/closure-compiler-npm/issues/259",
+      "createdAt": "2025-08-07T12:04:14.885Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
