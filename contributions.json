@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1754596731876,
-      "repository": "2M4U/2m4u",
-      "issueTitle": ".env.template is missing",
-      "url": "https://github.com/2M4U/2m4u/issues/9",
-      "createdAt": "2025-08-07T19:58:51.876Z",
+      "id": 1754596772831,
+      "repository": "midi2-dev/MIDI2.0Workbench",
+      "issueTitle": "Cannot build: snd_seq_ump_ev_clear was not declared in this scope",
+      "url": "https://github.com/midi2-dev/MIDI2.0Workbench/issues/16",
+      "createdAt": "2025-08-07T19:59:32.831Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
