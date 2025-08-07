@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754570352775,
+      "repository": "ai4protein/VenusFactory",
+      "issueTitle": "Error occurred when fine-tuning using LoRA and IA3 methods.",
+      "url": "https://github.com/ai4protein/VenusFactory/issues/44",
+      "createdAt": "2025-08-07T12:39:12.776Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
