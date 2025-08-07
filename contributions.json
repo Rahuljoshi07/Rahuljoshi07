@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754566253034,
+      "repository": "evansvl/vless-shopbot",
+      "issueTitle": "Не заходит в панель",
+      "url": "https://github.com/evansvl/vless-shopbot/issues/7",
+      "createdAt": "2025-08-07T11:30:53.034Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
