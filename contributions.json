@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754594913933,
+      "repository": "hyprland-community/pyprland",
+      "issueTitle": "[BUG] right click menu behind scratchpads",
+      "url": "https://github.com/hyprland-community/pyprland/issues/179",
+      "createdAt": "2025-08-07T19:28:33.933Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
