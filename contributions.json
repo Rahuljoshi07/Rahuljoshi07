@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754561051109,
+      "repository": "GFZ/arosics",
+      "issueTitle": "Error while plotting tie point grid",
+      "url": "https://github.com/GFZ/arosics/issues/73",
+      "createdAt": "2025-08-07T10:04:11.109Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
