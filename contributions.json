@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754556357125,
+      "repository": "enonic/app-contentstudio",
+      "issueTitle": "Layers widget is not refreshed after deleting content from parent project",
+      "url": "https://github.com/enonic/app-contentstudio/issues/8983",
+      "createdAt": "2025-08-07T08:45:57.126Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
