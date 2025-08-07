@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754562587989,
+      "repository": "UBCDingXin/improved_CcGAN",
+      "issueTitle": "Issue with Assertion Error in Label Generation",
+      "url": "https://github.com/UBCDingXin/improved_CcGAN/issues/13",
+      "createdAt": "2025-08-07T10:29:47.989Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
