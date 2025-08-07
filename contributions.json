@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754588234442,
+      "repository": "opentok/opentok-node",
+      "issueTitle": "request-2.88.2.tgz: 3 vulnerabilities (highest severity is: 8.7)",
+      "url": "https://github.com/opentok/opentok-node/issues/274",
+      "createdAt": "2025-08-07T17:37:14.442Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
