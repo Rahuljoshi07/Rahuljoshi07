@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754571006270,
+      "repository": "dee-shar/amino_coin_generator",
+      "issueTitle": "UnboundLocalError: cannot access local variable 'amino' where it is not associated with a value",
+      "url": "https://github.com/dee-shar/amino_coin_generator/issues/33",
+      "createdAt": "2025-08-07T12:50:06.270Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
