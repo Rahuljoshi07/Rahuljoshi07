@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754553893882,
+      "repository": "pyscript/docs",
+      "issueTitle": "Errors, missing code/links in Workers section",
+      "url": "https://github.com/pyscript/docs/issues/179",
+      "createdAt": "2025-08-07T08:04:53.882Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
