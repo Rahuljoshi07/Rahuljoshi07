@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754662686904,
+      "repository": "cs50/lib50",
+      "issueTitle": "Check50 has problems with cloning when a deploy key is set",
+      "url": "https://github.com/cs50/lib50/issues/36",
+      "createdAt": "2025-08-08T14:18:06.905Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
