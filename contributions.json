@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754647022061,
+      "repository": "equinor/ert",
+      "issueTitle": "Execution using `testkomodo.sh` yield incomplete information when missing project subsystem",
+      "url": "https://github.com/equinor/ert/issues/11419",
+      "createdAt": "2025-08-08T09:57:02.061Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
