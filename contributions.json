@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754626341268,
+      "repository": "oeyoews/tiddlywiki-codemirror6",
+      "issueTitle": "[BUG] 开启超链接预览后与wikitext不完全匹配",
+      "url": "https://github.com/oeyoews/tiddlywiki-codemirror6/issues/153",
+      "createdAt": "2025-08-08T04:12:21.268Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
