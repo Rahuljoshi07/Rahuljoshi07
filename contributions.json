@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754675993859,
+      "repository": "apache/cordova-common",
+      "issueTitle": "Count increases by 1 in `ios.json` every time I build",
+      "url": "https://github.com/apache/cordova-common/issues/241",
+      "createdAt": "2025-08-08T17:59:53.859Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
