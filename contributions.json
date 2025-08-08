@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754688776547,
+      "repository": "Arize-ai/openinference",
+      "issueTitle": "[bug] Traces are overwhelmed by nested metadata in Agno",
+      "url": "https://github.com/Arize-ai/openinference/issues/2045",
+      "createdAt": "2025-08-08T21:32:56.547Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
