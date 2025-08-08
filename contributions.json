@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754691608600,
+      "repository": "YanjieZe/GMR",
+      "issueTitle": "Retargeting from SMPLX(AMASS) to Robot failed",
+      "url": "https://github.com/YanjieZe/GMR/issues/16",
+      "createdAt": "2025-08-08T22:20:08.600Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
