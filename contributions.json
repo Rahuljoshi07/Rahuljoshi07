@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754635957096,
+      "repository": "versun/RSS-Translator",
+      "issueTitle": "[Bug]: Summarize isn’t translated",
+      "url": "https://github.com/versun/RSS-Translator/issues/130",
+      "createdAt": "2025-08-08T06:52:37.096Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
