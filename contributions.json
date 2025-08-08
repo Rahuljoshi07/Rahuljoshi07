@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754679385540,
+      "repository": "holoviz/lumen",
+      "issueTitle": "Attribute Error/ Please fix issues that can be identified by static type checkers.",
+      "url": "https://github.com/holoviz/lumen/issues/1357",
+      "createdAt": "2025-08-08T18:56:25.540Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
