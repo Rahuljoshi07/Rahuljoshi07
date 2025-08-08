@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754623528686,
+      "repository": "ModelTC/LightX2V",
+      "issueTitle": "[Bug] 关于设置 Wan2.1-I2V-14B-480P-StepDistill-CfgDistill-Lightx2v",
+      "url": "https://github.com/ModelTC/LightX2V/issues/192",
+      "createdAt": "2025-08-08T03:25:28.686Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
