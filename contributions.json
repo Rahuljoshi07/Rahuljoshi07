@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754624583357,
+      "repository": "langchain-ai/langsmith-sdk",
+      "issueTitle": "Issue: Running AI SDK calls within an `after` or `waitUntil` function in nextjs results in incomplete traces (no output)",
+      "url": "https://github.com/langchain-ai/langsmith-sdk/issues/1874",
+      "createdAt": "2025-08-08T03:43:03.357Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
