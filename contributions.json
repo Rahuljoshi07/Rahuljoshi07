@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1754650159826,
+      "id": 1754650212569,
       "repository": "ocadotechnology/codeforlife-portal",
       "issueTitle": "Header isn't rendering properly on tablets & browsers other than Chrome",
       "url": "https://github.com/ocadotechnology/codeforlife-portal/issues/2365",
-      "createdAt": "2025-08-08T10:49:19.826Z",
+      "createdAt": "2025-08-08T10:50:12.570Z",
       "type": "comment",
-      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
     }
   ],
   "stats": {
