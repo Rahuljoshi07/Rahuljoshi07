@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754664345787,
+      "repository": "GetStream/stream-chat-react",
+      "issueTitle": "Question: how to  modify a custom field when editing a message.",
+      "url": "https://github.com/GetStream/stream-chat-react/issues/2793",
+      "createdAt": "2025-08-08T14:45:45.787Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
