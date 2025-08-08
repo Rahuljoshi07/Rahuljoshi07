@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754660045046,
+      "repository": "tursodatabase/libsql-js",
+      "issueTitle": "Webpack Compilation Errors after installation of @libsql/client",
+      "url": "https://github.com/tursodatabase/libsql-js/issues/196",
+      "createdAt": "2025-08-08T13:34:05.046Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
