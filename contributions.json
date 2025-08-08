@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754663407819,
+      "repository": "industrial-optimization-group/DESDEO",
+      "issueTitle": "pyomo_evaluator's init_variables bug",
+      "url": "https://github.com/industrial-optimization-group/DESDEO/issues/313",
+      "createdAt": "2025-08-08T14:30:07.819Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
