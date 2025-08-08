@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754617416742,
+      "repository": "henry123-boy/SpaTracker",
+      "issueTitle": "Bug in soft_splat",
+      "url": "https://github.com/henry123-boy/SpaTracker/issues/48",
+      "createdAt": "2025-08-08T01:43:36.742Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
