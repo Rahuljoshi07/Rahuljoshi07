@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754626629378,
+      "repository": "oeyoews/tiddlywiki-codemirror6",
+      "issueTitle": "[BUG] 保存时应该保存所有的fields",
+      "url": "https://github.com/oeyoews/tiddlywiki-codemirror6/issues/150",
+      "createdAt": "2025-08-08T04:17:09.378Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
