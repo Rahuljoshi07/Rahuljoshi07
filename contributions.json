@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754675488648,
+      "repository": "Laskyyy/Create-Astral",
+      "issueTitle": "[Bug]: Problem with chapter 3",
+      "url": "https://github.com/Laskyyy/Create-Astral/issues/574",
+      "createdAt": "2025-08-08T17:51:28.648Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
