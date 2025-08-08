@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1754642267698,
-      "repository": "wemake-services/django-test-migrations",
-      "issueTitle": "`through_fields` not reflected in test models",
-      "url": "https://github.com/wemake-services/django-test-migrations/issues/418",
-      "createdAt": "2025-08-08T08:37:47.698Z",
+      "id": 1754642330287,
+      "repository": "wemake-services/dotenv-linter",
+      "issueTitle": "Increase verbosity of \"Unable to correctly parse dotenv file\" error when violating IncorrectNameViolation",
+      "url": "https://github.com/wemake-services/dotenv-linter/issues/30",
+      "createdAt": "2025-08-08T08:38:50.287Z",
       "type": "comment",
-      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
