@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754647577642,
+      "repository": "felixbade/assistant",
+      "issueTitle": "<h1> line height is too small",
+      "url": "https://github.com/felixbade/assistant/issues/97",
+      "createdAt": "2025-08-08T10:06:17.642Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
