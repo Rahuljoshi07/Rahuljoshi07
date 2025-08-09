@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754746596546,
+      "repository": "tsukumijima/KonomiTV",
+      "issueTitle": "クライアントの開発・ビルドでのエラー （解決方法あり）",
+      "url": "https://github.com/tsukumijima/KonomiTV/issues/159",
+      "createdAt": "2025-08-09T13:36:36.546Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
