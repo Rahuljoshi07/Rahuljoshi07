@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754733094903,
+      "repository": "GoogleCloudPlatform/professional-services-data-validator",
+      "issueTitle": "Investigate BigQuery result handler optimization",
+      "url": "https://github.com/GoogleCloudPlatform/professional-services-data-validator/issues/1568",
+      "createdAt": "2025-08-09T09:51:34.903Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
