@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754774011066,
+      "repository": "keyboardio/Chrysalis",
+      "issueTitle": "Restoring layout from backup corrupts LED layout",
+      "url": "https://github.com/keyboardio/Chrysalis/issues/1398",
+      "createdAt": "2025-08-09T21:13:31.066Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
