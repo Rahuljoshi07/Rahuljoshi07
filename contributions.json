@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754779786846,
+      "repository": "winstonjs/logform",
+      "issueTitle": "[Bug]: stack gets printed regardless of format.errors",
+      "url": "https://github.com/winstonjs/logform/issues/342",
+      "createdAt": "2025-08-09T22:49:46.846Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
