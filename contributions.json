@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754763436281,
+      "repository": "omarbenhamid/django-mcp-server",
+      "issueTitle": "drf_publish_list_mcp_tool() breaks GET requests to DRF ListAPIView",
+      "url": "https://github.com/omarbenhamid/django-mcp-server/issues/32",
+      "createdAt": "2025-08-09T18:17:16.281Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
