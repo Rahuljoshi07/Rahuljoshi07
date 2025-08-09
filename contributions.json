@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754752652607,
+      "repository": "l429609201/misaka_danmu_server",
+      "issueTitle": "单集添加任务bug",
+      "url": "https://github.com/l429609201/misaka_danmu_server/issues/59",
+      "createdAt": "2025-08-09T15:17:32.607Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
