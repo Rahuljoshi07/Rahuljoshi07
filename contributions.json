@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754702923929,
+      "repository": "hytopiagg/world-editor",
+      "issueTitle": "Investigate custom model issues in world editor",
+      "url": "https://github.com/hytopiagg/world-editor/issues/169",
+      "createdAt": "2025-08-09T01:28:43.929Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
