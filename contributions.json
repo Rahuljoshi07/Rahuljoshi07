@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754752865612,
+      "repository": "level2-gis/gisapp",
+      "issueTitle": "Fatal error: Uncaught phpfastcacheCoreException",
+      "url": "https://github.com/level2-gis/gisapp/issues/137",
+      "createdAt": "2025-08-09T15:21:05.612Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
