@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754739601243,
+      "repository": "Foundryborne/daggerheart",
+      "issueTitle": "[BUG] - Weapons on a character sheet have 2 Use Item entries in More Options",
+      "url": "https://github.com/Foundryborne/daggerheart/issues/733",
+      "createdAt": "2025-08-09T11:40:01.243Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
