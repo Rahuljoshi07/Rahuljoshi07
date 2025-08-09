@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1754702634267,
+      "id": 1754702667623,
       "repository": "nextcloud/photos",
       "issueTitle": "Faces content display fails consistently",
       "url": "https://github.com/nextcloud/photos/issues/3105",
-      "createdAt": "2025-08-09T01:23:54.267Z",
+      "createdAt": "2025-08-09T01:24:27.623Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
