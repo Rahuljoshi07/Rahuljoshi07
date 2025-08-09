@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1754755427437,
+      "id": 1754755480055,
       "repository": "LibreSign/libresign",
-      "issueTitle": "Configuration check issues",
-      "url": "https://github.com/LibreSign/libresign/issues/5259",
-      "createdAt": "2025-08-09T16:03:47.437Z",
+      "issueTitle": "Only first signer can sign PDF",
+      "url": "https://github.com/LibreSign/libresign/issues/5211",
+      "createdAt": "2025-08-09T16:04:40.055Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
