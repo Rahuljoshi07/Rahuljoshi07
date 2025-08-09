@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754767054515,
+      "repository": "r2-studio/robotmon-scripts",
+      "issueTitle": "CRK advanced has multiple errors in the configuration menu",
+      "url": "https://github.com/r2-studio/robotmon-scripts/issues/567",
+      "createdAt": "2025-08-09T19:17:34.515Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
