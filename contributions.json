@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754710241287,
+      "repository": "luolingchun/flask-openapi3",
+      "issueTitle": "Issues using flask-openapi3 when its views are decorated",
+      "url": "https://github.com/luolingchun/flask-openapi3/issues/143",
+      "createdAt": "2025-08-09T03:30:41.288Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
