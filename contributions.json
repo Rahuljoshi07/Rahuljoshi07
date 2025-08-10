@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754828775822,
+      "repository": "springfall2008/batpred",
+      "issueTitle": "changed to Error: Exception raised float() argument must be a string or a real number, not 'list'",
+      "url": "https://github.com/springfall2008/batpred/issues/2604",
+      "createdAt": "2025-08-10T12:26:15.823Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
