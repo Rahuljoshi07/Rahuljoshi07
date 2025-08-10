@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754845378559,
+      "repository": "UltiMafia/Ultimafia",
+      "issueTitle": "bug(site): Red heart bugs",
+      "url": "https://github.com/UltiMafia/Ultimafia/issues/2053",
+      "createdAt": "2025-08-10T17:02:58.560Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
