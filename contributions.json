@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754796456401,
+      "repository": "hackforla/website",
+      "issueTitle": "GHA to Document Previous Issue Event on Skills Issue, Pt 3",
+      "url": "https://github.com/hackforla/website/issues/8259",
+      "createdAt": "2025-08-10T03:27:36.401Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
