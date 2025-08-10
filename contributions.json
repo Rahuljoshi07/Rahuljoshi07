@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754868839207,
+      "repository": "ember-cli/eslint-plugin-ember",
+      "issueTitle": "Add a rule like `no-unwrapped-debug-code` (name TBD) to disallow shipping test/dev-only code to production",
+      "url": "https://github.com/ember-cli/eslint-plugin-ember/issues/2310",
+      "createdAt": "2025-08-10T23:33:59.207Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
