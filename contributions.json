@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754852794699,
+      "repository": "IRCVLab/Depth-Anything-for-Jetson-Orin",
+      "issueTitle": "Error loading Depth",
+      "url": "https://github.com/IRCVLab/Depth-Anything-for-Jetson-Orin/issues/6",
+      "createdAt": "2025-08-10T19:06:34.699Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
