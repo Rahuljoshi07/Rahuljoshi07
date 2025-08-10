@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754861424579,
+      "repository": "hackforla/website",
+      "issueTitle": "Skills Issue: Developer: Catherine Zhang",
+      "url": "https://github.com/hackforla/website/issues/8128",
+      "createdAt": "2025-08-10T21:30:24.579Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
