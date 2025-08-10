@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754811175406,
+      "repository": "chemelli74/aioamazondevices",
+      "issueTitle": "Amazon Echo Show Gen2 - Unknown device type 'AWZZ5CVHX2CD'",
+      "url": "https://github.com/chemelli74/aioamazondevices/issues/435",
+      "createdAt": "2025-08-10T07:32:55.406Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
