@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754841882974,
+      "repository": "nek0us/ChatGPT",
+      "issueTitle": "[BUG] Repeat Query",
+      "url": "https://github.com/nek0us/ChatGPT/issues/11",
+      "createdAt": "2025-08-10T16:04:42.974Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
