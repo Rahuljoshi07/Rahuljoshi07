@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754810535293,
+      "repository": "euroargodev/argopy",
+      "issueTitle": "is_indexbox can fails even with valid box",
+      "url": "https://github.com/euroargodev/argopy/issues/505",
+      "createdAt": "2025-08-10T07:22:15.293Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
