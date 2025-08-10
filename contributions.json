@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754810210046,
+      "repository": "msojocs/bilibili-linux",
+      "issueTitle": "导航栏的动态页面无法加载的bug",
+      "url": "https://github.com/msojocs/bilibili-linux/issues/168",
+      "createdAt": "2025-08-10T07:16:50.046Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
