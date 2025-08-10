@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754863671860,
+      "repository": "waynebhayes/SpArcFiRe",
+      "issueTitle": "Error message  ~/SpArcFiRe/setup.bash should mention if pip module is missing",
+      "url": "https://github.com/waynebhayes/SpArcFiRe/issues/92",
+      "createdAt": "2025-08-10T22:07:51.861Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
