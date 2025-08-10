@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754824759559,
+      "repository": "whillhill/mcpstore",
+      "issueTitle": "'MCPStoreContext' object has no attribute 'to_langchain_tools'",
+      "url": "https://github.com/whillhill/mcpstore/issues/6",
+      "createdAt": "2025-08-10T11:19:19.559Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for vue pr..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
