@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754880260867,
+      "repository": "sgl-project/SpecForge",
+      "issueTitle": "[Bug] No speedup observed when accelerating Qwen3-235B-MoE model",
+      "url": "https://github.com/sgl-project/SpecForge/issues/121",
+      "createdAt": "2025-08-11T02:44:20.867Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
