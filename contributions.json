@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754922848515,
+      "repository": "MuckRock/muckrock",
+      "issueTitle": "Large MuckRock file uploads causing Sentry issues",
+      "url": "https://github.com/MuckRock/muckrock/issues/1807",
+      "createdAt": "2025-08-11T14:34:08.515Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
