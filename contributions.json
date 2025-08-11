@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754917413767,
+      "repository": "if-ai/ComfyUI-IF_AI_tools",
+      "issueTitle": " from supervision.detection.lmm import from_florence_2 ImportError: cannot import name 'from_florence_2' from 'supervision.detection.lmm'",
+      "url": "https://github.com/if-ai/ComfyUI-IF_AI_tools/issues/131",
+      "createdAt": "2025-08-11T13:03:33.767Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
