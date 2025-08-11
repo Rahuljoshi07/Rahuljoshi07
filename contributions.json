@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754950984003,
+      "repository": "archesproject/arches",
+      "issueTitle": "Parallelize test suite",
+      "url": "https://github.com/archesproject/arches/issues/12366",
+      "createdAt": "2025-08-11T22:23:04.003Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
