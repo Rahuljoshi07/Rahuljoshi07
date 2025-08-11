@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754929905952,
+      "repository": "loopbackio/loopback-connector-postgresql",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/loopbackio/loopback-connector-postgresql/issues/517",
+      "createdAt": "2025-08-11T16:31:45.952Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
