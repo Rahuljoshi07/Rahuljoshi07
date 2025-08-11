@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754897149871,
+      "repository": "omnara-ai/omnara",
+      "issueTitle": "real-time monitoring not working",
+      "url": "https://github.com/omnara-ai/omnara/issues/55",
+      "createdAt": "2025-08-11T07:25:49.872Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
