@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754938745346,
+      "repository": "semantic-release/issue-parser",
+      "issueTitle": "Handle Gitlab closing comma separated actions",
+      "url": "https://github.com/semantic-release/issue-parser/issues/37",
+      "createdAt": "2025-08-11T18:59:05.346Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
