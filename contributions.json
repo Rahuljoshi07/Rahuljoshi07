@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754889451015,
+      "repository": "macbre/index-digest",
+      "issueTitle": "Detect UUID used as a primary key",
+      "url": "https://github.com/macbre/index-digest/issues/181",
+      "createdAt": "2025-08-11T05:17:31.015Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
