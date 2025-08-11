@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754929353418,
+      "repository": "adamff-dev/twitch-adfree-webos",
+      "issueTitle": "BUG - I can't unfollow any channel.",
+      "url": "https://github.com/adamff-dev/twitch-adfree-webos/issues/18",
+      "createdAt": "2025-08-11T16:22:33.418Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
