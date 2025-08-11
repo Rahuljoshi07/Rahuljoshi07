@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1754909337670,
+      "id": 1754909377889,
       "repository": "oweitman/ioBroker.squeezeboxrpc",
       "issueTitle": "Please consider fixing issues detected by repository checker",
       "url": "https://github.com/oweitman/ioBroker.squeezeboxrpc/issues/141",
-      "createdAt": "2025-08-11T10:48:57.670Z",
+      "createdAt": "2025-08-11T10:49:37.889Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
