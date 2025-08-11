@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754937936898,
+      "repository": "pennlabs/penn-clubs",
+      "issueTitle": "Getting 404 on Analytics tab",
+      "url": "https://github.com/pennlabs/penn-clubs/issues/831",
+      "createdAt": "2025-08-11T18:45:36.898Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
