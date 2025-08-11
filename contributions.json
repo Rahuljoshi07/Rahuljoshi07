@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1754922511887,
-      "repository": "epigen/atacseq_pipeline",
-      "issueTitle": "try using HOMER with conda",
-      "url": "https://github.com/epigen/atacseq_pipeline/issues/49",
-      "createdAt": "2025-08-11T14:28:31.887Z",
+      "id": 1754922550059,
+      "repository": "openfoodfacts/open-prices",
+      "issueTitle": "Failed 'open_prices.proofs.ml.run_and_save_proof_prediction' (angel-california-eleven-fanta) - 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Request contains an invalid argument.', 'status': 'INVALID_ARGUMENT'}} : Traceback (most recent call...",
+      "url": "https://github.com/openfoodfacts/open-prices/issues/917",
+      "createdAt": "2025-08-11T14:29:10.059Z",
       "type": "comment",
-      "content": "Using f-strings would make string formatting more readable. (Suggested by Rahul Joshi)..."
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
     }
   ],
   "stats": {
