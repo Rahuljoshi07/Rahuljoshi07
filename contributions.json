@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754942489526,
+      "repository": "jupyterhub/sudospawner",
+      "issueTitle": "Debugging messages from spawners lost when restarting hub",
+      "url": "https://github.com/jupyterhub/sudospawner/issues/75",
+      "createdAt": "2025-08-11T20:01:29.526Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
