@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754906848832,
+      "repository": "safe-global/safe-config-service",
+      "issueTitle": "Investigate Gunicorn errors",
+      "url": "https://github.com/safe-global/safe-config-service/issues/1344",
+      "createdAt": "2025-08-11T10:07:28.832Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
