@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754939206524,
+      "repository": "nextstrain/nextstrain.org",
+      "issueTitle": "Unable to open tree data from Auspice in MicrobeTrace",
+      "url": "https://github.com/nextstrain/nextstrain.org/issues/1188",
+      "createdAt": "2025-08-11T19:06:46.524Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
