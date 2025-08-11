@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754905112151,
+      "repository": "openedx/docs.openedx.org",
+      "issueTitle": "Issue with page: sync_a_library_update_to_your_course",
+      "url": "https://github.com/openedx/docs.openedx.org/issues/1194",
+      "createdAt": "2025-08-11T09:38:32.151Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
