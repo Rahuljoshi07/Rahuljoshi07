@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754944657834,
+      "repository": "aidatatools/ollama-benchmark",
+      "issueTitle": "consider adding the new gpt-oss:20B that fits in 16GB VRAM",
+      "url": "https://github.com/aidatatools/ollama-benchmark/issues/29",
+      "createdAt": "2025-08-11T20:37:37.835Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
