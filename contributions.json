@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754895887829,
+      "repository": "zstar1003/ragflow-plus",
+      "issueTitle": "[Question]:  docker compose  start failed",
+      "url": "https://github.com/zstar1003/ragflow-plus/issues/194",
+      "createdAt": "2025-08-11T07:04:47.829Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
