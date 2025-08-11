@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754917138349,
+      "repository": "linuxmint/cinnamon-spices-applets",
+      "issueTitle": "[scripts@paucapo.com] Applet Bug with indent",
+      "url": "https://github.com/linuxmint/cinnamon-spices-applets/issues/7493",
+      "createdAt": "2025-08-11T12:58:58.349Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
