@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754922958735,
+      "repository": "auth0/passport-wsfed-saml2",
+      "issueTitle": "Security issues with deep dependencies ",
+      "url": "https://github.com/auth0/passport-wsfed-saml2/issues/175",
+      "createdAt": "2025-08-11T14:35:58.735Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
