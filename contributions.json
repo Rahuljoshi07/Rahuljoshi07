@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1754906922648,
-      "repository": "ezpaarse-project/ezpaarse",
-      "issueTitle": "npm security issues - npm audit fix",
-      "url": "https://github.com/ezpaarse-project/ezpaarse/issues/179",
-      "createdAt": "2025-08-11T10:08:42.648Z",
+      "id": 1754906966286,
+      "repository": "safe-global/safe-config-service",
+      "issueTitle": "Investigate Gunicorn errors",
+      "url": "https://github.com/safe-global/safe-config-service/issues/1344",
+      "createdAt": "2025-08-11T10:09:26.286Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
     }
   ],
   "stats": {
