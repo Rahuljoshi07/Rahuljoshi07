@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754933581548,
+      "repository": "dnsimple/dnsimple-python",
+      "issueTitle": "ZoneRecordInput omits empty name when serialized to json",
+      "url": "https://github.com/dnsimple/dnsimple-python/issues/451",
+      "createdAt": "2025-08-11T17:33:01.548Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
