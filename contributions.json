@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754918319429,
+      "repository": "tough-dev-school/education-backend",
+      "issueTitle": "504, когда пользователь с root-правами, который не учится на курсе, запрашивает эндпоинт crosschecks",
+      "url": "https://github.com/tough-dev-school/education-backend/issues/2731",
+      "createdAt": "2025-08-11T13:18:39.429Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
