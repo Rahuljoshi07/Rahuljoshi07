@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754895249377,
+      "repository": "RedDotRocket/AgentUp",
+      "issueTitle": "[Bug]: Regenerating agent card - loaded 1 plugins from config",
+      "url": "https://github.com/RedDotRocket/AgentUp/issues/211",
+      "createdAt": "2025-08-11T06:54:09.377Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
