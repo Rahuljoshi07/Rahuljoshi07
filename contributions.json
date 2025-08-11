@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754943941682,
+      "repository": "WhyNotHugo/django-renderpdf",
+      "issueTitle": "Not compatible with weasyprint >=63",
+      "url": "https://github.com/WhyNotHugo/django-renderpdf/issues/69",
+      "createdAt": "2025-08-11T20:25:41.682Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
