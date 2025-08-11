@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754942244026,
+      "repository": "timkpaine/lantern",
+      "issueTitle": "bokeh 2.4.3 --> deprecation warning",
+      "url": "https://github.com/timkpaine/lantern/issues/223",
+      "createdAt": "2025-08-11T19:57:24.026Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
