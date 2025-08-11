@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754908963133,
+      "repository": "gbtami/pychess-variants",
+      "issueTitle": "Chess board not showing up when project is ran locally using docker",
+      "url": "https://github.com/gbtami/pychess-variants/issues/1919",
+      "createdAt": "2025-08-11T10:42:43.133Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
