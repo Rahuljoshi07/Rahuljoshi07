@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754922511887,
+      "repository": "epigen/atacseq_pipeline",
+      "issueTitle": "try using HOMER with conda",
+      "url": "https://github.com/epigen/atacseq_pipeline/issues/49",
+      "createdAt": "2025-08-11T14:28:31.887Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
