@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754880800513,
+      "repository": "Tornium/tornium",
+      "issueTitle": "Subsequent vault requests can go over user's faction balance",
+      "url": "https://github.com/Tornium/tornium/issues/305",
+      "createdAt": "2025-08-11T02:53:20.513Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
