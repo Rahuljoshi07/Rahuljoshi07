@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754978116164,
+      "repository": "austinmesh/bridger",
+      "issueTitle": "2025-06-18 15:20:42.178 | ERROR    | bridger.influx.interfaces:write_annotation:228 - Error writing annotation to InfluxDB: (403)",
+      "url": "https://github.com/austinmesh/bridger/issues/97",
+      "createdAt": "2025-08-12T05:55:16.164Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
