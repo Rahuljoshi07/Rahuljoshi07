@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754960973328,
+      "repository": "ArtGateOne/ma2apcmini",
+      "issueTitle": "v4 Bug: Some LEDs don't clear when changing between active pages",
+      "url": "https://github.com/ArtGateOne/ma2apcmini/issues/11",
+      "createdAt": "2025-08-12T01:09:33.328Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
