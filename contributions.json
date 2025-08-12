@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754995198415,
+      "repository": "httptoolkit/httptoolkit-server",
+      "issueTitle": "Error while running",
+      "url": "https://github.com/httptoolkit/httptoolkit-server/issues/145",
+      "createdAt": "2025-08-12T10:39:58.415Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
