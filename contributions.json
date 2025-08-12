@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754980151766,
+      "repository": "contourpy/contourpy",
+      "issueTitle": "contourpy 1.2.1 FTBFS on conda environment (-Werror=array-bounds on wrap.cpp)",
+      "url": "https://github.com/contourpy/contourpy/issues/409",
+      "createdAt": "2025-08-12T06:29:11.766Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
