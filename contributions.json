@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755004874889,
+      "repository": "AdaCore/e3-core",
+      "issueTitle": "anod source packaging should discard all svn/git local modifications",
+      "url": "https://github.com/AdaCore/e3-core/issues/10",
+      "createdAt": "2025-08-12T13:21:14.889Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
