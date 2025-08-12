@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1754962843857,
+      "id": 1754962888045,
       "repository": "nextcloud/talk-desktop",
       "issueTitle": "MacOS chat loading",
       "url": "https://github.com/nextcloud/talk-desktop/issues/1353",
-      "createdAt": "2025-08-12T01:40:43.857Z",
+      "createdAt": "2025-08-12T01:41:28.045Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
