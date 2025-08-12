@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754976520531,
+      "repository": "nodejs/changelog-maker",
+      "issueTitle": "Consider commit Co-Authored-By",
+      "url": "https://github.com/nodejs/changelog-maker/issues/166",
+      "createdAt": "2025-08-12T05:28:40.531Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
