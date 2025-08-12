@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754986263107,
+      "repository": "XSpoonAi/spoon-core",
+      "issueTitle": "[Bug] Fix CustomAgent Tool Management and State Inconsistencies",
+      "url": "https://github.com/XSpoonAi/spoon-core/issues/95",
+      "createdAt": "2025-08-12T08:11:03.107Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
