@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754962573850,
+      "repository": "gerlero/foamlib",
+      "issueTitle": "foamLib fails to parse expressions with | operator in function objects like laplacian((1|A(U)),p)",
+      "url": "https://github.com/gerlero/foamlib/issues/411",
+      "createdAt": "2025-08-12T01:36:13.850Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
