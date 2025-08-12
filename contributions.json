@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1755002958594,
-      "repository": "dennybiasiolli/django-reversion-rest-framework",
-      "issueTitle": "Settings serializer_class on HistoryModelViewSet has no effect when unique fields exist",
-      "url": "https://github.com/dennybiasiolli/django-reversion-rest-framework/issues/141",
-      "createdAt": "2025-08-12T12:49:18.594Z",
-      "type": "comment",
-      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
