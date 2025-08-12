@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754992075963,
+      "repository": "bpmn-io/properties-panel",
+      "issueTitle": "Auto-trim leading whitespaces when pasting into property fields",
+      "url": "https://github.com/bpmn-io/properties-panel/issues/309",
+      "createdAt": "2025-08-12T09:47:55.963Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
