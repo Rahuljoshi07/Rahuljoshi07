@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755000991541,
+      "repository": "openwrt/buildbot",
+      "issueTitle": "phase1: builds on clean workers always fail on gitverify step",
+      "url": "https://github.com/openwrt/buildbot/issues/5",
+      "createdAt": "2025-08-12T12:16:31.541Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
