@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754973950976,
+      "repository": "webextensions/live-css-editor",
+      "issueTitle": "Error: no parsers registered for: \"] - A\"",
+      "url": "https://github.com/webextensions/live-css-editor/issues/146",
+      "createdAt": "2025-08-12T04:45:50.976Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
