@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754967822779,
+      "repository": "fan-ziqi/robot_lab",
+      "issueTitle": "[Bug Report] cannot start training in Windows for unitree A1",
+      "url": "https://github.com/fan-ziqi/robot_lab/issues/77",
+      "createdAt": "2025-08-12T03:03:42.779Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
