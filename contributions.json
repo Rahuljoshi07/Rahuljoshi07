@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755000612940,
+      "repository": "usail-hkust/LLMTSCS",
+      "issueTitle": "Mac电脑运行run_advanced_mplight.py报TypeError: cannot pickle 'cityflow.Engine' object，请问改如何解决？",
+      "url": "https://github.com/usail-hkust/LLMTSCS/issues/28",
+      "createdAt": "2025-08-12T12:10:12.941Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
