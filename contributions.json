@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754980947495,
+      "repository": "Mujtabaa07/coffeeShop",
+      "issueTitle": "[BUG] Learn More Button Not Working and Missing Learn More Section",
+      "url": "https://github.com/Mujtabaa07/coffeeShop/issues/284",
+      "createdAt": "2025-08-12T06:42:27.495Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
