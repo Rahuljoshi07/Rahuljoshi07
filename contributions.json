@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755003111902,
+      "repository": "netbox-community/ansible_modules",
+      "issueTitle": "[Bug]: Device Interface Module - Device query brings back more than one device",
+      "url": "https://github.com/netbox-community/ansible_modules/issues/1397",
+      "createdAt": "2025-08-12T12:51:51.902Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
