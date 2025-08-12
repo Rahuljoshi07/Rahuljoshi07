@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1754982909669,
+      "repository": "OpenCTI-Platform/client-python",
+      "issueTitle": "CaseRfi.list throws exception when using getAll = True",
+      "url": "https://github.com/OpenCTI-Platform/client-python/issues/953",
+      "createdAt": "2025-08-12T07:15:09.669Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
