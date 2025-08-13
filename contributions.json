@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755051550630,
+      "repository": "aaronwmorris/indi-allsky",
+      "issueTitle": "indi-allsky: Image worker IndexError from system temps (psutil)",
+      "url": "https://github.com/aaronwmorris/indi-allsky/issues/2298",
+      "createdAt": "2025-08-13T02:19:10.630Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
