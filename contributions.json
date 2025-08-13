@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755046328283,
+      "repository": "ggozad/behaving",
+      "issueTitle": "Issue: Python 3.9-slim-bullseye to 3.13-slim-bullseye gives SMS/GCM errors during testing",
+      "url": "https://github.com/ggozad/behaving/issues/150",
+      "createdAt": "2025-08-13T00:52:08.283Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
