@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755075438278,
+      "repository": "RimSort/RimSort",
+      "issueTitle": "Mod Dependency Error but the mod doesn't require dependency for specific versions",
+      "url": "https://github.com/RimSort/RimSort/issues/1150",
+      "createdAt": "2025-08-13T08:57:18.278Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
