@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755057135679,
+      "repository": "litestar-org/advanced-alchemy",
+      "issueTitle": "Bug: Multiple fields in in_fields configuration cause filter providers to malfunction",
+      "url": "https://github.com/litestar-org/advanced-alchemy/issues/507",
+      "createdAt": "2025-08-13T03:52:15.679Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
