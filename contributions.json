@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755099490941,
+      "repository": "LiuYi0526/IPTVnew",
+      "issueTitle": "〖BUG〗获取epg的程序应该有问题，epg缺少好多台的节目信息，比如4gtv只获取到两个台的节目信息，像龍華電影、龍華經典、龍華洋片，都没有获取到。",
+      "url": "https://github.com/LiuYi0526/IPTVnew/issues/1",
+      "createdAt": "2025-08-13T15:38:10.941Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
