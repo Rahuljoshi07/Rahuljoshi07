@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755085256164,
+      "repository": "py-mine/mcstatus",
+      "issueTitle": "Document windows asyncio event loop close bug",
+      "url": "https://github.com/py-mine/mcstatus/issues/693",
+      "createdAt": "2025-08-13T11:40:56.164Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
