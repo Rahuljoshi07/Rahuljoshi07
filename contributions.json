@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755099163329,
+      "repository": "ttttmr/Wechat2RSS",
+      "issueTitle": "[Bug]: rss内容与实际订阅账户不符",
+      "url": "https://github.com/ttttmr/Wechat2RSS/issues/275",
+      "createdAt": "2025-08-13T15:32:43.329Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
