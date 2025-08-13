@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755047999458,
+      "repository": "nextcloud/maps",
+      "issueTitle": "[Bug]: Photos on public shared Maps cannot be displayed",
+      "url": "https://github.com/nextcloud/maps/issues/1436",
+      "createdAt": "2025-08-13T01:19:59.458Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
