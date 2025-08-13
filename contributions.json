@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755079112154,
+      "repository": "redis/redis-benchmarks-specification",
+      "issueTitle": "[BUG]: ERROR reported in the debug output. Should it be labeled as INFO? ",
+      "url": "https://github.com/redis/redis-benchmarks-specification/issues/247",
+      "createdAt": "2025-08-13T09:58:32.154Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
