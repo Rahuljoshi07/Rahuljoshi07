@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755088008437,
+      "repository": "twreporter/twreporter-react",
+      "issueTitle": "macos node19 yarn install error",
+      "url": "https://github.com/twreporter/twreporter-react/issues/2444",
+      "createdAt": "2025-08-13T12:26:48.437Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
