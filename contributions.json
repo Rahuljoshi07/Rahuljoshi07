@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755080852383,
+      "repository": "FlowFuse/flowfuse",
+      "issueTitle": "Extra instance subscriptions not cancelled, refunded, or prorated after deletion",
+      "url": "https://github.com/FlowFuse/flowfuse/issues/5917",
+      "createdAt": "2025-08-13T10:27:32.383Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
