@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755060999090,
+      "repository": "sassoftware/viya4-deployment",
+      "issueTitle": "Latest release of sassoftware/viya4-deployment seems to install NGINX 1.13.0 which is not supported by SAS Viya",
+      "url": "https://github.com/sassoftware/viya4-deployment/issues/661",
+      "createdAt": "2025-08-13T04:56:39.090Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
