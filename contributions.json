@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755120449575,
+      "repository": "jodal/comics",
+      "issueTitle": "Smush comic images to save disk space and reduce page load time",
+      "url": "https://github.com/jodal/comics/issues/51",
+      "createdAt": "2025-08-13T21:27:29.576Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
