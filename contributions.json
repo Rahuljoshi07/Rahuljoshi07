@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755048757887,
+      "repository": "thewtex/ngff-zarr",
+      "issueTitle": "chunk size error when writing multiscale to ngff_zarr",
+      "url": "https://github.com/thewtex/ngff-zarr/issues/200",
+      "createdAt": "2025-08-13T01:32:37.887Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
