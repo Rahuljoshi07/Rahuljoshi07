@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755118263043,
+      "repository": "RTXteam/RTX",
+      "issueTitle": "can we get some of these \"slow\" FET unit tests working again?",
+      "url": "https://github.com/RTXteam/RTX/issues/2542",
+      "createdAt": "2025-08-13T20:51:03.043Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
