@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755098980225,
+      "repository": "jens-maus/node-unifi",
+      "issueTitle": "Upgrade axios dependency due to CVE-2025-27152",
+      "url": "https://github.com/jens-maus/node-unifi/issues/287",
+      "createdAt": "2025-08-13T15:29:40.225Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
