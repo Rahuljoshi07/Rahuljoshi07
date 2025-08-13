@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755114333251,
+      "repository": "PoonLab/sierra-local",
+      "issueTitle": "AttributeError: 'xml.etree.ElementTree.Element' object has no attribute 'getchildren'",
+      "url": "https://github.com/PoonLab/sierra-local/issues/104",
+      "createdAt": "2025-08-13T19:45:33.251Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
