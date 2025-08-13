@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755086026699,
+      "repository": "nathanmarlor/foxess_modbus",
+      "issueTitle": "Issue with Min SoC not retaining setting",
+      "url": "https://github.com/nathanmarlor/foxess_modbus/issues/889",
+      "createdAt": "2025-08-13T11:53:46.699Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
