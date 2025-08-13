@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755085091029,
+      "repository": "yangkyeongmo/mcp-server-apache-airflow",
+      "issueTitle": "\"error\": \"/api/v1 has been removed in Airflow 3, please use its upgraded version /api/v2 instead.\"",
+      "url": "https://github.com/yangkyeongmo/mcp-server-apache-airflow/issues/31",
+      "createdAt": "2025-08-13T11:38:11.029Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
