@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755066180398,
+      "repository": "WebCoder49/code-input",
+      "issueTitle": "With highlight.js, SpecialChars will disappear after creation (perhaps to do with SelectTokenCallbacks)",
+      "url": "https://github.com/WebCoder49/code-input/issues/141",
+      "createdAt": "2025-08-13T06:23:00.398Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
