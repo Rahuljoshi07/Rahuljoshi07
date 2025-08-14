@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755137333323,
+      "repository": "BuntingLabs/mundi.ai",
+      "issueTitle": "Attribute table not display in local use",
+      "url": "https://github.com/BuntingLabs/mundi.ai/issues/11",
+      "createdAt": "2025-08-14T02:08:53.323Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
