@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755135316913,
+      "repository": "AirenSoft/OvenPlayer",
+      "issueTitle": "Audio-only WebRTC streams cause player errors",
+      "url": "https://github.com/AirenSoft/OvenPlayer/issues/475",
+      "createdAt": "2025-08-14T01:35:16.913Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
