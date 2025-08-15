@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755295728233,
+      "repository": "Mostafa-Wahied/portracker",
+      "issueTitle": "First scan never finishes",
+      "url": "https://github.com/Mostafa-Wahied/portracker/issues/20",
+      "createdAt": "2025-08-15T22:08:48.233Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
