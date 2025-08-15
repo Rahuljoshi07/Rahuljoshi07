@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755264971150,
+      "repository": "equinor/ert",
+      "issueTitle": "Forward model runner hangs after forward model is finished when running Everest",
+      "url": "https://github.com/equinor/ert/issues/11424",
+      "createdAt": "2025-08-15T13:36:11.150Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
