@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755261012109,
+      "repository": "vue-viewer-editor/vve-i18n-cli",
+      "issueTitle": "建议优化key生成规则以及翻译长度限制机制",
+      "url": "https://github.com/vue-viewer-editor/vve-i18n-cli/issues/18",
+      "createdAt": "2025-08-15T12:30:12.109Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
