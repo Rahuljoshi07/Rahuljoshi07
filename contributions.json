@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755280508312,
+      "repository": "prody/ProDy",
+      "issueTitle": "Error parsing mmCIF for PDB entry 1al2",
+      "url": "https://github.com/prody/ProDy/issues/2162",
+      "createdAt": "2025-08-15T17:55:08.312Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
