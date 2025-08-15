@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755270381988,
+      "repository": "strands-agents/agent-builder",
+      "issueTitle": "[BUG] Builder aborts with An error occurred (ThrottlingException) when calling the ConverseStream operation: Too many tokens, please wait before trying again.",
+      "url": "https://github.com/strands-agents/agent-builder/issues/31",
+      "createdAt": "2025-08-15T15:06:21.988Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
