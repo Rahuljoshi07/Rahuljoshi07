@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1755302205352,
-      "repository": "Foundryborne/daggerheart",
-      "issueTitle": "[BUG] - getRollData returns object with infinitely nested .system property",
-      "url": "https://github.com/Foundryborne/daggerheart/issues/867",
-      "createdAt": "2025-08-15T23:56:45.352Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
