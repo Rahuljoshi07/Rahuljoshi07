@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755259040567,
+      "repository": "4DNucleome/PartSeg",
+      "issueTitle": "[test-bot] pip install --pre is failing",
+      "url": "https://github.com/4DNucleome/PartSeg/issues/1252",
+      "createdAt": "2025-08-15T11:57:20.567Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
