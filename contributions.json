@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755234071848,
+      "repository": "AllTheMods/ATM-10",
+      "issueTitle": "[Modpack Bug]: MineColonies",
+      "url": "https://github.com/AllTheMods/ATM-10/issues/3275",
+      "createdAt": "2025-08-15T05:01:11.848Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
