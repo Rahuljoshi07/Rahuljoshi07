@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755256486069,
+      "repository": "c-basalt/bilibili-live-seeker-script",
+      "issueTitle": "[Bug]25/4/5开始会出现直播声音重复播放的情况",
+      "url": "https://github.com/c-basalt/bilibili-live-seeker-script/issues/6",
+      "createdAt": "2025-08-15T11:14:46.069Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
