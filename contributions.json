@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1755248191342,
-      "repository": "keithamus/observable-polyfill",
-      "issueTitle": "tearDown order needs to be upstream->downstream on consumer-initiated unsubscription",
-      "url": "https://github.com/keithamus/observable-polyfill/issues/30",
-      "createdAt": "2025-08-15T08:56:31.342Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
