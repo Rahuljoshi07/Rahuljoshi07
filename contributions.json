@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755268660896,
+      "repository": "firstof9/ha-gasbuddy",
+      "issueTitle": "[Bug]: Every now and then it looks like i get a timeout error",
+      "url": "https://github.com/firstof9/ha-gasbuddy/issues/158",
+      "createdAt": "2025-08-15T14:37:40.896Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
