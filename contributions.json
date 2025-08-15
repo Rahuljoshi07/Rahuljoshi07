@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755262801670,
+      "repository": "NorskRegnesentral/skchange",
+      "issueTitle": "Large slowdown for CAPA",
+      "url": "https://github.com/NorskRegnesentral/skchange/issues/88",
+      "createdAt": "2025-08-15T13:00:01.670Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
