@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755246558399,
+      "repository": "bahmutov/cypress-esbuild-preprocessor",
+      "issueTitle": "In watch mode, if there is a compile error, Cypress is not notified (fix included!)",
+      "url": "https://github.com/bahmutov/cypress-esbuild-preprocessor/issues/380",
+      "createdAt": "2025-08-15T08:29:18.399Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
