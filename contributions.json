@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755259844639,
+      "repository": "kernelkit/infix",
+      "issueTitle": "Container upgrade unexpectedly consumes storage space",
+      "url": "https://github.com/kernelkit/infix/issues/1098",
+      "createdAt": "2025-08-15T12:10:44.639Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
