@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1755248136575,
-      "repository": "OPPO-PersonalAI/OAgents",
-      "issueTitle": "Bug Report:  undefined function in visual_inspector_tool.py",
-      "url": "https://github.com/OPPO-PersonalAI/OAgents/issues/7",
-      "createdAt": "2025-08-15T08:55:36.575Z",
+      "id": 1755248191342,
+      "repository": "keithamus/observable-polyfill",
+      "issueTitle": "tearDown order needs to be upstream->downstream on consumer-initiated unsubscription",
+      "url": "https://github.com/keithamus/observable-polyfill/issues/30",
+      "createdAt": "2025-08-15T08:56:31.342Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
