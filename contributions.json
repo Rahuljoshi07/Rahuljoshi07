@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755283147900,
+      "repository": "christiansandberg/python-can-remote",
+      "issueTitle": "Issue with RemoteBus missing setter for protocol",
+      "url": "https://github.com/christiansandberg/python-can-remote/issues/34",
+      "createdAt": "2025-08-15T18:39:07.900Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
