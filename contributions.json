@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755286371458,
+      "repository": "wlcrs/huawei_solar",
+      "issueTitle": "[Bug]: ModbusClientMixin.read_holding_registers() got an unexpected keyword argument 'slave'",
+      "url": "https://github.com/wlcrs/huawei_solar/issues/1065",
+      "createdAt": "2025-08-15T19:32:51.458Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
