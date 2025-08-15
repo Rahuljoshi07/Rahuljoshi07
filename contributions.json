@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755246227240,
+      "repository": "rpbouman/huey",
+      "issueTitle": "Prompt for datasource dialog should probably wrap content and not scroll the buttons.",
+      "url": "https://github.com/rpbouman/huey/issues/583",
+      "createdAt": "2025-08-15T08:23:47.240Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
