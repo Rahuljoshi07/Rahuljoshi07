@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755287725766,
+      "repository": "ietf-tools/datatracker",
+      "issueTitle": "Profile pages should point to rfc-editor for RFCs",
+      "url": "https://github.com/ietf-tools/datatracker/issues/9352",
+      "createdAt": "2025-08-15T19:55:25.766Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
