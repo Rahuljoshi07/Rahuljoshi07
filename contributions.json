@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755290087585,
+      "repository": "amd/RyzenAI-SW",
+      "issueTitle": "VitisAI Execution Provider: Multiple Session Resource Conflict Issue",
+      "url": "https://github.com/amd/RyzenAI-SW/issues/223",
+      "createdAt": "2025-08-15T20:34:47.585Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
