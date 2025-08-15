@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755285146720,
+      "repository": "GSA/notifications-admin",
+      "issueTitle": "Bug: When a new template folder is added, existing users are automatically given permission to it",
+      "url": "https://github.com/GSA/notifications-admin/issues/2795",
+      "createdAt": "2025-08-15T19:12:26.720Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
