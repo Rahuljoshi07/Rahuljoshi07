@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755253606386,
+      "repository": "jentic/standard-agent",
+      "issueTitle": "[Bug] Tool Call failing using GPT-4.1 and GPT-5",
+      "url": "https://github.com/jentic/standard-agent/issues/33",
+      "createdAt": "2025-08-15T10:26:46.386Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
