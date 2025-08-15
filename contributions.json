@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755256373435,
+      "repository": "TinyTapeout/ttsky25a-tinyQV",
+      "issueTitle": "Debug mode in Generic FPGA",
+      "url": "https://github.com/TinyTapeout/ttsky25a-tinyQV/issues/32",
+      "createdAt": "2025-08-15T11:12:53.435Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
