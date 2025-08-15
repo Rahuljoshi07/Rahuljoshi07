@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755247263811,
+      "repository": "nextcloud/guests",
+      "issueTitle": "Guest users cannot upload files through the sync of the desktop app",
+      "url": "https://github.com/nextcloud/guests/issues/1363",
+      "createdAt": "2025-08-15T08:41:03.811Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
