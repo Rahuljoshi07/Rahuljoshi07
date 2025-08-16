@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755384796154,
+      "repository": "JustusAvramenko/delenda_est",
+      "issueTitle": "Error Launching singleplayer game",
+      "url": "https://github.com/JustusAvramenko/delenda_est/issues/68",
+      "createdAt": "2025-08-16T22:53:16.154Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
