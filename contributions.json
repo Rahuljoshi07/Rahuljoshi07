@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755363428775,
+      "repository": "packing-box/docker-packing-box",
+      "issueTitle": "Bug when using make with --source-dir",
+      "url": "https://github.com/packing-box/docker-packing-box/issues/169",
+      "createdAt": "2025-08-16T16:57:08.775Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
