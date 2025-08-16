@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755304595336,
+      "repository": "mbailey/voicemode",
+      "issueTitle": "Install.sh incorrectly identifies Ubuntu 24.04 as WSL2",
+      "url": "https://github.com/mbailey/voicemode/issues/23",
+      "createdAt": "2025-08-16T00:36:35.336Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
