@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755310023219,
+      "repository": "Kushika-Agarwal/Collaborative-code-editor",
+      "issueTitle": "File name change",
+      "url": "https://github.com/Kushika-Agarwal/Collaborative-code-editor/issues/60",
+      "createdAt": "2025-08-16T02:07:03.220Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
