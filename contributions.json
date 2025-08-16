@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755344941479,
+      "repository": "heshengtao/super-agent-party",
+      "issueTitle": "MCP streamable协议添加失败",
+      "url": "https://github.com/heshengtao/super-agent-party/issues/139",
+      "createdAt": "2025-08-16T11:49:01.479Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
