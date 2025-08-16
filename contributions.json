@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755310295308,
+      "repository": "rbalestr-lab/stable-ssl",
+      "issueTitle": "Automatic gradient clipping is not supported for manual optimization",
+      "url": "https://github.com/rbalestr-lab/stable-ssl/issues/246",
+      "createdAt": "2025-08-16T02:11:35.308Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
