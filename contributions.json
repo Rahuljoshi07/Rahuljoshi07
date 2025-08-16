@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755325049174,
+      "repository": "EduHaven/EduHaven",
+      "issueTitle": "Bug: show the new users on Top &  Fix the friends section UI",
+      "url": "https://github.com/EduHaven/EduHaven/issues/309",
+      "createdAt": "2025-08-16T06:17:29.174Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
