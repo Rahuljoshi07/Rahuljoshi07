@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755330279937,
+      "repository": "inc2734/unitone",
+      "issueTitle": "子ページの一覧ブロックでスタイルを「スタック（区切り：ストライプ）」にしたとき、入れ子があると区切り線が重複する",
+      "url": "https://github.com/inc2734/unitone/issues/622",
+      "createdAt": "2025-08-16T07:44:39.937Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
