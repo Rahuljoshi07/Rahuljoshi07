@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755398646704,
+      "repository": "jupyter-server/enterprise_gateway",
+      "issueTitle": "Kernelspecs pvc has hardcoded name for volume as pvc-kernelspecs",
+      "url": "https://github.com/jupyter-server/enterprise_gateway/issues/1403",
+      "createdAt": "2025-08-17T02:44:06.704Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
