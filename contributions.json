@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755391828299,
+      "repository": "ROCm/iris",
+      "issueTitle": "[Issue]: Improve the Iris allocator",
+      "url": "https://github.com/ROCm/iris/issues/72",
+      "createdAt": "2025-08-17T00:50:28.299Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
