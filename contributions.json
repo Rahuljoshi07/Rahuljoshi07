@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755393200010,
+      "repository": "djlint/djLint",
+      "issueTitle": "[BUG] [Formatter] djlint messes up django tags nested in style tag",
+      "url": "https://github.com/djlint/djLint/issues/1392",
+      "createdAt": "2025-08-17T01:13:20.010Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
