@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755396420567,
+      "repository": "AmbitionEng/django-pgtrigger",
+      "issueTitle": "django.db.utils.ProgrammingError: unterminated dollar-quoted string at or near \"$$",
+      "url": "https://github.com/AmbitionEng/django-pgtrigger/issues/115",
+      "createdAt": "2025-08-17T02:07:00.568Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
