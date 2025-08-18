@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755497194002,
+      "repository": "beaufour/flickr-download",
+      "issueTitle": "Cannot complete download of large photosets - checking existing files requires connection which can fail + slow",
+      "url": "https://github.com/beaufour/flickr-download/issues/63",
+      "createdAt": "2025-08-18T06:06:34.002Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
