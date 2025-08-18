@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755527237600,
+      "repository": "loadsmart/django-jaiminho",
+      "issueTitle": "Use Cases for PublishOnCommitStrategy",
+      "url": "https://github.com/loadsmart/django-jaiminho/issues/216",
+      "createdAt": "2025-08-18T14:27:17.600Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
