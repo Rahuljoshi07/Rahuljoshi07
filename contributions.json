@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755492283376,
+      "repository": "mgsloan/todoist-shortcuts",
+      "issueTitle": "Moving task up and down is not working properly.",
+      "url": "https://github.com/mgsloan/todoist-shortcuts/issues/241",
+      "createdAt": "2025-08-18T04:44:43.376Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
