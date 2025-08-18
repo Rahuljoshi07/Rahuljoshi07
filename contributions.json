@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755522831642,
+      "repository": "kartoza/django-bims",
+      "issueTitle": "Increase layer rendering speed",
+      "url": "https://github.com/kartoza/django-bims/issues/4695",
+      "createdAt": "2025-08-18T13:13:51.642Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
