@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755517376201,
+      "repository": "sbi-dev/sbi",
+      "issueTitle": "iid tests for fmpe and score-based iid methods failing",
+      "url": "https://github.com/sbi-dev/sbi/issues/1646",
+      "createdAt": "2025-08-18T11:42:56.201Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
