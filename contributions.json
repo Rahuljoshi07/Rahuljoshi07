@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755542992593,
+      "repository": "Datura-ai/lium-io",
+      "issueTitle": "[BUG] SN51 (finney): collateral (0.14 TAO) lost after remove-executor — no reclaim created",
+      "url": "https://github.com/Datura-ai/lium-io/issues/571",
+      "createdAt": "2025-08-18T18:49:52.593Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
