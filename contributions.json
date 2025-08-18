@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755538337156,
+      "repository": "eccentriccoder01/TalkHeal",
+      "issueTitle": "Chat input causes full app refresh and message loss in TalkHeal Streamlit app",
+      "url": "https://github.com/eccentriccoder01/TalkHeal/issues/65",
+      "createdAt": "2025-08-18T17:32:17.156Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
