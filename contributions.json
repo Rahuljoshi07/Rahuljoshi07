@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755555171584,
+      "repository": "ReinFlow/ReinFlow",
+      "issueTitle": "Some Errors on training",
+      "url": "https://github.com/ReinFlow/ReinFlow/issues/5",
+      "createdAt": "2025-08-18T22:12:51.584Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
