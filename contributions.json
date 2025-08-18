@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755508862338,
+      "repository": "yeyang52/yenai-plugin",
+      "issueTitle": "[Bug] 使用Onebot V11协议无法获取昵称",
+      "url": "https://github.com/yeyang52/yenai-plugin/issues/159",
+      "createdAt": "2025-08-18T09:21:02.338Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
