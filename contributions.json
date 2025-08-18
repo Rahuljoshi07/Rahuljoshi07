@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755518275102,
+      "repository": "openpgpjs/web-stream-tools",
+      "issueTitle": "Issue with error `concatUint8Array: Data must be in the form of a Uint8Array` using OpenPGP",
+      "url": "https://github.com/openpgpjs/web-stream-tools/issues/51",
+      "createdAt": "2025-08-18T11:57:55.102Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
