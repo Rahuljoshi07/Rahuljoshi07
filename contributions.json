@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755555562471,
+      "repository": "TA2k/ioBroker.bmw",
+      "issueTitle": "BMW changed authentication method (?)",
+      "url": "https://github.com/TA2k/ioBroker.bmw/issues/73",
+      "createdAt": "2025-08-18T22:19:22.471Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
