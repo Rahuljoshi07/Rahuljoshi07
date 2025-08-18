@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755503368764,
+      "repository": "ItsPi3141/discord-fake-avatar-decorations",
+      "issueTitle": "Pfp image not generating",
+      "url": "https://github.com/ItsPi3141/discord-fake-avatar-decorations/issues/36",
+      "createdAt": "2025-08-18T07:49:28.764Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
