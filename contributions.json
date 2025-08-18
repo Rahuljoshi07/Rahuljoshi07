@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755561429896,
+      "repository": "freakboy3742/pyxero",
+      "issueTitle": "500 error responses from Xero should raise exception",
+      "url": "https://github.com/freakboy3742/pyxero/issues/225",
+      "createdAt": "2025-08-18T23:57:09.896Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
