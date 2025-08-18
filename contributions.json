@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1755537644110,
-      "repository": "Open-EO/openeo-python-client",
-      "issueTitle": "STACAPIJobDatabase.item_from  always uses \"now\" as datetime?",
-      "url": "https://github.com/Open-EO/openeo-python-client/issues/797",
-      "createdAt": "2025-08-18T17:20:44.110Z",
+      "id": 1755537704038,
+      "repository": "confluentinc/confluent-kafka-javascript",
+      "issueTitle": "Segfault while closing the consumer while consume loop is running",
+      "url": "https://github.com/confluentinc/confluent-kafka-javascript/issues/34",
+      "createdAt": "2025-08-18T17:21:44.038Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
