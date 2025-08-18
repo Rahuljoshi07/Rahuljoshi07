@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755512790541,
+      "repository": "GetStream/stream-chat-react",
+      "issueTitle": "Question: how to  modify a custom field when editing a message.",
+      "url": "https://github.com/GetStream/stream-chat-react/issues/2793",
+      "createdAt": "2025-08-18T10:26:30.541Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
