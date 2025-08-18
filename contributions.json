@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755494446583,
+      "repository": "langgenius/dify-official-plugins",
+      "issueTitle": "Amazon Bedrock Plugin 0.0.17: Cannot set AWS Regions outside of US",
+      "url": "https://github.com/langgenius/dify-official-plugins/issues/894",
+      "createdAt": "2025-08-18T05:20:46.584Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
