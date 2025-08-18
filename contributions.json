@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755550037246,
+      "repository": "NPC-Worldwide/npcpy",
+      "issueTitle": "[feat] npcsql models in stu all assume to inherit from the existing npcsql infra",
+      "url": "https://github.com/NPC-Worldwide/npcpy/issues/182",
+      "createdAt": "2025-08-18T20:47:17.247Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
