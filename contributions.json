@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755520721156,
+      "repository": "UniversityOfHelsinkiCS/palaute",
+      "issueTitle": "Less than 5 students notification not shown if student uses link to survey",
+      "url": "https://github.com/UniversityOfHelsinkiCS/palaute/issues/1527",
+      "createdAt": "2025-08-18T12:38:41.156Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
