@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755557858161,
+      "repository": "openwisp/openwisp-notifications",
+      "issueTitle": "[chores] OrganizationSettingView vs OrganizationNotificationSettingView (??)",
+      "url": "https://github.com/openwisp/openwisp-notifications/issues/402",
+      "createdAt": "2025-08-18T22:57:38.161Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
