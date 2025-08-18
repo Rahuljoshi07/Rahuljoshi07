@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755478805278,
+      "repository": "HiroTex/OSD-XMB",
+      "issueTitle": "Multiple issues with VMC on MX4SIO, theme colors, PS2 logo, timezone, and IGR",
+      "url": "https://github.com/HiroTex/OSD-XMB/issues/57",
+      "createdAt": "2025-08-18T01:00:05.278Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
