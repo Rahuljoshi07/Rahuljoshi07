@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755554299819,
+      "repository": "sopelj/hass-ember-mug-component",
+      "issueTitle": "Bug: cant connect when proxy updated to ESPHome 2025.6.0",
+      "url": "https://github.com/sopelj/hass-ember-mug-component/issues/78",
+      "createdAt": "2025-08-18T21:58:19.819Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
