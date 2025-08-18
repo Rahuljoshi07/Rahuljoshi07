@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1755479620248,
-      "repository": "nextcloud/mail",
-      "issueTitle": "`mb_convert_encoding` does not support `windows-1250`.",
-      "url": "https://github.com/nextcloud/mail/issues/1037",
-      "createdAt": "2025-08-18T01:13:40.248Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
