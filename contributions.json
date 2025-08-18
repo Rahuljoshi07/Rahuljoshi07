@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755549399735,
+      "repository": "jhu-bids/TermHub",
+      "issueTitle": "Handle 0-expression csets",
+      "url": "https://github.com/jhu-bids/TermHub/issues/1022",
+      "createdAt": "2025-08-18T20:36:39.736Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
