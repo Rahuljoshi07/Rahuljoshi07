@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755502106823,
+      "repository": "adityadomle/BizFlow",
+      "issueTitle": "Bug - Navbar isn't showing",
+      "url": "https://github.com/adityadomle/BizFlow/issues/129",
+      "createdAt": "2025-08-18T07:28:26.823Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
