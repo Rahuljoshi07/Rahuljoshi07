@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755537644110,
+      "repository": "Open-EO/openeo-python-client",
+      "issueTitle": "STACAPIJobDatabase.item_from  always uses \"now\" as datetime?",
+      "url": "https://github.com/Open-EO/openeo-python-client/issues/797",
+      "createdAt": "2025-08-18T17:20:44.110Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
