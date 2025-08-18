@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755491564442,
+      "repository": "hbq0405/emby-toolkit",
+      "issueTitle": "arm转译版本docker经常出现bug",
+      "url": "https://github.com/hbq0405/emby-toolkit/issues/2",
+      "createdAt": "2025-08-18T04:32:44.442Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
