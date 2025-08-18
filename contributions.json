@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755535844679,
+      "repository": "MonishRaman/Placify-Smarter_Placements-Sharper_Talent",
+      "issueTitle": "[BUG]: Resume Builder Shows 404 on Page Reload",
+      "url": "https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/297",
+      "createdAt": "2025-08-18T16:50:44.679Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
