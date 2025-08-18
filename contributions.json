@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755509379363,
+      "repository": "opensquare-network/subsquare",
+      "issueTitle": "coretime line issue with fixed price phase",
+      "url": "https://github.com/opensquare-network/subsquare/issues/6516",
+      "createdAt": "2025-08-18T09:29:39.363Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
