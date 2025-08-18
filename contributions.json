@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755508271789,
+      "repository": "yeyang52/yenai-plugin",
+      "issueTitle": "[Bug] 入群验证的欢迎消息发送失败",
+      "url": "https://github.com/yeyang52/yenai-plugin/issues/155",
+      "createdAt": "2025-08-18T09:11:11.789Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
