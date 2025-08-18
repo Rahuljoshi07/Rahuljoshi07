@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755536659371,
+      "repository": "nextcloud/photos",
+      "issueTitle": "Faces content display fails consistently",
+      "url": "https://github.com/nextcloud/photos/issues/3105",
+      "createdAt": "2025-08-18T17:04:19.371Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
