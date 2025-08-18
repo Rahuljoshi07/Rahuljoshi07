@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755511912000,
+      "repository": "hivesolutions/appier",
+      "issueTitle": "@appier.error_handler(...) has no effect",
+      "url": "https://github.com/hivesolutions/appier/issues/72",
+      "createdAt": "2025-08-18T10:11:52.000Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
