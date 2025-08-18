@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755538608707,
+      "repository": "spedas/pyspedas",
+      "issueTitle": "Linter warning for avg_data",
+      "url": "https://github.com/spedas/pyspedas/issues/1223",
+      "createdAt": "2025-08-18T17:36:48.707Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
