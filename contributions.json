@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755542301068,
+      "repository": "gemini-testing/looks-same",
+      "issueTitle": "[security] high severity - tar-fs can extract outside the specified dir with a specific tarball",
+      "url": "https://github.com/gemini-testing/looks-same/issues/111",
+      "createdAt": "2025-08-18T18:38:21.068Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
