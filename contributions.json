@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755548814966,
+      "repository": "brisbanesocialchess/brisbanesocialchess.github.io",
+      "issueTitle": "Tailwind CSS fixes needed",
+      "url": "https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/469",
+      "createdAt": "2025-08-18T20:26:54.966Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
