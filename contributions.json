@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755493769117,
+      "repository": "pathintegral-institute/mcpm.sh",
+      "issueTitle": "[Bug]: `spawn mcpm ENOENT` Error in Claude Desktop",
+      "url": "https://github.com/pathintegral-institute/mcpm.sh/issues/229",
+      "createdAt": "2025-08-18T05:09:29.117Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
