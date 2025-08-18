@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1755524597160,
-      "repository": "1024pix/pix",
-      "issueTitle": "Dependency Dashboard",
-      "url": "https://github.com/1024pix/pix/issues/5637",
-      "createdAt": "2025-08-18T13:43:17.160Z",
+      "id": 1755524680084,
+      "repository": "pfsensible/core",
+      "issueTitle": "After updating to pfSense 2.8 seeing \"route: route has not been found\" error when using `pfsense_dns_resolver`",
+      "url": "https://github.com/pfsensible/core/issues/185",
+      "createdAt": "2025-08-18T13:44:40.084Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
