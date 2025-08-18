@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755506779837,
+      "repository": "qgis2web/qgis2web",
+      "issueTitle": "Nested layer groups are still not supported",
+      "url": "https://github.com/qgis2web/qgis2web/issues/1055",
+      "createdAt": "2025-08-18T08:46:19.837Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
