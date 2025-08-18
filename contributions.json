@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755540840629,
+      "repository": "mozilla-ai/document-to-podcast",
+      "issueTitle": "Error when rerunning the app after 1 sucessful completion",
+      "url": "https://github.com/mozilla-ai/document-to-podcast/issues/57",
+      "createdAt": "2025-08-18T18:14:00.629Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
