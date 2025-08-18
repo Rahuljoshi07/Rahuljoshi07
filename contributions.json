@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755535089064,
+      "repository": "bcgov/wps",
+      "issueTitle": "ZAP Scan Baseline Report",
+      "url": "https://github.com/bcgov/wps/issues/4530",
+      "createdAt": "2025-08-18T16:38:09.064Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
