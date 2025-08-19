@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755598242503,
+      "repository": "materialsproject/jobflow",
+      "issueTitle": "BUG: Error when trying to serialize TaskDocument with vasp_objects in data store",
+      "url": "https://github.com/materialsproject/jobflow/issues/770",
+      "createdAt": "2025-08-19T10:10:42.504Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
