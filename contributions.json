@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755628549965,
+      "repository": "iTwin/bis-schemas",
+      "issueTitle": "IModel evolution tests builds are failing",
+      "url": "https://github.com/iTwin/bis-schemas/issues/568",
+      "createdAt": "2025-08-19T18:35:49.965Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
