@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1755584271534,
+      "id": 1755584322110,
       "repository": "wechat-miniprogram/minigame-tuanjie-transform-sdk",
-      "issueTitle": "[worker] Uncaught (in promise) Error: not support minigame.202507210623升级后开发者工具报错。",
-      "url": "https://github.com/wechat-miniprogram/minigame-tuanjie-transform-sdk/issues/41",
-      "createdAt": "2025-08-19T06:17:51.534Z",
+      "issueTitle": "TypeError: Cannot read properties of undefined (reading 'getSystemNanoTime') 在微信开发者工具中使用真机调试在android微信上启动提示",
+      "url": "https://github.com/wechat-miniprogram/minigame-tuanjie-transform-sdk/issues/43",
+      "createdAt": "2025-08-19T06:18:42.110Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
