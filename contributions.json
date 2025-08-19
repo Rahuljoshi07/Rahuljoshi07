@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755596866147,
+      "repository": "l429609201/misaka_danmu_server",
+      "issueTitle": "TypeError: EmbyWebhook.handle.<locals>.<lambda>() takes 1 positional argument but 2 were given",
+      "url": "https://github.com/l429609201/misaka_danmu_server/issues/111",
+      "createdAt": "2025-08-19T09:47:46.147Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
