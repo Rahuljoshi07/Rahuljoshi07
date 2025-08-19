@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755592631088,
+      "repository": "vivoblueos/book",
+      "issueTitle": "Use `linked list` to replace `list` in the description of \"Arc\"",
+      "url": "https://github.com/vivoblueos/book/issues/10",
+      "createdAt": "2025-08-19T08:37:11.088Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
