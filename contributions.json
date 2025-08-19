@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1755616723080,
-      "repository": "PlayFab/JavaScriptSDK",
-      "issueTitle": "Missing JS SDK API Documentatio",
-      "url": "https://github.com/PlayFab/JavaScriptSDK/issues/98",
-      "createdAt": "2025-08-19T15:18:43.080Z",
+      "id": 1755616789852,
+      "repository": "arenaxr/arena-web-core",
+      "issueTitle": "quest click interactions sends two events",
+      "url": "https://github.com/arenaxr/arena-web-core/issues/706",
+      "createdAt": "2025-08-19T15:19:49.852Z",
       "type": "comment",
-      "content": "Adding TypeScript could improve code quality and maintainability. (Suggested by Rahul Joshi)..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
