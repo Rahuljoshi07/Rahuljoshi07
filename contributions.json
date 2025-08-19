@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755611770580,
+      "repository": "nextcloud/mail",
+      "issueTitle": "Microsoft oauth setup throws an error",
+      "url": "https://github.com/nextcloud/mail/issues/11513",
+      "createdAt": "2025-08-19T13:56:10.580Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
