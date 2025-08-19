@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755611466070,
+      "repository": "RhythmPahwa14/AlgoVisualizer",
+      "issueTitle": "UI overflow and layout issues on Sorting page",
+      "url": "https://github.com/RhythmPahwa14/AlgoVisualizer/issues/63",
+      "createdAt": "2025-08-19T13:51:06.070Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
