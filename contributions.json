@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1755584322110,
-      "repository": "wechat-miniprogram/minigame-tuanjie-transform-sdk",
-      "issueTitle": "TypeError: Cannot read properties of undefined (reading 'getSystemNanoTime') 在微信开发者工具中使用真机调试在android微信上启动提示",
-      "url": "https://github.com/wechat-miniprogram/minigame-tuanjie-transform-sdk/issues/43",
-      "createdAt": "2025-08-19T06:18:42.110Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
