@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755608784133,
+      "repository": "gustaveroussy/sopa",
+      "issueTitle": "[Bug] Error in rule resolve_comseg",
+      "url": "https://github.com/gustaveroussy/sopa/issues/288",
+      "createdAt": "2025-08-19T13:06:24.133Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
