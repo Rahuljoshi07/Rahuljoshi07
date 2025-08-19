@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755611972877,
+      "repository": "yjeroen/foundry-shadowrun6-eden",
+      "issueTitle": "[Bug] Weird Active Effect behaviour for weapon AVs",
+      "url": "https://github.com/yjeroen/foundry-shadowrun6-eden/issues/147",
+      "createdAt": "2025-08-19T13:59:32.877Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
