@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755618862699,
+      "repository": "khive-ai/khive.d",
+      "issueTitle": "Add performance tests and benchmarking suite",
+      "url": "https://github.com/khive-ai/khive.d/issues/194",
+      "createdAt": "2025-08-19T15:54:22.699Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
