@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1755587048059,
-      "repository": "OCA/connector-telephony",
-      "issueTitle": "[17.0] AttributeError in phone_validation – 'res.country' object has no attribute 'get'",
-      "url": "https://github.com/OCA/connector-telephony/issues/344",
-      "createdAt": "2025-08-19T07:04:08.059Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
