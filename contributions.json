@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755631360883,
+      "repository": "writer/writer-python",
+      "issueTitle": "Error: filename doesn't exist (and docs are inconsistent with SDK)",
+      "url": "https://github.com/writer/writer-python/issues/155",
+      "createdAt": "2025-08-19T19:22:40.883Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
