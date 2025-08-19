@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755570902133,
+      "repository": "steve02081504/fount",
+      "issueTitle": "无法在不重启的前提下重载部件",
+      "url": "https://github.com/steve02081504/fount/issues/11",
+      "createdAt": "2025-08-19T02:35:02.134Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
