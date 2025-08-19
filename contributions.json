@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755628222424,
+      "repository": "ultimate-notion/ultimate-notion",
+      "issueTitle": "🐛 [BUG] - Collision of attribute names in schema and page",
+      "url": "https://github.com/ultimate-notion/ultimate-notion/issues/86",
+      "createdAt": "2025-08-19T18:30:22.424Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
