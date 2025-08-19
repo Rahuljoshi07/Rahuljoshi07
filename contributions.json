@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755562061550,
+      "repository": "hackthedev/dcts-shipping",
+      "issueTitle": "\"[role] redeemed\" popup not closing when clicking the button to confirm",
+      "url": "https://github.com/hackthedev/dcts-shipping/issues/16",
+      "createdAt": "2025-08-19T00:07:41.550Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
