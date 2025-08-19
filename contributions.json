@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1755569675452,
-      "repository": "tschm/cradle",
-      "issueTitle": "Support Gitlab",
-      "url": "https://github.com/tschm/cradle/issues/50",
-      "createdAt": "2025-08-19T02:14:35.452Z",
+      "id": 1755569707230,
+      "repository": "ansible-collections/azure",
+      "issueTitle": "Unknown key \"os_diskImage\" in azure_rm_galleryimageversion",
+      "url": "https://github.com/ansible-collections/azure/issues/2036",
+      "createdAt": "2025-08-19T02:15:07.230Z",
       "type": "comment",
-      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
