@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755600864610,
+      "repository": "frappe/mail",
+      "issueTitle": "Reopening draft mail repeatedly creates it to refer to the original draft instead of the updated one",
+      "url": "https://github.com/frappe/mail/issues/258",
+      "createdAt": "2025-08-19T10:54:24.610Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
