@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755571122726,
+      "repository": "stfc/PSyclone",
+      "issueTitle": "OMPMinimiseSyncTrans should not fail with a barrier that prevents looping back",
+      "url": "https://github.com/stfc/PSyclone/issues/3091",
+      "createdAt": "2025-08-19T02:38:42.726Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
