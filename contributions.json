@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755599086226,
+      "repository": "aws/sagemaker-core",
+      "issueTitle": "ImportError: cannot import name 'AsyncInferenceConfig' from 'sagemaker_core.resources'",
+      "url": "https://github.com/aws/sagemaker-core/issues/306",
+      "createdAt": "2025-08-19T10:24:46.226Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
