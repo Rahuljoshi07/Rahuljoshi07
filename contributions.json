@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755634948634,
+      "repository": "appium/appium-geckodriver",
+      "issueTitle": "Unable to connect to an existing browser instance using noReset=true",
+      "url": "https://github.com/appium/appium-geckodriver/issues/20",
+      "createdAt": "2025-08-19T20:22:28.634Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
