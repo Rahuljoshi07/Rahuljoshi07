@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755610281163,
+      "repository": "RobotWebTools/roslibpy",
+      "issueTitle": "Subscribing to topics dramatically slows down model inference on GPU",
+      "url": "https://github.com/RobotWebTools/roslibpy/issues/132",
+      "createdAt": "2025-08-19T13:31:21.163Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
