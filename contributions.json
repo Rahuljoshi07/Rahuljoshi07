@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755618066017,
+      "repository": "flipcomputing/flock",
+      "issueTitle": "Ensure all real-time updates between block and canvas editors happen and are synchronised (find faults where this doesn't occur, raise issues and fix them).",
+      "url": "https://github.com/flipcomputing/flock/issues/82",
+      "createdAt": "2025-08-19T15:41:06.017Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
