@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755612365285,
+      "repository": "nextcloud/mail",
+      "issueTitle": "Mail 5.2.0 doesn't pass code integrity check on NC 31.0.8",
+      "url": "https://github.com/nextcloud/mail/issues/11515",
+      "createdAt": "2025-08-19T14:06:05.285Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
