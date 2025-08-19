@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755595476539,
+      "repository": "aliyun/aliyun-odps-python-sdk",
+      "issueTitle": "Decimal(1,1) precision error when its value is -0.1",
+      "url": "https://github.com/aliyun/aliyun-odps-python-sdk/issues/292",
+      "createdAt": "2025-08-19T09:24:36.539Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
