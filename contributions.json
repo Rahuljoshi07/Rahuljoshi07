@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755633345644,
+      "repository": "grebmann1/sfdx-ui-light",
+      "issueTitle": "Edge - Not refreshing when navigating",
+      "url": "https://github.com/grebmann1/sfdx-ui-light/issues/24",
+      "createdAt": "2025-08-19T19:55:45.644Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
