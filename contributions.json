@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755623095891,
+      "repository": "Dispatcharr/Dispatcharr",
+      "issueTitle": "[Bug]: Stat's \"Current Speed\" does not reflect \"Buffering Speed\" setting",
+      "url": "https://github.com/Dispatcharr/Dispatcharr/issues/311",
+      "createdAt": "2025-08-19T17:04:55.891Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
