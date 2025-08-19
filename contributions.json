@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755577992496,
+      "repository": "max-sixty/pytest-accept",
+      "issueTitle": "Issue in case of excess Ellipsis `...` at the end of a multi-line doctest statement ",
+      "url": "https://github.com/max-sixty/pytest-accept/issues/148",
+      "createdAt": "2025-08-19T04:33:12.497Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
