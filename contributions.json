@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755586790003,
+      "repository": "smthemex/ComfyUI_EchoMimic",
+      "issueTitle": "TypeError: Echo_LoadModel.main_loader() got an unexpected keyword argument 'clip'",
+      "url": "https://github.com/smthemex/ComfyUI_EchoMimic/issues/158",
+      "createdAt": "2025-08-19T06:59:50.003Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
