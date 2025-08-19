@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755567359090,
+      "repository": "dataease/SQLBot",
+      "issueTitle": "[BUG] deepseek问数报错（Error:SyntaxError: Unexpected token 'd', \"data:{\"typ\"... is not valid JSON）",
+      "url": "https://github.com/dataease/SQLBot/issues/55",
+      "createdAt": "2025-08-19T01:35:59.091Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
