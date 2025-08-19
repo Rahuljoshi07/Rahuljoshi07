@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755602184742,
+      "repository": "DataDog/dd-trace-js",
+      "issueTitle": "Feature Request: Bun Support",
+      "url": "https://github.com/DataDog/dd-trace-js/issues/3749",
+      "createdAt": "2025-08-19T11:16:24.742Z",
+      "type": "comment",
+      "content": "Using a bundler like Webpack or Vite could improve performance. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
