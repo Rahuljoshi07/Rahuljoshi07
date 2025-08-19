@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1755599764541,
-      "repository": "la3rence/site",
-      "issueTitle": "Dependency Dashboard",
-      "url": "https://github.com/la3rence/site/issues/4",
-      "createdAt": "2025-08-19T10:36:04.541Z",
+      "id": 1755599824623,
+      "repository": "zereight/gitlab-mcp",
+      "issueTitle": "Sporadic Timeouts (MCP error -32001) with SSE After Upgrading from 1.0.65 to 1.0.76+",
+      "url": "https://github.com/zereight/gitlab-mcp/issues/216",
+      "createdAt": "2025-08-19T10:37:04.623Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
