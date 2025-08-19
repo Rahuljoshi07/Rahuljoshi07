@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755585716360,
+      "repository": "text2knowledge/docTR-Labeler",
+      "issueTitle": "[Bug] UI & Canvas differs between different window resolution",
+      "url": "https://github.com/text2knowledge/docTR-Labeler/issues/9",
+      "createdAt": "2025-08-19T06:41:56.360Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
