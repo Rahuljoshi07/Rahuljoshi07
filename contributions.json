@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755588491664,
+      "repository": "aimlapi/api-docs",
+      "issueTitle": "Error langchain integration ",
+      "url": "https://github.com/aimlapi/api-docs/issues/5",
+      "createdAt": "2025-08-19T07:28:11.664Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
