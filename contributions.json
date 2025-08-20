@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755727020373,
+      "repository": "FusionAuth/fusionauth-python-client",
+      "issueTitle": "Bug Report: PATCH /api/user/registration does not work",
+      "url": "https://github.com/FusionAuth/fusionauth-python-client/issues/31",
+      "createdAt": "2025-08-20T21:57:00.373Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
