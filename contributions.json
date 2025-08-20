@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755674772948,
+      "repository": "gardenlinux/gardenlinux",
+      "issueTitle": "De-couple testing and publishing logic from features directory",
+      "url": "https://github.com/gardenlinux/gardenlinux/issues/3244",
+      "createdAt": "2025-08-20T07:26:12.948Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. (Suggested by Rahul Joshi..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
