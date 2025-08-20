@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755696390284,
+      "repository": "openfun/richie",
+      "issueTitle": "Update B2B and B2C sale tunnel",
+      "url": "https://github.com/openfun/richie/issues/2675",
+      "createdAt": "2025-08-20T13:26:30.285Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
