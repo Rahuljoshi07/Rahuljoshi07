@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755702787240,
+      "repository": "willmiao/ComfyUI-Lora-Manager",
+      "issueTitle": "2 [Bug], 2 [FR] in download from url workflow",
+      "url": "https://github.com/willmiao/ComfyUI-Lora-Manager/issues/367",
+      "createdAt": "2025-08-20T15:13:07.240Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
