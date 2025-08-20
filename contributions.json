@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755705619300,
+      "repository": "databricks/dbt-databricks",
+      "issueTitle": "materialization_v2: View materialization will always use default schema than the one stated in dbt_project.yml",
+      "url": "https://github.com/databricks/dbt-databricks/issues/1152",
+      "createdAt": "2025-08-20T16:00:19.300Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
