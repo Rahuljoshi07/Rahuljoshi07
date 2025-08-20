@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755664397550,
+      "repository": "C2SAgent/c2sagent",
+      "issueTitle": "Multi-language button bug",
+      "url": "https://github.com/C2SAgent/c2sagent/issues/39",
+      "createdAt": "2025-08-20T04:33:17.550Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
