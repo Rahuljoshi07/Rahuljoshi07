@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755658458742,
+      "repository": "seung-lab/cloud-volume",
+      "issueTitle": "Fails to open Zarr v0.4+",
+      "url": "https://github.com/seung-lab/cloud-volume/issues/655",
+      "createdAt": "2025-08-20T02:54:18.742Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
