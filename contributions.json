@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755715081512,
+      "repository": "bigbluebutton/bbb-transcription-controller",
+      "issueTitle": "The automatic language feature no longer works in version 2.7.7.",
+      "url": "https://github.com/bigbluebutton/bbb-transcription-controller/issues/11",
+      "createdAt": "2025-08-20T18:38:01.512Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
