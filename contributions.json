@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755677012330,
+      "repository": "sindresorhus/cpy",
+      "issueTitle": "wildcard vs explicit paths have different output",
+      "url": "https://github.com/sindresorhus/cpy/issues/105",
+      "createdAt": "2025-08-20T08:03:32.330Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
