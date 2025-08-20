@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755667120673,
+      "repository": "unoplat/unoplat-code-confluence",
+      "issueTitle": "fix: figure out while doing codebase detection if repository has supported programming languages before even we start",
+      "url": "https://github.com/unoplat/unoplat-code-confluence/issues/667",
+      "createdAt": "2025-08-20T05:18:40.673Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
