@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755734371165,
+      "repository": "Teradata/teradata-mcp-server",
+      "issueTitle": "Test cases fail on data quality tools",
+      "url": "https://github.com/Teradata/teradata-mcp-server/issues/147",
+      "createdAt": "2025-08-20T23:59:31.165Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
