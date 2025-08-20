@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755660166610,
+      "repository": "yegor256/awesome-cfp",
+      "issueTitle": "the table is not sorted by the rank",
+      "url": "https://github.com/yegor256/awesome-cfp/issues/73",
+      "createdAt": "2025-08-20T03:22:46.611Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
