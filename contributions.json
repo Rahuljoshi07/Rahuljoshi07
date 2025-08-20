@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755697248804,
+      "repository": "bpmn-io/bpmn-js-properties-panel",
+      "issueTitle": "Properties panel updated with stale element",
+      "url": "https://github.com/bpmn-io/bpmn-js-properties-panel/issues/1131",
+      "createdAt": "2025-08-20T13:40:48.804Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
