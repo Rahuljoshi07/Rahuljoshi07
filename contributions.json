@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755710860605,
+      "repository": "databricks/dbt-databricks",
+      "issueTitle": "Issue when modifying FK Constraint on incremental model (materialization_v2)",
+      "url": "https://github.com/databricks/dbt-databricks/issues/1149",
+      "createdAt": "2025-08-20T17:27:40.605Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
