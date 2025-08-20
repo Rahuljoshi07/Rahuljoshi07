@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755662503365,
+      "repository": "proxystore/taps",
+      "issueTitle": "Avoid calling `result()` in task callbacks",
+      "url": "https://github.com/proxystore/taps/issues/108",
+      "createdAt": "2025-08-20T04:01:43.365Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
