@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755685182674,
+      "repository": "inveniosoftware/invenio-rdm-records",
+      "issueTitle": "Invalid handle.stage.datacite.org link when DATACITE_TEST_MODE=True",
+      "url": "https://github.com/inveniosoftware/invenio-rdm-records/issues/2129",
+      "createdAt": "2025-08-20T10:19:42.674Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
