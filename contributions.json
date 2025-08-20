@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755708212757,
+      "repository": "linuxmint/cinnamon-spices-applets",
+      "issueTitle": "Applet Bug: no longer opens system monitor on click or context menu",
+      "url": "https://github.com/linuxmint/cinnamon-spices-applets/issues/7545",
+      "createdAt": "2025-08-20T16:43:32.757Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
