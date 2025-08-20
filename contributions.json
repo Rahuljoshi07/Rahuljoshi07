@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755722699774,
+      "repository": "simplecto/django-reference-implementation",
+      "issueTitle": "Consider adding djlint for django templates",
+      "url": "https://github.com/simplecto/django-reference-implementation/issues/218",
+      "createdAt": "2025-08-20T20:44:59.774Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. This suggestion is particularly relevant..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
