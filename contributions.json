@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755679087353,
+      "repository": "superannotateai/superannotate-python-sdk",
+      "issueTitle": "an issue with client session with using SAClient",
+      "url": "https://github.com/superannotateai/superannotate-python-sdk/issues/778",
+      "createdAt": "2025-08-20T08:38:07.353Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
