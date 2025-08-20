@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755689973673,
+      "repository": "wavelog/WaveLogGate",
+      "issueTitle": "Add a failover if error occurs when push data",
+      "url": "https://github.com/wavelog/WaveLogGate/issues/23",
+      "createdAt": "2025-08-20T11:39:33.673Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
