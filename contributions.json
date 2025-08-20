@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755651572741,
+      "repository": "ModelCloud/GPTQModel",
+      "issueTitle": "[BUG] Some lays weight randomly don't quantize for  Qwen3-Coder-30B-A3B-Instruct",
+      "url": "https://github.com/ModelCloud/GPTQModel/issues/1680",
+      "createdAt": "2025-08-20T00:59:32.741Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
