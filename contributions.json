@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755651465479,
+      "repository": "qLDPCOrg/qLDPC",
+      "issueTitle": "Parallel decoding with relay-bp",
+      "url": "https://github.com/qLDPCOrg/qLDPC/issues/331",
+      "createdAt": "2025-08-20T00:57:45.479Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
