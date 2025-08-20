@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755720509328,
+      "repository": "acorg/beast2-xml",
+      "issueTitle": "Error 1017: Class could not be found when running BEAST with generated XML",
+      "url": "https://github.com/acorg/beast2-xml/issues/14",
+      "createdAt": "2025-08-20T20:08:29.328Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
