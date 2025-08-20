@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755713735144,
+      "repository": "TeamShiksha/openlogo",
+      "issueTitle": "Validate Data and API Responses for Permission API (Catalog Route)",
+      "url": "https://github.com/TeamShiksha/openlogo/issues/739",
+      "createdAt": "2025-08-20T18:15:35.144Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
