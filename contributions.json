@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755664896593,
+      "repository": "StakeEngine/math-sdk",
+      "issueTitle": "Alternate Optimization Strategies",
+      "url": "https://github.com/StakeEngine/math-sdk/issues/4",
+      "createdAt": "2025-08-20T04:41:36.593Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
