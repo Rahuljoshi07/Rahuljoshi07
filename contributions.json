@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755703826978,
+      "repository": "nod-ai/shark-ai",
+      "issueTitle": "[tuner] Incorrect mma_kind on GFX1100 (WMMAR3 vs MFMA)",
+      "url": "https://github.com/nod-ai/shark-ai/issues/2048",
+      "createdAt": "2025-08-20T15:30:26.978Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
