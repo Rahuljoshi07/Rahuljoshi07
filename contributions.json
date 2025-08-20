@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755731160093,
+      "repository": "CatalystDevOrg/Catalyst",
+      "issueTitle": "Privacy Issues",
+      "url": "https://github.com/CatalystDevOrg/Catalyst/issues/558",
+      "createdAt": "2025-08-20T23:06:00.093Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
