@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755715852044,
+      "repository": "openfl/lime",
+      "issueTitle": "Uncaught exception: [lime.utils.Preloader] ERROR: There is no asset library with an ID of \"default\"",
+      "url": "https://github.com/openfl/lime/issues/1757",
+      "createdAt": "2025-08-20T18:50:52.044Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
