@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755695141281,
+      "repository": "Citolab/qti-components",
+      "issueTitle": "We use it in vue3+typescript，but has some issues",
+      "url": "https://github.com/Citolab/qti-components/issues/17",
+      "createdAt": "2025-08-20T13:05:41.281Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
