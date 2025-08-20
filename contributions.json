@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755675682415,
+      "repository": "XMU-Kuangnan-Fang-Team/BiFuncLib",
+      "issueTitle": "`np.matrix` is incompatible with `scikit-learn`",
+      "url": "https://github.com/XMU-Kuangnan-Fang-Team/BiFuncLib/issues/94",
+      "createdAt": "2025-08-20T07:41:22.415Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
