@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755727440432,
+      "repository": "memeLab/Jandig",
+      "issueTitle": "Exibição com GLB",
+      "url": "https://github.com/memeLab/Jandig/issues/787",
+      "createdAt": "2025-08-20T22:04:00.432Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
