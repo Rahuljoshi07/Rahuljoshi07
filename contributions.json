@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755742580386,
+      "repository": "fosslight/fosslight_source_scanner",
+      "issueTitle": "-p (analysis path) does not work when running with Docker.",
+      "url": "https://github.com/fosslight/fosslight_source_scanner/issues/82",
+      "createdAt": "2025-08-21T02:16:20.386Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
