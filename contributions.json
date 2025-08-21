@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755778018528,
+      "repository": "act-rules/act-rules.github.io",
+      "issueTitle": "ARIA ID Reference Error Processing - Requires ACT review",
+      "url": "https://github.com/act-rules/act-rules.github.io/issues/2337",
+      "createdAt": "2025-08-21T12:06:58.528Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
