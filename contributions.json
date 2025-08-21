@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755786730834,
+      "repository": "calkit/calkit",
+      "issueTitle": "I want to be able to easily convert my conda environment to a uv virtual environment",
+      "url": "https://github.com/calkit/calkit/issues/319",
+      "createdAt": "2025-08-21T14:32:10.834Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
