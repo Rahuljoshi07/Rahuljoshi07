@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755752393382,
+      "repository": "murtaza-nasir/maestro",
+      "issueTitle": "A small issue：Why can't I upload the file?",
+      "url": "https://github.com/murtaza-nasir/maestro/issues/18",
+      "createdAt": "2025-08-21T04:59:53.382Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
