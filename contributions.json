@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755745651853,
+      "repository": "adityadomle/BizFlow",
+      "issueTitle": "Issue: Improve UI of Pricing Section",
+      "url": "https://github.com/adityadomle/BizFlow/issues/170",
+      "createdAt": "2025-08-21T03:07:31.853Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
