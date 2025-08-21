@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755768484119,
+      "repository": "feldroy/air",
+      "issueTitle": "BUG: attribute_set_to_true=True doesn't convert underscores to dashes",
+      "url": "https://github.com/feldroy/air/issues/326",
+      "createdAt": "2025-08-21T09:28:04.119Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
