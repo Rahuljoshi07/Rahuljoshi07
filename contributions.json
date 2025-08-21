@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755764990403,
+      "repository": "pyodide/pyodide-recipes",
+      "issueTitle": "Cython 3.1.0a1 is gone from PyPI and it is causing build issue in python-flint",
+      "url": "https://github.com/pyodide/pyodide-recipes/issues/322",
+      "createdAt": "2025-08-21T08:29:50.403Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
