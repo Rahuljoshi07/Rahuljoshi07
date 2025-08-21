@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755770056052,
+      "repository": "ansys/pyedb",
+      "issueTitle": "Bug located in pyedb.configuration.cfg_ports_sources",
+      "url": "https://github.com/ansys/pyedb/issues/1455",
+      "createdAt": "2025-08-21T09:54:16.052Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
