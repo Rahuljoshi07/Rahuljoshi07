@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755736987062,
+      "repository": "nextcloud/files_retention",
+      "issueTitle": "Files deleted by files_retention are moved to invalid folder \"data/files_trashbin/versions\"",
+      "url": "https://github.com/nextcloud/files_retention/issues/822",
+      "createdAt": "2025-08-21T00:43:07.062Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
