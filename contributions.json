@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755766967622,
+      "repository": "transition-zero/tz-osemosys",
+      "issueTitle": "BUG: capacity_additional_max_growth_rate is ignored when capacity_additional_max_floor is not specified",
+      "url": "https://github.com/transition-zero/tz-osemosys/issues/152",
+      "createdAt": "2025-08-21T09:02:47.622Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
