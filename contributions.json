@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755763591978,
+      "repository": "munich-quantum-toolkit/.github",
+      "issueTitle": ":bug: Import error in handbook",
+      "url": "https://github.com/munich-quantum-toolkit/.github/issues/40",
+      "createdAt": "2025-08-21T08:06:31.978Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
