@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755740682431,
+      "repository": "ModelCloud/GPTQModel",
+      "issueTitle": "[BUG] Quantizing Qwen2.5-VL-7B on 4090 got VRAM oom",
+      "url": "https://github.com/ModelCloud/GPTQModel/issues/1658",
+      "createdAt": "2025-08-21T01:44:42.431Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
