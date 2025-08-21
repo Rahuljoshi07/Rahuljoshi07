@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755764347922,
+      "repository": "blockchain-certificates/cert-issuer",
+      "issueTitle": "Failed to resolve error",
+      "url": "https://github.com/blockchain-certificates/cert-issuer/issues/283",
+      "createdAt": "2025-08-21T08:19:07.922Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
