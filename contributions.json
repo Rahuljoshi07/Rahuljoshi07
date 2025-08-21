@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1755777446807,
-      "repository": "neo4j/neo4j-javascript-driver",
-      "issueTitle": "Neo4J `_isFailFastSecurityError` occurs when attempting to perform `verifyAuthentication` multiple times when sharing a Neo4j Driver Instance in a CF Worker Runtime",
-      "url": "https://github.com/neo4j/neo4j-javascript-driver/issues/1315",
-      "createdAt": "2025-08-21T11:57:26.808Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
