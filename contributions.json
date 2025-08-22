@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755885630713,
+      "repository": "Azornes/Comfyui-Resolution-Master",
+      "issueTitle": "[BUG] connecting new input does not reset the scale factor",
+      "url": "https://github.com/Azornes/Comfyui-Resolution-Master/issues/7",
+      "createdAt": "2025-08-22T18:00:30.713Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
