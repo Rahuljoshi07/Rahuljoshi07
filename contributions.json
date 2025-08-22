@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755836461599,
+      "repository": "titaniumnetwork-dev/Ultraviolet-App",
+      "issueTitle": "Firefox - NS_ERROR_BLOCKED_BY_POLICY",
+      "url": "https://github.com/titaniumnetwork-dev/Ultraviolet-App/issues/118",
+      "createdAt": "2025-08-22T04:21:01.599Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
