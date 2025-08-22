@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755847693360,
+      "repository": "elastic/apm-agent-nodejs",
+      "issueTitle": "Bug report: metricset.interval stuck at 1m even when metricsInterval ≠ 1m (Node.js APM agent)",
+      "url": "https://github.com/elastic/apm-agent-nodejs/issues/4726",
+      "createdAt": "2025-08-22T07:28:13.360Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
