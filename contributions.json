@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1755847693360,
-      "repository": "elastic/apm-agent-nodejs",
-      "issueTitle": "Bug report: metricset.interval stuck at 1m even when metricsInterval ≠ 1m (Node.js APM agent)",
-      "url": "https://github.com/elastic/apm-agent-nodejs/issues/4726",
-      "createdAt": "2025-08-22T07:28:13.360Z",
+      "id": 1755847761867,
+      "repository": "storyblok/storyblok-cli",
+      "issueTitle": "Cannot use `.ts` file extension for custom-fields-parser",
+      "url": "https://github.com/storyblok/storyblok-cli/issues/239",
+      "createdAt": "2025-08-22T07:29:21.868Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
