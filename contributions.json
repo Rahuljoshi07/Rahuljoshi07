@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755846005101,
+      "repository": "dmy3k/auto-power-profile",
+      "issueTitle": "[BUG]Auto Power Profiles: No system-specific platform driver is available' notification on every boot",
+      "url": "https://github.com/dmy3k/auto-power-profile/issues/20",
+      "createdAt": "2025-08-22T07:00:05.101Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
