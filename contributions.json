@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755893754494,
+      "repository": "ManageIQ/manageiq-ui-service",
+      "issueTitle": "CVE-2025-4690 (Medium) detected in angular-sanitize-1.8.3.tgz",
+      "url": "https://github.com/ManageIQ/manageiq-ui-service/issues/1986",
+      "createdAt": "2025-08-22T20:15:54.494Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
