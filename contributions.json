@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755863119455,
+      "repository": "Linuxfabrik/monitoring-plugins",
+      "issueTitle": "redfish-sensor: TypeError: ''=' not supported between instances of 'float' and 'str'",
+      "url": "https://github.com/Linuxfabrik/monitoring-plugins/issues/916",
+      "createdAt": "2025-08-22T11:45:19.455Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
