@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755884966575,
+      "repository": "Roshansuthar1105/Codify",
+      "issueTitle": "Bug: Responsive of the website",
+      "url": "https://github.com/Roshansuthar1105/Codify/issues/50",
+      "createdAt": "2025-08-22T17:49:26.576Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
