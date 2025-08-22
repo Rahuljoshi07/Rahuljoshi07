@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755900349631,
+      "repository": "pwncollege/dojo",
+      "issueTitle": "All (slow) queries now require Web Context",
+      "url": "https://github.com/pwncollege/dojo/issues/835",
+      "createdAt": "2025-08-22T22:05:49.631Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
