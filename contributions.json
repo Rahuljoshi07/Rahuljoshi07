@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755849367780,
+      "repository": "johntruckenbrodt/pyroSAR",
+      "issueTitle": "auxdata: TDX90m DEM change of server",
+      "url": "https://github.com/johntruckenbrodt/pyroSAR/issues/332",
+      "createdAt": "2025-08-22T07:56:07.780Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
