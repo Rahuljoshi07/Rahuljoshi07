@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755853426475,
+      "repository": "kazcfz/Copy-n-Paste",
+      "issueTitle": "Microsoft Lists - Not supported",
+      "url": "https://github.com/kazcfz/Copy-n-Paste/issues/30",
+      "createdAt": "2025-08-22T09:03:46.475Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
