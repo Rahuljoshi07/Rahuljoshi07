@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755879996997,
+      "repository": "ThePansmith/CABIN",
+      "issueTitle": "[BUG] Red alloy wires and logic gates from Project Red can't be saved in a schematic",
+      "url": "https://github.com/ThePansmith/CABIN/issues/261",
+      "createdAt": "2025-08-22T16:26:36.997Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
