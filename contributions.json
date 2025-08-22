@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755904747704,
+      "repository": "LibreSign/libresign",
+      "issueTitle": "failed signing pdf: Invalid signing Time in certificate chain",
+      "url": "https://github.com/LibreSign/libresign/issues/5347",
+      "createdAt": "2025-08-22T23:19:07.704Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
