@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1755858163735,
-      "repository": "1024pix/pix",
-      "issueTitle": "Dependency Dashboard",
-      "url": "https://github.com/1024pix/pix/issues/5637",
-      "createdAt": "2025-08-22T10:22:43.735Z",
+      "id": 1755858194819,
+      "repository": "percy/cli",
+      "issueTitle": "Add flag to build:approve to suppress 'approve action is already performed on this build' error",
+      "url": "https://github.com/percy/cli/issues/1964",
+      "createdAt": "2025-08-22T10:23:14.819Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
