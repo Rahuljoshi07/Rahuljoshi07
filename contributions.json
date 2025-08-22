@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755900228915,
+      "repository": "sharpen3d/openvat",
+      "issueTitle": "Error shows up on Blender 4.5.1 when I bake the texture with \"Export model\" checked.",
+      "url": "https://github.com/sharpen3d/openvat/issues/31",
+      "createdAt": "2025-08-22T22:03:48.915Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
