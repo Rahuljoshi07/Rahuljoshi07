@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755851688227,
+      "repository": "acdh-oeaw/vocabseditor",
+      "issueTitle": "fix change/curation history button",
+      "url": "https://github.com/acdh-oeaw/vocabseditor/issues/74",
+      "createdAt": "2025-08-22T08:34:48.227Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
