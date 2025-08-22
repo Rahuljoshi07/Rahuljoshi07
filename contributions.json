@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755869595691,
+      "repository": "taylorwilsdon/google_workspace_mcp",
+      "issueTitle": "Error when importing DXT into Claude for Mac OS",
+      "url": "https://github.com/taylorwilsdon/google_workspace_mcp/issues/186",
+      "createdAt": "2025-08-22T13:33:15.691Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
