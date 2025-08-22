@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755845123499,
+      "repository": "kurrent-io/KurrentDB-Client-NodeJS",
+      "issueTitle": "PinnedByCorrelation support in gRPC clients",
+      "url": "https://github.com/kurrent-io/KurrentDB-Client-NodeJS/issues/433",
+      "createdAt": "2025-08-22T06:45:23.499Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
