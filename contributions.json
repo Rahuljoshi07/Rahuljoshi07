@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755853155040,
+      "repository": "sleepy-project/sleepy",
+      "issueTitle": "后端使用 FastAPI 重构",
+      "url": "https://github.com/sleepy-project/sleepy/issues/109",
+      "createdAt": "2025-08-22T08:59:15.040Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
