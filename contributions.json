@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755875124227,
+      "repository": "openwallet-foundation/acapy",
+      "issueTitle": ":bug: When auto-storing a credential fails, the cred ex record remains in state: done",
+      "url": "https://github.com/openwallet-foundation/acapy/issues/3845",
+      "createdAt": "2025-08-22T15:05:24.227Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
