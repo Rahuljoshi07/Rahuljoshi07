@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755871856162,
+      "repository": "abacusai/api-python",
+      "issueTitle": "ApiException: ApiException(500): Internal server error",
+      "url": "https://github.com/abacusai/api-python/issues/10",
+      "createdAt": "2025-08-22T14:10:56.162Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
