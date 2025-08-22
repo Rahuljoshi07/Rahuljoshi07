@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755869044837,
+      "repository": "MICS-Lab/novae",
+      "issueTitle": "[Bug] Kernel dies after running compute_representations",
+      "url": "https://github.com/MICS-Lab/novae/issues/19",
+      "createdAt": "2025-08-22T13:24:04.837Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
