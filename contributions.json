@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755837400175,
+      "repository": "placeAtlas/atlas-2022",
+      "issueTitle": "Clicking \"Copy\" takes several tries to activate",
+      "url": "https://github.com/placeAtlas/atlas-2022/issues/1369",
+      "createdAt": "2025-08-22T04:36:40.176Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
