@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755869332409,
+      "repository": "HarshS16/Civix",
+      "issueTitle": "[Bug]: \"g\" character cut off in heading",
+      "url": "https://github.com/HarshS16/Civix/issues/654",
+      "createdAt": "2025-08-22T13:28:52.409Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
