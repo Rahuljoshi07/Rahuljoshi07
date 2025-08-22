@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755880174800,
+      "repository": "NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect",
+      "issueTitle": "bug: Getting weird visitor error",
+      "url": "https://github.com/NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect/issues/26",
+      "createdAt": "2025-08-22T16:29:34.800Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
