@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755935317201,
+      "repository": "dualshock-tools/dualshock-tools.github.io",
+      "issueTitle": "Error 1",
+      "url": "https://github.com/dualshock-tools/dualshock-tools.github.io/issues/126",
+      "createdAt": "2025-08-23T07:48:37.201Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
