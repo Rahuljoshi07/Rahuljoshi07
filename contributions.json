@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755964889096,
+      "repository": "funkyfuture/deck-chores",
+      "issueTitle": "exception related to deserializing issue",
+      "url": "https://github.com/funkyfuture/deck-chores/issues/159",
+      "createdAt": "2025-08-23T16:01:29.096Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
