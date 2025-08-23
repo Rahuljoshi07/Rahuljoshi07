@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755967558663,
+      "repository": "KIYI671/AhabAssistantLimbusCompany",
+      "issueTitle": "[Bug] 更新1.0.3版本后AALC运行时鼠标反复点击主页面左上角，无法正常运行",
+      "url": "https://github.com/KIYI671/AhabAssistantLimbusCompany/issues/223",
+      "createdAt": "2025-08-23T16:45:58.663Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
