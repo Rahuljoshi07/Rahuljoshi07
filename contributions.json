@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755963576894,
+      "repository": "laude-institute/terminal-bench",
+      "issueTitle": "Curl Certificate issue in task hello world",
+      "url": "https://github.com/laude-institute/terminal-bench/issues/705",
+      "createdAt": "2025-08-23T15:39:36.894Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
