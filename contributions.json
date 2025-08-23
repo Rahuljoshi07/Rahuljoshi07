@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755932354038,
+      "repository": "andy-portmen/native-client",
+      "issueTitle": "Windows 10 and 11 install.bat fails with curl: (35) CRYPT_E_NO_REVOCATION_CHECK  error",
+      "url": "https://github.com/andy-portmen/native-client/issues/142",
+      "createdAt": "2025-08-23T06:59:14.038Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
