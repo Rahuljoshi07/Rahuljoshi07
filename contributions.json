@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755929377391,
+      "repository": "D-Sketon/hexo-theme-reimu",
+      "issueTitle": "默认配置显示出错",
+      "url": "https://github.com/D-Sketon/hexo-theme-reimu/issues/112",
+      "createdAt": "2025-08-23T06:09:37.391Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
