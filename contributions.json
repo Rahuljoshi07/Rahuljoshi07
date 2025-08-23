@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755992307471,
+      "repository": "gepa-ai/gepa",
+      "issueTitle": "If the metric is buggy, GEPA keeps on running. It should stop!",
+      "url": "https://github.com/gepa-ai/gepa/issues/10",
+      "createdAt": "2025-08-23T23:38:27.471Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
