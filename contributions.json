@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755962259478,
+      "repository": "jendrikseipp/rednotebook",
+      "issueTitle": "Rednotebook Fails to (SAVE)",
+      "url": "https://github.com/jendrikseipp/rednotebook/issues/834",
+      "createdAt": "2025-08-23T15:17:39.478Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
