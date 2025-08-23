@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755957855325,
+      "repository": "mekael/WFClassic",
+      "issueTitle": "Player profile shows wrong XP/rank for weapons/frames",
+      "url": "https://github.com/mekael/WFClassic/issues/9",
+      "createdAt": "2025-08-23T14:04:15.325Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
