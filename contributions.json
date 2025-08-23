@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755955659980,
+      "repository": "poolifier/poolifier",
+      "issueTitle": "[FEATURE] Evaluate code reconciliation at zero cost (no branching at runtime, no extra memory usage, ...) between repositories",
+      "url": "https://github.com/poolifier/poolifier/issues/2008",
+      "createdAt": "2025-08-23T13:27:39.980Z",
+      "type": "comment",
+      "content": "Using a bundler like Webpack or Vite could improve performance. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
