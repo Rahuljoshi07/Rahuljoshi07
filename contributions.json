@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1755943770589,
+      "repository": "DjangoCRM/django-crm",
+      "issueTitle": "Add the `region` and `district` fields to the 'LeadAdmin`",
+      "url": "https://github.com/DjangoCRM/django-crm/issues/270",
+      "createdAt": "2025-08-23T10:09:30.589Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. This suggestion is particularly relevant..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
