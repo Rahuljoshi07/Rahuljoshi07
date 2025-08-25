@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756102352742,
+      "repository": "gyptazy/ProxLB",
+      "issueTitle": "`Bug`: Authentication issue in Daemon Mode",
+      "url": "https://github.com/gyptazy/ProxLB/issues/285",
+      "createdAt": "2025-08-25T06:12:32.742Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
