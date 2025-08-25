@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1756085464234,
-      "repository": "langgenius/dify-official-plugins",
-      "issueTitle": "My Dify encountered an error when calling the Tongyi LLM plugin.   Run failed: [tongyi] Error: PluginInvokeError: {\"args\":{\"description\":\"[models] Error: 'ImagePromptMessageContent' object has no attribute 'startswith'\"},\"error_type\":\"InvokeError\",\"message\":\"[models] Error: 'ImagePromptMessageContent' object has no attribute 'startswith'\"}",
-      "url": "https://github.com/langgenius/dify-official-plugins/issues/774",
-      "createdAt": "2025-08-25T01:31:04.234Z",
+      "id": 1756085520634,
+      "repository": "homebysix/recipe-robot",
+      "issueTitle": "Recipe Robot 2.3.1 gives \"[ERROR] Sorry, I can't tell what format this app downloads in\" for a .pkg file dragged/dropped onto it",
+      "url": "https://github.com/homebysix/recipe-robot/issues/205",
+      "createdAt": "2025-08-25T01:32:00.634Z",
       "type": "comment",
       "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
