@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756093556552,
+      "repository": "rvagg/cborg",
+      "issueTitle": "Diagnostic output misses array length bytes when there are more than 1",
+      "url": "https://github.com/rvagg/cborg/issues/137",
+      "createdAt": "2025-08-25T03:45:56.553Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
