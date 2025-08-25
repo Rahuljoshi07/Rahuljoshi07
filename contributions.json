@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756102703276,
+      "repository": "adamlui/chatgpt-widescreen",
+      "issueTitle": "plugin removes scroll bar in projects",
+      "url": "https://github.com/adamlui/chatgpt-widescreen/issues/192",
+      "createdAt": "2025-08-25T06:18:23.276Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
