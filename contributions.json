@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756086777320,
+      "repository": "wopian/kitsu",
+      "issueTitle": "Add a \"dedata\" function to hoist data objects in deserialized objects to the top-level",
+      "url": "https://github.com/wopian/kitsu/issues/1102",
+      "createdAt": "2025-08-25T01:52:57.320Z",
+      "type": "comment",
+      "content": "Adding TypeScript could prevent type-related bugs and improve maintainability. This suggestion is pa..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
