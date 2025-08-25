@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756086641017,
+      "repository": "zackria/Plex-Folder-Playlist-Creator",
+      "issueTitle": "failed playlist creation with error",
+      "url": "https://github.com/zackria/Plex-Folder-Playlist-Creator/issues/10",
+      "createdAt": "2025-08-25T01:50:41.017Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
