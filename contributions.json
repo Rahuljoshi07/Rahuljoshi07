@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756177549890,
+      "repository": "djangopackages/djangopackages",
+      "issueTitle": ":bug: Doesn't run on Windows 11",
+      "url": "https://github.com/djangopackages/djangopackages/issues/1383",
+      "createdAt": "2025-08-26T03:05:49.890Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
