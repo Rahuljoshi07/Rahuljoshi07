@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756186102561,
+      "repository": "seapeak233/AndroidDocViewer",
+      "issueTitle": "\"Uncaught TypeError: Cannot read properties of undefined (reading 'x')\", source: file:///android_asset/ppt/js/pptxjs.min.js (10)",
+      "url": "https://github.com/seapeak233/AndroidDocViewer/issues/3",
+      "createdAt": "2025-08-26T05:28:22.561Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
