@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756186102561,
-      "repository": "seapeak233/AndroidDocViewer",
-      "issueTitle": "\"Uncaught TypeError: Cannot read properties of undefined (reading 'x')\", source: file:///android_asset/ppt/js/pptxjs.min.js (10)",
-      "url": "https://github.com/seapeak233/AndroidDocViewer/issues/3",
-      "createdAt": "2025-08-26T05:28:22.561Z",
+      "id": 1756186154438,
+      "repository": "onnela-lab/beiwe-backend",
+      "issueTitle": "ui issue on download page - may be specific to safari or some window size",
+      "url": "https://github.com/onnela-lab/beiwe-backend/issues/443",
+      "createdAt": "2025-08-26T05:29:14.439Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
