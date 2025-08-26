@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756180385488,
+      "repository": "confluentinc/confluent-kafka-python",
+      "issueTitle": "Access denied error for IAM role based AWS MSK cluster while using confluent-kafka python library",
+      "url": "https://github.com/confluentinc/confluent-kafka-python/issues/1739",
+      "createdAt": "2025-08-26T03:53:05.489Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
