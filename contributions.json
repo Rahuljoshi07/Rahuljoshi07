@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756172497753,
+      "repository": "nextcloud/talk-desktop",
+      "issueTitle": "Desktop client does not re-subscribe to existing publisher after switching from browser to desktop (no audio from other user)",
+      "url": "https://github.com/nextcloud/talk-desktop/issues/1420",
+      "createdAt": "2025-08-26T01:41:37.753Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
