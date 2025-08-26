@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756172905411,
+      "repository": "YoWASP/nextpnr",
+      "issueTitle": "All errors become WASM traps",
+      "url": "https://github.com/YoWASP/nextpnr/issues/2",
+      "createdAt": "2025-08-26T01:48:25.411Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
