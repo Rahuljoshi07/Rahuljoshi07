@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756170730949,
-      "repository": "2M4U/2m4u",
-      "issueTitle": "Possible fixes for update.js",
-      "url": "https://github.com/2M4U/2m4u/issues/6",
-      "createdAt": "2025-08-26T01:12:10.949Z",
+      "id": 1756170777328,
+      "repository": "nextcloud/logreader",
+      "issueTitle": "[Bug] Logreader warns about `log_type` to be `syslog`",
+      "url": "https://github.com/nextcloud/logreader/issues/979",
+      "createdAt": "2025-08-26T01:12:57.328Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
