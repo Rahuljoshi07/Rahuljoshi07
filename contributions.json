@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756322723823,
+      "repository": "thexerteproject/xerteonlinetoolkits",
+      "issueTitle": "Progress bar in header not always showing with SCORM export depending on position",
+      "url": "https://github.com/thexerteproject/xerteonlinetoolkits/issues/1470",
+      "createdAt": "2025-08-27T19:25:23.823Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
