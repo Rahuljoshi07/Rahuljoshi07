@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1756305038885,
+      "id": 1756305076238,
       "repository": "pimcore/admin-ui-classic-bundle",
       "issueTitle": "[Bug]: Document Link saving internal/direct should remove direct and vice versa",
       "url": "https://github.com/pimcore/admin-ui-classic-bundle/issues/891",
-      "createdAt": "2025-08-27T14:30:38.885Z",
+      "createdAt": "2025-08-27T14:31:16.238Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
