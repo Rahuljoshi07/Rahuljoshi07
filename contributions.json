@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756271516077,
+      "repository": "yuvraj108c/ComfyUI-Whisper",
+      "issueTitle": "Apply Whisper [WinError 2] 系统找不到指定的文件。",
+      "url": "https://github.com/yuvraj108c/ComfyUI-Whisper/issues/14",
+      "createdAt": "2025-08-27T05:11:56.077Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
