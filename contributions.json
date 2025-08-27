@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1756311373301,
+      "id": 1756311408076,
       "repository": "IBM/node-odbc",
-      "issueTitle": "[BUG] pool.close fails when callback is provided; causing memory leak",
-      "url": "https://github.com/IBM/node-odbc/issues/427",
-      "createdAt": "2025-08-27T16:16:13.301Z",
+      "issueTitle": "[BUG] Heap corruption when fetching 'long' binary data",
+      "url": "https://github.com/IBM/node-odbc/issues/428",
+      "createdAt": "2025-08-27T16:16:48.076Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
