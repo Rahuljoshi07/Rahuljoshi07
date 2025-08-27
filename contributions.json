@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756285691257,
+      "repository": "nodesource/nsolid",
+      "issueTitle": "Observability issue due to incompatibility with js output folders",
+      "url": "https://github.com/nodesource/nsolid/issues/357",
+      "createdAt": "2025-08-27T09:08:11.257Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
