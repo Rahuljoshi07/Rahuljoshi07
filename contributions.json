@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756338612572,
+      "id": 1756338643864,
       "repository": "microsoft/netperf",
-      "issueTitle": "eBPF for Windows Performance Test Failed",
-      "url": "https://github.com/microsoft/netperf/issues/647",
-      "createdAt": "2025-08-27T23:50:12.572Z",
+      "issueTitle": "Record cycles per byte",
+      "url": "https://github.com/microsoft/netperf/issues/643",
+      "createdAt": "2025-08-27T23:50:43.864Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
