@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756309818389,
+      "repository": "pipecat-ai/pipecat-flows",
+      "issueTitle": "Mistral function calling fails with \"Unexpected role 'user' after role 'tool'\" error in pipecat-flow",
+      "url": "https://github.com/pipecat-ai/pipecat-flows/issues/178",
+      "createdAt": "2025-08-27T15:50:18.389Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
