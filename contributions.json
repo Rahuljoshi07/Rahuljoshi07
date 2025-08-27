@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756303627229,
+      "repository": "asyncapi/generator",
+      "issueTitle": "[Docs Bug 🐞 report]: Broken link in TOC for `generator.generateFromString` in Library API docs",
+      "url": "https://github.com/asyncapi/generator/issues/1634",
+      "createdAt": "2025-08-27T14:07:07.229Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
