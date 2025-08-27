@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756271031584,
+      "repository": "ironmonk108/monks-tokenbar",
+      "issueTitle": "[BUG] Vertical display much wider than it needs to be",
+      "url": "https://github.com/ironmonk108/monks-tokenbar/issues/435",
+      "createdAt": "2025-08-27T05:03:51.584Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
