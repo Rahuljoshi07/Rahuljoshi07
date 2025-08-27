@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756319491566,
+      "repository": "danny-avila/rag_api",
+      "issueTitle": "Validation exceptions hidden in RuntimeErrors",
+      "url": "https://github.com/danny-avila/rag_api/issues/145",
+      "createdAt": "2025-08-27T18:31:31.566Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
