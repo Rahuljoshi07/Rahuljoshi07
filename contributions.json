@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756283552897,
-      "repository": "nthiebes/old-world-builder",
-      "issueTitle": "Import NewRecruit lists",
-      "url": "https://github.com/nthiebes/old-world-builder/issues/242",
-      "createdAt": "2025-08-27T08:32:32.897Z",
+      "id": 1756283617641,
+      "repository": "kuu/hls-parser",
+      "issueTitle": "Issue with hls.stringify for cloned hls object",
+      "url": "https://github.com/kuu/hls-parser/issues/107",
+      "createdAt": "2025-08-27T08:33:37.641Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
