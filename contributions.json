@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756281383089,
+      "repository": "zeplin/zeplin-html-to-pdf",
+      "issueTitle": "How to actually invoke this? Everything results in 502: Missing field 'html'",
+      "url": "https://github.com/zeplin/zeplin-html-to-pdf/issues/46",
+      "createdAt": "2025-08-27T07:56:23.090Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
