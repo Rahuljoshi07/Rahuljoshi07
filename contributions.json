@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756324965972,
-      "repository": "medic/cht-conf",
-      "issueTitle": "Error: Cookie has domain set to the public suffix \"localhost\" which is a special use domain.",
-      "url": "https://github.com/medic/cht-conf/issues/587",
-      "createdAt": "2025-08-27T20:02:45.973Z",
+      "id": 1756325006289,
+      "repository": "focus-trap/tabbable",
+      "issueTitle": "Remove nwsapi v2.2.2 override once bug is fixed",
+      "url": "https://github.com/focus-trap/tabbable/issues/997",
+      "createdAt": "2025-08-27T20:03:26.289Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
