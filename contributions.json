@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756287450644,
+      "repository": "r-spatial/mapview",
+      "issueTitle": "Layers with umlauts in name not showing on map",
+      "url": "https://github.com/r-spatial/mapview/issues/496",
+      "createdAt": "2025-08-27T09:37:30.644Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. (Suggested by..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
