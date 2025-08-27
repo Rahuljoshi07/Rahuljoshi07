@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756327477275,
+      "repository": "myny-git/smappee_ev",
+      "issueTitle": "[BUG] Sensor not updating charging_state",
+      "url": "https://github.com/myny-git/smappee_ev/issues/20",
+      "createdAt": "2025-08-27T20:44:37.275Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
