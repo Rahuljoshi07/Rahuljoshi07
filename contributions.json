@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756287577132,
+      "repository": "nodejs/import-in-the-middle",
+      "issueTitle": "Assignments to exported variables are not visible in other modules",
+      "url": "https://github.com/nodejs/import-in-the-middle/issues/38",
+      "createdAt": "2025-08-27T09:39:37.132Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
