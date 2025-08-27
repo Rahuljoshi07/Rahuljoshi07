@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756295271545,
+      "repository": "trafficonese/leaflet.extras2",
+      "issueTitle": "Issues with adding wind data to AddVelocity() in leaflet.extras2 ",
+      "url": "https://github.com/trafficonese/leaflet.extras2/issues/2",
+      "createdAt": "2025-08-27T11:47:51.545Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
