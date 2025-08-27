@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756314534536,
+      "repository": "dahlb/ha_hatch",
+      "issueTitle": "[1.24.0] - Some Sound Modes missing after update",
+      "url": "https://github.com/dahlb/ha_hatch/issues/227",
+      "createdAt": "2025-08-27T17:08:54.536Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
