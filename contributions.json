@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756327263963,
+      "repository": "okta/okta-jwt-verifier-js",
+      "issueTitle": "Error getting while verifing the okta token from Node.js",
+      "url": "https://github.com/okta/okta-jwt-verifier-js/issues/16",
+      "createdAt": "2025-08-27T20:41:03.963Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
