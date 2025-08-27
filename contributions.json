@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756263348278,
+      "repository": "eisfabian/PACEtomo",
+      "issueTitle": "Issue with initial vector estimation in selectTargets",
+      "url": "https://github.com/eisfabian/PACEtomo/issues/37",
+      "createdAt": "2025-08-27T02:55:48.278Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
