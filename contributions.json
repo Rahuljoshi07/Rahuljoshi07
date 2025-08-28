@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756346979440,
+      "repository": "yohanesgultom/wapi",
+      "issueTitle": "Non-Docker Error ",
+      "url": "https://github.com/yohanesgultom/wapi/issues/53",
+      "createdAt": "2025-08-28T02:09:39.440Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
