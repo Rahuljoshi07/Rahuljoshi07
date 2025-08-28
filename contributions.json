@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756367643879,
+      "repository": "TencentBlueKing/bk-lite",
+      "issueTitle": "【OpsPilot】QA 对卡片的 Chunk 标签位置遮挡了文字",
+      "url": "https://github.com/TencentBlueKing/bk-lite/issues/853",
+      "createdAt": "2025-08-28T07:54:03.879Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
