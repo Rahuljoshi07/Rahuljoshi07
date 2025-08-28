@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756369967084,
+      "repository": "a8cteam51/special-projects-blocks-monorepo",
+      "issueTitle": "Tabs block: Ensure tab names are visible on frontend",
+      "url": "https://github.com/a8cteam51/special-projects-blocks-monorepo/issues/89",
+      "createdAt": "2025-08-28T08:32:47.084Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
