@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756371280659,
+      "repository": "Sharly-Chess/sharly-chess",
+      "issueTitle": "[BUG] FFE upload bug (2)",
+      "url": "https://github.com/Sharly-Chess/sharly-chess/issues/1028",
+      "createdAt": "2025-08-28T08:54:40.659Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
