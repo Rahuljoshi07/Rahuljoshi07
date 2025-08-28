@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756399097276,
+      "repository": "TerryZ/v-dialogs",
+      "issueTitle": "mixin error",
+      "url": "https://github.com/TerryZ/v-dialogs/issues/44",
+      "createdAt": "2025-08-28T16:38:17.276Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
