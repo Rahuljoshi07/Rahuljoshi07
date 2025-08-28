@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756423313525,
+      "repository": "bytecodealliance/jco",
+      "issueTitle": "Resource disposal inside component-exported Resources does not trigger",
+      "url": "https://github.com/bytecodealliance/jco/issues/989",
+      "createdAt": "2025-08-28T23:21:53.525Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
