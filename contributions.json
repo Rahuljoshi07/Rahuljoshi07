@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756385127966,
+      "repository": "ITISFoundation/osparc-simcore",
+      "issueTitle": "[Bug]:  Autoscaling: in case of InsufficientCapacityError while starting warm buffers, this blocks the autoscaling completely",
+      "url": "https://github.com/ITISFoundation/osparc-simcore/issues/8273",
+      "createdAt": "2025-08-28T12:45:27.966Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
