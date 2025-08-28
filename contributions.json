@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756351317406,
+      "repository": "opea-project/GenAIComps",
+      "issueTitle": "[Bug]docker image opea/dataprep:latest has security issue",
+      "url": "https://github.com/opea-project/GenAIComps/issues/1871",
+      "createdAt": "2025-08-28T03:21:57.407Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
