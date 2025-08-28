@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756394717899,
+      "repository": "MacWarrior/clipbucket-v5",
+      "issueTitle": "Conversion bug",
+      "url": "https://github.com/MacWarrior/clipbucket-v5/issues/664",
+      "createdAt": "2025-08-28T15:25:17.899Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
