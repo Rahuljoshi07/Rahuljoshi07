@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756347249646,
+      "id": 1756347300826,
       "repository": "prettier/plugin-xml",
-      "issueTitle": "move comment before",
-      "url": "https://github.com/prettier/plugin-xml/issues/776",
-      "createdAt": "2025-08-28T02:14:09.646Z",
+      "issueTitle": "Whitespace is incorrectly preserved when `xmlWhitespaceSensitivity` is set to `ignore`",
+      "url": "https://github.com/prettier/plugin-xml/issues/789",
+      "createdAt": "2025-08-28T02:15:00.826Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
