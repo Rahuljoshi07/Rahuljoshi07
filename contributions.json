@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756347605040,
+      "repository": "docling-project/docling-eval",
+      "issueTitle": "[bug] ERROR - Benchmark directory not found: benchmarks/DPBench-e2e/eval_dataset/DPBench/layout",
+      "url": "https://github.com/docling-project/docling-eval/issues/148",
+      "createdAt": "2025-08-28T02:20:05.040Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
