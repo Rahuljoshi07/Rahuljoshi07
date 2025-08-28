@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756359222425,
+      "id": 1756359266216,
       "repository": "sdgniser/timetable",
-      "issueTitle": "[FR] An alternate idea for the timetable.",
-      "url": "https://github.com/sdgniser/timetable/issues/22",
-      "createdAt": "2025-08-28T05:33:42.425Z",
+      "issueTitle": "[BUG] Non UTF-8 characters break PDF",
+      "url": "https://github.com/sdgniser/timetable/issues/4",
+      "createdAt": "2025-08-28T05:34:26.216Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
