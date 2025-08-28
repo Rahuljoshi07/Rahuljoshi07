@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756411923813,
+      "repository": "nipoppy/nipoppy",
+      "issueTitle": "[DOC] Improve error message from CLI",
+      "url": "https://github.com/nipoppy/nipoppy/issues/445",
+      "createdAt": "2025-08-28T20:12:03.813Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
