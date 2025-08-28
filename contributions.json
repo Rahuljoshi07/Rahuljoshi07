@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756350274466,
+      "repository": "Koorye/Inspire",
+      "issueTitle": "Question about performance on libero_object",
+      "url": "https://github.com/Koorye/Inspire/issues/5",
+      "createdAt": "2025-08-28T03:04:34.466Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
