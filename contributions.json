@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756383037326,
+      "repository": "Class-Widgets/Class-Widgets",
+      "issueTitle": "[BUG]: `接下来的活动`组件内容错误",
+      "url": "https://github.com/Class-Widgets/Class-Widgets/issues/895",
+      "createdAt": "2025-08-28T12:10:37.327Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
