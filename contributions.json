@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756348430515,
+      "repository": "Adarsh-Chaubey03/TravelGrid",
+      "issueTitle": "🐛 Bug Report: resetPassword Function Not Defined",
+      "url": "https://github.com/Adarsh-Chaubey03/TravelGrid/issues/1089",
+      "createdAt": "2025-08-28T02:33:50.516Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
