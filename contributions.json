@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756367293321,
+      "repository": "adasq/dropbox-v2-api",
+      "issueTitle": "\"expired_access_token\" error messages",
+      "url": "https://github.com/adasq/dropbox-v2-api/issues/1185",
+      "createdAt": "2025-08-28T07:48:13.321Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
