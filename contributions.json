@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756350655781,
+      "repository": "ApeWorX/ape",
+      "issueTitle": "(node): Custom error not decoded in gas estimation failure",
+      "url": "https://github.com/ApeWorX/ape/issues/2673",
+      "createdAt": "2025-08-28T03:10:55.781Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
