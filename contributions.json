@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756352418043,
+      "repository": "shridhar-tl/jira-assistant",
+      "issueTitle": "Worklog Report not working in V2.6",
+      "url": "https://github.com/shridhar-tl/jira-assistant/issues/404",
+      "createdAt": "2025-08-28T03:40:18.043Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
