@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756412317182,
+      "repository": "rabbitmq/rabbitmq-website",
+      "issueTitle": "Several global limits added in 2023-2025 are missing from doc guides",
+      "url": "https://github.com/rabbitmq/rabbitmq-website/issues/2328",
+      "createdAt": "2025-08-28T20:18:37.182Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
