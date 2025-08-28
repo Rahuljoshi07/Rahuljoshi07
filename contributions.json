@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756381855103,
+      "repository": "ofriw/chunkhound",
+      "issueTitle": "Small refactor: dedupe error handling in run.py",
+      "url": "https://github.com/ofriw/chunkhound/issues/16",
+      "createdAt": "2025-08-28T11:50:55.103Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
