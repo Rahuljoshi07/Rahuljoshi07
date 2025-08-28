@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756402113116,
+      "repository": "sindresorhus/get-windows",
+      "issueTitle": "Release v9.2.1 missing NAPI files and failing Electron builds",
+      "url": "https://github.com/sindresorhus/get-windows/issues/200",
+      "createdAt": "2025-08-28T17:28:33.116Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
