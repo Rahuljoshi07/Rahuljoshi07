@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756360579912,
+      "repository": "moo-man/WFRP4e-FoundryVTT",
+      "issueTitle": "[WFRP4e System] warhammer-lib throws an error in the console when using Moulinette",
+      "url": "https://github.com/moo-man/WFRP4e-FoundryVTT/issues/2440",
+      "createdAt": "2025-08-28T05:56:19.912Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
