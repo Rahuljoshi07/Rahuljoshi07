@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756366155411,
+      "repository": "structurizr/ui",
+      "issueTitle": "Container nodes move out of view outside the screen in the graph exploration view",
+      "url": "https://github.com/structurizr/ui/issues/108",
+      "createdAt": "2025-08-28T07:29:15.411Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
