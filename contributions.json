@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756339651193,
+      "repository": "AllTheMods/All-the-mods-10-Sky",
+      "issueTitle": "[Quest Bug]: Modern Industrialization Smart Filter for Mining Drill not setup properly",
+      "url": "https://github.com/AllTheMods/All-the-mods-10-Sky/issues/345",
+      "createdAt": "2025-08-28T00:07:31.193Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
