@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756377866418,
+      "repository": "sindresorhus/get-windows",
+      "issueTitle": "openWindows() returns undefined on Linux when any single window fails",
+      "url": "https://github.com/sindresorhus/get-windows/issues/199",
+      "createdAt": "2025-08-28T10:44:26.418Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
