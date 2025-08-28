@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756396282144,
+      "repository": "google/virtual-broadcast-production-assistant",
+      "issueTitle": "Agent Card for Sofie is giving a URL of localhost",
+      "url": "https://github.com/google/virtual-broadcast-production-assistant/issues/151",
+      "createdAt": "2025-08-28T15:51:22.144Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
