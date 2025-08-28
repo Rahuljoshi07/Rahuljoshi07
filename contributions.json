@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756393172839,
+      "repository": "godotengine/godot-interactive-changelog",
+      "issueTitle": "create a useful feature for bug and errors and changes in changelog",
+      "url": "https://github.com/godotengine/godot-interactive-changelog/issues/20",
+      "createdAt": "2025-08-28T14:59:32.839Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
