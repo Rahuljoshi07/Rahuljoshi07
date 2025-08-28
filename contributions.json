@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756380696852,
+      "repository": "noobaa/noobaa-core",
+      "issueTitle": "NSFS Simple | Nooba container crashes with ERROR] CONSOLE:: PANIC: process uncaughtException TypeError [ERR_INVALID_ARG_TYPE]: The \"path\" argument must be of type string",
+      "url": "https://github.com/noobaa/noobaa-core/issues/8918",
+      "createdAt": "2025-08-28T11:31:36.852Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
