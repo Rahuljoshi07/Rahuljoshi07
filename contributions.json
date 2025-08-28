@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756377020625,
+      "repository": "industrial-optimization-group/DESDEO",
+      "issueTitle": "Polars evaluator: scalar binary operation with with array fails when scalar is a Constant/Variable, but works with literals",
+      "url": "https://github.com/industrial-optimization-group/DESDEO/issues/327",
+      "createdAt": "2025-08-28T10:30:20.625Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
