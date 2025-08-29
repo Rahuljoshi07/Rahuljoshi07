@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756429442306,
+      "repository": "chinmay29hub/haiku-readme",
+      "issueTitle": "[BUG] State Persistence",
+      "url": "https://github.com/chinmay29hub/haiku-readme/issues/67",
+      "createdAt": "2025-08-29T01:04:02.306Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
