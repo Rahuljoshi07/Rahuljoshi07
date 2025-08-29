@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756488816048,
+      "repository": "IBM/AutoPeptideML",
+      "issueTitle": "Quarto NB handle only one rep",
+      "url": "https://github.com/IBM/AutoPeptideML/issues/125",
+      "createdAt": "2025-08-29T17:33:36.048Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
