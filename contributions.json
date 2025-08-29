@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756462231133,
+      "repository": "bible-technology/scribe-scripture-editor",
+      "issueTitle": "Application error on clicking Advanced Mode toggle in PDF export page",
+      "url": "https://github.com/bible-technology/scribe-scripture-editor/issues/432",
+      "createdAt": "2025-08-29T10:10:31.133Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
