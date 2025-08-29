@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756494768311,
+      "repository": "Yale-Libs/yalexs",
+      "issueTitle": "Getting a `403 Client Error: Forbidden` error ",
+      "url": "https://github.com/Yale-Libs/yalexs/issues/89",
+      "createdAt": "2025-08-29T19:12:48.311Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
