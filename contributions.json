@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756466981680,
+      "repository": "ansible/eda-server",
+      "issueTitle": "aiohttp.server - ERROR - Error handling request",
+      "url": "https://github.com/ansible/eda-server/issues/1378",
+      "createdAt": "2025-08-29T11:29:41.680Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
