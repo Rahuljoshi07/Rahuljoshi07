@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756456472428,
+      "repository": "odrick/free-tex-packer-core",
+      "issueTitle": "[bug] Export Error: Invalid template",
+      "url": "https://github.com/odrick/free-tex-packer-core/issues/47",
+      "createdAt": "2025-08-29T08:34:32.428Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
