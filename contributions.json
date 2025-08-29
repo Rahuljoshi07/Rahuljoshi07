@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756427172091,
+      "id": 1756427216767,
       "repository": "nextcloud/collectives",
-      "issueTitle": "ability to hide pages list (left sidebar)",
-      "url": "https://github.com/nextcloud/collectives/issues/667",
-      "createdAt": "2025-08-29T00:26:12.091Z",
+      "issueTitle": "Editing toolbar scrolls out of viewport on mobile / PWA",
+      "url": "https://github.com/nextcloud/collectives/issues/1946",
+      "createdAt": "2025-08-29T00:26:56.767Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
