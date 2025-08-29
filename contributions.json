@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756452120735,
+      "repository": "SACGF/variantgrid",
+      "issueTitle": "link_samples_and_vcfs_to_sequencing - existing has error",
+      "url": "https://github.com/SACGF/variantgrid/issues/1354",
+      "createdAt": "2025-08-29T07:22:00.735Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
