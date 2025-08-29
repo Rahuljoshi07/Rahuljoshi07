@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756488562279,
+      "repository": "asyncapi/go-watermill-template",
+      "issueTitle": "[BUG] writes \"Please use \"2.6.0\" (latest) version\" which is not true.",
+      "url": "https://github.com/asyncapi/go-watermill-template/issues/378",
+      "createdAt": "2025-08-29T17:29:22.279Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
