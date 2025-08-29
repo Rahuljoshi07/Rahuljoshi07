@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1756500768192,
+      "id": 1756500818787,
       "repository": "danishru/silam_pollen",
-      "issueTitle": "Bug: Daily Forecast Timestamp at Local Noon Instead of Midnight",
-      "url": "https://github.com/danishru/silam_pollen/issues/21",
-      "createdAt": "2025-08-29T20:52:48.192Z",
+      "issueTitle": "Standard Lovelace Weather card hides daily forecast for our integration when fewer than 3 entries returned",
+      "url": "https://github.com/danishru/silam_pollen/issues/12",
+      "createdAt": "2025-08-29T20:53:38.787Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
