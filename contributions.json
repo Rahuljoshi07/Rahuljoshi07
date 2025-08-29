@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756477134533,
+      "repository": "Bayer-Group/paquo",
+      "issueTitle": "JVM issue Mac M2 ",
+      "url": "https://github.com/Bayer-Group/paquo/issues/108",
+      "createdAt": "2025-08-29T14:18:54.534Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
