@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756469689209,
+      "repository": "openclimatefix/ocf-data-sampler",
+      "issueTitle": "site generattion of dtype int is not allowed",
+      "url": "https://github.com/openclimatefix/ocf-data-sampler/issues/330",
+      "createdAt": "2025-08-29T12:14:49.209Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
