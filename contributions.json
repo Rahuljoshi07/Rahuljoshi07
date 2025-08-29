@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756505562105,
+      "repository": "geldata/gel-python",
+      "issueTitle": "Syncing an object without a prop/link set alongside an object with it set fetches it",
+      "url": "https://github.com/geldata/gel-python/issues/886",
+      "createdAt": "2025-08-29T22:12:42.105Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
