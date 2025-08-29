@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756462544504,
+      "repository": "Prashanti-Hebbar/FoodIO",
+      "issueTitle": "Request to Remove Animated Cursor Effect Due to UI Interference and Visual Clutter",
+      "url": "https://github.com/Prashanti-Hebbar/FoodIO/issues/226",
+      "createdAt": "2025-08-29T10:15:44.504Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
