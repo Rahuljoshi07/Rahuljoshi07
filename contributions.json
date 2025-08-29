@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756426643143,
+      "repository": "mlc-ai/relax",
+      "issueTitle": "[BUG] cannot import name 'core' from partially initialized module 'tvm.ffi' (most likely due to a circular import)",
+      "url": "https://github.com/mlc-ai/relax/issues/336",
+      "createdAt": "2025-08-29T00:17:23.143Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
