@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756458645442,
+      "repository": "bolliy/ioBroker.sun2000",
+      "issueTitle": "Reg32000 & 37000 & 32089",
+      "url": "https://github.com/bolliy/ioBroker.sun2000/issues/184",
+      "createdAt": "2025-08-29T09:10:45.443Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
