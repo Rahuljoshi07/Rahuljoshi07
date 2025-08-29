@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756451600224,
+      "repository": "TeamShiksha/openlogo",
+      "issueTitle": "Inconsistency in frontend 02",
+      "url": "https://github.com/TeamShiksha/openlogo/issues/816",
+      "createdAt": "2025-08-29T07:13:20.224Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
