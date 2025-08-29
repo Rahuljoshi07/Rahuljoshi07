@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756477331919,
+      "repository": "litestar-org/advanced-alchemy",
+      "issueTitle": "Bug: Error in update method with lazy",
+      "url": "https://github.com/litestar-org/advanced-alchemy/issues/524",
+      "createdAt": "2025-08-29T14:22:11.919Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
