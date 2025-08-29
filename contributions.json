@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756489982204,
+      "repository": "openwisp/openwisp-network-topology",
+      "issueTitle": "[change:network-topology] Replace thirdparty JSONField with Django built in JSONField",
+      "url": "https://github.com/openwisp/openwisp-network-topology/issues/253",
+      "createdAt": "2025-08-29T17:53:02.204Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
