@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756572586139,
+      "repository": "google/virtual-broadcast-production-assistant",
+      "issueTitle": "Refactor code so that FIrestore `agent_status` collection becomes Agent Repository",
+      "url": "https://github.com/google/virtual-broadcast-production-assistant/issues/213",
+      "createdAt": "2025-08-30T16:49:46.139Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
