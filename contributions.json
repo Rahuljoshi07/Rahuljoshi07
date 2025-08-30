@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756524241187,
+      "repository": "UKGovernmentBEIS/inspect_evals",
+      "issueTitle": "[Bug] AgentHarm Invalid Schema for function Error",
+      "url": "https://github.com/UKGovernmentBEIS/inspect_evals/issues/489",
+      "createdAt": "2025-08-30T03:24:01.187Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
