@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756535628388,
+      "repository": "silentsokolov/django-admin-rangefilter",
+      "issueTitle": "DateRangeQuickSelectListFilterBuilder uses lte instead of lt for end date, causing off-by-one error",
+      "url": "https://github.com/silentsokolov/django-admin-rangefilter/issues/133",
+      "createdAt": "2025-08-30T06:33:48.388Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
