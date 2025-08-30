@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756514306428,
+      "repository": "nextcloud/files_fulltextsearch",
+      "issueTitle": "Search completely broken",
+      "url": "https://github.com/nextcloud/files_fulltextsearch/issues/327",
+      "createdAt": "2025-08-30T00:38:26.428Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
