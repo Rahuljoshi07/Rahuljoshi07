@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756573261877,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Address SonarQube security hotspots",
+      "url": "https://github.com/OWASP/Nest/issues/2156",
+      "createdAt": "2025-08-30T17:01:01.877Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
