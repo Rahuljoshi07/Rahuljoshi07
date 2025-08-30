@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756563302329,
+      "id": 1756563340918,
       "repository": "fabian-beck/pure-suggest",
       "issueTitle": "Bug in counting citations",
       "url": "https://github.com/fabian-beck/pure-suggest/issues/512",
-      "createdAt": "2025-08-30T14:15:02.330Z",
+      "createdAt": "2025-08-30T14:15:40.918Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
