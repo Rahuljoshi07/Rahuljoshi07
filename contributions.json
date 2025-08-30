@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756526189313,
+      "id": 1756526237848,
       "repository": "jakezatecky/react-dual-listbox",
       "issueTitle": "Moving by double-clicking does not work properly",
       "url": "https://github.com/jakezatecky/react-dual-listbox/issues/285",
-      "createdAt": "2025-08-30T03:56:29.313Z",
+      "createdAt": "2025-08-30T03:57:17.848Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
