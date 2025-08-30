@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756575990413,
+      "repository": "getnikola/plugins",
+      "issueTitle": "[similarity] Problems when creating new posts while plugin is enabled ",
+      "url": "https://github.com/getnikola/plugins/issues/246",
+      "createdAt": "2025-08-30T17:46:30.414Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
