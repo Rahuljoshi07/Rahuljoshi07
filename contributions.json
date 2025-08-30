@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756534737298,
+      "repository": "alienx5499/SortVision",
+      "issueTitle": "Sound System Implementation and State Management Issues",
+      "url": "https://github.com/alienx5499/SortVision/issues/72",
+      "createdAt": "2025-08-30T06:18:57.298Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
