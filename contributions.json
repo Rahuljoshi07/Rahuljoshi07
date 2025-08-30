@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756564696811,
+      "repository": "fabian-beck/pure-suggest",
+      "issueTitle": "Minor: Adjust padding of network node settings component",
+      "url": "https://github.com/fabian-beck/pure-suggest/issues/502",
+      "createdAt": "2025-08-30T14:38:16.811Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
