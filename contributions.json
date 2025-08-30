@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1756543959768,
+      "id": 1756543997171,
       "repository": "WhiteMagic/JoystickGremlin",
-      "issueTitle": "Error on Start Up: Failed to execute script joystick_gremlin",
-      "url": "https://github.com/WhiteMagic/JoystickGremlin/issues/347",
-      "createdAt": "2025-08-30T08:52:39.768Z",
+      "issueTitle": "UnicodeDecodeError on startup from ® in Controller Name",
+      "url": "https://github.com/WhiteMagic/JoystickGremlin/issues/369",
+      "createdAt": "2025-08-30T08:53:17.171Z",
       "type": "comment",
       "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
