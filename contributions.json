@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756512361169,
+      "repository": "ProjectSidewalk/SidewalkWebpage",
+      "issueTitle": "Property to get historic panorama dates has changed, some data has been lost",
+      "url": "https://github.com/ProjectSidewalk/SidewalkWebpage/issues/4016",
+      "createdAt": "2025-08-30T00:06:01.169Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
