@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756566500472,
+      "id": 1756566544824,
       "repository": "tmedwards/sugarcube-2",
-      "issueTitle": "feat: add a global listener for anchors to handle disabled `a[href]`s",
-      "url": "https://github.com/tmedwards/sugarcube-2/issues/360",
-      "createdAt": "2025-08-30T15:08:20.473Z",
+      "issueTitle": "Investigate screen reader issues",
+      "url": "https://github.com/tmedwards/sugarcube-2/issues/368",
+      "createdAt": "2025-08-30T15:09:04.824Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
