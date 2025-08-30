@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756526151221,
+      "id": 1756526189313,
       "repository": "jakezatecky/react-dual-listbox",
       "issueTitle": "Moving by double-clicking does not work properly",
       "url": "https://github.com/jakezatecky/react-dual-listbox/issues/285",
-      "createdAt": "2025-08-30T03:55:51.221Z",
+      "createdAt": "2025-08-30T03:56:29.313Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
