@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756563830176,
+      "repository": "capjamesg/aurora",
+      "issueTitle": "Problems with duplicate or out of date content with aurora serve",
+      "url": "https://github.com/capjamesg/aurora/issues/12",
+      "createdAt": "2025-08-30T14:23:50.176Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
