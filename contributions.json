@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756566206465,
+      "repository": "SignalK/signalk-server",
+      "issueTitle": "[DOCKER][BUG] SeaTalk GPIO integration not working",
+      "url": "https://github.com/SignalK/signalk-server/issues/1703",
+      "createdAt": "2025-08-30T15:03:26.465Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
