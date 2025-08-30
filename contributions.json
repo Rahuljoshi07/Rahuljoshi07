@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756554353769,
+      "id": 1756554387254,
       "repository": "kabirjaipal/JUGNU-MUSIC",
       "issueTitle": "Error Handling Message [FFMPEG NOT INSTALLED]",
       "url": "https://github.com/kabirjaipal/JUGNU-MUSIC/issues/76",
-      "createdAt": "2025-08-30T11:45:53.769Z",
+      "createdAt": "2025-08-30T11:46:27.254Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
