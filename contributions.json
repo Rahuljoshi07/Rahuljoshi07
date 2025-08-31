@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756676664107,
+      "id": 1756676709785,
       "repository": "metarhia/metacom",
       "issueTitle": "context.user is undefined after successful auth.restore on a new Metacom connection",
       "url": "https://github.com/metarhia/metacom/issues/510",
-      "createdAt": "2025-08-31T21:44:24.107Z",
+      "createdAt": "2025-08-31T21:45:09.785Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
