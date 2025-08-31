@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756608496965,
+      "repository": "mgear-dev/mgear",
+      "issueTitle": "[BUG] Epic Spine components,  certain joints forced to world orientation when IK CTL World Ori in on.",
+      "url": "https://github.com/mgear-dev/mgear/issues/550",
+      "createdAt": "2025-08-31T02:48:16.965Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
