@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756662194693,
+      "repository": "orcahand/orca_core",
+      "issueTitle": "Slow Dynamixel Sync",
+      "url": "https://github.com/orcahand/orca_core/issues/18",
+      "createdAt": "2025-08-31T17:43:14.693Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
