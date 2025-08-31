@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756638957294,
+      "repository": "EduHaven/EduHaven",
+      "issueTitle": "Bug: On inspecting other user profile, the Timer stats always shows own stats instead.",
+      "url": "https://github.com/EduHaven/EduHaven/issues/460",
+      "createdAt": "2025-08-31T11:15:57.294Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
