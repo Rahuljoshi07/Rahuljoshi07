@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756667963560,
+      "repository": "civictechdc/mango-tango-cli",
+      "issueTitle": "bug: CLI can't detect certain timestamp columns",
+      "url": "https://github.com/civictechdc/mango-tango-cli/issues/193",
+      "createdAt": "2025-08-31T19:19:23.560Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
