@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756677108237,
+      "repository": "Larkinabout/fvtt-custom-dnd5e",
+      "issueTitle": "[BUG] Bloodied tint reverts to default on every setting change",
+      "url": "https://github.com/Larkinabout/fvtt-custom-dnd5e/issues/233",
+      "createdAt": "2025-08-31T21:51:48.237Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
