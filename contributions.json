@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756638354769,
+      "repository": "kevin-mizu/domloggerpp",
+      "issueTitle": "Browser compatibility issue",
+      "url": "https://github.com/kevin-mizu/domloggerpp/issues/42",
+      "createdAt": "2025-08-31T11:05:54.770Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
