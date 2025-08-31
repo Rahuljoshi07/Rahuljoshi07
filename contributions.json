@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756634661425,
+      "repository": "CycloneDX/cdxgen",
+      "issueTitle": "[bug] workaround for breaking change in 11.5.0 doesn't account for usage as library",
+      "url": "https://github.com/CycloneDX/cdxgen/issues/2201",
+      "createdAt": "2025-08-31T10:04:21.425Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
