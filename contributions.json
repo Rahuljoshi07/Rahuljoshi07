@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756662844440,
+      "repository": "theirix/ptpimg-uploader",
+      "issueTitle": "Cannot fetch url with error 429",
+      "url": "https://github.com/theirix/ptpimg-uploader/issues/10",
+      "createdAt": "2025-08-31T17:54:04.440Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
