@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756657209156,
+      "repository": "agamjotsingh18/trendhora",
+      "issueTitle": "NO GAP BTW DIVs",
+      "url": "https://github.com/agamjotsingh18/trendhora/issues/211",
+      "createdAt": "2025-08-31T16:20:09.156Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
