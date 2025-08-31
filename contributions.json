@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756667309815,
+      "id": 1756667342447,
       "repository": "Roshansuthar1105/Omex",
       "issueTitle": "Bug: [On opening company drop down menu, its kept opening ]",
       "url": "https://github.com/Roshansuthar1105/Omex/issues/151",
-      "createdAt": "2025-08-31T19:08:29.816Z",
+      "createdAt": "2025-08-31T19:09:02.447Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
