@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756670554085,
+      "repository": "betterproto/python-betterproto2",
+      "issueTitle": "from_dict() does not respect json_name from .proto definitions",
+      "url": "https://github.com/betterproto/python-betterproto2/issues/129",
+      "createdAt": "2025-08-31T20:02:34.085Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
