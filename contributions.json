@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756633877822,
+      "repository": "Feu-Secret/Tokenmagic",
+      "issueTitle": "[BUG] Saving settings, even if no settings are changed, causes a no-warning refresh of the page",
+      "url": "https://github.com/Feu-Secret/Tokenmagic/issues/289",
+      "createdAt": "2025-08-31T09:51:17.822Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
