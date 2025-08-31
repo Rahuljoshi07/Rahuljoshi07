@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756618070438,
+      "repository": "devayanm/Inboxly",
+      "issueTitle": "Issue in chat Space",
+      "url": "https://github.com/devayanm/Inboxly/issues/50",
+      "createdAt": "2025-08-31T05:27:50.439Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
