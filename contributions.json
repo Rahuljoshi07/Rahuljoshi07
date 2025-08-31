@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756680396666,
+      "repository": "Vollch/Evolve-Automation",
+      "issueTitle": "Two Syth Issue",
+      "url": "https://github.com/Vollch/Evolve-Automation/issues/34",
+      "createdAt": "2025-08-31T22:46:36.666Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
