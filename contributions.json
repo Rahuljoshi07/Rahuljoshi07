@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756602328471,
+      "repository": "Breakthrough/DVR-Scan",
+      "issueTitle": "When using the region editor, the first frame is skipped",
+      "url": "https://github.com/Breakthrough/DVR-Scan/issues/239",
+      "createdAt": "2025-08-31T01:05:28.471Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
