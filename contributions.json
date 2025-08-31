@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756611498483,
+      "repository": "modal-labs/modal-examples",
+      "issueTitle": "Auth issue with Example 06_gpu_and_ml/llm-serving/vllm_inference.py",
+      "url": "https://github.com/modal-labs/modal-examples/issues/1105",
+      "createdAt": "2025-08-31T03:38:18.483Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
