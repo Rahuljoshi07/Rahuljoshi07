@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756647327542,
+      "repository": "abrignoni/iLEAPP",
+      "issueTitle": "[Bug] mapSync artifact causes iLEAPP to hang on encrypted iOS backup",
+      "url": "https://github.com/abrignoni/iLEAPP/issues/1226",
+      "createdAt": "2025-08-31T13:35:27.542Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
