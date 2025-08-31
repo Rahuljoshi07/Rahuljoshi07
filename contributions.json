@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756682717717,
+      "repository": "django-commons/django-typer",
+      "issueTitle": "ModelObjectParser should have a setting that returns the lookup value if no row was found.",
+      "url": "https://github.com/django-commons/django-typer/issues/218",
+      "createdAt": "2025-08-31T23:25:17.717Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
