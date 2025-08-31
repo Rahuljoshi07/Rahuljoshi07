@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756668670863,
+      "repository": "ramses-rf/ramses_cc",
+      "issueTitle": "Orcon fan parse unknown `2210`",
+      "url": "https://github.com/ramses-rf/ramses_cc/issues/65",
+      "createdAt": "2025-08-31T19:31:10.863Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
