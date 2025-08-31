@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756682803080,
+      "repository": "chrisgoringe/cg-use-everywhere",
+      "issueTitle": "Issues with 7.1 and Safari",
+      "url": "https://github.com/chrisgoringe/cg-use-everywhere/issues/359",
+      "createdAt": "2025-08-31T23:26:43.080Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
