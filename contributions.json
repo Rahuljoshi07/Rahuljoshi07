@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756667171627,
+      "repository": "Roshansuthar1105/Omex",
+      "issueTitle": "Bug: [On opening company drop down menu, its kept opening ]",
+      "url": "https://github.com/Roshansuthar1105/Omex/issues/151",
+      "createdAt": "2025-08-31T19:06:11.628Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
