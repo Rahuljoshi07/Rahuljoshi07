@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756674767632,
+      "repository": "thecourseforum/theCourseForum2",
+      "issueTitle": "Bug: Missing average rating data within course card for instructor",
+      "url": "https://github.com/thecourseforum/theCourseForum2/issues/1124",
+      "createdAt": "2025-08-31T21:12:47.632Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
