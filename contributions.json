@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756715095699,
+      "repository": "easybuilders/easybuild-easyconfigs",
+      "issueTitle": "Linking error for the test step of torchtext on EL9",
+      "url": "https://github.com/easybuilders/easybuild-easyconfigs/issues/23762",
+      "createdAt": "2025-09-01T08:24:55.699Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
