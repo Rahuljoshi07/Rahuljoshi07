@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756751902348,
+      "repository": "nanorepublica/django-prodserver",
+      "issueTitle": "Default options like --skip-checks don't get passed through",
+      "url": "https://github.com/nanorepublica/django-prodserver/issues/67",
+      "createdAt": "2025-09-01T18:38:22.348Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
