@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756755579553,
+      "repository": "trueadm/ripple",
+      "issueTitle": "0.2.8 causes parser/tokenizer to error when encountering style tags",
+      "url": "https://github.com/trueadm/ripple/issues/35",
+      "createdAt": "2025-09-01T19:39:39.553Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
