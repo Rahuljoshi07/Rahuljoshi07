@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756733982672,
+      "repository": "ovh/manager",
+      "issueTitle": "[manager-components]: DataGrid cell content does not wrap or truncate long words",
+      "url": "https://github.com/ovh/manager/issues/17549",
+      "createdAt": "2025-09-01T13:39:42.672Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
