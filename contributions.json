@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756716848472,
+      "repository": "qgis/qwc2",
+      "issueTitle": "BatchTable id value out of bounds error with b3dm files from pg2b3dm",
+      "url": "https://github.com/qgis/qwc2/issues/478",
+      "createdAt": "2025-09-01T08:54:08.472Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
