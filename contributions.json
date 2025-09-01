@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756744027859,
+      "repository": "eval-sys/mcpmark",
+      "issueTitle": "[BUG] GPT-5 API alias may inadvertently call `gpt-5-thinking`, affecting benchmark fairness",
+      "url": "https://github.com/eval-sys/mcpmark/issues/156",
+      "createdAt": "2025-09-01T16:27:07.859Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
