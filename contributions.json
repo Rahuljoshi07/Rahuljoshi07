@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756690786425,
+      "repository": "join-the-flock/nest",
+      "issueTitle": "Backdrop Filter - blur expands beyond its container and colors of surrounding widgets are bleeding above the blur effect",
+      "url": "https://github.com/join-the-flock/nest/issues/52",
+      "createdAt": "2025-09-01T01:39:46.425Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
