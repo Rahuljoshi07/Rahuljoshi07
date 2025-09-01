@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756761406555,
+      "repository": "metarhia/impress",
+      "issueTitle": "TypeError when loading bus/.service.js file containing a 'name' property",
+      "url": "https://github.com/metarhia/impress/issues/1979",
+      "createdAt": "2025-09-01T21:16:46.555Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
