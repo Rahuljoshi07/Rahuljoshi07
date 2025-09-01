@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756740657922,
+      "repository": "sudo-suhas/elastic-builder",
+      "issueTitle": "Support \"multi_terms\" Aggregation",
+      "url": "https://github.com/sudo-suhas/elastic-builder/issues/148",
+      "createdAt": "2025-09-01T15:30:57.922Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
