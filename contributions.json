@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756719921979,
+      "repository": "wishthis/wishthis",
+      "issueTitle": "Transifex link on website broken",
+      "url": "https://github.com/wishthis/wishthis/issues/231",
+      "createdAt": "2025-09-01T09:45:21.979Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
