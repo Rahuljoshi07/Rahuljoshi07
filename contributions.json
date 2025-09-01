@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756725778123,
+      "repository": "aws-solutions-library-samples/guidance-for-media2cloud-on-aws",
+      "issueTitle": "error when uploading photos",
+      "url": "https://github.com/aws-solutions-library-samples/guidance-for-media2cloud-on-aws/issues/63",
+      "createdAt": "2025-09-01T11:22:58.123Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
