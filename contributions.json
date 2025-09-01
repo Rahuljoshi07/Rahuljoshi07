@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756726573917,
+      "repository": "torchbox/wagtailmedia",
+      "issueTitle": "Chooser Modal - \"Uncaught ReferenceError: initWMTabs is not defined\" possibly due to a version check typo",
+      "url": "https://github.com/torchbox/wagtailmedia/issues/266",
+      "createdAt": "2025-09-01T11:36:13.918Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
