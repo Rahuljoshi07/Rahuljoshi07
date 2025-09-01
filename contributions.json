@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756734836739,
+      "repository": "ansys/pyedb",
+      "issueTitle": "add_source_terminal_to_ground does not work in simulation result",
+      "url": "https://github.com/ansys/pyedb/issues/1063",
+      "createdAt": "2025-09-01T13:53:56.739Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
