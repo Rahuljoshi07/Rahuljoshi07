@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756749423333,
+      "repository": "jrkropp/open-webui-developer-toolkit",
+      "issueTitle": "Bug: Using OpenWebUI Code Interpreter with not collapsed thinking results in a loop, while collapsed, code_interpreter is not executed",
+      "url": "https://github.com/jrkropp/open-webui-developer-toolkit/issues/679",
+      "createdAt": "2025-09-01T17:57:03.333Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
