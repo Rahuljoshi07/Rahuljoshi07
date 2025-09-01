@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756737269081,
+      "id": 1756737303645,
       "repository": "keymetrics/pmx",
-      "issueTitle": "Memory Leak",
-      "url": "https://github.com/keymetrics/pmx/issues/126",
-      "createdAt": "2025-09-01T14:34:29.081Z",
+      "issueTitle": "The `util._extend` API is deprecated. Please use Object.assign() instead.",
+      "url": "https://github.com/keymetrics/pmx/issues/127",
+      "createdAt": "2025-09-01T14:35:03.645Z",
       "type": "comment",
-      "content": "Adding TypeScript could improve code quality and maintainability. This suggestion is particularly re..."
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
     }
   ],
   "stats": {
