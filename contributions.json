@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756720436096,
+      "repository": "earthians/marley",
+      "issueTitle": "ModuleNotFoundError: No module named 'health'",
+      "url": "https://github.com/earthians/marley/issues/358",
+      "createdAt": "2025-09-01T09:53:56.096Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
