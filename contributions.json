@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756732005039,
+      "repository": "sibbl/hass-lovelace-kindle-screensaver",
+      "issueTitle": "Using the array feature, kindle doesn't recognize/2 /3 etc. addresses.",
+      "url": "https://github.com/sibbl/hass-lovelace-kindle-screensaver/issues/148",
+      "createdAt": "2025-09-01T13:06:45.039Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
