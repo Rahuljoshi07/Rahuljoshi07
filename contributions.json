@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756697132467,
+      "repository": "jbsparrow/CyberDropDownloader",
+      "issueTitle": "[BUG] Client Connector Error - e-Hentai",
+      "url": "https://github.com/jbsparrow/CyberDropDownloader/issues/1273",
+      "createdAt": "2025-09-01T03:25:32.467Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
