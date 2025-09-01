@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756764434949,
+      "id": 1756764518927,
       "repository": "sadteams/bot-md",
       "issueTitle": "Error 601",
       "url": "https://github.com/sadteams/bot-md/issues/30",
-      "createdAt": "2025-09-01T22:07:14.949Z",
+      "createdAt": "2025-09-01T22:08:38.928Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
