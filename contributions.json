@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756757714871,
+      "repository": "public-transport/transitous",
+      "issueTitle": "Error fetching 'feeds/si.json'",
+      "url": "https://github.com/public-transport/transitous/issues/1475",
+      "createdAt": "2025-09-01T20:15:14.871Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
