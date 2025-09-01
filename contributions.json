@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756709936926,
+      "repository": "espruino/BangleApps",
+      "issueTitle": "[Storage Analyzer] Unable to decode \"\", got SyntaxError.",
+      "url": "https://github.com/espruino/BangleApps/issues/3973",
+      "createdAt": "2025-09-01T06:58:56.926Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
