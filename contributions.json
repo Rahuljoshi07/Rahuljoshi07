@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756722991634,
+      "repository": "OCA/agreement",
+      "issueTitle": "[agreement_legal] kanban menu doesn't work",
+      "url": "https://github.com/OCA/agreement/issues/61",
+      "createdAt": "2025-09-01T10:36:31.634Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
