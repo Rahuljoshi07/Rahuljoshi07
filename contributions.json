@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756725191815,
+      "repository": "Spice9/Geofs-Multiliveries",
+      "issueTitle": "Please do not use the GitHub issues page for livery submissions!",
+      "url": "https://github.com/Spice9/Geofs-Multiliveries/issues/227",
+      "createdAt": "2025-09-01T11:13:11.815Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
