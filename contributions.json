@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756782730521,
+      "repository": "octoenergy/xocto",
+      "issueTitle": "Replace pytz with datetime.timezone in settlement_periods.py",
+      "url": "https://github.com/octoenergy/xocto/issues/228",
+      "createdAt": "2025-09-02T03:12:10.521Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
