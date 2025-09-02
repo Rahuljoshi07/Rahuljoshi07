@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756815185448,
+      "repository": "DNS-OARC/PacketQ",
+      "issueTitle": "No error when file is not readable",
+      "url": "https://github.com/DNS-OARC/PacketQ/issues/67",
+      "createdAt": "2025-09-02T12:13:05.448Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
