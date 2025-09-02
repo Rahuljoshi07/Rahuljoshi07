@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756790873860,
+      "repository": "codeceptjs/ui",
+      "issueTitle": "Could not start codecept-ui with error require() of ES Module",
+      "url": "https://github.com/codeceptjs/ui/issues/564",
+      "createdAt": "2025-09-02T05:27:53.860Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
