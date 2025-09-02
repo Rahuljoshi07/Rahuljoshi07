@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756825303489,
+      "repository": "Mosquito-Alert/mosquito_alert",
+      "issueTitle": "Double check that \"show hidden\" shows only hidden pending validation",
+      "url": "https://github.com/Mosquito-Alert/mosquito_alert/issues/247",
+      "createdAt": "2025-09-02T15:01:43.489Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
