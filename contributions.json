@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756839805504,
+      "repository": "strictdoc-project/strictdoc",
+      "issueTitle": "Bug: Parsing C/C++ test descriptions",
+      "url": "https://github.com/strictdoc-project/strictdoc/issues/2435",
+      "createdAt": "2025-09-02T19:03:25.504Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
