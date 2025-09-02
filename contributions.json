@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756829960384,
+      "id": 1756829992880,
       "repository": "ShadowLp174/revoice.js",
       "issueTitle": "Example code gives UnsupportedError: device not supported",
       "url": "https://github.com/ShadowLp174/revoice.js/issues/15",
-      "createdAt": "2025-09-02T16:19:20.384Z",
+      "createdAt": "2025-09-02T16:19:52.880Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
