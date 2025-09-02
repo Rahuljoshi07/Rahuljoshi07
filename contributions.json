@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756822957320,
+      "repository": "jasperbaes/Microsoft-Cloud-Group-Analyzer",
+      "issueTitle": "Error when using tool",
+      "url": "https://github.com/jasperbaes/Microsoft-Cloud-Group-Analyzer/issues/16",
+      "createdAt": "2025-09-02T14:22:37.320Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
