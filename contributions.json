@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756837693741,
+      "repository": "wills106/homeassistant-solax-modbus",
+      "issueTitle": "[Bug]: X3 G4 PRO - wrong set Battery to EV Charger",
+      "url": "https://github.com/wills106/homeassistant-solax-modbus/issues/1586",
+      "createdAt": "2025-09-02T18:28:13.741Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
