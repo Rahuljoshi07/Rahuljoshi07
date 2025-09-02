@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756818262431,
+      "repository": "epic-open-source/evaluation-instruments",
+      "issueTitle": "Logging message doesn't know tmp dir",
+      "url": "https://github.com/epic-open-source/evaluation-instruments/issues/12",
+      "createdAt": "2025-09-02T13:04:22.431Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
