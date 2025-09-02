@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756827519165,
+      "repository": "MeghanaDG04/RECIPEDIA",
+      "issueTitle": "[BUG] -Adding Global Error Handling and 404 Route Handler to Express Server",
+      "url": "https://github.com/MeghanaDG04/RECIPEDIA/issues/279",
+      "createdAt": "2025-09-02T15:38:39.165Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
