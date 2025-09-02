@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756844814689,
-      "repository": "StanfordVL/BEHAVIOR-1K",
-      "issueTitle": "Asset not found error",
-      "url": "https://github.com/StanfordVL/BEHAVIOR-1K/issues/1812",
-      "createdAt": "2025-09-02T20:26:54.689Z",
+      "id": 1756844853208,
+      "repository": "mikejac/node-red-contrib-google-smarthome",
+      "issueTitle": "Error in HttpActions:reportState()",
+      "url": "https://github.com/mikejac/node-red-contrib-google-smarthome/issues/712",
+      "createdAt": "2025-09-02T20:27:33.209Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
