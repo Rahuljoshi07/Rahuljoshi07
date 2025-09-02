@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756826238910,
-      "repository": "SCR01/scr-game",
-      "issueTitle": "[BUG] fix video delay FCFS",
-      "url": "https://github.com/SCR01/scr-game/issues/79",
-      "createdAt": "2025-09-02T15:17:18.911Z",
+      "id": 1756826287176,
+      "repository": "ansible/ansible-compat",
+      "issueTitle": "ansible-compat 25.8.0 causes \"an AnsibleCollectionFinder has not been installed in this process\"",
+      "url": "https://github.com/ansible/ansible-compat/issues/518",
+      "createdAt": "2025-09-02T15:18:07.176Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
