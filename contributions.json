@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756830323521,
+      "repository": "nextcloud/guests",
+      "issueTitle": "AppConfigOverwrite only overwrites `getValue()` method, but not the new specific methods introduced with 29",
+      "url": "https://github.com/nextcloud/guests/issues/1381",
+      "createdAt": "2025-09-02T16:25:23.521Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
