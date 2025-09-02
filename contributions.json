@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756836654092,
+      "repository": "chocolatey/choco-theme",
+      "issueTitle": "Front end validation does not always show correct colors",
+      "url": "https://github.com/chocolatey/choco-theme/issues/303",
+      "createdAt": "2025-09-02T18:10:54.092Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
