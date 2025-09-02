@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756776113443,
+      "id": 1756776144526,
       "repository": "nextcloud/passman",
-      "issueTitle": "Passman backup passwords as files",
-      "url": "https://github.com/nextcloud/passman/issues/841",
-      "createdAt": "2025-09-02T01:21:53.443Z",
+      "issueTitle": "Importing a simple csv file fails to write the dates",
+      "url": "https://github.com/nextcloud/passman/issues/840",
+      "createdAt": "2025-09-02T01:22:24.526Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
