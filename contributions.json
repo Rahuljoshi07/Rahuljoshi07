@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756811580345,
+      "repository": "epam/ai-dial-adapter-bedrock",
+      "issueTitle": "Claude: `strict=True` in tool schema causes BadRequestError for Anthropic models",
+      "url": "https://github.com/epam/ai-dial-adapter-bedrock/issues/302",
+      "createdAt": "2025-09-02T11:13:00.345Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
