@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756825782506,
+      "repository": "tenstorrent/tt-forge",
+      "issueTitle": "Run Performance Benchmark on Commit in TT-XLA",
+      "url": "https://github.com/tenstorrent/tt-forge/issues/412",
+      "createdAt": "2025-09-02T15:09:42.507Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
