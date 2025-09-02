@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756841191321,
+      "repository": "testflows/TestFlows-GitHub-Hetzner-Runners",
+      "issueTitle": "When github api watchdog fails to connect it does not close sockets",
+      "url": "https://github.com/testflows/TestFlows-GitHub-Hetzner-Runners/issues/71",
+      "createdAt": "2025-09-02T19:26:31.321Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
