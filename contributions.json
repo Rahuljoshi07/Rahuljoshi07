@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756823245623,
+      "repository": "web3swift-team/web3swift",
+      "issueTitle": "Issues with 'Utilities' and 'SECP256K1' in web3swift 3.3.0",
+      "url": "https://github.com/web3swift-team/web3swift/issues/884",
+      "createdAt": "2025-09-02T14:27:25.623Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
