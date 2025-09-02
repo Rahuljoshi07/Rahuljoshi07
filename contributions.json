@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756841621339,
+      "repository": "medic/cht-conf",
+      "issueTitle": "Add basic form validation for instance::db-doc",
+      "url": "https://github.com/medic/cht-conf/issues/512",
+      "createdAt": "2025-09-02T19:33:41.339Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
