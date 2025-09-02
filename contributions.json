@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1756837612088,
-      "repository": "taskcluster/taskcluster",
-      "issueTitle": "d2g: don't pass environment variables from the d-w payload directly to g-w",
-      "url": "https://github.com/taskcluster/taskcluster/issues/7938",
-      "createdAt": "2025-09-02T18:26:52.088Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
