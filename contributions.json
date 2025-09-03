@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756922674091,
+      "repository": "AOSSIE-Org/PictoPy",
+      "issueTitle": "BUG: Missing framer-motion dependency in /PictoPy/web-ui/frontend/package.json",
+      "url": "https://github.com/AOSSIE-Org/PictoPy/issues/496",
+      "createdAt": "2025-09-03T18:04:34.091Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
