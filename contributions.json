@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756892853771,
+      "repository": "wildminder/ComfyUI-VibeVoice",
+      "issueTitle": "Import errors and missing dependencies for custom nodes (torchaudio, relative imports, missing .py files)",
+      "url": "https://github.com/wildminder/ComfyUI-VibeVoice/issues/19",
+      "createdAt": "2025-09-03T09:47:33.771Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
