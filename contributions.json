@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756934935915,
+      "repository": "openwisp/openwisp-notifications",
+      "issueTitle": "[chores] Improve TestAdminMedia: test_object_notification_setting_configured pollutes test environment",
+      "url": "https://github.com/openwisp/openwisp-notifications/issues/405",
+      "createdAt": "2025-09-03T21:28:55.915Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
