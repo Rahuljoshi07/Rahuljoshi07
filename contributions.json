@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756936459381,
+      "repository": "tethysplatform/tethys",
+      "issueTitle": "[BUG] Error opening TethysDash in tethys 4.3.8.post3.dev3",
+      "url": "https://github.com/tethysplatform/tethys/issues/1187",
+      "createdAt": "2025-09-03T21:54:19.381Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
