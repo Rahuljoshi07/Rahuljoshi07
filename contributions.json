@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756878063073,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Update heroui/* dependencies and fix tests",
+      "url": "https://github.com/OWASP/Nest/issues/2173",
+      "createdAt": "2025-09-03T05:41:03.073Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. This suggestion is particularly relevant..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
