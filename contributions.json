@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756878841957,
+      "repository": "Spenhouet/confluence-markdown-exporter",
+      "issueTitle": "got an unexpected keyword argument 'parent_tags'. Did you mean '_parent_tags'?",
+      "url": "https://github.com/Spenhouet/confluence-markdown-exporter/issues/88",
+      "createdAt": "2025-09-03T05:54:01.958Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
