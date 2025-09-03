@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756916991891,
+      "repository": "mlcommons/modelbench",
+      "issueTitle": "Generic OpenAI SUT factory with base_url doesn't work",
+      "url": "https://github.com/mlcommons/modelbench/issues/1250",
+      "createdAt": "2025-09-03T16:29:51.891Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
