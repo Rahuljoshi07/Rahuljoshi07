@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756869909129,
-      "repository": "objectionary/eoc",
-      "issueTitle": "it's absent in Homebrew",
-      "url": "https://github.com/objectionary/eoc/issues/449",
-      "createdAt": "2025-09-03T03:25:09.129Z",
+      "id": 1756869952962,
+      "repository": "tier4/autoware_perception_evaluation",
+      "issueTitle": "[BUG]: Quit using raw file path to prevent pickle load error",
+      "url": "https://github.com/tier4/autoware_perception_evaluation/issues/236",
+      "createdAt": "2025-09-03T03:25:52.962Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
