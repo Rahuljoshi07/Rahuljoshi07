@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756917440258,
+      "repository": "MrThearMan/graphene-django-query-optimizer",
+      "issueTitle": "Selecting __typename field on union type outside inline fragment causes runtime error",
+      "url": "https://github.com/MrThearMan/graphene-django-query-optimizer/issues/236",
+      "createdAt": "2025-09-03T16:37:20.258Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
