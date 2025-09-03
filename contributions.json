@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1756875946872,
-      "repository": "Harbour-Enterprises/SuperDoc",
-      "issueTitle": "how to export image(it's invalid when I imported by editorRef.current.activeEditor.commands.insertContent(`<img src=${base64}>`))",
-      "url": "https://github.com/Harbour-Enterprises/SuperDoc/issues/790",
-      "createdAt": "2025-09-03T05:05:46.872Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
