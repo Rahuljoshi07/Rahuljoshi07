@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756929851728,
+      "repository": "bigcat88/pillow_heif",
+      "issueTitle": "crash during encoding when using with cv2 [macOS]",
+      "url": "https://github.com/bigcat88/pillow_heif/issues/89",
+      "createdAt": "2025-09-03T20:04:11.728Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
