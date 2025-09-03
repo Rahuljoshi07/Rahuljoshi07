@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756929430391,
+      "repository": "isce-framework/snaphu-py",
+      "issueTitle": "[ Install Issue ] Could not find C_MATH_LIBRARY using the following names: m",
+      "url": "https://github.com/isce-framework/snaphu-py/issues/60",
+      "createdAt": "2025-09-03T19:57:10.391Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
