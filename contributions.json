@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756915825597,
+      "id": 1756915849045,
       "repository": "carbon-design-system/ibm-products",
       "issueTitle": "TagSet: popover link style issues",
       "url": "https://github.com/carbon-design-system/ibm-products/issues/8189",
-      "createdAt": "2025-09-03T16:10:25.597Z",
+      "createdAt": "2025-09-03T16:10:49.045Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
