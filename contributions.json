@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756897390169,
+      "repository": "anthonynosek/sprint-reader-chrome",
+      "issueTitle": "Weird hyphenation bug",
+      "url": "https://github.com/anthonynosek/sprint-reader-chrome/issues/46",
+      "createdAt": "2025-09-03T11:03:10.169Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
