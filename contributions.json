@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756928891120,
+      "repository": "opengisch/QField-docs",
+      "issueTitle": "[bug] font issue of og image in Chinese and Japanese language",
+      "url": "https://github.com/opengisch/QField-docs/issues/355",
+      "createdAt": "2025-09-03T19:48:11.120Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
