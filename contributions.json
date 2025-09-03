@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756920242197,
+      "repository": "snyk-labs/github-actions-scanner",
+      "issueTitle": "[BUG]: Actions yaml files can be titled either `action.yml` or `action.yaml` but the scanner only accepts `action.yml`",
+      "url": "https://github.com/snyk-labs/github-actions-scanner/issues/15",
+      "createdAt": "2025-09-03T17:24:02.197Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
