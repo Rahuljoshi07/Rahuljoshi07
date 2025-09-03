@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756920456411,
+      "repository": "adityadomle/BizFlow",
+      "issueTitle": "🐛 Bug Report: Text Overflow in About Page on Mobile View",
+      "url": "https://github.com/adityadomle/BizFlow/issues/337",
+      "createdAt": "2025-09-03T17:27:36.412Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
