@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756923255707,
-      "repository": "bioio-devs/bioio",
-      "issueTitle": "Codecov reports upload fails in CI",
-      "url": "https://github.com/bioio-devs/bioio/issues/81",
-      "createdAt": "2025-09-03T18:14:15.707Z",
+      "id": 1756923309235,
+      "repository": "DataDog/dd-trace-js",
+      "issueTitle": "[BUG]: Baggage methods aren't available after calling tracer.init()",
+      "url": "https://github.com/DataDog/dd-trace-js/issues/6370",
+      "createdAt": "2025-09-03T18:15:09.235Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
