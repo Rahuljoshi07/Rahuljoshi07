@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756858263367,
+      "repository": "doyle-lab-ucla/auto-qchem",
+      "issueTitle": "Known bug for v1.2.6",
+      "url": "https://github.com/doyle-lab-ucla/auto-qchem/issues/23",
+      "createdAt": "2025-09-03T00:11:03.367Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
