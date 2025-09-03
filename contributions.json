@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756895830996,
+      "repository": "GetStream/stream-chat-react",
+      "issueTitle": "bug: file and image fails to upload in a capacitor project with CapacitorHttp plugin enabled.",
+      "url": "https://github.com/GetStream/stream-chat-react/issues/2803",
+      "createdAt": "2025-09-03T10:37:10.996Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
