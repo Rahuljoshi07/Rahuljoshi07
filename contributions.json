@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756869775736,
+      "repository": "gao-lab/GLUE",
+      "issueTitle": "scglue.models.fit_SCGLUE error with torch 2.7.0",
+      "url": "https://github.com/gao-lab/GLUE/issues/131",
+      "createdAt": "2025-09-03T03:22:55.736Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
