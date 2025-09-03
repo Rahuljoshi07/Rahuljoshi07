@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756940332115,
-      "repository": "2M4U/2m4u",
-      "issueTitle": "Possible fixes for update.js",
-      "url": "https://github.com/2M4U/2m4u/issues/6",
-      "createdAt": "2025-09-03T22:58:52.115Z",
+      "id": 1756940380360,
+      "repository": "okta/okta-signin-widget",
+      "issueTitle": "Bug: Partial i18n overrides with language: 'fr' cause fallback to English, despite loading login_fr.json",
+      "url": "https://github.com/okta/okta-signin-widget/issues/3856",
+      "createdAt": "2025-09-03T22:59:40.360Z",
       "type": "comment",
-      "content": "Adding TypeScript could improve code quality and maintainability. This suggestion is particularly re..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
