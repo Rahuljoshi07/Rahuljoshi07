@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756913188081,
+      "repository": "skedwards88/crossjig",
+      "issueTitle": "[Bug]: DragGroup continually remounted when a single piece is pressed and held",
+      "url": "https://github.com/skedwards88/crossjig/issues/31",
+      "createdAt": "2025-09-03T15:26:28.081Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
