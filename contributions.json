@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756909289603,
+      "repository": "langgenius/dify-official-plugins",
+      "issueTitle": "When add rerank modle \"Qwen3-Reranker-4B\" by XInference plugin,  report  error \"score :input should be a valid number..\"",
+      "url": "https://github.com/langgenius/dify-official-plugins/issues/1637",
+      "createdAt": "2025-09-03T14:21:29.603Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
