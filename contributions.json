@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756896858774,
-      "repository": "2M4U/2m4u",
-      "issueTitle": "Possible fixes for update.js",
-      "url": "https://github.com/2M4U/2m4u/issues/6",
-      "createdAt": "2025-09-03T10:54:18.775Z",
+      "id": 1756896886738,
+      "repository": "kitodo/kitodo-presentation",
+      "issueTitle": "[BUG] Empty result list using a collection link  after updating to v5.0.10",
+      "url": "https://github.com/kitodo/kitodo-presentation/issues/1674",
+      "createdAt": "2025-09-03T10:54:46.738Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
