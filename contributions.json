@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756903767255,
+      "repository": "kermitt2/grobid_client_python",
+      "issueTitle": "Error ",
+      "url": "https://github.com/kermitt2/grobid_client_python/issues/74",
+      "createdAt": "2025-09-03T12:49:27.255Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
