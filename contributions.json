@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756896429215,
+      "repository": "ecolab-nus/morpher",
+      "issueTitle": "microspeech_1 test error",
+      "url": "https://github.com/ecolab-nus/morpher/issues/11",
+      "createdAt": "2025-09-03T10:47:09.215Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
