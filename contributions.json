@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756886034678,
+      "repository": "DefElement/DefElement",
+      "issueTitle": "A mistake for Crouzeix–Falk element",
+      "url": "https://github.com/DefElement/DefElement/issues/472",
+      "createdAt": "2025-09-03T07:53:54.678Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
