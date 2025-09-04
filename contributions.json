@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1756962605738,
+      "id": 1756962649054,
       "repository": "cockpit-project/cockpit-ostree",
-      "issueTitle": "System up-to-date showed when update fails to fetch",
-      "url": "https://github.com/cockpit-project/cockpit-ostree/issues/771",
-      "createdAt": "2025-09-04T05:10:05.738Z",
+      "issueTitle": "Refreshing while an overlay is installed crashes the page",
+      "url": "https://github.com/cockpit-project/cockpit-ostree/issues/456",
+      "createdAt": "2025-09-04T05:10:49.054Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
