@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1756989333605,
+      "id": 1756989368003,
       "repository": "CycloneDX/cyclonedx-node-npm",
       "issueTitle": "[BUG] `--omit=dev` and `--omit=optional` flags don't exclude `devOptional` dependencies, causing misleading output",
       "url": "https://github.com/CycloneDX/cyclonedx-node-npm/issues/1325",
-      "createdAt": "2025-09-04T12:35:33.605Z",
+      "createdAt": "2025-09-04T12:36:08.003Z",
       "type": "comment",
       "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
