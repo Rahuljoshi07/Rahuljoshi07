@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756988662390,
-      "repository": "2M4U/2m4u",
-      "issueTitle": "Possible fixes for update.js",
-      "url": "https://github.com/2M4U/2m4u/issues/6",
-      "createdAt": "2025-09-04T12:24:22.390Z",
+      "id": 1756988703760,
+      "repository": "CycloneDX/cyclonedx-node-npm",
+      "issueTitle": "[BUG] `--omit=dev` and `--omit=optional` flags don't exclude `devOptional` dependencies, causing misleading output",
+      "url": "https://github.com/CycloneDX/cyclonedx-node-npm/issues/1325",
+      "createdAt": "2025-09-04T12:25:03.760Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
