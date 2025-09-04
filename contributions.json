@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757002035502,
+      "repository": "openwisp/django-flat-json-widget",
+      "issueTitle": "[bug] Input fields does not respect newlines",
+      "url": "https://github.com/openwisp/django-flat-json-widget/issues/19",
+      "createdAt": "2025-09-04T16:07:15.503Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
