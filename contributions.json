@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757011107451,
+      "repository": "ApryseSDK/webviewer-video-sample",
+      "issueTitle": "Loading WebViewer from another domain",
+      "url": "https://github.com/ApryseSDK/webviewer-video-sample/issues/54",
+      "createdAt": "2025-09-04T18:38:27.451Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
