@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757004292507,
+      "repository": "bbloomf/jgabc",
+      "issueTitle": "Issues with a custom tone, fix versicle tone, and addition of new tones",
+      "url": "https://github.com/bbloomf/jgabc/issues/76",
+      "createdAt": "2025-09-04T16:44:52.507Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
