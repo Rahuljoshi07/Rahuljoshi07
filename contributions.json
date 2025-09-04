@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756969200029,
+      "repository": "pyvisa/pyvisa-py",
+      "issueTitle": "PyVISA-Py: USB backend issue value error operation timed out",
+      "url": "https://github.com/pyvisa/pyvisa-py/issues/256",
+      "createdAt": "2025-09-04T07:00:00.029Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
