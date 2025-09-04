@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756944147509,
+      "repository": "OWASP/Nest",
+      "issueTitle": "fix(ui): improve mobile navigation menu usability",
+      "url": "https://github.com/OWASP/Nest/issues/2066",
+      "createdAt": "2025-09-04T00:02:27.509Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
