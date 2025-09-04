@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757023267001,
+      "repository": "Lucaslab-Berkeley/Leopard-EM",
+      "issueTitle": "Tensor type error in `ParticleStack` class when whitening filter is disabled",
+      "url": "https://github.com/Lucaslab-Berkeley/Leopard-EM/issues/64",
+      "createdAt": "2025-09-04T22:01:07.002Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
