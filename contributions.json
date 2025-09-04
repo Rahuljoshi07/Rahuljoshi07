@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756987312625,
+      "repository": "microsoft/scitt-ccf-ledger",
+      "issueTitle": "JWKS endpoint failure due to indexing error should be retriable",
+      "url": "https://github.com/microsoft/scitt-ccf-ledger/issues/282",
+      "createdAt": "2025-09-04T12:01:52.625Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
