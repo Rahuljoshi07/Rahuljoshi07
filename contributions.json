@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756948089069,
+      "repository": "jcmgray/quimb",
+      "issueTitle": "ImportError: autoray couldn't find function 'tensordot' for backend 'quimb' when building parametrized CircuitMPS",
+      "url": "https://github.com/jcmgray/quimb/issues/324",
+      "createdAt": "2025-09-04T01:08:09.069Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
