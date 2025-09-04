@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757017353640,
+      "repository": "tndrle/node-sqlite3-wasm",
+      "issueTitle": "Compatible with kysely",
+      "url": "https://github.com/tndrle/node-sqlite3-wasm/issues/77",
+      "createdAt": "2025-09-04T20:22:33.640Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
