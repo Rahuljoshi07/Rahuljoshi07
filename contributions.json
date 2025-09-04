@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757007955601,
+      "repository": "maproulette/maproulette3",
+      "issueTitle": "Privacy issue: Cannot load web app without network requests to Google Fonts servers",
+      "url": "https://github.com/maproulette/maproulette3/issues/2720",
+      "createdAt": "2025-09-04T17:45:55.601Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
