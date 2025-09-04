@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756961081812,
+      "repository": "facebookresearch/matrix",
+      "issueTitle": "Error of \"vLLM Engine has dead and needs restarting\" when setting `prompt_logprobs`",
+      "url": "https://github.com/facebookresearch/matrix/issues/43",
+      "createdAt": "2025-09-04T04:44:41.812Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
