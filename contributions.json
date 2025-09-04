@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756972109757,
-      "repository": "muellerberndt/hound",
-      "issueTitle": "Graph Generation Shows 0 Nodes/Edges",
-      "url": "https://github.com/muellerberndt/hound/issues/14",
-      "createdAt": "2025-09-04T07:48:29.757Z",
+      "id": 1756972144926,
+      "repository": "CycloneDX/cyclonedx-webpack-plugin",
+      "issueTitle": "[BUG] rootComponentName does not override root component but adds a new one",
+      "url": "https://github.com/CycloneDX/cyclonedx-webpack-plugin/issues/1418",
+      "createdAt": "2025-09-04T07:49:04.927Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
