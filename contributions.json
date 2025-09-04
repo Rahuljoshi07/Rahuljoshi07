@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756995536648,
+      "id": 1756995574921,
       "repository": "loopbackio/loopback-connector-mysql",
       "issueTitle": "I get Error: read ECONNRESET at TCP.onStreamRead after some running time",
       "url": "https://github.com/loopbackio/loopback-connector-mysql/issues/614",
-      "createdAt": "2025-09-04T14:18:56.648Z",
+      "createdAt": "2025-09-04T14:19:34.921Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
