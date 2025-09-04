@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1756979559589,
+      "id": 1756979593518,
       "repository": "Selbi182/SpotifyBigPicture",
       "issueTitle": "Error: Index 0 out of bounds for length 0",
       "url": "https://github.com/Selbi182/SpotifyBigPicture/issues/41",
-      "createdAt": "2025-09-04T09:52:39.589Z",
+      "createdAt": "2025-09-04T09:53:13.518Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
