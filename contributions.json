@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757010952375,
+      "repository": "elastic/elastic-otel-node",
+      "issueTitle": "support `opamp_polling_interval` and `sampling_rate` in central config",
+      "url": "https://github.com/elastic/elastic-otel-node/issues/960",
+      "createdAt": "2025-09-04T18:35:52.375Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
