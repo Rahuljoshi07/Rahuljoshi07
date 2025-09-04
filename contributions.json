@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757015389806,
+      "repository": "tox-dev/tox-ini-fmt",
+      "issueTitle": "comments get deleted",
+      "url": "https://github.com/tox-dev/tox-ini-fmt/issues/42",
+      "createdAt": "2025-09-04T19:49:49.806Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
