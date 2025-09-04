@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757020917925,
+      "repository": "fabiocaccamo/django-extra-settings",
+      "issueTitle": "Handle initialization when models are not loaded",
+      "url": "https://github.com/fabiocaccamo/django-extra-settings/issues/175",
+      "createdAt": "2025-09-04T21:21:57.925Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
