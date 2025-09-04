@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756945937867,
+      "repository": "Yale-Libs/yalexs-ble",
+      "issueTitle": "Frequent state change advertisements -> battery drain",
+      "url": "https://github.com/Yale-Libs/yalexs-ble/issues/161",
+      "createdAt": "2025-09-04T00:32:17.867Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
