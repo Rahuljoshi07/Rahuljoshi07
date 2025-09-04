@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756967511805,
+      "repository": "Ascend/pytorch",
+      "issueTitle": "RuntimeError: npuSynchronizeDevice:torch_npu/csrc/core/npu/NPUStream.cpp:435 NPU function error: aclrtSynchronizeDevice, error code is 507046",
+      "url": "https://github.com/Ascend/pytorch/issues/62",
+      "createdAt": "2025-09-04T06:31:51.805Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
