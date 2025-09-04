@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1756994351678,
+      "repository": "hhd-dev/hhd",
+      "issueTitle": "[Bug] Dual AMD GPU functionality breaks hhd's power‑profile‑daemon and CPU scheduling",
+      "url": "https://github.com/hhd-dev/hhd/issues/215",
+      "createdAt": "2025-09-04T13:59:11.678Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
