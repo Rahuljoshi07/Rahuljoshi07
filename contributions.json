@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757091361388,
+      "repository": "griptape-ai/griptape-nodes",
+      "issueTitle": "Handle switching models in Advanced Library",
+      "url": "https://github.com/griptape-ai/griptape-nodes/issues/2033",
+      "createdAt": "2025-09-05T16:56:01.388Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
