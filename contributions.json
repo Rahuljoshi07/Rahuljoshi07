@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757040321463,
+      "repository": "ServiceNow/TapeAgents",
+      "issueTitle": "Issue with llama_agent example",
+      "url": "https://github.com/ServiceNow/TapeAgents/issues/214",
+      "createdAt": "2025-09-05T02:45:21.463Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
