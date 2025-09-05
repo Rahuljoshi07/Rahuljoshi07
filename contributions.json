@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757063194999,
+      "repository": "DLS5-Omics/multimolecule",
+      "issueTitle": "🐞 Critical Bug: Silent load_state_dict Failure Leading to Incorrect Model Weights",
+      "url": "https://github.com/DLS5-Omics/multimolecule/issues/9",
+      "createdAt": "2025-09-05T09:06:34.999Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
