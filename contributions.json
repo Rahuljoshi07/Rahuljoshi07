@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757070231169,
+      "repository": "python/pyperformance",
+      "issueTitle": "Benchmarks for common python I/O patterns",
+      "url": "https://github.com/python/pyperformance/issues/399",
+      "createdAt": "2025-09-05T11:03:51.170Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
