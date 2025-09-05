@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757054299652,
+      "repository": "redis/agent-memory-server",
+      "issueTitle": "Flaky test: test_judge_comprehensive_grounding_evaluation has inconsistent completeness scores",
+      "url": "https://github.com/redis/agent-memory-server/issues/48",
+      "createdAt": "2025-09-05T06:38:19.652Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
