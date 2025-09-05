@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757074137754,
+      "id": 1757074182371,
       "repository": "fusioncharts/react-native-fusioncharts",
       "issueTitle": "latest Fusion chart legend alignment issue.",
       "url": "https://github.com/fusioncharts/react-native-fusioncharts/issues/199",
-      "createdAt": "2025-09-05T12:08:57.754Z",
+      "createdAt": "2025-09-05T12:09:42.371Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
