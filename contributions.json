@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1757061514155,
-      "repository": "appwrite/sdk-for-cli",
-      "issueTitle": "🐛 Bug Report: TypeScript type generation object invalid for key’s starting with a number [0-9]",
-      "url": "https://github.com/appwrite/sdk-for-cli/issues/186",
-      "createdAt": "2025-09-05T08:38:34.155Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
