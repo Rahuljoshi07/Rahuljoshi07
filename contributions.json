@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757060829936,
+      "repository": "GetStream/stream-video-js",
+      "issueTitle": "Expo Screen Sharing Not Working (Starting from Xcode 14, resource bundles are signed by default)",
+      "url": "https://github.com/GetStream/stream-video-js/issues/1906",
+      "createdAt": "2025-09-05T08:27:09.936Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
