@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757101920360,
+      "repository": "nextcloud/tasks",
+      "issueTitle": "NC Tasks flattens subtasks after they have been moved beteween calendars by Tasks.org",
+      "url": "https://github.com/nextcloud/tasks/issues/2917",
+      "createdAt": "2025-09-05T19:52:00.360Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
