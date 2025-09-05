@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757039474965,
+      "id": 1757039510035,
       "repository": "LibreSign/libresign",
       "issueTitle": "failed signing pdf: Invalid signing Time in certificate chain",
       "url": "https://github.com/LibreSign/libresign/issues/5347",
-      "createdAt": "2025-09-05T02:31:14.965Z",
+      "createdAt": "2025-09-05T02:31:50.035Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
