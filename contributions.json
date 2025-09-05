@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757060490382,
+      "repository": "mapbox/aws-log-replay",
+      "issueTitle": "[Feature] Reproduce relative timing of requests via timestamp with RequestStream",
+      "url": "https://github.com/mapbox/aws-log-replay/issues/44",
+      "createdAt": "2025-09-05T08:21:30.382Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
