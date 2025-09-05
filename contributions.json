@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757062132622,
+      "repository": "greenbone/gvm-tools",
+      "issueTitle": "gvm-cli Python cryptography deprecation warning ",
+      "url": "https://github.com/greenbone/gvm-tools/issues/1131",
+      "createdAt": "2025-09-05T08:48:52.622Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
