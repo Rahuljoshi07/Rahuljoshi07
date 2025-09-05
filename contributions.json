@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757114542661,
+      "repository": "sopel-irc/sopel",
+      "issueTitle": "Importing callables from other plugins silently duplicates bot commands",
+      "url": "https://github.com/sopel-irc/sopel/issues/2488",
+      "createdAt": "2025-09-05T23:22:22.662Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
