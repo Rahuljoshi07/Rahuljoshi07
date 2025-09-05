@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757102583880,
+      "repository": "layer6ai-labs/TabDPT-inference",
+      "issueTitle": "ValueError: Cannot use mean strategy with non-numeric data",
+      "url": "https://github.com/layer6ai-labs/TabDPT-inference/issues/6",
+      "createdAt": "2025-09-05T20:03:03.880Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
