@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757042898348,
+      "repository": "mxcad/mxcad_docs",
+      "issueTitle": "mxcad.es.js:3055  Uncaught (in promise) TypeError: globalThis[e] is not a function",
+      "url": "https://github.com/mxcad/mxcad_docs/issues/2",
+      "createdAt": "2025-09-05T03:28:18.348Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
