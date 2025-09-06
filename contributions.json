@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757154043341,
+      "repository": "WolvenKit/Cyberpunk-Blender-add-on",
+      "issueTitle": "TypeError: argument of type 'NoneType' is not iterable",
+      "url": "https://github.com/WolvenKit/Cyberpunk-Blender-add-on/issues/289",
+      "createdAt": "2025-09-06T10:20:43.341Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
