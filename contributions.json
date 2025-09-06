@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757161838912,
+      "repository": "PrismarineJS/node-minecraft-assets",
+      "issueTitle": "[Bug Report] Dupe hopper in 1.20.2 textureContent will be replaced by one.",
+      "url": "https://github.com/PrismarineJS/node-minecraft-assets/issues/32",
+      "createdAt": "2025-09-06T12:30:38.912Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
