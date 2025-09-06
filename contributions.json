@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757165608665,
+      "repository": "WhiteSevs/TamperMonkeyScript",
+      "issueTitle": "[Bug] 播放期间画面发生位移，下半部分画面慢慢移到上半部分",
+      "url": "https://github.com/WhiteSevs/TamperMonkeyScript/issues/187",
+      "createdAt": "2025-09-06T13:33:28.665Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
