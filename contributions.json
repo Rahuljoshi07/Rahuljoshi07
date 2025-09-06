@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757122887907,
+      "repository": "ianbrault/nyt_recipe",
+      "issueTitle": "More descriptive errors",
+      "url": "https://github.com/ianbrault/nyt_recipe/issues/5",
+      "createdAt": "2025-09-06T01:41:27.907Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
