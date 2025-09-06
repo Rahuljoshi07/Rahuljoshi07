@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757184587061,
+      "id": 1757184628422,
       "repository": "fabian-beck/pure-suggest",
       "issueTitle": "When loading a session, the network plot is triggered prematurely",
       "url": "https://github.com/fabian-beck/pure-suggest/issues/562",
-      "createdAt": "2025-09-06T18:49:47.061Z",
+      "createdAt": "2025-09-06T18:50:28.422Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
