@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757172614587,
+      "repository": "luluwaffless/wplacer",
+      "issueTitle": "Captured cloudflare tokens are all invalid",
+      "url": "https://github.com/luluwaffless/wplacer/issues/282",
+      "createdAt": "2025-09-06T15:30:14.587Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
