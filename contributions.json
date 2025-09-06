@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757196781124,
+      "repository": "NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect",
+      "issueTitle": "bug: no-chain-state-updates issues",
+      "url": "https://github.com/NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect/issues/28",
+      "createdAt": "2025-09-06T22:13:01.125Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
