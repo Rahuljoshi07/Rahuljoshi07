@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757144963133,
+      "repository": "fabian-beck/pure-suggest",
+      "issueTitle": "Instable top author node computation",
+      "url": "https://github.com/fabian-beck/pure-suggest/issues/552",
+      "createdAt": "2025-09-06T07:49:23.133Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
