@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757183207707,
+      "repository": "adityadomle/BizFlow",
+      "issueTitle": "[BUG] Navigation Bar is Compressed on Larger Viewports",
+      "url": "https://github.com/adityadomle/BizFlow/issues/382",
+      "createdAt": "2025-09-06T18:26:47.707Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
