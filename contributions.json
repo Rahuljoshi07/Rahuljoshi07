@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757146493114,
+      "repository": "Vaskivskyi/ha-asusrouter",
+      "issueTitle": "[Bug] Adding More Than One Hub Overwrites All Devices Name and Location",
+      "url": "https://github.com/Vaskivskyi/ha-asusrouter/issues/973",
+      "createdAt": "2025-09-06T08:14:53.115Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
