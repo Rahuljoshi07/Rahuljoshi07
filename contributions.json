@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1757178916559,
-      "repository": "WeblateOrg/website",
-      "issueTitle": "IntegrityError: (1048, \"Column 'extra' cannot be null\")",
-      "url": "https://github.com/WeblateOrg/website/issues/2968",
-      "createdAt": "2025-09-06T17:15:16.559Z",
-      "type": "comment",
-      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
