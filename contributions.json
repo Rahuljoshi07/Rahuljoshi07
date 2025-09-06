@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757122046780,
+      "repository": "h1ddenpr0cess20/infinigpt-matrix",
+      "issueTitle": ".x function doesn't work with nicks that have spaces in them",
+      "url": "https://github.com/h1ddenpr0cess20/infinigpt-matrix/issues/30",
+      "createdAt": "2025-09-06T01:27:26.780Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
