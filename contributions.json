@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757198175570,
+      "repository": "opendatacube/datacube-explorer",
+      "issueTitle": "Extremely Slow STAC Collections Endpoint `/stac/collections`",
+      "url": "https://github.com/opendatacube/datacube-explorer/issues/802",
+      "createdAt": "2025-09-06T22:36:15.570Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
