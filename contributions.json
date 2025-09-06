@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757150050193,
+      "repository": "fl4p/batmon-ha",
+      "issueTitle": "Error on connections after 1.84 update",
+      "url": "https://github.com/fl4p/batmon-ha/issues/313",
+      "createdAt": "2025-09-06T09:14:10.193Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
