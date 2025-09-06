@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757194931654,
+      "repository": "GetStream/stream-chat-react",
+      "issueTitle": "Remove dependency on react-popper",
+      "url": "https://github.com/GetStream/stream-chat-react/issues/2809",
+      "createdAt": "2025-09-06T21:42:11.654Z",
+      "type": "comment",
+      "content": "Consider implementing proper error boundaries for better error handling. This suggestion is particul..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
