@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757253593124,
+      "repository": "multifactor/MFKDF",
+      "issueTitle": "MFKDF2: Add optional TOTP timing oracle",
+      "url": "https://github.com/multifactor/MFKDF/issues/14",
+      "createdAt": "2025-09-07T13:59:53.124Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
