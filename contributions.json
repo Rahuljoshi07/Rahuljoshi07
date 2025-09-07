@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757270316931,
+      "id": 1757270357246,
       "repository": "NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect",
       "issueTitle": "bug: no-chain-state-updates issues",
       "url": "https://github.com/NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect/issues/28",
-      "createdAt": "2025-09-07T18:38:36.932Z",
+      "createdAt": "2025-09-07T18:39:17.246Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
