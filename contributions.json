@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1757273560678,
-      "repository": "gamedig/node-gamedig",
-      "issueTitle": "bug: gamedig.version sometimes returns a Number",
-      "url": "https://github.com/gamedig/node-gamedig/issues/734",
-      "createdAt": "2025-09-07T19:32:40.678Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
