@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757283246882,
+      "repository": "NPC-Worldwide/npc-studio",
+      "issueTitle": "[bug] copy and paste in terminal",
+      "url": "https://github.com/NPC-Worldwide/npc-studio/issues/18",
+      "createdAt": "2025-09-07T22:14:06.882Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
