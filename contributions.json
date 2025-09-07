@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757275692044,
+      "repository": "andrewmcgr/klipper_tmc_autotune",
+      "issueTitle": "First layer issues with multiple object on Trident after autotune",
+      "url": "https://github.com/andrewmcgr/klipper_tmc_autotune/issues/208",
+      "createdAt": "2025-09-07T20:08:12.044Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
