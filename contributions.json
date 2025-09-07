@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757273519529,
-      "repository": "2M4U/2m4u",
-      "issueTitle": ".env.template is missing",
-      "url": "https://github.com/2M4U/2m4u/issues/9",
-      "createdAt": "2025-09-07T19:31:59.529Z",
+      "id": 1757273560678,
+      "repository": "gamedig/node-gamedig",
+      "issueTitle": "bug: gamedig.version sometimes returns a Number",
+      "url": "https://github.com/gamedig/node-gamedig/issues/734",
+      "createdAt": "2025-09-07T19:32:40.678Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
