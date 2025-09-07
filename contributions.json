@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757279567285,
+      "repository": "NPC-Worldwide/npc-studio",
+      "issueTitle": "[bug] fix back up arrow to work  again",
+      "url": "https://github.com/NPC-Worldwide/npc-studio/issues/7",
+      "createdAt": "2025-09-07T21:12:47.285Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
