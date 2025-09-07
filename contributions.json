@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757241113278,
+      "repository": "4xian/claude-auto-api",
+      "issueTitle": "[Bug] 检测连接可用性时 不正确",
+      "url": "https://github.com/4xian/claude-auto-api/issues/6",
+      "createdAt": "2025-09-07T10:31:53.278Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
