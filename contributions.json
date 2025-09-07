@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757281812981,
+      "repository": "compas-dev/compas",
+      "issueTitle": "performance of `mesh_import` can be improved",
+      "url": "https://github.com/compas-dev/compas/issues/1474",
+      "createdAt": "2025-09-07T21:50:12.981Z",
+      "type": "comment",
+      "content": "Using generators could help with memory efficiency for large datasets. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
