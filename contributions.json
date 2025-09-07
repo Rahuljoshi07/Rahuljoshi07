@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757256613525,
+      "id": 1757256645347,
       "repository": "multifactor/MFKDF",
-      "issueTitle": "MFKDF2: Dependency security audit",
-      "url": "https://github.com/multifactor/MFKDF/issues/18",
-      "createdAt": "2025-09-07T14:50:13.525Z",
+      "issueTitle": "MFKDF2: Remove deprecated features",
+      "url": "https://github.com/multifactor/MFKDF/issues/20",
+      "createdAt": "2025-09-07T14:50:45.347Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
