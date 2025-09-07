@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757255837102,
+      "repository": "vivmagarwal/strapi-plugin-custom-api-builder",
+      "issueTitle": "bug not map the relationships",
+      "url": "https://github.com/vivmagarwal/strapi-plugin-custom-api-builder/issues/4",
+      "createdAt": "2025-09-07T14:37:17.102Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
