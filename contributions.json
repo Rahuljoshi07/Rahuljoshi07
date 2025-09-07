@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757253763478,
+      "repository": "axonops/axonops-workbench",
+      "issueTitle": "[bug]: AxonOps Integration settings not saved for AxonOps Self-Host",
+      "url": "https://github.com/axonops/axonops-workbench/issues/1000",
+      "createdAt": "2025-09-07T14:02:43.478Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
