@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757282113894,
+      "repository": "adam9899/MC-Eternal-2",
+      "issueTitle": "[Bug?] Snow Layer-like Hitbox causes rapid hitting from BetterCombat",
+      "url": "https://github.com/adam9899/MC-Eternal-2/issues/612",
+      "createdAt": "2025-09-07T21:55:13.894Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
