@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757241535344,
+      "repository": "BAMWelDX/weldx",
+      "issueTitle": "validate dtype of `SpatialData.triangles`",
+      "url": "https://github.com/BAMWelDX/weldx/issues/973",
+      "createdAt": "2025-09-07T10:38:55.344Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
