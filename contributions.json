@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757267196965,
+      "repository": "danielfrg/s3contents",
+      "issueTitle": "Listing contents of large s3 folders is slow",
+      "url": "https://github.com/danielfrg/s3contents/issues/140",
+      "createdAt": "2025-09-07T17:46:36.965Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
