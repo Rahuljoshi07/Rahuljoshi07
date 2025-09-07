@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757242846476,
+      "repository": "ttop32/MouseTooltipTranslator",
+      "issueTitle": "[BUG🐞] Extension prevents modal from appearing on hover ",
+      "url": "https://github.com/ttop32/MouseTooltipTranslator/issues/253",
+      "createdAt": "2025-09-07T11:00:46.476Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
