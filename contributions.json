@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757344813656,
+      "repository": "memeLab/Jandig",
+      "issueTitle": "Pagination not working on sound selection",
+      "url": "https://github.com/memeLab/Jandig/issues/812",
+      "createdAt": "2025-09-08T15:20:13.656Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
