@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1757337235280,
+      "id": 1757337273584,
       "repository": "CycloneDX/cyclonedx-node-npm",
-      "issueTitle": "[BUG] `--omit=dev` and `--omit=optional` flags don't exclude `devOptional` dependencies, causing misleading output",
-      "url": "https://github.com/CycloneDX/cyclonedx-node-npm/issues/1325",
-      "createdAt": "2025-09-08T13:13:55.281Z",
+      "issueTitle": "[BUG] missing properties for \"private\", \"development\" and \"bundled\" dependnecies",
+      "url": "https://github.com/CycloneDX/cyclonedx-node-npm/issues/1330",
+      "createdAt": "2025-09-08T13:14:33.584Z",
       "type": "comment",
       "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
