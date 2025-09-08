@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757368555225,
+      "repository": "gemini-testing/testplane",
+      "issueTitle": "Hard to read errors when unable to parse the config",
+      "url": "https://github.com/gemini-testing/testplane/issues/1127",
+      "createdAt": "2025-09-08T21:55:55.225Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
