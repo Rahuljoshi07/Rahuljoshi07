@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757373950764,
+      "repository": "timkpaine/jupyterlab_iframe",
+      "issueTitle": "IFrame doesn't read GET parameters after first `&`",
+      "url": "https://github.com/timkpaine/jupyterlab_iframe/issues/89",
+      "createdAt": "2025-09-08T23:25:50.764Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
