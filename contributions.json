@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757329760446,
+      "repository": "Apollon77/ioBroker.daikin",
+      "issueTitle": "Please consider fixing issues detected by repository checker",
+      "url": "https://github.com/Apollon77/ioBroker.daikin/issues/227",
+      "createdAt": "2025-09-08T11:09:20.446Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
