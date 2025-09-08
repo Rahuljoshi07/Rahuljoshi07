@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757336336980,
+      "repository": "sveltejs/vite-plugin-svelte",
+      "issueTitle": "SyntaxError: The requested module 'node:util' does not provide an export named 'styleText'",
+      "url": "https://github.com/sveltejs/vite-plugin-svelte/issues/1211",
+      "createdAt": "2025-09-08T12:58:56.980Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
