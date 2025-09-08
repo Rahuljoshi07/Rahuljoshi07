@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757333921310,
+      "repository": "marketcalls/openalgo",
+      "issueTitle": "BUG: Login fails after broker auth, works after i restart the AWS EB server",
+      "url": "https://github.com/marketcalls/openalgo/issues/431",
+      "createdAt": "2025-09-08T12:18:41.310Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
