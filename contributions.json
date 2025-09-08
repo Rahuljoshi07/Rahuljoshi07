@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757306838366,
+      "repository": "ramakay/claude-self-reflect",
+      "issueTitle": "Conversations imported but not searchable via reflect_on_past",
+      "url": "https://github.com/ramakay/claude-self-reflect/issues/40",
+      "createdAt": "2025-09-08T04:47:18.366Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
