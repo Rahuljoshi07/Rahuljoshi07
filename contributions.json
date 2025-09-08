@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757336691530,
+      "repository": "gravity-ui/chartkit",
+      "issueTitle": "ChartKit Content Disappears on Subsequent Modal Openings (Only Title Remains)",
+      "url": "https://github.com/gravity-ui/chartkit/issues/566",
+      "createdAt": "2025-09-08T13:04:51.530Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
