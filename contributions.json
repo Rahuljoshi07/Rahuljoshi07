@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757328854477,
+      "repository": "opengeos/mapwidget",
+      "issueTitle": "Panel not working with mapwidget.cesium: Class null not found in module @jupyter-widgets/base@2.0.0 #88",
+      "url": "https://github.com/opengeos/mapwidget/issues/12",
+      "createdAt": "2025-09-08T10:54:14.477Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
