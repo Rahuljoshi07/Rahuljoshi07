@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757349803968,
+      "repository": "eamigo86/graphene-django-extras",
+      "issueTitle": "View cache busting logic fails if more than one GQL operation is provided in payload",
+      "url": "https://github.com/eamigo86/graphene-django-extras/issues/209",
+      "createdAt": "2025-09-08T16:43:23.968Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
