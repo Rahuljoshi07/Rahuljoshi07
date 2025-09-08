@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757367450348,
+      "id": 1757367481986,
       "repository": "opendatacube/datacube-explorer",
       "issueTitle": "Extremely Slow STAC Collections Endpoint `/stac/collections`",
       "url": "https://github.com/opendatacube/datacube-explorer/issues/802",
-      "createdAt": "2025-09-08T21:37:30.348Z",
+      "createdAt": "2025-09-08T21:38:01.986Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
