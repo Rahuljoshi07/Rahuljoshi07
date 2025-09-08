@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757373048487,
+      "repository": "hydroshare/hydroshare",
+      "issueTitle": "Cut and paste of resource files in the same place in a resource raises an error and deletes the file",
+      "url": "https://github.com/hydroshare/hydroshare/issues/5999",
+      "createdAt": "2025-09-08T23:10:48.487Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
