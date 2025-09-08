@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757290798377,
+      "repository": "openedx/paragon",
+      "issueTitle": "Gap issue in the ActionRow component",
+      "url": "https://github.com/openedx/paragon/issues/3775",
+      "createdAt": "2025-09-08T00:19:58.377Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
