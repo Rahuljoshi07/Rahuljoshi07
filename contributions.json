@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757361502932,
+      "id": 1757361554309,
       "repository": "Esri/solutions-components",
-      "issueTitle": "Field visibility button is not working at runtime in Manager",
-      "url": "https://github.com/Esri/solutions-components/issues/1618",
-      "createdAt": "2025-09-08T19:58:22.932Z",
+      "issueTitle": "BUG-000176576 Show Attachment and related table fields in Manager field picker so users can sort or change visibility",
+      "url": "https://github.com/Esri/solutions-components/issues/1617",
+      "createdAt": "2025-09-08T19:59:14.309Z",
       "type": "comment",
-      "content": "Adding TypeScript could improve code quality and maintainability. (Suggested by Rahul Joshi)..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
