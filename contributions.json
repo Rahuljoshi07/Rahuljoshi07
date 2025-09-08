@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757328238877,
+      "id": 1757328276012,
       "repository": "SpaceCowMedia/commander-spellbook-backend",
       "issueTitle": "Card States from Features Translating to Individually Listed Cards",
       "url": "https://github.com/SpaceCowMedia/commander-spellbook-backend/issues/908",
-      "createdAt": "2025-09-08T10:43:58.877Z",
+      "createdAt": "2025-09-08T10:44:36.012Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
     }
   ],
   "stats": {
