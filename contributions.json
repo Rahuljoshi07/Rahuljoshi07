@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757312173085,
+      "repository": "videosdk-live/videosdk-rtc-react-sdk-example",
+      "issueTitle": "ReferenceError: self is not defined in @videosdk.live/react-sdk",
+      "url": "https://github.com/videosdk-live/videosdk-rtc-react-sdk-example/issues/44",
+      "createdAt": "2025-09-08T06:16:13.085Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
