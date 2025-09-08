@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757330975324,
+      "repository": "RLinf/RLinf",
+      "issueTitle": "[Bug]: ValueError: Failed to look up actor with name 'env_buffer_list:0'.",
+      "url": "https://github.com/RLinf/RLinf/issues/66",
+      "createdAt": "2025-09-08T11:29:35.324Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
