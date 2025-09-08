@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757300046476,
+      "id": 1757300096492,
       "repository": "VeriTeknik/pluggedin-app",
       "issueTitle": "selfhosted, new users cannot register",
       "url": "https://github.com/VeriTeknik/pluggedin-app/issues/61",
-      "createdAt": "2025-09-08T02:54:06.476Z",
+      "createdAt": "2025-09-08T02:54:56.493Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
