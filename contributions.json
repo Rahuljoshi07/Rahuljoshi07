@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757292089751,
+      "repository": "multifactor/MFKDF",
+      "issueTitle": "MFKDF2: Switch to argon2id",
+      "url": "https://github.com/multifactor/MFKDF/issues/8",
+      "createdAt": "2025-09-08T00:41:29.751Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
