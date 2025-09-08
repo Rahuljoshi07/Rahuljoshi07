@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757315632028,
-      "repository": "oweitman/ioBroker.squeezeboxrpc",
+      "id": 1757315678877,
+      "repository": "oweitman/ioBroker.rssfeed",
       "issueTitle": "Please consider fixing issues detected by repository checker",
-      "url": "https://github.com/oweitman/ioBroker.squeezeboxrpc/issues/177",
-      "createdAt": "2025-09-08T07:13:52.028Z",
+      "url": "https://github.com/oweitman/ioBroker.rssfeed/issues/181",
+      "createdAt": "2025-09-08T07:14:38.877Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
