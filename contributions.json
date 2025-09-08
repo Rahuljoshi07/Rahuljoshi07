@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757348635063,
+      "repository": "google/blockly-samples",
+      "issueTitle": "dev-tools (possibly other samples) is statically compiling its dependencies into what it publishes",
+      "url": "https://github.com/google/blockly-samples/issues/2590",
+      "createdAt": "2025-09-08T16:23:55.063Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
