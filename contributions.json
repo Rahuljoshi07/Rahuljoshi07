@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757364878702,
+      "repository": "ananay/apple-auth",
+      "issueTitle": "Promises should be rejected with Error instances",
+      "url": "https://github.com/ananay/apple-auth/issues/48",
+      "createdAt": "2025-09-08T20:54:38.702Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
