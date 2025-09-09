@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757443542063,
+      "repository": "Roshansuthar1105/Omex",
+      "issueTitle": "two Scroll-to-Top (Back-to-Top) buttons are rendered simultaneously",
+      "url": "https://github.com/Roshansuthar1105/Omex/issues/194",
+      "createdAt": "2025-09-09T18:45:42.063Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
