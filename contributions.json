@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757379319311,
+      "repository": "zereight/gitlab-mcp",
+      "issueTitle": "$ref is creating bugs in integration with \"mcpo\", bug stating with gitlab-mcp:1.0.68",
+      "url": "https://github.com/zereight/gitlab-mcp/issues/238",
+      "createdAt": "2025-09-09T00:55:19.311Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
