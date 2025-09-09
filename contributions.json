@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757459417796,
+      "repository": "cfpb/hmda-frontend",
+      "issueTitle": "[Metrics] Adjust Mouseflow filters, fix remaining CSP issues, and tweak masking classes",
+      "url": "https://github.com/cfpb/hmda-frontend/issues/2518",
+      "createdAt": "2025-09-09T23:10:17.796Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
