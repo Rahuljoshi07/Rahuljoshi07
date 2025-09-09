@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757394624953,
+      "repository": "cylc/cylc-ui",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/cylc/cylc-ui/issues/1014",
+      "createdAt": "2025-09-09T05:10:24.953Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
