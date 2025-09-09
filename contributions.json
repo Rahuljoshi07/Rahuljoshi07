@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757430414424,
+      "repository": "sveltejs/vite-plugin-svelte",
+      "issueTitle": "Snippet import breaks dev server on first run after npm install",
+      "url": "https://github.com/sveltejs/vite-plugin-svelte/issues/1066",
+      "createdAt": "2025-09-09T15:06:54.425Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
