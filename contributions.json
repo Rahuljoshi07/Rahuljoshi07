@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757429117607,
+      "repository": "roualdes/bridgestan",
+      "issueTitle": "Deadlock on Windows when unloading libraries in several threads",
+      "url": "https://github.com/roualdes/bridgestan/issues/111",
+      "createdAt": "2025-09-09T14:45:17.607Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
