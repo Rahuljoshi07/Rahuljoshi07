@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757419692999,
+      "repository": "ElectronForConstruct/greenworks-prebuilds",
+      "issueTitle": "Electron builds for windows missing ",
+      "url": "https://github.com/ElectronForConstruct/greenworks-prebuilds/issues/574",
+      "createdAt": "2025-09-09T12:08:12.999Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
