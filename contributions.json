@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757435969491,
+      "repository": "ros2/ros2_tracing",
+      "issueTitle": "lttngpy test_session.py assumes that no other tracing sessions exist",
+      "url": "https://github.com/ros2/ros2_tracing/issues/200",
+      "createdAt": "2025-09-09T16:39:29.491Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
