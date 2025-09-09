@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757421841953,
+      "repository": "intbot/ng2-pdfjs-viewer",
+      "issueTitle": "PDF viewer displays blank page",
+      "url": "https://github.com/intbot/ng2-pdfjs-viewer/issues/269",
+      "createdAt": "2025-09-09T12:44:01.953Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
