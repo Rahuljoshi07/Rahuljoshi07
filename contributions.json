@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757419447515,
+      "repository": "agentscope-ai/agentscope-runtime",
+      "issueTitle": "[Bug] Chatbot output nothing",
+      "url": "https://github.com/agentscope-ai/agentscope-runtime/issues/49",
+      "createdAt": "2025-09-09T12:04:07.515Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
