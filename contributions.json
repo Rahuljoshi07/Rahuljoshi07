@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757426277627,
+      "repository": "Shirochi-stack/Glossarion",
+      "issueTitle": "Since the 4.2.4 update, openrouter and Chutes, deepseek is stuck in a connection error",
+      "url": "https://github.com/Shirochi-stack/Glossarion/issues/15",
+      "createdAt": "2025-09-09T13:57:57.627Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
