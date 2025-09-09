@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757399550223,
+      "repository": "greenbone/gsa",
+      "issueTitle": "The start new scan button is not accessible by screen reader",
+      "url": "https://github.com/greenbone/gsa/issues/4788",
+      "createdAt": "2025-09-09T06:32:30.223Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
