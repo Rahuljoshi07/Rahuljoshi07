@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757420260453,
+      "repository": "linear-b/gitstream",
+      "issueTitle": "AI Code Review: User matching not working",
+      "url": "https://github.com/linear-b/gitstream/issues/747",
+      "createdAt": "2025-09-09T12:17:40.453Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
