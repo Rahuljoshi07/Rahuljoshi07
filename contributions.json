@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757425952333,
+      "id": 1757425984046,
       "repository": "GetStream/stream-video-js",
       "issueTitle": "Crash on audio_room calls",
       "url": "https://github.com/GetStream/stream-video-js/issues/1910",
-      "createdAt": "2025-09-09T13:52:32.333Z",
+      "createdAt": "2025-09-09T13:53:04.046Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
