@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757396430860,
+      "repository": "sillsdev/ptx2pdf",
+      "issueTitle": "SyntaxWarning: invalid escape sequence '\\s' on marginnotes.py",
+      "url": "https://github.com/sillsdev/ptx2pdf/issues/1092",
+      "createdAt": "2025-09-09T05:40:30.860Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
