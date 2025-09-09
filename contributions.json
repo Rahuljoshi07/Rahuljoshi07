@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757382836817,
+      "repository": "tonesto7/homebridge-hubitat-tonesto7",
+      "issueTitle": "(BUG) {ENTER TITLE HERE} Widow shade closing error",
+      "url": "https://github.com/tonesto7/homebridge-hubitat-tonesto7/issues/235",
+      "createdAt": "2025-09-09T01:53:56.817Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
