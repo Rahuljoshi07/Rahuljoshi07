@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757449852478,
+      "repository": "lieser/dkim_verifier",
+      "issueTitle": "Please add \"mark DKIM key as unsafe\" option",
+      "url": "https://github.com/lieser/dkim_verifier/issues/246",
+      "createdAt": "2025-09-09T20:30:52.478Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
