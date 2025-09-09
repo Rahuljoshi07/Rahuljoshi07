@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757380729215,
+      "id": 1757380764858,
       "repository": "DataDog/dd-trace-js",
       "issueTitle": "[BUG]: Memory leak when http integration is enabled in Nestjs",
       "url": "https://github.com/DataDog/dd-trace-js/issues/6389",
-      "createdAt": "2025-09-09T01:18:49.215Z",
+      "createdAt": "2025-09-09T01:19:24.858Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
