@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757390700072,
+      "repository": "weka511/bioinformatics",
+      "issueTitle": "Test ba5m in align.py broken",
+      "url": "https://github.com/weka511/bioinformatics/issues/146",
+      "createdAt": "2025-09-09T04:05:00.072Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
