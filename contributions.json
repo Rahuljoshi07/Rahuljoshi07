@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757414626903,
+      "repository": "ami-iit/jaxsim",
+      "issueTitle": "Add warning when instantiated non supported collision",
+      "url": "https://github.com/ami-iit/jaxsim/issues/459",
+      "createdAt": "2025-09-09T10:43:46.903Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
