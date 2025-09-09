@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757397973251,
+      "repository": "CDFER/JLCPCB-Kicad-Library",
+      "issueTitle": "Part Rotation Issues for Footprints from EasyEDA",
+      "url": "https://github.com/CDFER/JLCPCB-Kicad-Library/issues/30",
+      "createdAt": "2025-09-09T06:06:13.251Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
