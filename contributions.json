@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1757417060529,
-      "repository": "BibekBhusal0/zen-custom-js",
-      "issueTitle": "Command Bar Issues",
-      "url": "https://github.com/BibekBhusal0/zen-custom-js/issues/19",
-      "createdAt": "2025-09-09T11:24:20.529Z",
+      "id": 1757417110434,
+      "repository": "mikakaraila/node-red-contrib-opcua",
+      "issueTitle": "TypeError: Cannot read properties of undefined (reading 'indexOf') in build_new_dataValue when writing to OPC UA node",
+      "url": "https://github.com/mikakaraila/node-red-contrib-opcua/issues/806",
+      "createdAt": "2025-09-09T11:25:10.434Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
