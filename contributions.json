@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757416526127,
+      "repository": "stfc/aiida-mlip",
+      "issueTitle": "Submit using config out of date",
+      "url": "https://github.com/stfc/aiida-mlip/issues/224",
+      "createdAt": "2025-09-09T11:15:26.127Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
