@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757382721632,
+      "repository": "tonesto7/homebridge-hubitat-tonesto7",
+      "issueTitle": "(BUG) Removing unused service from Homebridge - 3.0.0 Install",
+      "url": "https://github.com/tonesto7/homebridge-hubitat-tonesto7/issues/237",
+      "createdAt": "2025-09-09T01:52:01.632Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
