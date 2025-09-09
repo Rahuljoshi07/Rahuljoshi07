@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757377728550,
+      "id": 1757377772789,
       "repository": "cpp-linter/cpp-linter",
       "issueTitle": "coverage collection invalid due to `os.chdir()` with `mutithreading`",
       "url": "https://github.com/cpp-linter/cpp-linter/issues/145",
-      "createdAt": "2025-09-09T00:28:48.550Z",
+      "createdAt": "2025-09-09T00:29:32.789Z",
       "type": "comment",
-      "content": "Consider checking for None values to prevent AttributeError exceptions. (Suggested by Rahul Joshi)..."
+      "content": "This could be a mutable default argument issue. Consider using None as default. (Suggested by Rahul ..."
     }
   ],
   "stats": {
