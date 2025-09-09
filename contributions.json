@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757380693027,
-      "repository": "2M4U/2m4u",
-      "issueTitle": ".env.template is missing",
-      "url": "https://github.com/2M4U/2m4u/issues/9",
-      "createdAt": "2025-09-09T01:18:13.027Z",
+      "id": 1757380729215,
+      "repository": "DataDog/dd-trace-js",
+      "issueTitle": "[BUG]: Memory leak when http integration is enabled in Nestjs",
+      "url": "https://github.com/DataDog/dd-trace-js/issues/6389",
+      "createdAt": "2025-09-09T01:18:49.215Z",
       "type": "comment",
-      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
