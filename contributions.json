@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757421418476,
+      "repository": "databrickslabs/blueprint",
+      "issueTitle": "Test failure: `test_stat[DBFSPath]`",
+      "url": "https://github.com/databrickslabs/blueprint/issues/264",
+      "createdAt": "2025-09-09T12:36:58.476Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
