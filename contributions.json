@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757385614943,
+      "repository": "adobe/aem-core-forms-components",
+      "issueTitle": "Form allows duplicate submits",
+      "url": "https://github.com/adobe/aem-core-forms-components/issues/1215",
+      "createdAt": "2025-09-09T02:40:14.943Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
