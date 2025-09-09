@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757403353408,
+      "repository": "equinor/res2df",
+      "issueTitle": "Bug: Compatibility issue with latest eclipse version (2023.3)",
+      "url": "https://github.com/equinor/res2df/issues/488",
+      "createdAt": "2025-09-09T07:35:53.409Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
