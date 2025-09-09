@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1757417110434,
-      "repository": "mikakaraila/node-red-contrib-opcua",
-      "issueTitle": "TypeError: Cannot read properties of undefined (reading 'indexOf') in build_new_dataValue when writing to OPC UA node",
-      "url": "https://github.com/mikakaraila/node-red-contrib-opcua/issues/806",
-      "createdAt": "2025-09-09T11:25:10.434Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
