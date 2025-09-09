@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757420463859,
+      "repository": "multiversx/mx-sdk-py",
+      "issueTitle": "Migration Issue: v0 to v1",
+      "url": "https://github.com/multiversx/mx-sdk-py/issues/179",
+      "createdAt": "2025-09-09T12:21:03.859Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
