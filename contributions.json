@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757386497145,
+      "id": 1757386539368,
       "repository": "intbot/ng2-pdfjs-viewer",
-      "issueTitle": "Console Message after displaying pdf using ng2-pdfjs-viewer Angular 18",
-      "url": "https://github.com/intbot/ng2-pdfjs-viewer/issues/272",
-      "createdAt": "2025-09-09T02:54:57.145Z",
+      "issueTitle": "Bug Display File",
+      "url": "https://github.com/intbot/ng2-pdfjs-viewer/issues/256",
+      "createdAt": "2025-09-09T02:55:39.368Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
