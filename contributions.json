@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757423765295,
+      "repository": "RegioHelden/django-kafka",
+      "issueTitle": "Revisit KafkaConsumeRunner and make it simpler or extend it for more control",
+      "url": "https://github.com/RegioHelden/django-kafka/issues/143",
+      "createdAt": "2025-09-09T13:16:05.295Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
