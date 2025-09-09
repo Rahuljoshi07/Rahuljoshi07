@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1757432508816,
+      "id": 1757432540484,
       "repository": "cenfun/monocart-reporter",
-      "issueTitle": "[Bug] can not resolve source-map on Next.js 15",
-      "url": "https://github.com/cenfun/monocart-reporter/issues/161",
-      "createdAt": "2025-09-09T15:41:48.817Z",
+      "issueTitle": "[Bug] Error in reporter TypeError: str.replace is not a function when using `name` property of component",
+      "url": "https://github.com/cenfun/monocart-reporter/issues/185",
+      "createdAt": "2025-09-09T15:42:20.484Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
