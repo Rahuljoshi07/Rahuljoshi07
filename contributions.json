@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757397775423,
+      "repository": "willnode/forward-domain",
+      "issueTitle": "browsing to https gives error",
+      "url": "https://github.com/willnode/forward-domain/issues/35",
+      "createdAt": "2025-09-09T06:02:55.423Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
