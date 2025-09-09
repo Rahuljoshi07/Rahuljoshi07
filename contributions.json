@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757403119129,
+      "repository": "hynek/svcs",
+      "issueTitle": "`container.get` raises TypeError when factory returns a MagicMock",
+      "url": "https://github.com/hynek/svcs/issues/137",
+      "createdAt": "2025-09-09T07:31:59.129Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
