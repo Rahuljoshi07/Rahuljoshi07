@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757453905412,
+      "repository": "sindresorhus/awesome-lint",
+      "issueTitle": "Rewrite some tests to support ESM",
+      "url": "https://github.com/sindresorhus/awesome-lint/issues/177",
+      "createdAt": "2025-09-09T21:38:25.412Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
