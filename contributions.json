@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757540695371,
+      "repository": "ccbogel/QualCoder",
+      "issueTitle": "Using AI feature (local model and online) leading to errors",
+      "url": "https://github.com/ccbogel/QualCoder/issues/1106",
+      "createdAt": "2025-09-10T21:44:55.371Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
