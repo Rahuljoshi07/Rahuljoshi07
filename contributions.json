@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757536355608,
+      "repository": "ContaAzul/creditcard.js",
+      "issueTitle": "Installation with npm fails (again)",
+      "url": "https://github.com/ContaAzul/creditcard.js/issues/170",
+      "createdAt": "2025-09-10T20:32:35.608Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
