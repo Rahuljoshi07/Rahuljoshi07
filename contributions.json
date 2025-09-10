@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757525859926,
+      "repository": "hydrologie/xhydro",
+      "issueTitle": "Outputs of `optimal_interpolation` are badly formatted",
+      "url": "https://github.com/hydrologie/xhydro/issues/277",
+      "createdAt": "2025-09-10T17:37:39.926Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
