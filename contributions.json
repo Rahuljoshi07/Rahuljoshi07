@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757483841798,
+      "repository": "cap-js/cds-typer",
+      "issueTitle": "[FEATURE] Generate index.d.ts files, instead of index.ts files",
+      "url": "https://github.com/cap-js/cds-typer/issues/546",
+      "createdAt": "2025-09-10T05:57:21.798Z",
+      "type": "comment",
+      "content": "Using a bundler like Webpack or Vite could improve performance. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
