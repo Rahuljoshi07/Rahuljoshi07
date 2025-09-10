@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757469552945,
+      "repository": "custom-components/places",
+      "issueTitle": "Locale functions not respecting System or Docker's locale",
+      "url": "https://github.com/custom-components/places/issues/219",
+      "createdAt": "2025-09-10T01:59:12.945Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
