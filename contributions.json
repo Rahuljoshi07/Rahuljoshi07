@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757532573571,
+      "repository": "alorence/django-modern-rpc",
+      "issueTitle": "RFC: rate limit support",
+      "url": "https://github.com/alorence/django-modern-rpc/issues/42",
+      "createdAt": "2025-09-10T19:29:33.571Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
