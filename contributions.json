@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757543182917,
+      "repository": "broadinstitute/seqr-loading-pipelines",
+      "issueTitle": "Run `sample_qc` on only loading families.",
+      "url": "https://github.com/broadinstitute/seqr-loading-pipelines/issues/1068",
+      "createdAt": "2025-09-10T22:26:22.917Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
