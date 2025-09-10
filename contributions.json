@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757509218880,
+      "repository": "romerogroup/pyprocar",
+      "issueTitle": "IndexError in pyprocar.scripts.dosplot when parsing QE DOS directory (atoms array empty)",
+      "url": "https://github.com/romerogroup/pyprocar/issues/209",
+      "createdAt": "2025-09-10T13:00:18.880Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
