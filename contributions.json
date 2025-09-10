@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757545393083,
+      "repository": "layer5io/layer5-academy",
+      "issueTitle": "[Docs] Chapter: Reporting Bugs during Test Development",
+      "url": "https://github.com/layer5io/layer5-academy/issues/150",
+      "createdAt": "2025-09-10T23:03:13.083Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
