@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757491988564,
+      "repository": "collective/volto-form-block",
+      "issueTitle": "Cannot format message \"form_send_message_helptext \"",
+      "url": "https://github.com/collective/volto-form-block/issues/131",
+      "createdAt": "2025-09-10T08:13:08.564Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
