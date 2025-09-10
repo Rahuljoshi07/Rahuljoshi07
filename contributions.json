@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757512982661,
+      "repository": "VechniMetel/CodeNameCIM2",
+      "issueTitle": "熔化炉无法使用固体燃料",
+      "url": "https://github.com/VechniMetel/CodeNameCIM2/issues/181",
+      "createdAt": "2025-09-10T14:03:02.661Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
