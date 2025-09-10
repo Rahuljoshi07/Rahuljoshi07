@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757510383940,
+      "repository": "G-dH/vertical-workspaces",
+      "issueTitle": "[BUG] Maximized windows on secondary monitors have their icons cut-off on the app grid",
+      "url": "https://github.com/G-dH/vertical-workspaces/issues/247",
+      "createdAt": "2025-09-10T13:19:43.940Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
