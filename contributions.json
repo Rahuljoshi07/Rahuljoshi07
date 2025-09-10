@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757503076285,
+      "repository": "doberkofler/web_plsql",
+      "issueTitle": "Filename error on sql",
+      "url": "https://github.com/doberkofler/web_plsql/issues/16",
+      "createdAt": "2025-09-10T11:17:56.285Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
