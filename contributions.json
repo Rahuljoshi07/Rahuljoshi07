@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757505906858,
+      "repository": "eclipse-theia/vscode-builtin-extensions",
+      "issueTitle": "`html-language-features`: extension lacks embedded support",
+      "url": "https://github.com/eclipse-theia/vscode-builtin-extensions/issues/89",
+      "createdAt": "2025-09-10T12:05:06.858Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
