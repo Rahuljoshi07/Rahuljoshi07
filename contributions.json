@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757515672736,
+      "repository": "pyvista/pytest-pyvista",
+      "issueTitle": "Raise regression errors in doc mode",
+      "url": "https://github.com/pyvista/pytest-pyvista/issues/219",
+      "createdAt": "2025-09-10T14:47:52.736Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
