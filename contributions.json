@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757493977193,
+      "repository": "jt196/vanilla-cookbook",
+      "issueTitle": "abbreviated measurements bug",
+      "url": "https://github.com/jt196/vanilla-cookbook/issues/280",
+      "createdAt": "2025-09-10T08:46:17.193Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
