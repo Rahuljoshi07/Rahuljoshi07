@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757478639661,
+      "repository": "gbdev/rgbds-live",
+      "issueTitle": "Some editors don't work, except code editor",
+      "url": "https://github.com/gbdev/rgbds-live/issues/30",
+      "createdAt": "2025-09-10T04:30:39.661Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
