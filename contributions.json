@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757464412504,
+      "repository": "felixleopoldo/benchpress",
+      "issueTitle": "Some issues with bnlearn when using Edge Constrains",
+      "url": "https://github.com/felixleopoldo/benchpress/issues/148",
+      "createdAt": "2025-09-10T00:33:32.504Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
