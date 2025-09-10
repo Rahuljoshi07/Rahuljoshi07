@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757526415550,
+      "repository": "attestate/kiwistand",
+      "issueTitle": "sync seems to repeat old error messages",
+      "url": "https://github.com/attestate/kiwistand/issues/165",
+      "createdAt": "2025-09-10T17:46:55.550Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
