@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757491803710,
+      "repository": "ArkanDash/Advanced-RVC-Inference",
+      "issueTitle": "TypeError: join() argument must be str, bytes, or os.PathLike object, not 'NoneType'",
+      "url": "https://github.com/ArkanDash/Advanced-RVC-Inference/issues/20",
+      "createdAt": "2025-09-10T08:10:03.711Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
