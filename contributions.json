@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757528830091,
+      "repository": "nrcan-cfs-fire/cffdrs-ng",
+      "issueTitle": "Hourly Grass Moisture - On in C, commented in R and Py",
+      "url": "https://github.com/nrcan-cfs-fire/cffdrs-ng/issues/16",
+      "createdAt": "2025-09-10T18:27:10.091Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
