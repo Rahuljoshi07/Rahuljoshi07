@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757537664688,
+      "repository": "snapshotmanager/boom-boot",
+      "issueTitle": "_lv_from_device_string(): prefer explicit LVM unescaping over regex - boom/command.py",
+      "url": "https://github.com/snapshotmanager/boom-boot/issues/363",
+      "createdAt": "2025-09-10T20:54:24.688Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
