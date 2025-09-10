@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757528267754,
+      "repository": "ASFHyP3/hyp3-isce2",
+      "issueTitle": "`Baseline: nan` reported in metadata text file",
+      "url": "https://github.com/ASFHyP3/hyp3-isce2/issues/248",
+      "createdAt": "2025-09-10T18:17:47.754Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
