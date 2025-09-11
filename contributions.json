@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757600198066,
+      "repository": "Lookyloo/lookyloo",
+      "issueTitle": "[Bug]: LookyLoo Headless/Head issues with xvfb",
+      "url": "https://github.com/Lookyloo/lookyloo/issues/1095",
+      "createdAt": "2025-09-11T14:16:38.066Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
