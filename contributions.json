@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757612581356,
+      "repository": "trossr32/sonarr-radarr-lidarr-autosearch-browser-extension",
+      "issueTitle": "Playwright test failed: imdb",
+      "url": "https://github.com/trossr32/sonarr-radarr-lidarr-autosearch-browser-extension/issues/276",
+      "createdAt": "2025-09-11T17:43:01.356Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
