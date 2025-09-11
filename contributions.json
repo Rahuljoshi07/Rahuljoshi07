@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1757597072639,
-      "repository": "PaystackOSS/openapi",
-      "issueTitle": "Semantic error at paths./dedicated_account/split.delete.requestBody DELETE operations cannot have a requestBody",
-      "url": "https://github.com/PaystackOSS/openapi/issues/47",
-      "createdAt": "2025-09-11T13:24:32.639Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
