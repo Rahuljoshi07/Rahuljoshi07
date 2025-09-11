@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757624367663,
+      "repository": "Mill3/mill3-wp-theme-boilerplate",
+      "issueTitle": "Twig_File_Filters->check_extension() method : issue when file is non existent (empty upload field in CMS)",
+      "url": "https://github.com/Mill3/mill3-wp-theme-boilerplate/issues/21",
+      "createdAt": "2025-09-11T20:59:27.663Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
