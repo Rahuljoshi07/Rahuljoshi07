@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757605910901,
+      "repository": "FogelAI/babel-plugin-transform-barrels",
+      "issueTitle": "I'm getting this error Cannot read properties of null (reading 'program')",
+      "url": "https://github.com/FogelAI/babel-plugin-transform-barrels/issues/2",
+      "createdAt": "2025-09-11T15:51:50.901Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
