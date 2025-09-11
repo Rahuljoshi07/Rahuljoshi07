@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757613765730,
+      "repository": "maproulette/maproulette3",
+      "issueTitle": "When choosing iD as the editor, maproulette uses Rapid instead of iD Editor",
+      "url": "https://github.com/maproulette/maproulette3/issues/2701",
+      "createdAt": "2025-09-11T18:02:45.730Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
