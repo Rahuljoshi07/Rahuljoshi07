@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757564868141,
+      "repository": "LibertyDSNP/spec",
+      "issueTitle": "Change example used in \"Reverting An Announcement\" to a supported Announcement Type",
+      "url": "https://github.com/LibertyDSNP/spec/issues/300",
+      "createdAt": "2025-09-11T04:27:48.142Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
