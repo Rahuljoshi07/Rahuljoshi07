@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757560393607,
+      "repository": "apecloud/ApeRAG",
+      "issueTitle": "[BUG] Can't add LLMs",
+      "url": "https://github.com/apecloud/ApeRAG/issues/1345",
+      "createdAt": "2025-09-11T03:13:13.607Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
