@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757548806631,
+      "repository": "meraki-analytics/cassiopeia",
+      "issueTitle": "TypeError in cass.get_version() due to datetime.date and Arrow type mismatch in Patch.from_date()",
+      "url": "https://github.com/meraki-analytics/cassiopeia/issues/462",
+      "createdAt": "2025-09-11T00:00:06.631Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
