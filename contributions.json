@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757586485943,
+      "repository": "openlibhums/janeway",
+      "issueTitle": "OLH theme display bug when many authors have long affiliations",
+      "url": "https://github.com/openlibhums/janeway/issues/4952",
+      "createdAt": "2025-09-11T10:28:05.943Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
