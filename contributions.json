@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757551563268,
+      "repository": "EduHaven/EduHaven",
+      "issueTitle": "[BUG] Fix the checkbox fromatting in the Notes page",
+      "url": "https://github.com/EduHaven/EduHaven/issues/712",
+      "createdAt": "2025-09-11T00:46:03.268Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
