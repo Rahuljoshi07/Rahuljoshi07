@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757565833986,
+      "id": 1757565871540,
       "repository": "jakezatecky/react-checkbox-tree",
       "issueTitle": "can't uncheck parent with disabled children",
       "url": "https://github.com/jakezatecky/react-checkbox-tree/issues/503",
-      "createdAt": "2025-09-11T04:43:53.986Z",
+      "createdAt": "2025-09-11T04:44:31.540Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
