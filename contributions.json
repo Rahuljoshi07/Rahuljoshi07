@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757593940934,
+      "id": 1757593978649,
       "repository": "nextcloud/talk-desktop",
       "issueTitle": "Suddenly getting Network Error after opening video file",
       "url": "https://github.com/nextcloud/talk-desktop/issues/1461",
-      "createdAt": "2025-09-11T12:32:20.934Z",
+      "createdAt": "2025-09-11T12:32:58.649Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
