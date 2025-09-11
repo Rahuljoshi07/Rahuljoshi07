@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757574560054,
+      "repository": "r5py/r5py",
+      "issueTitle": "Repeatedly creating a TransportNetwork with faulty GTFS file does not raise warnings",
+      "url": "https://github.com/r5py/r5py/issues/494",
+      "createdAt": "2025-09-11T07:09:20.054Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
