@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757592303409,
+      "repository": "sindresorhus/is-reachable",
+      "issueTitle": "DNS issue",
+      "url": "https://github.com/sindresorhus/is-reachable/issues/61",
+      "createdAt": "2025-09-11T12:05:03.409Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
