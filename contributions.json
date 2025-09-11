@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757574461828,
+      "repository": "GetStream/stream-chat-react",
+      "issueTitle": "bug: option+n cannot be used to enter characters with tilde",
+      "url": "https://github.com/GetStream/stream-chat-react/issues/2817",
+      "createdAt": "2025-09-11T07:07:41.828Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
