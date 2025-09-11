@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757561798926,
+      "id": 1757561837732,
       "repository": "zapier/zapier-platform",
       "issueTitle": "[Bug]: zapier-platform-legacy-scripting-runner has many security vulnerabilities (3 moderate, 3 critical)",
       "url": "https://github.com/zapier/zapier-platform/issues/1060",
-      "createdAt": "2025-09-11T03:36:38.926Z",
+      "createdAt": "2025-09-11T03:37:17.733Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
