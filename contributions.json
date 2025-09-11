@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757599574657,
+      "repository": "nodejs/security-wg",
+      "issueTitle": "Discuss WDAC (code integrity on Windows)",
+      "url": "https://github.com/nodejs/security-wg/issues/1364",
+      "createdAt": "2025-09-11T14:06:14.657Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
