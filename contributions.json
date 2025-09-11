@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757567147586,
+      "repository": "Roshansuthar1105/Codify",
+      "issueTitle": "Style: Redesign /question and /question/:questionid pages to match the ui theme",
+      "url": "https://github.com/Roshansuthar1105/Codify/issues/351",
+      "createdAt": "2025-09-11T05:05:47.586Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
