@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757554172318,
+      "repository": "nextcloud/photos",
+      "issueTitle": "Album names with existing \"?\"?  are not possible to access or rename anymore.",
+      "url": "https://github.com/nextcloud/photos/issues/3172",
+      "createdAt": "2025-09-11T01:29:32.318Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
