@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757561712188,
+      "repository": "AcademySoftwareFoundation/OpenCue",
+      "issueTitle": "[pypi] CI Pipeline fails when uploading Python packages to TestPyPI with duplicate versions",
+      "url": "https://github.com/AcademySoftwareFoundation/OpenCue/issues/1886",
+      "createdAt": "2025-09-11T03:35:12.188Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
