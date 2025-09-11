@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757557735610,
+      "repository": "webtv-redialed/redialed-service",
+      "issueTitle": "Registration doesn't work on the first attempt",
+      "url": "https://github.com/webtv-redialed/redialed-service/issues/35",
+      "createdAt": "2025-09-11T02:28:55.610Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
