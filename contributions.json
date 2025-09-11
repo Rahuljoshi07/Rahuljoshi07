@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757588366117,
+      "repository": "rage/programming-25",
+      "issueTitle": "Part 7 Questionnaire: Translation error",
+      "url": "https://github.com/rage/programming-25/issues/73",
+      "createdAt": "2025-09-11T10:59:26.117Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
