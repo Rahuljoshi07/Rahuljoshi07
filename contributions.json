@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757608635374,
+      "repository": "hivesolutions/appier",
+      "issueTitle": "Async calls seem slow 🐢 ",
+      "url": "https://github.com/hivesolutions/appier/issues/59",
+      "createdAt": "2025-09-11T16:37:15.374Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
