@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757559084374,
+      "repository": "KroMiose/nekro-agent",
+      "issueTitle": "[Bug]: 添加Bot好友时出错",
+      "url": "https://github.com/KroMiose/nekro-agent/issues/123",
+      "createdAt": "2025-09-11T02:51:24.374Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
