@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757607777962,
+      "id": 1757607835401,
       "repository": "GetStream/stream-video-js",
       "issueTitle": "Notification and ringtone",
       "url": "https://github.com/GetStream/stream-video-js/issues/1912",
-      "createdAt": "2025-09-11T16:22:57.962Z",
+      "createdAt": "2025-09-11T16:23:55.401Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
