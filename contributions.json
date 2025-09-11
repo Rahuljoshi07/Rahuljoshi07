@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757558770220,
+      "repository": "open-sciencelab/GraphGen",
+      "issueTitle": "AssertionError: Please provide api key to access openai api.",
+      "url": "https://github.com/open-sciencelab/GraphGen/issues/46",
+      "createdAt": "2025-09-11T02:46:10.220Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
