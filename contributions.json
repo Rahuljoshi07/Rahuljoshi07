@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757634173452,
+      "repository": "luigi311/JellyPlex-Watched",
+      "issueTitle": "[BUG] Plex watch history is only transferred to Home users, all other users are identified, but ignored.",
+      "url": "https://github.com/luigi311/JellyPlex-Watched/issues/310",
+      "createdAt": "2025-09-11T23:42:53.453Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
