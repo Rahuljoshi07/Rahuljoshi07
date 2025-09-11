@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757552787838,
+      "repository": "brendan-duncan/webgpu_inspector",
+      "issueTitle": "Debug button does not do anything",
+      "url": "https://github.com/brendan-duncan/webgpu_inspector/issues/33",
+      "createdAt": "2025-09-11T01:06:27.838Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
