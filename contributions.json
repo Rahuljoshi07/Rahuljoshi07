@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757689317408,
+      "repository": "ARTFL-Project/text-pair",
+      "issueTitle": "Philologic PlainTextParser.py causing error with longer words",
+      "url": "https://github.com/ARTFL-Project/text-pair/issues/86",
+      "createdAt": "2025-09-12T15:01:57.408Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
