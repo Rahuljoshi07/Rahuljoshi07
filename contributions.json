@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757671054092,
+      "repository": "kesha-antonov/react-native-background-downloader",
+      "issueTitle": "Another new arch build issue",
+      "url": "https://github.com/kesha-antonov/react-native-background-downloader/issues/89",
+      "createdAt": "2025-09-12T09:57:34.092Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
