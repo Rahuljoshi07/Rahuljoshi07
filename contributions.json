@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757710468268,
+      "repository": "foxthefox/ioBroker.ecoflow-mqtt",
+      "issueTitle": "Please consider fixing issues detected by repository checker",
+      "url": "https://github.com/foxthefox/ioBroker.ecoflow-mqtt/issues/300",
+      "createdAt": "2025-09-12T20:54:28.268Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
