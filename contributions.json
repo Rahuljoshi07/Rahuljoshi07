@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757675061368,
+      "repository": "anchore/vunnel",
+      "issueTitle": "Possible False Negatives on Amazon-Linux-Based Systems",
+      "url": "https://github.com/anchore/vunnel/issues/776",
+      "createdAt": "2025-09-12T11:04:21.368Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
