@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757642733956,
+      "repository": "opensearch-project/opensearch-benchmark-workloads",
+      "issueTitle": "[BUG] Big5 range queries returns 0 hits",
+      "url": "https://github.com/opensearch-project/opensearch-benchmark-workloads/issues/692",
+      "createdAt": "2025-09-12T02:05:33.957Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
