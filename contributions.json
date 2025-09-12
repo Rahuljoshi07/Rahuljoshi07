@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757682703513,
+      "repository": "rollbar/rollbar.js",
+      "issueTitle": "Change `https.request` with `fetch` for Cloudflare pages with SSR",
+      "url": "https://github.com/rollbar/rollbar.js/issues/1296",
+      "createdAt": "2025-09-12T13:11:43.513Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
