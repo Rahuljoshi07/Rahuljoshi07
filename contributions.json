@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757684475648,
+      "repository": "GEMILUXVII/astrbot_plugin_cloudrank",
+      "issueTitle": "[BUG] 同一群聊发送两遍词云",
+      "url": "https://github.com/GEMILUXVII/astrbot_plugin_cloudrank/issues/11",
+      "createdAt": "2025-09-12T13:41:15.648Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
