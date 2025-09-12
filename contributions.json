@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757664866142,
+      "repository": "inclusionAI/AWorld",
+      "issueTitle": "No module named 'browser_use.llm'-gaia-browser工具问题",
+      "url": "https://github.com/inclusionAI/AWorld/issues/445",
+      "createdAt": "2025-09-12T08:14:26.142Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
