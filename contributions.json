@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757689010210,
+      "repository": "BrianPugh/tamp",
+      "issueTitle": "IDF Component not compatible with ESP IDF v4",
+      "url": "https://github.com/BrianPugh/tamp/issues/239",
+      "createdAt": "2025-09-12T14:56:50.211Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
