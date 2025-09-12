@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757680211508,
+      "repository": "tomer-w/ha-victron-mqtt",
+      "issueTitle": "[Bug]: integration stops updating after gx device reboots",
+      "url": "https://github.com/tomer-w/ha-victron-mqtt/issues/134",
+      "createdAt": "2025-09-12T12:30:11.508Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
