@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757646115068,
+      "repository": "intbot/ng2-pdfjs-viewer",
+      "issueTitle": "Bug Display File",
+      "url": "https://github.com/intbot/ng2-pdfjs-viewer/issues/256",
+      "createdAt": "2025-09-12T03:01:55.068Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
