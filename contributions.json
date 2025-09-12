@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757674836148,
+      "repository": "hieulw/cicflowmeter",
+      "issueTitle": "Issue in convert pcap to csv",
+      "url": "https://github.com/hieulw/cicflowmeter/issues/15",
+      "createdAt": "2025-09-12T11:00:36.148Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
