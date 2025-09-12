@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757668869728,
+      "repository": "EngageMedia-video/cinematacms",
+      "issueTitle": "[BUG] VHS warning message on CinemataCMS",
+      "url": "https://github.com/EngageMedia-video/cinematacms/issues/194",
+      "createdAt": "2025-09-12T09:21:09.728Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
