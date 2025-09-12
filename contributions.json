@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757643478839,
+      "repository": "Knewest/uncompressed-discord-images",
+      "issueTitle": "[BUG] - Cannot read properties of undefined (reading 'includes')",
+      "url": "https://github.com/Knewest/uncompressed-discord-images/issues/23",
+      "createdAt": "2025-09-12T02:17:58.839Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
