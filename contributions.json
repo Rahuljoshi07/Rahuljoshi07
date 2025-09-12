@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757681645422,
+      "repository": "lovell/detect-libc",
+      "issueTitle": "Fail more gracefully on partially Node.js compatible runtime environments",
+      "url": "https://github.com/lovell/detect-libc/issues/25",
+      "createdAt": "2025-09-12T12:54:05.422Z",
+      "type": "comment",
+      "content": "Adding TypeScript could prevent type-related bugs and improve maintainability. This suggestion is pa..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
