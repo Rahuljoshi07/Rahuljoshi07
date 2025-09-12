@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757675305829,
+      "repository": "spr-networks/super",
+      "issueTitle": "2.4ghz 40mhz channels seem to create excess sae mismatch errors",
+      "url": "https://github.com/spr-networks/super/issues/434",
+      "createdAt": "2025-09-12T11:08:25.829Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
