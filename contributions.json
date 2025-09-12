@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757645553574,
+      "id": 1757645591021,
       "repository": "intbot/ng2-pdfjs-viewer",
-      "issueTitle": "Console Message after displaying pdf using ng2-pdfjs-viewer Angular 18",
-      "url": "https://github.com/intbot/ng2-pdfjs-viewer/issues/272",
-      "createdAt": "2025-09-12T02:52:33.574Z",
+      "issueTitle": "Bug Display File",
+      "url": "https://github.com/intbot/ng2-pdfjs-viewer/issues/256",
+      "createdAt": "2025-09-12T02:53:11.021Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
