@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757697593925,
+      "repository": "Karandash8/make-argocd-fly",
+      "issueTitle": "Detect config variables circular referencing",
+      "url": "https://github.com/Karandash8/make-argocd-fly/issues/174",
+      "createdAt": "2025-09-12T17:19:53.925Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
