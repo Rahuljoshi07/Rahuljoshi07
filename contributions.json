@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757704141372,
+      "repository": "CBICA/NiChart_Project",
+      "issueTitle": "[BUG] PredCRD not found",
+      "url": "https://github.com/CBICA/NiChart_Project/issues/88",
+      "createdAt": "2025-09-12T19:09:01.372Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
