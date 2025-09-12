@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757688642836,
+      "repository": "Casvt/Plex-scripts",
+      "issueTitle": "rolling_tv_channel.py: KeyError 'Metadata'",
+      "url": "https://github.com/Casvt/Plex-scripts/issues/220",
+      "createdAt": "2025-09-12T14:50:42.836Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
