@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757731508029,
+      "id": 1757731545595,
       "repository": "nextcloud/talk-desktop",
-      "issueTitle": "macOS: System tray icon doesn't remember place",
-      "url": "https://github.com/nextcloud/talk-desktop/issues/1157",
-      "createdAt": "2025-09-13T02:45:08.029Z",
+      "issueTitle": "Suddenly getting Network Error after opening video file",
+      "url": "https://github.com/nextcloud/talk-desktop/issues/1461",
+      "createdAt": "2025-09-13T02:45:45.595Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
