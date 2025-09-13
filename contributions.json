@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757772200297,
+      "repository": "Team-intN18-SoybeanSeclab/Phantom",
+      "issueTitle": "深度扫描功能在进度20%左右会导致可能的崩溃",
+      "url": "https://github.com/Team-intN18-SoybeanSeclab/Phantom/issues/8",
+      "createdAt": "2025-09-13T14:03:20.297Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
