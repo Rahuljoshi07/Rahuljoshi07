@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757776339120,
+      "id": 1757776382808,
       "repository": "option-t/option-t",
-      "issueTitle": "Use `Error.isError` as the backend to check whether the value is `Error` instance or not",
-      "url": "https://github.com/option-t/option-t/issues/2367",
-      "createdAt": "2025-09-13T15:12:19.120Z",
+      "issueTitle": "Consider to add `transpose` operator for `Array<Nullable<T>>` to `Nullable<Array<T>>`",
+      "url": "https://github.com/option-t/option-t/issues/2370",
+      "createdAt": "2025-09-13T15:13:02.808Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Adding TypeScript could improve code quality and maintainability. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
