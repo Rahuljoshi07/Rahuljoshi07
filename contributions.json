@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757769477825,
+      "repository": "MettiFire/elden_mail_banner",
+      "issueTitle": "Uncaught SyntaxError: Cannot use import statement outside a module(at content.js:137:1)",
+      "url": "https://github.com/MettiFire/elden_mail_banner/issues/2",
+      "createdAt": "2025-09-13T13:17:57.825Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
