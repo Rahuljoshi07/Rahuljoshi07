@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757805577557,
+      "repository": "winstonjs/winston-mongodb",
+      "issueTitle": "[Bug]: Metadata breaking change from Array to Object",
+      "url": "https://github.com/winstonjs/winston-mongodb/issues/311",
+      "createdAt": "2025-09-13T23:19:37.557Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
