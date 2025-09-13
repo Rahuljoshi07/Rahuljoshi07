@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757791203894,
+      "repository": "jellyfin/jellyfin-kodi",
+      "issueTitle": "jellyfin_kodi hang kodi 21 quit (I believe when jellyfin_kodi failed a sync)",
+      "url": "https://github.com/jellyfin/jellyfin-kodi/issues/1040",
+      "createdAt": "2025-09-13T19:20:03.894Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
