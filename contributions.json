@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757795073984,
+      "id": 1757795104675,
       "repository": "VeriTeknik/pluggedin-app",
-      "issueTitle": "Headers Field Won't Save in MCP Server Configuration",
-      "url": "https://github.com/VeriTeknik/pluggedin-app/issues/71",
-      "createdAt": "2025-09-13T20:24:33.984Z",
+      "issueTitle": "selfhosted, new users cannot register",
+      "url": "https://github.com/VeriTeknik/pluggedin-app/issues/61",
+      "createdAt": "2025-09-13T20:25:04.675Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
