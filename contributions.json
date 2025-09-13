@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757792761701,
+      "repository": "gcovr/gcovr",
+      "issueTitle": "Variables in gcovr.cfg",
+      "url": "https://github.com/gcovr/gcovr/issues/1145",
+      "createdAt": "2025-09-13T19:46:01.701Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
