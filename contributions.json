@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757765138370,
+      "repository": "szhsin/eslint-plugin-react-hooks-addons",
+      "issueTitle": "Add a rule for detecting unnecessary stable dependencies",
+      "url": "https://github.com/szhsin/eslint-plugin-react-hooks-addons/issues/89",
+      "createdAt": "2025-09-13T12:05:38.370Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
