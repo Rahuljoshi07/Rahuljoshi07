@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1757765189509,
+      "id": 1757765226337,
       "repository": "dmonad/lib0",
-      "issueTitle": "Version 0.2.88 breaks testing Yjs with react-scripts test",
-      "url": "https://github.com/dmonad/lib0/issues/87",
-      "createdAt": "2025-09-13T12:06:29.509Z",
+      "issueTitle": "verifyJWT assumes non-standard expiration claim format (ms instead of seconds)",
+      "url": "https://github.com/dmonad/lib0/issues/88",
+      "createdAt": "2025-09-13T12:07:06.337Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
