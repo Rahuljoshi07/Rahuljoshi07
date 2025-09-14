@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757884523216,
+      "repository": "DogeNetwork/dogeub",
+      "issueTitle": "Issue with Render Deployment",
+      "url": "https://github.com/DogeNetwork/dogeub/issues/190",
+      "createdAt": "2025-09-14T21:15:23.216Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
