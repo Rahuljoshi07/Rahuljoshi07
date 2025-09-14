@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757866944572,
+      "repository": "HarvsG/ha-glinet4-integration",
+      "issueTitle": "Error on start up and config entry",
+      "url": "https://github.com/HarvsG/ha-glinet4-integration/issues/37",
+      "createdAt": "2025-09-14T16:22:24.572Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
