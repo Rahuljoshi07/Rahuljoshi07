@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757843806656,
+      "repository": "lumigo-io/lumigo-node",
+      "issueTitle": "Lumigo turns ThrottlingException into InvalidSignatureException",
+      "url": "https://github.com/lumigo-io/lumigo-node/issues/484",
+      "createdAt": "2025-09-14T09:56:46.656Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
