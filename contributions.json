@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757857606474,
+      "repository": "orangecoding/fredy",
+      "issueTitle": "[Bug]: Immoscout Web Translator Cuts Geolocation",
+      "url": "https://github.com/orangecoding/fredy/issues/162",
+      "createdAt": "2025-09-14T13:46:46.474Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
