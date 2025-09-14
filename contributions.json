@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757878017999,
+      "repository": "itcon-pty-au/stremio-ai-search",
+      "issueTitle": "[Bug Report] Language not working",
+      "url": "https://github.com/itcon-pty-au/stremio-ai-search/issues/108",
+      "createdAt": "2025-09-14T19:26:57.999Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
