@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757872210718,
+      "repository": "lovell/detect-libc",
+      "issueTitle": "Fail more gracefully on partially Node.js compatible runtime environments",
+      "url": "https://github.com/lovell/detect-libc/issues/25",
+      "createdAt": "2025-09-14T17:50:10.718Z",
+      "type": "comment",
+      "content": "Consider implementing proper error boundaries for better error handling. This suggestion is particul..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
