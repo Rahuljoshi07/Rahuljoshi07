@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757841368064,
+      "repository": "Premkolte/AnimateHub",
+      "issueTitle": "[📝CUSTOM] Hover issue for \"browse components\"",
+      "url": "https://github.com/Premkolte/AnimateHub/issues/751",
+      "createdAt": "2025-09-14T09:16:08.064Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
