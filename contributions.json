@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757887000179,
+      "repository": "joelacus/RedditEnhancer",
+      "issueTitle": "[BUG] when i open a new reddit page it reload the current active page ",
+      "url": "https://github.com/joelacus/RedditEnhancer/issues/102",
+      "createdAt": "2025-09-14T21:56:40.179Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
