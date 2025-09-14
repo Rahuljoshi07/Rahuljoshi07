@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757845628378,
+      "repository": "SuperLlama88888/holoprint",
+      "issueTitle": "Pack creation error: Error: Could not read contents of structure file \"CASA MEDIEVAL..mcstructure\"! NotFoundError: A requested file or directory could not be found at the time an operation was processed.",
+      "url": "https://github.com/SuperLlama88888/holoprint/issues/273",
+      "createdAt": "2025-09-14T10:27:08.378Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
