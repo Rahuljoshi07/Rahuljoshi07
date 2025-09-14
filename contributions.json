@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757878555794,
+      "repository": "mhdzumair/MediaFusion",
+      "issueTitle": "BUG: local-deployment.yaml - K8s - proxybroker-deployment replica set to 0",
+      "url": "https://github.com/mhdzumair/MediaFusion/issues/555",
+      "createdAt": "2025-09-14T19:35:55.794Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
