@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757850092188,
+      "repository": "twiggy-tools/Twiggy",
+      "issueTitle": "twiggy init --defaults fails: templates not included in wheel/sdist (FileNotFoundError)",
+      "url": "https://github.com/twiggy-tools/Twiggy/issues/2",
+      "createdAt": "2025-09-14T11:41:32.188Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
