@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757810189129,
+      "repository": "tecnomanu/pampa",
+      "issueTitle": "Python `.py` indexing issues (Solution)",
+      "url": "https://github.com/tecnomanu/pampa/issues/1",
+      "createdAt": "2025-09-14T00:36:29.129Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
