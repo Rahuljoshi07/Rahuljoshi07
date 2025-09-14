@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757886385411,
-      "repository": "2M4U/2m4u",
-      "issueTitle": "Possible fixes for update.js",
-      "url": "https://github.com/2M4U/2m4u/issues/6",
-      "createdAt": "2025-09-14T21:46:25.411Z",
+      "id": 1757886424469,
+      "repository": "jelhan/ember-style-modifier",
+      "issueTitle": "Types allow numbers to be passed but at runtime it doesn't work",
+      "url": "https://github.com/jelhan/ember-style-modifier/issues/248",
+      "createdAt": "2025-09-14T21:47:04.469Z",
       "type": "comment",
-      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
