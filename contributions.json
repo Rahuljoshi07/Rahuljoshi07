@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757839125748,
+      "repository": "babalae/bettergi-scripts-list",
+      "issueTitle": "[Bug] repo/js/AutoFishingTeyvat 在任意钓鱼点位会在选择鱼饵界面时出错，导致整个脚本直接结束",
+      "url": "https://github.com/babalae/bettergi-scripts-list/issues/1896",
+      "createdAt": "2025-09-14T08:38:45.748Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
