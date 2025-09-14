@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757809025440,
+      "repository": "gbouras13/pharokka",
+      "issueTitle": "Apparent bug in generated genbank",
+      "url": "https://github.com/gbouras13/pharokka/issues/388",
+      "createdAt": "2025-09-14T00:17:05.441Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
