@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757901038772,
+      "repository": "requests-cache/aiohttp-client-cache",
+      "issueTitle": "Use cattrs to optimize response serialization",
+      "url": "https://github.com/requests-cache/aiohttp-client-cache/issues/67",
+      "createdAt": "2025-09-15T01:50:38.772Z",
+      "type": "comment",
+      "content": "Consider caching with functools.lru_cache for expensive computations. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
