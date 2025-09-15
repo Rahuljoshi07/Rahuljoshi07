@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1757948009134,
+      "id": 1757948049085,
       "repository": "taskcluster/taskcluster",
-      "issueTitle": "add CPU resource monitoring to generic-worker",
-      "url": "https://github.com/taskcluster/taskcluster/issues/7951",
-      "createdAt": "2025-09-15T14:53:29.134Z",
+      "issueTitle": "Generic Worker fails to retry artifact upload on Network Errors",
+      "url": "https://github.com/taskcluster/taskcluster/issues/7952",
+      "createdAt": "2025-09-15T14:54:09.085Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
