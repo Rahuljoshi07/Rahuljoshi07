@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757957383542,
+      "repository": "dmonad/lib0",
+      "issueTitle": "verifyJWT assumes non-standard expiration claim format (ms instead of seconds)",
+      "url": "https://github.com/dmonad/lib0/issues/88",
+      "createdAt": "2025-09-15T17:29:43.542Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
