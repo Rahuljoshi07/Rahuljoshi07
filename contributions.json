@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757928907586,
+      "repository": "EduHaven/EduHaven",
+      "issueTitle": "Bug: fix the new note creation in notes card.",
+      "url": "https://github.com/EduHaven/EduHaven/issues/767",
+      "createdAt": "2025-09-15T09:35:07.586Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
