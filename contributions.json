@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757936374555,
+      "repository": "Catrong/phi-plugin",
+      "issueTitle": "[Bug] 插件加载报错 Error: TypeError: Cannot read properties of undefined (reading 'length')",
+      "url": "https://github.com/Catrong/phi-plugin/issues/238",
+      "createdAt": "2025-09-15T11:39:34.555Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
