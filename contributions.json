@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757909461389,
+      "repository": "ClanGenOfficial/clangen",
+      "issueTitle": "[UI] history text on profiles loses all spacing",
+      "url": "https://github.com/ClanGenOfficial/clangen/issues/4019",
+      "createdAt": "2025-09-15T04:11:01.389Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
