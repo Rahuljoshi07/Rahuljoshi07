@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757976454868,
+      "repository": "aws-deadline/deadline-cloud",
+      "issueTitle": "Bug: job attachments interface does not use storage profiles by default",
+      "url": "https://github.com/aws-deadline/deadline-cloud/issues/829",
+      "createdAt": "2025-09-15T22:47:34.868Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
