@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757937116480,
+      "repository": "kartoza/django-bims",
+      "issueTitle": "GBIF occurrence harvesting",
+      "url": "https://github.com/kartoza/django-bims/issues/4772",
+      "createdAt": "2025-09-15T11:51:56.480Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
