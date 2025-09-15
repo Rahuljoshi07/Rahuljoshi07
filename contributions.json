@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757908326705,
+      "repository": "jkjkil4/JAnim",
+      "issueTitle": "线段超出箭头尖端的部分仍被渲染，导致箭头尖端看起来不尖",
+      "url": "https://github.com/jkjkil4/JAnim/issues/27",
+      "createdAt": "2025-09-15T03:52:06.706Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
