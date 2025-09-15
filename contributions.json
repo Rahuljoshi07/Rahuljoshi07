@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757921348502,
+      "repository": "googleapis/python-storage",
+      "issueTitle": "Version 3.3.1 has broken blob.upload_from_file(file_obj) with error: Provided CRC32C xMvOLw== doesn't match calculated CRC32C ObqI+Q==",
+      "url": "https://github.com/googleapis/python-storage/issues/1541",
+      "createdAt": "2025-09-15T07:29:08.503Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
