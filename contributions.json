@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757936458829,
-      "repository": "ZenUml/web-sequence",
-      "issueTitle": "TypeError: Cannot set properties of undefined (setting 'cursor')",
-      "url": "https://github.com/ZenUml/web-sequence/issues/774",
-      "createdAt": "2025-09-15T11:40:58.829Z",
+      "id": 1757936519728,
+      "repository": "ansible-collections/community.mysql",
+      "issueTitle": "check mode shows change for user privileges, but not in an actual playbook run",
+      "url": "https://github.com/ansible-collections/community.mysql/issues/730",
+      "createdAt": "2025-09-15T11:41:59.728Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
