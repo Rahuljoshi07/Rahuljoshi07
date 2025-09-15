@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757948777089,
+      "repository": "SolaceLabs/solace-agent-mesh",
+      "issueTitle": "[Bug]: Dash in the agent-name in yaml.config breaks the agent",
+      "url": "https://github.com/SolaceLabs/solace-agent-mesh/issues/276",
+      "createdAt": "2025-09-15T15:06:17.090Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
