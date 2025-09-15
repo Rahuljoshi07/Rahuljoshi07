@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757915825740,
+      "repository": "VoltCyclone/PCILeechFWGenerator",
+      "issueTitle": "[BUG] Build fails with VFIO access error after successful diagnostics",
+      "url": "https://github.com/VoltCyclone/PCILeechFWGenerator/issues/378",
+      "createdAt": "2025-09-15T05:57:05.740Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
