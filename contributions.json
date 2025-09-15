@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757933706206,
+      "repository": "vertelab/odoo-ai",
+      "issueTitle": "Error when installing the ai_agent 16.0",
+      "url": "https://github.com/vertelab/odoo-ai/issues/5",
+      "createdAt": "2025-09-15T10:55:06.206Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
