@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757924993866,
+      "repository": "TheFes/HA-configuration",
+      "issueTitle": "Property weather issue",
+      "url": "https://github.com/TheFes/HA-configuration/issues/111",
+      "createdAt": "2025-09-15T08:29:53.866Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
