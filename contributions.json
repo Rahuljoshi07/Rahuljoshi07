@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757936012815,
+      "repository": "gamedig/node-gamedig",
+      "issueTitle": "ASA (Ark Survival Ascended): EpicGames api will return duplicate server object but one is wrong.",
+      "url": "https://github.com/gamedig/node-gamedig/issues/654",
+      "createdAt": "2025-09-15T11:33:32.815Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
