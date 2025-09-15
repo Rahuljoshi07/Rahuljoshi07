@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757933635545,
+      "repository": "yjeroen/foundry-shadowrun6-eden",
+      "issueTitle": "[Bug] Cant add gear mods if you dont have full ownership rights",
+      "url": "https://github.com/yjeroen/foundry-shadowrun6-eden/issues/176",
+      "createdAt": "2025-09-15T10:53:55.545Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
