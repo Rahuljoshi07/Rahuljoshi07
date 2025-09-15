@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757922822613,
+      "repository": "gyptazy/ProxLB",
+      "issueTitle": "`Feature`: Combining of vm_balancing methods cpu & memory as in VMware DRS",
+      "url": "https://github.com/gyptazy/ProxLB/issues/109",
+      "createdAt": "2025-09-15T07:53:42.613Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. (Suggested by Rahul Joshi..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
