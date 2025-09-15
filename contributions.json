@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757950956779,
+      "repository": "apache/couchdb-nano",
+      "issueTitle": "Single instance of changesReader expands to one per follow",
+      "url": "https://github.com/apache/couchdb-nano/issues/357",
+      "createdAt": "2025-09-15T15:42:36.780Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
