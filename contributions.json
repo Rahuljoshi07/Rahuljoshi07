@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757962108405,
+      "repository": "asyncapi/spec-json-schemas",
+      "issueTitle": "Missing '#' in examples/3.0.0/operation.json",
+      "url": "https://github.com/asyncapi/spec-json-schemas/issues/591",
+      "createdAt": "2025-09-15T18:48:28.405Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
