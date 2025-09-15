@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757979572384,
+      "repository": "adamlui/chatgpt-infinity",
+      "issueTitle": "the query in Hebrew is repeated",
+      "url": "https://github.com/adamlui/chatgpt-infinity/issues/111",
+      "createdAt": "2025-09-15T23:39:32.384Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
