@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757949387227,
+      "id": 1757949420655,
       "repository": "wri/gfw",
       "issueTitle": "MAP: NaN% Error",
       "url": "https://github.com/wri/gfw/issues/5042",
-      "createdAt": "2025-09-15T15:16:27.227Z",
+      "createdAt": "2025-09-15T15:17:00.656Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
