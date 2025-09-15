@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757900146220,
+      "repository": "khive-ai/lionagi",
+      "issueTitle": "v0.16.7: Add V1 Evolution Testing Infrastructure",
+      "url": "https://github.com/khive-ai/lionagi/issues/788",
+      "createdAt": "2025-09-15T01:35:46.220Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
