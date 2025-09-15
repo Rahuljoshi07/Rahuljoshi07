@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757946351433,
+      "repository": "Project-MONAI/VLM-Surgical-Agent-Framework",
+      "issueTitle": "`--enforce-eager` option slows down token generation",
+      "url": "https://github.com/Project-MONAI/VLM-Surgical-Agent-Framework/issues/5",
+      "createdAt": "2025-09-15T14:25:51.433Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
