@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757954566849,
+      "repository": "grafana-toolbox/grafana-client",
+      "issueTitle": "search_dashboards method works incorrectly if to use a list for the tag option",
+      "url": "https://github.com/grafana-toolbox/grafana-client/issues/240",
+      "createdAt": "2025-09-15T16:42:46.850Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
