@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757977370493,
+      "repository": "NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect",
+      "issueTitle": "bug: `no-event-handler` triggering when using useEffect for handling subscriptions",
+      "url": "https://github.com/NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect/issues/30",
+      "createdAt": "2025-09-15T23:02:50.493Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
