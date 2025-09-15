@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757953128613,
+      "repository": "NPC-Worldwide/npc-studio",
+      "issueTitle": "[bug] add text-to-sql back for db",
+      "url": "https://github.com/NPC-Worldwide/npc-studio/issues/28",
+      "createdAt": "2025-09-15T16:18:48.613Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. (Suggested by R..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
