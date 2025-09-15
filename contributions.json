@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757930251963,
+      "repository": "renmu123/biliLive-tools",
+      "issueTitle": "web端-录制历史-删除直播记录功能bug",
+      "url": "https://github.com/renmu123/biliLive-tools/issues/160",
+      "createdAt": "2025-09-15T09:57:31.963Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
