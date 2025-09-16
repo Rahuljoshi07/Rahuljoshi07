@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758007525977,
+      "repository": "decentraland/unity-explorer",
+      "issueTitle": "[QA] User Passport | Tooltip spacing inconsistent for 'Menu' icon",
+      "url": "https://github.com/decentraland/unity-explorer/issues/5424",
+      "createdAt": "2025-09-16T07:25:25.978Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
