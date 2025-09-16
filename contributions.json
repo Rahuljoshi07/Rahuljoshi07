@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1758022949729,
+      "id": 1758022989863,
       "repository": "nextcloud/text",
       "issueTitle": "Mermaid Block Diagram does not display",
       "url": "https://github.com/nextcloud/text/issues/7645",
-      "createdAt": "2025-09-16T11:42:29.729Z",
+      "createdAt": "2025-09-16T11:43:09.864Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
