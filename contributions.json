@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757985593515,
+      "repository": "Readme-Workflows/recent-activity",
+      "issueTitle": "Bug report: Invalid status code: 1 at ChildProcess (/recent-activity/v2.4.1/dist/index.js:20:171504)",
+      "url": "https://github.com/Readme-Workflows/recent-activity/issues/323",
+      "createdAt": "2025-09-16T01:19:53.515Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
