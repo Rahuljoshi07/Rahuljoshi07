@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758035304091,
+      "repository": "oimodeler/oimodeler",
+      "issueTitle": "[Bug] Simulator is unable to plot `FLUXDATA` with other observables (e.g., `VIS2DATA` + `T3PHI` at the same time)",
+      "url": "https://github.com/oimodeler/oimodeler/issues/77",
+      "createdAt": "2025-09-16T15:08:24.091Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
