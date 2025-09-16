@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1757987331830,
+      "id": 1757987372735,
       "repository": "nextcloud/text",
       "issueTitle": "Close button does not show when opening readonly .txt or .md files in iOS and Android Nextcloud app",
       "url": "https://github.com/nextcloud/text/issues/7580",
-      "createdAt": "2025-09-16T01:48:51.830Z",
+      "createdAt": "2025-09-16T01:49:32.735Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
