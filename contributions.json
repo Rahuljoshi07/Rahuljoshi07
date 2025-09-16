@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758018114545,
+      "repository": "canonical/opensearch-operator",
+      "issueTitle": "Backup credentials not correctly transferred to subcluster keystores in large deployments",
+      "url": "https://github.com/canonical/opensearch-operator/issues/693",
+      "createdAt": "2025-09-16T10:21:54.545Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
