@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758039168801,
+      "repository": "feincms/django-tree-queries",
+      "issueTitle": "`ProgrammingError` with `tree_fields`",
+      "url": "https://github.com/feincms/django-tree-queries/issues/84",
+      "createdAt": "2025-09-16T16:12:48.801Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
