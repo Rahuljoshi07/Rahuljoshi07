@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757984250709,
+      "repository": "FoolVPN-ID/Nautica",
+      "issueTitle": "Error 1101",
+      "url": "https://github.com/FoolVPN-ID/Nautica/issues/75",
+      "createdAt": "2025-09-16T00:57:30.709Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
