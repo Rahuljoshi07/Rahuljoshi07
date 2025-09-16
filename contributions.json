@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758047268944,
+      "repository": "lowsky/spotify-graphql-server",
+      "issueTitle": "tracks of albums are not loaded",
+      "url": "https://github.com/lowsky/spotify-graphql-server/issues/3",
+      "createdAt": "2025-09-16T18:27:48.944Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
