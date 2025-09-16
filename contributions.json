@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758040526327,
+      "repository": "DataDog/dd-trace-js",
+      "issueTitle": "[BUG]: oracledb instrumentation",
+      "url": "https://github.com/DataDog/dd-trace-js/issues/6441",
+      "createdAt": "2025-09-16T16:35:26.327Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
