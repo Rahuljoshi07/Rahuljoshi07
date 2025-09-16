@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758027887390,
+      "repository": "algorandfoundation/puya",
+      "issueTitle": "[intellisense bug] Unable to access underlying AVM native data types (using VS Code w/ Pylance v2025.4.1)",
+      "url": "https://github.com/algorandfoundation/puya/issues/460",
+      "createdAt": "2025-09-16T13:04:47.390Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
