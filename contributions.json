@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758006555373,
+      "repository": "KBVE/kbve",
+      "issueTitle": "[Bug] : [Unity] : Procedural Map Generation",
+      "url": "https://github.com/KBVE/kbve/issues/4623",
+      "createdAt": "2025-09-16T07:09:15.373Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
