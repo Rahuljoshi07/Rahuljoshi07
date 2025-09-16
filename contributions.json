@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758033290110,
+      "repository": "carbon-design-system/ibm-products",
+      "issueTitle": "Style picker: icon issue breaking example",
+      "url": "https://github.com/carbon-design-system/ibm-products/issues/8251",
+      "createdAt": "2025-09-16T14:34:50.110Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
