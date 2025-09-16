@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758020822930,
+      "repository": "varfish-org/varfish-server",
+      "issueTitle": "Changing detailed effect settings does not set the Impact preset to \"custom\" and retains changed settings until reload",
+      "url": "https://github.com/varfish-org/varfish-server/issues/2415",
+      "createdAt": "2025-09-16T11:07:02.930Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
