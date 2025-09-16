@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1758052425325,
-      "repository": "2M4U/2m4u",
-      "issueTitle": ".env.template is missing",
-      "url": "https://github.com/2M4U/2m4u/issues/9",
-      "createdAt": "2025-09-16T19:53:45.325Z",
+      "id": 1758052475800,
+      "repository": "jupyter/nbclassic",
+      "issueTitle": "Consider updating MathJax to >=3 to avoid CVE-2023-39663",
+      "url": "https://github.com/jupyter/nbclassic/issues/353",
+      "createdAt": "2025-09-16T19:54:35.800Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
