@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758008316163,
+      "repository": "Inist-CNRS/lodex",
+      "issueTitle": "l'affichage du format badge pour identifiants bug quand il est multivalué, au sein d'un format liste",
+      "url": "https://github.com/Inist-CNRS/lodex/issues/2868",
+      "createdAt": "2025-09-16T07:38:36.163Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
