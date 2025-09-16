@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758051747679,
+      "repository": "Esri/jsapi-resources",
+      "issueTitle": "Error running disconnected-environment example: Missing \"./dist/cdn/main.css\" in \"@arcgis/map-components\"",
+      "url": "https://github.com/Esri/jsapi-resources/issues/586",
+      "createdAt": "2025-09-16T19:42:27.679Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
