@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757999687844,
+      "repository": "DjangoCRM/django-crm",
+      "issueTitle": "Hide checkboxes in a Request if a Deal has already been created for it",
+      "url": "https://github.com/DjangoCRM/django-crm/issues/292",
+      "createdAt": "2025-09-16T05:14:47.844Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
