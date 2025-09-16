@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1757998299576,
+      "repository": "auth0/auth0-deploy-cli",
+      "issueTitle": "Error importing client with specific keyword replacements",
+      "url": "https://github.com/auth0/auth0-deploy-cli/issues/1153",
+      "createdAt": "2025-09-16T04:51:39.576Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
