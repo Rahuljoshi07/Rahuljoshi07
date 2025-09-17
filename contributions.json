@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758111951681,
+      "repository": "kaelzhang/node-comment-json",
+      "issueTitle": "tests fail on master",
+      "url": "https://github.com/kaelzhang/node-comment-json/issues/53",
+      "createdAt": "2025-09-17T12:25:51.682Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
