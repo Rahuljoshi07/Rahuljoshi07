@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758093258916,
+      "repository": "owncloud/docs-server",
+      "issueTitle": "Using the example giving for backing up MySQL/MariaDB could result in an error.",
+      "url": "https://github.com/owncloud/docs-server/issues/1286",
+      "createdAt": "2025-09-17T07:14:18.916Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
