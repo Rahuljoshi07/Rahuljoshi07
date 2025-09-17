@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758082072863,
+      "repository": "MarketSquare/robotframework-browser",
+      "issueTitle": "`text=` not working?",
+      "url": "https://github.com/MarketSquare/robotframework-browser/issues/4313",
+      "createdAt": "2025-09-17T04:07:52.863Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
