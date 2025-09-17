@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758113881425,
+      "repository": "TobyG74/tiktok-api-dl",
+      "issueTitle": "Tiktok downloader v3 is having issues getting videos",
+      "url": "https://github.com/TobyG74/tiktok-api-dl/issues/61",
+      "createdAt": "2025-09-17T12:58:01.425Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
