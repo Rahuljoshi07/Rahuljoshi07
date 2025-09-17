@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758099820332,
+      "repository": "yjeroen/foundry-shadowrun6-eden",
+      "issueTitle": "[Bug] Error importing from CommLink 6 with close combat weapon",
+      "url": "https://github.com/yjeroen/foundry-shadowrun6-eden/issues/183",
+      "createdAt": "2025-09-17T09:03:40.332Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
