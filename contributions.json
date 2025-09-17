@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758151585019,
+      "repository": "adamchainz/django-permissions-policy",
+      "issueTitle": "Pull features from spec repository",
+      "url": "https://github.com/adamchainz/django-permissions-policy/issues/494",
+      "createdAt": "2025-09-17T23:26:25.019Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
