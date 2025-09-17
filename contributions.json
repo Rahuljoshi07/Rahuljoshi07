@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758085630543,
+      "repository": "MaksimZayats/aiogram-django-template",
+      "issueTitle": "Migrate to uv?",
+      "url": "https://github.com/MaksimZayats/aiogram-django-template/issues/900",
+      "createdAt": "2025-09-17T05:07:10.543Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
