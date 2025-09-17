@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758091371964,
+      "repository": "reagento/dishka",
+      "issueTitle": "fail on accidential recursive usage due to lock deadlocking in same thread",
+      "url": "https://github.com/reagento/dishka/issues/317",
+      "createdAt": "2025-09-17T06:42:51.964Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
