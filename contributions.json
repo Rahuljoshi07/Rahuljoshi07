@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758122496228,
+      "repository": "heshengtao/super-agent-party",
+      "issueTitle": "1.\t播报机器人issue1 – 上传新文本, 朗读文章时进度条没有同步刷新",
+      "url": "https://github.com/heshengtao/super-agent-party/issues/211",
+      "createdAt": "2025-09-17T15:21:36.228Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
