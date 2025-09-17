@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758151736161,
+      "repository": "adamchainz/django-watchfiles",
+      "issueTitle": "[Bug] Current implementation removes files with errors from the watch list",
+      "url": "https://github.com/adamchainz/django-watchfiles/issues/148",
+      "createdAt": "2025-09-17T23:28:56.161Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
