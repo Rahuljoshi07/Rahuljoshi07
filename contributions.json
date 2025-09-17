@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1758124564441,
+      "id": 1758124600504,
       "repository": "GetStream/stream-video-js",
       "issueTitle": "Push notification ringing feature not working on app either on kill/background mode or on foreground mode",
       "url": "https://github.com/GetStream/stream-video-js/issues/1919",
-      "createdAt": "2025-09-17T15:56:04.441Z",
+      "createdAt": "2025-09-17T15:56:40.505Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
