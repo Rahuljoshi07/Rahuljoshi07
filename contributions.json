@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758091259885,
+      "repository": "nextcloud/text",
+      "issueTitle": "Mermaid Block Diagram does not display",
+      "url": "https://github.com/nextcloud/text/issues/7645",
+      "createdAt": "2025-09-17T06:40:59.885Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
