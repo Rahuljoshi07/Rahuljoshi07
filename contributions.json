@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758124889920,
+      "repository": "Harbour-Enterprises/SuperDoc",
+      "issueTitle": "bug: testing 123",
+      "url": "https://github.com/Harbour-Enterprises/SuperDoc/issues/970",
+      "createdAt": "2025-09-17T16:01:29.921Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
