@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758142405838,
+      "repository": "npm/pacote",
+      "issueTitle": "[BUG] FetcherBase._tarxOptions removes files with identical inodes",
+      "url": "https://github.com/npm/pacote/issues/285",
+      "createdAt": "2025-09-17T20:53:25.838Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
