@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758069131895,
+      "repository": "iSegaro/Translate-It",
+      "issueTitle": "403 Error - Problem to connect apis",
+      "url": "https://github.com/iSegaro/Translate-It/issues/64",
+      "createdAt": "2025-09-17T00:32:11.895Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
