@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758140882364,
+      "repository": "nodejs/create-node-meeting-artifacts",
+      "issueTitle": "remove commcomm",
+      "url": "https://github.com/nodejs/create-node-meeting-artifacts/issues/173",
+      "createdAt": "2025-09-17T20:28:02.364Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
