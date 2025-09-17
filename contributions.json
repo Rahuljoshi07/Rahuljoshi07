@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758139369474,
+      "repository": "NVIDIA-NeMo/Automodel",
+      "issueTitle": "Update AutoModel assertion message for CP >1",
+      "url": "https://github.com/NVIDIA-NeMo/Automodel/issues/302",
+      "createdAt": "2025-09-17T20:02:49.474Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
