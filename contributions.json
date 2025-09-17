@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758126791740,
+      "repository": "duplocloud/duploctl",
+      "issueTitle": "On MacOs, attempting to authorize local access with interactive mode throws a CORS error",
+      "url": "https://github.com/duplocloud/duploctl/issues/163",
+      "createdAt": "2025-09-17T16:33:11.740Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
