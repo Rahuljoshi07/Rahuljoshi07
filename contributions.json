@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1758069983383,
+      "id": 1758070013883,
       "repository": "nextcloud/files_retention",
-      "issueTitle": "Document that \"From date of\" with \"Creation\" means \"Upload\" when available",
-      "url": "https://github.com/nextcloud/files_retention/issues/759",
-      "createdAt": "2025-09-17T00:46:23.383Z",
+      "issueTitle": "Files deleted by files_retention are moved to invalid folder \"data/files_trashbin/versions\"",
+      "url": "https://github.com/nextcloud/files_retention/issues/822",
+      "createdAt": "2025-09-17T00:46:53.884Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
