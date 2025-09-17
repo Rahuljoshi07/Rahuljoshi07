@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758077461239,
+      "repository": "linuxmint/cinnamon-spices-applets",
+      "issueTitle": "Sensors@claudiux: No sensors loading, values not displaying.",
+      "url": "https://github.com/linuxmint/cinnamon-spices-applets/issues/7761",
+      "createdAt": "2025-09-17T02:51:01.239Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
