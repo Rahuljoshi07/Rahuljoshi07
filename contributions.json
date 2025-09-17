@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758130248450,
+      "repository": "npm/metavuln-calculator",
+      "issueTitle": "[BUG] bd.includes is not a function",
+      "url": "https://github.com/npm/metavuln-calculator/issues/98",
+      "createdAt": "2025-09-17T17:30:48.451Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
