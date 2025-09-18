@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758206463131,
+      "repository": "farre/midas",
+      "issueTitle": "Common Debugger Actions Result in Error Notifications; Debugger Does Not Close When The Debuggee Exits/Finishes",
+      "url": "https://github.com/farre/midas/issues/221",
+      "createdAt": "2025-09-18T14:41:03.131Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
