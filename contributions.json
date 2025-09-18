@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758193473044,
+      "repository": "stfc/PSyclone",
+      "issueTitle": "Parameter symbol accessed within derived type is not updated with initial value",
+      "url": "https://github.com/stfc/PSyclone/issues/3140",
+      "createdAt": "2025-09-18T11:04:33.044Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
