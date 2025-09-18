@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758226115194,
+      "repository": "openzim/zimfarm",
+      "issueTitle": "Add new permission allowing a user to register as a worker",
+      "url": "https://github.com/openzim/zimfarm/issues/1358",
+      "createdAt": "2025-09-18T20:08:35.195Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
