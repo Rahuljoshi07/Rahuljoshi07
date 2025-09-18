@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758224637500,
+      "repository": "linuxmint/cinnamon-spices-applets",
+      "issueTitle": "Monitor Toggle, Open apps disappear",
+      "url": "https://github.com/linuxmint/cinnamon-spices-applets/issues/7637",
+      "createdAt": "2025-09-18T19:43:57.500Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
