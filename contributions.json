@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1758202576178,
-      "repository": "MO-Movia/licit",
-      "issueTitle": " ctrl+z undo causes RangeError in collab service",
-      "url": "https://github.com/MO-Movia/licit/issues/153",
-      "createdAt": "2025-09-18T13:36:16.178Z",
+      "id": 1758202620366,
+      "repository": "espruino/EspruinoWebIDE",
+      "issueTitle": "Numeric separators result in error",
+      "url": "https://github.com/espruino/EspruinoWebIDE/issues/293",
+      "createdAt": "2025-09-18T13:37:00.366Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
