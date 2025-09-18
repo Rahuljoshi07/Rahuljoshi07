@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758176741166,
+      "repository": "Zingzy/hPyT",
+      "issueTitle": "DWM transitions don't work when title bar is hidden",
+      "url": "https://github.com/Zingzy/hPyT/issues/57",
+      "createdAt": "2025-09-18T06:25:41.166Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
