@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1758202542993,
-      "repository": "2M4U/2m4u",
-      "issueTitle": "Possible fixes for update.js",
-      "url": "https://github.com/2M4U/2m4u/issues/6",
-      "createdAt": "2025-09-18T13:35:42.993Z",
+      "id": 1758202576178,
+      "repository": "MO-Movia/licit",
+      "issueTitle": " ctrl+z undo causes RangeError in collab service",
+      "url": "https://github.com/MO-Movia/licit/issues/153",
+      "createdAt": "2025-09-18T13:36:16.178Z",
       "type": "comment",
-      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
