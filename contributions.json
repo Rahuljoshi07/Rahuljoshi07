@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758223449551,
+      "repository": "ISS-Mimic/Mimic",
+      "issueTitle": "Double check all graphics scaling issues",
+      "url": "https://github.com/ISS-Mimic/Mimic/issues/689",
+      "createdAt": "2025-09-18T19:24:09.551Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
