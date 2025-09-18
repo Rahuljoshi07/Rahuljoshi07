@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758154431119,
+      "repository": "CodeBoarding/CodeBoarding",
+      "issueTitle": "LSP Integration optimization",
+      "url": "https://github.com/CodeBoarding/CodeBoarding/issues/57",
+      "createdAt": "2025-09-18T00:13:51.119Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
