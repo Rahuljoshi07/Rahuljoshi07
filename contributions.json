@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758186938690,
+      "repository": "OpenSIPS/opensips-ai-voice-connector-ce",
+      "issueTitle": "ERROR - Error while communicating with OpenAI: received 3000 (registered) invalid_request_error.invalid_api_key; then sent 3000 (registered) invalid_request_error.invalid_api_key. Terminating call.",
+      "url": "https://github.com/OpenSIPS/opensips-ai-voice-connector-ce/issues/25",
+      "createdAt": "2025-09-18T09:15:38.690Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
