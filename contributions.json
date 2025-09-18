@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758225305849,
+      "repository": "Breinify/brein-api-library-javascript-browser",
+      "issueTitle": "This library creates a randomly named cookie that does not play nicely with CMPs",
+      "url": "https://github.com/Breinify/brein-api-library-javascript-browser/issues/15",
+      "createdAt": "2025-09-18T19:55:05.849Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
