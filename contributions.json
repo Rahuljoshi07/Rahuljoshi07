@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1758189195799,
+      "id": 1758189240083,
       "repository": "comic/grand-challenge.org",
-      "issueTitle": "Reader-study progress counter not correct with autosaving enabled",
-      "url": "https://github.com/comic/grand-challenge.org/issues/4289",
-      "createdAt": "2025-09-18T09:53:15.799Z",
+      "issueTitle": "API index not working anymore due to permission error",
+      "url": "https://github.com/comic/grand-challenge.org/issues/4278",
+      "createdAt": "2025-09-18T09:54:00.083Z",
       "type": "comment",
-      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
     }
   ],
   "stats": {
