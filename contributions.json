@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758228668821,
+      "repository": "usips/stream-nexus",
+      "issueTitle": "Filter out messages removed by moderators",
+      "url": "https://github.com/usips/stream-nexus/issues/13",
+      "createdAt": "2025-09-18T20:51:08.821Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
