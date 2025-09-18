@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758158727183,
+      "repository": "khive-ai/lionagi",
+      "issueTitle": "v0.16.4: Add Capability System with @requires_caps Decorator",
+      "url": "https://github.com/khive-ai/lionagi/issues/785",
+      "createdAt": "2025-09-18T01:25:27.183Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
