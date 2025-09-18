@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758239653038,
+      "repository": "mit-han-lab/radial-attention",
+      "issueTitle": "\"block_sparse_sage2_attn_cuda\" calculate LSE",
+      "url": "https://github.com/mit-han-lab/radial-attention/issues/56",
+      "createdAt": "2025-09-18T23:54:13.038Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
