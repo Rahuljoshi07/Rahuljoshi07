@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758225163743,
+      "repository": "lmstudio-ai/mlx-engine",
+      "issueTitle": "[ERROR] Error: Channel Error when submitting long input (>256KiB for llama 4) for models with large context (e.g. llama 4 with >1M) on Mac Studio M3 Ultra (512GiB RAM)",
+      "url": "https://github.com/lmstudio-ai/mlx-engine/issues/208",
+      "createdAt": "2025-09-18T19:52:43.743Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
