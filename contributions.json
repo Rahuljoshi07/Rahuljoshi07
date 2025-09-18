@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758188255085,
+      "repository": "brucemcpherson/gas-fakes",
+      "issueTitle": "detect errors in sheet cells like #n/a etc",
+      "url": "https://github.com/brucemcpherson/gas-fakes/issues/72",
+      "createdAt": "2025-09-18T09:37:35.085Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
