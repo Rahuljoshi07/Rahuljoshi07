@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758213526247,
+      "repository": "Hyundai-Kia-Connect/kia_uvo",
+      "issueTitle": "Kia EU error - NoneType is not serializable/subscriptable",
+      "url": "https://github.com/Hyundai-Kia-Connect/kia_uvo/issues/1277",
+      "createdAt": "2025-09-18T16:38:46.247Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
