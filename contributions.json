@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758179674725,
+      "repository": "browniebroke/django-codemod",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/browniebroke/django-codemod/issues/459",
+      "createdAt": "2025-09-18T07:14:34.725Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
