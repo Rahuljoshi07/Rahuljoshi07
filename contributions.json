@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758161092044,
+      "repository": "simple-repository/simple-repository",
+      "issueTitle": "Using simple-repository-server to access private Gitlab repository authentication error",
+      "url": "https://github.com/simple-repository/simple-repository/issues/35",
+      "createdAt": "2025-09-18T02:04:52.044Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
