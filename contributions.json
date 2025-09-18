@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758202719851,
+      "repository": "orangecoding/fredy",
+      "issueTitle": "[Bug]: Immonet scraper saves search link instead of property link",
+      "url": "https://github.com/orangecoding/fredy/issues/176",
+      "createdAt": "2025-09-18T13:38:39.851Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
