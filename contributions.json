@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758277919871,
+      "repository": "ioos/compliance-checker",
+      "issueTitle": "Potential issue when standard_name has no canonical units defined (eg. for soil_type, region, area_type)",
+      "url": "https://github.com/ioos/compliance-checker/issues/1219",
+      "createdAt": "2025-09-19T10:31:59.871Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
