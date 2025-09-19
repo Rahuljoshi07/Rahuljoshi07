@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758318746889,
+      "repository": "circuitpython/web-editor",
+      "issueTitle": "Editor doesn't recover from failed attempt to rename a folder using FSAPI",
+      "url": "https://github.com/circuitpython/web-editor/issues/385",
+      "createdAt": "2025-09-19T21:52:26.889Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
