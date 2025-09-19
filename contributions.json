@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758307364659,
+      "repository": "pulibrary/figgy",
+      "issueTitle": "Bulk migrate Numismatic Citations from spreadsheet to Numismatic Issues",
+      "url": "https://github.com/pulibrary/figgy/issues/6204",
+      "createdAt": "2025-09-19T18:42:44.660Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
