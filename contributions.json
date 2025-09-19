@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758298295982,
+      "repository": "tenstorrent/tt-forge",
+      "issueTitle": "Handle transitive tags on RC & Patch bumps on release branches",
+      "url": "https://github.com/tenstorrent/tt-forge/issues/462",
+      "createdAt": "2025-09-19T16:11:35.982Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
