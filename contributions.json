@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1758322347238,
-      "repository": "claytonjn/hass-circadian_lighting",
-      "issueTitle": "Error: /circadian_lighting/switch.py\", line 384, in _light_state_changed assert new_state and new_state.state == \"on\"",
-      "url": "https://github.com/claytonjn/hass-circadian_lighting/issues/262",
-      "createdAt": "2025-09-19T22:52:27.239Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
