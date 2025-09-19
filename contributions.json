@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758306541184,
+      "repository": "StraboSpot/StraboField",
+      "issueTitle": "Page Metadata Display Issue: Structure, Diagenesis, and Fossil Pages",
+      "url": "https://github.com/StraboSpot/StraboField/issues/742",
+      "createdAt": "2025-09-19T18:29:01.184Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
