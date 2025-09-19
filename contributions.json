@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758289918992,
+      "repository": "opentensor/btcli",
+      "issueTitle": "Incorrect output format for newly created wallets in btcli wallet list",
+      "url": "https://github.com/opentensor/btcli/issues/605",
+      "createdAt": "2025-09-19T13:51:58.992Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
