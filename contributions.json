@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758323934765,
+      "repository": "berkeley-dsep-infra/datahub",
+      "issueTitle": "ModuleNoteFoundError in Data 100 Datahub, HW 3",
+      "url": "https://github.com/berkeley-dsep-infra/datahub/issues/7536",
+      "createdAt": "2025-09-19T23:18:54.765Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
