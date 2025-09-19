@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758285695823,
+      "repository": "3dgeo-heidelberg/py4dgeo",
+      "issueTitle": "4D-OBC change detection: Window_with parameter causes runtime error",
+      "url": "https://github.com/3dgeo-heidelberg/py4dgeo/issues/266",
+      "createdAt": "2025-09-19T12:41:35.823Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
