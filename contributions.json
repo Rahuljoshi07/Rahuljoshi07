@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758296393853,
+      "repository": "Matgenix/jobflow-remote",
+      "issueTitle": "Better error handling for incorrectly formatted project YAML",
+      "url": "https://github.com/Matgenix/jobflow-remote/issues/286",
+      "createdAt": "2025-09-19T15:39:53.853Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
