@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758325820008,
+      "repository": "SonyCSLParis/music2latent",
+      "issueTitle": "Training error: RuntimeError: CUDA error: misaligned address",
+      "url": "https://github.com/SonyCSLParis/music2latent/issues/9",
+      "createdAt": "2025-09-19T23:50:20.008Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
