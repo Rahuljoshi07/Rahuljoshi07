@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1758266088019,
+      "id": 1758266123226,
       "repository": "okta/okta-sdk-nodejs",
-      "issueTitle": "\"Missing signed_nonce FactorType in TypeScript definitions\"",
-      "url": "https://github.com/okta/okta-sdk-nodejs/issues/451",
-      "createdAt": "2025-09-19T07:14:48.019Z",
+      "issueTitle": "Collection.prototype.each doesn't work as expected when using `expand` query parameter",
+      "url": "https://github.com/okta/okta-sdk-nodejs/issues/439",
+      "createdAt": "2025-09-19T07:15:23.226Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
