@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758261661046,
+      "repository": "unslothai/unsloth-zoo",
+      "issueTitle": "Failed to load finetuned model: AttributeError: 'Qwen2Config' object has no attribute 'text_config'. Did you mean: 'get_text_config'?",
+      "url": "https://github.com/unslothai/unsloth-zoo/issues/295",
+      "createdAt": "2025-09-19T06:01:01.046Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
