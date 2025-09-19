@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758287317695,
+      "repository": "etalab-ia/OpenGateLLM",
+      "issueTitle": "Problème avec le client OpenAI pour les embeddings",
+      "url": "https://github.com/etalab-ia/OpenGateLLM/issues/256",
+      "createdAt": "2025-09-19T13:08:37.695Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
