@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758265415311,
+      "repository": "Jezza34000/homeassistant_petkit",
+      "issueTitle": "Entities become unavailable",
+      "url": "https://github.com/Jezza34000/homeassistant_petkit/issues/58",
+      "createdAt": "2025-09-19T07:03:35.311Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
