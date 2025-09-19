@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1758245445724,
-      "repository": "nextcloud/polls",
-      "issueTitle": "[Bug]: InvalidArgumentException: Foreign key name \"FK_1C85E16C3C947C0F\" for table \"oc_polls_share\" collides with the constraint on table \"oc_polls_share\".",
-      "url": "https://github.com/nextcloud/polls/issues/4296",
-      "createdAt": "2025-09-19T01:30:45.724Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
