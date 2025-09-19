@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1758322304920,
-      "repository": "2M4U/2m4u",
-      "issueTitle": ".env.template is missing",
-      "url": "https://github.com/2M4U/2m4u/issues/9",
-      "createdAt": "2025-09-19T22:51:44.920Z",
+      "id": 1758322347238,
+      "repository": "claytonjn/hass-circadian_lighting",
+      "issueTitle": "Error: /circadian_lighting/switch.py\", line 384, in _light_state_changed assert new_state and new_state.state == \"on\"",
+      "url": "https://github.com/claytonjn/hass-circadian_lighting/issues/262",
+      "createdAt": "2025-09-19T22:52:27.239Z",
       "type": "comment",
-      "content": "Adding TypeScript could improve code quality and maintainability. This suggestion is particularly re..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
