@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758295165144,
+      "repository": "pokemon-tabletop-reunited/ptr1e",
+      "issueTitle": "Combat Theme Inaccessible",
+      "url": "https://github.com/pokemon-tabletop-reunited/ptr1e/issues/824",
+      "createdAt": "2025-09-19T15:19:25.144Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
