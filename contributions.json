@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758266698263,
+      "repository": "pharmpy/pharmpy",
+      "issueTitle": "Incorrect removal of covariate effects on allometry parameters",
+      "url": "https://github.com/pharmpy/pharmpy/issues/4001",
+      "createdAt": "2025-09-19T07:24:58.263Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
