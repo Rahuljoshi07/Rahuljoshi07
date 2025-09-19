@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1758316714499,
+      "id": 1758316755618,
       "repository": "iuccio/csvToJson",
-      "issueTitle": "[BUG]  formatValueByType brings wrong value",
-      "url": "https://github.com/iuccio/csvToJson/issues/74",
-      "createdAt": "2025-09-19T21:18:34.499Z",
+      "issueTitle": "[BUG] Error on parsing line breaks within quoted fields",
+      "url": "https://github.com/iuccio/csvToJson/issues/37",
+      "createdAt": "2025-09-19T21:19:15.618Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
