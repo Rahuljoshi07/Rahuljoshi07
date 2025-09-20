@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758392973436,
+      "repository": "openwisp/openwisp-controller",
+      "issueTitle": "[bug] Perennial config modified state",
+      "url": "https://github.com/openwisp/openwisp-controller/issues/1113",
+      "createdAt": "2025-09-20T18:29:33.436Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
