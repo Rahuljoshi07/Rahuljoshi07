@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758384470350,
+      "repository": "jbsparrow/CyberDropDownloader",
+      "issueTitle": "[BUG] Incorrect first installation of the last bat file",
+      "url": "https://github.com/jbsparrow/CyberDropDownloader/issues/1113",
+      "createdAt": "2025-09-20T16:07:50.350Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
