@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758330517251,
+      "repository": "derisk-ai/OpenDerisk",
+      "issueTitle": "[Bug] [Module Name] Bug title 'NoneType' object is not iterable when quick chat",
+      "url": "https://github.com/derisk-ai/OpenDerisk/issues/60",
+      "createdAt": "2025-09-20T01:08:37.251Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
