@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758398090848,
+      "repository": "ruby/setup-ruby",
+      "issueTitle": "Multiple workflow jobs with same ruby - Bundler cache issue?",
+      "url": "https://github.com/ruby/setup-ruby/issues/801",
+      "createdAt": "2025-09-20T19:54:50.848Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
