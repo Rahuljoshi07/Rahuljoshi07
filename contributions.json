@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758359226569,
+      "repository": "shaise/FreeCAD_SheetMetal",
+      "issueTitle": "Bug in \"Make Wall\" operation with round profile",
+      "url": "https://github.com/shaise/FreeCAD_SheetMetal/issues/530",
+      "createdAt": "2025-09-20T09:07:06.569Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
