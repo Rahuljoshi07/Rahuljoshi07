@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758409119667,
+      "repository": "vEnhance/otis-web",
+      "issueTitle": "In pset queue, change Redacted for secret units to the name of the secret unit if you have it / know the name of it",
+      "url": "https://github.com/vEnhance/otis-web/issues/238",
+      "createdAt": "2025-09-20T22:58:39.667Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
