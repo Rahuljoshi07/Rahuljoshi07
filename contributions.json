@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1758394264263,
+      "id": 1758394300202,
       "repository": "RegioHelden/django-kafka",
-      "issueTitle": "Dependency Dashboard",
-      "url": "https://github.com/RegioHelden/django-kafka/issues/152",
-      "createdAt": "2025-09-20T18:51:04.264Z",
+      "issueTitle": "Revisit KafkaConsumeRunner and make it simpler or extend it for more control",
+      "url": "https://github.com/RegioHelden/django-kafka/issues/143",
+      "createdAt": "2025-09-20T18:51:40.202Z",
       "type": "comment",
-      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
     }
   ],
   "stats": {
