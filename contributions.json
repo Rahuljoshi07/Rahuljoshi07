@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758344048781,
+      "repository": "kuwaai/kuwa-aios",
+      "issueTitle": "[docker, web-qa]: Unable to fetch document using Selenium",
+      "url": "https://github.com/kuwaai/kuwa-aios/issues/50",
+      "createdAt": "2025-09-20T04:54:08.781Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
