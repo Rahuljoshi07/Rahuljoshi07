@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758391906757,
+      "repository": "EduHaven/EduHaven",
+      "issueTitle": "[BUG] Optimize StudySessionController.js for Better Maintainability and Performance",
+      "url": "https://github.com/EduHaven/EduHaven/issues/786",
+      "createdAt": "2025-09-20T18:11:46.757Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
