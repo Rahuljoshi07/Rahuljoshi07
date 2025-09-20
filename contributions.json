@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1758405263329,
-      "repository": "bugov/django-auto-logout",
-      "issueTitle": "redirect_to_login_immediately triggers resend POST alert",
-      "url": "https://github.com/bugov/django-auto-logout/issues/24",
-      "createdAt": "2025-09-20T21:54:23.329Z",
+      "id": 1758405311758,
+      "repository": "RARgames/4gaBoards",
+      "issueTitle": "[BUG] Nothing happens when importing from Trello JSON",
+      "url": "https://github.com/RARgames/4gaBoards/issues/728",
+      "createdAt": "2025-09-20T21:55:11.759Z",
       "type": "comment",
-      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
