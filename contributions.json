@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758374288239,
+      "repository": "Zendure/Zendure-HA",
+      "issueTitle": "[Bug] Injection dont stop when soc is < curent %",
+      "url": "https://github.com/Zendure/Zendure-HA/issues/794",
+      "createdAt": "2025-09-20T13:18:08.239Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
