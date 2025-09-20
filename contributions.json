@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758347407379,
+      "repository": "AURORALAOrg/aurora-frontend",
+      "issueTitle": "Implement a standardized error handling system across all components to improve user experience and debugging capabilities.",
+      "url": "https://github.com/AURORALAOrg/aurora-frontend/issues/298",
+      "createdAt": "2025-09-20T05:50:07.379Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
