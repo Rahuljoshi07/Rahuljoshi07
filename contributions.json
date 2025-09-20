@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758394913985,
+      "repository": "LLNL/benchpark",
+      "issueTitle": "AMG2023 Umpire is not on",
+      "url": "https://github.com/LLNL/benchpark/issues/1069",
+      "createdAt": "2025-09-20T19:01:53.985Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
