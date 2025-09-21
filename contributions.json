@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758444911893,
+      "repository": "red-hat-storage/ocs-ci",
+      "issueTitle": "[Bug]: Many test cases don't have Polarion id marker",
+      "url": "https://github.com/red-hat-storage/ocs-ci/issues/12451",
+      "createdAt": "2025-09-21T08:55:11.893Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
