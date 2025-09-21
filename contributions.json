@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758472615593,
+      "repository": "tiborhari/django-admin-reset",
+      "issueTitle": "Error: link invalid, while trying to save the new password",
+      "url": "https://github.com/tiborhari/django-admin-reset/issues/11",
+      "createdAt": "2025-09-21T16:36:55.593Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
