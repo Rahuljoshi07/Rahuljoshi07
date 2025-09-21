@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758490296080,
+      "repository": "lazarv/react-server",
+      "issueTitle": "Bug when vite.config.ts returns a function",
+      "url": "https://github.com/lazarv/react-server/issues/244",
+      "createdAt": "2025-09-21T21:31:36.080Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
