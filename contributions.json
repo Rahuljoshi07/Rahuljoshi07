@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758441810787,
+      "repository": "SandeepVashishtha/Eventra",
+      "issueTitle": "Clicking Login does not navigate to the next page (stays on login screen)",
+      "url": "https://github.com/SandeepVashishtha/Eventra/issues/443",
+      "createdAt": "2025-09-21T08:03:30.787Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
