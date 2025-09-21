@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758442344779,
+      "repository": "SandeepVashishtha/Eventra",
+      "issueTitle": "Clicking Login does not navigate to the next page (stays on login screen)",
+      "url": "https://github.com/SandeepVashishtha/Eventra/issues/443",
+      "createdAt": "2025-09-21T08:12:24.779Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
