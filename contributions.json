@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758487740342,
+      "repository": "the-luap/picpeak",
+      "issueTitle": "[BUG] Conflict due to legacy migrations",
+      "url": "https://github.com/the-luap/picpeak/issues/28",
+      "createdAt": "2025-09-21T20:49:00.342Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
