@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758492050672,
+      "repository": "scottschiller/ArmorAlley",
+      "issueTitle": "No issue, just wanted to say thank you for this remake.",
+      "url": "https://github.com/scottschiller/ArmorAlley/issues/21",
+      "createdAt": "2025-09-21T22:00:50.672Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
