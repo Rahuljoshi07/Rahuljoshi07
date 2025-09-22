@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1758541667515,
+      "id": 1758541719650,
       "repository": "Roshansuthar1105/Codify",
       "issueTitle": "Critical: Revert Merge of Unresolved Conflict PR #409—Main Broken, Deployment Fails",
       "url": "https://github.com/Roshansuthar1105/Codify/issues/426",
-      "createdAt": "2025-09-22T11:47:47.515Z",
+      "createdAt": "2025-09-22T11:48:39.650Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
