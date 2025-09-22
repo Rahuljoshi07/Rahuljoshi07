@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758542712683,
+      "repository": "jellyfin/jellyfin-ios",
+      "issueTitle": "Transcoded Downloads automatically mark episode as watched",
+      "url": "https://github.com/jellyfin/jellyfin-ios/issues/727",
+      "createdAt": "2025-09-22T12:05:12.683Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
