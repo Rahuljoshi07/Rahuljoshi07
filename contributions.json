@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758566521214,
+      "repository": "sillsdev/silnlp",
+      "issueTitle": "\"'config' is not defined\" during experiment's translate step",
+      "url": "https://github.com/sillsdev/silnlp/issues/816",
+      "createdAt": "2025-09-22T18:42:01.214Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
