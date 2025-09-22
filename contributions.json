@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758553508005,
+      "repository": "ossf/wg-best-practices-os-developers",
+      "issueTitle": "pySCG, better code examples for CWE-783: Operator Precedence Logic Error",
+      "url": "https://github.com/ossf/wg-best-practices-os-developers/issues/992",
+      "createdAt": "2025-09-22T15:05:08.005Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
