@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758569737017,
+      "repository": "easonwong-de/Adaptive-Tab-Bar-Colour",
+      "issueTitle": "[Bug] Change brightness being reversed on some pages",
+      "url": "https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour/issues/160",
+      "createdAt": "2025-09-22T19:35:37.017Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
