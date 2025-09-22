@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758544175430,
+      "repository": "netascode/ansible-dc-vxlan",
+      "issueTitle": "Add support for vRF loopback in MSD",
+      "url": "https://github.com/netascode/ansible-dc-vxlan/issues/568",
+      "createdAt": "2025-09-22T12:29:35.430Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
