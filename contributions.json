@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758530994037,
+      "repository": "pulp/pulp-cli",
+      "issueTitle": "When using the pulp-cli, we frequently see the message \"Error: No suitable resource got created.\" when uploading a rpm file.",
+      "url": "https://github.com/pulp/pulp-cli/issues/1245",
+      "createdAt": "2025-09-22T08:49:54.037Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
