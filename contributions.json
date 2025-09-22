@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758541667515,
+      "repository": "Roshansuthar1105/Codify",
+      "issueTitle": "Critical: Revert Merge of Unresolved Conflict PR #409—Main Broken, Deployment Fails",
+      "url": "https://github.com/Roshansuthar1105/Codify/issues/426",
+      "createdAt": "2025-09-22T11:47:47.515Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
