@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758579404212,
+      "repository": "jellyfin/jellyfin-ios",
+      "issueTitle": "Deleting download only remove file, leaving empty folder in Files app",
+      "url": "https://github.com/jellyfin/jellyfin-ios/issues/725",
+      "createdAt": "2025-09-22T22:16:44.212Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
