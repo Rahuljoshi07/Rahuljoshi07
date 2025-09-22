@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758521491337,
+      "repository": "Not-Diamond/notdiamond-python",
+      "issueTitle": "Metaclass conflict error with LangChain 0.3.x",
+      "url": "https://github.com/Not-Diamond/notdiamond-python/issues/70",
+      "createdAt": "2025-09-22T06:11:31.337Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
