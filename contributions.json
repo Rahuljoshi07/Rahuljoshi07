@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758552399677,
+      "repository": "HeliumEdu/platform",
+      "issueTitle": "Bug - Check boxes are not showing up next to assignments",
+      "url": "https://github.com/HeliumEdu/platform/issues/883",
+      "createdAt": "2025-09-22T14:46:39.677Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
