@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758578998293,
+      "repository": "Harbour-Enterprises/SuperDoc",
+      "issueTitle": "search() failed when cross more than one comment",
+      "url": "https://github.com/Harbour-Enterprises/SuperDoc/issues/996",
+      "createdAt": "2025-09-22T22:09:58.293Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
