@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758536315794,
+      "repository": "kartoza/django-bims",
+      "issueTitle": "FBIS data need to harvested from GBIF in FBIS Africa",
+      "url": "https://github.com/kartoza/django-bims/issues/4783",
+      "createdAt": "2025-09-22T10:18:35.794Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
