@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758539572863,
+      "repository": "ITISFoundation/osparc-simcore",
+      "issueTitle": "[Bug]: Function map caused all jobs to get into FAILED/JOB_TASK_RUN_STATUS_FAILURE state",
+      "url": "https://github.com/ITISFoundation/osparc-simcore/issues/8398",
+      "createdAt": "2025-09-22T11:12:52.863Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
