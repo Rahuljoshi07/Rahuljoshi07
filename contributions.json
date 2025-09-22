@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758577900689,
+      "repository": "microsoft/json-schemas",
+      "issueTitle": "BUG: Height and Width of the tile is ignored in List Gallery view",
+      "url": "https://github.com/microsoft/json-schemas/issues/256",
+      "createdAt": "2025-09-22T21:51:40.690Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
