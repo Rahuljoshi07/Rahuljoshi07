@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758556514568,
+      "repository": "cjolowicz/nox-poetry",
+      "issueTitle": "Sdist build fails in projects with build.py",
+      "url": "https://github.com/cjolowicz/nox-poetry/issues/1188",
+      "createdAt": "2025-09-22T15:55:14.568Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
