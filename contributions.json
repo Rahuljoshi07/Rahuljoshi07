@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758625652137,
+      "repository": "hackforla/website",
+      "issueTitle": "Skills Issue: Developer: Mykola Lopushenko",
+      "url": "https://github.com/hackforla/website/issues/8328",
+      "createdAt": "2025-09-23T11:07:32.137Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
