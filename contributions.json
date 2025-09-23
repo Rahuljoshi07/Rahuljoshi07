@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1758607538003,
-      "repository": "ansys/pyedb",
-      "issueTitle": "Issue with class SiwaveSolve(object)",
-      "url": "https://github.com/ansys/pyedb/issues/1542",
-      "createdAt": "2025-09-23T06:05:38.003Z",
+      "id": 1758607568191,
+      "repository": "dennybiasiolli/django-reversion-rest-framework",
+      "issueTitle": "Settings serializer_class on HistoryModelViewSet has no effect when unique fields exist",
+      "url": "https://github.com/dennybiasiolli/django-reversion-rest-framework/issues/141",
+      "createdAt": "2025-09-23T06:06:08.192Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
     }
   ],
   "stats": {
