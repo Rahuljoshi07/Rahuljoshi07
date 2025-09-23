@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1758617320733,
-      "repository": "2M4U/2m4u",
-      "issueTitle": ".env.template is missing",
-      "url": "https://github.com/2M4U/2m4u/issues/9",
-      "createdAt": "2025-09-23T08:48:40.734Z",
+      "id": 1758617365090,
+      "repository": "vaadin/web-components",
+      "issueTitle": "`layoutComponentImprovements` feature flag not working in dev bundles",
+      "url": "https://github.com/vaadin/web-components/issues/9571",
+      "createdAt": "2025-09-23T08:49:25.090Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
