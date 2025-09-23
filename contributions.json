@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758637831375,
+      "repository": "laminlabs/lamindb",
+      "issueTitle": "Increase the `max_length` of the `description` field of `Reference` or make them `TextField`s",
+      "url": "https://github.com/laminlabs/lamindb/issues/3089",
+      "createdAt": "2025-09-23T14:30:31.375Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
