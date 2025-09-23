@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758634341525,
+      "repository": "opensanctions/opensanctions",
+      "issueTitle": "[lt_pep_declarations] 401 Client Error: for url: https://pinreg.vtek.lt/external/deklaracijos/301730/perziura/viesa?v=c9179496",
+      "url": "https://github.com/opensanctions/opensanctions/issues/2212",
+      "createdAt": "2025-09-23T13:32:21.525Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
