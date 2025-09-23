@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758606550822,
+      "repository": "oracle/oci-python-sdk",
+      "issueTitle": "Performance gap between OCI Python SDK and boto3 for object downloads",
+      "url": "https://github.com/oracle/oci-python-sdk/issues/755",
+      "createdAt": "2025-09-23T05:49:10.822Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
