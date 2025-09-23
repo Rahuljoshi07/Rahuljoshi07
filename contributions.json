@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758594335429,
+      "repository": "55gms/55GMS",
+      "issueTitle": "[Bug]: Getaway shootout broken",
+      "url": "https://github.com/55gms/55GMS/issues/109",
+      "createdAt": "2025-09-23T02:25:35.429Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
