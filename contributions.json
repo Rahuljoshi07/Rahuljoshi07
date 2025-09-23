@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1758627470409,
-      "repository": "2M4U/2m4u",
-      "issueTitle": "Possible fixes for update.js",
-      "url": "https://github.com/2M4U/2m4u/issues/6",
-      "createdAt": "2025-09-23T11:37:50.409Z",
+      "id": 1758627504418,
+      "repository": "rollbar/rollbar.js",
+      "issueTitle": "Change `https.request` with `fetch` for Cloudflare pages with SSR",
+      "url": "https://github.com/rollbar/rollbar.js/issues/1296",
+      "createdAt": "2025-09-23T11:38:24.418Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
