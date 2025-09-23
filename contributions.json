@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758632648714,
+      "repository": "frappe/press",
+      "issueTitle": "Error: razorpay_payment_record.fetch_pending_payment_orders tries to get unconfigured client unnecessarily",
+      "url": "https://github.com/frappe/press/issues/3358",
+      "createdAt": "2025-09-23T13:04:08.714Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
