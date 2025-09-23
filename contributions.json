@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758626113064,
+      "repository": "nicoddemus/pytest-rich",
+      "issueTitle": "pytest-rich doesn't play well with pytest_runtest_makereport",
+      "url": "https://github.com/nicoddemus/pytest-rich/issues/74",
+      "createdAt": "2025-09-23T11:15:13.064Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
