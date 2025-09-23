@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1758629307596,
-      "repository": "V2G-liberty/addon-v2g-liberty",
-      "issueTitle": "🪲 BUG: data sent to FM is of bad quality, lots of missing / inconsistant data points.",
-      "url": "https://github.com/V2G-liberty/addon-v2g-liberty/issues/309",
-      "createdAt": "2025-09-23T12:08:27.596Z",
+      "id": 1758629347465,
+      "repository": "opendatateam/udata",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/opendatateam/udata/issues/2443",
+      "createdAt": "2025-09-23T12:09:07.465Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask,..."
     }
   ],
   "stats": {
