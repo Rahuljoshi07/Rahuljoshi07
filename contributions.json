@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758627864221,
+      "repository": "weaviate/weaviate-python-client",
+      "issueTitle": "[bug] async client: query list value type mis-match",
+      "url": "https://github.com/weaviate/weaviate-python-client/issues/1831",
+      "createdAt": "2025-09-23T11:44:24.221Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
