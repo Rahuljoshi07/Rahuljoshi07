@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758633368733,
+      "repository": "jaseci-labs/jaseci",
+      "issueTitle": "[Bug] Need to correctly format engine.jac and compare it's formatting against black",
+      "url": "https://github.com/jaseci-labs/jaseci/issues/2868",
+      "createdAt": "2025-09-23T13:16:08.733Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
