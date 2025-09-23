@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758592127027,
+      "repository": "nextcloud/talk-desktop",
+      "issueTitle": "In Talk Desktop for windows, picture never be shown or opened",
+      "url": "https://github.com/nextcloud/talk-desktop/issues/1477",
+      "createdAt": "2025-09-23T01:48:47.027Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
