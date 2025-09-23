@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758591095111,
+      "repository": "marketcalls/openalgo",
+      "issueTitle": "Fyers Websocket Issue",
+      "url": "https://github.com/marketcalls/openalgo/issues/473",
+      "createdAt": "2025-09-23T01:31:35.111Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
