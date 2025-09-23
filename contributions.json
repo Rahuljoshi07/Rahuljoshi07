@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758617037422,
+      "repository": "passbolt/passbolt_cli",
+      "issueTitle": "Missing cookie.json",
+      "url": "https://github.com/passbolt/passbolt_cli/issues/34",
+      "createdAt": "2025-09-23T08:43:57.422Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
