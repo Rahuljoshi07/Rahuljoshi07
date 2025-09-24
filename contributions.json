@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758714881890,
+      "repository": "CS-SI/eodag",
+      "issueTitle": "On GEODES, eodag return a \"410 Client Error\" when product is stored on Tiers3",
+      "url": "https://github.com/CS-SI/eodag/issues/1776",
+      "createdAt": "2025-09-24T11:54:41.890Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
