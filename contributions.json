@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758684113836,
+      "repository": "tronbyt/server",
+      "issueTitle": "system apps repo refresh erroneously flashes \"no changes to repo\".",
+      "url": "https://github.com/tronbyt/server/issues/330",
+      "createdAt": "2025-09-24T03:21:53.837Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
