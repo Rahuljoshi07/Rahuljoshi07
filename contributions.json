@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758741048110,
+      "repository": "pinheadmz/palmreader",
+      "issueTitle": "Installation error on an arm64 board",
+      "url": "https://github.com/pinheadmz/palmreader/issues/8",
+      "createdAt": "2025-09-24T19:10:48.110Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
