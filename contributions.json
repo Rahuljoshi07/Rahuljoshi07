@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758700368045,
+      "repository": "ModelCloud/GPTQModel",
+      "issueTitle": "[BUG]  AttributeError: 'TorchQuantLinear' object has no attribute 'wf_unsqueeze_zero'",
+      "url": "https://github.com/ModelCloud/GPTQModel/issues/1786",
+      "createdAt": "2025-09-24T07:52:48.046Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
