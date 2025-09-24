@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758707663786,
+      "repository": "ikenxuan/kkkkkk-10086",
+      "issueTitle": "[Bug?]: B站动态推送处理不了图文？",
+      "url": "https://github.com/ikenxuan/kkkkkk-10086/issues/88",
+      "createdAt": "2025-09-24T09:54:23.786Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
