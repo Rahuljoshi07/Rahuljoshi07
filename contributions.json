@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758709949390,
+      "repository": "NSPC911/rovr",
+      "issueTitle": "[CRASH] If zoxide is enabled without the zoxide command being there, rovr crashes",
+      "url": "https://github.com/NSPC911/rovr/issues/79",
+      "createdAt": "2025-09-24T10:32:29.390Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
