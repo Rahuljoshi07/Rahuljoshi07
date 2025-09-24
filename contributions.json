@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758686272665,
+      "repository": "joelgombin/concaveman",
+      "issueTitle": "Possible error in algorithm - polygon fails to include all points",
+      "url": "https://github.com/joelgombin/concaveman/issues/17",
+      "createdAt": "2025-09-24T03:57:52.665Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. (Suggested by R..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
