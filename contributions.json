@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758714282707,
+      "repository": "bioinfo-chru-strasbourg/howard",
+      "issueTitle": "Multiple annotation in case of multiallelic variants",
+      "url": "https://github.com/bioinfo-chru-strasbourg/howard/issues/434",
+      "createdAt": "2025-09-24T11:44:42.707Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
