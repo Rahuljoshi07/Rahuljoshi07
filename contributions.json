@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1758687372150,
+      "id": 1758687412653,
       "repository": "joelgombin/concaveman",
       "issueTitle": "Possible error in algorithm - polygon fails to include all points",
       "url": "https://github.com/joelgombin/concaveman/issues/17",
-      "createdAt": "2025-09-24T04:16:12.150Z",
+      "createdAt": "2025-09-24T04:16:52.653Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
