@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758745139230,
+      "repository": "joelgombin/concaveman",
+      "issueTitle": "Possible error in algorithm - polygon fails to include all points",
+      "url": "https://github.com/joelgombin/concaveman/issues/17",
+      "createdAt": "2025-09-24T20:18:59.230Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
