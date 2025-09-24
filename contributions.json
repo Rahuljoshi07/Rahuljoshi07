@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1758701430851,
-      "repository": "ModelCloud/GPTQModel",
-      "issueTitle": "[BUG] When set `v2=True` in quantize_config: `TypeError: NativeProcessor.preprocess() got an unexpected keyword argument 'fail_safe'`",
-      "url": "https://github.com/ModelCloud/GPTQModel/issues/1843",
-      "createdAt": "2025-09-24T08:10:30.851Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
