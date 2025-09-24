@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758734400693,
+      "repository": "capitalone/datacompy",
+      "issueTitle": "Performance issues with SparkSQLCompare because of nested .withColumn()",
+      "url": "https://github.com/capitalone/datacompy/issues/435",
+      "createdAt": "2025-09-24T17:20:00.693Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
