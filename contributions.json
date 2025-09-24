@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1758733629753,
-      "repository": "BayraktarLab/cell2location",
-      "issueTitle": "ValueError: Expected parameter loc (Parameter of shape (23, 1)) of distribution Normal(loc: torch.Size([23, 1]), scale: torch.Size([23, 1])) to satisfy the constraint Real(), but found invalid values:",
-      "url": "https://github.com/BayraktarLab/cell2location/issues/384",
-      "createdAt": "2025-09-24T17:07:09.754Z",
+      "id": 1758733691342,
+      "repository": "circuitpython/web-editor",
+      "issueTitle": "Can't Plot Multiple Values",
+      "url": "https://github.com/circuitpython/web-editor/issues/384",
+      "createdAt": "2025-09-24T17:08:11.342Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
