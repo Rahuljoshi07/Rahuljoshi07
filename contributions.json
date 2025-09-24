@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1758740371473,
-      "repository": "DataDog/dd-trace-js",
-      "issueTitle": "[BUG]: initializing dd-trace after upgrading to 5.67.0 causes a plugin error:",
-      "url": "https://github.com/DataDog/dd-trace-js/issues/6518",
-      "createdAt": "2025-09-24T18:59:31.473Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
