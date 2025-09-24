@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758727316717,
+      "repository": "GoogleCloudPlatform/cloud-run-mcp",
+      "issueTitle": "Unexpected billing-related error with unusual phrasing after `/deploy` attempt",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-run-mcp/issues/151",
+      "createdAt": "2025-09-24T15:21:56.718Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
