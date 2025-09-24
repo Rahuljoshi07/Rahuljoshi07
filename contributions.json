@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758736363481,
+      "repository": "livepeer/ai-runner",
+      "issueTitle": "Support for CUDA 12.8 and Blackwell (RTX 5090) in ai-runner",
+      "url": "https://github.com/livepeer/ai-runner/issues/657",
+      "createdAt": "2025-09-24T17:52:43.481Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
