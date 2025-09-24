@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1758710750934,
-      "repository": "Drenso/cloud.shelly",
-      "issueTitle": "Support Shelly TRV & Gas for Homey Cloud",
-      "url": "https://github.com/Drenso/cloud.shelly/issues/155",
-      "createdAt": "2025-09-24T10:45:50.934Z",
+      "id": 1758710819880,
+      "repository": "code-423n4/code423n4.com",
+      "issueTitle": "[BUG]: Trying to connect with Metamask prompts Rainbow instead",
+      "url": "https://github.com/code-423n4/code423n4.com/issues/15545",
+      "createdAt": "2025-09-24T10:46:59.880Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
