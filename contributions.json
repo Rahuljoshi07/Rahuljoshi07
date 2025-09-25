@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758759177121,
+      "repository": "SalesforceCommerceCloud/pwa-kit",
+      "issueTitle": "[BUG] useCustomMutation and useCustomQuery hooks don't forward body and parameters in v3.9.1",
+      "url": "https://github.com/SalesforceCommerceCloud/pwa-kit/issues/2480",
+      "createdAt": "2025-09-25T00:12:57.121Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
