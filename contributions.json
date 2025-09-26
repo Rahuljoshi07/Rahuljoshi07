@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1758847351485,
+      "id": 1758847378344,
       "repository": "recurly/recurly-js",
-      "issueTitle": "Feature Request: Add TypeScript Types for Coupon Functionality",
-      "url": "https://github.com/recurly/recurly-js/issues/949",
-      "createdAt": "2025-09-26T00:42:31.485Z",
+      "issueTitle": "recurly.token does not reject with error, when there are no internet connection",
+      "url": "https://github.com/recurly/recurly-js/issues/916",
+      "createdAt": "2025-09-26T00:42:58.344Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
