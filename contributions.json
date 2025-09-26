@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1758878873802,
-      "repository": "gramps-project/gramps-web-api",
-      "issueTitle": "Add revert option to undo history endpoints",
-      "url": "https://github.com/gramps-project/gramps-web-api/issues/511",
-      "createdAt": "2025-09-26T09:27:53.802Z",
+      "id": 1758878935209,
+      "repository": "code-423n4/code423n4.com",
+      "issueTitle": "[BUG]:  Wardens Able to Submit Reports for Role-Specific Audits",
+      "url": "https://github.com/code-423n4/code423n4.com/issues/12333",
+      "createdAt": "2025-09-26T09:28:55.210Z",
       "type": "comment",
-      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
