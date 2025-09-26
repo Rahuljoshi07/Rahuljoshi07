@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758874639912,
+      "repository": "safety-research/bloom-evals",
+      "issueTitle": "Failed to load transcript: 500 Internal Server Error - Internal server error while loading transcript",
+      "url": "https://github.com/safety-research/bloom-evals/issues/4",
+      "createdAt": "2025-09-26T08:17:19.912Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
