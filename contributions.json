@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758870144144,
+      "repository": "model-bakers/model_bakery",
+      "issueTitle": "Default `MAX_INT` for integer/float/interval generator",
+      "url": "https://github.com/model-bakers/model_bakery/issues/61",
+      "createdAt": "2025-09-26T07:02:24.144Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
