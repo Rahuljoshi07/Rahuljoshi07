@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758857925576,
+      "repository": "openzim/zimfarm",
+      "issueTitle": "Better link \"new ZIM request\" Github issues with Zimfarm",
+      "url": "https://github.com/openzim/zimfarm/issues/1374",
+      "createdAt": "2025-09-26T03:38:45.576Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
