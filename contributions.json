@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758863649701,
+      "repository": "righel/gitlab-version-nse",
+      "issueTitle": "gitlab_version: ERROR: GitLab manifest hash not found in map: 7421d1e6f47d49752a0b",
+      "url": "https://github.com/righel/gitlab-version-nse/issues/1",
+      "createdAt": "2025-09-26T05:14:09.702Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
