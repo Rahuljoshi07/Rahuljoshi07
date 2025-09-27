@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1758994489035,
-      "repository": "NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect",
-      "issueTitle": "bug: false positive in `no-derived-state` on state/props methods in subscription effect",
-      "url": "https://github.com/NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect/issues/36",
-      "createdAt": "2025-09-27T17:34:49.035Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
