@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758969507604,
+      "repository": "Class-Widgets/Class-Widgets",
+      "issueTitle": "[BUG]: 课表加载时未校验",
+      "url": "https://github.com/Class-Widgets/Class-Widgets/issues/956",
+      "createdAt": "2025-09-27T10:38:27.605Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
