@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758974097746,
+      "repository": "idlesign/pytest-djangoapp",
+      "issueTitle": "Add helper for Admin",
+      "url": "https://github.com/idlesign/pytest-djangoapp/issues/35",
+      "createdAt": "2025-09-27T11:54:57.746Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
