@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759001753771,
+      "repository": "fausecteam/ctf-gameserver",
+      "issueTitle": "Add option to resend registration email from admin site",
+      "url": "https://github.com/fausecteam/ctf-gameserver/issues/93",
+      "createdAt": "2025-09-27T19:35:53.772Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
