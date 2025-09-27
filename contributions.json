@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758986449753,
+      "repository": "marketcalls/openalgo",
+      "issueTitle": "Add support for m.Stock broker",
+      "url": "https://github.com/marketcalls/openalgo/issues/485",
+      "createdAt": "2025-09-27T15:20:49.753Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
