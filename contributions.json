@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758955404295,
+      "repository": "webspace-sdk/webspace-engine",
+      "issueTitle": "drop the external camera system code",
+      "url": "https://github.com/webspace-sdk/webspace-engine/issues/50",
+      "createdAt": "2025-09-27T06:43:24.295Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
