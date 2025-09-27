@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1758978992594,
+      "repository": "BottlecapDave/HomeAssistant-OctopusEnergy",
+      "issueTitle": "Python errors fetching account data after meter exchange (`async_create_issue() takes 3 positional arguments`)",
+      "url": "https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy/issues/1479",
+      "createdAt": "2025-09-27T13:16:32.594Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
