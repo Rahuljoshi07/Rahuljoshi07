@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759028899651,
+      "repository": "nextcloud/files_retention",
+      "issueTitle": "Fles not deleted and no mail about it. No log",
+      "url": "https://github.com/nextcloud/files_retention/issues/714",
+      "createdAt": "2025-09-28T03:08:19.651Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
