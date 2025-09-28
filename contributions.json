@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759024017458,
+      "repository": "sccn/EEGDash",
+      "issueTitle": "No warning/error when specifying nonexistent conditions",
+      "url": "https://github.com/sccn/EEGDash/issues/141",
+      "createdAt": "2025-09-28T01:46:57.458Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
