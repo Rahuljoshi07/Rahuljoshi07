@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759053974476,
+      "repository": "mathiasertl/django-ca",
+      "issueTitle": "question about deployment",
+      "url": "https://github.com/mathiasertl/django-ca/issues/172",
+      "createdAt": "2025-09-28T10:06:14.476Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
