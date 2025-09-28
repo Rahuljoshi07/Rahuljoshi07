@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759027425792,
+      "repository": "STOmics/cellbin2",
+      "issueTitle": "bug in matrics.py ",
+      "url": "https://github.com/STOmics/cellbin2/issues/1",
+      "createdAt": "2025-09-28T02:43:45.793Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
