@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759100146998,
+      "repository": "cedya77/aiometadata",
+      "issueTitle": "[BUG] After beta 24, the posters in TVDB SEARCH are not displayed according to the language",
+      "url": "https://github.com/cedya77/aiometadata/issues/28",
+      "createdAt": "2025-09-28T22:55:46.998Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
