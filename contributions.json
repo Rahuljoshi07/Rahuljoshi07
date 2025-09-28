@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1759063889151,
+      "id": 1759063926434,
       "repository": "lovell/hepburn",
       "issueTitle": "Katakana ァ left unchanged by fromKana",
       "url": "https://github.com/lovell/hepburn/issues/24",
-      "createdAt": "2025-09-28T12:51:29.151Z",
+      "createdAt": "2025-09-28T12:52:06.434Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
