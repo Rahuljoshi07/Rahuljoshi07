@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759096926962,
+      "repository": "jnalepka/grenton-to-homeassistant",
+      "issueTitle": "Performance impact of large entity count",
+      "url": "https://github.com/jnalepka/grenton-to-homeassistant/issues/41",
+      "createdAt": "2025-09-28T22:02:06.962Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
