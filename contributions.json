@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759028974691,
+      "repository": "nextcloud/photos",
+      "issueTitle": "Some filter names are cut off",
+      "url": "https://github.com/nextcloud/photos/issues/3199",
+      "createdAt": "2025-09-28T03:09:34.692Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
