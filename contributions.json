@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1759044628146,
+      "id": 1759044676545,
       "repository": "EduHaven/EduHaven",
       "issueTitle": "[BUG] Fix the buttons in session room. `Couldn't join private rooms.`",
       "url": "https://github.com/EduHaven/EduHaven/issues/861",
-      "createdAt": "2025-09-28T07:30:28.146Z",
+      "createdAt": "2025-09-28T07:31:16.545Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
