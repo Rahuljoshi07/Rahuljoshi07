@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759102895423,
+      "repository": "PublicisSapient/enable-a11y",
+      "issueTitle": "Identified UX Issues for improving usability",
+      "url": "https://github.com/PublicisSapient/enable-a11y/issues/266",
+      "createdAt": "2025-09-28T23:41:35.424Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
