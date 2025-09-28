@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759075665038,
+      "repository": "stephondoestech/unraid-config-guardian",
+      "issueTitle": "[BUG] GUI Files Updates and Log Generation",
+      "url": "https://github.com/stephondoestech/unraid-config-guardian/issues/21",
+      "createdAt": "2025-09-28T16:07:45.038Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
