@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759064874611,
+      "repository": "whad-team/whad-client",
+      "issueTitle": "[BUG] CC26XX Sonoff drivers detected as ESP32",
+      "url": "https://github.com/whad-team/whad-client/issues/256",
+      "createdAt": "2025-09-28T13:07:54.611Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
