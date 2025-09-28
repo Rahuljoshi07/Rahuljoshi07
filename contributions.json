@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759069579158,
+      "repository": "9technologygroup/patchmon.net",
+      "issueTitle": "network error adding admin account",
+      "url": "https://github.com/9technologygroup/patchmon.net/issues/61",
+      "createdAt": "2025-09-28T14:26:19.159Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
