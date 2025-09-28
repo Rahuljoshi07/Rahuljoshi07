@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759054548042,
+      "repository": "Exodus-Privacy/exodus",
+      "issueTitle": "[Bug] WhatsApp (com.whatsapp) strange wrong name since 2024-12-05 (version 2.24.24.77)",
+      "url": "https://github.com/Exodus-Privacy/exodus/issues/652",
+      "createdAt": "2025-09-28T10:15:48.042Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
