@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759063889151,
+      "repository": "lovell/hepburn",
+      "issueTitle": "Katakana ァ left unchanged by fromKana",
+      "url": "https://github.com/lovell/hepburn/issues/24",
+      "createdAt": "2025-09-28T12:51:29.151Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
