@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759092267592,
+      "repository": "TG-TG-TG-TG-TG-TG/Aurora-for-ChatGPT",
+      "issueTitle": "Composer & suggestion chips are not glass (render opaque)",
+      "url": "https://github.com/TG-TG-TG-TG-TG-TG/Aurora-for-ChatGPT/issues/30",
+      "createdAt": "2025-09-28T20:44:27.592Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
