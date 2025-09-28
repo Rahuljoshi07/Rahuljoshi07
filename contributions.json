@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759047434511,
+      "repository": "oceanbase/obdiag",
+      "issueTitle": "[Bug]: 使用root用户安装obdiag，运行报错",
+      "url": "https://github.com/oceanbase/obdiag/issues/1065",
+      "createdAt": "2025-09-28T08:17:14.511Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
