@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759067032242,
+      "repository": "sudo-suhas/elastic-builder",
+      "issueTitle": "TypeScript: GeoShape.coordinates() missing support for Polygon geometry (number[][][])",
+      "url": "https://github.com/sudo-suhas/elastic-builder/issues/217",
+      "createdAt": "2025-09-28T13:43:52.243Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
