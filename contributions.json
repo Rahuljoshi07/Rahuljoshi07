@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1759067841252,
-      "repository": "RLinf/RLinf",
-      "issueTitle": "[Troubleshoot]: AssertionError: FSDP assumes {fqn} is in the state_dict but the state_dict only has {state_dict.keys()}.",
-      "url": "https://github.com/RLinf/RLinf/issues/119",
-      "createdAt": "2025-09-28T13:57:21.252Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
