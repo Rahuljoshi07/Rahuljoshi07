@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759027572272,
+      "repository": "espressif/esp-faq",
+      "issueTitle": "Ask issue: how to get the battery rest capacity by the Power supply Pin?",
+      "url": "https://github.com/espressif/esp-faq/issues/21",
+      "createdAt": "2025-09-28T02:46:12.272Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
