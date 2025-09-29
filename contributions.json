@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759169573209,
+      "repository": "BertrandBordage/django-tree",
+      "issueTitle": "Integrity error when too many nodes are inserted between existing nodes",
+      "url": "https://github.com/BertrandBordage/django-tree/issues/17",
+      "createdAt": "2025-09-29T18:12:53.209Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
