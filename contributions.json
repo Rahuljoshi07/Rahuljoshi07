@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759137109686,
+      "repository": "GetStream/stream-video-js",
+      "issueTitle": "Question: A call has 100 members but useCallMembers return default 25 member?",
+      "url": "https://github.com/GetStream/stream-video-js/issues/1938",
+      "createdAt": "2025-09-29T09:11:49.686Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
