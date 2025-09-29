@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759131404026,
+      "repository": "IAMconsortium/nomenclature",
+      "issueTitle": "Nomenclature validation error does not necessarily need traceback",
+      "url": "https://github.com/IAMconsortium/nomenclature/issues/526",
+      "createdAt": "2025-09-29T07:36:44.027Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
