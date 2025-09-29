@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1759159139132,
-      "repository": "shelfio/aws-lambda-libreoffice",
-      "issueTitle": "Breaks intermittently due to Thread::create failed error",
-      "url": "https://github.com/shelfio/aws-lambda-libreoffice/issues/278",
-      "createdAt": "2025-09-29T15:18:59.132Z",
+      "id": 1759159171191,
+      "repository": "kunifujiwara/VoxCity",
+      "issueTitle": "Land cover grid fails with RasterioIOError (land_cover.tif not created)",
+      "url": "https://github.com/kunifujiwara/VoxCity/issues/9",
+      "createdAt": "2025-09-29T15:19:31.191Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
