@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759145373956,
+      "repository": "pimcore/admin-ui-classic-bundle",
+      "issueTitle": "Type for key definition in classification store is not set correct",
+      "url": "https://github.com/pimcore/admin-ui-classic-bundle/issues/1010",
+      "createdAt": "2025-09-29T11:29:33.956Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
