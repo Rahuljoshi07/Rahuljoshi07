@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759161403132,
+      "repository": "MiraGeoscience/geoh5py",
+      "issueTitle": "geoh5py.data.visual_parameters.colour returns \"BGR\" not \"RGB\"",
+      "url": "https://github.com/MiraGeoscience/geoh5py/issues/754",
+      "createdAt": "2025-09-29T15:56:43.132Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
