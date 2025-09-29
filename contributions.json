@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759109159117,
+      "repository": "AcademySoftwareFoundation/OpenCue",
+      "issueTitle": "[rqd] No code path for temp dir stats on MacOS",
+      "url": "https://github.com/AcademySoftwareFoundation/OpenCue/issues/2000",
+      "createdAt": "2025-09-29T01:25:59.117Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
