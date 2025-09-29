@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759150350305,
+      "repository": "ansys/pymapdl",
+      "issueTitle": "launch_mapdl throws ValueError in HPC, attempts to cast SLURM_NODELIST to int",
+      "url": "https://github.com/ansys/pymapdl/issues/4232",
+      "createdAt": "2025-09-29T12:52:30.305Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
