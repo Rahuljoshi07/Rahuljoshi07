@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759110852839,
+      "repository": "mclemente/fvtt-module-polyglot",
+      "issueTitle": "Polyglot no longer working in DnD 5e's journal text.",
+      "url": "https://github.com/mclemente/fvtt-module-polyglot/issues/440",
+      "createdAt": "2025-09-29T01:54:12.839Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
