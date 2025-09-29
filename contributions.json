@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759127062859,
+      "repository": "python-caldav/caldav",
+      "issueTitle": "baikal: Error when trying to create calendar",
+      "url": "https://github.com/python-caldav/caldav/issues/553",
+      "createdAt": "2025-09-29T06:24:22.859Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
