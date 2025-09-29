@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759125857334,
+      "repository": "cockpit-project/cockpit-ostree",
+      "issueTitle": "Refreshing while an overlay is installed crashes the page",
+      "url": "https://github.com/cockpit-project/cockpit-ostree/issues/456",
+      "createdAt": "2025-09-29T06:04:17.334Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
