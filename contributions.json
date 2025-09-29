@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759128055110,
+      "repository": "g3w-suite/g3w-admin",
+      "issueTitle": "in v3.10.x for english language there's some Bulgarian strings I think",
+      "url": "https://github.com/g3w-suite/g3w-admin/issues/1210",
+      "createdAt": "2025-09-29T06:40:55.110Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
