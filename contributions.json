@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759131276019,
+      "repository": "canonical/vault-k8s-operator",
+      "issueTitle": "Vault doesn't honor \"juju-http{s}-proxy\" settings",
+      "url": "https://github.com/canonical/vault-k8s-operator/issues/776",
+      "createdAt": "2025-09-29T07:34:36.020Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
