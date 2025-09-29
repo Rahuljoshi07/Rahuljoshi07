@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759166336425,
+      "repository": "nagcas/TerraQuakeApi",
+      "issueTitle": "Issue 2 – Explore Data: Filters & Search",
+      "url": "https://github.com/nagcas/TerraQuakeApi/issues/45",
+      "createdAt": "2025-09-29T17:18:56.425Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
