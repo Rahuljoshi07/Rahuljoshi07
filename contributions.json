@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759126848325,
+      "repository": "JasperSui/fastapi-injectable",
+      "issueTitle": "[BUG] get_injected_obj does not work correctly with app.dependency_overrides at top level",
+      "url": "https://github.com/JasperSui/fastapi-injectable/issues/153",
+      "createdAt": "2025-09-29T06:20:48.325Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
