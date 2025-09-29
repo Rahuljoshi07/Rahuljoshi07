@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759123853597,
+      "repository": "p0dalirius/pyLDAPWordlistHarvester",
+      "issueTitle": "[bug] ldap3_kerberos_login() got an unexpected keyword argument 'aeskey'",
+      "url": "https://github.com/p0dalirius/pyLDAPWordlistHarvester/issues/9",
+      "createdAt": "2025-09-29T05:30:53.597Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
