@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759131136900,
+      "repository": "httptoolkit/httptoolkit-server",
+      "issueTitle": "Errors trying to redirect Android 14 via ADB",
+      "url": "https://github.com/httptoolkit/httptoolkit-server/issues/127",
+      "createdAt": "2025-09-29T07:32:16.900Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
