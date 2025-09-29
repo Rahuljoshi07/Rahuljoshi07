@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759133017761,
+      "repository": "cap-js/mcp-server",
+      "issueTitle": "run cds-mcp search_docs failed",
+      "url": "https://github.com/cap-js/mcp-server/issues/63",
+      "createdAt": "2025-09-29T08:03:37.762Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
