@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759159063909,
+      "repository": "guibranco/progressbar",
+      "issueTitle": "[BUG] Width is really buggy now",
+      "url": "https://github.com/guibranco/progressbar/issues/112",
+      "createdAt": "2025-09-29T15:17:43.909Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
