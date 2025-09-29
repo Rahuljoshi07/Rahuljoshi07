@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759181215226,
+      "repository": "DataKitchen/data-observability-installer",
+      "issueTitle": "Add command for upgrading Observability",
+      "url": "https://github.com/DataKitchen/data-observability-installer/issues/22",
+      "createdAt": "2025-09-29T21:26:55.226Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
