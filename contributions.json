@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1759159063909,
-      "repository": "guibranco/progressbar",
-      "issueTitle": "[BUG] Width is really buggy now",
-      "url": "https://github.com/guibranco/progressbar/issues/112",
-      "createdAt": "2025-09-29T15:17:43.909Z",
+      "id": 1759159107069,
+      "repository": "shelfio/aws-lambda-libreoffice",
+      "issueTitle": "Breaks intermittently due to Thread::create failed error",
+      "url": "https://github.com/shelfio/aws-lambda-libreoffice/issues/278",
+      "createdAt": "2025-09-29T15:18:27.069Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
