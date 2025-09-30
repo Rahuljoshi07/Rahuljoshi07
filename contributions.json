@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759226946929,
+      "repository": "SandeepVashishtha/Eventra",
+      "issueTitle": "Stats Section Does Not Hide After Performing a Search",
+      "url": "https://github.com/SandeepVashishtha/Eventra/issues/549",
+      "createdAt": "2025-09-30T10:09:06.929Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
