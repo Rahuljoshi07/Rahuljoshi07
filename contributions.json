@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759239315310,
+      "repository": "ARM-software/arm-systemready",
+      "issueTitle": "ethtool-test.py control characters issue and wrong link in official website",
+      "url": "https://github.com/ARM-software/arm-systemready/issues/496",
+      "createdAt": "2025-09-30T13:35:15.310Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
