@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759225103866,
+      "repository": "camunda/camunda-bpmn-js",
+      "issueTitle": "Cannot Use `camunda-bpmn-js` Without Installing `@bpmn-io/form-js`",
+      "url": "https://github.com/camunda/camunda-bpmn-js/issues/333",
+      "createdAt": "2025-09-30T09:38:23.866Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
