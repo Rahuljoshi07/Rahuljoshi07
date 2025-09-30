@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759222902094,
+      "repository": "aws-samples/service-screener-v2",
+      "issueTitle": "Service screener is covering the security pillar from the war console, will it cover any other pillars like Reliability, Cost Optimization and Performance Efficiency pillar in the WAFR console.",
+      "url": "https://github.com/aws-samples/service-screener-v2/issues/217",
+      "createdAt": "2025-09-30T09:01:42.094Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
