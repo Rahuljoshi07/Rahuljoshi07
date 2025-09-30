@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1759265953151,
-      "repository": "2M4U/2m4u",
-      "issueTitle": "Possible fixes for update.js",
-      "url": "https://github.com/2M4U/2m4u/issues/6",
-      "createdAt": "2025-09-30T20:59:13.151Z",
+      "id": 1759266031763,
+      "repository": "ember-bootstrap/ember-bootstrap-power-select",
+      "issueTitle": "Dropdown doesn't render when used inside a modal",
+      "url": "https://github.com/ember-bootstrap/ember-bootstrap-power-select/issues/7",
+      "createdAt": "2025-09-30T21:00:31.763Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
