@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759254599181,
+      "repository": "Saibot393/perceptive",
+      "issueTitle": "Console Error with Monk's Active Tiles",
+      "url": "https://github.com/Saibot393/perceptive/issues/139",
+      "createdAt": "2025-09-30T17:49:59.182Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
