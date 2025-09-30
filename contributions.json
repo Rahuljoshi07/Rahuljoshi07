@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759248552975,
+      "repository": "shakedzy/dython",
+      "issueTitle": "cramers_v_weighted",
+      "url": "https://github.com/shakedzy/dython/issues/71",
+      "createdAt": "2025-09-30T16:09:12.975Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
