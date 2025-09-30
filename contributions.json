@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759194136577,
+      "repository": "nextcloud/integration_google",
+      "issueTitle": "Folder Structure Seemingly Distorted",
+      "url": "https://github.com/nextcloud/integration_google/issues/283",
+      "createdAt": "2025-09-30T01:02:16.577Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
