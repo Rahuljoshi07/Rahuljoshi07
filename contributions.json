@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759238489327,
+      "repository": "pypomp/pypomp",
+      "issueTitle": "train() is slow and uses a huge amount of memory",
+      "url": "https://github.com/pypomp/pypomp/issues/36",
+      "createdAt": "2025-09-30T13:21:29.327Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
