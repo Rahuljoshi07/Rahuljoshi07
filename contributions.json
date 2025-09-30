@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759265114963,
+      "repository": "InTRA-USP/IntraSOM",
+      "issueTitle": "progress bar is not working in colab environment",
+      "url": "https://github.com/InTRA-USP/IntraSOM/issues/35",
+      "createdAt": "2025-09-30T20:45:14.963Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
