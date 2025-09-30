@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759233328421,
+      "repository": "MCSLTeam/MCSL2",
+      "issueTitle": "BUG | (在首次创建服务器未点击启动的情况下点击编辑配置文件出现报错和无法启动)",
+      "url": "https://github.com/MCSLTeam/MCSL2/issues/193",
+      "createdAt": "2025-09-30T11:55:28.422Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
