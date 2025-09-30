@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759265897379,
+      "repository": "oran-testing/ran-tester-ue",
+      "issueTitle": "Integrate and test Channel Sounder",
+      "url": "https://github.com/oran-testing/ran-tester-ue/issues/97",
+      "createdAt": "2025-09-30T20:58:17.379Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. (Suggested by Rahul Joshi..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
