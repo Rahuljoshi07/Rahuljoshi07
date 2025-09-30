@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759219602605,
+      "repository": "nagcas/TerraQuakeApi",
+      "issueTitle": "Issue: Weak Password Validation & Missing Email Verification",
+      "url": "https://github.com/nagcas/TerraQuakeApi/issues/126",
+      "createdAt": "2025-09-30T08:06:42.605Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
