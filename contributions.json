@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759311205387,
+      "repository": "gravity-ui/chartkit",
+      "issueTitle": "[Highcharts plugin] Errors in the console when hovering on venn chart",
+      "url": "https://github.com/gravity-ui/chartkit/issues/549",
+      "createdAt": "2025-10-01T09:33:25.388Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
