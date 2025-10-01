@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759353739002,
+      "repository": "physicshub/physicshub.github.io",
+      "issueTitle": "[Bug]: Strange line in the homepage",
+      "url": "https://github.com/physicshub/physicshub.github.io/issues/32",
+      "createdAt": "2025-10-01T21:22:19.002Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
