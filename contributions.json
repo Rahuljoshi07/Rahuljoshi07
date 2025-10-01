@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759361529505,
+      "repository": "pytorch/tensordict",
+      "issueTitle": "[BUG] Wrong use of torchsnapshot in test/test_tensorclass.py::test_torchsnapshot",
+      "url": "https://github.com/pytorch/tensordict/issues/1446",
+      "createdAt": "2025-10-01T23:32:09.505Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
