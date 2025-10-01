@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1759287824219,
+      "id": 1759287882935,
       "repository": "fastify/aws-lambda-fastify",
-      "issueTitle": "decorateRequest is not thread safe",
-      "url": "https://github.com/fastify/aws-lambda-fastify/issues/254",
-      "createdAt": "2025-10-01T03:03:44.219Z",
+      "issueTitle": "AWS Lambda plans to remove support for callback-based function handlers",
+      "url": "https://github.com/fastify/aws-lambda-fastify/issues/268",
+      "createdAt": "2025-10-01T03:04:42.935Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
     }
   ],
   "stats": {
