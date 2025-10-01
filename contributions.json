@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759318647736,
+      "repository": "gologinapp/gologin",
+      "issueTitle": "TypeError: makeRequest(...).pipe is not a function on profile start due to promise-based request",
+      "url": "https://github.com/gologinapp/gologin/issues/208",
+      "createdAt": "2025-10-01T11:37:27.737Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
