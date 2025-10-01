@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759328965440,
+      "repository": "pxlsspace/pxls-web",
+      "issueTitle": "Missing error message on duplicate username during signup",
+      "url": "https://github.com/pxlsspace/pxls-web/issues/39",
+      "createdAt": "2025-10-01T14:29:25.440Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
