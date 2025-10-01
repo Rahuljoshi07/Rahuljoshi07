@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759296925340,
+      "repository": "unoplat/unoplat-code-confluence",
+      "issueTitle": "[BUG] update model config pulls in stale data",
+      "url": "https://github.com/unoplat/unoplat-code-confluence/issues/864",
+      "createdAt": "2025-10-01T05:35:25.340Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
