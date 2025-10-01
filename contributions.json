@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759298077745,
+      "repository": "cockpit-project/cockpit-podman",
+      "issueTitle": "Migrate to using `systemd-run` for the admin session",
+      "url": "https://github.com/cockpit-project/cockpit-podman/issues/2206",
+      "createdAt": "2025-10-01T05:54:37.745Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
