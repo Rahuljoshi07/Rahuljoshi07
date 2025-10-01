@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759295483874,
+      "repository": "langgenius/dify-official-plugins",
+      "issueTitle": "Gemini Model Implementation Regression from v0.3.0 -> v0.5.4",
+      "url": "https://github.com/langgenius/dify-official-plugins/issues/1710",
+      "createdAt": "2025-10-01T05:11:23.874Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
