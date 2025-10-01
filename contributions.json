@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759357614896,
+      "repository": "django-commons/django-typer",
+      "issueTitle": "Fix windows tests to run on pywinpty >=3.0",
+      "url": "https://github.com/django-commons/django-typer/issues/234",
+      "createdAt": "2025-10-01T22:26:54.896Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
