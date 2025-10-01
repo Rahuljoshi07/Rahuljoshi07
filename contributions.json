@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759355662278,
+      "repository": "openwisp/openwisp-notifications",
+      "issueTitle": "[bug] Notification verb is saved in database",
+      "url": "https://github.com/openwisp/openwisp-notifications/issues/334",
+      "createdAt": "2025-10-01T21:54:22.278Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
