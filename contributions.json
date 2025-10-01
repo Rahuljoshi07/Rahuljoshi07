@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759320064394,
+      "repository": "nflverse/nflreadpy",
+      "issueTitle": "[BUG] 2025 injuries are missing",
+      "url": "https://github.com/nflverse/nflreadpy/issues/17",
+      "createdAt": "2025-10-01T12:01:04.394Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
