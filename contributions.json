@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759338072536,
+      "repository": "spacetelescope/wss_tools",
+      "issueTitle": "Bad recentering of the WL images due to field with “relatively bright stars”",
+      "url": "https://github.com/spacetelescope/wss_tools/issues/97",
+      "createdAt": "2025-10-01T17:01:12.536Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
