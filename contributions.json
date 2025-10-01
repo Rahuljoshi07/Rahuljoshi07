@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759314523875,
+      "repository": "OpenNTI/sphinxcontrib-programoutput",
+      "issueTitle": "0.18: Issues running tests, and use of sphinxcontrib/__init__.py",
+      "url": "https://github.com/OpenNTI/sphinxcontrib-programoutput/issues/65",
+      "createdAt": "2025-10-01T10:28:43.875Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
