@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759337627418,
+      "repository": "interuss/monitoring",
+      "issueTitle": "Delete flight plan with 404 response without a body fails",
+      "url": "https://github.com/interuss/monitoring/issues/1100",
+      "createdAt": "2025-10-01T16:53:47.418Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
