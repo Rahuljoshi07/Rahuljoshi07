@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759335105383,
+      "repository": "Enemyx-net/VibeVoice-ComfyUI",
+      "issueTitle": "Apple Silicon MPS: VibeVoiceSingleSpeakerNode - Error generating speech: VibeVoice generation failed: Output channels > 65536 not supported at the MPS device.",
+      "url": "https://github.com/Enemyx-net/VibeVoice-ComfyUI/issues/109",
+      "createdAt": "2025-10-01T16:11:45.383Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
