@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759277883581,
+      "repository": "meltano/sdk",
+      "issueTitle": "bug: SQL `prepare_table` runs on setup in stead of drain",
+      "url": "https://github.com/meltano/sdk/issues/3237",
+      "createdAt": "2025-10-01T00:18:03.581Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
