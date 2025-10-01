@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759336603057,
+      "repository": "pysys-test/pysys-test",
+      "issueTitle": "Process monitor gives weird error if ps not installed (linux)",
+      "url": "https://github.com/pysys-test/pysys-test/issues/92",
+      "createdAt": "2025-10-01T16:36:43.057Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
