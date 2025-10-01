@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1759358135146,
+      "id": 1759358171917,
       "repository": "okta/okta-signin-widget",
       "issueTitle": "CVE-2025-27789 is detected in this package",
       "url": "https://github.com/okta/okta-signin-widget/issues/3890",
-      "createdAt": "2025-10-01T22:35:35.146Z",
+      "createdAt": "2025-10-01T22:36:11.917Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
