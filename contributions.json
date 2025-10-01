@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759296027910,
+      "repository": "tc39/source-map-tests",
+      "issueTitle": "Add more in-depth tests for debuggers",
+      "url": "https://github.com/tc39/source-map-tests/issues/15",
+      "createdAt": "2025-10-01T05:20:27.910Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
