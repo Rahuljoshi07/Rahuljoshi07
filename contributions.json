@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759288610503,
+      "repository": "nextcloud/appstore",
+      "issueTitle": "`GET https://apps.nextcloud.com/api/v1/ apps.json` resulted in a `429 Too Many Requests`",
+      "url": "https://github.com/nextcloud/appstore/issues/1569",
+      "createdAt": "2025-10-01T03:16:50.503Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
