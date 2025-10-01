@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759291287446,
+      "repository": "mechatroner/vscode_rainbow_csv",
+      "issueTitle": "\"Input table has header\" do not show all the columns",
+      "url": "https://github.com/mechatroner/vscode_rainbow_csv/issues/222",
+      "createdAt": "2025-10-01T04:01:27.446Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
