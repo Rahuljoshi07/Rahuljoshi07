@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759322598539,
+      "repository": "nextcloud/twofactor_webauthn",
+      "issueTitle": "Webauthn authentications using user verification should not be subject to two-factor challenge",
+      "url": "https://github.com/nextcloud/twofactor_webauthn/issues/869",
+      "createdAt": "2025-10-01T12:43:18.539Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
