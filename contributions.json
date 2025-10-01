@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759318042324,
+      "repository": "pathpy/pathpyG",
+      "issueTitle": "Performance issue with HTML-based plots",
+      "url": "https://github.com/pathpy/pathpyG/issues/127",
+      "createdAt": "2025-10-01T11:27:22.324Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
