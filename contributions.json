@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759326404164,
+      "repository": "darkmentorllc/CLUES_Schema",
+      "issueTitle": "Bug: SortCLUES.py sorting order is incorrect",
+      "url": "https://github.com/darkmentorllc/CLUES_Schema/issues/2",
+      "createdAt": "2025-10-01T13:46:44.164Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
