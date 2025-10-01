@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759295215794,
+      "repository": "SECTL/SecRandom",
+      "issueTitle": "[BUG] 将软件使用安装包安装到默认路径后无法启动",
+      "url": "https://github.com/SECTL/SecRandom/issues/14",
+      "createdAt": "2025-10-01T05:06:55.794Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
