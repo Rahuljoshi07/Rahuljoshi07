@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759358135146,
+      "repository": "okta/okta-signin-widget",
+      "issueTitle": "CVE-2025-27789 is detected in this package",
+      "url": "https://github.com/okta/okta-signin-widget/issues/3890",
+      "createdAt": "2025-10-01T22:35:35.146Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
