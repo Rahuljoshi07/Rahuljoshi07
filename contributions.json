@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759329658623,
+      "repository": "CleverCloud/clever-components",
+      "issueTitle": "cc-addon-credentials-beta, cc-addon-info: display the error notice within the `cc-block`",
+      "url": "https://github.com/CleverCloud/clever-components/issues/1551",
+      "createdAt": "2025-10-01T14:40:58.623Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
