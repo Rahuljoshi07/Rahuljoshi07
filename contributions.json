@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759313541557,
+      "repository": "keycloak/keycloak-js",
+      "issueTitle": "stripHash adds trailing slash (breaks redirectUri)",
+      "url": "https://github.com/keycloak/keycloak-js/issues/151",
+      "createdAt": "2025-10-01T10:12:21.557Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
