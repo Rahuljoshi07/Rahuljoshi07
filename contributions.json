@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759330413660,
+      "repository": "sb-decoder/inquizzitive",
+      "issueTitle": "UI: Navlinks spacing issue | Not readable app name on the lightmode",
+      "url": "https://github.com/sb-decoder/inquizzitive/issues/34",
+      "createdAt": "2025-10-01T14:53:33.660Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
