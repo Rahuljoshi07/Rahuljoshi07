@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759426085401,
+      "repository": "mozilla-releng/balrog",
+      "issueTitle": "TypeError /v2.auslib_web_admin_views_releases_v2_update_release",
+      "url": "https://github.com/mozilla-releng/balrog/issues/2868",
+      "createdAt": "2025-10-02T17:28:05.401Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
