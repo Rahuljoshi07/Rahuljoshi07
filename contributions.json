@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759415809182,
+      "repository": "instadeepai/Mava",
+      "issueTitle": "[BUG] 'Ant' object has no attribute 'observation_spec",
+      "url": "https://github.com/instadeepai/Mava/issues/1189",
+      "createdAt": "2025-10-02T14:36:49.182Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
