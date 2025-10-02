@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759425388733,
+      "repository": "Apollon77/ioBroker.nut",
+      "issueTitle": "Some datapoints are string, but number would be better",
+      "url": "https://github.com/Apollon77/ioBroker.nut/issues/123",
+      "createdAt": "2025-10-02T17:16:28.733Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
