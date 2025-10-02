@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759413537144,
+      "repository": "cylc/cylc-uiserver",
+      "issueTitle": "small memory leak for new connections/subscriptions",
+      "url": "https://github.com/cylc/cylc-uiserver/issues/732",
+      "createdAt": "2025-10-02T13:58:57.144Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
