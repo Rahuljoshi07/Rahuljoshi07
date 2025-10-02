@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759438195307,
+      "repository": "MrPrimate/ddb-importer",
+      "issueTitle": "Hunter's Mark (Automation) effect incorrectly set to expire",
+      "url": "https://github.com/MrPrimate/ddb-importer/issues/567",
+      "createdAt": "2025-10-02T20:49:55.307Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
