@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759446956580,
+      "repository": "niels747/2D-Weather-Sandbox",
+      "issueTitle": "STUCK ON 30% issue is related to all snapdragon devices",
+      "url": "https://github.com/niels747/2D-Weather-Sandbox/issues/152",
+      "createdAt": "2025-10-02T23:15:56.580Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
