@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759366291220,
+      "repository": "nextcloud/forms",
+      "issueTitle": "Summary view only reflects the last 20 answers after update to Forms 5.2.0",
+      "url": "https://github.com/nextcloud/forms/issues/2943",
+      "createdAt": "2025-10-02T00:51:31.220Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
