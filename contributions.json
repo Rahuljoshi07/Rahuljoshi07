@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759433999603,
+      "repository": "grafana/azure-data-explorer-datasource",
+      "issueTitle": "Add request properties to datasource",
+      "url": "https://github.com/grafana/azure-data-explorer-datasource/issues/1139",
+      "createdAt": "2025-10-02T19:39:59.603Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
