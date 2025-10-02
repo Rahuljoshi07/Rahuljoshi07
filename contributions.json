@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759425946236,
+      "repository": "DevSyncx/DevSync",
+      "issueTitle": "Bug Fix: Google Signup/Login Redirection to Dashboard",
+      "url": "https://github.com/DevSyncx/DevSync/issues/89",
+      "createdAt": "2025-10-02T17:25:46.236Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
