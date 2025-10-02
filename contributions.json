@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759439015466,
+      "repository": "james-see/iptcinfo3",
+      "issueTitle": "AttributeError: 'IPTCInfo' object has no attribute '_fob'. Did you mean: '_fobj'?",
+      "url": "https://github.com/james-see/iptcinfo3/issues/41",
+      "createdAt": "2025-10-02T21:03:35.466Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
