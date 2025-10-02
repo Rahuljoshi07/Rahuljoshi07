@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759430206967,
+      "repository": "JulienMaille/spicetify-dynamic-theme",
+      "issueTitle": "Follow system dark/light theme powershell script is not working",
+      "url": "https://github.com/JulienMaille/spicetify-dynamic-theme/issues/122",
+      "createdAt": "2025-10-02T18:36:46.968Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
