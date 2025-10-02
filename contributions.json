@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759423426888,
+      "repository": "the-momentum/apple-health-mcp-server",
+      "issueTitle": "Inefficient use of tools",
+      "url": "https://github.com/the-momentum/apple-health-mcp-server/issues/38",
+      "createdAt": "2025-10-02T16:43:46.888Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
