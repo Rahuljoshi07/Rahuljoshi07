@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759424340679,
+      "repository": "aws-deadline/deadline-cloud",
+      "issueTitle": "Bug: Credentials error message is cut off in submitter GUI",
+      "url": "https://github.com/aws-deadline/deadline-cloud/issues/867",
+      "createdAt": "2025-10-02T16:59:00.679Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
