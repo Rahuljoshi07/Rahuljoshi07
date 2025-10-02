@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759430894436,
+      "repository": "sphinx-doc/sphinx-doc-translations",
+      "issueTitle": "Translation errors",
+      "url": "https://github.com/sphinx-doc/sphinx-doc-translations/issues/36",
+      "createdAt": "2025-10-02T18:48:14.436Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
