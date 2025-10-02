@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759366547751,
+      "repository": "GoogleChrome/chromium-dashboard",
+      "issueTitle": "Deprecation features don't get properly listed on the roadmap page",
+      "url": "https://github.com/GoogleChrome/chromium-dashboard/issues/3051",
+      "createdAt": "2025-10-02T00:55:47.751Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
