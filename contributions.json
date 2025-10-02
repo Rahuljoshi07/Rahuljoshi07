@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759371515302,
+      "repository": "eldertek/duplicatefinder",
+      "issueTitle": "[Bug]: Failed to handle file info event (Backends provided no user object)",
+      "url": "https://github.com/eldertek/duplicatefinder/issues/158",
+      "createdAt": "2025-10-02T02:18:35.302Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
