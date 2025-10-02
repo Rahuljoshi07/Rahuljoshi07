@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759439546418,
+      "repository": "jsonresume/jsonresume.org",
+      "issueTitle": "Schema Error When endDate is Missing in Work Experience (Should Allow \"Present\" for Ongoing Roles)",
+      "url": "https://github.com/jsonresume/jsonresume.org/issues/194",
+      "createdAt": "2025-10-02T21:12:26.418Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
