@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759388077977,
+      "repository": "anup2702/build-on-coffee",
+      "issueTitle": "UI Bug: “View details” text misaligned across cards",
+      "url": "https://github.com/anup2702/build-on-coffee/issues/424",
+      "createdAt": "2025-10-02T06:54:37.977Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
