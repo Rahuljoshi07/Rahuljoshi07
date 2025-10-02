@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759407063387,
+      "repository": "Clinical-Genomics/cg",
+      "issueTitle": "Bug: Unable to update Action column on https://cg-statusdb.scilifelab.se/admin/case/ when using Firefox",
+      "url": "https://github.com/Clinical-Genomics/cg/issues/4631",
+      "createdAt": "2025-10-02T12:11:03.387Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
