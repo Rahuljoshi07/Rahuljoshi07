@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759403471012,
+      "repository": "microsoft/scitt-ccf-ledger",
+      "issueTitle": "Missing critical header checking when using `did:x509` issuers?",
+      "url": "https://github.com/microsoft/scitt-ccf-ledger/issues/329",
+      "createdAt": "2025-10-02T11:11:11.012Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
