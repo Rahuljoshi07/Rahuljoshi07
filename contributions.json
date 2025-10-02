@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759368047106,
+      "repository": "AllTheMods/All-the-mods-10-Sky",
+      "issueTitle": "[Quest Bug]: AE2 Quest dont get completed",
+      "url": "https://github.com/AllTheMods/All-the-mods-10-Sky/issues/613",
+      "createdAt": "2025-10-02T01:20:47.106Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
