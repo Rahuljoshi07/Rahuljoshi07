@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759411258229,
+      "repository": "aws-samples/amazon-transcribe-live-call-analytics",
+      "issueTitle": "Bug Report: AWS CloudFormation Nested Stack Creation Failure - OpenSearch Domain Permissions Issue",
+      "url": "https://github.com/aws-samples/amazon-transcribe-live-call-analytics/issues/232",
+      "createdAt": "2025-10-02T13:20:58.229Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
