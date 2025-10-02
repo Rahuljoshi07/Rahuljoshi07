@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759423626876,
+      "repository": "cfpb/consumerfinance.gov",
+      "issueTitle": "Docker instructions for developing satellite apps incorrect",
+      "url": "https://github.com/cfpb/consumerfinance.gov/issues/8879",
+      "createdAt": "2025-10-02T16:47:06.876Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
