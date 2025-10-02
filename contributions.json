@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759434839192,
+      "repository": "wandb/weave",
+      "issueTitle": "Multiple architectural issues preventing clean imports and gql 4.0 compatibility",
+      "url": "https://github.com/wandb/weave/issues/5288",
+      "createdAt": "2025-10-02T19:53:59.192Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
