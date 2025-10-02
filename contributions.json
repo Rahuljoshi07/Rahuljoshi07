@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759392604130,
+      "repository": "ezpaarse-project/ezpaarse",
+      "issueTitle": "npm security issues - npm audit fix",
+      "url": "https://github.com/ezpaarse-project/ezpaarse/issues/179",
+      "createdAt": "2025-10-02T08:10:04.130Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
