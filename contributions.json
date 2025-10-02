@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1759408656632,
+      "id": 1759408721301,
       "repository": "physicshub/physicshub.github.io",
       "issueTitle": "[Bug]: Strange line in the homepage",
       "url": "https://github.com/physicshub/physicshub.github.io/issues/32",
-      "createdAt": "2025-10-02T12:37:36.632Z",
+      "createdAt": "2025-10-02T12:38:41.301Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
