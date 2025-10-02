@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1759379482848,
+      "id": 1759379526026,
       "repository": "fabian-beck/pure-suggest",
       "issueTitle": "Graph vanishes when switching from timeline view to cluster view ",
       "url": "https://github.com/fabian-beck/pure-suggest/issues/503",
-      "createdAt": "2025-10-02T04:31:22.848Z",
+      "createdAt": "2025-10-02T04:32:06.026Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
