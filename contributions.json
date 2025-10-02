@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759418756069,
+      "repository": "kesslerio/vibe-check-mcp",
+      "issueTitle": "[Test] Fix PR review external Claude method signatures (7 failures)",
+      "url": "https://github.com/kesslerio/vibe-check-mcp/issues/252",
+      "createdAt": "2025-10-02T15:25:56.070Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
