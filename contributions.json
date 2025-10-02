@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759422261660,
+      "repository": "MeghanaDG04/RECIPEDIA",
+      "issueTitle": "[BUG] pages not found",
+      "url": "https://github.com/MeghanaDG04/RECIPEDIA/issues/343",
+      "createdAt": "2025-10-02T16:24:21.660Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
