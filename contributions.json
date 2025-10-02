@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759420304595,
+      "repository": "0b01001001/spectree",
+      "issueTitle": "feat: If a connection is upgraded to websocket, it should by default skip validation",
+      "url": "https://github.com/0b01001001/spectree/issues/427",
+      "createdAt": "2025-10-02T15:51:44.595Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
