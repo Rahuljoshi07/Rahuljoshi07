@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759445514036,
+      "repository": "hyperledger-caliper/caliper",
+      "issueTitle": "Remove the generator package",
+      "url": "https://github.com/hyperledger-caliper/caliper/issues/1718",
+      "createdAt": "2025-10-02T22:51:54.036Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
