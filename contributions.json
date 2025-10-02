@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759415661621,
+      "repository": "microsoft/scitt-ccf-ledger",
+      "issueTitle": "scitt validate file on Python 3.13 fails but 3.12 succeeds",
+      "url": "https://github.com/microsoft/scitt-ccf-ledger/issues/307",
+      "createdAt": "2025-10-02T14:34:21.621Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
