@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759403884233,
+      "repository": "openzim/zimfarm",
+      "issueTitle": "Handle HTTP request timeouts nicely",
+      "url": "https://github.com/openzim/zimfarm/issues/832",
+      "createdAt": "2025-10-02T11:18:04.233Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
