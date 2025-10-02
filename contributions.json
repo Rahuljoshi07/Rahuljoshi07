@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759369761235,
+      "repository": "nextcloud/talk-desktop",
+      "issueTitle": "Talk app (windows) doesn't release Bluetooth audio after hanging up",
+      "url": "https://github.com/nextcloud/talk-desktop/issues/1412",
+      "createdAt": "2025-10-02T01:49:21.235Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
