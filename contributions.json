@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759409307333,
+      "repository": "TUDelft-CNS-ATM/bluesky",
+      "issueTitle": "Issue with limits() method from openap performance",
+      "url": "https://github.com/TUDelft-CNS-ATM/bluesky/issues/602",
+      "createdAt": "2025-10-02T12:48:27.333Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
