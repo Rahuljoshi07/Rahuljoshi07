@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759496143489,
+      "repository": "Esri/solutions-components",
+      "issueTitle": "BUG-000176576 Show Attachment and related table fields in Manager field picker so users can sort or change visibility",
+      "url": "https://github.com/Esri/solutions-components/issues/1617",
+      "createdAt": "2025-10-03T12:55:43.489Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
