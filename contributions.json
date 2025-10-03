@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759512358058,
+      "repository": "koldakov/futuramaapi",
+      "issueTitle": "Local development uses docker compose",
+      "url": "https://github.com/koldakov/futuramaapi/issues/11",
+      "createdAt": "2025-10-03T17:25:58.058Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
