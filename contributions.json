@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759519064023,
+      "repository": "pdreker/fritz_exporter",
+      "issueTitle": "CVE due to python issues and old base image",
+      "url": "https://github.com/pdreker/fritz_exporter/issues/505",
+      "createdAt": "2025-10-03T19:17:44.023Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
