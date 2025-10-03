@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759488179195,
+      "repository": "grindsa/acme2certifier",
+      "issueTitle": "certificate_name in hooks seems useless",
+      "url": "https://github.com/grindsa/acme2certifier/issues/264",
+      "createdAt": "2025-10-03T10:42:59.196Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
