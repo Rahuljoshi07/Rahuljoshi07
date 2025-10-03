@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759494589357,
+      "repository": "AIGNE-io/aigne-web-smith",
+      "issueTitle": "所有页面风格同质化严重，除了内容不一样，布局都很相似",
+      "url": "https://github.com/AIGNE-io/aigne-web-smith/issues/76",
+      "createdAt": "2025-10-03T12:29:49.357Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
