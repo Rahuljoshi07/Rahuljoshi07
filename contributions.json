@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759523890874,
+      "repository": "toebes/ciphers",
+      "issueTitle": "Checkerboard Issue",
+      "url": "https://github.com/toebes/ciphers/issues/667",
+      "createdAt": "2025-10-03T20:38:10.874Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
