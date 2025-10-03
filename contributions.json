@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1759497242787,
-      "repository": "dirkjanfaber/victron-vrm-api",
-      "issueTitle": "[BUG] start time \"Now\" results in unix timestamp 0",
-      "url": "https://github.com/dirkjanfaber/victron-vrm-api/issues/35",
-      "createdAt": "2025-10-03T13:14:02.787Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
