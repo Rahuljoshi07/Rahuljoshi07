@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759490708936,
+      "repository": "RNAcentral/rnacentral-webcode",
+      "issueTitle": "Postgress database query question",
+      "url": "https://github.com/RNAcentral/rnacentral-webcode/issues/634",
+      "createdAt": "2025-10-03T11:25:08.936Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
