@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759503231884,
+      "repository": "CERNDocumentServer/cds-videos",
+      "issueTitle": "Migrate multi video records",
+      "url": "https://github.com/CERNDocumentServer/cds-videos/issues/2119",
+      "createdAt": "2025-10-03T14:53:51.884Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
