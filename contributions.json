@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759506960645,
+      "repository": "nikku/feelin",
+      "issueTitle": "Accessing context property \"number\" throws exception when value is undefined",
+      "url": "https://github.com/nikku/feelin/issues/110",
+      "createdAt": "2025-10-03T15:56:00.645Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
