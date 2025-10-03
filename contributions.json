@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759503528050,
+      "repository": "shovel-heroes-org/shovel-heroes",
+      "issueTitle": "顯示需求是什麼時候被提出的（需求卡片時間戳）",
+      "url": "https://github.com/shovel-heroes-org/shovel-heroes/issues/54",
+      "createdAt": "2025-10-03T14:58:48.050Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
