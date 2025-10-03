@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759459828199,
+      "repository": "gbouras13/pharokka",
+      "issueTitle": "Issues with pharokka_multiplotter.py: IndexError: index -1 is out of bounds for axis 0 with size 0",
+      "url": "https://github.com/gbouras13/pharokka/issues/348",
+      "createdAt": "2025-10-03T02:50:28.199Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
