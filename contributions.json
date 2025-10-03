@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759458966384,
+      "repository": "Kailona/ehr",
+      "issueTitle": "Reverse the zoom icons process",
+      "url": "https://github.com/Kailona/ehr/issues/156",
+      "createdAt": "2025-10-03T02:36:06.384Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
