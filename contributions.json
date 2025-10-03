@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759483322139,
+      "repository": "RobertWesner/YouTube-Play-All",
+      "issueTitle": "Playall popular doesn't work on firefox mobile.",
+      "url": "https://github.com/RobertWesner/YouTube-Play-All/issues/38",
+      "createdAt": "2025-10-03T09:22:02.139Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
