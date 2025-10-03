@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759522331966,
+      "repository": "fastify/benchmarks",
+      "issueTitle": "Sveltekit Performance Benchmark Comparison",
+      "url": "https://github.com/fastify/benchmarks/issues/303",
+      "createdAt": "2025-10-03T20:12:11.966Z",
+      "type": "comment",
+      "content": "Using web workers for heavy computations could improve UI responsiveness. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
