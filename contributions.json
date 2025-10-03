@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759510708131,
+      "repository": "BerkeleyLearnVerify/Scenic",
+      "issueTitle": "Error using local variable in a requirement inside a setup block",
+      "url": "https://github.com/BerkeleyLearnVerify/Scenic/issues/392",
+      "createdAt": "2025-10-03T16:58:28.131Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
