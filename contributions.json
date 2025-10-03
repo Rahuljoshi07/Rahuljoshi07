@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759487523007,
+      "repository": "BibliothecaDAO/eternum",
+      "issueTitle": "[UI] Resource Transfer & Display Improvements",
+      "url": "https://github.com/BibliothecaDAO/eternum/issues/3625",
+      "createdAt": "2025-10-03T10:32:03.007Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
