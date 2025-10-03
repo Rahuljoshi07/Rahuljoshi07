@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759486019632,
+      "repository": "nikku/node-xsd-schema-validator",
+      "issueTitle": "Validation failing with \"invalid xml\" for incorrect file path",
+      "url": "https://github.com/nikku/node-xsd-schema-validator/issues/24",
+      "createdAt": "2025-10-03T10:06:59.632Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
