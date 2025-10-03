@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759458288867,
+      "repository": "amachino/qubex",
+      "issueTitle": "Rounding error due to floor division in `PulseSchedule.length`",
+      "url": "https://github.com/amachino/qubex/issues/159",
+      "createdAt": "2025-10-03T02:24:48.867Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
