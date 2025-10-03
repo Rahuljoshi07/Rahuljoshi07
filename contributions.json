@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759507561887,
+      "repository": "Adarsh-Chaubey03/TravelGrid",
+      "issueTitle": "Bug : Inconsistent Background on Contact Page",
+      "url": "https://github.com/Adarsh-Chaubey03/TravelGrid/issues/1309",
+      "createdAt": "2025-10-03T16:06:01.887Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
