@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759516363256,
+      "repository": "memeLab/Jandig",
+      "issueTitle": "Technical checks that the app needs to pass for launch",
+      "url": "https://github.com/memeLab/Jandig/issues/816",
+      "createdAt": "2025-10-03T18:32:43.256Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
