@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759452923767,
+      "repository": "publishpress/publishpress-checklists",
+      "issueTitle": "Uncaught SyntaxError: Identifier 'PPChStatusFilter' has already been declared",
+      "url": "https://github.com/publishpress/publishpress-checklists/issues/965",
+      "createdAt": "2025-10-03T00:55:23.767Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
