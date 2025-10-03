@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759522190454,
+      "repository": "fastify/benchmarks",
+      "issueTitle": "Compare benchmarks",
+      "url": "https://github.com/fastify/benchmarks/issues/407",
+      "createdAt": "2025-10-03T20:09:50.454Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
