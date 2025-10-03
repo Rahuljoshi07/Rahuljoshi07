@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759507314185,
+      "repository": "ros2/launch",
+      "issueTitle": "Include required arguments passed from commandline are not recognized",
+      "url": "https://github.com/ros2/launch/issues/907",
+      "createdAt": "2025-10-03T16:01:54.185Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
