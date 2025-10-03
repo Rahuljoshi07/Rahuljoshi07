@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759472095235,
+      "repository": "DHI/mikeio",
+      "issueTitle": "Memory leak / high usage when reading dfsu many times",
+      "url": "https://github.com/DHI/mikeio/issues/820",
+      "createdAt": "2025-10-03T06:14:55.235Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
