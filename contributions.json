@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759467694677,
+      "repository": "SantiagoMille/germinal",
+      "issueTitle": "Occasional error querying Chai server structure prediction",
+      "url": "https://github.com/SantiagoMille/germinal/issues/14",
+      "createdAt": "2025-10-03T05:01:34.677Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
