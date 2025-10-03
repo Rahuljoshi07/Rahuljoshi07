@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1759504153676,
-      "repository": "chung-leong/zigar",
-      "issueTitle": "Stutters when calling JavaScript callbacks thousands time per second",
-      "url": "https://github.com/chung-leong/zigar/issues/720",
-      "createdAt": "2025-10-03T15:09:13.676Z",
+      "id": 1759504218775,
+      "repository": "cozy/cozy-client",
+      "issueTitle": "Index not found error when querying with `undefined` attribute value",
+      "url": "https://github.com/cozy/cozy-client/issues/1627",
+      "createdAt": "2025-10-03T15:10:18.775Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
