@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759476417244,
+      "repository": "Linuxfabrik/monitoring-plugins",
+      "issueTitle": "Windows service.exe fails monitoring services where technical Service Name contains spaces",
+      "url": "https://github.com/Linuxfabrik/monitoring-plugins/issues/921",
+      "createdAt": "2025-10-03T07:26:57.244Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
