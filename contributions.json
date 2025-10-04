@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759547456885,
+      "repository": "petrobras/ccp",
+      "issueTitle": "Computational Errors of Gas Mixtures Containing 1-Pentene, 1,3-Butadiene, and Butene Isomers in CCP",
+      "url": "https://github.com/petrobras/ccp/issues/81",
+      "createdAt": "2025-10-04T03:10:56.885Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
