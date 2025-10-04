@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759547971864,
+      "repository": "themotte/rDrama",
+      "issueTitle": "Figure out what's causing Python 3.11 instability",
+      "url": "https://github.com/themotte/rDrama/issues/446",
+      "createdAt": "2025-10-04T03:19:31.864Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
