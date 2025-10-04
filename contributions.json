@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759582475104,
+      "repository": "RhythmPahwa14/AlgoVisualizer",
+      "issueTitle": "Bug: Navbar Misalignment in Mobile View & Notification Icon Alignment Issue",
+      "url": "https://github.com/RhythmPahwa14/AlgoVisualizer/issues/1011",
+      "createdAt": "2025-10-04T12:54:35.104Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
