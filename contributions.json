@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759542410114,
+      "repository": "nextcloud/talk-desktop",
+      "issueTitle": "Only the first 1-2 seconds of the video are played.",
+      "url": "https://github.com/nextcloud/talk-desktop/issues/1476",
+      "createdAt": "2025-10-04T01:46:50.114Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
