@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759546299891,
+      "repository": "Anmol-TheDev/Music_app",
+      "issueTitle": "Proper Error handling in auth",
+      "url": "https://github.com/Anmol-TheDev/Music_app/issues/61",
+      "createdAt": "2025-10-04T02:51:39.891Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
