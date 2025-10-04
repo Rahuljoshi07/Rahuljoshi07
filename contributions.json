@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759615836271,
+      "repository": "PreferredAI/cornac",
+      "issueTitle": "[BUG] GLIBC_2.29 not found when importing cornac in Python 3.10 environment",
+      "url": "https://github.com/PreferredAI/cornac/issues/659",
+      "createdAt": "2025-10-04T22:10:36.271Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
