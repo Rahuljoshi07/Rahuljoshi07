@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759608258690,
+      "repository": "foxthefox/ioBroker.musiccast",
+      "issueTitle": "Please consider fixing issues detected by repository checker",
+      "url": "https://github.com/foxthefox/ioBroker.musiccast/issues/482",
+      "createdAt": "2025-10-04T20:04:18.690Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
