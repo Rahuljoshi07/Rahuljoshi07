@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759546894993,
+      "repository": "interaction-lab/PyLips",
+      "issueTitle": "[BUG] Installation results in failed pyobjc-framework-Cocoa",
+      "url": "https://github.com/interaction-lab/PyLips/issues/1",
+      "createdAt": "2025-10-04T03:01:34.994Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
