@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759607955852,
+      "repository": "SOLVE-IT-DF/solve-it",
+      "issueTitle": "Add better error handling for when there are problems in the /data folder",
+      "url": "https://github.com/SOLVE-IT-DF/solve-it/issues/202",
+      "createdAt": "2025-10-04T19:59:15.852Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
