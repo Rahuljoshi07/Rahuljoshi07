@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759544134393,
+      "repository": "somiibo/soundcloud-play-generator-bot",
+      "issueTitle": "bad proxy",
+      "url": "https://github.com/somiibo/soundcloud-play-generator-bot/issues/4",
+      "createdAt": "2025-10-04T02:15:34.393Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
