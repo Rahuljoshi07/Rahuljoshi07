@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759570041663,
+      "repository": "eccentriccoder01/Venturalink",
+      "issueTitle": "No hover effect on FAQ questions in Help page",
+      "url": "https://github.com/eccentriccoder01/Venturalink/issues/189",
+      "createdAt": "2025-10-04T09:27:21.663Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
