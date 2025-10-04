@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759558209253,
+      "repository": "unoplat/unoplat-code-confluence",
+      "issueTitle": "feat: support migration in case of database schema change for postgres",
+      "url": "https://github.com/unoplat/unoplat-code-confluence/issues/882",
+      "createdAt": "2025-10-04T06:10:09.253Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
