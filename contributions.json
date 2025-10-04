@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759601754326,
+      "repository": "mr-fatalyst/fastopenapi",
+      "issueTitle": "[Feature] Django integration",
+      "url": "https://github.com/mr-fatalyst/fastopenapi/issues/9",
+      "createdAt": "2025-10-04T18:15:54.326Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
