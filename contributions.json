@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1759582707746,
+      "id": 1759582746852,
       "repository": "physicshub/physicshub.github.io",
       "issueTitle": "[Bug]: When “enable trail” is switched, background color changes unexpectedly.",
       "url": "https://github.com/physicshub/physicshub.github.io/issues/14",
-      "createdAt": "2025-10-04T12:58:27.746Z",
+      "createdAt": "2025-10-04T12:59:06.852Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
