@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759567167245,
+      "repository": "lallulli/songpress",
+      "issueTitle": "1.81 on Win 11 gives Error: Something unexpected happened on startup",
+      "url": "https://github.com/lallulli/songpress/issues/58",
+      "createdAt": "2025-10-04T08:39:27.245Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
