@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759594049077,
+      "repository": "sb-decoder/inquizzitive",
+      "issueTitle": "Make the website responsive and consistent fully for all screen sizes specially for mobile screen",
+      "url": "https://github.com/sb-decoder/inquizzitive/issues/93",
+      "createdAt": "2025-10-04T16:07:29.077Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
