@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759570106857,
+      "repository": "actualbudget/docs",
+      "issueTitle": "[Bug]: Inconsistent language in the UI",
+      "url": "https://github.com/actualbudget/docs/issues/793",
+      "createdAt": "2025-10-04T09:28:26.857Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
