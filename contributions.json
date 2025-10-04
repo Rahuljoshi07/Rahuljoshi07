@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759593891206,
+      "repository": "BottlecapDave/HomeAssistant-OctopusEnergy",
+      "issueTitle": "Integration does not seem to be picking up the correct current electricity rate anymore",
+      "url": "https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy/issues/1496",
+      "createdAt": "2025-10-04T16:04:51.206Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
