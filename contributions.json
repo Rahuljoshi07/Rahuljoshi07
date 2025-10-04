@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759569592263,
+      "repository": "Jasons-impart/Create-Delight-Remake",
+      "issueTitle": "使用桶装液态乙烯右键烈焰人燃烧室会吞桶",
+      "url": "https://github.com/Jasons-impart/Create-Delight-Remake/issues/974",
+      "createdAt": "2025-10-04T09:19:52.263Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
