@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1759540732751,
-      "repository": "nextcloud/maps",
-      "issueTitle": "[Bug]: Maps app fails with \"Undefined constant OCP\\Share::SHARE_TYPE_USER\" on Nextcloud 32",
-      "url": "https://github.com/nextcloud/maps/issues/1469",
-      "createdAt": "2025-10-04T01:18:52.751Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
