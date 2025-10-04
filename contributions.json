@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1759542410114,
+      "id": 1759542449843,
       "repository": "nextcloud/talk-desktop",
       "issueTitle": "Only the first 1-2 seconds of the video are played.",
       "url": "https://github.com/nextcloud/talk-desktop/issues/1476",
-      "createdAt": "2025-10-04T01:46:50.114Z",
+      "createdAt": "2025-10-04T01:47:29.843Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
