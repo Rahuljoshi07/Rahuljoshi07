@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759581797282,
+      "repository": "JasdewStarfield/Path-of-Truth",
+      "issueTitle": "切换维度后，篝火等方块的温度影响会无效化",
+      "url": "https://github.com/JasdewStarfield/Path-of-Truth/issues/42",
+      "createdAt": "2025-10-04T12:43:17.282Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
