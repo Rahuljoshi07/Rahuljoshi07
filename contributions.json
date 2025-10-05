@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759700296398,
+      "repository": "keyteki/keyteki",
+      "issueTitle": " cannot search deck by uppercase cyrillic characters",
+      "url": "https://github.com/keyteki/keyteki/issues/2022",
+      "createdAt": "2025-10-05T21:38:16.398Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
