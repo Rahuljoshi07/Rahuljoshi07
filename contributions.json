@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759660962110,
+      "repository": "grindsa/acme2certifier",
+      "issueTitle": "Add ability to control who can issue certs based on DNS PTR records",
+      "url": "https://github.com/grindsa/acme2certifier/issues/259",
+      "createdAt": "2025-10-05T10:42:42.110Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
