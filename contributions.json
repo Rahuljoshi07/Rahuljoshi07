@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1759683217001,
+      "id": 1759683252044,
       "repository": "orangecoding/fredy",
       "issueTitle": "[Bug]: Can't delete listing",
       "url": "https://github.com/orangecoding/fredy/issues/216",
-      "createdAt": "2025-10-05T16:53:37.001Z",
+      "createdAt": "2025-10-05T16:54:12.044Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
