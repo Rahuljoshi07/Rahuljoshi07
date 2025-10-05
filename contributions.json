@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759667058285,
+      "repository": "seuyh/stellaris-dlc-unlocker",
+      "issueTitle": "{BUG}You do not own this DLC",
+      "url": "https://github.com/seuyh/stellaris-dlc-unlocker/issues/63",
+      "createdAt": "2025-10-05T12:24:18.285Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
