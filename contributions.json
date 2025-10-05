@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759666022522,
+      "repository": "neuromorph/openbar",
+      "issueTitle": "Error with gnome 49 on Fedora 43 (can't access property \"get_child_at_index\",dndBtn is null)",
+      "url": "https://github.com/neuromorph/openbar/issues/144",
+      "createdAt": "2025-10-05T12:07:02.523Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
