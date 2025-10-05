@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759629919769,
+      "repository": "sb-decoder/inquizzitive",
+      "issueTitle": "fix api key exposure vuln",
+      "url": "https://github.com/sb-decoder/inquizzitive/issues/118",
+      "createdAt": "2025-10-05T02:05:19.769Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
