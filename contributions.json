@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759700871317,
+      "repository": "isle-project/isle-editor",
+      "issueTitle": "[Bug]: issues with alertUnfinished",
+      "url": "https://github.com/isle-project/isle-editor/issues/3586",
+      "createdAt": "2025-10-05T21:47:51.317Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
