@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759646366556,
+      "repository": "Emano-Waldeck/Save-Tabs",
+      "issueTitle": "[BUG] Export error",
+      "url": "https://github.com/Emano-Waldeck/Save-Tabs/issues/17",
+      "createdAt": "2025-10-05T06:39:26.556Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
