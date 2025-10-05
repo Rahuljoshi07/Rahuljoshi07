@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759672455159,
+      "repository": "zuckung/endless-sky-plugins",
+      "issueTitle": "Galactic Capital Investments Withdraw bug",
+      "url": "https://github.com/zuckung/endless-sky-plugins/issues/40",
+      "createdAt": "2025-10-05T13:54:15.159Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
