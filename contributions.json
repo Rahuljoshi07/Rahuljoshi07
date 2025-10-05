@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759648564526,
+      "repository": "marv1nnnnn/llm-min.txt",
+      "issueTitle": "ERROR - Full content resulted in no document chunks. Aborting.",
+      "url": "https://github.com/marv1nnnnn/llm-min.txt/issues/4",
+      "createdAt": "2025-10-05T07:16:04.526Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
