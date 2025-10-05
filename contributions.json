@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759649507042,
+      "repository": "xrip/ollama-api-proxy",
+      "issueTitle": "[feat] Add support for embedding models",
+      "url": "https://github.com/xrip/ollama-api-proxy/issues/3",
+      "createdAt": "2025-10-05T07:31:47.042Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
