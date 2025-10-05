@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759647670287,
+      "repository": "Shasnow/StarRailAssistant",
+      "issueTitle": "巡星之礼无法识别",
+      "url": "https://github.com/Shasnow/StarRailAssistant/issues/48",
+      "createdAt": "2025-10-05T07:01:10.287Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
