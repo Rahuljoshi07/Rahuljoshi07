@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759661091472,
+      "repository": "OHF-Voice/intents",
+      "issueTitle": "QUESTION about the performance when the amount of sentences increase",
+      "url": "https://github.com/OHF-Voice/intents/issues/3507",
+      "createdAt": "2025-10-05T10:44:51.472Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
