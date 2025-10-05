@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759658329115,
+      "repository": "mohitahlawat2001/ApothecaryShop",
+      "issueTitle": "Make Google OAuth callback URL configurable via environment variable",
+      "url": "https://github.com/mohitahlawat2001/ApothecaryShop/issues/25",
+      "createdAt": "2025-10-05T09:58:49.115Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
