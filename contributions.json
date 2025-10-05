@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759685637763,
+      "repository": "davidusb-geek/emhass",
+      "issueTitle": "Daylight savings Austrailia - pytz.exceptions.NonExistentTimeError: 2025-10-05 02:00:00",
+      "url": "https://github.com/davidusb-geek/emhass/issues/590",
+      "createdAt": "2025-10-05T17:33:57.763Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
