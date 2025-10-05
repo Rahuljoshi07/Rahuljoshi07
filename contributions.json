@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759625755542,
+      "repository": "nextcloud/health",
+      "issueTitle": "please update app compatibility to NC32",
+      "url": "https://github.com/nextcloud/health/issues/226",
+      "createdAt": "2025-10-05T00:55:55.542Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
