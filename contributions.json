@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759690571050,
+      "repository": "jsonresume/jsonresume.org",
+      "issueTitle": "Security: Low severity prototype pollution in min-document (react-force-graph dependency)",
+      "url": "https://github.com/jsonresume/jsonresume.org/issues/222",
+      "createdAt": "2025-10-05T18:56:11.050Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
