@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759624976577,
+      "repository": "nextcloud/files_mindmap",
+      "issueTitle": "nextcloud版 建立的思维导图分享出去的时候 打不开阿",
+      "url": "https://github.com/nextcloud/files_mindmap/issues/227",
+      "createdAt": "2025-10-05T00:42:56.577Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
