@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759651401632,
+      "repository": "TheDanniCraft/activity-log",
+      "issueTitle": "[🛠️] Group issues instead of displaying multiple",
+      "url": "https://github.com/TheDanniCraft/activity-log/issues/25",
+      "createdAt": "2025-10-05T08:03:21.632Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
