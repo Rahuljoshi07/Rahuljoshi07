@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759777873841,
+      "repository": "nagcas/TerraQuakeApi",
+      "issueTitle": "UI Bug: Image Hover Covers Text on Home Page",
+      "url": "https://github.com/nagcas/TerraQuakeApi/issues/241",
+      "createdAt": "2025-10-06T19:11:13.841Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
