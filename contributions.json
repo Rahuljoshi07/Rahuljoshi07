@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1759780305692,
-      "repository": "vesanieminen/ElectricityCostDashboard",
-      "issueTitle": "Bug: Spot margin shouldn't be included in \"Hintakiinnitys\"",
-      "url": "https://github.com/vesanieminen/ElectricityCostDashboard/issues/31",
-      "createdAt": "2025-10-06T19:51:45.692Z",
+      "id": 1759780341347,
+      "repository": "website-scraper/website-scraper-puppeteer",
+      "issueTitle": "\"Error: Execution context was destroyed, most likely because of a navigation.\"",
+      "url": "https://github.com/website-scraper/website-scraper-puppeteer/issues/135",
+      "createdAt": "2025-10-06T19:52:21.347Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
