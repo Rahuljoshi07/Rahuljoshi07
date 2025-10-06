@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759764045040,
+      "repository": "ethereum/execution-spec-tests",
+      "issueTitle": "Add `extra_forbid` to `CamelModel` and fix errors",
+      "url": "https://github.com/ethereum/execution-spec-tests/issues/2198",
+      "createdAt": "2025-10-06T15:20:45.040Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
