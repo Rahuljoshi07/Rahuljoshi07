@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759755225242,
+      "repository": "zytedata/zyte-common-items",
+      "issueTitle": "Do not warn about ae on pipeline import",
+      "url": "https://github.com/zytedata/zyte-common-items/issues/131",
+      "createdAt": "2025-10-06T12:53:45.242Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
