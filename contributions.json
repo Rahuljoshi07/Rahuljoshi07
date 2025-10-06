@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759794887387,
+      "repository": "GreenInfo-Network/nyc-crash-mapper",
+      "issueTitle": "Ranking by intersections, seems not to be working",
+      "url": "https://github.com/GreenInfo-Network/nyc-crash-mapper/issues/112",
+      "createdAt": "2025-10-06T23:54:47.387Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
