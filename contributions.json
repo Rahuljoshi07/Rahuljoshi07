@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759757549520,
+      "repository": "oskarrough/slaytheweb",
+      "issueTitle": "How to handle deprecated cards",
+      "url": "https://github.com/oskarrough/slaytheweb/issues/253",
+      "createdAt": "2025-10-06T13:32:29.520Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
