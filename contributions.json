@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759784127327,
+      "repository": "django-cms/djangocms-text",
+      "issueTitle": "bug: Rich text editor initializes on empty-form when using StackedInline and leads to two RTE instances",
+      "url": "https://github.com/django-cms/djangocms-text/issues/123",
+      "createdAt": "2025-10-06T20:55:27.327Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
