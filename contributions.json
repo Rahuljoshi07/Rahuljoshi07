@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1759746802713,
+      "id": 1759746854946,
       "repository": "remarkablemark/html-dom-parser",
-      "issueTitle": "Add Deno support",
-      "url": "https://github.com/remarkablemark/html-dom-parser/issues/181",
-      "createdAt": "2025-10-06T10:33:22.713Z",
+      "issueTitle": "[client] cannot properly parse `<head>` when using CRLF",
+      "url": "https://github.com/remarkablemark/html-dom-parser/issues/1067",
+      "createdAt": "2025-10-06T10:34:14.946Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
