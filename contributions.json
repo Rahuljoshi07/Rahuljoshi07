@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759746574399,
+      "repository": "pySmartThings/pysmartthings",
+      "issueTitle": "Smoke Detector Category Error",
+      "url": "https://github.com/pySmartThings/pysmartthings/issues/479",
+      "createdAt": "2025-10-06T10:29:34.399Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
