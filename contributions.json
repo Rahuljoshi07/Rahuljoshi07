@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759743404660,
+      "repository": "hotosm/field-tm",
+      "issueTitle": "If QField project creation fails, the user should be informed and not continue",
+      "url": "https://github.com/hotosm/field-tm/issues/2841",
+      "createdAt": "2025-10-06T09:36:44.660Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
