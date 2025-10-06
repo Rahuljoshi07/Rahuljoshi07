@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1759780341347,
-      "repository": "website-scraper/website-scraper-puppeteer",
-      "issueTitle": "\"Error: Execution context was destroyed, most likely because of a navigation.\"",
-      "url": "https://github.com/website-scraper/website-scraper-puppeteer/issues/135",
-      "createdAt": "2025-10-06T19:52:21.347Z",
-      "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
