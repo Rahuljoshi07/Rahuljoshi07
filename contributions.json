@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1759713576866,
-      "repository": "Readme-Workflows/recent-activity",
-      "issueTitle": "Bug report: Invalid status code: 1 at ChildProcess (/recent-activity/v2.4.1/dist/index.js:20:171504)",
-      "url": "https://github.com/Readme-Workflows/recent-activity/issues/323",
-      "createdAt": "2025-10-06T01:19:36.866Z",
+      "id": 1759713623768,
+      "repository": "nextcloud/maps",
+      "issueTitle": "[Bug]: Maps app fails with \"Undefined constant OCP\\Share::SHARE_TYPE_USER\" on Nextcloud 32",
+      "url": "https://github.com/nextcloud/maps/issues/1469",
+      "createdAt": "2025-10-06T01:20:23.768Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
