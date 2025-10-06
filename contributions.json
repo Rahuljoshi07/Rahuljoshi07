@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1759740498474,
-      "repository": "confluentinc/confluent-kafka-javascript",
-      "issueTitle": "segmentation fault on fetchOffsets for unseen groups",
-      "url": "https://github.com/confluentinc/confluent-kafka-javascript/issues/374",
-      "createdAt": "2025-10-06T08:48:18.475Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
