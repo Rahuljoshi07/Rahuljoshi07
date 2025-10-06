@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759732236783,
+      "repository": "guillaumezin/DomoticzEbusd",
+      "issueTitle": "(ebusd) Impossible to parse JSON, got exception name 'ValueError' is not defined",
+      "url": "https://github.com/guillaumezin/DomoticzEbusd/issues/7",
+      "createdAt": "2025-10-06T06:30:36.783Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
