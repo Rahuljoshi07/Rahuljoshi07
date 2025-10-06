@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759740601459,
+      "repository": "doberkofler/web_plsql",
+      "issueTitle": "Error not catched in execute Request",
+      "url": "https://github.com/doberkofler/web_plsql/issues/15",
+      "createdAt": "2025-10-06T08:50:01.459Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
