@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759756290476,
+      "repository": "nextcloud/text",
+      "issueTitle": "Migrate cypress e2e and component tests to playwright",
+      "url": "https://github.com/nextcloud/text/issues/5946",
+      "createdAt": "2025-10-06T13:11:30.476Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
