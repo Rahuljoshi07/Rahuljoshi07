@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759769827911,
+      "repository": "NCAR/MPAS-Workflow",
+      "issueTitle": "The 3dvar_O30kmIE60km_ColdStart test hangs in the Variational1 step.",
+      "url": "https://github.com/NCAR/MPAS-Workflow/issues/384",
+      "createdAt": "2025-10-06T16:57:07.911Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
