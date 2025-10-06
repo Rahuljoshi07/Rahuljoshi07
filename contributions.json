@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1759789570191,
+      "id": 1759789610297,
       "repository": "adobe/aio-cli-plugin-app",
       "issueTitle": "cannot create a sequence with an action that has `web:yes` property and `require-adobe-auth: true` annotation",
       "url": "https://github.com/adobe/aio-cli-plugin-app/issues/881",
-      "createdAt": "2025-10-06T22:26:10.192Z",
+      "createdAt": "2025-10-06T22:26:50.298Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
