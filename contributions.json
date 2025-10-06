@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759780254449,
+      "repository": "typeddjango/djangorestframework-stubs",
+      "issueTitle": "Support for singleton types in unions requires `empty` to be Enum",
+      "url": "https://github.com/typeddjango/djangorestframework-stubs/issues/42",
+      "createdAt": "2025-10-06T19:50:54.449Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
