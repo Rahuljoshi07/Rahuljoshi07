@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759787448777,
+      "repository": "elastic/elastic-otel-node",
+      "issueTitle": "use npm \"trusted publishing\"",
+      "url": "https://github.com/elastic/elastic-otel-node/issues/1041",
+      "createdAt": "2025-10-06T21:50:48.777Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
