@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759759888903,
+      "repository": "ajaxloadmore/ajax-load-more",
+      "issueTitle": "414 Entity-Too-Large errors",
+      "url": "https://github.com/ajaxloadmore/ajax-load-more/issues/182",
+      "createdAt": "2025-10-06T14:11:28.903Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
