@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759810883514,
+      "repository": "codefuse-ai/CodeFuse-Embeddings",
+      "issueTitle": " AttributeError: 'CodeFuseCGELargeConfig' object has no attribute 'rope_scaling'",
+      "url": "https://github.com/codefuse-ai/CodeFuse-Embeddings/issues/4",
+      "createdAt": "2025-10-07T04:21:23.514Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
