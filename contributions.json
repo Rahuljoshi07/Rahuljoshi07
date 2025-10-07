@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759862618600,
+      "repository": "code-well0/trip-planner",
+      "issueTitle": "Issue: Navbar Layout & Theme Toggle UX",
+      "url": "https://github.com/code-well0/trip-planner/issues/333",
+      "createdAt": "2025-10-07T18:43:38.600Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
