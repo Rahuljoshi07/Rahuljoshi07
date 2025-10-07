@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759857602918,
+      "repository": "2b3pro/markdown2pdf-mcp",
+      "issueTitle": "Bug Report: Windows Path Handling Issue",
+      "url": "https://github.com/2b3pro/markdown2pdf-mcp/issues/6",
+      "createdAt": "2025-10-07T17:20:02.918Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
