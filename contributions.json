@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759861723006,
+      "repository": "vigo/django-admin-list-filter",
+      "issueTitle": "[BUG] Repopulation of filter input broken for DALFRelatedFieldAjax",
+      "url": "https://github.com/vigo/django-admin-list-filter/issues/18",
+      "createdAt": "2025-10-07T18:28:43.006Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
