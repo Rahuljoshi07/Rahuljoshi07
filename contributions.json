@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759872262127,
+      "repository": "patternfly/patternfly-org",
+      "issueTitle": "Bug - theme/RTL toggles in full screen demos cover important parts of demos",
+      "url": "https://github.com/patternfly/patternfly-org/issues/4162",
+      "createdAt": "2025-10-07T21:24:22.127Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
