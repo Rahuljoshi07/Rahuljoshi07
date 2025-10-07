@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759826658707,
+      "repository": "Jasons-impart/Create-Delight-Remake",
+      "issueTitle": "商店回收缺少了熟牛肉.",
+      "url": "https://github.com/Jasons-impart/Create-Delight-Remake/issues/997",
+      "createdAt": "2025-10-07T08:44:18.707Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
