@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759829158092,
+      "repository": "omnetpp/opp_env",
+      "issueTitle": "Cannot start omnetpp on linux",
+      "url": "https://github.com/omnetpp/opp_env/issues/27",
+      "createdAt": "2025-10-07T09:25:58.093Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
