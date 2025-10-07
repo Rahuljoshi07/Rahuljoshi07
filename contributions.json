@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759829873888,
+      "repository": "sipeed/sipeed_wiki",
+      "issueTitle": "Draft issue: Please provide more information",
+      "url": "https://github.com/sipeed/sipeed_wiki/issues/864",
+      "createdAt": "2025-10-07T09:37:53.888Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
