@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759871325497,
+      "repository": "marcocesarato/react-native-big-list",
+      "issueTitle": "dynamic item height issue",
+      "url": "https://github.com/marcocesarato/react-native-big-list/issues/347",
+      "createdAt": "2025-10-07T21:08:45.497Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
