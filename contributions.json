@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759843315036,
+      "repository": "heysaiyad/dev-toolkit",
+      "issueTitle": "[BUG] The home page and cards seems broken",
+      "url": "https://github.com/heysaiyad/dev-toolkit/issues/336",
+      "createdAt": "2025-10-07T13:21:55.036Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
