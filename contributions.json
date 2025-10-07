@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759881556494,
+      "repository": "architecture-building-systems/CityEnergyAnalyst",
+      "issueTitle": "[Bug]: `Total_demand_hourly.csv` includes meaningless values",
+      "url": "https://github.com/architecture-building-systems/CityEnergyAnalyst/issues/3918",
+      "createdAt": "2025-10-07T23:59:16.495Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
