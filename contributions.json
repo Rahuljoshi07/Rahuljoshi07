@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1759843128024,
-      "repository": "harung1993/dollardollar",
-      "issueTitle": "Bug: Budget section displays USD despite base currency set to INR",
-      "url": "https://github.com/harung1993/dollardollar/issues/119",
-      "createdAt": "2025-10-07T13:18:48.024Z",
+      "id": 1759843157854,
+      "repository": "ptarmiganlabs/butler",
+      "issueTitle": "Bug: Butler crashes when receiving UDP message regarding successful completion of External Program Task",
+      "url": "https://github.com/ptarmiganlabs/butler/issues/1509",
+      "createdAt": "2025-10-07T13:19:17.854Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
