@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759820886859,
+      "repository": "nephila/djangocms-blog",
+      "issueTitle": "Allow duplicate categories wrt appconfigs",
+      "url": "https://github.com/nephila/djangocms-blog/issues/804",
+      "createdAt": "2025-10-07T07:08:06.859Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
