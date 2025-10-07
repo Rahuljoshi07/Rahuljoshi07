@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759867329664,
+      "repository": "rollbar/rollbar.js",
+      "issueTitle": "CVE-2025-57325: Rollbar vulnerable to prototype pollution",
+      "url": "https://github.com/rollbar/rollbar.js/issues/1333",
+      "createdAt": "2025-10-07T20:02:09.664Z",
+      "type": "comment",
+      "content": "Adding TypeScript could improve code quality and maintainability. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
