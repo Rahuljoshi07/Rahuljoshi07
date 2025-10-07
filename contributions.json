@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759819114862,
+      "repository": "kreshuklab/plant-seg",
+      "issueTitle": "Assertion error while using the nuclei matching to improve a Cell segmentation",
+      "url": "https://github.com/kreshuklab/plant-seg/issues/473",
+      "createdAt": "2025-10-07T06:38:34.862Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
