@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759803241711,
+      "repository": "cwilby/nextcloud-workflow-media-converter",
+      "issueTitle": "can't get it to work, no error message given",
+      "url": "https://github.com/cwilby/nextcloud-workflow-media-converter/issues/491",
+      "createdAt": "2025-10-07T02:14:01.711Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
