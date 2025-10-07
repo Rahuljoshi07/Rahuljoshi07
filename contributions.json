@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759828266958,
+      "repository": "sertit/eoreader",
+      "issueTitle": "error when setting pixel size or the resolution to your data",
+      "url": "https://github.com/sertit/eoreader/issues/251",
+      "createdAt": "2025-10-07T09:11:06.958Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
