@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759821281442,
+      "repository": "element-hq/ess-helm",
+      "issueTitle": "Error \"Failed to load the server's well-known document\" when using admin.myserver.tld",
+      "url": "https://github.com/element-hq/ess-helm/issues/769",
+      "createdAt": "2025-10-07T07:14:41.442Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
