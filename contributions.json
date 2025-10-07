@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759822668346,
+      "repository": "mne-tools/mne-bids",
+      "issueTitle": "ValueError: datatype (func) is not valid. Should be one of ['meg', 'eeg', 'ieeg', 'nirs', 'anat', 'beh']",
+      "url": "https://github.com/mne-tools/mne-bids/issues/1385",
+      "createdAt": "2025-10-07T07:37:48.346Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
