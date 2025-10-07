@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759853769518,
+      "repository": "widelands/widelands-website",
+      "issueTitle": "Wiki History Feeds didn't work",
+      "url": "https://github.com/widelands/widelands-website/issues/481",
+      "createdAt": "2025-10-07T16:16:09.518Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
