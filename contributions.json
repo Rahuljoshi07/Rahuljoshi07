@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759845402364,
+      "repository": "mlte-team/mlte",
+      "issueTitle": "Bug in Artifact unit tests",
+      "url": "https://github.com/mlte-team/mlte/issues/736",
+      "createdAt": "2025-10-07T13:56:42.364Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
