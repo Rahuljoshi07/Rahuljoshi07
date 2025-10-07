@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759817105679,
+      "repository": "zero-to-mastery/ZTM-Quest",
+      "issueTitle": "Update UI of buttons: new game, start, debug and volume",
+      "url": "https://github.com/zero-to-mastery/ZTM-Quest/issues/217",
+      "createdAt": "2025-10-07T06:05:05.679Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
