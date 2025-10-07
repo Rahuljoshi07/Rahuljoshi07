@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759867658303,
+      "repository": "azavea/cac-tripplanner",
+      "issueTitle": "Fix local trip routing error response",
+      "url": "https://github.com/azavea/cac-tripplanner/issues/1411",
+      "createdAt": "2025-10-07T20:07:38.303Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
