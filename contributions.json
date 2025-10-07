@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1759881342118,
-      "repository": "2M4U/2m4u",
-      "issueTitle": "Possible fixes for update.js",
-      "url": "https://github.com/2M4U/2m4u/issues/6",
-      "createdAt": "2025-10-07T23:55:42.118Z",
+      "id": 1759881391006,
+      "repository": "cogent3/cogent3",
+      "issueTitle": "refactor get_motif_probs for performance",
+      "url": "https://github.com/cogent3/cogent3/issues/2479",
+      "createdAt": "2025-10-07T23:56:31.006Z",
       "type": "comment",
-      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
