@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759852126773,
+      "repository": "maxlath/wikibase-cli",
+      "issueTitle": "wb search: --properties results get ignored when --json is specified",
+      "url": "https://github.com/maxlath/wikibase-cli/issues/180",
+      "createdAt": "2025-10-07T15:48:46.773Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
