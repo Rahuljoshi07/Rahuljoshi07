@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759846295802,
+      "repository": "mozmeao/basket",
+      "issueTitle": "EPIC: Migrate API to django-ninja",
+      "url": "https://github.com/mozmeao/basket/issues/1530",
+      "createdAt": "2025-10-07T14:11:35.803Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
