@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759967395754,
+      "repository": "readmeio/rdme",
+      "issueTitle": "Flaky rdme update docs: Unexpected token Error",
+      "url": "https://github.com/readmeio/rdme/issues/1325",
+      "createdAt": "2025-10-08T23:49:55.754Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
