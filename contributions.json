@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759917456864,
+      "repository": "JetBrains/rider-theme-pack",
+      "issueTitle": "Horizontal scroll bar issue",
+      "url": "https://github.com/JetBrains/rider-theme-pack/issues/17",
+      "createdAt": "2025-10-08T09:57:36.864Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
