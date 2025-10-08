@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759921404157,
+      "repository": "gardenlinux/gardenlinux",
+      "issueTitle": "Can't setup a python enviroment with `pip3` in multi-stage with the python-bare flavour",
+      "url": "https://github.com/gardenlinux/gardenlinux/issues/3479",
+      "createdAt": "2025-10-08T11:03:24.157Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
