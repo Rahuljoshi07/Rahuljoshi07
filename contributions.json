@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759933882778,
+      "repository": "asacolips-projects/13th-age",
+      "issueTitle": "Popout Module Issue",
+      "url": "https://github.com/asacolips-projects/13th-age/issues/167",
+      "createdAt": "2025-10-08T14:31:22.778Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
