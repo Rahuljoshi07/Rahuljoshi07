@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759950777873,
+      "repository": "FrankerFaceZ/Add-Ons",
+      "issueTitle": "[Trubbel's Utilities] Bug report: Frame seeking on VODs is active while writing a VOD Report",
+      "url": "https://github.com/FrankerFaceZ/Add-Ons/issues/321",
+      "createdAt": "2025-10-08T19:12:57.873Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
