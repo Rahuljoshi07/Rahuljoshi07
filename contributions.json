@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759917851364,
+      "repository": "xiaoyaDev/xiaoya_db",
+      "issueTitle": "ERROR The /media doesn't contain the desired folders, please correct the --media parameter",
+      "url": "https://github.com/xiaoyaDev/xiaoya_db/issues/49",
+      "createdAt": "2025-10-08T10:04:11.364Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
