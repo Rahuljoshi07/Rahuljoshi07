@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759935507746,
+      "repository": "django-cas-ng/django-cas-ng",
+      "issueTitle": "CAS_SERVER_URL doesn't seem to accept a url that doesn't end with a /",
+      "url": "https://github.com/django-cas-ng/django-cas-ng/issues/365",
+      "createdAt": "2025-10-08T14:58:27.746Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
