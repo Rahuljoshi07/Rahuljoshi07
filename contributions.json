@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759887733751,
+      "repository": "kthchew/ao3-rss",
+      "issueTitle": "Language Whitelist",
+      "url": "https://github.com/kthchew/ao3-rss/issues/61",
+      "createdAt": "2025-10-08T01:42:13.751Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
