@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759896801693,
+      "repository": "SSWConsulting/SSW.Rules.Content",
+      "issueTitle": "🐛 Bug - Incorrect URL for 'Rules (Content)' Logo",
+      "url": "https://github.com/SSWConsulting/SSW.Rules.Content/issues/10885",
+      "createdAt": "2025-10-08T04:13:21.693Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
