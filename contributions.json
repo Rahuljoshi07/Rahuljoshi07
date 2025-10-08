@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1759934581800,
-      "repository": "oceanprotocol/docs",
-      "issueTitle": "Remove Uploader from Docs",
-      "url": "https://github.com/oceanprotocol/docs/issues/1523",
-      "createdAt": "2025-10-08T14:43:01.800Z",
+      "id": 1759934625578,
+      "repository": "PMEAL/OpenPNM",
+      "issueTitle": "Use `np.add.reduce(...)` instead of `np.sum(...)` for small performance gains",
+      "url": "https://github.com/PMEAL/OpenPNM/issues/2972",
+      "createdAt": "2025-10-08T14:43:45.578Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
