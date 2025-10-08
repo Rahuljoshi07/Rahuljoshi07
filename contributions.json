@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759902590856,
+      "repository": "acarapetis/jj-pre-push",
+      "issueTitle": "[Bug] jj-pre-push pushes bookmark to remote even if authentication fails",
+      "url": "https://github.com/acarapetis/jj-pre-push/issues/1",
+      "createdAt": "2025-10-08T05:49:50.857Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
