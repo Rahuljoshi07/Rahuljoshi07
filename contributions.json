@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1759934625578,
-      "repository": "PMEAL/OpenPNM",
-      "issueTitle": "Use `np.add.reduce(...)` instead of `np.sum(...)` for small performance gains",
-      "url": "https://github.com/PMEAL/OpenPNM/issues/2972",
-      "createdAt": "2025-10-08T14:43:45.578Z",
-      "type": "comment",
-      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
