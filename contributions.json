@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1759954146337,
-      "repository": "conda/conda-lock",
-      "issueTitle": "`conda-lock` will crash with a key error if `pip` is not included in the environment file on some platforms",
-      "url": "https://github.com/conda/conda-lock/issues/843",
-      "createdAt": "2025-10-08T20:09:06.337Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
