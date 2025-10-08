@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759938047824,
+      "repository": "metalogico/django-sonar",
+      "issueTitle": "Error with Decimal - not JSON serializable",
+      "url": "https://github.com/metalogico/django-sonar/issues/14",
+      "createdAt": "2025-10-08T15:40:47.824Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
