@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759927236732,
+      "repository": "nanorepublica/django-prodserver",
+      "issueTitle": "Granian",
+      "url": "https://github.com/nanorepublica/django-prodserver/issues/74",
+      "createdAt": "2025-10-08T12:40:36.732Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
