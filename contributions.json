@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759917694124,
+      "repository": "opensafely-core/ehrql",
+      "issueTitle": "Make local missing permissions a hard error rather than a warning",
+      "url": "https://github.com/opensafely-core/ehrql/issues/2553",
+      "createdAt": "2025-10-08T10:01:34.124Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
