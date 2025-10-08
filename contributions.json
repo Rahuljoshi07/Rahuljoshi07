@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1759930294362,
-      "repository": "InfotelGLPI/manageentities",
-      "issueTitle": "Uncaught Exception TypeError: implode(): Argument #1 ($pieces) must be of type array, string given in /opt/glpi/marketplace/manageentities/inc/critype.class.php at line 65",
-      "url": "https://github.com/InfotelGLPI/manageentities/issues/33",
-      "createdAt": "2025-10-08T13:31:34.362Z",
+      "id": 1759930351853,
+      "repository": "osbuild/osbuild",
+      "issueTitle": "osbuild throws an error when running on development version of RHIVOS 2",
+      "url": "https://github.com/osbuild/osbuild/issues/2211",
+      "createdAt": "2025-10-08T13:32:31.853Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
