@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1759912224914,
+      "id": 1759912263130,
       "repository": "Roshansuthar1105/Codify",
       "issueTitle": "Bug: Profile Images Not Showing on Some Course Cards",
       "url": "https://github.com/Roshansuthar1105/Codify/issues/534",
-      "createdAt": "2025-10-08T08:30:24.915Z",
+      "createdAt": "2025-10-08T08:31:03.130Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
