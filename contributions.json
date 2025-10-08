@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759940002940,
+      "repository": "django-cms/djangocms-rest",
+      "issueTitle": "fix: add relative path field to menu and breadcrumbs endpoints",
+      "url": "https://github.com/django-cms/djangocms-rest/issues/61",
+      "createdAt": "2025-10-08T16:13:22.940Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. This suggestion is particularly relevant..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
