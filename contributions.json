@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759925522271,
+      "repository": "foundation-model-stack/fms-acceleration",
+      "issueTitle": "Error in loading quantized models without quantize_config.json",
+      "url": "https://github.com/foundation-model-stack/fms-acceleration/issues/144",
+      "createdAt": "2025-10-08T12:12:02.271Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
