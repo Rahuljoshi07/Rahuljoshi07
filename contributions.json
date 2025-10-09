@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759995735657,
+      "repository": "LedgerHQ/ledger-live",
+      "issueTitle": "[Feature]: remove react dependency",
+      "url": "https://github.com/LedgerHQ/ledger-live/issues/10927",
+      "createdAt": "2025-10-09T07:42:15.657Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
