@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760005077020,
+      "repository": "bxlab/bx-python",
+      "issueTitle": "binned_bitsets_from_list errors when chromosome size is larger than set MAX (512M)",
+      "url": "https://github.com/bxlab/bx-python/issues/67",
+      "createdAt": "2025-10-09T10:17:57.020Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
