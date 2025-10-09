@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759985673096,
+      "repository": "ioos/sanctuarywatch_graphicdata",
+      "issueTitle": "errors with plotly javascript",
+      "url": "https://github.com/ioos/sanctuarywatch_graphicdata/issues/355",
+      "createdAt": "2025-10-09T04:54:33.096Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
