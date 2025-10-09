@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759995114325,
+      "repository": "nextcloud/mail",
+      "issueTitle": "Not able to configure a pure HTML signature without getting it defaced by the editor.",
+      "url": "https://github.com/nextcloud/mail/issues/4557",
+      "createdAt": "2025-10-09T07:31:54.325Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
