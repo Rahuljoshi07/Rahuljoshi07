@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759993728712,
+      "repository": "AndrejOrsula/space_robotics_bench",
+      "issueTitle": "Fails to load robot USD asset - `ValueError: No contact sensors added`",
+      "url": "https://github.com/AndrejOrsula/space_robotics_bench/issues/85",
+      "createdAt": "2025-10-09T07:08:48.712Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
