@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759987758990,
+      "repository": "editor-js/attaches",
+      "issueTitle": "I am getting the below error when trying to use this with NextJS for declaration file not found",
+      "url": "https://github.com/editor-js/attaches/issues/77",
+      "createdAt": "2025-10-09T05:29:18.990Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
