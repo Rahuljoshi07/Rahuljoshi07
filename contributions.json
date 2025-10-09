@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759986708924,
+      "repository": "django-commons/django-enum",
+      "issueTitle": "Support mypy",
+      "url": "https://github.com/django-commons/django-enum/issues/129",
+      "createdAt": "2025-10-09T05:11:48.924Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
