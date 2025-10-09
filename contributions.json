@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760006119092,
+      "repository": "sunyink/MFABD2",
+      "issueTitle": "(BUG)快速狩猎识别结算无限循环卡顿",
+      "url": "https://github.com/sunyink/MFABD2/issues/10",
+      "createdAt": "2025-10-09T10:35:19.092Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
