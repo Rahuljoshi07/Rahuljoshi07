@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760039552405,
+      "repository": "Code-A2Z/paisable",
+      "issueTitle": "bug: Logged-in users can still access login page",
+      "url": "https://github.com/Code-A2Z/paisable/issues/106",
+      "createdAt": "2025-10-09T19:52:32.405Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
