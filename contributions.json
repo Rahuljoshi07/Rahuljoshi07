@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760033351047,
+      "repository": "auth0/auth0-deploy-cli",
+      "issueTitle": "a0deploy export causes rate limit errors with auth0 account",
+      "url": "https://github.com/auth0/auth0-deploy-cli/issues/1157",
+      "createdAt": "2025-10-09T18:09:11.047Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
