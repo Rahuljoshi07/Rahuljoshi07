@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760039879178,
-      "repository": "physicshub/physicshub.github.io",
-      "issueTitle": "[Bug]: Light theme is broken.",
-      "url": "https://github.com/physicshub/physicshub.github.io/issues/15",
-      "createdAt": "2025-10-09T19:57:59.178Z",
+      "id": 1760039934261,
+      "repository": "astronomer/airflow-chart",
+      "issueTitle": "PermissionError: [Errno 13] Permission denied: '/usr/airflow/logs/scheduler'",
+      "url": "https://github.com/astronomer/airflow-chart/issues/146",
+      "createdAt": "2025-10-09T19:58:54.261Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
