@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760024825327,
+      "repository": "cubist38/mlx-openai-server",
+      "issueTitle": "Sometimes hit the error message \"'NoneType' object has no attribute 'find'\" when using GPT-OSS-120B Model in Open WebUI",
+      "url": "https://github.com/cubist38/mlx-openai-server/issues/68",
+      "createdAt": "2025-10-09T15:47:05.327Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
