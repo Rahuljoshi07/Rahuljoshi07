@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760033029168,
+      "repository": "ramses-rf/ramses_rf",
+      "issueTitle": "0.31.x: Round thermostats that use OT are not supported",
+      "url": "https://github.com/ramses-rf/ramses_rf/issues/95",
+      "createdAt": "2025-10-09T18:03:49.168Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
