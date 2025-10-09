@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759987637318,
+      "repository": "cockpit-project/cockpit-ostree",
+      "issueTitle": "System up-to-date showed when update fails to fetch",
+      "url": "https://github.com/cockpit-project/cockpit-ostree/issues/771",
+      "createdAt": "2025-10-09T05:27:17.318Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
