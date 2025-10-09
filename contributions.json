@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760016775640,
+      "repository": "Steven-N-Hart/dicom_wsi",
+      "issueTitle": "First fiel out is named '.0-1.dcm\", but should be '.0-0.dcm'",
+      "url": "https://github.com/Steven-N-Hart/dicom_wsi/issues/18",
+      "createdAt": "2025-10-09T13:32:55.640Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
