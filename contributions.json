@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760002784651,
+      "repository": "ReneNulschDE/mbapi2020",
+      "issueTitle": "No data from and to vehicle - need to restart homeassistant to get it working again",
+      "url": "https://github.com/ReneNulschDE/mbapi2020/issues/375",
+      "createdAt": "2025-10-09T09:39:44.651Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
