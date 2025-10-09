@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759997276246,
+      "repository": "fedora-copr/copr",
+      "issueTitle": "Please update high-performance builders settings for the @kernel-vanilla coprs",
+      "url": "https://github.com/fedora-copr/copr/issues/3943",
+      "createdAt": "2025-10-09T08:07:56.246Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
