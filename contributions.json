@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760052307382,
+      "repository": "waldronlab/curatedMetagenomicDataAnalyses",
+      "issueTitle": "Retrieve biom table and metadata tsv for entire dataset",
+      "url": "https://github.com/waldronlab/curatedMetagenomicDataAnalyses/issues/49",
+      "createdAt": "2025-10-09T23:25:07.382Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
