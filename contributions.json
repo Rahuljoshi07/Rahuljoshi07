@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760042270013,
+      "id": 1760042307183,
       "repository": "physicshub/physicshub.github.io",
       "issueTitle": "[Bug]: Almost every simulation right now isn't physically realistic",
       "url": "https://github.com/physicshub/physicshub.github.io/issues/40",
-      "createdAt": "2025-10-09T20:37:50.013Z",
+      "createdAt": "2025-10-09T20:38:27.183Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
