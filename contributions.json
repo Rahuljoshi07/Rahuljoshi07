@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759980783825,
+      "repository": "ZebangCheng/Emotion-LLaMA",
+      "issueTitle": "ValueError: ('Failed to read video file:', '/home/gcsz/1/lw/Emotion-LLaMA-main/DATESET/features_of_MER2023-SEMI/samplenew_00006611.avi')",
+      "url": "https://github.com/ZebangCheng/Emotion-LLaMA/issues/106",
+      "createdAt": "2025-10-09T03:33:03.825Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
