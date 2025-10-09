@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760043378461,
+      "repository": "tox-dev/tox-ini-fmt",
+      "issueTitle": "Replaces '-r docs/requirements.txt' with '-r'",
+      "url": "https://github.com/tox-dev/tox-ini-fmt/issues/49",
+      "createdAt": "2025-10-09T20:56:18.462Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
