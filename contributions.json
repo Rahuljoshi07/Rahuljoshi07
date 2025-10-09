@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760005427631,
+      "repository": "wills106/homeassistant-solax-modbus",
+      "issueTitle": "[Bug]: Unknown values for MIC X3",
+      "url": "https://github.com/wills106/homeassistant-solax-modbus/issues/1203",
+      "createdAt": "2025-10-09T10:23:47.631Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
