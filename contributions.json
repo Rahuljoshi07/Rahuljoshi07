@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759985320299,
+      "repository": "bpwhelan/GameSentenceMiner",
+      "issueTitle": "Way too much debug logging ",
+      "url": "https://github.com/bpwhelan/GameSentenceMiner/issues/207",
+      "createdAt": "2025-10-09T04:48:40.299Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
