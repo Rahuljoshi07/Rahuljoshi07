@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1759977506446,
+      "id": 1759977543636,
       "repository": "xieyumc/YuYuWechat",
       "issueTitle": "“[DEPLOYMENT ISSUE] “ 无法连接服务器、无法连接微信状态",
       "url": "https://github.com/xieyumc/YuYuWechat/issues/40",
-      "createdAt": "2025-10-09T02:38:26.446Z",
+      "createdAt": "2025-10-09T02:39:03.636Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
