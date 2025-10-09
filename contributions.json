@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1759984321491,
+      "repository": "OneBusAway/wayfinder",
+      "issueTitle": "Bug: Expected \"PM\" but received \"pm\" in formatted time",
+      "url": "https://github.com/OneBusAway/wayfinder/issues/242",
+      "createdAt": "2025-10-09T04:32:01.491Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
