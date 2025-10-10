@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760130125088,
+      "repository": "NREL-Distribution-Suites/grid-data-models",
+      "issueTitle": "AI agent that fixes GDM model validation errors",
+      "url": "https://github.com/NREL-Distribution-Suites/grid-data-models/issues/108",
+      "createdAt": "2025-10-10T21:02:05.088Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
