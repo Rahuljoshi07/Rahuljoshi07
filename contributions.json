@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760068454378,
+      "repository": "Clarifai/clarifai-nodejs-grpc",
+      "issueTitle": "Issue using in next.js 13",
+      "url": "https://github.com/Clarifai/clarifai-nodejs-grpc/issues/69",
+      "createdAt": "2025-10-10T03:54:14.378Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
