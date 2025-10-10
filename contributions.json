@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760095211465,
+      "repository": "frida/frida-java-bridge",
+      "issueTitle": "Error: unable to find module 'libc.so'",
+      "url": "https://github.com/frida/frida-java-bridge/issues/372",
+      "createdAt": "2025-10-10T11:20:11.465Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
