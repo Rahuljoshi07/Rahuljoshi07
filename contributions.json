@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760108745299,
+      "repository": "digitalfabrik/lunes-cms",
+      "issueTitle": "`Audioop` deprecated for Python versions >3.11",
+      "url": "https://github.com/digitalfabrik/lunes-cms/issues/604",
+      "createdAt": "2025-10-10T15:05:45.299Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
