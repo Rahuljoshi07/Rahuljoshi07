@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760064412410,
+      "repository": "Python-roborock/python-roborock",
+      "issueTitle": "Still connection issues with HA 25.10",
+      "url": "https://github.com/Python-roborock/python-roborock/issues/515",
+      "createdAt": "2025-10-10T02:46:52.410Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
