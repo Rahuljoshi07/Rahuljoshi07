@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760067276966,
+      "repository": "NSPC911/rovr",
+      "issueTitle": "[BUG] rovr crashes when trying to delete a file opened in another process",
+      "url": "https://github.com/NSPC911/rovr/issues/44",
+      "createdAt": "2025-10-10T03:34:36.967Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
