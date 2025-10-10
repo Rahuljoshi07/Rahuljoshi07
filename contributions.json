@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760106676574,
-      "repository": "LMFDB/lmfdb",
-      "issueTitle": "(Auto-generated) Errors in code snippets",
-      "url": "https://github.com/LMFDB/lmfdb/issues/6701",
-      "createdAt": "2025-10-10T14:31:16.575Z",
+      "id": 1760106707276,
+      "repository": "eslint/json",
+      "issueTitle": "Bug: recognize carriage return (\\r) as a line break in `JSONSourceCode`",
+      "url": "https://github.com/eslint/json/issues/159",
+      "createdAt": "2025-10-10T14:31:47.276Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
