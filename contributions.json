@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760075186049,
+      "repository": "KittenCN/predict_Lottery_ticket_pytorch",
+      "issueTitle": "IndexError: tensors used as indices must be long, int, byte or bool tensors",
+      "url": "https://github.com/KittenCN/predict_Lottery_ticket_pytorch/issues/13",
+      "createdAt": "2025-10-10T05:46:26.050Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
