@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760109738430,
-      "repository": "digitalfabrik/lunes-cms",
-      "issueTitle": "`Audioop` deprecated for Python versions >3.11",
-      "url": "https://github.com/digitalfabrik/lunes-cms/issues/604",
-      "createdAt": "2025-10-10T15:22:18.430Z",
+      "id": 1760109809968,
+      "repository": "secrez/secrez",
+      "issueTitle": "Fix issue with edit when a global path is passed",
+      "url": "https://github.com/secrez/secrez/issues/180",
+      "createdAt": "2025-10-10T15:23:29.968Z",
       "type": "comment",
-      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
