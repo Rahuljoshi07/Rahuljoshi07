@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760110970912,
+      "repository": "RealOrangeOne/django-tasks",
+      "issueTitle": "Should ENQUEUE_ON_COMMIT default to False?",
+      "url": "https://github.com/RealOrangeOne/django-tasks/issues/189",
+      "createdAt": "2025-10-10T15:42:50.912Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
