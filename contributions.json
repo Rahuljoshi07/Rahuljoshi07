@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760122096733,
+      "repository": "ASFHyP3/hyp3-isce2",
+      "issueTitle": "`tops_insar_burst` fails with `RuntimeError: Image file is too small` during preprocessing",
+      "url": "https://github.com/ASFHyP3/hyp3-isce2/issues/269",
+      "createdAt": "2025-10-10T18:48:16.733Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
