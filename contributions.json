@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760067914749,
+      "repository": "Arize-ai/openinference",
+      "issueTitle": "[Bug] OpenInference raises \"Invalid type dict in llm.input_messages.*.message.content\" when using gpt-oss:20b model with LlamaIndex",
+      "url": "https://github.com/Arize-ai/openinference/issues/2269",
+      "createdAt": "2025-10-10T03:45:14.749Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
