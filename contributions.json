@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760125512461,
+      "repository": "lemonade-sdk/infinity-arcade",
+      "issueTitle": "lemonade-server fails to start on Linux due to FLM check (NotADirectoryError)",
+      "url": "https://github.com/lemonade-sdk/infinity-arcade/issues/59",
+      "createdAt": "2025-10-10T19:45:12.461Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
