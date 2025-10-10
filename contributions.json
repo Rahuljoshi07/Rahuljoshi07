@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760056690437,
+      "repository": "TotallyNotRobots/CloudBot",
+      "issueTitle": "feeds.py (and surprisingly many other plugins like ping.py, and more) do not sanitize user input from commands and lead to crashes and other errors..... OR WORSE | .help leads to excess flood IRC quits",
+      "url": "https://github.com/TotallyNotRobots/CloudBot/issues/716",
+      "createdAt": "2025-10-10T00:38:10.437Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
