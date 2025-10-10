@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760121687994,
+      "repository": "ansys/pydynamicreporting",
+      "issueTitle": "Numpy version 2.x causes report render issue with serverless ADR",
+      "url": "https://github.com/ansys/pydynamicreporting/issues/241",
+      "createdAt": "2025-10-10T18:41:27.994Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
