@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760059449711,
+      "repository": "tronbyt/server",
+      "issueTitle": "[RFE] Show tronbyt server version in web UI",
+      "url": "https://github.com/tronbyt/server/issues/351",
+      "createdAt": "2025-10-10T01:24:09.711Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
