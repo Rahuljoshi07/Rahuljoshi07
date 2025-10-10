@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760120120178,
+      "repository": "OWASP/www-project-secure-headers",
+      "issueTitle": "[BUG] Failing to request https://wiki.owasp.org/index.php/OWASP_Secure_Headers_Project",
+      "url": "https://github.com/OWASP/www-project-secure-headers/issues/247",
+      "createdAt": "2025-10-10T18:15:20.179Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
