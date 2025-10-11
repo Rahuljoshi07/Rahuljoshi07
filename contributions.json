@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760203849842,
+      "repository": "fabricjs/fabricjs.github.io",
+      "issueTitle": "[Bug]: https://fabricjs.com/stickman stickman demoPage not found",
+      "url": "https://github.com/fabricjs/fabricjs.github.io/issues/167",
+      "createdAt": "2025-10-11T17:30:49.842Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
