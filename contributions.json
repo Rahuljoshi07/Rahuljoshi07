@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760183009661,
+      "repository": "Miskatonic-Investigative-Society/CoC7-FoundryVTT",
+      "issueTitle": "Skill images appear to be broken or missing.",
+      "url": "https://github.com/Miskatonic-Investigative-Society/CoC7-FoundryVTT/issues/1935",
+      "createdAt": "2025-10-11T11:43:29.661Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
