@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760226315269,
+      "repository": "ItsPi3141/discord-fake-avatar-decorations",
+      "issueTitle": "Zekoabdo349",
+      "url": "https://github.com/ItsPi3141/discord-fake-avatar-decorations/issues/65",
+      "createdAt": "2025-10-11T23:45:15.269Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
