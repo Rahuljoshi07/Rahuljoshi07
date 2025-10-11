@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760154968943,
+      "repository": "manusa/electronim",
+      "issueTitle": "[TESTS] Refactor check-for-updates.test.js to use testing HTTP server instead of mocks",
+      "url": "https://github.com/manusa/electronim/issues/562",
+      "createdAt": "2025-10-11T03:56:08.943Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
