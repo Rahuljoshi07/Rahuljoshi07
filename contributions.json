@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760222833426,
+      "repository": "kthchew/ao3-rss",
+      "issueTitle": "Language Whitelist",
+      "url": "https://github.com/kthchew/ao3-rss/issues/61",
+      "createdAt": "2025-10-11T22:47:13.426Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
