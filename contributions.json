@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760160054739,
+      "repository": "just-a-job-app/jobseeker-analytics",
+      "issueTitle": "[FEAT]: Allow users to remove false-positive job app entries / Backend / Database changes",
+      "url": "https://github.com/just-a-job-app/jobseeker-analytics/issues/357",
+      "createdAt": "2025-10-11T05:20:54.739Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for react ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
