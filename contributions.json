@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760175654197,
+      "repository": "magurofly/atcoder-easy-test",
+      "issueTitle": "Issue with Script Execution Interference in Concurrent Tests",
+      "url": "https://github.com/magurofly/atcoder-easy-test/issues/40",
+      "createdAt": "2025-10-11T09:40:54.198Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
