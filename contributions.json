@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760208347658,
+      "repository": "ThePansmith/CABIN",
+      "issueTitle": "[Bug]: Extracted crude oil from Create Diesel Generators is of the wrong type",
+      "url": "https://github.com/ThePansmith/CABIN/issues/331",
+      "createdAt": "2025-10-11T18:45:47.658Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
