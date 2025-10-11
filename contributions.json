@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760170463568,
+      "repository": "MayamaTakeshi/redmine_rt",
+      "issueTitle": "Websocket error, success PUT, no refresh",
+      "url": "https://github.com/MayamaTakeshi/redmine_rt/issues/62",
+      "createdAt": "2025-10-11T08:14:23.568Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
