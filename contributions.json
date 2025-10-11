@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760212578551,
+      "repository": "pypsa-meets-earth/pypsa-earth",
+      "issueTitle": "Discount rate mismatch",
+      "url": "https://github.com/pypsa-meets-earth/pypsa-earth/issues/1583",
+      "createdAt": "2025-10-11T19:56:18.551Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
