@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760204622404,
+      "repository": "pivoshenko/poetry-plugin-dotenv",
+      "issueTitle": "Support multiple .env files",
+      "url": "https://github.com/pivoshenko/poetry-plugin-dotenv/issues/429",
+      "createdAt": "2025-10-11T17:43:42.404Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
