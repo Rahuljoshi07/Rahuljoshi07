@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760168445127,
-      "repository": "2M4U/2m4u",
-      "issueTitle": ".env.template is missing",
-      "url": "https://github.com/2M4U/2m4u/issues/9",
-      "createdAt": "2025-10-11T07:40:45.127Z",
+      "id": 1760168485420,
+      "repository": "brian-girko/image-reader",
+      "issueTitle": "It doesn't work in Brave. Generates \"SecurityError\" when used",
+      "url": "https://github.com/brian-girko/image-reader/issues/10",
+      "createdAt": "2025-10-11T07:41:25.420Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
