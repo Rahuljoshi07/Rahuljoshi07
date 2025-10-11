@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760141107488,
+      "repository": "johnny-shaman/sign",
+      "issueTitle": "lexerの改善点",
+      "url": "https://github.com/johnny-shaman/sign/issues/124",
+      "createdAt": "2025-10-11T00:05:07.488Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
