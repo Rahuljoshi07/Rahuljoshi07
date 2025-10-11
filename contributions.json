@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760222067767,
+      "repository": "terreng/simple-web-server",
+      "issueTitle": "For XMLHttpRequest, Range with negative value fails",
+      "url": "https://github.com/terreng/simple-web-server/issues/269",
+      "createdAt": "2025-10-11T22:34:27.767Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
