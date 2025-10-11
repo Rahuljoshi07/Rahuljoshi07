@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760175936594,
+      "repository": "Xpra-org/xpra-html5",
+      "issueTitle": "visibility-recover after browser-minimisation shows windows only as hollow transparent shell",
+      "url": "https://github.com/Xpra-org/xpra-html5/issues/375",
+      "createdAt": "2025-10-11T09:45:36.594Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
