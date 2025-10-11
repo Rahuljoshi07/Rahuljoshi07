@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760207377207,
+      "repository": "TL-System/plato",
+      "issueTitle": "[BUG]The implement of scaffold in \\plato\\examples\\customized_client_training\\scaffold seem be wrong.",
+      "url": "https://github.com/TL-System/plato/issues/382",
+      "createdAt": "2025-10-11T18:29:37.207Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
