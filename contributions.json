@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760199444634,
+      "repository": "RhythmPahwa14/AlgoVisualizer",
+      "issueTitle": "Wrong page shown on forgot password route",
+      "url": "https://github.com/RhythmPahwa14/AlgoVisualizer/issues/1294",
+      "createdAt": "2025-10-11T16:17:24.634Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
