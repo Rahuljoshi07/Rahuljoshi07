@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760169828250,
+      "repository": "ansible-collections/community.general",
+      "issueTitle": "iso_customize: dependency pycdlib supports only Python 3.4",
+      "url": "https://github.com/ansible-collections/community.general/issues/10900",
+      "createdAt": "2025-10-11T08:03:48.250Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
