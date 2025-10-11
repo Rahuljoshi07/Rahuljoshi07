@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760208880435,
+      "id": 1760208908858,
       "repository": "trustoverip/tswg-keri-specification",
-      "issueTitle": "Duplicate normative section",
-      "url": "https://github.com/trustoverip/tswg-keri-specification/issues/249",
-      "createdAt": "2025-10-11T18:54:40.435Z",
+      "issueTitle": "Reminder: check the working of tref-aliases",
+      "url": "https://github.com/trustoverip/tswg-keri-specification/issues/237",
+      "createdAt": "2025-10-11T18:55:08.858Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
