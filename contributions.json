@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760225689766,
+      "repository": "mpfaffenberger/code_puppy",
+      "issueTitle": "[BUG] Regression introduced on maximum number of messages",
+      "url": "https://github.com/mpfaffenberger/code_puppy/issues/42",
+      "createdAt": "2025-10-11T23:34:49.766Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
