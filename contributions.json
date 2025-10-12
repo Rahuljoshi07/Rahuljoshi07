@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760274393439,
+      "repository": "hanlulong/stata-mcp",
+      "issueTitle": "[BUG] Command \"cls\" could not be recognized",
+      "url": "https://github.com/hanlulong/stata-mcp/issues/29",
+      "createdAt": "2025-10-12T13:06:33.439Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
