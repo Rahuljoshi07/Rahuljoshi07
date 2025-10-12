@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760234996899,
+      "repository": "uncscode/particula",
+      "issueTitle": "Handle very small particles, pressure_delta",
+      "url": "https://github.com/uncscode/particula/issues/794",
+      "createdAt": "2025-10-12T02:09:56.899Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
