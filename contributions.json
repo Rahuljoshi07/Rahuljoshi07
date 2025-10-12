@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760263722756,
+      "repository": "antoniandre/vue-cal",
+      "issueTitle": "[Bug] min-width with schedule does not work",
+      "url": "https://github.com/antoniandre/vue-cal/issues/93",
+      "createdAt": "2025-10-12T10:08:42.756Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
