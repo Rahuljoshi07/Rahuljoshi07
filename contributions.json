@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760252697644,
+      "repository": "typeddjango/djangorestframework-stubs",
+      "issueTitle": "Wrong return type for Field.get_attribute()",
+      "url": "https://github.com/typeddjango/djangorestframework-stubs/issues/829",
+      "createdAt": "2025-10-12T07:04:57.645Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
