@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760259655055,
+      "repository": "laminlabs/lamindb",
+      "issueTitle": "`ln.integrations.save_vitessce_config` breaks when working in a different space than the one the data is in",
+      "url": "https://github.com/laminlabs/lamindb/issues/3141",
+      "createdAt": "2025-10-12T09:00:55.055Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
