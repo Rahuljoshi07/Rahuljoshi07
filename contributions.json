@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760246484530,
+      "repository": "AllTheMods/ATM-9",
+      "issueTitle": "[Crash]: PonderJS crashes on startup: 'Disabled due ponder is now without create' error in corail.js",
+      "url": "https://github.com/AllTheMods/ATM-9/issues/2319",
+      "createdAt": "2025-10-12T05:21:24.530Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
