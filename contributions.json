@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760230498967,
+      "repository": "Unrud/video-downloader",
+      "issueTitle": "HTTP Error 403: Forbidden",
+      "url": "https://github.com/Unrud/video-downloader/issues/366",
+      "createdAt": "2025-10-12T00:54:58.967Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
