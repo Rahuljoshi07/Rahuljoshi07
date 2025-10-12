@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760238640840,
+      "repository": "Toni-SM/skrl",
+      "issueTitle": "Recursion error due to Trainer string method",
+      "url": "https://github.com/Toni-SM/skrl/issues/373",
+      "createdAt": "2025-10-12T03:10:40.841Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
