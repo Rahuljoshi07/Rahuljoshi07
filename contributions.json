@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760262044447,
+      "repository": "LemonQu-GIT/MurasamePet",
+      "issueTitle": "Necessary of optimization and macOS support",
+      "url": "https://github.com/LemonQu-GIT/MurasamePet/issues/5",
+      "createdAt": "2025-10-12T09:40:44.447Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
