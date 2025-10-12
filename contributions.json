@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760239391498,
+      "repository": "Deepak-Kambala/Love-Calculator",
+      "issueTitle": "UI Issue",
+      "url": "https://github.com/Deepak-Kambala/Love-Calculator/issues/123",
+      "createdAt": "2025-10-12T03:23:11.498Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
