@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760275512691,
+      "repository": "chung-leong/zigar",
+      "issueTitle": "Test case get stuck when compiling for WebAssembly",
+      "url": "https://github.com/chung-leong/zigar/issues/744",
+      "createdAt": "2025-10-12T13:25:12.691Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
