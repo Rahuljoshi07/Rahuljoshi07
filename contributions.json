@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760256061957,
+      "repository": "gramps-project/gramps-web-api",
+      "issueTitle": "Display Relationships Beyond 20 Generations",
+      "url": "https://github.com/gramps-project/gramps-web-api/issues/692",
+      "createdAt": "2025-10-12T08:01:01.957Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
