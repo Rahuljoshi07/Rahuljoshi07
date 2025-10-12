@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760265478673,
+      "repository": "gyrinx-app/gyrinx",
+      "issueTitle": "The tests are unacceptably slow",
+      "url": "https://github.com/gyrinx-app/gyrinx/issues/1009",
+      "createdAt": "2025-10-12T10:37:58.673Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
