@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760262198613,
+      "repository": "linuxmint/cinnamon-spices-applets",
+      "issueTitle": "CinnVIIStarkMenu: Not starting at all",
+      "url": "https://github.com/linuxmint/cinnamon-spices-applets/issues/7864",
+      "createdAt": "2025-10-12T09:43:18.613Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
