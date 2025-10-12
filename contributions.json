@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760260514669,
+      "repository": "kellerza/sunsynk",
+      "issueTitle": "Get \"Error importing\" message in log",
+      "url": "https://github.com/kellerza/sunsynk/issues/527",
+      "createdAt": "2025-10-12T09:15:14.669Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
