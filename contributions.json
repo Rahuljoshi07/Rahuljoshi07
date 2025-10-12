@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760241940517,
+      "repository": "powerfulbean/mTRFpy",
+      "issueTitle": "Not preloading covariance matrices causes error in crossval",
+      "url": "https://github.com/powerfulbean/mTRFpy/issues/31",
+      "createdAt": "2025-10-12T04:05:40.517Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
