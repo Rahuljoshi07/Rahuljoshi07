@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760277388149,
+      "repository": "sitespeedio/browsertime",
+      "issueTitle": "Firefox PerfStats feature mask needs to be updated to support 64bit mask",
+      "url": "https://github.com/sitespeedio/browsertime/issues/2313",
+      "createdAt": "2025-10-12T13:56:28.149Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
