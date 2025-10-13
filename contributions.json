@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760386805286,
+      "repository": "boxgaming/qbjs",
+      "issueTitle": "Other code tabs not using VIM mode setting",
+      "url": "https://github.com/boxgaming/qbjs/issues/161",
+      "createdAt": "2025-10-13T20:20:05.286Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
