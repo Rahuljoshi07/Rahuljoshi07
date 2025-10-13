@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760348586768,
+      "repository": "EngageMedia-video/cinematacms",
+      "issueTitle": "Fix: View Count Display Inconsistency on Front Page and Playlist Page",
+      "url": "https://github.com/EngageMedia-video/cinematacms/issues/280",
+      "createdAt": "2025-10-13T09:43:06.768Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
