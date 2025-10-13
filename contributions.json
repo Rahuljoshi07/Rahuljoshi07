@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760356532352,
+      "repository": "pharmpy/pharmpy",
+      "issueTitle": "Error fitting model in v1.9.0+",
+      "url": "https://github.com/pharmpy/pharmpy/issues/4056",
+      "createdAt": "2025-10-13T11:55:32.352Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
