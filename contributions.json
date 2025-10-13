@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760366629297,
-      "repository": "physicshub/physicshub.github.io",
-      "issueTitle": "Centralize simulations to make them easier to modify and create.",
-      "url": "https://github.com/physicshub/physicshub.github.io/issues/17",
-      "createdAt": "2025-10-13T14:43:49.297Z",
+      "id": 1760366684033,
+      "repository": "nextcloud/tables",
+      "issueTitle": "Views not updated when underlying table changes",
+      "url": "https://github.com/nextcloud/tables/issues/2106",
+      "createdAt": "2025-10-13T14:44:44.033Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
