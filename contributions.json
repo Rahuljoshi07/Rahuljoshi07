@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760339114309,
+      "repository": "Azure/co-op-translator",
+      "issueTitle": "Broken Link \"[06: Phi Sil\"",
+      "url": "https://github.com/Azure/co-op-translator/issues/250",
+      "createdAt": "2025-10-13T07:05:14.310Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
