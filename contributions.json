@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760384742651,
+      "repository": "League-of-Fabulous-Developers/FoundryVTT-Fabula-Ultima",
+      "issueTitle": "Clicking the Symbolism skill does not properly prompt a roll, and causes a Foundry error in console instead.",
+      "url": "https://github.com/League-of-Fabulous-Developers/FoundryVTT-Fabula-Ultima/issues/549",
+      "createdAt": "2025-10-13T19:45:42.651Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
