@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760342220741,
+      "id": 1760342257479,
       "repository": "flowintel/flowintel",
-      "issueTitle": "Allow more flexility in MISP-object template",
-      "url": "https://github.com/flowintel/flowintel/issues/47",
-      "createdAt": "2025-10-13T07:57:00.741Z",
+      "issueTitle": "Bug when pushing a case to MISP with a \"Global API KEY\"",
+      "url": "https://github.com/flowintel/flowintel/issues/45",
+      "createdAt": "2025-10-13T07:57:37.479Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
