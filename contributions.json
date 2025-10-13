@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760368434603,
+      "repository": "PriorLabs/tabpfn-client",
+      "issueTitle": "Login on the browser from the client doesn't work on Safari",
+      "url": "https://github.com/PriorLabs/tabpfn-client/issues/98",
+      "createdAt": "2025-10-13T15:13:54.603Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
