@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760366424078,
+      "repository": "pluginsGLPI/ocsinventoryng",
+      "issueTitle": "Script error to import device information via SNMP",
+      "url": "https://github.com/pluginsGLPI/ocsinventoryng/issues/380",
+      "createdAt": "2025-10-13T14:40:24.078Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
