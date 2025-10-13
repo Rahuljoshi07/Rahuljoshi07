@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760334602824,
+      "repository": "greenbone/greenbone-feed-sync",
+      "issueTitle": "Bug: Lockfile PermissionError on Raspberry Pi OS (Bullseye/Bookworm) with recent versions",
+      "url": "https://github.com/greenbone/greenbone-feed-sync/issues/279",
+      "createdAt": "2025-10-13T05:50:02.824Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
