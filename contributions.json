@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760374903472,
+      "repository": "Unidata/cftime",
+      "issueTitle": "BUG: Not NumPy 2.0 compatible",
+      "url": "https://github.com/Unidata/cftime/issues/325",
+      "createdAt": "2025-10-13T17:01:43.472Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
