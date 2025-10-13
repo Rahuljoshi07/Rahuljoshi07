@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760386474551,
+      "repository": "openshift-psap/auto-tuning-vllm",
+      "issueTitle": "[Bug] Ray cluster gets killed during study",
+      "url": "https://github.com/openshift-psap/auto-tuning-vllm/issues/91",
+      "createdAt": "2025-10-13T20:14:34.551Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
