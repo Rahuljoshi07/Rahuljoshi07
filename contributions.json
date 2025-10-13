@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760376636719,
+      "repository": "bigcommerce/stencil-cli",
+      "issueTitle": "Global install fails",
+      "url": "https://github.com/bigcommerce/stencil-cli/issues/1328",
+      "createdAt": "2025-10-13T17:30:36.719Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
