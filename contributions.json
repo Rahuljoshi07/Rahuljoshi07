@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760430538208,
+      "repository": "nextcloud/viewer",
+      "issueTitle": "[Bug]: Unable to view photos before and after using <>.",
+      "url": "https://github.com/nextcloud/viewer/issues/2990",
+      "createdAt": "2025-10-14T08:28:58.208Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
