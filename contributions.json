@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760432185176,
+      "repository": "SpecterOps/BloodHoundQueryLibrary",
+      "issueTitle": "[Query Issue]: All members of high privileged roles",
+      "url": "https://github.com/SpecterOps/BloodHoundQueryLibrary/issues/26",
+      "createdAt": "2025-10-14T08:56:25.176Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
