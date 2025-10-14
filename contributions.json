@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760453495272,
+      "repository": "asyncapi/java-spring-cloud-stream-template",
+      "issueTitle": "Generated application won't execute in default pacakage",
+      "url": "https://github.com/asyncapi/java-spring-cloud-stream-template/issues/255",
+      "createdAt": "2025-10-14T14:51:35.272Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
