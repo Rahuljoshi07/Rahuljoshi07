@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760474206460,
+      "repository": "tomer-w/victron_mqtt",
+      "issueTitle": "[Bug]: PhoenixInverterMode for “Eco\"",
+      "url": "https://github.com/tomer-w/victron_mqtt/issues/46",
+      "createdAt": "2025-10-14T20:36:46.460Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
