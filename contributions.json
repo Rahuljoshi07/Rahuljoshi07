@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760425492176,
+      "repository": "OCA/OpenUpgrade",
+      "issueTitle": "[18.0] error when loading sale res.config.settings view",
+      "url": "https://github.com/OCA/OpenUpgrade/issues/5391",
+      "createdAt": "2025-10-14T07:04:52.176Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
