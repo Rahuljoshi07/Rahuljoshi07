@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760479181056,
+      "repository": "eliranwong/agentmake",
+      "issueTitle": "backends genai or vertexai doesn't work",
+      "url": "https://github.com/eliranwong/agentmake/issues/11",
+      "createdAt": "2025-10-14T21:59:41.056Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
