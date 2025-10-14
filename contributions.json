@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760462486565,
+      "repository": "Vaskivskyi/ha-asusrouter",
+      "issueTitle": "[Bug] Asus RT-BE92U 6Ghz shown as 5Ghz-2",
+      "url": "https://github.com/Vaskivskyi/ha-asusrouter/issues/1018",
+      "createdAt": "2025-10-14T17:21:26.565Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
