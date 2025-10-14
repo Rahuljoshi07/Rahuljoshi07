@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760404245812,
+      "repository": "2dos/DK64-Randomizer",
+      "issueTitle": "Stalactites + OHKO doesn't kill w/ Crowd Control",
+      "url": "https://github.com/2dos/DK64-Randomizer/issues/2655",
+      "createdAt": "2025-10-14T01:10:45.812Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
