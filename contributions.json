@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760455998977,
+      "id": 1760456044545,
       "repository": "sagiegurari/node-go-require",
       "issueTitle": "Error: Failed to convert Go file to JS",
       "url": "https://github.com/sagiegurari/node-go-require/issues/21",
-      "createdAt": "2025-10-14T15:33:18.977Z",
+      "createdAt": "2025-10-14T15:34:04.545Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
