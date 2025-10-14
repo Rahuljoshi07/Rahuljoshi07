@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760428570297,
-      "repository": "rulego/rulego-server",
-      "issueTitle": "【功能建议】关于与其他系统的集成的功能建议",
-      "url": "https://github.com/rulego/rulego-server/issues/56",
-      "createdAt": "2025-10-14T07:56:10.297Z",
+      "id": 1760428618531,
+      "repository": "secrez/secrez",
+      "issueTitle": "Fix issue with edit when a global path is passed",
+      "url": "https://github.com/secrez/secrez/issues/180",
+      "createdAt": "2025-10-14T07:56:58.531Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
