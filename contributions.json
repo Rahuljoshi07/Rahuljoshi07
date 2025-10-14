@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760440035836,
+      "repository": "kleros/gtcr",
+      "issueTitle": "Bug: getLogs not fetching all of the PolicyUpdate() events emitted from the PolicyRegistry contract",
+      "url": "https://github.com/kleros/gtcr/issues/339",
+      "createdAt": "2025-10-14T11:07:15.836Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
