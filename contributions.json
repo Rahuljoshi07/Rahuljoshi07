@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760458424722,
+      "repository": "RhythmPahwa14/AlgoVisualizer",
+      "issueTitle": "bug:[Trie Documentation] Input box appears in dark mode in both themes (light & dark)",
+      "url": "https://github.com/RhythmPahwa14/AlgoVisualizer/issues/1383",
+      "createdAt": "2025-10-14T16:13:44.722Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
