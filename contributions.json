@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760478168241,
-      "repository": "publishpress/publishpress-blocks",
-      "issueTitle": "Possible taxonomy issue with Auto Insert Blocks",
-      "url": "https://github.com/publishpress/publishpress-blocks/issues/1596",
-      "createdAt": "2025-10-14T21:42:48.241Z",
+      "id": 1760478210226,
+      "repository": "iTwin/bis-schemas",
+      "issueTitle": "Improve validateSchemas script to handle deprecated schemas referenced by previously released schemas",
+      "url": "https://github.com/iTwin/bis-schemas/issues/597",
+      "createdAt": "2025-10-14T21:43:30.226Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "You might want to add error handling and input validation. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
