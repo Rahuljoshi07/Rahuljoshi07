@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760460180875,
+      "repository": "microsoft/Agents-for-python",
+      "issueTitle": "Pytest warnings around Test Collection",
+      "url": "https://github.com/microsoft/Agents-for-python/issues/167",
+      "createdAt": "2025-10-14T16:43:00.875Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
