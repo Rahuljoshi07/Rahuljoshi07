@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760439708516,
+      "repository": "astrolabsoftware/fink-broker",
+      "issueTitle": "Kubernetes Performance and Scalability Step 1: Install Kubernetes on CC-IN2P3 Hardware",
+      "url": "https://github.com/astrolabsoftware/fink-broker/issues/1042",
+      "createdAt": "2025-10-14T11:01:48.516Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
