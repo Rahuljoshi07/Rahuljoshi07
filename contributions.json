@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760442364203,
+      "repository": "emqx/blog",
+      "issueTitle": "upload-sensor-data-to-mqtt-cloud-service-via-nodemcu-esp8266 bug",
+      "url": "https://github.com/emqx/blog/issues/1104",
+      "createdAt": "2025-10-14T11:46:04.203Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
