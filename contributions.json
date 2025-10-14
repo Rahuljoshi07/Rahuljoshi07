@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760452188752,
+      "repository": "PennLINC/aslprep",
+      "issueTitle": "aslprep 25.0.0 returning non-zero exit code even though log reports successful completion",
+      "url": "https://github.com/PennLINC/aslprep/issues/593",
+      "createdAt": "2025-10-14T14:29:48.752Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
