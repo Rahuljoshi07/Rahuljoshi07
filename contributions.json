@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760462154968,
+      "repository": "just-a-job-app/jobseeker-analytics",
+      "issueTitle": "[BUG]: Login flow annoying (too many clicks)",
+      "url": "https://github.com/just-a-job-app/jobseeker-analytics/issues/375",
+      "createdAt": "2025-10-14T17:15:54.969Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
