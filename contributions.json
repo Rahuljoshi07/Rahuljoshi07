@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760447953024,
+      "repository": "physicshub/physicshub.github.io",
+      "issueTitle": "Spring Connection Colors not working",
+      "url": "https://github.com/physicshub/physicshub.github.io/issues/66",
+      "createdAt": "2025-10-14T13:19:13.024Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
