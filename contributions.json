@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760417305914,
+      "repository": "AIR-Bench/AIR-Bench",
+      "issueTitle": "Leaderboard has runtime error",
+      "url": "https://github.com/AIR-Bench/AIR-Bench/issues/41",
+      "createdAt": "2025-10-14T04:48:25.914Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
