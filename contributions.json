@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1760467470615,
-      "repository": "jparkerweb/pixel-banner",
-      "issueTitle": "🐛 Changing the banner settings for a single note makes changes in the other properties in the frontmatter. The banner property itself adds a hyphen and becomes a question mark in the property types list.",
-      "url": "https://github.com/jparkerweb/pixel-banner/issues/289",
-      "createdAt": "2025-10-14T18:44:30.615Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
