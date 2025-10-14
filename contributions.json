@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760441185135,
+      "repository": "openwrt/asu",
+      "issueTitle": "[feature request] expand image size option",
+      "url": "https://github.com/openwrt/asu/issues/1257",
+      "createdAt": "2025-10-14T11:26:25.135Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
