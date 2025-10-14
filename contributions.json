@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760405081502,
+      "repository": "langgenius/dify-official-plugins",
+      "issueTitle": "Notion tools do not support status properties",
+      "url": "https://github.com/langgenius/dify-official-plugins/issues/1848",
+      "createdAt": "2025-10-14T01:24:41.502Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
