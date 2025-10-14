@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760433178137,
+      "repository": "Inist-CNRS/lodex",
+      "issueTitle": "(Chore : 0,5) Front > barre de recherche : il est impossible de supprimer certains caractères",
+      "url": "https://github.com/Inist-CNRS/lodex/issues/2971",
+      "createdAt": "2025-10-14T09:12:58.137Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
