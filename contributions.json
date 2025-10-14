@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1760470457630,
+      "id": 1760470509747,
       "repository": "dirkjanfaber/victron-vrm-api",
-      "issueTitle": "[BUG] Not possible to change DESS parameters anymore via NodeRed",
-      "url": "https://github.com/dirkjanfaber/victron-vrm-api/issues/30",
-      "createdAt": "2025-10-14T19:34:17.630Z",
+      "issueTitle": "[BUG] API",
+      "url": "https://github.com/dirkjanfaber/victron-vrm-api/issues/39",
+      "createdAt": "2025-10-14T19:35:09.747Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
