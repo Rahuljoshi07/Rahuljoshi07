@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760457877447,
+      "repository": "strawberry-graphql/strawberry-django",
+      "issueTitle": "Passing concrete instances to `ListInput[NodeInput]` when using model inheritance causes unintended removal of objects",
+      "url": "https://github.com/strawberry-graphql/strawberry-django/issues/793",
+      "createdAt": "2025-10-14T16:04:37.447Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
