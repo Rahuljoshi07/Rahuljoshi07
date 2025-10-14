@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760407493277,
+      "repository": "run-llama/workflows-py",
+      "issueTitle": "LlamaIndexInstrumentor doesn't automatically instrument the Workflow runs as a hierarchy",
+      "url": "https://github.com/run-llama/workflows-py/issues/62",
+      "createdAt": "2025-10-14T02:04:53.277Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
