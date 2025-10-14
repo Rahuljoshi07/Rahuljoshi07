@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760454968615,
+      "repository": "mpfaffenberger/code_puppy",
+      "issueTitle": "[BUG] File listing doesn't work when ripgrep is not installed",
+      "url": "https://github.com/mpfaffenberger/code_puppy/issues/36",
+      "createdAt": "2025-10-14T15:16:08.615Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
