@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760430720232,
+      "repository": "volcengine/veadk-python",
+      "issueTitle": "【veadk_turtorial.ipynb】error while establish connection to LongTermMemory backend ”opensearch“",
+      "url": "https://github.com/volcengine/veadk-python/issues/202",
+      "createdAt": "2025-10-14T08:32:00.232Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
