@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760470457630,
+      "repository": "dirkjanfaber/victron-vrm-api",
+      "issueTitle": "[BUG] Not possible to change DESS parameters anymore via NodeRed",
+      "url": "https://github.com/dirkjanfaber/victron-vrm-api/issues/30",
+      "createdAt": "2025-10-14T19:34:17.630Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
