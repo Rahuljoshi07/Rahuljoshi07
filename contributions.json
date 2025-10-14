@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760419458613,
+      "repository": "resilient-tech/india-compliance",
+      "issueTitle": "GSTR1 Beta - Quarterly Return Error",
+      "url": "https://github.com/resilient-tech/india-compliance/issues/3733",
+      "createdAt": "2025-10-14T05:24:18.613Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
