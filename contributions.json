@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760485575947,
+      "repository": "aws/aws-iot-device-sdk-python-v2",
+      "issueTitle": "basic_discovery.py error",
+      "url": "https://github.com/aws/aws-iot-device-sdk-python-v2/issues/631",
+      "createdAt": "2025-10-14T23:46:15.947Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
