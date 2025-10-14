@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760414784661,
+      "repository": "UEWBot/dipvis",
+      "issueTitle": "Summer Classic scoring error",
+      "url": "https://github.com/UEWBot/dipvis/issues/378",
+      "createdAt": "2025-10-14T04:06:24.661Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
