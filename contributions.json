@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760473510026,
+      "repository": "leanprover/verso",
+      "issueTitle": "Typeclass error message when a footnote is missing",
+      "url": "https://github.com/leanprover/verso/issues/567",
+      "createdAt": "2025-10-14T20:25:10.026Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
