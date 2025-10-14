@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760481335923,
+      "repository": "Simatwa/moviebox-api",
+      "issueTitle": "Client error '403 Forbidden",
+      "url": "https://github.com/Simatwa/moviebox-api/issues/41",
+      "createdAt": "2025-10-14T22:35:35.923Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
