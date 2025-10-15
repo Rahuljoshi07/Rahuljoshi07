@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760511481175,
+      "repository": "ambient-innovation/ambient-toolbox",
+      "issueTitle": "Find false positives in coverage exclusions (pragma: no-cover)",
+      "url": "https://github.com/ambient-innovation/ambient-toolbox/issues/66",
+      "createdAt": "2025-10-15T06:58:01.175Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
