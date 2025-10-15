@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760532646663,
+      "repository": "coinbase-samples/prime-sdk-py",
+      "issueTitle": "list_orders errors with missing properties on order model",
+      "url": "https://github.com/coinbase-samples/prime-sdk-py/issues/9",
+      "createdAt": "2025-10-15T12:50:46.663Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
