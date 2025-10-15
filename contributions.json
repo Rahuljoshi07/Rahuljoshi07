@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760530009963,
+      "repository": "langchain-ai/langchain-ibm",
+      "issueTitle": "[langchain-db2] Changed behavior when searching for an empty table after updating `ibm-db` to version 3.2.7.",
+      "url": "https://github.com/langchain-ai/langchain-ibm/issues/110",
+      "createdAt": "2025-10-15T12:06:49.963Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
