@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760494303701,
+      "repository": "zzc0721/torch-performance-test-data",
+      "issueTitle": "TypeError: Trying to convert Float8_e4m3fn to the MPS backend but it does not have support for that dtype.",
+      "url": "https://github.com/zzc0721/torch-performance-test-data/issues/62",
+      "createdAt": "2025-10-15T02:11:43.701Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
