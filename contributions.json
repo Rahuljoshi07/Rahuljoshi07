@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760523406256,
+      "repository": "FaserF/ha-db_infoscreen",
+      "issueTitle": "[Bug]:  Explicit setting of option flow config_entry is deprecated",
+      "url": "https://github.com/FaserF/ha-db_infoscreen/issues/66",
+      "createdAt": "2025-10-15T10:16:46.256Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
