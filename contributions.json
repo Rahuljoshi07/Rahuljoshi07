@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760534174320,
+      "repository": "N5GEH/n5geh.tools.entirety",
+      "issueTitle": "Error handling when devices not passing the validation",
+      "url": "https://github.com/N5GEH/n5geh.tools.entirety/issues/259",
+      "createdAt": "2025-10-15T13:16:14.320Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
