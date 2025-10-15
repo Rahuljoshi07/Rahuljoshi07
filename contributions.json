@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760497269123,
+      "repository": "djangopackages/djangopackages",
+      "issueTitle": "Overflow issue on main page package cards",
+      "url": "https://github.com/djangopackages/djangopackages/issues/1425",
+      "createdAt": "2025-10-15T03:01:09.123Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
