@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760550483558,
+      "repository": "KosinskiLab/AlphaPulldown",
+      "issueTitle": "fold_analysis_latest.sif generation scores problem",
+      "url": "https://github.com/KosinskiLab/AlphaPulldown/issues/480",
+      "createdAt": "2025-10-15T17:48:03.558Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
