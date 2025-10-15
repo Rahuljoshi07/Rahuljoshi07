@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760549311957,
+      "repository": "ansible/tox-ansible",
+      "issueTitle": "matrix-scope does not seem to filter environments",
+      "url": "https://github.com/ansible/tox-ansible/issues/397",
+      "createdAt": "2025-10-15T17:28:31.957Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
