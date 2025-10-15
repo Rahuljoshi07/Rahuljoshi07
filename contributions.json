@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760508623885,
+      "repository": "browserstack/browserstack-cypress-cli",
+      "issueTitle": "ERROR: Could not resolve \"util\" in version 1.33.0 and up caused by unused import",
+      "url": "https://github.com/browserstack/browserstack-cypress-cli/issues/1004",
+      "createdAt": "2025-10-15T06:10:23.885Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
