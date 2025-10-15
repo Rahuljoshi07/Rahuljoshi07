@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760513755358,
+      "repository": "nextcloud/mail",
+      "issueTitle": "messages with misspelled email addresses are stuck in outbox and cannot be sent again",
+      "url": "https://github.com/nextcloud/mail/issues/11167",
+      "createdAt": "2025-10-15T07:35:55.358Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
