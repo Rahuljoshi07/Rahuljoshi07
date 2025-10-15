@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760522275392,
+      "repository": "OpenMotionLab/MotionGPT3",
+      "issueTitle": "MoT_vae_stage2_instruct.yaml training slow",
+      "url": "https://github.com/OpenMotionLab/MotionGPT3/issues/22",
+      "createdAt": "2025-10-15T09:57:55.392Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
