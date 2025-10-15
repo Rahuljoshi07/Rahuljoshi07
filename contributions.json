@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760499558184,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Add real Django backend test instance for e2e and fuzzing tests",
+      "url": "https://github.com/OWASP/Nest/issues/2422",
+      "createdAt": "2025-10-15T03:39:18.184Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
