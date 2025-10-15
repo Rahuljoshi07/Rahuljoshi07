@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760501899486,
+      "repository": "blaylockbk/Herbie",
+      "issueTitle": "Avoiding SSL errors that cause missing timesteps",
+      "url": "https://github.com/blaylockbk/Herbie/issues/468",
+      "createdAt": "2025-10-15T04:18:19.486Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
