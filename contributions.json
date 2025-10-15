@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760510438403,
+      "repository": "urlint/urlint",
+      "issueTitle": "[Question] Does urlint account for broken anchor links (website.com/link#anchor)?",
+      "url": "https://github.com/urlint/urlint/issues/122",
+      "createdAt": "2025-10-15T06:40:38.403Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
