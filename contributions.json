@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760546218461,
-      "repository": "farjs/farjs",
-      "issueTitle": "Migrate from Scala.js to JavaScript",
-      "url": "https://github.com/farjs/farjs/issues/84",
-      "createdAt": "2025-10-15T16:36:58.461Z",
+      "id": 1760546249611,
+      "repository": "AIGNE-io/aigne-doc-smith",
+      "issueTitle": "[Bug]: aigne doc 命令应该可以告诉我本次执行大概需要耗费多少 token，超过模型限制，就不要开始执行",
+      "url": "https://github.com/AIGNE-io/aigne-doc-smith/issues/186",
+      "createdAt": "2025-10-15T16:37:29.611Z",
       "type": "comment",
-      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
