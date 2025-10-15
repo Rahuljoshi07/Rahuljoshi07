@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760550238851,
+      "repository": "uav4geo/GCPEditorPro",
+      "issueTitle": "Installation issue",
+      "url": "https://github.com/uav4geo/GCPEditorPro/issues/44",
+      "createdAt": "2025-10-15T17:43:58.851Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
