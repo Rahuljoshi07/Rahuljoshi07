@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760494038103,
+      "repository": "LibreSign/libresign",
+      "issueTitle": "Internal server error on snap (pdf version related)",
+      "url": "https://github.com/LibreSign/libresign/issues/5568",
+      "createdAt": "2025-10-15T02:07:18.103Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
