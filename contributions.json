@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760504132448,
+      "id": 1760504169605,
       "repository": "Pomax/make-webbly-things",
-      "issueTitle": "Find a way to simulate running this on slow hardware",
-      "url": "https://github.com/Pomax/make-webbly-things/issues/160",
-      "createdAt": "2025-10-15T04:55:32.448Z",
+      "issueTitle": "Websockets may be cutting out?",
+      "url": "https://github.com/Pomax/make-webbly-things/issues/151",
+      "createdAt": "2025-10-15T04:56:09.605Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
