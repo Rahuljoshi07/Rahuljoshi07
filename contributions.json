@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760579605701,
+      "repository": "speced/respec",
+      "issueTitle": "ReSpec light/dark mode did not respect user preference",
+      "url": "https://github.com/speced/respec/issues/5058",
+      "createdAt": "2025-10-16T01:53:25.701Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
