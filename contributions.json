@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760617702309,
+      "repository": "kartoza/django-bims",
+      "issueTitle": "Issues reported before the FBIS-africa launch presentation",
+      "url": "https://github.com/kartoza/django-bims/issues/4851",
+      "createdAt": "2025-10-16T12:28:22.309Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
