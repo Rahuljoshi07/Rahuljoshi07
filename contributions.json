@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760582872883,
-      "repository": "intbot/ng2-pdfjs-viewer",
-      "issueTitle": "Error when Content Security Policy directive \"style-src-attr 'self'\"",
-      "url": "https://github.com/intbot/ng2-pdfjs-viewer/issues/285",
-      "createdAt": "2025-10-16T02:47:52.883Z",
+      "id": 1760582950948,
+      "repository": "Team-intN18-SoybeanSeclab/Phantom",
+      "issueTitle": "深度扫描功能在进度20%左右会导致可能的崩溃",
+      "url": "https://github.com/Team-intN18-SoybeanSeclab/Phantom/issues/8",
+      "createdAt": "2025-10-16T02:49:10.948Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
