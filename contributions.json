@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760645808710,
+      "id": 1760645898313,
       "repository": "nextcloud/text",
-      "issueTitle": "Link menu button in lists",
-      "url": "https://github.com/nextcloud/text/issues/6814",
-      "createdAt": "2025-10-16T20:16:48.710Z",
+      "issueTitle": "read-only link sharing of .md should not allow changing links from text to link-preview mode",
+      "url": "https://github.com/nextcloud/text/issues/7693",
+      "createdAt": "2025-10-16T20:18:18.313Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
