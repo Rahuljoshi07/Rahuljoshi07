@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760626114618,
+      "repository": "chung-leong/zigar",
+      "issueTitle": "IO redirection not working on ARM64",
+      "url": "https://github.com/chung-leong/zigar/issues/750",
+      "createdAt": "2025-10-16T14:48:34.618Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
