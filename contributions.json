@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760582812662,
+      "id": 1760582872883,
       "repository": "intbot/ng2-pdfjs-viewer",
       "issueTitle": "Error when Content Security Policy directive \"style-src-attr 'self'\"",
       "url": "https://github.com/intbot/ng2-pdfjs-viewer/issues/285",
-      "createdAt": "2025-10-16T02:46:52.662Z",
+      "createdAt": "2025-10-16T02:47:52.883Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
