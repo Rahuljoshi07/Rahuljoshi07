@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760639344604,
+      "repository": "mit-submit/A2rchi",
+      "issueTitle": "Installation issues on CERN VMs",
+      "url": "https://github.com/mit-submit/A2rchi/issues/313",
+      "createdAt": "2025-10-16T18:29:04.604Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
