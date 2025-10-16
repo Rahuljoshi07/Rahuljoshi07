@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760629435783,
+      "repository": "AllenInstitute/cell_type_mapper",
+      "issueTitle": "RuntimeError: One of the processes exited with code -7",
+      "url": "https://github.com/AllenInstitute/cell_type_mapper/issues/35",
+      "createdAt": "2025-10-16T15:43:55.783Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
