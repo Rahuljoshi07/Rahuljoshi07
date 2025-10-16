@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760607939887,
+      "repository": "open-telemetry/opentelemetry.io",
+      "issueTitle": "[Page feedback]: demo and docs not in sync and giving lot of errors since too many containers",
+      "url": "https://github.com/open-telemetry/opentelemetry.io/issues/8110",
+      "createdAt": "2025-10-16T09:45:39.887Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
