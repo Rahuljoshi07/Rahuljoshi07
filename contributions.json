@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760620047500,
+      "repository": "mosheng1/QuickClipboard",
+      "issueTitle": "[BUG] 以管理员身份运行其他软件后，截屏界面是上一次的界面",
+      "url": "https://github.com/mosheng1/QuickClipboard/issues/115",
+      "createdAt": "2025-10-16T13:07:27.500Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
