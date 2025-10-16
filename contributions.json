@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760597677505,
+      "repository": "open-telemetry/opentelemetry.io",
+      "issueTitle": "Add alias to language index files to address top language 404s under `/docs`",
+      "url": "https://github.com/open-telemetry/opentelemetry.io/issues/8105",
+      "createdAt": "2025-10-16T06:54:37.505Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
