@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760643413631,
+      "repository": "aws-deadline/deadline-cloud-for-blender",
+      "issueTitle": "Title: Camera binding (\"Bind Camera to Markers\") is not respected when \"All renderable cameras\" option is used or when default camera is locked",
+      "url": "https://github.com/aws-deadline/deadline-cloud-for-blender/issues/268",
+      "createdAt": "2025-10-16T19:36:53.631Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
