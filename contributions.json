@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760658763421,
+      "repository": "bokeh/bokeh-django",
+      "issueTitle": "\"binary fragment but received text fragment\" error when assigning panel.widgets.Tabulator.value to empty DataFrame in button event",
+      "url": "https://github.com/bokeh/bokeh-django/issues/14",
+      "createdAt": "2025-10-16T23:52:43.421Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
