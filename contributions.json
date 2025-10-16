@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760598634255,
+      "repository": "Hyundai-Kia-Connect/hyundai_kia_connect_api",
+      "issueTitle": "Kia Europe Login Flow... issue with encode character '\\u2705' (windows powershell)",
+      "url": "https://github.com/Hyundai-Kia-Connect/hyundai_kia_connect_api/issues/916",
+      "createdAt": "2025-10-16T07:10:34.255Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
