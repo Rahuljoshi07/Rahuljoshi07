@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760619581769,
+      "repository": "nextcloud/text",
+      "issueTitle": "Bug Report: First character is duplicated when typing Japanese with IME",
+      "url": "https://github.com/nextcloud/text/issues/7789",
+      "createdAt": "2025-10-16T12:59:41.770Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
