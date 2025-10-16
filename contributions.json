@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760635720694,
+      "repository": "ietf-tools/datatracker",
+      "issueTitle": "Add IESG WG dashboard to the DT menu",
+      "url": "https://github.com/ietf-tools/datatracker/issues/9730",
+      "createdAt": "2025-10-16T17:28:40.694Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. This suggestion is particularly relevant..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
