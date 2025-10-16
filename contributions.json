@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760638074843,
+      "repository": "django-commons/django-tasks-scheduler",
+      "issueTitle": "Intermittent failure: test_stop_job_command__success on py3.11/dj5.2.5/fakeredis job",
+      "url": "https://github.com/django-commons/django-tasks-scheduler/issues/321",
+      "createdAt": "2025-10-16T18:07:54.843Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
