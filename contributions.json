@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760600492397,
+      "repository": "Inist-CNRS/lodex",
+      "issueTitle": "Admin : petit bug la barre de progression quand on lance 2 précalculs",
+      "url": "https://github.com/Inist-CNRS/lodex/issues/2983",
+      "createdAt": "2025-10-16T07:41:32.397Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
