@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760577561185,
+      "repository": "nextcloud/photos",
+      "issueTitle": "\"Create new album from filters\" also includes images that are not in Photos",
+      "url": "https://github.com/nextcloud/photos/issues/3234",
+      "createdAt": "2025-10-16T01:19:21.185Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
