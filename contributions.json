@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760625217412,
+      "repository": "Gyanthakur/component-library",
+      "issueTitle": "Issue: Dropdown and Preview Mode Visibility Issues in Dark Mode",
+      "url": "https://github.com/Gyanthakur/component-library/issues/142",
+      "createdAt": "2025-10-16T14:33:37.412Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
