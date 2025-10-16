@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760649940306,
+      "repository": "avaframe/AvaFrame",
+      "issueTitle": "[tests] avaframe\\tests\\test_DFAfunctionsCython.py",
+      "url": "https://github.com/avaframe/AvaFrame/issues/1192",
+      "createdAt": "2025-10-16T21:25:40.306Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
