@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760673617212,
+      "repository": "inaturalist/inaturalist",
+      "issueTitle": "Explore: Species page sometimes shows \"Unknown\" for each species",
+      "url": "https://github.com/inaturalist/inaturalist/issues/4335",
+      "createdAt": "2025-10-17T04:00:17.212Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
