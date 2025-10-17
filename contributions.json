@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760705994506,
+      "repository": "cheminfo/rest-on-couch",
+      "issueTitle": "Detect dependency issues automatically",
+      "url": "https://github.com/cheminfo/rest-on-couch/issues/449",
+      "createdAt": "2025-10-17T12:59:54.506Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
