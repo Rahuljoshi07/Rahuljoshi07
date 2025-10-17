@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760712497826,
+      "repository": "SalesforceLabs/OrgCheck",
+      "issueTitle": "Profile field '#Active users' also counts Inactive users",
+      "url": "https://github.com/SalesforceLabs/OrgCheck/issues/588",
+      "createdAt": "2025-10-17T14:48:17.826Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
