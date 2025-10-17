@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760725372690,
+      "repository": "zesty-io/website",
+      "issueTitle": "[Dashboard] - When a user click \"Create Instance\" there is no way to exit instance creation",
+      "url": "https://github.com/zesty-io/website/issues/2511",
+      "createdAt": "2025-10-17T18:22:52.690Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
