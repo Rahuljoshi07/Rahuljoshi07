@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760698444263,
+      "repository": "iTwin/bis-schemas",
+      "issueTitle": "Building biscore schema part is failing while the PR validation of version 01.00.24",
+      "url": "https://github.com/iTwin/bis-schemas/issues/607",
+      "createdAt": "2025-10-17T10:54:04.263Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
