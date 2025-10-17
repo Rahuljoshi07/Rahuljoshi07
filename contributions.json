@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760715909605,
+      "repository": "sunmh207/AI-Codereview-Gitlab",
+      "issueTitle": "[Bug]: AI Code Review 服务出现未知错误: 'latin-1' codec can't encode characters in position 22-29: ordinal not in range",
+      "url": "https://github.com/sunmh207/AI-Codereview-Gitlab/issues/141",
+      "createdAt": "2025-10-17T15:45:09.605Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
