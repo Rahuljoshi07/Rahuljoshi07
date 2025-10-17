@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760691656152,
+      "repository": "open-telemetry/opentelemetry.io",
+      "issueTitle": "[CI] pr-actions.yml fails when there is not patch generated",
+      "url": "https://github.com/open-telemetry/opentelemetry.io/issues/8142",
+      "createdAt": "2025-10-17T09:00:56.152Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
