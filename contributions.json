@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760722852806,
+      "repository": "bdaiinstitute/ros_utilities",
+      "issueTitle": "intermittent error generated in wait_for_message",
+      "url": "https://github.com/bdaiinstitute/ros_utilities/issues/60",
+      "createdAt": "2025-10-17T17:40:52.806Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
