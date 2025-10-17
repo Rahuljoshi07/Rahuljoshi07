@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760739950386,
+      "repository": "GoogleChrome/chromium-dashboard",
+      "issueTitle": "Flaky Playwright test regarding Web Feature field",
+      "url": "https://github.com/GoogleChrome/chromium-dashboard/issues/5559",
+      "createdAt": "2025-10-17T22:25:50.386Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
