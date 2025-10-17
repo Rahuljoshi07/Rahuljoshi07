@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760701105876,
-      "repository": "GetStream/stream-video-js",
-      "issueTitle": "Can't build using noise cancellation using Expo SDK 53",
-      "url": "https://github.com/GetStream/stream-video-js/issues/1962",
-      "createdAt": "2025-10-17T11:38:25.876Z",
+      "id": 1760701192525,
+      "repository": "cheminfo/rest-on-couch",
+      "issueTitle": "Avoid CodeQL errors",
+      "url": "https://github.com/cheminfo/rest-on-couch/issues/441",
+      "createdAt": "2025-10-17T11:39:52.525Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
