@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760694194568,
+      "repository": "leeguooooo/cross-request-master",
+      "issueTitle": "4.4.13参数会导致jquery下的$.get参数缺失掉",
+      "url": "https://github.com/leeguooooo/cross-request-master/issues/20",
+      "createdAt": "2025-10-17T09:43:14.568Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
