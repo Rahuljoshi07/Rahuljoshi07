@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760714436336,
+      "repository": "2dos/DK64-Randomizer",
+      "issueTitle": "Softlock upon collecting Japes Free Diddy reward",
+      "url": "https://github.com/2dos/DK64-Randomizer/issues/2627",
+      "createdAt": "2025-10-17T15:20:36.336Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
