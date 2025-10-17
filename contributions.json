@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760695260539,
+      "repository": "3liz/lizmap-web-client",
+      "issueTitle": "[Bug]: Lizmap filter with GeoPackage layer triggers \"no such function: GeomFromGPB\" in logs",
+      "url": "https://github.com/3liz/lizmap-web-client/issues/6165",
+      "createdAt": "2025-10-17T10:01:00.539Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
