@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760729144796,
+      "repository": "pinecreativelabs/Brutalist-Framework",
+      "issueTitle": "Fatal error: Uncaught ArgumentCountError: Too few arguments to function get_client_language(), 0 passed in /var/www/html/core/bekah.php on line 247",
+      "url": "https://github.com/pinecreativelabs/Brutalist-Framework/issues/6",
+      "createdAt": "2025-10-17T19:25:44.796Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
