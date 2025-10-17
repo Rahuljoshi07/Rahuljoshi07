@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760692375560,
+      "repository": "SandeepVashishtha/Eventra",
+      "issueTitle": "Registration button leads to 404 error (No registration page)",
+      "url": "https://github.com/SandeepVashishtha/Eventra/issues/252",
+      "createdAt": "2025-10-17T09:12:55.560Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
