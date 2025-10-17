@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760711308323,
+      "repository": "cisagov/pshtt",
+      "issueTitle": "pshtt and sslyze appear to be inconsistent with respect to certificate expiration",
+      "url": "https://github.com/cisagov/pshtt/issues/181",
+      "createdAt": "2025-10-17T14:28:28.323Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
