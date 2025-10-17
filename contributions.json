@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760688934841,
+      "repository": "obdasystems/eddy",
+      "issueTitle": "[BUG]: App freezes on macOS 26.1 beta, on Ontology property edition",
+      "url": "https://github.com/obdasystems/eddy/issues/303",
+      "createdAt": "2025-10-17T08:15:34.841Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
