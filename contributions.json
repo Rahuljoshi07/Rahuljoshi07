@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760743402848,
+      "repository": "bakustarver/rpgmakermlinux-cicpoffs",
+      "issueTitle": "[Bug] Attempt to load child_process was blocked",
+      "url": "https://github.com/bakustarver/rpgmakermlinux-cicpoffs/issues/47",
+      "createdAt": "2025-10-17T23:23:22.848Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
