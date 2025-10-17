@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760721758461,
+      "repository": "CometVisu/CometVisu",
+      "issueTitle": "TypeError: Cannot use 'in' operator to search for 'server_release' in <br />",
+      "url": "https://github.com/CometVisu/CometVisu/issues/1322",
+      "createdAt": "2025-10-17T17:22:38.461Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
