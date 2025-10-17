@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760729296264,
-      "repository": "2M4U/2m4u",
-      "issueTitle": "Possible fixes for update.js",
-      "url": "https://github.com/2M4U/2m4u/issues/6",
-      "createdAt": "2025-10-17T19:28:16.264Z",
+      "id": 1760729336296,
+      "repository": "simatec/ioBroker.backitup",
+      "issueTitle": "Löschen per FTP von \"alten\" Backups funktioniert nicht, debug Infos nicht ausreichend.",
+      "url": "https://github.com/simatec/ioBroker.backitup/issues/1265",
+      "createdAt": "2025-10-17T19:28:56.296Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
