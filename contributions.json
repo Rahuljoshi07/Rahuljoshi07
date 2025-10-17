@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760720337192,
+      "repository": "edgi-govdata-archiving/web-monitoring-ui",
+      "issueTitle": "Handle non-renderable content better",
+      "url": "https://github.com/edgi-govdata-archiving/web-monitoring-ui/issues/1067",
+      "createdAt": "2025-10-17T16:58:57.192Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
