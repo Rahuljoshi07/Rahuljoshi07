@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760714575132,
+      "repository": "IBM/node-odbc",
+      "issueTitle": "[BUG] Cursor with fetchSize > 1 results in error on prepared statement",
+      "url": "https://github.com/IBM/node-odbc/issues/329",
+      "createdAt": "2025-10-17T15:22:55.132Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
