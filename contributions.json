@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760799918565,
+      "repository": "steveberardi/starplot",
+      "issueTitle": "Illegal instruction error on raspberry pi zero",
+      "url": "https://github.com/steveberardi/starplot/issues/170",
+      "createdAt": "2025-10-18T15:05:18.565Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
