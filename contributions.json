@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760788656384,
+      "repository": "fastify/light-my-request",
+      "issueTitle": "A way to set defaults of headers / query params",
+      "url": "https://github.com/fastify/light-my-request/issues/336",
+      "createdAt": "2025-10-18T11:57:36.384Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
