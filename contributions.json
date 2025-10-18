@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760828210216,
+      "repository": "bevry/domain-browser",
+      "issueTitle": "Add support for .enter() and .exit()",
+      "url": "https://github.com/bevry/domain-browser/issues/4",
+      "createdAt": "2025-10-18T22:56:50.216Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
