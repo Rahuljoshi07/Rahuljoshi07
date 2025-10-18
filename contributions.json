@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760781940836,
+      "repository": "JarryShaw/PyPCAPKit",
+      "issueTitle": "Prevent `DictDumper.object_hook` from calling `.to_dict()` on native `dict` objects (avoids `AttributeError`)",
+      "url": "https://github.com/JarryShaw/PyPCAPKit/issues/272",
+      "createdAt": "2025-10-18T10:05:40.836Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
