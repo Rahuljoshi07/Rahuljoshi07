@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760815317775,
+      "repository": "radiantlogicinc/fastworkflow",
+      "issueTitle": "Startup command bug",
+      "url": "https://github.com/radiantlogicinc/fastworkflow/issues/35",
+      "createdAt": "2025-10-18T19:21:57.775Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
