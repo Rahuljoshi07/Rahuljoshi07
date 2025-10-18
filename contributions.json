@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760801860410,
-      "repository": "2M4U/2m4u",
-      "issueTitle": "Possible fixes for update.js",
-      "url": "https://github.com/2M4U/2m4u/issues/6",
-      "createdAt": "2025-10-18T15:37:40.410Z",
+      "id": 1760801894009,
+      "repository": "mdziekon/octoprint-spoolman",
+      "issueTitle": "[BUG] This plugin reports filament consumption several times",
+      "url": "https://github.com/mdziekon/octoprint-spoolman/issues/73",
+      "createdAt": "2025-10-18T15:38:14.009Z",
       "type": "comment",
-      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
