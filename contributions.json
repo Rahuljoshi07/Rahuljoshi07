@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760821793133,
+      "repository": "NVIDIA-NeMo/RL",
+      "issueTitle": "Sequence packing + no dynamic batching failure on 8b",
+      "url": "https://github.com/NVIDIA-NeMo/RL/issues/648",
+      "createdAt": "2025-10-18T21:09:53.133Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
