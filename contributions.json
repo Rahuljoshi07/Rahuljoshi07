@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760794915884,
+      "repository": "biotite-dev/biotite",
+      "issueTitle": "Bond can be created of an atom to itself",
+      "url": "https://github.com/biotite-dev/biotite/issues/812",
+      "createdAt": "2025-10-18T13:41:55.884Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
