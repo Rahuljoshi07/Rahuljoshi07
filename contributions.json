@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760819331693,
+      "repository": "WARP-LAB/files_3dmodelviewer",
+      "issueTitle": "Nextcloud v32.0.0 (Hub 25) \"no app in contex\"",
+      "url": "https://github.com/WARP-LAB/files_3dmodelviewer/issues/37",
+      "createdAt": "2025-10-18T20:28:51.694Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
