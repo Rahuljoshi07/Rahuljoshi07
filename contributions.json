@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1760806571528,
+      "id": 1760806609826,
       "repository": "ioBroker/ioBroker.iot",
       "issueTitle": "TypeError: Cannot create property 'smartType' on boolean 'true'",
       "url": "https://github.com/ioBroker/ioBroker.iot/issues/981",
-      "createdAt": "2025-10-18T16:56:11.528Z",
+      "createdAt": "2025-10-18T16:56:49.826Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
