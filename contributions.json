@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760828671575,
+      "repository": "ananddtyagi/claude-code-marketplace",
+      "issueTitle": "Bug: Invalid 'agents' field causing plugin loading failures",
+      "url": "https://github.com/ananddtyagi/claude-code-marketplace/issues/1",
+      "createdAt": "2025-10-18T23:04:31.575Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
