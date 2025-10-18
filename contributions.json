@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760821274409,
+      "repository": "Nokse22/high-tide",
+      "issueTitle": "Closing app mid-song sometimes causes the song to continue playing",
+      "url": "https://github.com/Nokse22/high-tide/issues/192",
+      "createdAt": "2025-10-18T21:01:14.410Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
