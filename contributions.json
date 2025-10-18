@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760791997198,
+      "repository": "nextcloud/collectives",
+      "issueTitle": "Three dots menu next to links is hidden on small screens / window sizes",
+      "url": "https://github.com/nextcloud/collectives/issues/1920",
+      "createdAt": "2025-10-18T12:53:17.199Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
