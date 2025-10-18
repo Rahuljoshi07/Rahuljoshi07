@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760806544845,
-      "repository": "schumijo/iptv",
-      "issueTitle": "Encoding issue in fr.m3u8 (UTF-8 misinterpreted as ISO-8859-1)",
-      "url": "https://github.com/schumijo/iptv/issues/10",
-      "createdAt": "2025-10-18T16:55:44.845Z",
+      "id": 1760806571528,
+      "repository": "ioBroker/ioBroker.iot",
+      "issueTitle": "TypeError: Cannot create property 'smartType' on boolean 'true'",
+      "url": "https://github.com/ioBroker/ioBroker.iot/issues/981",
+      "createdAt": "2025-10-18T16:56:11.528Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
