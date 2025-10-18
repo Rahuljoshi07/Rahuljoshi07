@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760790472011,
+      "repository": "Kruithne/wow.export",
+      "issueTitle": "GLTF Bug - Import only 1 frame to Unreal Engine and gltf viewer extensions in vscode",
+      "url": "https://github.com/Kruithne/wow.export/issues/470",
+      "createdAt": "2025-10-18T12:27:52.012Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
