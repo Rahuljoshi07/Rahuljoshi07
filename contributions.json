@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760748232915,
+      "repository": "AllTheMods/ATM-10",
+      "issueTitle": "[Modpack Bug]: Apotheosis Gate Pearl Gateways break when spawning Shiny mobs",
+      "url": "https://github.com/AllTheMods/ATM-10/issues/3534",
+      "createdAt": "2025-10-18T00:43:52.915Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
