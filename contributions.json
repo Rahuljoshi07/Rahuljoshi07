@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1760782943025,
+      "id": 1760782971415,
       "repository": "nextcloud/forms",
       "issueTitle": "Can't create form : Unknown column 'allow_edit_submissions' in 'field list'",
       "url": "https://github.com/nextcloud/forms/issues/2954",
-      "createdAt": "2025-10-18T10:22:23.026Z",
+      "createdAt": "2025-10-18T10:22:51.415Z",
       "type": "comment",
       "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
