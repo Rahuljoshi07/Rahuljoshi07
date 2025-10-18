@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760774158099,
-      "repository": "2M4U/2m4u",
-      "issueTitle": "Possible fixes for update.js",
-      "url": "https://github.com/2M4U/2m4u/issues/6",
-      "createdAt": "2025-10-18T07:55:58.099Z",
+      "id": 1760774193937,
+      "repository": "QuoteVote/quotevote-monorepo",
+      "issueTitle": "🐞 Bug: Password Reset Email Generates Broken URL",
+      "url": "https://github.com/QuoteVote/quotevote-monorepo/issues/139",
+      "createdAt": "2025-10-18T07:56:33.937Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
