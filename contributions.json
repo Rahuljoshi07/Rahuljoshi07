@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760878403399,
+      "id": 1760878440678,
       "repository": "RocketChat/EmbeddedChat",
       "issueTitle": "Version Mismatch: @embeddedchat/api Not Recognized in Monorepo Workspace",
       "url": "https://github.com/RocketChat/EmbeddedChat/issues/1000",
-      "createdAt": "2025-10-19T12:53:23.399Z",
+      "createdAt": "2025-10-19T12:54:00.678Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
