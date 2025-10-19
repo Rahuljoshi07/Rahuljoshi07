@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760875067124,
+      "repository": "calkit/calkit",
+      "issueTitle": "If notebook storage is enabled after being null, we should remove from `.gitignore`",
+      "url": "https://github.com/calkit/calkit/issues/556",
+      "createdAt": "2025-10-19T11:57:47.125Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
