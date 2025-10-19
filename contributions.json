@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760850519437,
+      "repository": "scratchfoundation/scratch-editor",
+      "issueTitle": "Face sensing can get stuck in the project (also the translate extension)",
+      "url": "https://github.com/scratchfoundation/scratch-editor/issues/352",
+      "createdAt": "2025-10-19T05:08:39.437Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
