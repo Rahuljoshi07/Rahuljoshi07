@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760918344972,
+      "repository": "adamlui/chatgpt-widescreen",
+      "issueTitle": "【Suggestion】【UI】Table rendering in widescreen mode can use the default display method, no scroll bar, default line breaks, now may cause an illusion that the content is missing",
+      "url": "https://github.com/adamlui/chatgpt-widescreen/issues/239",
+      "createdAt": "2025-10-19T23:59:04.972Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
