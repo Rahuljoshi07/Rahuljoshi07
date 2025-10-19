@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760870864841,
+      "repository": "ServiceNowDevProgram/code-snippets",
+      "issueTitle": "Issue with IP Validation regex",
+      "url": "https://github.com/ServiceNowDevProgram/code-snippets/issues/2176",
+      "createdAt": "2025-10-19T10:47:44.841Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
