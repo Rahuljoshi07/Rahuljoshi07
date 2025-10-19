@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760901376700,
+      "repository": "OpenCodeChicago/hacktoberfest-2025-frontend",
+      "issueTitle": "Page does not scroll to top after navigation",
+      "url": "https://github.com/OpenCodeChicago/hacktoberfest-2025-frontend/issues/179",
+      "createdAt": "2025-10-19T19:16:16.701Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
