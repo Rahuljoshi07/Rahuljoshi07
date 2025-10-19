@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760876332813,
+      "repository": "gergelyszabo94/csgo-trader-extension",
+      "issueTitle": "Error when using \"Check prices on PRICEMPIRE.COM\" in items with a \"-\" at the end",
+      "url": "https://github.com/gergelyszabo94/csgo-trader-extension/issues/568",
+      "createdAt": "2025-10-19T12:18:52.813Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
