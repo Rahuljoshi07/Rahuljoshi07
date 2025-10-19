@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760845956163,
+      "repository": "D-Sketon/hexo-theme-reimu",
+      "issueTitle": "更新依赖到最新后出现诸多问题",
+      "url": "https://github.com/D-Sketon/hexo-theme-reimu/issues/120",
+      "createdAt": "2025-10-19T03:52:36.163Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
