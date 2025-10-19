@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760842268813,
+      "repository": "EduHaven/EduHaven",
+      "issueTitle": "Bug: Cancel request button have no background color visible.",
+      "url": "https://github.com/EduHaven/EduHaven/issues/958",
+      "createdAt": "2025-10-19T02:51:08.813Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
