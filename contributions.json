@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760895232759,
-      "repository": "layer5io/layer5",
-      "issueTitle": "Large Image Sizes and PNG Format Causing Performance Issues.",
-      "url": "https://github.com/layer5io/layer5/issues/5854",
-      "createdAt": "2025-10-19T17:33:52.759Z",
+      "id": 1760895295848,
+      "repository": "pytorch/tensordict",
+      "issueTitle": "[BUG] tensordict.nn.dispatch does not have expected behavior",
+      "url": "https://github.com/pytorch/tensordict/issues/1459",
+      "createdAt": "2025-10-19T17:34:55.848Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
