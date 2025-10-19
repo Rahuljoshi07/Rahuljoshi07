@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760882865837,
+      "repository": "OpShin/opshin",
+      "issueTitle": "List of Any/Union (nested) is not appropriately cast",
+      "url": "https://github.com/OpShin/opshin/issues/496",
+      "createdAt": "2025-10-19T14:07:45.837Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
