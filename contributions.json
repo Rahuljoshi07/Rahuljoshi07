@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760860096424,
+      "repository": "aliyun/darabonba-openapi",
+      "issueTitle": "Encounter error due to malformed go comment",
+      "url": "https://github.com/aliyun/darabonba-openapi/issues/221",
+      "createdAt": "2025-10-19T07:48:16.424Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
