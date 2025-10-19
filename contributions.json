@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760887362203,
+      "repository": "mahaveergurjar/AlgoVisualizer",
+      "issueTitle": "[BUG]:Duplicate Question: \"Move Zero\" and \"Move Zero to the End\"",
+      "url": "https://github.com/mahaveergurjar/AlgoVisualizer/issues/178",
+      "createdAt": "2025-10-19T15:22:42.203Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
