@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760894286331,
+      "repository": "GTBitsOfGood/VolunTrack",
+      "issueTitle": "[PMT] - Confirmation Emails Sent w/o Approval + No Confirmation Email on Denial",
+      "url": "https://github.com/GTBitsOfGood/VolunTrack/issues/500",
+      "createdAt": "2025-10-19T17:18:06.331Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
