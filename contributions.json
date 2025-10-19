@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760905595047,
+      "repository": "ServiceNowDevProgram/code-snippets",
+      "issueTitle": "Issue with UI Action Implementation for Incident Cancellation",
+      "url": "https://github.com/ServiceNowDevProgram/code-snippets/issues/2299",
+      "createdAt": "2025-10-19T20:26:35.047Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
