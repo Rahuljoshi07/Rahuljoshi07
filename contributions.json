@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760863145739,
+      "repository": "shaise/FreeCAD_SheetMetal",
+      "issueTitle": "In the realthunder \"branch\" - your latest changes do not work",
+      "url": "https://github.com/shaise/FreeCAD_SheetMetal/issues/542",
+      "createdAt": "2025-10-19T08:39:05.739Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
