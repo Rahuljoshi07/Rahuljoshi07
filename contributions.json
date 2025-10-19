@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760853307883,
+      "repository": "eccentriccoder01/Spamlyser",
+      "issueTitle": "UI Bug: Text becomes unreadable in sidebar when Dark Mode is enabled",
+      "url": "https://github.com/eccentriccoder01/Spamlyser/issues/122",
+      "createdAt": "2025-10-19T05:55:07.883Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
