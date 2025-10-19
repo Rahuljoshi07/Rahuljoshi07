@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760878327430,
+      "repository": "ArduPilot/MethodicConfigurator",
+      "issueTitle": "MOT_PWM_TYPE Discrepancy for DSHOT600",
+      "url": "https://github.com/ArduPilot/MethodicConfigurator/issues/939",
+      "createdAt": "2025-10-19T12:52:07.430Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
