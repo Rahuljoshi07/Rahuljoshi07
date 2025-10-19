@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760851376428,
+      "repository": "browniebroke/django-codemod",
+      "issueTitle": "Option to show diffs",
+      "url": "https://github.com/browniebroke/django-codemod/issues/501",
+      "createdAt": "2025-10-19T05:22:56.428Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
