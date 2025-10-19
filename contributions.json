@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760881160070,
+      "repository": "grindsa/acme2certifier",
+      "issueTitle": "Fortigate devices cannot handle order state `valid` correctly",
+      "url": "https://github.com/grindsa/acme2certifier/issues/269",
+      "createdAt": "2025-10-19T13:39:20.070Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
