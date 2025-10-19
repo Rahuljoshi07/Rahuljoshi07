@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760903378625,
+      "id": 1760903408614,
       "repository": "OpenCodeChicago/hacktoberfest-2025-frontend",
       "issueTitle": "Page does not scroll to top after navigation",
       "url": "https://github.com/OpenCodeChicago/hacktoberfest-2025-frontend/issues/179",
-      "createdAt": "2025-10-19T19:49:38.625Z",
+      "createdAt": "2025-10-19T19:50:08.614Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
