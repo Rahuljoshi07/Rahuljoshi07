@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760917486443,
+      "id": 1760917524867,
       "repository": "adamlui/ai-web-extensions",
       "issueTitle": "Chatbot sub-modals cause parent to slightly zoom on dismiss on mobile",
       "url": "https://github.com/adamlui/ai-web-extensions/issues/248",
-      "createdAt": "2025-10-19T23:44:46.443Z",
+      "createdAt": "2025-10-19T23:45:24.867Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
     }
   ],
   "stats": {
