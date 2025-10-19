@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760890185897,
+      "repository": "katelyynn/bleh",
+      "issueTitle": "oracle test cases for you for wrong detection",
+      "url": "https://github.com/katelyynn/bleh/issues/300",
+      "createdAt": "2025-10-19T16:09:45.897Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
