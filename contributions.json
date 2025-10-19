@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760866057879,
+      "repository": "chisewaguri/systemapp_nuker",
+      "issueTitle": "BUG: Nuked apps getting randomly activated again after reboot",
+      "url": "https://github.com/chisewaguri/systemapp_nuker/issues/45",
+      "createdAt": "2025-10-19T09:27:37.879Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
