@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760902516619,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Update `RepositoriesCard` component to `RepositoryCard` and add cursor pointer",
+      "url": "https://github.com/OWASP/Nest/issues/2447",
+      "createdAt": "2025-10-19T19:35:16.619Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
