@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760903749008,
+      "repository": "steveberardi/starplot",
+      "issueTitle": "CatalogException: Catalog Error: Scalar Function with name \"st_point\" is not in the catalog, but it exists in the spatial extension",
+      "url": "https://github.com/steveberardi/starplot/issues/175",
+      "createdAt": "2025-10-19T19:55:49.008Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
