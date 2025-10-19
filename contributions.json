@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760904007467,
+      "repository": "hukkin/mdformat",
+      "issueTitle": "ImportError: cannot import name 'unescape_string' from 'markdown_it.common.normalize_url' when formatting text",
+      "url": "https://github.com/hukkin/mdformat/issues/536",
+      "createdAt": "2025-10-19T20:00:07.467Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
