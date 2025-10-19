@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760887081406,
+      "repository": "kazysmaster/gnome-shell-extension-lockkeys",
+      "issueTitle": "[BUG] With Caps-Lock only, Num-Lock notifications still pop up",
+      "url": "https://github.com/kazysmaster/gnome-shell-extension-lockkeys/issues/134",
+      "createdAt": "2025-10-19T15:18:01.406Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
