@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760860625706,
+      "repository": "GauravKarakoti/Weather-API",
+      "issueTitle": "Mobile Responsiveness Issues",
+      "url": "https://github.com/GauravKarakoti/Weather-API/issues/215",
+      "createdAt": "2025-10-19T07:57:05.706Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
