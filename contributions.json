@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760893616314,
+      "repository": "fjarri-eth/pons",
+      "issueTitle": "Allow users to handle \"too many requests\" error (or handle it ourselves)",
+      "url": "https://github.com/fjarri-eth/pons/issues/69",
+      "createdAt": "2025-10-19T17:06:56.314Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
