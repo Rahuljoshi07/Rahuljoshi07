@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760905630267,
+      "id": 1760905663232,
       "repository": "danielmiessler/Personal_AI_Infrastructure",
-      "issueTitle": "Conflicting env-setting mechanism",
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure/issues/48",
-      "createdAt": "2025-10-19T20:27:10.267Z",
+      "issueTitle": "Initial hook errors after a fresh setup",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure/issues/45",
+      "createdAt": "2025-10-19T20:27:43.232Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
