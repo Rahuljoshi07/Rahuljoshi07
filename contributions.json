@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760894590862,
+      "repository": "chekos/Datawrapper",
+      "issueTitle": "refresh_data API reference stopped working",
+      "url": "https://github.com/chekos/Datawrapper/issues/418",
+      "createdAt": "2025-10-19T17:23:10.863Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
