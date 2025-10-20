@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1760967724263,
-      "repository": "thedumbterminal/jsonschema-bigquery",
-      "issueTitle": "Support draft-7 if conditional in required fields",
-      "url": "https://github.com/thedumbterminal/jsonschema-bigquery/issues/136",
-      "createdAt": "2025-10-20T13:42:04.263Z",
+      "id": 1760967762912,
+      "repository": "chung-leong/zigar",
+      "issueTitle": "Don't put read-only proxy around regular JS objects like typed arrays",
+      "url": "https://github.com/chung-leong/zigar/issues/760",
+      "createdAt": "2025-10-20T13:42:42.912Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
