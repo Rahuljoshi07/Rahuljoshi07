@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760938509588,
+      "repository": "fedora-infra/bodhi",
+      "issueTitle": "Update's meets_requirements_why doesn't enforce test case and bug feedback requirements",
+      "url": "https://github.com/fedora-infra/bodhi/issues/5955",
+      "createdAt": "2025-10-20T05:35:09.588Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
