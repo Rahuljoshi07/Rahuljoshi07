@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760992219366,
+      "repository": "mattgodbolt/jsbeeb",
+      "issueTitle": "Copy 'key' gets stuck",
+      "url": "https://github.com/mattgodbolt/jsbeeb/issues/310",
+      "createdAt": "2025-10-20T20:30:19.366Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
