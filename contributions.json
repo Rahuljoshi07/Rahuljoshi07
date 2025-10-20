@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760924532863,
+      "repository": "kinde-starter-kits/python-starter-kit",
+      "issueTitle": "Bug: Button \"Helper funcions\" from Python Starter Kit does does not work",
+      "url": "https://github.com/kinde-starter-kits/python-starter-kit/issues/16",
+      "createdAt": "2025-10-20T01:42:12.863Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
