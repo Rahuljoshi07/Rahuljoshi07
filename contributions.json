@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760963446953,
+      "repository": "ag-warscheid/autoprot",
+      "issueTitle": "Adding list of indices and kwargs for ratio_plot",
+      "url": "https://github.com/ag-warscheid/autoprot/issues/42",
+      "createdAt": "2025-10-20T12:30:46.953Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
