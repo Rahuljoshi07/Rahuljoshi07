@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760959069505,
+      "repository": "eccentriccoder01/Venturalink",
+      "issueTitle": "Light theme not working on about us page",
+      "url": "https://github.com/eccentriccoder01/Venturalink/issues/246",
+      "createdAt": "2025-10-20T11:17:49.506Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
