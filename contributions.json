@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760939864559,
+      "repository": "wikimedia/wikipedia-preview",
+      "issueTitle": "Bug Report: Wikipedia Preview Fails to Generate Previews on Certain Wikipedia Namespaces & Cannot Be Disabled on Specific Links",
+      "url": "https://github.com/wikimedia/wikipedia-preview/issues/231",
+      "createdAt": "2025-10-20T05:57:44.559Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
