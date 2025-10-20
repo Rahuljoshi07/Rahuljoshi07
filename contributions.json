@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760988947762,
+      "repository": "dfinity/vscode-motoko",
+      "issueTitle": "Verify that blob imports are understood by the plugin",
+      "url": "https://github.com/dfinity/vscode-motoko/issues/394",
+      "createdAt": "2025-10-20T19:35:47.762Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
