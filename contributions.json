@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760984322517,
+      "repository": "icesat2py/icepyx",
+      "issueTitle": "HTML Harmony order details link broken",
+      "url": "https://github.com/icesat2py/icepyx/issues/690",
+      "createdAt": "2025-10-20T18:18:42.517Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
