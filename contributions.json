@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760944597007,
+      "repository": "browserify/resolve",
+      "issueTitle": "Node.js imports field is not supported",
+      "url": "https://github.com/browserify/resolve/issues/327",
+      "createdAt": "2025-10-20T07:16:37.007Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
