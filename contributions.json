@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760919586801,
+      "repository": "nextcloud/assistant",
+      "issueTitle": "Taskprocessing workers dying",
+      "url": "https://github.com/nextcloud/assistant/issues/373",
+      "createdAt": "2025-10-20T00:19:46.801Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
