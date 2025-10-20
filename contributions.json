@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760925862953,
+      "repository": "thomas4019/expressa",
+      "issueTitle": "Postgres Count with OFFSET and LIMIT bug",
+      "url": "https://github.com/thomas4019/expressa/issues/216",
+      "createdAt": "2025-10-20T02:04:22.953Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
