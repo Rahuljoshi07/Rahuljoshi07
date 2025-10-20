@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760995424349,
+      "repository": "baseplate-admin/django-ltree-2",
+      "issueTitle": "Move to UV",
+      "url": "https://github.com/baseplate-admin/django-ltree-2/issues/102",
+      "createdAt": "2025-10-20T21:23:44.349Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
