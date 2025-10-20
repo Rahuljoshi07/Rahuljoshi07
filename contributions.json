@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760977198984,
+      "repository": "spatialaudio/jackclient-python",
+      "issueTitle": "RuntimeError calling get_ports()",
+      "url": "https://github.com/spatialaudio/jackclient-python/issues/135",
+      "createdAt": "2025-10-20T16:19:58.984Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
