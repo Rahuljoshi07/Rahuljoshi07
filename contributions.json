@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760923675966,
+      "repository": "ptbsare/anx-calibre-manager",
+      "issueTitle": "calibre中图书有封面图片，但是加到anx后部分图书没有封面图片",
+      "url": "https://github.com/ptbsare/anx-calibre-manager/issues/3",
+      "createdAt": "2025-10-20T01:27:55.966Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
