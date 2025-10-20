@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760934584759,
+      "repository": "commit-check/commit-check",
+      "issueTitle": "`--author-name` option does not support checking `git config --list` output",
+      "url": "https://github.com/commit-check/commit-check/issues/298",
+      "createdAt": "2025-10-20T04:29:44.759Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
