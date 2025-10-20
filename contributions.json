@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760989633139,
+      "repository": "kenany/chemical-formula",
+      "issueTitle": "Bug: Incorrect element counts for nested subscripts in parentheses (e.g., Al2(SO4)3)",
+      "url": "https://github.com/kenany/chemical-formula/issues/287",
+      "createdAt": "2025-10-20T19:47:13.139Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
