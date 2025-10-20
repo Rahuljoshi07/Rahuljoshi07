@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760996991163,
+      "repository": "BuenDia-Builders/codigofutura",
+      "issueTitle": "Error al ejecutar `soroban contract build`",
+      "url": "https://github.com/BuenDia-Builders/codigofutura/issues/20",
+      "createdAt": "2025-10-20T21:49:51.163Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
