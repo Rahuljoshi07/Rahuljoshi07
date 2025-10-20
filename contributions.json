@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760983156656,
+      "repository": "sgoldenlab/simba",
+      "issueTitle": "Annotation file(s) are NaN and SIMBA INVALID FILE PATH ERROR: Not found is not a valid filepath",
+      "url": "https://github.com/sgoldenlab/simba/issues/482",
+      "createdAt": "2025-10-20T17:59:16.656Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
