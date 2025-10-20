@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760926032389,
+      "repository": "Python-roborock/python-roborock",
+      "issueTitle": "code_login_v4 TypeError: Invalid variable type: value should be str, int or float, got None of type <class 'NoneType'>",
+      "url": "https://github.com/Python-roborock/python-roborock/issues/536",
+      "createdAt": "2025-10-20T02:07:12.389Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
