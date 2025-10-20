@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760978823720,
+      "repository": "Premkolte/AnimateHub",
+      "issueTitle": "[📝CUSTOM]Level 3 Backend Optimization - Graceful Shutdowns, Error Resilience & Seamless Deployments",
+      "url": "https://github.com/Premkolte/AnimateHub/issues/891",
+      "createdAt": "2025-10-20T16:47:03.721Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
