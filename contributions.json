@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760998386248,
+      "repository": "nextcloud/files_zip",
+      "issueTitle": "Multi-part zip",
+      "url": "https://github.com/nextcloud/files_zip/issues/306",
+      "createdAt": "2025-10-20T22:13:06.248Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
