@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761002726122,
+      "repository": "mne-tools/mne-bids-pipeline",
+      "issueTitle": "Error in _01_data_quality: key 'raw_task-rest_run-None' not found in in_files",
+      "url": "https://github.com/mne-tools/mne-bids-pipeline/issues/1076",
+      "createdAt": "2025-10-20T23:25:26.122Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
