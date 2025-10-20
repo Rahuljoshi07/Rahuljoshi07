@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760924820957,
+      "repository": "cpcloud/numbsql",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/cpcloud/numbsql/issues/45",
+      "createdAt": "2025-10-20T01:47:00.958Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
