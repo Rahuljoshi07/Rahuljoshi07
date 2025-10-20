@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760939930894,
+      "repository": "FEAScript/FEAScript-core",
+      "issueTitle": "Expand geometry handling in `generateMeshFromGeometry()` function",
+      "url": "https://github.com/FEAScript/FEAScript-core/issues/20",
+      "createdAt": "2025-10-20T05:58:50.894Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
