@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760959399562,
+      "repository": "agentscope-ai/agentscope-runtime",
+      "issueTitle": "[Bug] RuntimeError in run_ipython_cell when executing async code",
+      "url": "https://github.com/agentscope-ai/agentscope-runtime/issues/119",
+      "createdAt": "2025-10-20T11:23:19.562Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
