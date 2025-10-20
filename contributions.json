@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760964024213,
+      "repository": "Acly/comfyui-tooling-nodes",
+      "issueTitle": "由于重新加载工作流数据出错，加载被中止TypeError: Cannot read properties of undefined (reading 'name')",
+      "url": "https://github.com/Acly/comfyui-tooling-nodes/issues/46",
+      "createdAt": "2025-10-20T12:40:24.213Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
