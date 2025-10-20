@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760960557252,
+      "repository": "n00bcodr/Jellyfin-Enhanced",
+      "issueTitle": "🐛[BUG] Manually mark watched items should be removed from watchlist",
+      "url": "https://github.com/n00bcodr/Jellyfin-Enhanced/issues/95",
+      "createdAt": "2025-10-20T11:42:37.252Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
