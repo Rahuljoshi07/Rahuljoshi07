@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760920134497,
+      "repository": "Barkhausen-Institut/hermespy",
+      "issueTitle": "When I try to run this simulation, I get the error message: ActorDiedError: The actor died unexpectedly before finishing this task.",
+      "url": "https://github.com/Barkhausen-Institut/hermespy/issues/22",
+      "createdAt": "2025-10-20T00:28:54.497Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
