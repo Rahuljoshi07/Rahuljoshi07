@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760977954783,
+      "repository": "ansible-collections/ibm_zos_core",
+      "issueTitle": "[Bug] zos_replace always converts unix file to ISO8859-1",
+      "url": "https://github.com/ansible-collections/ibm_zos_core/issues/2369",
+      "createdAt": "2025-10-20T16:32:34.783Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
