@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1760978656216,
+      "repository": "iobroker-community-adapters/ioBroker.sma-em",
+      "issueTitle": "Please consider fixing issues detected by repository checker",
+      "url": "https://github.com/iobroker-community-adapters/ioBroker.sma-em/issues/817",
+      "createdAt": "2025-10-20T16:44:16.216Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
