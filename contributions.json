@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761019791660,
+      "repository": "pytroll/pyorbital",
+      "issueTitle": "get_last_an_time does not work with a datetime object as input",
+      "url": "https://github.com/pytroll/pyorbital/issues/94",
+      "createdAt": "2025-10-21T04:09:51.660Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
