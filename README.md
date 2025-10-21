@@ -146,52 +146,6 @@ const rahul = {
 
 ### 🎖️ Achievement Badges
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/⭐%201000%2B-Contributions-00D4FF?style=for-the-badge&labelColor=1f1f1f&color=00D4FF" />
-      <br/>
-      <sub><strong>GitHub Contributions</strong></sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/🔥%2016%2B-Day%20Streak-FF6B6B?style=for-the-badge&labelColor=1f1f1f&color=FF6B6B" />
-      <br/>
-      <sub><strong>Active Streak</strong></sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/⚡%2050%2B-Projects-FFD700?style=for-the-badge&labelColor=1f1f1f&color=FFD700" />
-      <br/>
-      <sub><strong>Projects Created</strong></sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/✨%20120%2B-Stars-00FF88?style=for-the-badge&labelColor=1f1f1f&color=00FF88" />
-      <br/>
-      <sub><strong>Stars Earned</strong></sub>
-    </td>
-  </tr>
-</table>
-
-### 🎯 Skills Mastery
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/FULL_STACK-EXPERT-00D4FF?style=flat-square&labelColor=1f1f1f" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/DEVOPS-EXPERT-00D4FF?style=flat-square&labelColor=1f1f1f" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/GAME_DEV-INTERMEDIATE-00FF88?style=flat-square&labelColor=1f1f1f" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/CLOUD-ADVANCED-FFD700?style=flat-square&labelColor=1f1f1f" />
-    </td>
-  </tr>
-</table>
-
-### 🌟 Professional Badges
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rahuljoshi07&theme=nord&column=7&no-frame=true&margin-w=15" width="100%" alt="Trophy" />
 </div>
