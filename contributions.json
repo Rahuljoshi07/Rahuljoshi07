@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761021088468,
+      "repository": "AdguardTeam/FiltersCompiler",
+      "issueTitle": "Invalid conversion to uBO syntax - added redundant modifiers to `$reidrect` rules",
+      "url": "https://github.com/AdguardTeam/FiltersCompiler/issues/261",
+      "createdAt": "2025-10-21T04:31:28.468Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
