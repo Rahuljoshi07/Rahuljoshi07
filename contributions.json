@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761137080019,
+      "repository": "GeotrekCE/Geotrek-admin",
+      "issueTitle": "Gestion des conflits d'usages",
+      "url": "https://github.com/GeotrekCE/Geotrek-admin/issues/4930",
+      "createdAt": "2025-10-22T12:44:40.019Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
