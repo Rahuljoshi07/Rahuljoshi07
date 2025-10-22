@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761167491835,
-      "repository": "lvcabral/brs-desktop",
-      "issueTitle": "Add Socket Debugger support",
-      "url": "https://github.com/lvcabral/brs-desktop/issues/42",
-      "createdAt": "2025-10-22T21:11:31.835Z",
+      "id": 1761167553977,
+      "repository": "abelcheung/types-lxml",
+      "issueTitle": "functions accepting user supplied parser may return None when parser is constructed with recover=True",
+      "url": "https://github.com/abelcheung/types-lxml/issues/98",
+      "createdAt": "2025-10-22T21:12:33.977Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
