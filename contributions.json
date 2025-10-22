@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761123150086,
+      "repository": "wiris/html-integrations",
+      "issueTitle": "页面中有两个编辑器实例，当删除第一个编辑器后，第二个实例点击公式报错",
+      "url": "https://github.com/wiris/html-integrations/issues/1111",
+      "createdAt": "2025-10-22T08:52:30.086Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
