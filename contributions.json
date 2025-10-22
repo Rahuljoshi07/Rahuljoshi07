@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761125168483,
+      "repository": "GetStream/stream-chat-react",
+      "issueTitle": "bug: \"Unread messages\" message cannot be dismissed",
+      "url": "https://github.com/GetStream/stream-chat-react/issues/2866",
+      "createdAt": "2025-10-22T09:26:08.483Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
