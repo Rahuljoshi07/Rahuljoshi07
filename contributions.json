@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761149934391,
+      "repository": "sehugg/8bitworkshop",
+      "issueTitle": "Issues with ][+ development ",
+      "url": "https://github.com/sehugg/8bitworkshop/issues/198",
+      "createdAt": "2025-10-22T16:18:54.391Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
