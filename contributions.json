@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761100028478,
+      "repository": "accel-sim/accel-sim-framework",
+      "issueTitle": "Programs in GPU_Microbenchmak return 1 even without any error.",
+      "url": "https://github.com/accel-sim/accel-sim-framework/issues/494",
+      "createdAt": "2025-10-22T02:27:08.478Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
