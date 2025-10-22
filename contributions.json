@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761115023735,
+      "repository": "jrief/django-formset",
+      "issueTitle": "Controlling Field and Fieldset Visibility in FormCollection",
+      "url": "https://github.com/jrief/django-formset/issues/240",
+      "createdAt": "2025-10-22T06:37:03.735Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
