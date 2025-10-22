@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761131855597,
+      "repository": "BiancoRoyal/node-red-contrib-modbus",
+      "issueTitle": "modbus-flex-server dropping port after ECONNRESET",
+      "url": "https://github.com/BiancoRoyal/node-red-contrib-modbus/issues/548",
+      "createdAt": "2025-10-22T11:17:35.598Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
