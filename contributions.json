@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761166304388,
+      "repository": "physicshub/physicshub.github.io",
+      "issueTitle": "Spring Connection Colors not working",
+      "url": "https://github.com/physicshub/physicshub.github.io/issues/66",
+      "createdAt": "2025-10-22T20:51:44.388Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
