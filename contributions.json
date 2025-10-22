@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761101474142,
+      "repository": "nextcloud/notifications",
+      "issueTitle": "Overflowing text triggers horizontal scrollbar display",
+      "url": "https://github.com/nextcloud/notifications/issues/1168",
+      "createdAt": "2025-10-22T02:51:14.142Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
