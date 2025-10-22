@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761159280924,
-      "repository": "tomusborne/generateblocks",
-      "issueTitle": "[GB 2.0 beta] Retain selected media size when replacing images",
-      "url": "https://github.com/tomusborne/generateblocks/issues/1681",
-      "createdAt": "2025-10-22T18:54:40.924Z",
+      "id": 1761159356616,
+      "repository": "mogill/ems",
+      "issueTitle": "Key Deletion and Memory Leak",
+      "url": "https://github.com/mogill/ems/issues/18",
+      "createdAt": "2025-10-22T18:55:56.616Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
