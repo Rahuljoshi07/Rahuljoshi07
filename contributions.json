@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761172534904,
+      "repository": "paulromano/endf-python",
+      "issueTitle": "KeyError when accessing `section_text` for certain sections",
+      "url": "https://github.com/paulromano/endf-python/issues/17",
+      "createdAt": "2025-10-22T22:35:34.904Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
