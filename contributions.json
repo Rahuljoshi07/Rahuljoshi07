@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761161068945,
+      "repository": "sailpoint-oss/python-sdk",
+      "issueTitle": "[Bug] AccessProfile model missing accessModelMetadata field in Python SDK v1.3.8",
+      "url": "https://github.com/sailpoint-oss/python-sdk/issues/109",
+      "createdAt": "2025-10-22T19:24:28.945Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
