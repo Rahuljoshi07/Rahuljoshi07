@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761135187825,
+      "repository": "jayvynl/django-clickhouse-backend",
+      "issueTitle": "[BUG] DatabaseDefault object appears in SQL when bulk_create() batch_size exceeds 1000",
+      "url": "https://github.com/jayvynl/django-clickhouse-backend/issues/136",
+      "createdAt": "2025-10-22T12:13:07.825Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
