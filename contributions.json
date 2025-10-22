@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761120526899,
+      "repository": "wemake-services/django-modern-rest",
+      "issueTitle": "Implement `xml` serializer",
+      "url": "https://github.com/wemake-services/django-modern-rest/issues/97",
+      "createdAt": "2025-10-22T08:08:46.899Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
