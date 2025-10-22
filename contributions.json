@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761144505515,
+      "repository": "philgyford/django-ditto",
+      "issueTitle": "Look at ways to make slow management commands smaller and quicker",
+      "url": "https://github.com/philgyford/django-ditto/issues/241",
+      "createdAt": "2025-10-22T14:48:25.515Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
