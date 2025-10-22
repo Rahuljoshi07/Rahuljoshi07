@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761119804793,
+      "id": 1761119846097,
       "repository": "cap-js/cds-typer",
-      "issueTitle": "[FEATURE] Generate index.d.ts files, instead of index.ts files",
-      "url": "https://github.com/cap-js/cds-typer/issues/546",
-      "createdAt": "2025-10-22T07:56:44.793Z",
+      "issueTitle": "[BUG] Association key not correctly typed when String with asserted enum range",
+      "url": "https://github.com/cap-js/cds-typer/issues/518",
+      "createdAt": "2025-10-22T07:57:26.097Z",
       "type": "comment",
-      "content": "Using a bundler like Webpack or Vite could improve performance. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
