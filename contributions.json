@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761158531074,
+      "repository": "rg-engineering/ioBroker.daswetter",
+      "issueTitle": "parse widget data as an alternative to API",
+      "url": "https://github.com/rg-engineering/ioBroker.daswetter/issues/416",
+      "createdAt": "2025-10-22T18:42:11.074Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
