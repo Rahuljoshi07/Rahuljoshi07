@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761143909594,
+      "repository": "philgyford/django-ditto",
+      "issueTitle": "Raindrop.io intergration",
+      "url": "https://github.com/philgyford/django-ditto/issues/247",
+      "createdAt": "2025-10-22T14:38:29.594Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
