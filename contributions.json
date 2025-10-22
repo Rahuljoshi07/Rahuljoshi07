@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761168559880,
+      "repository": "sitespeedio/onlinetest",
+      "issueTitle": "ERROR: [sitespeedio.database] Could not get test by id: invalid input syntax for type uuid: \"undefined\"",
+      "url": "https://github.com/sitespeedio/onlinetest/issues/90",
+      "createdAt": "2025-10-22T21:29:19.880Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
