@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761098805077,
+      "repository": "sgoldenlab/simba",
+      "issueTitle": "Unable to import H5Sleapdata --- run into a bug",
+      "url": "https://github.com/sgoldenlab/simba/issues/475",
+      "createdAt": "2025-10-22T02:06:45.077Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
