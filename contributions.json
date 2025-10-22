@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761120851309,
+      "repository": "whyisdifficult/jiratui",
+      "issueTitle": "Server info abort and user list not complete",
+      "url": "https://github.com/whyisdifficult/jiratui/issues/91",
+      "createdAt": "2025-10-22T08:14:11.309Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
