@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761186706305,
+      "repository": "ComputerScienceHouse/conditional",
+      "issueTitle": "Input is not cleared after submitting the Major Project form",
+      "url": "https://github.com/ComputerScienceHouse/conditional/issues/392",
+      "createdAt": "2025-10-23T02:31:46.305Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
