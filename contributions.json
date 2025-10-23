@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761238808648,
+      "repository": "notypecheck/aioinject",
+      "issueTitle": "Dataclass with default factory not supported.",
+      "url": "https://github.com/notypecheck/aioinject/issues/12",
+      "createdAt": "2025-10-23T17:00:08.648Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
