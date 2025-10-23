@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761221083151,
-      "repository": "openforis/arena",
-      "issueTitle": "data explorer / edit mode: numeric values with errors are not displaying properly",
-      "url": "https://github.com/openforis/arena/issues/3988",
-      "createdAt": "2025-10-23T12:04:43.151Z",
+      "id": 1761221129400,
+      "repository": "openghg/fluxy",
+      "issueTitle": "`slice_flux` super slow when `flux_units_print` parameter not `None` on ICOS JupyterLab",
+      "url": "https://github.com/openghg/fluxy/issues/139",
+      "createdAt": "2025-10-23T12:05:29.401Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
