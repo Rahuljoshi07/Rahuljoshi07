@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761258746491,
+      "repository": "SSWConsulting/SSW.Rules",
+      "issueTitle": "🐛 Bug - Some Authors do not have their image",
+      "url": "https://github.com/SSWConsulting/SSW.Rules/issues/2052",
+      "createdAt": "2025-10-23T22:32:26.491Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
