@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761212180728,
+      "repository": "openzim/zimfarm",
+      "issueTitle": "healthcheck for zimfarm S3 URLs",
+      "url": "https://github.com/openzim/zimfarm/issues/1458",
+      "createdAt": "2025-10-23T09:36:20.728Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. This suggestion is particularly relevant..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
