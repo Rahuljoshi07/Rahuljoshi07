@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761234057742,
+      "repository": "f-dangel/curvlinops",
+      "issueTitle": "Scope and performance of diagonal approximations",
+      "url": "https://github.com/f-dangel/curvlinops/issues/198",
+      "createdAt": "2025-10-23T15:40:57.742Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
