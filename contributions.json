@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761213843896,
+      "repository": "ValueCell-ai/valuecell",
+      "issueTitle": "没有选择agent的步骤，然后对话没有响应，日志里面报错",
+      "url": "https://github.com/ValueCell-ai/valuecell/issues/151",
+      "createdAt": "2025-10-23T10:04:03.896Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for react ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
