@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761188742299,
+      "repository": "tidev/titanium-cli",
+      "issueTitle": "Gradle error",
+      "url": "https://github.com/tidev/titanium-cli/issues/592",
+      "createdAt": "2025-10-23T03:05:42.299Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
