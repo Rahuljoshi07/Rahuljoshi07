@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761239427575,
+      "repository": "ansys/pydpf-core",
+      "issueTitle": "Bug located in ...",
+      "url": "https://github.com/ansys/pydpf-core/issues/2690",
+      "createdAt": "2025-10-23T17:10:27.575Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
