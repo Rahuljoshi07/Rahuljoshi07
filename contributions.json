@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761203046306,
+      "repository": "open-telemetry/opentelemetry.io",
+      "issueTitle": "OTel Demo Architecture Diagram is inaccurate with protocol (http instead of grpc)",
+      "url": "https://github.com/open-telemetry/opentelemetry.io/issues/8165",
+      "createdAt": "2025-10-23T07:04:06.306Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
