@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761246565310,
+      "repository": "TobySuch/Shifter",
+      "issueTitle": "Allow expiry date to be optional",
+      "url": "https://github.com/TobySuch/Shifter/issues/428",
+      "createdAt": "2025-10-23T19:09:25.310Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
