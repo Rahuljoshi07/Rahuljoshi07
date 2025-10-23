@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761187726653,
+      "repository": "getsolus/packages",
+      "issueTitle": "Black screen after an update on Solus XFCE related to a bug with the i915 module on kernels from the 6.16.x series",
+      "url": "https://github.com/getsolus/packages/issues/6326",
+      "createdAt": "2025-10-23T02:48:46.653Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
