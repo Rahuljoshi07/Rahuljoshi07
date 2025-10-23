@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761200661477,
+      "id": 1761200703546,
       "repository": "VisActor/VRender",
-      "issueTitle": "[Feature] point 插值 不同数量时效果优化",
-      "url": "https://github.com/VisActor/VRender/issues/1872",
-      "createdAt": "2025-10-23T06:24:21.477Z",
+      "issueTitle": "[Bug] windows 克隆源码问题",
+      "url": "https://github.com/VisActor/VRender/issues/1952",
+      "createdAt": "2025-10-23T06:25:03.546Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
