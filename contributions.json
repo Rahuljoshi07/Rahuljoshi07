@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761218638180,
+      "repository": "instamatic-dev/instamatic",
+      "issueTitle": "Faulty defocus compensation due to slow first images",
+      "url": "https://github.com/instamatic-dev/instamatic/issues/113",
+      "createdAt": "2025-10-23T11:23:58.180Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
