@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761218122689,
+      "repository": "topmonks/hlidac-shopu",
+      "issueTitle": "Lekarna_cz - fails with 0 results (TypeError: Cannot read properties of null (reading 'getAttribute')",
+      "url": "https://github.com/topmonks/hlidac-shopu/issues/3192",
+      "createdAt": "2025-10-23T11:15:22.690Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
