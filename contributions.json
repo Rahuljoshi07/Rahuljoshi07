@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761193395118,
+      "repository": "cnpm/binary-mirror-config",
+      "issueTitle": "[Feature Request] qwen-code安装依赖失败，不知是否能够支持代理microsoft/ripgrep-prebuilt二进制包",
+      "url": "https://github.com/cnpm/binary-mirror-config/issues/57",
+      "createdAt": "2025-10-23T04:23:15.118Z",
+      "type": "comment",
+      "content": "Using a bundler like Webpack or Vite could improve performance. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
