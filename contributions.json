@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1761232139203,
-      "repository": "datacite/bracco",
-      "issueTitle": "The Fabrica Form allows users to save the related identifier metadata even if the identifier is not included",
-      "url": "https://github.com/datacite/bracco/issues/890",
-      "createdAt": "2025-10-23T15:08:59.203Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
