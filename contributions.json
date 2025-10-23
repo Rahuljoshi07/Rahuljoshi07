@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761238176308,
+      "repository": "enketo/enketo",
+      "issueTitle": "Silent data loss when response contains characters invalid for XML PCDATA",
+      "url": "https://github.com/enketo/enketo/issues/1118",
+      "createdAt": "2025-10-23T16:49:36.308Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
