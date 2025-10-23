@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761243385092,
+      "repository": "kagenti/kagenti",
+      "issueTitle": "bug: Agent completes task but UI shows \"No response received from agent, or URL was missing.\"",
+      "url": "https://github.com/kagenti/kagenti/issues/332",
+      "createdAt": "2025-10-23T18:16:25.093Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
