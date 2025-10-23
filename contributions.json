@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761228966950,
-      "repository": "timdows/MMM-JsonTable",
-      "issueTitle": "Json type is not an array error",
-      "url": "https://github.com/timdows/MMM-JsonTable/issues/17",
-      "createdAt": "2025-10-23T14:16:06.950Z",
+      "id": 1761229016301,
+      "repository": "Qredence/agentic-fleet",
+      "issueTitle": "[nitpick] Using the 'latest' tag for the collector image can introduce non-deterministic upgrades. Pin a specific version (e.g. otel/opentelemetry-collector:0.100.0) to ensure reproducible local environments.",
+      "url": "https://github.com/Qredence/agentic-fleet/issues/209",
+      "createdAt": "2025-10-23T14:16:56.301Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
