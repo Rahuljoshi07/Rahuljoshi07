@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761235217957,
+      "repository": "canonical/vault-k8s-operator",
+      "issueTitle": "Vault initilization fails in public cloud environment because client certificate only valid for internal IP address",
+      "url": "https://github.com/canonical/vault-k8s-operator/issues/795",
+      "createdAt": "2025-10-23T16:00:17.957Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
