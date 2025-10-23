@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1761241919749,
-      "repository": "npm/metavuln-calculator",
-      "issueTitle": "[BUG] private repo dependency in a package when upgrading to 16, 18, 20 (probably 22 not attempted) gives no information as to the failure",
-      "url": "https://github.com/npm/metavuln-calculator/issues/150",
-      "createdAt": "2025-10-23T17:51:59.749Z",
+      "id": 1761241981413,
+      "repository": "npm/parse-conflict-json",
+      "issueTitle": "[BUG] parent file is invalid json",
+      "url": "https://github.com/npm/parse-conflict-json/issues/5",
+      "createdAt": "2025-10-23T17:53:01.413Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
