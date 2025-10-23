@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761207342295,
+      "repository": "equinor/ert",
+      "issueTitle": "Incorrect settings in parameter distribution can take down simulations_thread ungracefully",
+      "url": "https://github.com/equinor/ert/issues/12068",
+      "createdAt": "2025-10-23T08:15:42.295Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
