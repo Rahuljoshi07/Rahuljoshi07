@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761184428796,
+      "repository": "milvus-io/milvus-docs",
+      "issueTitle": "[ERROR]: \" # The vectors we will use in this demo have 768 dimensions\"",
+      "url": "https://github.com/milvus-io/milvus-docs/issues/3330",
+      "createdAt": "2025-10-23T01:53:48.797Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
