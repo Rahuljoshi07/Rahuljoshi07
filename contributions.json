@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761192531473,
+      "repository": "Aaalice233/ComfyUI-Danbooru-Gallery",
+      "issueTitle": "Multi Character Editor里羽化的参数的输入方式有bug",
+      "url": "https://github.com/Aaalice233/ComfyUI-Danbooru-Gallery/issues/4",
+      "createdAt": "2025-10-23T04:08:51.473Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
