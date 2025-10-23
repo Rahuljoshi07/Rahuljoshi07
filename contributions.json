@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761186814605,
+      "repository": "LibreSign/libresign",
+      "issueTitle": "Non-UTF-8 encoding detected. This may cause issues with accented or special characters",
+      "url": "https://github.com/LibreSign/libresign/issues/4872",
+      "createdAt": "2025-10-23T02:33:34.605Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
