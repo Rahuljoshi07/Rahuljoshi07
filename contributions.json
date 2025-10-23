@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761238049004,
+      "repository": "mohitahlawat2001/ApothecaryShop",
+      "issueTitle": "Bug in the Search Image option",
+      "url": "https://github.com/mohitahlawat2001/ApothecaryShop/issues/49",
+      "createdAt": "2025-10-23T16:47:29.004Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
