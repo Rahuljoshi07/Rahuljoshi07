@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761261019736,
+      "id": 1761261050307,
       "repository": "UltiMafia/Ultimafia",
-      "issueTitle": "Host role improvements",
-      "url": "https://github.com/UltiMafia/Ultimafia/issues/2309",
-      "createdAt": "2025-10-23T23:10:19.736Z",
+      "issueTitle": "bug(core): host assignment, leaving and rejoining causes a person not to be allocated host",
+      "url": "https://github.com/UltiMafia/Ultimafia/issues/784",
+      "createdAt": "2025-10-23T23:10:50.307Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. This suggestion i..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
