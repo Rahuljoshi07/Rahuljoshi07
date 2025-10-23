@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761263331335,
-      "repository": "namastexlabs/automagik-genie",
-      "issueTitle": "Bug: WebSocket-native MCP tools return no output (silent failure)",
-      "url": "https://github.com/namastexlabs/automagik-genie/issues/239",
-      "createdAt": "2025-10-23T23:48:51.336Z",
+      "id": 1761263381759,
+      "repository": "leifg/formulon",
+      "issueTitle": "Issue with bundle on latest release",
+      "url": "https://github.com/leifg/formulon/issues/1184",
+      "createdAt": "2025-10-23T23:49:41.759Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
