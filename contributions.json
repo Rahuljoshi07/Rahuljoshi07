@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761254099072,
+      "repository": "ietf-tools/datatracker",
+      "issueTitle": "Build a real robots.txt for the datatracker",
+      "url": "https://github.com/ietf-tools/datatracker/issues/4248",
+      "createdAt": "2025-10-23T21:14:59.072Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
