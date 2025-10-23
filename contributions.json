@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761241875573,
-      "repository": "lihaoyun6/ComfyUI-FlashVSR_Ultra_Fast",
-      "issueTitle": "OOM error",
-      "url": "https://github.com/lihaoyun6/ComfyUI-FlashVSR_Ultra_Fast/issues/6",
-      "createdAt": "2025-10-23T17:51:15.573Z",
+      "id": 1761241919749,
+      "repository": "npm/metavuln-calculator",
+      "issueTitle": "[BUG] private repo dependency in a package when upgrading to 16, 18, 20 (probably 22 not attempted) gives no information as to the failure",
+      "url": "https://github.com/npm/metavuln-calculator/issues/150",
+      "createdAt": "2025-10-23T17:51:59.749Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
