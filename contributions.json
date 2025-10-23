@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761222560102,
+      "repository": "itdoginfo/podkop",
+      "issueTitle": "[BUG] Нельзя добавить DNS DOH с указанным портом",
+      "url": "https://github.com/itdoginfo/podkop/issues/215",
+      "createdAt": "2025-10-23T12:29:20.102Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
