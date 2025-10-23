@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761225031413,
+      "repository": "Kotak-Neo/Kotak-neo-api-v2",
+      "issueTitle": "error if I place order with same symbol and price",
+      "url": "https://github.com/Kotak-Neo/Kotak-neo-api-v2/issues/6",
+      "createdAt": "2025-10-23T13:10:31.413Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
