@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761229016301,
-      "repository": "Qredence/agentic-fleet",
-      "issueTitle": "[nitpick] Using the 'latest' tag for the collector image can introduce non-deterministic upgrades. Pin a specific version (e.g. otel/opentelemetry-collector:0.100.0) to ensure reproducible local environments.",
-      "url": "https://github.com/Qredence/agentic-fleet/issues/209",
-      "createdAt": "2025-10-23T14:16:56.301Z",
+      "id": 1761229097525,
+      "repository": "PocketCoffea/PocketCoffea",
+      "issueTitle": "Check that DataProcess has \"data_obs\" name",
+      "url": "https://github.com/PocketCoffea/PocketCoffea/issues/413",
+      "createdAt": "2025-10-23T14:18:17.525Z",
       "type": "comment",
-      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
