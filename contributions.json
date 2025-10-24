@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761313067971,
+      "repository": "kevin-mizu/domloggerpp",
+      "issueTitle": "Hooking function RegExp.prototype.exec breaks page loads",
+      "url": "https://github.com/kevin-mizu/domloggerpp/issues/48",
+      "createdAt": "2025-10-24T13:37:47.971Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
