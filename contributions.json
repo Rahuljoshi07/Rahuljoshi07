@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761293703019,
+      "repository": "Aaalice233/ComfyUI-Danbooru-Gallery",
+      "issueTitle": "Prompt Seletor有一个计数器bug",
+      "url": "https://github.com/Aaalice233/ComfyUI-Danbooru-Gallery/issues/3",
+      "createdAt": "2025-10-24T08:15:03.019Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
