@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761283306108,
+      "repository": "meltano/sdk",
+      "issueTitle": "bug: Properties mismatch warning for child streams that do not declare parent context keys in their schemas",
+      "url": "https://github.com/meltano/sdk/issues/2949",
+      "createdAt": "2025-10-24T05:21:46.108Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
