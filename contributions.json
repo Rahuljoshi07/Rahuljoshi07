@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761331099976,
+      "repository": "thecodersroom/the-button-that-does-nothing",
+      "issueTitle": "[Bug] : Make the buttons bigger so that the Time Attack button does not overflow",
+      "url": "https://github.com/thecodersroom/the-button-that-does-nothing/issues/147",
+      "createdAt": "2025-10-24T18:38:19.976Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
