@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761299653015,
+      "repository": "G1213123/TrafficSign",
+      "issueTitle": "Unable to download sign, shows 0 bytes in .png file",
+      "url": "https://github.com/G1213123/TrafficSign/issues/18",
+      "createdAt": "2025-10-24T09:54:13.015Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
