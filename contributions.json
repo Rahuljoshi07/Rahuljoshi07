@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761288267021,
+      "repository": "ailyProject/aily-blockly-libraries",
+      "issueTitle": "单色显示屏库，在选择SH1107后，编译报错",
+      "url": "https://github.com/ailyProject/aily-blockly-libraries/issues/110",
+      "createdAt": "2025-10-24T06:44:27.021Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
