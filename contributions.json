@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761320636209,
+      "repository": "scikit-hep/awkward",
+      "issueTitle": "Parquet string serialization breaks conversion to numpty",
+      "url": "https://github.com/scikit-hep/awkward/issues/3696",
+      "createdAt": "2025-10-24T15:43:56.209Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
