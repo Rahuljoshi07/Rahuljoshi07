@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761325670994,
+      "repository": "SASTxNST/Website_SAST",
+      "issueTitle": "[BUG] solve image issue",
+      "url": "https://github.com/SASTxNST/Website_SAST/issues/372",
+      "createdAt": "2025-10-24T17:07:50.994Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
