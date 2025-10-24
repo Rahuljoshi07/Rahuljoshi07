@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761275952495,
+      "repository": "G-Two/homeassistant-subaru",
+      "issueTitle": "Unable to login - 2FA Unknown Error",
+      "url": "https://github.com/G-Two/homeassistant-subaru/issues/144",
+      "createdAt": "2025-10-24T03:19:12.495Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
