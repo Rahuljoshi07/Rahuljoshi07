@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761271688964,
+      "repository": "bigblackhat/oFx",
+      "issueTitle": "批量扫描报错  unknown mistake <queue.Queue object at 0x7fea990a1090> Error details：HTTP Error 403: Forbidden ",
+      "url": "https://github.com/bigblackhat/oFx/issues/8",
+      "createdAt": "2025-10-24T02:08:08.964Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
