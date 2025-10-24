@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761303422686,
-      "repository": "2M4U/2m4u",
-      "issueTitle": "Possible fixes for update.js",
-      "url": "https://github.com/2M4U/2m4u/issues/6",
-      "createdAt": "2025-10-24T10:57:02.686Z",
+      "id": 1761303459519,
+      "repository": "decentraland/unity-explorer",
+      "issueTitle": "[QA] Voice Chat | Muted Mac users still audible",
+      "url": "https://github.com/decentraland/unity-explorer/issues/5793",
+      "createdAt": "2025-10-24T10:57:39.519Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
