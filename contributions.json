@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761310803057,
+      "repository": "mosdef-hub/foyer",
+      "issueTitle": "ERROR for assigning angles.",
+      "url": "https://github.com/mosdef-hub/foyer/issues/628",
+      "createdAt": "2025-10-24T13:00:03.057Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
