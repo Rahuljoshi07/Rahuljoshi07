@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761283194931,
+      "repository": "circuit-synth/circuit-synth",
+      "issueTitle": "Critical: Generated text_box in schematic causes parse error - un-terminated string",
+      "url": "https://github.com/circuit-synth/circuit-synth/issues/252",
+      "createdAt": "2025-10-24T05:19:54.931Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
