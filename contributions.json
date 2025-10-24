@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761298286329,
+      "id": 1761298317640,
       "repository": "lazarv/react-server",
       "issueTitle": "layout get merged / filesystem router",
       "url": "https://github.com/lazarv/react-server/issues/261",
-      "createdAt": "2025-10-24T09:31:26.329Z",
+      "createdAt": "2025-10-24T09:31:57.640Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
