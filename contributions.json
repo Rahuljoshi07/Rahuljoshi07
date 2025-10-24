@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761277128996,
+      "repository": "circuit-synth/circuit-synth",
+      "issueTitle": "Bug: kicad-to-python generates code missing placement_algorithm parameter",
+      "url": "https://github.com/circuit-synth/circuit-synth/issues/236",
+      "createdAt": "2025-10-24T03:38:48.997Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
