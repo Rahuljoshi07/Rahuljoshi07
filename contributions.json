@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761274308667,
+      "id": 1761274354327,
       "repository": "namastexlabs/automagik-genie",
-      "issueTitle": "Enhance JSDoc for utility helper functions with complete parameter descriptions",
-      "url": "https://github.com/namastexlabs/automagik-genie/issues/210",
-      "createdAt": "2025-10-24T02:51:48.667Z",
+      "issueTitle": "Bug: WebSocket-native MCP tools return no output (silent failure)",
+      "url": "https://github.com/namastexlabs/automagik-genie/issues/239",
+      "createdAt": "2025-10-24T02:52:34.327Z",
       "type": "comment",
-      "content": "Adding TypeScript could improve code quality and maintainability. (Suggested by Rahul Joshi)..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
