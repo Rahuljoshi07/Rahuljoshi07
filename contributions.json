@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761313857433,
+      "repository": "fastify/otel",
+      "issueTitle": "False positives in Datadog Error Tracking for 4xx errors",
+      "url": "https://github.com/fastify/otel/issues/91",
+      "createdAt": "2025-10-24T13:50:57.433Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
