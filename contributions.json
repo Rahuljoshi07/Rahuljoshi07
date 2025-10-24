@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761302783284,
+      "repository": "Open3CL/engine",
+      "issueTitle": "[DPE Logement] Mauvais calcul des pertes liées à un ballon électrique dans le cas d'ECS collectif avec ratio de virtualisation",
+      "url": "https://github.com/Open3CL/engine/issues/75",
+      "createdAt": "2025-10-24T10:46:23.284Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
