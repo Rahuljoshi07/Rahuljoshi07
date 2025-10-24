@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761300746505,
+      "repository": "epigenelabs/inmoose",
+      "issueTitle": "error with ref_batch due to incorrect slicing",
+      "url": "https://github.com/epigenelabs/inmoose/issues/14",
+      "createdAt": "2025-10-24T10:12:26.505Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
