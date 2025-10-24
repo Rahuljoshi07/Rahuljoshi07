@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761323590434,
+      "repository": "mozilla/wpt-sync",
+      "issueTitle": "Missing Bugzilla comment with sync PR if server is not reachable at the time of update",
+      "url": "https://github.com/mozilla/wpt-sync/issues/2453",
+      "createdAt": "2025-10-24T16:33:10.434Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
