@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761331586309,
+      "repository": "salesforce/eslint-plugin-lwc",
+      "issueTitle": "False positive in @lwc/lwc/valid-graphql-wire-adapter-callback-parameter if a class method signature expects an object with an error property",
+      "url": "https://github.com/salesforce/eslint-plugin-lwc/issues/160",
+      "createdAt": "2025-10-24T18:46:26.309Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
