@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761318449000,
+      "repository": "jmrivas86/django-json-widget",
+      "issueTitle": "Inline Script Usage Breaks CSP (Content Security Policy)",
+      "url": "https://github.com/jmrivas86/django-json-widget/issues/101",
+      "createdAt": "2025-10-24T15:07:29.000Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
