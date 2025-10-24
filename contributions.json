@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761274480047,
+      "repository": "Azure/co-op-translator",
+      "issueTitle": "Markdown emphasis not handled correctly (en→jp)",
+      "url": "https://github.com/Azure/co-op-translator/issues/240",
+      "createdAt": "2025-10-24T02:54:40.048Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
