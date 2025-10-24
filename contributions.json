@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761343856022,
+      "repository": "mixpanel/mixpanel-node",
+      "issueTitle": "Replace util.isArray with Array.isArray",
+      "url": "https://github.com/mixpanel/mixpanel-node/issues/239",
+      "createdAt": "2025-10-24T22:10:56.022Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
