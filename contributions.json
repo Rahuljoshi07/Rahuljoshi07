@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1761303498710,
-      "repository": "decentraland/unity-explorer",
-      "issueTitle": "Microsoft.ClearScript.ScriptEngineException: Error: Attempt to access method 'System.Collections.Generic.IEnumerable<System.Reflection.MethodInfo>.GetEnumerator' on type 'System.Type[]' failed.",
-      "url": "https://github.com/decentraland/unity-explorer/issues/5290",
-      "createdAt": "2025-10-24T10:58:18.710Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
