@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761314640924,
-      "repository": "alorence/django-modern-rpc",
-      "issueTitle": "Nice would be logging RPCInternalError as error (with traceback)  but it is currently logged as warning",
-      "url": "https://github.com/alorence/django-modern-rpc/issues/71",
-      "createdAt": "2025-10-24T14:04:00.924Z",
+      "id": 1761314690819,
+      "repository": "newrelic/newrelic-react-native-agent",
+      "issueTitle": "Not attaching distributed tracing because account or application id are missing",
+      "url": "https://github.com/newrelic/newrelic-react-native-agent/issues/257",
+      "createdAt": "2025-10-24T14:04:50.819Z",
       "type": "comment",
-      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
