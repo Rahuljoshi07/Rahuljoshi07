@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761343417769,
+      "repository": "djmonkeyuk/nms-base-builder",
+      "issueTitle": "Stone Roof Corner Bug (v. 2.1.4)",
+      "url": "https://github.com/djmonkeyuk/nms-base-builder/issues/106",
+      "createdAt": "2025-10-24T22:03:37.769Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
