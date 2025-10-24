@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761283017152,
+      "id": 1761283055580,
       "repository": "oldcordapp/OldcordV3",
       "issueTitle": "[IMPORTANT] Read this before opening an issue",
       "url": "https://github.com/oldcordapp/OldcordV3/issues/84",
-      "createdAt": "2025-10-24T05:16:57.152Z",
+      "createdAt": "2025-10-24T05:17:35.580Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
