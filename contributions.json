@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761306423544,
-      "repository": "2M4U/2m4u",
-      "issueTitle": "Possible fixes for update.js",
-      "url": "https://github.com/2M4U/2m4u/issues/6",
-      "createdAt": "2025-10-24T11:47:03.544Z",
+      "id": 1761306486030,
+      "repository": "openwisp/openwisp-controller",
+      "issueTitle": "[bug] Uncaught exception: MultiValueDictKeyError at /admin/config/device/add/",
+      "url": "https://github.com/openwisp/openwisp-controller/issues/1057",
+      "createdAt": "2025-10-24T11:48:06.030Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
     }
   ],
   "stats": {
