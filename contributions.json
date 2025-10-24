@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761270437297,
+      "id": 1761270474190,
       "repository": "namastexlabs/automagik-genie",
-      "issueTitle": "MCP: Fix executor profiles sync error",
-      "url": "https://github.com/namastexlabs/automagik-genie/issues/245",
-      "createdAt": "2025-10-24T01:47:17.297Z",
+      "issueTitle": "Architecture: Clarify Genie MCP sessions vs Forge task execution boundaries",
+      "url": "https://github.com/namastexlabs/automagik-genie/issues/242",
+      "createdAt": "2025-10-24T01:47:54.191Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+      "content": "Adding TypeScript could improve code quality and maintainability. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
