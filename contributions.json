@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761345638154,
+      "repository": "gabber-dev/gabber",
+      "issueTitle": "engine-1 error when running example",
+      "url": "https://github.com/gabber-dev/gabber/issues/242",
+      "createdAt": "2025-10-24T22:40:38.154Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
