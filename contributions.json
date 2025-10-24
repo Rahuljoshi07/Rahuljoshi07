@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761268667097,
+      "repository": "arsenetar/send2trash",
+      "issueTitle": "send2trash function failed to delete a directory with unknown error",
+      "url": "https://github.com/arsenetar/send2trash/issues/70",
+      "createdAt": "2025-10-24T01:17:47.097Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
