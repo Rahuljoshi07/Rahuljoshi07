@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761270669383,
+      "repository": "InsightSoftwareConsortium/ITK-Wasm",
+      "issueTitle": "Error converting DICOM to vtk file: network error",
+      "url": "https://github.com/InsightSoftwareConsortium/ITK-Wasm/issues/1438",
+      "createdAt": "2025-10-24T01:51:09.383Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
