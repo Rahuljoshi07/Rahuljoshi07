@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761280123440,
+      "repository": "dell/dellemc-openmanage-ansible-modules",
+      "issueTitle": "[BUG]: idrac_system_info failing on the latest iDrac 10 firmware",
+      "url": "https://github.com/dell/dellemc-openmanage-ansible-modules/issues/1053",
+      "createdAt": "2025-10-24T04:28:43.440Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
