@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761281031791,
+      "repository": "browniebroke/django-codemod",
+      "issueTitle": "Option to show diffs",
+      "url": "https://github.com/browniebroke/django-codemod/issues/501",
+      "createdAt": "2025-10-24T04:43:51.791Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
