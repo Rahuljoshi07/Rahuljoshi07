@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761329484592,
+      "repository": "pbshgthm/vangogh",
+      "issueTitle": "Internal Server Error",
+      "url": "https://github.com/pbshgthm/vangogh/issues/2",
+      "createdAt": "2025-10-24T18:11:24.592Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
