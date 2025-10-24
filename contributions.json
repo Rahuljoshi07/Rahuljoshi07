@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761338948589,
-      "repository": "2M4U/2m4u",
-      "issueTitle": "Possible fixes for update.js",
-      "url": "https://github.com/2M4U/2m4u/issues/6",
-      "createdAt": "2025-10-24T20:49:08.589Z",
+      "id": 1761339012617,
+      "repository": "salesforce/eslint-config-lwc",
+      "issueTitle": "Error while loading rule 'jest/no-deprecated-functions': Unable to detect Jest version",
+      "url": "https://github.com/salesforce/eslint-config-lwc/issues/161",
+      "createdAt": "2025-10-24T20:50:12.617Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
