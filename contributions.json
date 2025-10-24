@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761324385570,
+      "repository": "sealninja/react-i18nify",
+      "issueTitle": "Typescript error using the render method",
+      "url": "https://github.com/sealninja/react-i18nify/issues/74",
+      "createdAt": "2025-10-24T16:46:25.570Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
