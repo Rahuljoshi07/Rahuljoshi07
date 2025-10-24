@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761317345088,
+      "repository": "Yonokid/PyTaiko",
+      "issueTitle": "A certain set of dancers have a graphical glitch due to wrong image sizes",
+      "url": "https://github.com/Yonokid/PyTaiko/issues/119",
+      "createdAt": "2025-10-24T14:49:05.088Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
