@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761390631002,
+      "repository": "Dreamlinerm/Netflix-Prime-Auto-Skip",
+      "issueTitle": "[BUG] Crunchyroll broke Filter Dub again",
+      "url": "https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip/issues/172",
+      "createdAt": "2025-10-25T11:10:31.002Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
