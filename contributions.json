@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761358096073,
+      "repository": "mdev588/vboard",
+      "issueTitle": "ModuleNotFoundError: No module named 'uinput'",
+      "url": "https://github.com/mdev588/vboard/issues/22",
+      "createdAt": "2025-10-25T02:08:16.073Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
