@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761399099271,
+      "repository": "vaadin/web-components",
+      "issueTitle": "[message-list] implement a scrollTo(item) or similar",
+      "url": "https://github.com/vaadin/web-components/issues/10377",
+      "createdAt": "2025-10-25T13:31:39.271Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
