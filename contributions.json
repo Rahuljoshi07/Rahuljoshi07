@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761364878827,
+      "repository": "Developers-and-Dragons/ArcaneAuditor",
+      "issueTitle": "Bug: If a configuration file is deleted after a user selects it in the web UI, an error is thrown when analysis is run",
+      "url": "https://github.com/Developers-and-Dragons/ArcaneAuditor/issues/27",
+      "createdAt": "2025-10-25T04:01:18.827Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
