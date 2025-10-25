@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761425392143,
+      "repository": "LLNL/benchpark",
+      "issueTitle": "Laghos status",
+      "url": "https://github.com/LLNL/benchpark/issues/1015",
+      "createdAt": "2025-10-25T20:49:52.143Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
