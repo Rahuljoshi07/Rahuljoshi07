@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761392428388,
+      "repository": "LoredCast/filewizard",
+      "issueTitle": "Login button > Internal Server Error",
+      "url": "https://github.com/LoredCast/filewizard/issues/13",
+      "createdAt": "2025-10-25T11:40:28.388Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
