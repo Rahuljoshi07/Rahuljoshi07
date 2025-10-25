@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761382525801,
+      "repository": "ritaban06/mini-js-games-hub",
+      "issueTitle": "Bug:Console Error on Load Due to Missing Favicon in 'Color Switch",
+      "url": "https://github.com/ritaban06/mini-js-games-hub/issues/298",
+      "createdAt": "2025-10-25T08:55:25.801Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
