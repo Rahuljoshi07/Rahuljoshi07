@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761378281469,
+      "repository": "DataDog/dd-trace-js",
+      "issueTitle": "[BUG]: Installs of dd-trace@5.73.0 fail due to peer-dependency violations.",
+      "url": "https://github.com/DataDog/dd-trace-js/issues/6743",
+      "createdAt": "2025-10-25T07:44:41.469Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
