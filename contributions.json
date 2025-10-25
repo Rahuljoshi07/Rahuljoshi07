@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761427718203,
+      "repository": "ThomazPom/Moz-Ext-UltimaDark",
+      "issueTitle": "UltimaDark 1.6.25 totally inefficient on Firefox 115 ESR",
+      "url": "https://github.com/ThomazPom/Moz-Ext-UltimaDark/issues/164",
+      "createdAt": "2025-10-25T21:28:38.203Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
