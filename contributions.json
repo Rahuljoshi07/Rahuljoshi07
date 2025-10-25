@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761429649209,
+      "repository": "TL-System/plato",
+      "issueTitle": "safetensors_rust.SafetensorError: dtype object is not covered",
+      "url": "https://github.com/TL-System/plato/issues/401",
+      "createdAt": "2025-10-25T22:00:49.209Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
