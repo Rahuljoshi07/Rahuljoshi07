@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761362392562,
+      "repository": "NVIDIA-NeMo/Automodel",
+      "issueTitle": "Cannot deploy a fine-tuned model",
+      "url": "https://github.com/NVIDIA-NeMo/Automodel/issues/725",
+      "createdAt": "2025-10-25T03:19:52.562Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
