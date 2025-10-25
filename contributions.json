@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761435351248,
+      "repository": "SuperLlama88888/holoprint",
+      "issueTitle": "Pack creation error: Error: Invalid NBT in structure file \"wood farm.mcstructure\"! UnexpectedEndTagError: Encountered unexpected End tag at byte offset 3602, 51535 unread bytes remaining",
+      "url": "https://github.com/SuperLlama88888/holoprint/issues/303",
+      "createdAt": "2025-10-25T23:35:51.248Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
