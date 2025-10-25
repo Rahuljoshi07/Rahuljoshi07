@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761353549414,
+      "repository": "meshery/meshery.io",
+      "issueTitle": "[Website] Missing profile images causing 404 errors",
+      "url": "https://github.com/meshery/meshery.io/issues/2395",
+      "createdAt": "2025-10-25T00:52:29.414Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
