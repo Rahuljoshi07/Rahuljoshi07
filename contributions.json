@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761429752324,
+      "repository": "johnnyoshika/mcp-server-sqlite-npx",
+      "issueTitle": "Fix SonarQube errors",
+      "url": "https://github.com/johnnyoshika/mcp-server-sqlite-npx/issues/7",
+      "createdAt": "2025-10-25T22:02:32.324Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
