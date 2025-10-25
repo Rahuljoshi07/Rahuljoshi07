@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761352707173,
+      "repository": "nextcloud/files_downloadlimit",
+      "issueTitle": "Enabling download limit directly results in a warning",
+      "url": "https://github.com/nextcloud/files_downloadlimit/issues/492",
+      "createdAt": "2025-10-25T00:38:27.173Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
