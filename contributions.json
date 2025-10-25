@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761402170173,
+      "repository": "R74nCom/sandboxels",
+      "issueTitle": "can you at least check the issues",
+      "url": "https://github.com/R74nCom/sandboxels/issues/1276",
+      "createdAt": "2025-10-25T14:22:50.173Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
