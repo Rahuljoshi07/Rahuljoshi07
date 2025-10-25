@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto:700&size=48&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&height=100&lines=Rahul+Joshi;DevOps+Engineer;Cloud+Developer" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto:700&size=48&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&height=100&lines=Rahul+Joshi;DevOps+Architect;Cloud+Developer" alt="Typing Animation" />
   </h1>
 </div>
 
