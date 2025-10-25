@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761415363419,
+      "repository": "wemake-services/django-modern-rest",
+      "issueTitle": "Split `rest` app into several django apps",
+      "url": "https://github.com/wemake-services/django-modern-rest/issues/171",
+      "createdAt": "2025-10-25T18:02:43.419Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. This suggestion is particularly relevant..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
