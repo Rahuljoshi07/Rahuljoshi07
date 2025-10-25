@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761384377980,
+      "repository": "mrdaemon/exosphere",
+      "issueTitle": "Some TUI colors are hardcoded and override themes",
+      "url": "https://github.com/mrdaemon/exosphere/issues/115",
+      "createdAt": "2025-10-25T09:26:17.980Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
