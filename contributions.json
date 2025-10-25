@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761375921057,
+      "repository": "tiagocoutinho/linuxpy",
+      "issueTitle": "Simple flask app error No module named 'linuxpy' at runtime",
+      "url": "https://github.com/tiagocoutinho/linuxpy/issues/71",
+      "createdAt": "2025-10-25T07:05:21.057Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
