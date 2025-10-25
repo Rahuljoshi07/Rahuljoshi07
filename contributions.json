@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761393872392,
+      "repository": "swyddfa/lsp-devtools",
+      "issueTitle": "inspector - \"Client has stopped\" error",
+      "url": "https://github.com/swyddfa/lsp-devtools/issues/208",
+      "createdAt": "2025-10-25T12:04:32.392Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
