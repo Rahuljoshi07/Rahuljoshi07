@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761371130471,
+      "repository": "devzhk/InverseBench",
+      "issueTitle": "Computing SVD very slow",
+      "url": "https://github.com/devzhk/InverseBench/issues/12",
+      "createdAt": "2025-10-25T05:45:30.471Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
