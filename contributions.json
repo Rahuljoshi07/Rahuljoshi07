@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761414215972,
+      "repository": "canove/whaileys",
+      "issueTitle": "[BUG] Waiting for message. ",
+      "url": "https://github.com/canove/whaileys/issues/26",
+      "createdAt": "2025-10-25T17:43:35.972Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
