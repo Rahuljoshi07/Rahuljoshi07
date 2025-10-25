@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761428196350,
+      "repository": "chung-leong/zigar",
+      "issueTitle": "Electron image filter demo is crashing",
+      "url": "https://github.com/chung-leong/zigar/issues/752",
+      "createdAt": "2025-10-25T21:36:36.350Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
