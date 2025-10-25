@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761399574400,
+      "repository": "n00bcodr/Jellyfin-Enhanced",
+      "issueTitle": "🐛[BUG] Watchlist feature not working in Jellyfin 10.11.0",
+      "url": "https://github.com/n00bcodr/Jellyfin-Enhanced/issues/108",
+      "createdAt": "2025-10-25T13:39:34.400Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
