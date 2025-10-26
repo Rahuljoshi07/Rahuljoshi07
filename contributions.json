@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761522948663,
+      "repository": "Open-Wine-Components/umu-protonfixes",
+      "issueTitle": "[Bug] Assassin's creed syndicate crashing or freezing",
+      "url": "https://github.com/Open-Wine-Components/umu-protonfixes/issues/393",
+      "createdAt": "2025-10-26T23:55:48.663Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
