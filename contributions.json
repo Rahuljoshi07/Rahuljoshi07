@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761486046348,
+      "repository": "strictdoc-project/strictdoc",
+      "issueTitle": "Maybe Bug: Scope partially ignored if scope=function appears in C function comment",
+      "url": "https://github.com/strictdoc-project/strictdoc/issues/2507",
+      "createdAt": "2025-10-26T13:40:46.348Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
