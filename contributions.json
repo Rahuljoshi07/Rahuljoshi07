@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761485720882,
+      "repository": "marketcalls/openalgo",
+      "issueTitle": "Persistent Dhan Session – Prevent Auto Logout / Re-Login Requirement",
+      "url": "https://github.com/marketcalls/openalgo/issues/516",
+      "createdAt": "2025-10-26T13:35:20.882Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
