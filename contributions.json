@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761511664168,
+      "repository": "jupyterhub/ldapauthenticator",
+      "issueTitle": "allowed_groups does not properly restrict access when using AD server",
+      "url": "https://github.com/jupyterhub/ldapauthenticator/issues/303",
+      "createdAt": "2025-10-26T20:47:44.168Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
