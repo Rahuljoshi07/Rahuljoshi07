@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761515871430,
+      "repository": "KarchinLab/open-cravat",
+      "issueTitle": "interpro annotator error",
+      "url": "https://github.com/KarchinLab/open-cravat/issues/365",
+      "createdAt": "2025-10-26T21:57:51.430Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
