@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761483980236,
-      "repository": "Jasons-impart/Create-Delight-Remake",
-      "issueTitle": "合成表中的序列组装有概率消失",
-      "url": "https://github.com/Jasons-impart/Create-Delight-Remake/issues/1024",
-      "createdAt": "2025-10-26T13:06:20.236Z",
+      "id": 1761484018066,
+      "repository": "karpetrosyan/hishel",
+      "issueTitle": "hishelCacheClient is slower for **large** files than httpx.Client.",
+      "url": "https://github.com/karpetrosyan/hishel/issues/382",
+      "createdAt": "2025-10-26T13:06:58.066Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider caching with functools.lru_cache for expensive computations. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
