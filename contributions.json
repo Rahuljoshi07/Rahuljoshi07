@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761473638434,
+      "repository": "truenas/apps",
+      "issueTitle": "[Bug Report]: Immich and Jellyfin no longer working after rolling back ixapps folder to an older snapshot",
+      "url": "https://github.com/truenas/apps/issues/3452",
+      "createdAt": "2025-10-26T10:13:58.434Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
