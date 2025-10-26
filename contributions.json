@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761506786147,
+      "id": 1761506829825,
       "repository": "website-scraper/website-scraper-puppeteer",
       "issueTitle": "Cookies are becoming invalid on subsequent requests",
       "url": "https://github.com/website-scraper/website-scraper-puppeteer/issues/115",
-      "createdAt": "2025-10-26T19:26:26.147Z",
+      "createdAt": "2025-10-26T19:27:09.825Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
