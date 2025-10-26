@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761480236900,
+      "repository": "brunosabot/streamline-card",
+      "issueTitle": "Theming bug: hui-card vs ha-card",
+      "url": "https://github.com/brunosabot/streamline-card/issues/89",
+      "createdAt": "2025-10-26T12:03:56.900Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
