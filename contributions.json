@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761512090497,
+      "repository": "fabiospampinato/atomically",
+      "issueTitle": "DEFAULT_USER_UID and DEFAULT_USER_GID are implemented incorrectly, erroring out in Docker",
+      "url": "https://github.com/fabiospampinato/atomically/issues/13",
+      "createdAt": "2025-10-26T20:54:50.497Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
