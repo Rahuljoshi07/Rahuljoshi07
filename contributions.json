@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761496910221,
+      "repository": "gentoo/gpyutils",
+      "issueTitle": "gpy-verify-deps: FileNotFoundError: [Errno 2] No such file or directory: 'python3.8'",
+      "url": "https://github.com/gentoo/gpyutils/issues/5",
+      "createdAt": "2025-10-26T16:41:50.221Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
