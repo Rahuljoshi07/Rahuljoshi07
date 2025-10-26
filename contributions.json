@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761493543814,
+      "repository": "cartesia-ai/cartesia-python",
+      "issueTitle": "JSON decode error when parsing error response",
+      "url": "https://github.com/cartesia-ai/cartesia-python/issues/52",
+      "createdAt": "2025-10-26T15:45:43.814Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
