@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761468022738,
+      "repository": "gamberoillecito/unBLOCHed",
+      "issueTitle": "Gizmo disappears randomly",
+      "url": "https://github.com/gamberoillecito/unBLOCHed/issues/10",
+      "createdAt": "2025-10-26T08:40:22.738Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
