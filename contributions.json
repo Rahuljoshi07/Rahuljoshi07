@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761516509821,
+      "repository": "sachinsenal0x64/hifi",
+      "issueTitle": "[Bug] Track endpoint sometimes returns a broken .mp4 file",
+      "url": "https://github.com/sachinsenal0x64/hifi/issues/57",
+      "createdAt": "2025-10-26T22:08:29.821Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
