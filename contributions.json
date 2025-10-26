@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761468252034,
+      "repository": "rnovacek/homeassistant_cz_energy_spot_prices",
+      "issueTitle": "Midnight error",
+      "url": "https://github.com/rnovacek/homeassistant_cz_energy_spot_prices/issues/124",
+      "createdAt": "2025-10-26T08:44:12.034Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
