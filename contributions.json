@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761506472360,
+      "repository": "cvzi/Spotify-Genius-Lyrics-userscript",
+      "issueTitle": "type error",
+      "url": "https://github.com/cvzi/Spotify-Genius-Lyrics-userscript/issues/43",
+      "createdAt": "2025-10-26T19:21:12.360Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
