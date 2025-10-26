@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761507452991,
+      "repository": "DShield-ISC/dshield",
+      "issueTitle": "Possible submit script or FW log processing issue",
+      "url": "https://github.com/DShield-ISC/dshield/issues/313",
+      "createdAt": "2025-10-26T19:37:32.991Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
