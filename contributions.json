@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761448832124,
+      "repository": "policykit/policykit",
+      "issueTitle": "Fig bug where sometimes we cannot et the community of a proposal?",
+      "url": "https://github.com/policykit/policykit/issues/695",
+      "createdAt": "2025-10-26T03:20:32.124Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
