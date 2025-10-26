@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761488075990,
+      "repository": "Godofcong-1/erArk",
+      "issueTitle": "[BUG]刷新蚀刻章报错（2025.10.24）",
+      "url": "https://github.com/Godofcong-1/erArk/issues/176",
+      "createdAt": "2025-10-26T14:14:35.990Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
