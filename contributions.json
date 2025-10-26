@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761515703366,
+      "repository": "vulnerability-lookup/vulnerability-lookup",
+      "issueTitle": "Docker: error building image from .zip | missing .git directory",
+      "url": "https://github.com/vulnerability-lookup/vulnerability-lookup/issues/176",
+      "createdAt": "2025-10-26T21:55:03.366Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
