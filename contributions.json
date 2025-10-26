@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761468181189,
+      "repository": "IINemo/lm-polygraph",
+      "issueTitle": "issue installing the pip with Python>3.11 on conda",
+      "url": "https://github.com/IINemo/lm-polygraph/issues/399",
+      "createdAt": "2025-10-26T08:43:01.189Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
