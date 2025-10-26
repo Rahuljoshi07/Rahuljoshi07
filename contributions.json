@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761509804509,
+      "repository": "iNavFlight/inav-configurator",
+      "issueTitle": "(NOT a bug) Move altitude into correct section on osd tab",
+      "url": "https://github.com/iNavFlight/inav-configurator/issues/637",
+      "createdAt": "2025-10-26T20:16:44.509Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
