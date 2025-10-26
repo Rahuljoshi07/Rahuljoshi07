@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761513029650,
+      "repository": "GlisseManTV/MCPO-File-Generation-Tool",
+      "issueTitle": "[BUG] New version docker image, openapi.json broken",
+      "url": "https://github.com/GlisseManTV/MCPO-File-Generation-Tool/issues/31",
+      "createdAt": "2025-10-26T21:10:29.650Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
