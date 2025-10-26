@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761483641154,
+      "repository": "scikit-hep/iminuit",
+      "issueTitle": "Backwards compatibility issue with default use_simplex",
+      "url": "https://github.com/scikit-hep/iminuit/issues/1041",
+      "createdAt": "2025-10-26T13:00:41.154Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
