@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761439136108,
+      "repository": "kesslerio/vibe-check-mcp",
+      "issueTitle": "[Bug]: release.sh blocked by formatting, type checking, and test failures",
+      "url": "https://github.com/kesslerio/vibe-check-mcp/issues/294",
+      "createdAt": "2025-10-26T00:38:56.108Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
