@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761469103291,
+      "repository": "klausj1/homeassistant-statistics",
+      "issueTitle": "Timestamp issue during import",
+      "url": "https://github.com/klausj1/homeassistant-statistics/issues/91",
+      "createdAt": "2025-10-26T08:58:23.291Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
