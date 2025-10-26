@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761502874013,
+      "repository": "mpfaffenberger/code_puppy",
+      "issueTitle": "Installation Error: Model File Download Failure (HTTP 429) Leading to FileNotFoundError",
+      "url": "https://github.com/mpfaffenberger/code_puppy/issues/68",
+      "createdAt": "2025-10-26T18:21:14.014Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
