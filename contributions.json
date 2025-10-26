@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761485304615,
+      "repository": "akumidv/tradingview-assistant-chrome-extension",
+      "issueTitle": "New error popup in TV: Error: The strategy report did not found",
+      "url": "https://github.com/akumidv/tradingview-assistant-chrome-extension/issues/299",
+      "createdAt": "2025-10-26T13:28:24.615Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
