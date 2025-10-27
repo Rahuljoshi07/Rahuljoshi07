@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761538524864,
+      "repository": "nvidia-cosmos/cosmos-rl",
+      "issueTitle": "[Bug] loss NaN for qwen32b when compile = false",
+      "url": "https://github.com/nvidia-cosmos/cosmos-rl/issues/317",
+      "createdAt": "2025-10-27T04:15:24.864Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
