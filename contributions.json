@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761563161972,
+      "repository": "SolidOS/chat-pane",
+      "issueTitle": "chat can impersonate any webId",
+      "url": "https://github.com/SolidOS/chat-pane/issues/90",
+      "createdAt": "2025-10-27T11:06:01.972Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
