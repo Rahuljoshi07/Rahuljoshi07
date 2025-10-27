@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761530945220,
+      "repository": "theriverman/django-minio-backend",
+      "issueTitle": "Uploading large files consumes a lot of memory",
+      "url": "https://github.com/theriverman/django-minio-backend/issues/50",
+      "createdAt": "2025-10-27T02:09:05.220Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
