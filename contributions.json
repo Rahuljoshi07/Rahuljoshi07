@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761558849123,
+      "repository": "kiudee/chess-tuning-tools",
+      "issueTitle": "RuntimeError: `It is unadvisable to use a red-blue move with fewer walkers than twice the number of dimensions`",
+      "url": "https://github.com/kiudee/chess-tuning-tools/issues/229",
+      "createdAt": "2025-10-27T09:54:09.123Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
