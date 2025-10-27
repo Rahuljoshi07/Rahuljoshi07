@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761581677103,
+      "repository": "intuit/oauth-jsclient",
+      "issueTitle": "authResponse body is empty when QuickBooks returns an error (v4.2.1)",
+      "url": "https://github.com/intuit/oauth-jsclient/issues/198",
+      "createdAt": "2025-10-27T16:14:37.103Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
