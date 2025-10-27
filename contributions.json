@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761525423781,
+      "repository": "nextcloud/contacts",
+      "issueTitle": "import of vcf fails on some contacts one time, the next others fail",
+      "url": "https://github.com/nextcloud/contacts/issues/4822",
+      "createdAt": "2025-10-27T00:37:03.781Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
