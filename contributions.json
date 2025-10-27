@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761567182210,
+      "id": 1761567220911,
       "repository": "yjeroen/foundry-shadowrun6-eden",
-      "issueTitle": "[Feature Request] Shadowrun PDF Support",
-      "url": "https://github.com/yjeroen/foundry-shadowrun6-eden/issues/202",
-      "createdAt": "2025-10-27T12:13:02.210Z",
+      "issueTitle": "[Bug] Skillwires (Firearms Skill Pool Override) still apply a untrained modifier if the base skill was 0",
+      "url": "https://github.com/yjeroen/foundry-shadowrun6-eden/issues/204",
+      "createdAt": "2025-10-27T12:13:40.912Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
