@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761588382057,
+      "repository": "NVIDIA-NeMo/Megatron-Bridge",
+      "issueTitle": "Full Cuda-graph support for Mbridge",
+      "url": "https://github.com/NVIDIA-NeMo/Megatron-Bridge/issues/503",
+      "createdAt": "2025-10-27T18:06:22.057Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
