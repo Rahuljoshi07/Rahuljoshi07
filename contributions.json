@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761549716571,
+      "repository": "wukan1986/polars_ta",
+      "issueTitle": "cs_qcut的类型转换导致分组结果bug",
+      "url": "https://github.com/wukan1986/polars_ta/issues/15",
+      "createdAt": "2025-10-27T07:21:56.571Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
