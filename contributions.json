@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761541046425,
+      "repository": "eslint/json",
+      "issueTitle": "Bug: sub-dependencies in JSR are not using JSR sub-dependencies",
+      "url": "https://github.com/eslint/json/issues/168",
+      "createdAt": "2025-10-27T04:57:26.425Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
