@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761551097428,
+      "repository": "pimcore/admin-ui-classic-bundle",
+      "issueTitle": "[Bug]: Make Renderlet Request query/attribute in Edit Mode consistent with Frontend/Preview",
+      "url": "https://github.com/pimcore/admin-ui-classic-bundle/issues/1038",
+      "createdAt": "2025-10-27T07:44:57.428Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
