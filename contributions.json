@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761607037678,
+      "id": 1761607067203,
       "repository": "UltiMafia/Ultimafia",
       "issueTitle": "bug(core): host assignment, leaving and rejoining causes a person not to be allocated host",
       "url": "https://github.com/UltiMafia/Ultimafia/issues/784",
-      "createdAt": "2025-10-27T23:17:17.678Z",
+      "createdAt": "2025-10-27T23:17:47.203Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
