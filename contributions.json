@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1761580070431,
-      "repository": "osbuild/bootc-image-builder",
-      "issueTitle": "bib failed to build out centos stream10 anaconda-iso on x86_64 with error:error: cannot build manifest: cannot depsolve: running osbuild-depsolve-dnf failed",
-      "url": "https://github.com/osbuild/bootc-image-builder/issues/631",
-      "createdAt": "2025-10-27T15:47:50.431Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
