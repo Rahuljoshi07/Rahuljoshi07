@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761535162862,
+      "repository": "cgranier/tabSidian",
+      "issueTitle": "Default tags dialog issues adding new tags",
+      "url": "https://github.com/cgranier/tabSidian/issues/17",
+      "createdAt": "2025-10-27T03:19:22.863Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
