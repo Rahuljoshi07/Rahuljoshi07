@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761594638750,
+      "repository": "nfriedly/set-cookie-parser",
+      "issueTitle": "distribute ESM version",
+      "url": "https://github.com/nfriedly/set-cookie-parser/issues/50",
+      "createdAt": "2025-10-27T19:50:38.750Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
