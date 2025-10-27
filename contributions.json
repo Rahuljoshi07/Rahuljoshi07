@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761547039327,
+      "repository": "ansible-collections/community.proxmox",
+      "issueTitle": "proxmox_storage module does not update content parameter on existing storage",
+      "url": "https://github.com/ansible-collections/community.proxmox/issues/203",
+      "createdAt": "2025-10-27T06:37:19.328Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
