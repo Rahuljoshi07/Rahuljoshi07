@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761589648746,
+      "repository": "mediacloud/api-client",
+      "issueTitle": "Unhappiness ensues if user passes datetime for start_date/end_date",
+      "url": "https://github.com/mediacloud/api-client/issues/99",
+      "createdAt": "2025-10-27T18:27:28.746Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
