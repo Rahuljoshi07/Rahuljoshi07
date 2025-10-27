@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761607651472,
+      "repository": "mue/mue",
+      "issueTitle": "[Bug] When you mark a quote as a favorite, refreshing the page does not change the quote.",
+      "url": "https://github.com/mue/mue/issues/1112",
+      "createdAt": "2025-10-27T23:27:31.472Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
