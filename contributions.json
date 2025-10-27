@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761601499766,
+      "repository": "doobidoo/mcp-memory-service",
+      "issueTitle": "MCP client-side schema caching prevents tool schema updates without restart",
+      "url": "https://github.com/doobidoo/mcp-memory-service/issues/173",
+      "createdAt": "2025-10-27T21:44:59.766Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
