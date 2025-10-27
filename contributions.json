@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761549090541,
+      "repository": "noobaa/noobaa-core",
+      "issueTitle": "MD5 Calculation on blob_get_blob should use native code thread and not node js crypto library",
+      "url": "https://github.com/noobaa/noobaa-core/issues/4718",
+      "createdAt": "2025-10-27T07:11:30.541Z",
+      "type": "comment",
+      "content": "Using web workers for heavy computations could improve UI responsiveness. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
