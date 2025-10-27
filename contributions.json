@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761538129823,
+      "repository": "pytest-dev/pytest-subtests",
+      "issueTitle": "pytest `--last-failed` does not seem to remember failed subtests",
+      "url": "https://github.com/pytest-dev/pytest-subtests/issues/56",
+      "createdAt": "2025-10-27T04:08:49.823Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
