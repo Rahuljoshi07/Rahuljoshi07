@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761574437888,
+      "repository": "UKGovernmentBEIS/control-arena",
+      "issueTitle": "[Bug]: Model setter/getter system is error-prone",
+      "url": "https://github.com/UKGovernmentBEIS/control-arena/issues/642",
+      "createdAt": "2025-10-27T14:13:57.888Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
