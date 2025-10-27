@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761572440436,
-      "repository": "tox-dev/sphinx-autodoc-typehints",
-      "issueTitle": "`IndexError` may be raised if `typehints_defaults = 'braces-after'` is combined with `always_document_param_types = True`",
-      "url": "https://github.com/tox-dev/sphinx-autodoc-typehints/issues/575",
-      "createdAt": "2025-10-27T13:40:40.436Z",
+      "id": 1761572485100,
+      "repository": "chung-leong/zigar",
+      "issueTitle": "Fallback test not working on macOS",
+      "url": "https://github.com/chung-leong/zigar/issues/768",
+      "createdAt": "2025-10-27T13:41:25.100Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
