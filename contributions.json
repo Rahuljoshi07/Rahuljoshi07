@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761568549704,
+      "repository": "mkocansey/bladewind",
+      "issueTitle": "Enforce validation when `Filepicker` is marked as required",
+      "url": "https://github.com/mkocansey/bladewind/issues/512",
+      "createdAt": "2025-10-27T12:35:49.704Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
