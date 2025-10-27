@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761592313635,
+      "repository": "bentoml/BentoVLLM",
+      "issueTitle": "[Bug] Dependency conflict between vLLM, flashinfer, and Python version in the llama3.1-8b-instruct example",
+      "url": "https://github.com/bentoml/BentoVLLM/issues/165",
+      "createdAt": "2025-10-27T19:11:53.635Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
