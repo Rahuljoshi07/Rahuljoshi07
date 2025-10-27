@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761600574389,
+      "repository": "netascode/ansible-dc-vxlan",
+      "issueTitle": "Expand Number of DHCP Relay Server Support",
+      "url": "https://github.com/netascode/ansible-dc-vxlan/issues/492",
+      "createdAt": "2025-10-27T21:29:34.389Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
