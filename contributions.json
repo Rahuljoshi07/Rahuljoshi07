@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761575633311,
+      "repository": "aws/bedrock-agentcore-starter-toolkit",
+      "issueTitle": "[BUG] using agentcore launch --local",
+      "url": "https://github.com/aws/bedrock-agentcore-starter-toolkit/issues/156",
+      "createdAt": "2025-10-27T14:33:53.311Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
