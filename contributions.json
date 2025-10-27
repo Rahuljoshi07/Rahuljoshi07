@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761569658449,
+      "repository": "KitwareMedical/trame-slicer",
+      "issueTitle": "Changing segment opacity with the mouse does not update GUI",
+      "url": "https://github.com/KitwareMedical/trame-slicer/issues/34",
+      "createdAt": "2025-10-27T12:54:18.449Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
