@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761540016796,
+      "repository": "shane-mason/FieldStation42",
+      "issueTitle": "[BUG] `confs/main_config.json` causes \"Error loading station configuration\" error on Windows",
+      "url": "https://github.com/shane-mason/FieldStation42/issues/441",
+      "createdAt": "2025-10-27T04:40:16.796Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
