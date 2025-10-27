@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761556314526,
+      "repository": "CyrilP/hass-deltadore-tydom-component",
+      "issueTitle": "Calybox 220/230 or Calybox 1020WT hvac_mode error",
+      "url": "https://github.com/CyrilP/hass-deltadore-tydom-component/issues/231",
+      "createdAt": "2025-10-27T09:11:54.526Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
