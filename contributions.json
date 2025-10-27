@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761590751953,
+      "repository": "tox-dev/tox-uv",
+      "issueTitle": "Can't set `uv_python_preference` only for a certain environment factor",
+      "url": "https://github.com/tox-dev/tox-uv/issues/260",
+      "createdAt": "2025-10-27T18:45:51.953Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
