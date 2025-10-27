@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761554974736,
+      "repository": "asyncapi/nodejs-template",
+      "issueTitle": "[BUG] Generated Dockerfile runs a non-existing npm command",
+      "url": "https://github.com/asyncapi/nodejs-template/issues/321",
+      "createdAt": "2025-10-27T08:49:34.736Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
