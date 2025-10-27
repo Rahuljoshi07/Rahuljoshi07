@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761555093722,
+      "repository": "asyncapi/java-spring-cloud-stream-template",
+      "issueTitle": "Generated application won't execute in default pacakage",
+      "url": "https://github.com/asyncapi/java-spring-cloud-stream-template/issues/255",
+      "createdAt": "2025-10-27T08:51:33.722Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
