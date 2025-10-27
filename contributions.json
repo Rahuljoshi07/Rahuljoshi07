@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761563526171,
+      "repository": "corradio/polynomial",
+      "issueTitle": "Re-authorizing mailchimp invalidates previous metrics of the same user",
+      "url": "https://github.com/corradio/polynomial/issues/197",
+      "createdAt": "2025-10-27T11:12:06.171Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
