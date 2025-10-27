@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761572583033,
+      "repository": "MoegirlPediaInterfaceAdmins/MoegirlPediaInterfaceCodes",
+      "issueTitle": "queryContributions的饼状图显示不见了",
+      "url": "https://github.com/MoegirlPediaInterfaceAdmins/MoegirlPediaInterfaceCodes/issues/726",
+      "createdAt": "2025-10-27T13:43:03.033Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
