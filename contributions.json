@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761588501394,
+      "repository": "interuss/monitoring",
+      "issueTitle": "scenarios.astm.utm.ConflictEqualPriorityNotPermitted",
+      "url": "https://github.com/interuss/monitoring/issues/1264",
+      "createdAt": "2025-10-27T18:08:21.394Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
