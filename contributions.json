@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761549002868,
+      "repository": "techouse/mysql-to-sqlite3",
+      "issueTitle": "Default value of text columns cause exception",
+      "url": "https://github.com/techouse/mysql-to-sqlite3/issues/91",
+      "createdAt": "2025-10-27T07:10:02.868Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
