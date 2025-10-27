@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761606757236,
+      "repository": "tronbyt/server",
+      "issueTitle": "adjust brightness scale for more brightness variety between 1 and 2",
+      "url": "https://github.com/tronbyt/server/issues/397",
+      "createdAt": "2025-10-27T23:12:37.236Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
