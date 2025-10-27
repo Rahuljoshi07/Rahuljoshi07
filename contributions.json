@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761555306934,
+      "repository": "dbt-labs/dbt-jobs-as-code",
+      "issueTitle": "[Bug / Feature] Deleting Jobs via removing configs from YML",
+      "url": "https://github.com/dbt-labs/dbt-jobs-as-code/issues/152",
+      "createdAt": "2025-10-27T08:55:06.934Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
