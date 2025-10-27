@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761567511357,
+      "repository": "HumanSignal/label-studio-ml-backend",
+      "issueTitle": "grounding_dino attributeError: module 'torch.utils._pytree' has no attribute 'register_pytree_node'",
+      "url": "https://github.com/HumanSignal/label-studio-ml-backend/issues/824",
+      "createdAt": "2025-10-27T12:18:31.357Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
