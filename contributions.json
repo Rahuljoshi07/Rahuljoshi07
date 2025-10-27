@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761534491419,
+      "repository": "agentscope-ai/agentscope-runtime",
+      "issueTitle": "[Bug] Agent api sequence number are nulls in the first two messages",
+      "url": "https://github.com/agentscope-ai/agentscope-runtime/issues/136",
+      "createdAt": "2025-10-27T03:08:11.419Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
