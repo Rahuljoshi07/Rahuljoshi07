@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761536183532,
+      "repository": "chrisgoringe/cg-use-everywhere",
+      "issueTitle": "[Bug]: tooltip for restrictions flickers during generation",
+      "url": "https://github.com/chrisgoringe/cg-use-everywhere/issues/407",
+      "createdAt": "2025-10-27T03:36:23.532Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
