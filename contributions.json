@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1761572393378,
-      "repository": "UKGovernmentBEIS/control-arena",
-      "issueTitle": "[Bug]: Model setter/getter system is error-prone",
-      "url": "https://github.com/UKGovernmentBEIS/control-arena/issues/642",
-      "createdAt": "2025-10-27T13:39:53.378Z",
+      "id": 1761572440436,
+      "repository": "tox-dev/sphinx-autodoc-typehints",
+      "issueTitle": "`IndexError` may be raised if `typehints_defaults = 'braces-after'` is combined with `always_document_param_types = True`",
+      "url": "https://github.com/tox-dev/sphinx-autodoc-typehints/issues/575",
+      "createdAt": "2025-10-27T13:40:40.436Z",
       "type": "comment",
       "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
