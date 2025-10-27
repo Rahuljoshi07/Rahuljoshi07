@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761569740567,
+      "repository": "ckeditor/ckeditor5-demos",
+      "issueTitle": "Uncaught CKEditorError: ckeditor-duplicated-modules",
+      "url": "https://github.com/ckeditor/ckeditor5-demos/issues/25",
+      "createdAt": "2025-10-27T12:55:40.567Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
