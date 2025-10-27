@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761533935067,
+      "repository": "AltimateAI/vscode-dbt-power-user",
+      "issueTitle": "DBT file icon size",
+      "url": "https://github.com/AltimateAI/vscode-dbt-power-user/issues/1763",
+      "createdAt": "2025-10-27T02:58:55.067Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
