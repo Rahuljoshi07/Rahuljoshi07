@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761552273350,
+      "repository": "mishmanners/mish-friendly-food",
+      "issueTitle": "✨ MAJOR TRACKING ISSUE ✨ ",
+      "url": "https://github.com/mishmanners/mish-friendly-food/issues/6",
+      "createdAt": "2025-10-27T08:04:33.350Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
