@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761555426423,
+      "repository": "backendorf/magento2-installment",
+      "issueTitle": "Minor issue",
+      "url": "https://github.com/backendorf/magento2-installment/issues/18",
+      "createdAt": "2025-10-27T08:57:06.423Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
