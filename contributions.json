@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761596395418,
+      "repository": "cenobites/flask-jsonrpc",
+      "issueTitle": "API browser does not work with flask-jwt",
+      "url": "https://github.com/cenobites/flask-jsonrpc/issues/370",
+      "createdAt": "2025-10-27T20:19:55.418Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. This suggestion is particularly relevant..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
