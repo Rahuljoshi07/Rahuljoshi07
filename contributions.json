@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761607037678,
+      "repository": "UltiMafia/Ultimafia",
+      "issueTitle": "bug(core): host assignment, leaving and rejoining causes a person not to be allocated host",
+      "url": "https://github.com/UltiMafia/Ultimafia/issues/784",
+      "createdAt": "2025-10-27T23:17:17.678Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
