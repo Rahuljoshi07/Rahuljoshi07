@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761565734429,
+      "repository": "guqiong96/Lvllm",
+      "issueTitle": "[Usage]: ImportError: /root/cuda/Lvllm/vllm/_C.abi3.so: undefined symbol: _Z20cutlass_moe_mm_sm100RN2at6TensorERKS0_S3_S3_S3_S3_S3_S3_S3_S3_bb",
+      "url": "https://github.com/guqiong96/Lvllm/issues/5",
+      "createdAt": "2025-10-27T11:48:54.429Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
