@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761691776175,
+      "id": 1761691809704,
       "repository": "chung-leong/zigar",
       "issueTitle": "Expose \"debug\" declaration from module",
       "url": "https://github.com/chung-leong/zigar/issues/774",
-      "createdAt": "2025-10-28T22:49:36.175Z",
+      "createdAt": "2025-10-28T22:50:09.704Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
