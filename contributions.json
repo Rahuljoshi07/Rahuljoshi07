@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761668239444,
+      "repository": "elastic/elastic-otel-node",
+      "issueTitle": "support for mTLS auth with OpAMP server",
+      "url": "https://github.com/elastic/elastic-otel-node/issues/1044",
+      "createdAt": "2025-10-28T16:17:19.444Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
