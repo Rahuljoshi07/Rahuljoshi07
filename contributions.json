@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761610195042,
+      "repository": "duorua/narutomobile",
+      "issueTitle": "试炼在奖励中心滑动时速度过快，有时识别不到生存挑战，导致误判生存挑战已完成",
+      "url": "https://github.com/duorua/narutomobile/issues/50",
+      "createdAt": "2025-10-28T00:09:55.042Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
