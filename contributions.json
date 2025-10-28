@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761652021521,
+      "repository": "open-telemetry/opentelemetry.io",
+      "issueTitle": "Use uv-native approach in python instrumentation docs",
+      "url": "https://github.com/open-telemetry/opentelemetry.io/issues/8253",
+      "createdAt": "2025-10-28T11:47:01.521Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
