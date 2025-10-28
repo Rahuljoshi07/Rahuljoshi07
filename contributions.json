@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761669594518,
+      "repository": "opsmill/infrahub",
+      "issueTitle": "bug: artifact diff needs update for migrated kind nodes",
+      "url": "https://github.com/opsmill/infrahub/issues/7490",
+      "createdAt": "2025-10-28T16:39:54.518Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
