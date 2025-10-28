@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761611673881,
+      "repository": "BoostryJP/ibet-Prime",
+      "issueTitle": "[BUG] 503 error cannot be handled",
+      "url": "https://github.com/BoostryJP/ibet-Prime/issues/919",
+      "createdAt": "2025-10-28T00:34:33.881Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
