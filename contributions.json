@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761636387784,
+      "repository": "django-cms/djangocms-frontend",
+      "issueTitle": "[DOC] Duplicate content in the docs",
+      "url": "https://github.com/django-cms/djangocms-frontend/issues/312",
+      "createdAt": "2025-10-28T07:26:27.784Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
