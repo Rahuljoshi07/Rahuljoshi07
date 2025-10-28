@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761685690390,
+      "repository": "ni/nidaqmx-python",
+      "issueTitle": "`docs` tox env fails on rdss-nidaqmxbot-win-10-py32",
+      "url": "https://github.com/ni/nidaqmx-python/issues/862",
+      "createdAt": "2025-10-28T21:08:10.390Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
