@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761646412298,
+      "repository": "ing-bank/ordeq",
+      "issueTitle": "ordeq-chromadb",
+      "url": "https://github.com/ing-bank/ordeq/issues/187",
+      "createdAt": "2025-10-28T10:13:32.299Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
