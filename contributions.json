@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761617663020,
+      "id": 1761617690461,
       "repository": "LibreSign/libresign",
       "issueTitle": "[FEATURE/BUG]: imagick and jmagick?",
       "url": "https://github.com/LibreSign/libresign/issues/5567",
-      "createdAt": "2025-10-28T02:14:23.020Z",
+      "createdAt": "2025-10-28T02:14:50.461Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
