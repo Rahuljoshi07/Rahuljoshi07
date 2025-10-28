@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761651688738,
+      "repository": "mattermost/mattermost-plugin-gitlab",
+      "issueTitle": "Can't view all labels when using /gitlab issue create",
+      "url": "https://github.com/mattermost/mattermost-plugin-gitlab/issues/610",
+      "createdAt": "2025-10-28T11:41:28.738Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
