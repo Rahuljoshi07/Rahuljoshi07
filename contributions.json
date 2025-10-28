@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761666323463,
+      "repository": "chung-leong/zigar",
+      "issueTitle": "Unable to use function from a different module",
+      "url": "https://github.com/chung-leong/zigar/issues/772",
+      "createdAt": "2025-10-28T15:45:23.463Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
