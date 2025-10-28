@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761618041531,
+      "repository": "Adventech/sabbath-school-lessons",
+      "issueTitle": "Bible Preview Issue",
+      "url": "https://github.com/Adventech/sabbath-school-lessons/issues/3721",
+      "createdAt": "2025-10-28T02:20:41.531Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
