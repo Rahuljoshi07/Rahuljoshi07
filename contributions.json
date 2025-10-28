@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761613256011,
+      "repository": "quic/ai-hub-models",
+      "issueTitle": "[BUG] Run qai_hub_models\\models\\hrnet_pose model, an exception occurred.",
+      "url": "https://github.com/quic/ai-hub-models/issues/240",
+      "createdAt": "2025-10-28T01:00:56.011Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
