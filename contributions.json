@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761640496705,
-      "repository": "CycloneDX/cyclonedx-node-npm",
-      "issueTitle": "[BUG] `--omit=dev` and `--omit=optional` flags don't exclude `devOptional` dependencies, causing misleading output",
-      "url": "https://github.com/CycloneDX/cyclonedx-node-npm/issues/1325",
-      "createdAt": "2025-10-28T08:34:56.705Z",
+      "id": 1761640525892,
+      "repository": "ngsoti/rulezet-core",
+      "issueTitle": "Finding a way to map tools and format",
+      "url": "https://github.com/ngsoti/rulezet-core/issues/21",
+      "createdAt": "2025-10-28T08:35:25.892Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
