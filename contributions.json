@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761613069971,
+      "repository": "nextcloud/integration_gitlab",
+      "issueTitle": "Error in preview in Nextcloud talk",
+      "url": "https://github.com/nextcloud/integration_gitlab/issues/124",
+      "createdAt": "2025-10-28T00:57:49.971Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
