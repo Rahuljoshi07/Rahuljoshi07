@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761642512759,
+      "repository": "VQEG/siti-tools",
+      "issueTitle": "Error that depends on the video resolution",
+      "url": "https://github.com/VQEG/siti-tools/issues/17",
+      "createdAt": "2025-10-28T09:08:32.759Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
