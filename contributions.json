@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761654862149,
+      "repository": "charles-001/dolphie",
+      "issueTitle": "RuntimeError: SyntaxAwareDocument unavailable - tree-sitter is not installed (v6.10.2)",
+      "url": "https://github.com/charles-001/dolphie/issues/110",
+      "createdAt": "2025-10-28T12:34:22.149Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
