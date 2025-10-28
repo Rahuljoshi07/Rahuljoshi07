@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761652744928,
+      "repository": "froala/vue-froala-wysiwyg",
+      "issueTitle": "Issue in vue3 typescript setup",
+      "url": "https://github.com/froala/vue-froala-wysiwyg/issues/227",
+      "createdAt": "2025-10-28T11:59:04.928Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
