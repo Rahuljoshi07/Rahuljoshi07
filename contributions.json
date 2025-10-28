@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761666323463,
-      "repository": "chung-leong/zigar",
-      "issueTitle": "Unable to use function from a different module",
-      "url": "https://github.com/chung-leong/zigar/issues/772",
-      "createdAt": "2025-10-28T15:45:23.463Z",
+      "id": 1761666359075,
+      "repository": "eurostat/eurostat-map",
+      "issueTitle": "Coxcomb tooltip mousout doesnt work when coxcombRings(false)",
+      "url": "https://github.com/eurostat/eurostat-map/issues/177",
+      "createdAt": "2025-10-28T15:45:59.075Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
