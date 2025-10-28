@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761667768483,
+      "repository": "w3c/aria-at-app",
+      "issueTitle": "Improve Tracking of screen reader bugs: new Report AT Bug Issues Creation button",
+      "url": "https://github.com/w3c/aria-at-app/issues/1526",
+      "createdAt": "2025-10-28T16:09:28.483Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
