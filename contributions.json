@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761659228617,
+      "repository": "linkml/linkml",
+      "issueTitle": "JSON-LD Context Generation: Term Collision (Prefix vs. Slot Name) labels",
+      "url": "https://github.com/linkml/linkml/issues/2971",
+      "createdAt": "2025-10-28T13:47:08.617Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
