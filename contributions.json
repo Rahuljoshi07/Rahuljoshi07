@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761621292855,
+      "repository": "OWASP/Nest",
+      "issueTitle": "The map catches the cursor and zooms in and out",
+      "url": "https://github.com/OWASP/Nest/issues/1493",
+      "createdAt": "2025-10-28T03:14:52.855Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
