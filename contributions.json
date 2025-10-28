@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761672162481,
+      "id": 1761672200184,
       "repository": "LibreSign/libresign",
-      "issueTitle": "Internal Server Error",
-      "url": "https://github.com/LibreSign/libresign/issues/5627",
-      "createdAt": "2025-10-28T17:22:42.482Z",
+      "issueTitle": "Internal server error on snap (pdf version related)",
+      "url": "https://github.com/LibreSign/libresign/issues/5568",
+      "createdAt": "2025-10-28T17:23:20.184Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
