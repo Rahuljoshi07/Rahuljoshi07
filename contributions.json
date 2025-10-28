@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761632012198,
+      "repository": "n00bcodr/Jellyfin-Enhanced",
+      "issueTitle": "[BUG] MissingMethodException: IUserManager.GetUserById not found in Jellyfin 10.11.1",
+      "url": "https://github.com/n00bcodr/Jellyfin-Enhanced/issues/134",
+      "createdAt": "2025-10-28T06:13:32.198Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
