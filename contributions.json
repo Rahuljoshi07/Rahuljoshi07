@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761653754324,
+      "repository": "Flagsmith/flagsmith-python-client",
+      "issueTitle": "ValueError: Invalid isoformat string on Python 3.10",
+      "url": "https://github.com/Flagsmith/flagsmith-python-client/issues/166",
+      "createdAt": "2025-10-28T12:15:54.324Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
