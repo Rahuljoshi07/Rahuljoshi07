@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761610119692,
+      "repository": "cal-itp/benefits",
+      "issueTitle": "Add transit processor field to enrollment events",
+      "url": "https://github.com/cal-itp/benefits/issues/3210",
+      "createdAt": "2025-10-28T00:08:39.692Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
