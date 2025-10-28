@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761611507059,
+      "repository": "magicyuan876/mineru-tianshu",
+      "issueTitle": "UnicodeDecodeError: 'gbk' codec can't decode byte 0x94 in position 703: illegal multibyte sequence",
+      "url": "https://github.com/magicyuan876/mineru-tianshu/issues/7",
+      "createdAt": "2025-10-28T00:31:47.059Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
