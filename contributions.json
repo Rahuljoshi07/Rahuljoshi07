@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761684315030,
+      "repository": "doobidoo/mcp-memory-service",
+      "issueTitle": "Code quality improvements for document upload (follow-up to #179)",
+      "url": "https://github.com/doobidoo/mcp-memory-service/issues/180",
+      "createdAt": "2025-10-28T20:45:15.030Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
