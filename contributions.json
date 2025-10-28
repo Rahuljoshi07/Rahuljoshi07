@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761654728213,
+      "repository": "Qiskit/qiskit-serverless",
+      "issueTitle": "Fix RuntumeJob object import, typehint Error",
+      "url": "https://github.com/Qiskit/qiskit-serverless/issues/1731",
+      "createdAt": "2025-10-28T12:32:08.213Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
