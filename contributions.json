@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761639489888,
+      "repository": "circuit-synth/circuit-synth",
+      "issueTitle": "Separate project folder name from KiCad file base names",
+      "url": "https://github.com/circuit-synth/circuit-synth/issues/358",
+      "createdAt": "2025-10-28T08:18:09.888Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
