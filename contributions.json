@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761621436969,
+      "repository": "opennem/opennem",
+      "issueTitle": "Upgrade to Python 3.14",
+      "url": "https://github.com/opennem/opennem/issues/468",
+      "createdAt": "2025-10-28T03:17:16.969Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
