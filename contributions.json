@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761653453038,
+      "repository": "release-engineering/Sync2Jira",
+      "issueTitle": "Need to strip newlines from the upstream issue title",
+      "url": "https://github.com/release-engineering/Sync2Jira/issues/383",
+      "createdAt": "2025-10-28T12:10:53.038Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
