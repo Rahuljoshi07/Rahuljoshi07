@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761636861121,
+      "repository": "TejasS1233/en-git",
+      "issueTitle": "Bug: Top Languages Stats Include Forked Repositories Fully",
+      "url": "https://github.com/TejasS1233/en-git/issues/36",
+      "createdAt": "2025-10-28T07:34:21.121Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
