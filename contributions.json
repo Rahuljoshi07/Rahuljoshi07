@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761682080605,
+      "repository": "unfoldedcircle/integration-appletv",
+      "issueTitle": "When playing Plex \"char not found\" symbol is shown",
+      "url": "https://github.com/unfoldedcircle/integration-appletv/issues/72",
+      "createdAt": "2025-10-28T20:08:00.605Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
