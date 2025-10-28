@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761640618735,
+      "id": 1761640650969,
       "repository": "asyncapi/generator",
-      "issueTitle": "explore how to handle `reply` operation in code generation",
-      "url": "https://github.com/asyncapi/generator/issues/1547",
-      "createdAt": "2025-10-28T08:36:58.735Z",
+      "issueTitle": "Proper Error handling mechanism for Baked-in Templates",
+      "url": "https://github.com/asyncapi/generator/issues/1712",
+      "createdAt": "2025-10-28T08:37:30.969Z",
       "type": "comment",
-      "content": "Adding TypeScript could prevent type-related bugs and improve maintainability. This suggestion is pa..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
