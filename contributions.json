@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761693235814,
+      "repository": "Salamek/chromium-kiosk",
+      "issueTitle": "Issue – Keyboard not fully visible on first time",
+      "url": "https://github.com/Salamek/chromium-kiosk/issues/108",
+      "createdAt": "2025-10-28T23:13:55.814Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
