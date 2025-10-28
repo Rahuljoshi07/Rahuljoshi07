@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761676609011,
+      "id": 1761676667330,
       "repository": "kentik/mobx-form",
       "issueTitle": "initial data issue",
       "url": "https://github.com/kentik/mobx-form/issues/2",
-      "createdAt": "2025-10-28T18:36:49.011Z",
+      "createdAt": "2025-10-28T18:37:47.330Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
