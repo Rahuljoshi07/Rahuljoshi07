@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761635014204,
+      "repository": "exelearning/exelearning",
+      "issueTitle": "404 errors in File manager archives",
+      "url": "https://github.com/exelearning/exelearning/issues/238",
+      "createdAt": "2025-10-28T07:03:34.204Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
