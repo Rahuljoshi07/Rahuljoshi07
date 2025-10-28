@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761678679873,
+      "repository": "materialsproject/fireworks",
+      "issueTitle": "AttributeError:  \"safe_load()\" has been removed",
+      "url": "https://github.com/materialsproject/fireworks/issues/531",
+      "createdAt": "2025-10-28T19:11:19.873Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
