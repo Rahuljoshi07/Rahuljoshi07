@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1761672282009,
-      "repository": "npm/npm-registry-fetch",
-      "issueTitle": "[BUG] Error: Cannot set headers after they are sent to the client",
-      "url": "https://github.com/npm/npm-registry-fetch/issues/244",
-      "createdAt": "2025-10-28T17:24:42.009Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
