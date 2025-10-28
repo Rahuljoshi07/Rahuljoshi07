@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761671602973,
+      "repository": "mivanit/muutils",
+      "issueTitle": "`configure_notebook` should detect if not in a notebook, print a warning, and then not do anything notebook-specific",
+      "url": "https://github.com/mivanit/muutils/issues/51",
+      "createdAt": "2025-10-28T17:13:22.973Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
