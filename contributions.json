@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761687338429,
+      "repository": "Insight-Services-APAC/APAC-Capability-DAI-DbtFabricSparkNb",
+      "issueTitle": "Log writing produces error when more than 1 notebook logs at the same time.",
+      "url": "https://github.com/Insight-Services-APAC/APAC-Capability-DAI-DbtFabricSparkNb/issues/211",
+      "createdAt": "2025-10-28T21:35:38.429Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
