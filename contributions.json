@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761668787499,
+      "repository": "OHF-Voice/hassil",
+      "issueTitle": "Spaces ignored in sentence matching",
+      "url": "https://github.com/OHF-Voice/hassil/issues/92",
+      "createdAt": "2025-10-28T16:26:27.499Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
