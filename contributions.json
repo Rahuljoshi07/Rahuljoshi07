@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761637835398,
+      "repository": "lightspeed-core/lightspeed-stack",
+      "issueTitle": "[BUG] Failed in Json patch operation with a MCP",
+      "url": "https://github.com/lightspeed-core/lightspeed-stack/issues/707",
+      "createdAt": "2025-10-28T07:50:35.398Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
