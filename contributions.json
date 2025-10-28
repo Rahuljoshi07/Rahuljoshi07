@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761610622327,
+      "repository": "ClearskyApp06/ClearskyUI",
+      "issueTitle": "Error causing site to not work in safari",
+      "url": "https://github.com/ClearskyApp06/ClearskyUI/issues/381",
+      "createdAt": "2025-10-28T00:17:02.327Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
