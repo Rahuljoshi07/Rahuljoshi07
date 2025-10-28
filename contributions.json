@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761652310692,
+      "repository": "AgibotTech/Genie-Envisioner",
+      "issueTitle": "During training with data/lerobot_like_dataset.py, an error occurred where the shapes of the action and state do not match. How can this be resolved?",
+      "url": "https://github.com/AgibotTech/Genie-Envisioner/issues/15",
+      "createdAt": "2025-10-28T11:51:50.692Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
