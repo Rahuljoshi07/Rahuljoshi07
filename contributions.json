@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761696697236,
+      "repository": "NREL-Distribution-Suites/grid-data-models",
+      "issueTitle": "Reducer repeatedly prints out the same message",
+      "url": "https://github.com/NREL-Distribution-Suites/grid-data-models/issues/112",
+      "createdAt": "2025-10-29T00:11:37.236Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
