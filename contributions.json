@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761701672264,
+      "repository": "richonguzman/LoRa_APRS_iGate",
+      "issueTitle": "PDF con error",
+      "url": "https://github.com/richonguzman/LoRa_APRS_iGate/issues/352",
+      "createdAt": "2025-10-29T01:34:32.264Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
