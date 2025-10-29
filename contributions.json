@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761700273116,
+      "repository": "basilisp-lang/basilisp",
+      "issueTitle": "Importing multiple modules with :refer causes AttributeError",
+      "url": "https://github.com/basilisp-lang/basilisp/issues/1274",
+      "createdAt": "2025-10-29T01:11:13.116Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
