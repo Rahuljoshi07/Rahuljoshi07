@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761702140214,
+      "repository": "dronecan/pydronecan",
+      "issueTitle": "TypeError in slcan.py when formatting standard (non-extended) CAN frames",
+      "url": "https://github.com/dronecan/pydronecan/issues/75",
+      "createdAt": "2025-10-29T01:42:20.214Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
