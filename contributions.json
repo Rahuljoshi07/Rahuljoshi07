@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761700842307,
+      "repository": "readmeio/rdme",
+      "issueTitle": "github actions taking --slug=\"something.json\" with double quotes and fails",
+      "url": "https://github.com/readmeio/rdme/issues/1374",
+      "createdAt": "2025-10-29T01:20:42.307Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
