@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761787077887,
+      "repository": "nextstrain/auspice",
+      "issueTitle": "Surface console-based errors in the web UI",
+      "url": "https://github.com/nextstrain/auspice/issues/1813",
+      "createdAt": "2025-10-30T01:17:57.887Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
