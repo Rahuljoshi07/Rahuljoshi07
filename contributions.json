@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761788028984,
+      "repository": "MoegirlPediaInterfaceAdmins/MoegirlPediaInterfaceCodes",
+      "issueTitle": "外部链接提示可被用于 Reverse Tabnabbing 钓鱼",
+      "url": "https://github.com/MoegirlPediaInterfaceAdmins/MoegirlPediaInterfaceCodes/issues/729",
+      "createdAt": "2025-10-30T01:33:48.984Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
