@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761834827644,
+      "repository": "biggora/express-useragent",
+      "issueTitle": "bug: isBot  return string for postman instead of boolean value",
+      "url": "https://github.com/biggora/express-useragent/issues/168",
+      "createdAt": "2025-10-30T14:33:47.644Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
