@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761818356348,
+      "repository": "kyma-project/busola",
+      "issueTitle": "Clean up of console.errors in console",
+      "url": "https://github.com/kyma-project/busola/issues/3044",
+      "createdAt": "2025-10-30T09:59:16.348Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
