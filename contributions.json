@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761810734329,
+      "repository": "carbon-design-system/ibm-products",
+      "issueTitle": "[ConditionBuilder option dialog scrollball issue]: when user click scrollbar in option dialog it crash Conditionbuilder",
+      "url": "https://github.com/carbon-design-system/ibm-products/issues/8564",
+      "createdAt": "2025-10-30T07:52:14.330Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
