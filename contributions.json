@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761816211319,
+      "repository": "toolforge/video2commons",
+      "issueTitle": "Error: An exception occurred: BlockingIOError: b'[Errno 11] write could not complete without blocking'",
+      "url": "https://github.com/toolforge/video2commons/issues/246",
+      "createdAt": "2025-10-30T09:23:31.319Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
