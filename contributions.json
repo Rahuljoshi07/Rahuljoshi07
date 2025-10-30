@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761849571200,
+      "repository": "croquet/microverse",
+      "issueTitle": "One of the default glb avatars is malfunctioning (500 internal server error)",
+      "url": "https://github.com/croquet/microverse/issues/70",
+      "createdAt": "2025-10-30T18:39:31.200Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
