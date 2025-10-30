@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761793503713,
+      "repository": "Rudd-O/zfs-fedora-installer",
+      "issueTitle": "Error During ./deploy-zfs",
+      "url": "https://github.com/Rudd-O/zfs-fedora-installer/issues/36",
+      "createdAt": "2025-10-30T03:05:03.713Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
