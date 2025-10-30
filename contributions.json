@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761826661086,
+      "repository": "sovware/directorist",
+      "issueTitle": "🐞 Bug Report: Glass Effect Conflicts with Modal",
+      "url": "https://github.com/sovware/directorist/issues/2562",
+      "createdAt": "2025-10-30T12:17:41.086Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
