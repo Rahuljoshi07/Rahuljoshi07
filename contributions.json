@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761861514243,
+      "repository": "dmnsgn/async-preloader",
+      "issueTitle": "Better error handling",
+      "url": "https://github.com/dmnsgn/async-preloader/issues/11",
+      "createdAt": "2025-10-30T21:58:34.243Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
