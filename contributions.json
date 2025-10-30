@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761828969367,
+      "repository": "ynput/ayon-python-api",
+      "issueTitle": "get_folder_links raises ValueError",
+      "url": "https://github.com/ynput/ayon-python-api/issues/278",
+      "createdAt": "2025-10-30T12:56:09.367Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
