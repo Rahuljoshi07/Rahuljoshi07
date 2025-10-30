@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761795307881,
+      "repository": "intbot/ng2-pdfjs-viewer",
+      "issueTitle": "PDF Viewer Ignores Configuration Options After Using \"Reload frame\" in Browser",
+      "url": "https://github.com/intbot/ng2-pdfjs-viewer/issues/287",
+      "createdAt": "2025-10-30T03:35:07.881Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
