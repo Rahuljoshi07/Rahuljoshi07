@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761854280462,
+      "repository": "davidusb-geek/emhass",
+      "issueTitle": "Feature Request: Enhance `def_current_state` to accept real power (W) and force this value for the first timestep",
+      "url": "https://github.com/davidusb-geek/emhass/issues/605",
+      "createdAt": "2025-10-30T19:58:00.462Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. (Suggested by Rahul Joshi..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
