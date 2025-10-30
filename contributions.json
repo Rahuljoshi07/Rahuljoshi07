@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761786828624,
+      "repository": "nextcloud/mail",
+      "issueTitle": "Improve layout for grouped message list",
+      "url": "https://github.com/nextcloud/mail/issues/11975",
+      "createdAt": "2025-10-30T01:13:48.624Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
