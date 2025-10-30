@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761821864581,
+      "repository": "DataDog/dd-trace-js",
+      "issueTitle": "[BUG]: Version 5.68.0 performance degradation",
+      "url": "https://github.com/DataDog/dd-trace-js/issues/6639",
+      "createdAt": "2025-10-30T10:57:44.581Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
