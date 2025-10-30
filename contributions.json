@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761822859201,
+      "repository": "openzim/zimfarm",
+      "issueTitle": "Some `zimcheck` results are too big",
+      "url": "https://github.com/openzim/zimfarm/issues/1456",
+      "createdAt": "2025-10-30T11:14:19.201Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
