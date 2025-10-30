@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761788274917,
+      "repository": "linuxmint/cinnamon-spices-desklets",
+      "issueTitle": "top@ryannerd: All values ​​are 0",
+      "url": "https://github.com/linuxmint/cinnamon-spices-desklets/issues/1348",
+      "createdAt": "2025-10-30T01:37:54.917Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
