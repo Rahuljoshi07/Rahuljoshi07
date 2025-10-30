@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761831713110,
+      "repository": "Open-EO/openeo-geopyspark-driver",
+      "issueTitle": "`mask_polygon` with geometry outside of cube bounds gives weird outcome",
+      "url": "https://github.com/Open-EO/openeo-geopyspark-driver/issues/1399",
+      "createdAt": "2025-10-30T13:41:53.110Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
