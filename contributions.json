@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761802298455,
+      "repository": "suttacentral/suttacentral",
+      "issueTitle": "Fix issues with Sinhala Pali Display",
+      "url": "https://github.com/suttacentral/suttacentral/issues/3510",
+      "createdAt": "2025-10-30T05:31:38.455Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
