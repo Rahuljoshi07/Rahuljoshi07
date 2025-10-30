@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761817514571,
+      "repository": "F5Networks/f5-ansible-bigip",
+      "issueTitle": "bigip_do_deploy check task status returns no message for successful task",
+      "url": "https://github.com/F5Networks/f5-ansible-bigip/issues/93",
+      "createdAt": "2025-10-30T09:45:14.571Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
