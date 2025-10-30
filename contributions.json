@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761839960049,
+      "repository": "YoYoGames/GameMaker-Bugs",
+      "issueTitle": "Debugger: [MacIDE] double-clicking on the watches grid resulted in the IDE going unstable",
+      "url": "https://github.com/YoYoGames/GameMaker-Bugs/issues/12472",
+      "createdAt": "2025-10-30T15:59:20.049Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
