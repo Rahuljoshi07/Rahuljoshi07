@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761914272796,
+      "id": 1761914315246,
       "repository": "AikidoSec/safe-chain",
-      "issueTitle": "[Feature request] Update check / Self update",
-      "url": "https://github.com/AikidoSec/safe-chain/issues/50",
-      "createdAt": "2025-10-31T12:37:52.797Z",
+      "issueTitle": "[Bug]: Not working in github actions",
+      "url": "https://github.com/AikidoSec/safe-chain/issues/118",
+      "createdAt": "2025-10-31T12:38:35.247Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
