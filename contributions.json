@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761928172009,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Refactor: Replace String#replace() with replaceAll() for global regex patterns",
+      "url": "https://github.com/OWASP/Nest/issues/2519",
+      "createdAt": "2025-10-31T16:29:32.009Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
