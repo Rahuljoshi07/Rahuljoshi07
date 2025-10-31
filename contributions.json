@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761898239613,
+      "repository": "amachino/qubex",
+      "issueTitle": "Bug / Improvement: NaN values produce invalid JSON in ExperimentNote.save()",
+      "url": "https://github.com/amachino/qubex/issues/171",
+      "createdAt": "2025-10-31T08:10:39.613Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
