@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761872811459,
+      "repository": "CoderMJLee/BinaryTrees",
+      "issueTitle": "MJLevelOrderPrinter 删除所有的null时有bug",
+      "url": "https://github.com/CoderMJLee/BinaryTrees/issues/8",
+      "createdAt": "2025-10-31T01:06:51.459Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
