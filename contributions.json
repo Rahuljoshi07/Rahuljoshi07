@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761932129984,
+      "repository": "injahow/user.js",
+      "issueTitle": "可以单个下载，批量下载不了，之前可以的，一切常规设置：RPC接口，motrix",
+      "url": "https://github.com/injahow/user.js/issues/81",
+      "createdAt": "2025-10-31T17:35:29.984Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
