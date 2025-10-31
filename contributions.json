@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761908443595,
+      "repository": "pyexcel-webwares/django-excel",
+      "issueTitle": "pkg_resources package is slated for removal as early as 2025-11-30",
+      "url": "https://github.com/pyexcel-webwares/django-excel/issues/76",
+      "createdAt": "2025-10-31T11:00:43.595Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
