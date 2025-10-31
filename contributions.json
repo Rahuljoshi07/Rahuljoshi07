@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761920780401,
+      "repository": "Sandali3000/Botanica",
+      "issueTitle": "UIUX Enhancement/Accessibility Issue: Low Color Contrast and Readability Problems",
+      "url": "https://github.com/Sandali3000/Botanica/issues/140",
+      "createdAt": "2025-10-31T14:26:20.401Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
