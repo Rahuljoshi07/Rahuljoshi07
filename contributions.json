@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761888614132,
+      "repository": "tjhowse/modbus4mqtt",
+      "issueTitle": "IndexError: list index out of range",
+      "url": "https://github.com/tjhowse/modbus4mqtt/issues/58",
+      "createdAt": "2025-10-31T05:30:14.132Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
