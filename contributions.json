@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761921706513,
+      "repository": "topmonks/hlidac-shopu",
+      "issueTitle": "Datart_cz - 0 results (TypeError: Cannot read properties of null (reading 'getAttribute'))",
+      "url": "https://github.com/topmonks/hlidac-shopu/issues/3195",
+      "createdAt": "2025-10-31T14:41:46.513Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
