@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761892506216,
+      "repository": "zero-to-mastery/ZTM-Quest",
+      "issueTitle": "Start map becomes blank when returning from another map",
+      "url": "https://github.com/zero-to-mastery/ZTM-Quest/issues/273",
+      "createdAt": "2025-10-31T06:35:06.216Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
