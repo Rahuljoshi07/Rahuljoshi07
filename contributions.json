@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761868896623,
+      "repository": "ISS-Mimic/Mimic",
+      "issueTitle": "NightShade doesn't seem to be running as scheduled for some reason",
+      "url": "https://github.com/ISS-Mimic/Mimic/issues/696",
+      "createdAt": "2025-10-31T00:01:36.623Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
