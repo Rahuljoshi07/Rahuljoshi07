@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761947952208,
+      "repository": "jms5194/MarkerMatic",
+      "issueTitle": "MarkerMatic does not initially connect to console",
+      "url": "https://github.com/jms5194/MarkerMatic/issues/34",
+      "createdAt": "2025-10-31T21:59:12.208Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
