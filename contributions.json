@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761946298119,
+      "repository": "FaridZelli/Toggley",
+      "issueTitle": "Wrong icon color detected with some Firefox themes when the system theme is dark",
+      "url": "https://github.com/FaridZelli/Toggley/issues/9",
+      "createdAt": "2025-10-31T21:31:38.119Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
