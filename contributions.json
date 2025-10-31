@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761926416403,
+      "repository": "timvink/mkdocs-git-revision-date-localized-plugin",
+      "issueTitle": "Extreme performance regression in 1.4.x",
+      "url": "https://github.com/timvink/mkdocs-git-revision-date-localized-plugin/issues/181",
+      "createdAt": "2025-10-31T16:00:16.404Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
