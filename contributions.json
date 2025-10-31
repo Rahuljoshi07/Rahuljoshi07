@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761938319002,
+      "repository": "Fr1ngg/remnawave-bedolaga-telegram-bot",
+      "issueTitle": "Bug: `/promo-groups` падает 500 из-за валидации дат (`created_at`/`updated_at = null`)",
+      "url": "https://github.com/Fr1ngg/remnawave-bedolaga-telegram-bot/issues/1597",
+      "createdAt": "2025-10-31T19:18:39.002Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
