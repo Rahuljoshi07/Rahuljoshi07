@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761879884543,
+      "repository": "PanHywel/TidyMark",
+      "issueTitle": "使用硅基流动 api 服务报错",
+      "url": "https://github.com/PanHywel/TidyMark/issues/5",
+      "createdAt": "2025-10-31T03:04:44.543Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
