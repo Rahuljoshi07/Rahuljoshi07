@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761904373735,
+      "repository": "pimcore/admin-ui-classic-bundle",
+      "issueTitle": "Classification Store Inheritance Vertical Instead of Horizontal",
+      "url": "https://github.com/pimcore/admin-ui-classic-bundle/issues/950",
+      "createdAt": "2025-10-31T09:52:53.735Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
