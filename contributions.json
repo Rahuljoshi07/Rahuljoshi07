@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761914485146,
+      "repository": "aatapa/RLScore",
+      "issueTitle": "Small bug in cg_kron_rls.py?",
+      "url": "https://github.com/aatapa/RLScore/issues/9",
+      "createdAt": "2025-10-31T12:41:25.146Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
