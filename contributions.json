@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761939765666,
+      "repository": "automateyournetwork/GeminiCLI_Vision_Extension",
+      "issueTitle": "Error during discovery for server 'vision': MCP error -32000: Connection closed on Windows 11",
+      "url": "https://github.com/automateyournetwork/GeminiCLI_Vision_Extension/issues/1",
+      "createdAt": "2025-10-31T19:42:45.666Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
