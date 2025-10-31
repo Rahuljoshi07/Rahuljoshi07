@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761931979083,
+      "id": 1761932021018,
       "repository": "SandeepVashishtha/Eventra",
       "issueTitle": "\"Your Message\" textarea lacks focus animation - label doesn't move up like other input fields",
       "url": "https://github.com/SandeepVashishtha/Eventra/issues/805",
-      "createdAt": "2025-10-31T17:32:59.083Z",
+      "createdAt": "2025-10-31T17:33:41.019Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
