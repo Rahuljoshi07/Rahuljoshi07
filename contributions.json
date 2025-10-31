@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761897769849,
+      "repository": "gramaziokohler/compas_timber",
+      "issueTitle": "FeatureApplicationError shows geometry in local Element space, making debug difficult`",
+      "url": "https://github.com/gramaziokohler/compas_timber/issues/587",
+      "createdAt": "2025-10-31T08:02:49.849Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
