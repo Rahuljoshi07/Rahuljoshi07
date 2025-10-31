@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761911624536,
+      "repository": "snakemake-workflows/rna-seq-kallisto-sleuth",
+      "issueTitle": "Error in rule diffexp_datavzrd",
+      "url": "https://github.com/snakemake-workflows/rna-seq-kallisto-sleuth/issues/82",
+      "createdAt": "2025-10-31T11:53:44.536Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
