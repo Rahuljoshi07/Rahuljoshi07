@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761900071151,
+      "repository": "danielmiessler/Personal_AI_Infrastructure",
+      "issueTitle": "Error running the setup script",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure/issues/69",
+      "createdAt": "2025-10-31T08:41:11.151Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
