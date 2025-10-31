@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761940744153,
+      "repository": "tradingstrategy-ai/web3-ethereum-defi",
+      "issueTitle": "error: `GMX` tests are failing on arbitrum sepolia",
+      "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi/issues/449",
+      "createdAt": "2025-10-31T19:59:04.154Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
