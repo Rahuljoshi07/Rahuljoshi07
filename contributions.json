@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761892033183,
+      "repository": "wemake-services/django-modern-rest",
+      "issueTitle": "Validate that controllers with `blueprints` can't have `component_parsers`",
+      "url": "https://github.com/wemake-services/django-modern-rest/issues/217",
+      "createdAt": "2025-10-31T06:27:13.183Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
