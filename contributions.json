@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761954414782,
+      "repository": "Harbour-Enterprises/SuperDoc",
+      "issueTitle": "search bug when regex from SuperDoc0.21.0-0.24.0",
+      "url": "https://github.com/Harbour-Enterprises/SuperDoc/issues/1137",
+      "createdAt": "2025-10-31T23:46:54.782Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
