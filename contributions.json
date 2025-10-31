@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761893073038,
+      "repository": "circuit-synth/circuit-synth",
+      "issueTitle": "Bug: PCB does not synchronize/update when footprint added to schematic",
+      "url": "https://github.com/circuit-synth/circuit-synth/issues/410",
+      "createdAt": "2025-10-31T06:44:33.038Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
