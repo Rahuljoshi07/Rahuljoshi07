@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761930424300,
+      "repository": "flask-dashboard/Flask-MonitoringDashboard",
+      "issueTitle": "version 5.0.0 has some missing files in the distributed package",
+      "url": "https://github.com/flask-dashboard/Flask-MonitoringDashboard/issues/539",
+      "createdAt": "2025-10-31T17:07:04.300Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
