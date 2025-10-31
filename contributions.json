@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761908113473,
+      "repository": "TotallyInformation/node-red-contrib-uibuilder",
+      "issueTitle": "Documentation (docs) is broken",
+      "url": "https://github.com/TotallyInformation/node-red-contrib-uibuilder/issues/575",
+      "createdAt": "2025-10-31T10:55:13.473Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
