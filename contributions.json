@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761872163552,
+      "repository": "Zhalslar/astrbot_plugin_qqadmin",
+      "issueTitle": "[Bug]",
+      "url": "https://github.com/Zhalslar/astrbot_plugin_qqadmin/issues/52",
+      "createdAt": "2025-10-31T00:56:03.552Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
