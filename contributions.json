@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1761909195839,
-      "repository": "zwave-js/node-red-contrib-zwave-js",
-      "issueTitle": "[Bug]: Configuration isn't mapping numeric values to choices when manual entry is allowed",
-      "url": "https://github.com/zwave-js/node-red-contrib-zwave-js/issues/282",
-      "createdAt": "2025-10-31T11:13:15.839Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
