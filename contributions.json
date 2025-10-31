@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761912824140,
+      "repository": "Granite-Code/granite-code",
+      "issueTitle": "Fix: Check if the feature of injecting virtual references causes a potential bug in granite.writeContinueConfig",
+      "url": "https://github.com/Granite-Code/granite-code/issues/156",
+      "createdAt": "2025-10-31T12:13:44.140Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
