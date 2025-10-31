@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761880049833,
+      "repository": "little51/dinov3-train",
+      "issueTitle": "ModuleNotFoundError: No module named 'lightly_train'",
+      "url": "https://github.com/little51/dinov3-train/issues/2",
+      "createdAt": "2025-10-31T03:07:29.833Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
