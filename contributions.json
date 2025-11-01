@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761980567146,
+      "repository": "haxsysgit/autopahe",
+      "issueTitle": "Some errors are not visible in every option",
+      "url": "https://github.com/haxsysgit/autopahe/issues/3",
+      "createdAt": "2025-11-01T07:02:47.146Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
