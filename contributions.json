@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761991829653,
+      "repository": "pillarjs/finalhandler",
+      "issueTitle": "`engines.node` suggests support for Node.js `>= 0.8`, but #80 broke with Node.js v14 and earlier",
+      "url": "https://github.com/pillarjs/finalhandler/issues/87",
+      "createdAt": "2025-11-01T10:10:29.653Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
