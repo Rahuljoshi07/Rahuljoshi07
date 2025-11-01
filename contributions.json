@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761979689083,
-      "repository": "2M4U/2m4u",
-      "issueTitle": "Possible fixes for update.js",
-      "url": "https://github.com/2M4U/2m4u/issues/6",
-      "createdAt": "2025-11-01T06:48:09.083Z",
+      "id": 1761979722770,
+      "repository": "jisotalo/shelly-porssisahko",
+      "issueTitle": "Lokissa näytettävä IP on väärin johdollista ethernetiä käytettäessä",
+      "url": "https://github.com/jisotalo/shelly-porssisahko/issues/52",
+      "createdAt": "2025-11-01T06:48:42.771Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
