@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762008484301,
+      "repository": "adalca/neurite",
+      "issueTitle": "Error cannot provide both bin centers and nb_bins, while only providing bin centers",
+      "url": "https://github.com/adalca/neurite/issues/67",
+      "createdAt": "2025-11-01T14:48:04.301Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
