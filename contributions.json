@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761992336034,
+      "repository": "pylast/pylast",
+      "issueTitle": "pylast.MalformedResponseError: Malformed response from Last.fm. Underlying error: syntax error: line 1, column 0 when Network.scrobble method is called",
+      "url": "https://github.com/pylast/pylast/issues/459",
+      "createdAt": "2025-11-01T10:18:56.034Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
