@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761977308839,
+      "repository": "wangruoyuyuyu/PySide6-GUI-For-Asset-Ripper",
+      "issueTitle": "1.1.0 Version Update",
+      "url": "https://github.com/wangruoyuyuyu/PySide6-GUI-For-Asset-Ripper/issues/1",
+      "createdAt": "2025-11-01T06:08:28.839Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
