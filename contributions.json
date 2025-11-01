@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762033289767,
+      "repository": "foundryvtt/dnd5e",
+      "issueTitle": "BUG/Missing Feature: Movement Automation - Halfling Nimbleness does not trigger on creatures that are larger than the character with the feat.",
+      "url": "https://github.com/foundryvtt/dnd5e/issues/6363",
+      "createdAt": "2025-11-01T21:41:29.767Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
