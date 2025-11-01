@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761985538542,
+      "repository": "bitcart/bitcart",
+      "issueTitle": "Remove session.merge usages/status updates overrides",
+      "url": "https://github.com/bitcart/bitcart/issues/497",
+      "createdAt": "2025-11-01T08:25:38.542Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
