@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762023291327,
+      "repository": "springfall2008/predbat_addon",
+      "issueTitle": "Upgrade to 8.25.1 has triggered an issue on Unit type in Home Assistant",
+      "url": "https://github.com/springfall2008/predbat_addon/issues/62",
+      "createdAt": "2025-11-01T18:54:51.327Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
