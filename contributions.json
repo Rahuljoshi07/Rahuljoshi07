@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761998690923,
+      "repository": "open-telemetry/opentelemetry.io",
+      "issueTitle": "Review and update logs docs",
+      "url": "https://github.com/open-telemetry/opentelemetry.io/issues/8305",
+      "createdAt": "2025-11-01T12:04:50.923Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
