@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761981923755,
+      "repository": "andrewRowlinson/mplsoccer",
+      "issueTitle": "ImportError: cannot import name 'KW_ONLY' from 'dataclasses'",
+      "url": "https://github.com/andrewRowlinson/mplsoccer/issues/116",
+      "createdAt": "2025-11-01T07:25:23.755Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
