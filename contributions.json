@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762014602297,
+      "repository": "plone/volto",
+      "issueTitle": "Wrong login credentials not showing errors on 401 error",
+      "url": "https://github.com/plone/volto/issues/7397",
+      "createdAt": "2025-11-01T16:30:02.297Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
