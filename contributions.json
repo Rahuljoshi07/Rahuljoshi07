@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761993344383,
+      "repository": "techouse/sqlite3-to-mysql",
+      "issueTitle": "Painfully slow",
+      "url": "https://github.com/techouse/sqlite3-to-mysql/issues/151",
+      "createdAt": "2025-11-01T10:35:44.384Z",
+      "type": "comment",
+      "content": "Consider caching with functools.lru_cache for expensive computations. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
