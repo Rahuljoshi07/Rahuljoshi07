@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761983983526,
+      "repository": "csu-hmc/opty",
+      "issueTitle": "Python 3.9 errors",
+      "url": "https://github.com/csu-hmc/opty/issues/517",
+      "createdAt": "2025-11-01T07:59:43.526Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
