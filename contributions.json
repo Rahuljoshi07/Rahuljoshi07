@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761989312707,
-      "repository": "2M4U/2m4u",
-      "issueTitle": "Possible fixes for update.js",
-      "url": "https://github.com/2M4U/2m4u/issues/6",
-      "createdAt": "2025-11-01T09:28:32.707Z",
+      "id": 1761989345813,
+      "repository": "wcm-io-frontend/aem-clientlib-generator",
+      "issueTitle": "clientlib is unable to update the files/resources from dist to ui.apps. Throwing new errors everytime. Note that it is working fine on Mac but on windows only throwing errors.",
+      "url": "https://github.com/wcm-io-frontend/aem-clientlib-generator/issues/47",
+      "createdAt": "2025-11-01T09:29:05.813Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
