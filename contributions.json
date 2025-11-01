@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761970832283,
+      "repository": "ddxv/adscrawler",
+      "issueTitle": "Refactor Crawler Errors",
+      "url": "https://github.com/ddxv/adscrawler/issues/46",
+      "createdAt": "2025-11-01T04:20:32.284Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
