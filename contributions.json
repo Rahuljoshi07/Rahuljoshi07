@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761988273339,
+      "repository": "hos1818/bandwidth-hero-vercel",
+      "issueTitle": "[Error] Request handling failed: Response code 415 ()",
+      "url": "https://github.com/hos1818/bandwidth-hero-vercel/issues/11",
+      "createdAt": "2025-11-01T09:11:13.340Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
