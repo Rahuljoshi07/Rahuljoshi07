@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762026151010,
-      "repository": "2M4U/2m4u",
-      "issueTitle": ".env.template is missing",
-      "url": "https://github.com/2M4U/2m4u/issues/9",
-      "createdAt": "2025-11-01T19:42:31.010Z",
+      "id": 1762026192132,
+      "repository": "rive-app/rive-wasm",
+      "issueTitle": "TypeError: Cannot read properties of null (reading 'deleteTexture') after updating Rive",
+      "url": "https://github.com/rive-app/rive-wasm/issues/408",
+      "createdAt": "2025-11-01T19:43:12.132Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
