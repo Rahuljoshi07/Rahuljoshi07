@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761991600291,
-      "repository": "asyncapi/community",
-      "issueTitle": "[Docs Bug 🐞 report]: File Not Found Error",
-      "url": "https://github.com/asyncapi/community/issues/2108",
-      "createdAt": "2025-11-01T10:06:40.291Z",
+      "id": 1761991631388,
+      "repository": "Ashteki/ashteki",
+      "issueTitle": "/endgame breaks if before FF",
+      "url": "https://github.com/Ashteki/ashteki/issues/1472",
+      "createdAt": "2025-11-01T10:07:11.388Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
