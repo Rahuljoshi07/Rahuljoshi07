@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762004506106,
+      "repository": "Fr1ngg/remnawave-bedolaga-telegram-bot",
+      "issueTitle": "[BUG] Параметр отображается в рублях",
+      "url": "https://github.com/Fr1ngg/remnawave-bedolaga-telegram-bot/issues/1658",
+      "createdAt": "2025-11-01T13:41:46.106Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
