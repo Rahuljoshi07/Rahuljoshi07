@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761958754593,
+      "repository": "wikitree/wikitree-dynamic-tree",
+      "issueTitle": "Some cemeteries aren't being shown on the Ancestor Cemeteries app.",
+      "url": "https://github.com/wikitree/wikitree-dynamic-tree/issues/279",
+      "createdAt": "2025-11-01T00:59:14.593Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
