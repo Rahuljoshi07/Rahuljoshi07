@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761962377455,
+      "repository": "pallets-eco/flask-sqlalchemy-lite",
+      "issueTitle": "Library seems incompatible with `asyncpg`",
+      "url": "https://github.com/pallets-eco/flask-sqlalchemy-lite/issues/25",
+      "createdAt": "2025-11-01T01:59:37.455Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
