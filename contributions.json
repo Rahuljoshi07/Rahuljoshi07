@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762029038712,
+      "repository": "anonymoushackerIV/Duolingo-PRO-BETA",
+      "issueTitle": "automatically filling bug",
+      "url": "https://github.com/anonymoushackerIV/Duolingo-PRO-BETA/issues/55",
+      "createdAt": "2025-11-01T20:30:38.712Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
