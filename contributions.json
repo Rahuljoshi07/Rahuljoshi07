@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762018894392,
+      "repository": "DialmasterOrg/Youtarr",
+      "issueTitle": "db issue",
+      "url": "https://github.com/DialmasterOrg/Youtarr/issues/263",
+      "createdAt": "2025-11-01T17:41:34.392Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
