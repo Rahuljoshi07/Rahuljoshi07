@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1761966235484,
+      "id": 1761966271574,
       "repository": "fastify/aws-lambda-fastify",
-      "issueTitle": "Use with NestJS ",
-      "url": "https://github.com/fastify/aws-lambda-fastify/issues/115",
-      "createdAt": "2025-11-01T03:03:55.484Z",
+      "issueTitle": "AWS Lambda plans to remove support for callback-based function handlers",
+      "url": "https://github.com/fastify/aws-lambda-fastify/issues/268",
+      "createdAt": "2025-11-01T03:04:31.574Z",
       "type": "comment",
-      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
     }
   ],
   "stats": {
