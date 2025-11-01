@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762016377020,
+      "repository": "kernelkit/infix",
+      "issueTitle": "`make test-sh` does not work with artifacts tagged with `-latest` suffix",
+      "url": "https://github.com/kernelkit/infix/issues/1192",
+      "createdAt": "2025-11-01T16:59:37.020Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
