@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762004589625,
-      "repository": "2M4U/2m4u",
-      "issueTitle": ".env.template is missing",
-      "url": "https://github.com/2M4U/2m4u/issues/9",
-      "createdAt": "2025-11-01T13:43:09.625Z",
+      "id": 1762004638549,
+      "repository": "karpetrosyan/hishel",
+      "issueTitle": "hishelCacheClient is slower for **large** files than httpx.Client.",
+      "url": "https://github.com/karpetrosyan/hishel/issues/382",
+      "createdAt": "2025-11-01T13:43:58.549Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "Consider caching with functools.lru_cache for expensive computations. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
