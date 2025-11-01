@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762025644868,
+      "repository": "indiesoftby/defold-playable-ads",
+      "issueTitle": "Replace `eval` with `script.text = contents`",
+      "url": "https://github.com/indiesoftby/defold-playable-ads/issues/22",
+      "createdAt": "2025-11-01T19:34:04.869Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
