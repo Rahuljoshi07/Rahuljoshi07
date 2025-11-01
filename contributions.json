@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761964727592,
+      "repository": "AzureAD/microsoft-authentication-library-for-python",
+      "issueTitle": "[Bug] ConfidentialClientApplication.acquire_token_on_behalf_of()` returns error that 'iss' field is missing when it is present in JWT",
+      "url": "https://github.com/AzureAD/microsoft-authentication-library-for-python/issues/852",
+      "createdAt": "2025-11-01T02:38:47.593Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
