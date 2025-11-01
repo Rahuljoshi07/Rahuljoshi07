@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761990274167,
+      "repository": "Stormbase/django-otp-webauthn",
+      "issueTitle": "Documentation: document ability to control the `next` parameter when authenticating",
+      "url": "https://github.com/Stormbase/django-otp-webauthn/issues/80",
+      "createdAt": "2025-11-01T09:44:34.167Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
