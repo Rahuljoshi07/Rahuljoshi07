@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762036364171,
+      "repository": "tniessen/node-pqclean",
+      "issueTitle": "Package fails to build on install using yarn berry on windows",
+      "url": "https://github.com/tniessen/node-pqclean/issues/2",
+      "createdAt": "2025-11-01T22:32:44.171Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
