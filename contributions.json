@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762021770396,
+      "repository": "edgi-govdata-archiving/web-monitoring-ui",
+      "issueTitle": "Pre-commit Hook misses Commits with Lint Errors",
+      "url": "https://github.com/edgi-govdata-archiving/web-monitoring-ui/issues/1121",
+      "createdAt": "2025-11-01T18:29:30.396Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
