@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1762009747656,
-      "repository": "django-cms/djangocms-style",
-      "issueTitle": "[BUG] Missing migrations for cmsplugin_ptr",
-      "url": "https://github.com/django-cms/djangocms-style/issues/62",
-      "createdAt": "2025-11-01T15:09:07.656Z",
-      "type": "comment",
-      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
