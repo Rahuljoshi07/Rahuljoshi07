@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761975616971,
+      "repository": "ModelCloud/GPTQModel",
+      "issueTitle": "[BUG] Vram on cuda:0 usage vs 4.2.5",
+      "url": "https://github.com/ModelCloud/GPTQModel/issues/1977",
+      "createdAt": "2025-11-01T05:40:16.971Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
