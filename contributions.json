@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761959921260,
+      "repository": "Venafi/ansible-collection-venafi",
+      "issueTitle": "Venafi test_mode doesn't work for certificates as fake connection doesn't implement read_zone_conf",
+      "url": "https://github.com/Venafi/ansible-collection-venafi/issues/69",
+      "createdAt": "2025-11-01T01:18:41.260Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
