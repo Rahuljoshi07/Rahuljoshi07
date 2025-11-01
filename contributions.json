@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761991152407,
+      "repository": "pillarjs/send",
+      "issueTitle": "Outdated dependencies detected in package",
+      "url": "https://github.com/pillarjs/send/issues/270",
+      "createdAt": "2025-11-01T09:59:12.407Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
