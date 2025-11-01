@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1761965629784,
+      "repository": "nextcloud/notifications",
+      "issueTitle": "Zero Notifications",
+      "url": "https://github.com/nextcloud/notifications/issues/2615",
+      "createdAt": "2025-11-01T02:53:49.784Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
