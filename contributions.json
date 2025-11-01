@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762005895962,
+      "repository": "adns44/ovh-eco-autoorder",
+      "issueTitle": "Error - day is out of range for month",
+      "url": "https://github.com/adns44/ovh-eco-autoorder/issues/1",
+      "createdAt": "2025-11-01T14:04:55.962Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
