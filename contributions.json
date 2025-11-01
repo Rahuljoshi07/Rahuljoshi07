@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762009704565,
-      "repository": "mgks/docmd",
-      "issueTitle": "Configuration file name change",
-      "url": "https://github.com/mgks/docmd/issues/9",
-      "createdAt": "2025-11-01T15:08:24.565Z",
+      "id": 1762009747656,
+      "repository": "django-cms/djangocms-style",
+      "issueTitle": "[BUG] Missing migrations for cmsplugin_ptr",
+      "url": "https://github.com/django-cms/djangocms-style/issues/62",
+      "createdAt": "2025-11-01T15:09:07.656Z",
       "type": "comment",
-      "content": "Using a bundler like Webpack or Vite could improve performance. This suggestion is particularly rele..."
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
     }
   ],
   "stats": {
