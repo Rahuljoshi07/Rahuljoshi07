@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762093548517,
+      "repository": "guqiong96/lktransformers",
+      "issueTitle": "[Bug] Server does not start, Misidentifies K2 as GLM",
+      "url": "https://github.com/guqiong96/lktransformers/issues/6",
+      "createdAt": "2025-11-02T14:25:48.517Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
