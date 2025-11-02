@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762098656857,
+      "repository": "marph91/jimmy",
+      "issueTitle": "This tiddlywiki tiddler raises errors when you try to convert it",
+      "url": "https://github.com/marph91/jimmy/issues/58",
+      "createdAt": "2025-11-02T15:50:56.857Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
