@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762127990861,
+      "repository": "bmoscon/orderbook",
+      "issueTitle": "support .items() on orderbook sides",
+      "url": "https://github.com/bmoscon/orderbook/issues/14",
+      "createdAt": "2025-11-02T23:59:50.861Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
