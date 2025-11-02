@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762115242953,
+      "repository": "perfanalytics/pose2sim",
+      "issueTitle": "Maybe a problem in qca calibration conversion",
+      "url": "https://github.com/perfanalytics/pose2sim/issues/200",
+      "createdAt": "2025-11-02T20:27:22.953Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
