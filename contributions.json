@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762062545511,
+      "repository": "wemake-services/django-modern-rest",
+      "issueTitle": "feat: add git-cliff for automated, conventional changelog generation",
+      "url": "https://github.com/wemake-services/django-modern-rest/issues/244",
+      "createdAt": "2025-11-02T05:49:05.511Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
