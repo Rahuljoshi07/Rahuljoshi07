@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762099679238,
+      "repository": "speechcatcher-asr/speechcatcher",
+      "issueTitle": "Any idea how to solve \"ValueError: too many values to unpack (expected 4)\"",
+      "url": "https://github.com/speechcatcher-asr/speechcatcher/issues/9",
+      "createdAt": "2025-11-02T16:07:59.238Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
