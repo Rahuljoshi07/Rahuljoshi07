@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762057188954,
+      "repository": "Tencent-Hunyuan/AutoCodeBenchmark",
+      "issueTitle": "[Bug] Evaluation results inconsistent with official report (Table 6: Pass@1 (%) performance of different base models for 3-shot AutoCodeBench-Complete.)",
+      "url": "https://github.com/Tencent-Hunyuan/AutoCodeBenchmark/issues/2",
+      "createdAt": "2025-11-02T04:19:48.954Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
