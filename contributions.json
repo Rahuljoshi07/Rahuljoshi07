@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762093641807,
+      "repository": "kriszyp/lmdb-js",
+      "issueTitle": "Upgrading LMDB",
+      "url": "https://github.com/kriszyp/lmdb-js/issues/344",
+      "createdAt": "2025-11-02T14:27:21.807Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
