@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762109622704,
+      "id": 1762109656877,
       "repository": "mue/mue",
       "issueTitle": "[Bug] customed search engine",
       "url": "https://github.com/mue/mue/issues/1120",
-      "createdAt": "2025-11-02T18:53:42.704Z",
+      "createdAt": "2025-11-02T18:54:16.877Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
