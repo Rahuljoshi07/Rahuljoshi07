@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762072724033,
+      "repository": "pypest/pyemu",
+      "issueTitle": "Suggest replacing .apply(int) with .astype(int) for performance",
+      "url": "https://github.com/pypest/pyemu/issues/586",
+      "createdAt": "2025-11-02T08:38:44.033Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
