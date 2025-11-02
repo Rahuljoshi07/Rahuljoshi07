@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762070339865,
+      "repository": "RedBearAK/Toshy",
+      "issueTitle": "[BUG] Odd behavior with external QMK keyboard - are per-keyboard settings possible?",
+      "url": "https://github.com/RedBearAK/Toshy/issues/723",
+      "createdAt": "2025-11-02T07:58:59.865Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
