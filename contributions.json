@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762046991108,
+      "repository": "sircharlo/jw-launcher",
+      "issueTitle": "[BUG] JW Stream Connection Fails When Entering Connectivity Number",
+      "url": "https://github.com/sircharlo/jw-launcher/issues/285",
+      "createdAt": "2025-11-02T01:29:51.108Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
