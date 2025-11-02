@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762046426905,
+      "repository": "PythonistaGuild/TwitchIO",
+      "issueTitle": "[Bug]: AssertionError in EventSub in _cleanup() / _listen() after WebSocket reconnect",
+      "url": "https://github.com/PythonistaGuild/TwitchIO/issues/522",
+      "createdAt": "2025-11-02T01:20:26.905Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
