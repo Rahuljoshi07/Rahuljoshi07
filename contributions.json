@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762113167323,
+      "repository": "mshang/syntree",
+      "issueTitle": "Errors in console / doens't update for a near-empty tree",
+      "url": "https://github.com/mshang/syntree/issues/27",
+      "createdAt": "2025-11-02T19:52:47.323Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
