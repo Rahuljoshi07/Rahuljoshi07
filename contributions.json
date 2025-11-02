@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762060492444,
+      "repository": "mahaveergurjar/AlgoVisualizer",
+      "issueTitle": "[Bug]: AlgoBot not working (API key not configured)",
+      "url": "https://github.com/mahaveergurjar/AlgoVisualizer/issues/271",
+      "createdAt": "2025-11-02T05:14:52.444Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
