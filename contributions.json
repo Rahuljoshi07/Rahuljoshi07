@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762126228552,
+      "id": 1762126266037,
       "repository": "mue/mue",
       "issueTitle": "[Bug] customed search engine",
       "url": "https://github.com/mue/mue/issues/1120",
-      "createdAt": "2025-11-02T23:30:28.552Z",
+      "createdAt": "2025-11-02T23:31:06.037Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
