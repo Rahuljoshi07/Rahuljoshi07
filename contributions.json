@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762113832907,
+      "repository": "alorence/django-modern-rpc",
+      "issueTitle": "RFC: rate limit support",
+      "url": "https://github.com/alorence/django-modern-rpc/issues/42",
+      "createdAt": "2025-11-02T20:03:52.907Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
