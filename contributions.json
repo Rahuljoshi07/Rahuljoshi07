@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762102376173,
+      "repository": "gruntjs/grunt-contrib-sass",
+      "issueTitle": "Syntax error running Grub with grunt-contrib-sass installed",
+      "url": "https://github.com/gruntjs/grunt-contrib-sass/issues/288",
+      "createdAt": "2025-11-02T16:52:56.173Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
