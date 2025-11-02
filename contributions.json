@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762090962415,
+      "repository": "MaskerPRC/tab-hive",
+      "issueTitle": "[Bug]: 修复选择器功能有时候无效问题",
+      "url": "https://github.com/MaskerPRC/tab-hive/issues/41",
+      "createdAt": "2025-11-02T13:42:42.415Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
