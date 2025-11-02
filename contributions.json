@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762073910610,
+      "repository": "eslint/css",
+      "issueTitle": "Bug: variable hoisting ignored in rule \"css/no-invalid-properties\"",
+      "url": "https://github.com/eslint/css/issues/199",
+      "createdAt": "2025-11-02T08:58:30.610Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
