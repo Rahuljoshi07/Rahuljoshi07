@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762125884728,
+      "repository": "pyg-team/pytorch-frame",
+      "issueTitle": "trompt 下载数据集链接疑似失效",
+      "url": "https://github.com/pyg-team/pytorch-frame/issues/515",
+      "createdAt": "2025-11-02T23:24:44.728Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
