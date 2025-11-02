@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762048075897,
+      "repository": "tecfu/tty-table",
+      "issueTitle": "Red cell background (in case of key error) is NOT ansi-cleaned in non-color tty",
+      "url": "https://github.com/tecfu/tty-table/issues/99",
+      "createdAt": "2025-11-02T01:47:55.898Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
