@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762053287397,
+      "repository": "Godofcong-1/erArk",
+      "issueTitle": "[BUG]意外报错（10.28-1）",
+      "url": "https://github.com/Godofcong-1/erArk/issues/177",
+      "createdAt": "2025-11-02T03:14:47.397Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
