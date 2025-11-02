@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762082504839,
+      "repository": "remix-bot/stoat",
+      "issueTitle": "Voice V2 (Livekit) Update",
+      "url": "https://github.com/remix-bot/stoat/issues/152",
+      "createdAt": "2025-11-02T11:21:44.839Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
