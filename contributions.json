@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762049840460,
+      "repository": "tecfu/tty-table",
+      "issueTitle": "RangeError: Invalid array length",
+      "url": "https://github.com/tecfu/tty-table/issues/97",
+      "createdAt": "2025-11-02T02:17:20.460Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
