@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762115414296,
+      "repository": "perfanalytics/pose2sim",
+      "issueTitle": "ValueError: Length mismatch in read_trc when parsing header",
+      "url": "https://github.com/perfanalytics/pose2sim/issues/202",
+      "createdAt": "2025-11-02T20:30:14.296Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
