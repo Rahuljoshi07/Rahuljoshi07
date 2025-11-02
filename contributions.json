@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762092094918,
+      "repository": "vertyco/vrt-cogs",
+      "issueTitle": "[Metrics] postgresql database, if connection refused - causing debug logs / testing doesn't complete.",
+      "url": "https://github.com/vertyco/vrt-cogs/issues/247",
+      "createdAt": "2025-11-02T14:01:34.918Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
