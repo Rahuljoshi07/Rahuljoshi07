@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762093907719,
+      "repository": "rvmey/TRIGGERcmd-Agent",
+      "issueTitle": "404 error on manjaro",
+      "url": "https://github.com/rvmey/TRIGGERcmd-Agent/issues/5",
+      "createdAt": "2025-11-02T14:31:47.720Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
