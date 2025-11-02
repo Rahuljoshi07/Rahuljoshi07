@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762092568129,
+      "repository": "OpenEnergyPlatform/oeplatform",
+      "issueTitle": "Database: Table preview page raises errors related to json data",
+      "url": "https://github.com/OpenEnergyPlatform/oeplatform/issues/2041",
+      "createdAt": "2025-11-02T14:09:28.129Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
