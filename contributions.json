@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762097551394,
+      "repository": "ENIACJushi/TouHouLittleMaidBE",
+      "issueTitle": "您好，我这里1.21.111的车万女仆模组，女仆被魂符或文文相机回收后就放不出来了，无论是站着点地上还是潜行点地上都没用。是bug吗？（注：实验性玩法已全部打开，版本匹配）",
+      "url": "https://github.com/ENIACJushi/TouHouLittleMaidBE/issues/14",
+      "createdAt": "2025-11-02T15:32:31.394Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
