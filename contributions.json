@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762121951523,
+      "repository": "lazarv/react-server",
+      "issueTitle": "missing accept head return 404 error",
+      "url": "https://github.com/lazarv/react-server/issues/277",
+      "createdAt": "2025-11-02T22:19:11.523Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
