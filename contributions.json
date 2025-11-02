@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762101893537,
+      "repository": "WilliamNT/tunesynctool",
+      "issueTitle": "Adding a cooldown at 140 requests for spotify to avoid rate limit for transfer CLI option",
+      "url": "https://github.com/WilliamNT/tunesynctool/issues/17",
+      "createdAt": "2025-11-02T16:44:53.537Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
