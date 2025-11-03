@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762158798281,
+      "repository": "router-for-me/Cli-Proxy-API-Management-Center",
+      "issueTitle": "JS error: Formatting",
+      "url": "https://github.com/router-for-me/Cli-Proxy-API-Management-Center/issues/12",
+      "createdAt": "2025-11-03T08:33:18.281Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
