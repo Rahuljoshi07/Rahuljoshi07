@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762147183179,
+      "repository": "harsima/vue-backend",
+      "issueTitle": "node.js用的什么版本",
+      "url": "https://github.com/harsima/vue-backend/issues/48",
+      "createdAt": "2025-11-03T05:19:43.179Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
