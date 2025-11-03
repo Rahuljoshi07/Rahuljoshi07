@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762134838280,
+      "repository": "acroucher/PyTOUGH",
+      "issueTitle": "Creating Bottom Boundary Using Extra Blocks",
+      "url": "https://github.com/acroucher/PyTOUGH/issues/60",
+      "createdAt": "2025-11-03T01:53:58.280Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
