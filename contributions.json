@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762168126503,
+      "repository": "CycloneDX/cyclonedx-node-npm",
+      "issueTitle": "feat: set devDependencies `component.scope` to `excluded`",
+      "url": "https://github.com/CycloneDX/cyclonedx-node-npm/issues/1151",
+      "createdAt": "2025-11-03T11:08:46.503Z",
+      "type": "comment",
+      "content": "Adding TypeScript could prevent type-related bugs and improve maintainability. This suggestion is pa..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
