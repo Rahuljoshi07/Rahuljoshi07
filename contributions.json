@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762159202747,
+      "repository": "audeering/audb",
+      "issueTitle": "Error loading a cached database stored with newer pandas version",
+      "url": "https://github.com/audeering/audb/issues/520",
+      "createdAt": "2025-11-03T08:40:02.748Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
