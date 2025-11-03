@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762140593086,
+      "repository": "MoegirlPediaInterfaceAdmins/MoegirlPediaInterfaceCodes",
+      "issueTitle": "错误的事件监听可选参数位置",
+      "url": "https://github.com/MoegirlPediaInterfaceAdmins/MoegirlPediaInterfaceCodes/issues/745",
+      "createdAt": "2025-11-03T03:29:53.086Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
