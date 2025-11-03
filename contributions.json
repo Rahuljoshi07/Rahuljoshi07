@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762152387321,
+      "repository": "XPU-Forces/xpu_graph",
+      "issueTitle": "升级torch_npu 2.7.1后，特定组合情况下，会导致单测大面积失败",
+      "url": "https://github.com/XPU-Forces/xpu_graph/issues/396",
+      "createdAt": "2025-11-03T06:46:27.321Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
