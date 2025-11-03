@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762171176543,
+      "repository": "vipshop/cache-dit",
+      "issueTitle": "support Tensor Parallelism for hunyuanimage2.1 and hunyuanvideo",
+      "url": "https://github.com/vipshop/cache-dit/issues/374",
+      "createdAt": "2025-11-03T11:59:36.543Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
