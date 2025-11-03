@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762139405326,
+      "repository": "ronkok/Temml",
+      "issueTitle": "Bug Report: `lspace` and `rspace` ignored when using inline expressions in Edge and Chrome",
+      "url": "https://github.com/ronkok/Temml/issues/109",
+      "createdAt": "2025-11-03T03:10:05.326Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
