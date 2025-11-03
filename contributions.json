@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762156383013,
+      "repository": "adamlui/chatgpt-widescreen",
+      "issueTitle": "New Get Plus X button not hidden in ChatGPT Spam Block mode",
+      "url": "https://github.com/adamlui/chatgpt-widescreen/issues/248",
+      "createdAt": "2025-11-03T07:53:03.013Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
