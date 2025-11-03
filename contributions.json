@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762163164793,
+      "repository": "tronbyt/server",
+      "issueTitle": "One of the setup commands has been going for days...",
+      "url": "https://github.com/tronbyt/server/issues/427",
+      "createdAt": "2025-11-03T09:46:04.793Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
