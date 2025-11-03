@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762130501689,
+      "repository": "github/stale-repos",
+      "issueTitle": "Dependabot still applying semver labels when it should not",
+      "url": "https://github.com/github/stale-repos/issues/401",
+      "createdAt": "2025-11-03T00:41:41.690Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
