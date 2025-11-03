@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762129817663,
+      "repository": "guqiong96/Lvllm",
+      "issueTitle": "[Installation]: layer.py:2317] lk_moe forward failed with error: 130, falling back to default path",
+      "url": "https://github.com/guqiong96/Lvllm/issues/3",
+      "createdAt": "2025-11-03T00:30:17.663Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
