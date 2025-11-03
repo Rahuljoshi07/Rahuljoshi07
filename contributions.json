@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762130986133,
+      "repository": "Boostport/setup-cloudflare-warp",
+      "issueTitle": "[BUG] Please authenticate via the warp client",
+      "url": "https://github.com/Boostport/setup-cloudflare-warp/issues/109",
+      "createdAt": "2025-11-03T00:49:46.134Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
