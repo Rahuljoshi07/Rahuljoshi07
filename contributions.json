@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762132852654,
+      "repository": "tronbyt/server",
+      "issueTitle": "One of the setup commands has been going for days...",
+      "url": "https://github.com/tronbyt/server/issues/427",
+      "createdAt": "2025-11-03T01:20:52.654Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
