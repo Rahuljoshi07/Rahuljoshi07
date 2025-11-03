@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762167980480,
+      "repository": "pinpoint-apm/pinpoint-node-agent",
+      "issueTitle": "The ModuleHook checkes which needs Agent or TraceContext",
+      "url": "https://github.com/pinpoint-apm/pinpoint-node-agent/issues/357",
+      "createdAt": "2025-11-03T11:06:20.480Z",
+      "type": "comment",
+      "content": "Using a bundler like Webpack or Vite could improve performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
