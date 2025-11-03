@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762154548068,
+      "repository": "dkogan/mrcal",
+      "issueTitle": "Issues with lens with big radial distortion parameter",
+      "url": "https://github.com/dkogan/mrcal/issues/35",
+      "createdAt": "2025-11-03T07:22:28.068Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
