@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762171616199,
+      "repository": "tcort/markdown-link-check",
+      "issueTitle": "markdown-link-check reports 403 for Stack Overflow URL that gives 302 with curl",
+      "url": "https://github.com/tcort/markdown-link-check/issues/485",
+      "createdAt": "2025-11-03T12:06:56.200Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
