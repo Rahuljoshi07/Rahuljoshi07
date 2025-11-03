@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762179917304,
+      "repository": "linear-b/gitstream",
+      "issueTitle": "Add a yaml schema file for the gitstream.cm file validation and error free IDE editing",
+      "url": "https://github.com/linear-b/gitstream/issues/767",
+      "createdAt": "2025-11-03T14:25:17.304Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
