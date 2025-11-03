@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762154119152,
+      "repository": "ModelTC/LightX2V",
+      "issueTitle": "[Bug]  Wan2.1 distill models:  self.in_dim = config[\"in_dim\"]  KeyError: 'in_dim'",
+      "url": "https://github.com/ModelTC/LightX2V/issues/424",
+      "createdAt": "2025-11-03T07:15:19.152Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
