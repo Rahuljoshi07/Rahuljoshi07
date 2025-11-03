@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762144910662,
+      "repository": "column-tax/tax-calc-bench",
+      "issueTitle": "Include an \"efficiency\" metric (cost per performance)",
+      "url": "https://github.com/column-tax/tax-calc-bench/issues/47",
+      "createdAt": "2025-11-03T04:41:50.662Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
