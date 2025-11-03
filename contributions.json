@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762160506184,
+      "repository": "decentraland/unity-explorer",
+      "issueTitle": "System.Exception: DCL.PluginSystem.World.AssetBundlesPlugin's thrown an exception on disposal.",
+      "url": "https://github.com/decentraland/unity-explorer/issues/6060",
+      "createdAt": "2025-11-03T09:01:46.184Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
