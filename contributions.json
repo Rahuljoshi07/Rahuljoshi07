@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762169134759,
+      "repository": "mozilla-frontend-infra/codetribute",
+      "issueTitle": "Add an option to view every bug.",
+      "url": "https://github.com/mozilla-frontend-infra/codetribute/issues/308",
+      "createdAt": "2025-11-03T11:25:34.759Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
