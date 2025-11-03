@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762141166600,
+      "repository": "Dev-GOM/claude-code-marketplace",
+      "issueTitle": "[Bug] hook-sound-notifications 플러그인이 macOS에서 동작하지 않음",
+      "url": "https://github.com/Dev-GOM/claude-code-marketplace/issues/63",
+      "createdAt": "2025-11-03T03:39:26.600Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
