@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762176413582,
+      "repository": "ioBroker/ioBroker.iot",
+      "issueTitle": "Datenunkte unter \"iot.0.smart\" werden nicht mehr geschrieben",
+      "url": "https://github.com/ioBroker/ioBroker.iot/issues/1047",
+      "createdAt": "2025-11-03T13:26:53.582Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
