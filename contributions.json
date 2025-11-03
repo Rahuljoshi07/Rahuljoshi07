@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762170469522,
+      "repository": "saqimtiaz/tw5-plugins-sandbox",
+      "issueTitle": "BUG: $:/plugins/sq/links-context-menu cannot work and throw errors",
+      "url": "https://github.com/saqimtiaz/tw5-plugins-sandbox/issues/6",
+      "createdAt": "2025-11-03T11:47:49.522Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
