@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1762142529237,
-      "repository": "bhousel/node-diff3",
-      "issueTitle": "Crashes when comparing buffers with a word “__proto__”",
-      "url": "https://github.com/bhousel/node-diff3/issues/83",
-      "createdAt": "2025-11-03T04:02:09.237Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
