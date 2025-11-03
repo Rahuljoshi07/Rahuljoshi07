@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762165941622,
+      "repository": "mozilla/bugbug",
+      "issueTitle": "[retrieve_ci_failures] Generate diffs in parallel",
+      "url": "https://github.com/mozilla/bugbug/issues/5400",
+      "createdAt": "2025-11-03T10:32:21.622Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
