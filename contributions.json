@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762180694397,
+      "repository": "willmiao/ComfyUI-Lora-Manager",
+      "issueTitle": "[Bug] (Windows Environment) Auto-Sort recognizes Capitalization when windows doesn't. Causing issues.",
+      "url": "https://github.com/willmiao/ComfyUI-Lora-Manager/issues/637",
+      "createdAt": "2025-11-03T14:38:14.397Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
