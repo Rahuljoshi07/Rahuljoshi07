@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762131393633,
+      "repository": "LeaPhant/flowabot",
+      "issueTitle": "stacking broken on a map",
+      "url": "https://github.com/LeaPhant/flowabot/issues/77",
+      "createdAt": "2025-11-03T00:56:33.633Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
