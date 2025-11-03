@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762140448261,
+      "repository": "catalyst-cooperative/pudl",
+      "issueTitle": "`out_ferc714__hourly_estimated_state_demand` high memory usage [12.8GB]",
+      "url": "https://github.com/catalyst-cooperative/pudl/issues/4683",
+      "createdAt": "2025-11-03T03:27:28.261Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
