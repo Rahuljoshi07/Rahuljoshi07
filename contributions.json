@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762166049775,
+      "repository": "jean-luc1203/jkbms-rs485-addon",
+      "issueTitle": "Home assistant error log",
+      "url": "https://github.com/jean-luc1203/jkbms-rs485-addon/issues/34",
+      "createdAt": "2025-11-03T10:34:09.775Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
