@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762157362101,
+      "repository": "tenstorrent/tt-exalens",
+      "issueTitle": "Debug bus signal names on Wormhole",
+      "url": "https://github.com/tenstorrent/tt-exalens/issues/671",
+      "createdAt": "2025-11-03T08:09:22.101Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
