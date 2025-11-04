@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1762218316177,
+      "id": 1762218344927,
       "repository": "octokit/graphql-action",
-      "issueTitle": "[BUG]: Minimal example fails with error",
-      "url": "https://github.com/octokit/graphql-action/issues/219",
-      "createdAt": "2025-11-04T01:05:16.177Z",
+      "issueTitle": "[BUG]: Different result from a graphql postman request than from a github action/ github explorer graphql",
+      "url": "https://github.com/octokit/graphql-action/issues/276",
+      "createdAt": "2025-11-04T01:05:44.927Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
