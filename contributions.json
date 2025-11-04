@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762226236933,
+      "repository": "pyladies/pyladiescon-portal",
+      "issueTitle": "Separate the \"Individual Donations\" stats",
+      "url": "https://github.com/pyladies/pyladiescon-portal/issues/247",
+      "createdAt": "2025-11-04T03:17:16.933Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
