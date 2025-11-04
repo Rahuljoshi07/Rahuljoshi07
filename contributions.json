@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762219298759,
+      "repository": "Websoft9/docker-library",
+      "issueTitle": "[postgresql] Can't support both versions of 18+ and versions below 18 at the same time.",
+      "url": "https://github.com/Websoft9/docker-library/issues/1935",
+      "createdAt": "2025-11-04T01:21:38.759Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
