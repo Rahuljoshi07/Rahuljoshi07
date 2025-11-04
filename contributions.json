@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762242647301,
+      "repository": "TiLT42/RogueTraderGeneratorTools",
+      "issueTitle": "Electron version - regenerating starship graveyards, issues exporting to rich text document",
+      "url": "https://github.com/TiLT42/RogueTraderGeneratorTools/issues/21",
+      "createdAt": "2025-11-04T07:50:47.301Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
