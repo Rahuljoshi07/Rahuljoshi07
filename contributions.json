@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762234526368,
+      "repository": "mongodb-developer/mern-stack-example",
+      "issueTitle": "Missing MongoDB Connection Import in server.js",
+      "url": "https://github.com/mongodb-developer/mern-stack-example/issues/35",
+      "createdAt": "2025-11-04T05:35:26.368Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
