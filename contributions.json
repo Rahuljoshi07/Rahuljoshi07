@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762218316177,
+      "repository": "octokit/graphql-action",
+      "issueTitle": "[BUG]: Minimal example fails with error",
+      "url": "https://github.com/octokit/graphql-action/issues/219",
+      "createdAt": "2025-11-04T01:05:16.177Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
