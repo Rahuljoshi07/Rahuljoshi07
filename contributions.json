@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762221811002,
+      "repository": "cellwebb/gac",
+      "issueTitle": "UnicodeDecodeError on Windows Chinese locale (non-blocking)",
+      "url": "https://github.com/cellwebb/gac/issues/53",
+      "createdAt": "2025-11-04T02:03:31.002Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
