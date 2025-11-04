@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762219982306,
+      "repository": "steve02081504/fount",
+      "issueTitle": "Cannot access 'default' before initialization",
+      "url": "https://github.com/steve02081504/fount/issues/33",
+      "createdAt": "2025-11-04T01:33:02.306Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
