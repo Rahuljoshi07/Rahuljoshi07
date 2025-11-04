@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762241220406,
+      "repository": "EOX-A/EOxElements",
+      "issueTitle": "Drawtools expect full feature, not possible for vectortiles",
+      "url": "https://github.com/EOX-A/EOxElements/issues/1886",
+      "createdAt": "2025-11-04T07:27:00.406Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
