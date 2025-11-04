@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762243265264,
+      "repository": "nephila/giturlparse",
+      "issueTitle": "pre-commit configuration throws error",
+      "url": "https://github.com/nephila/giturlparse/issues/112",
+      "createdAt": "2025-11-04T08:01:05.264Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
