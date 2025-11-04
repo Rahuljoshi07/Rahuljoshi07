@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762225590786,
+      "repository": "djangopackages/djangopackages",
+      "issueTitle": ":whale: Add django-health-check",
+      "url": "https://github.com/djangopackages/djangopackages/issues/1438",
+      "createdAt": "2025-11-04T03:06:30.786Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
