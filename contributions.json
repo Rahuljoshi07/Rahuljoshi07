@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762358803694,
+      "repository": "adobe/helix-cli",
+      "issueTitle": "server: add `hlx:proxyUrl` meta tag also in case of 401 and 403 status",
+      "url": "https://github.com/adobe/helix-cli/issues/2414",
+      "createdAt": "2025-11-05T16:06:43.694Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
