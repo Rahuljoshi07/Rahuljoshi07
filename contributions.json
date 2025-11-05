@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762340153475,
+      "repository": "explosion/weasel",
+      "issueTitle": "BUG: Weasel DVC command error \"run\"",
+      "url": "https://github.com/explosion/weasel/issues/82",
+      "createdAt": "2025-11-05T10:55:53.475Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
