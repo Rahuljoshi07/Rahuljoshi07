@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762307309786,
+      "repository": "dvt3d/dc-sdk",
+      "issueTitle": "标绘、测量绘制时设置clampToModel为true时会出现异常绘制结果",
+      "url": "https://github.com/dvt3d/dc-sdk/issues/178",
+      "createdAt": "2025-11-05T01:48:29.786Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
