@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762359530029,
+      "repository": "y-shi23/MeowNocode",
+      "issueTitle": "在云端数据打开的情况下，memos 数据库只导入两条。",
+      "url": "https://github.com/y-shi23/MeowNocode/issues/3",
+      "createdAt": "2025-11-05T16:18:50.029Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
