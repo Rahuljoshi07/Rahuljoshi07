@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762349292731,
+      "repository": "ycheng517/lerobot-ros",
+      "issueTitle": "Installation is failing at teleoperate.py script",
+      "url": "https://github.com/ycheng517/lerobot-ros/issues/1",
+      "createdAt": "2025-11-05T13:28:12.731Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
