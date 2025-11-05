@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762321861352,
+      "repository": "wemake-services/django-modern-rest",
+      "issueTitle": "Consider using better suited data structure for HTTP headers",
+      "url": "https://github.com/wemake-services/django-modern-rest/issues/256",
+      "createdAt": "2025-11-05T05:51:01.352Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
