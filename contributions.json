@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762379769519,
+      "repository": "NCAR/wrf-python",
+      "issueTitle": "how can i install wrf-python through pip and solve these bugs?",
+      "url": "https://github.com/NCAR/wrf-python/issues/279",
+      "createdAt": "2025-11-05T21:56:09.519Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
