@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762378239274,
+      "repository": "Zendure/Zendure-HA",
+      "issueTitle": "[Bug] Each time we reload the integration the Available Kwh increases",
+      "url": "https://github.com/Zendure/Zendure-HA/issues/877",
+      "createdAt": "2025-11-05T21:30:39.274Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
