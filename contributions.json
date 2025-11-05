@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762329179381,
+      "repository": "EnMAP-Box/enmap-box",
+      "issueTitle": "[Processing] AttributeError: 'NoneType' object has no attribute 'mapTool'",
+      "url": "https://github.com/EnMAP-Box/enmap-box/issues/1300",
+      "createdAt": "2025-11-05T07:52:59.381Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
