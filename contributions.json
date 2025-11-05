@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762318872803,
+      "repository": "Werkstattl/quick-dungeon-crawler-rpg-od",
+      "issueTitle": "[ POTENTIAL BUG] The game asks for blessings from first line",
+      "url": "https://github.com/Werkstattl/quick-dungeon-crawler-rpg-od/issues/2",
+      "createdAt": "2025-11-05T05:01:12.803Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
