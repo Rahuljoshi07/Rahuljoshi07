@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762332290960,
+      "repository": "euratom-software/calcam",
+      "issueTitle": "RayData.get_ray_start, direction, ray_length, etc performance",
+      "url": "https://github.com/euratom-software/calcam/issues/152",
+      "createdAt": "2025-11-05T08:44:50.960Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
