@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762304107971,
+      "repository": "ietf-wg-jose/json-web-proof",
+      "issueTitle": "Built a JWP Debugger — Looking for Feedback!",
+      "url": "https://github.com/ietf-wg-jose/json-web-proof/issues/163",
+      "createdAt": "2025-11-05T00:55:07.971Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
