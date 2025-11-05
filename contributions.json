@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762334628759,
+      "repository": "Tencent/digitalhuman",
+      "issueTitle": "RLVMR test set performance is higher than the training set",
+      "url": "https://github.com/Tencent/digitalhuman/issues/21",
+      "createdAt": "2025-11-05T09:23:48.759Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
