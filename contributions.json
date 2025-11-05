@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762366254592,
+      "repository": "llamastack/llama-stack-client-python",
+      "issueTitle": "ModuleNotFoundError: No module named 'llama_stack_client.types.post_training_supervised_fine_tune_params'",
+      "url": "https://github.com/llamastack/llama-stack-client-python/issues/288",
+      "createdAt": "2025-11-05T18:10:54.592Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
