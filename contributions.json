@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762356444843,
+      "repository": "apache/cordova-lib",
+      "issueTitle": "platform-specific after_prepare hooks don't run after restoring",
+      "url": "https://github.com/apache/cordova-lib/issues/940",
+      "createdAt": "2025-11-05T15:27:24.843Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
