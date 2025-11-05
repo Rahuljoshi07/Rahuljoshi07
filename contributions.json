@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762322696365,
+      "repository": "mlcclab/PyRAI2MD-hiam",
+      "issueTitle": "Error running run_test.sh script: FileNotFoundError for NN-egn.log",
+      "url": "https://github.com/mlcclab/PyRAI2MD-hiam/issues/2",
+      "createdAt": "2025-11-05T06:04:56.365Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
