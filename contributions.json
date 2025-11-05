@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762336751542,
+      "repository": "cyberjunky/home-assistant-garmin_connect",
+      "issueTitle": "Failed setup, will retry: Error in request: 404 Client Error: Not Found for url: ...gear/stats/xxxx4",
+      "url": "https://github.com/cyberjunky/home-assistant-garmin_connect/issues/316",
+      "createdAt": "2025-11-05T09:59:11.542Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
