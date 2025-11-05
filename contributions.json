@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762334508362,
+      "repository": "TheKing-OfTime/YandexMusicModClient",
+      "issueTitle": "Чистая установка",
+      "url": "https://github.com/TheKing-OfTime/YandexMusicModClient/issues/172",
+      "createdAt": "2025-11-05T09:21:48.362Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
