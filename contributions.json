@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762314538219,
+      "repository": "loveyyp1314/SimPage",
+      "issueTitle": "BUG：系统为深色模式下手动切换页面为浅色模式后部分区域未正确更新主题",
+      "url": "https://github.com/loveyyp1314/SimPage/issues/53",
+      "createdAt": "2025-11-05T03:48:58.219Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
