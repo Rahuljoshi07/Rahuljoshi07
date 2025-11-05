@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762359691647,
+      "repository": "mozilla/remote-settings",
+      "issueTitle": "Telescope: mainly checks failing when collection is deleted",
+      "url": "https://github.com/mozilla/remote-settings/issues/1038",
+      "createdAt": "2025-11-05T16:21:31.647Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
