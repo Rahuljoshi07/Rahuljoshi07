@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762364790553,
+      "repository": "asyncapi/markdown-template",
+      "issueTitle": "[BUG] <description> Not compatible with the latest Async/generator's latest version",
+      "url": "https://github.com/asyncapi/markdown-template/issues/626",
+      "createdAt": "2025-11-05T17:46:30.553Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
