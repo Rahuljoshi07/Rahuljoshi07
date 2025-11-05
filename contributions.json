@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762338819841,
+      "repository": "danielpodlesny/samestr",
+      "issueTitle": "Error with pinned conflicts",
+      "url": "https://github.com/danielpodlesny/samestr/issues/22",
+      "createdAt": "2025-11-05T10:33:39.841Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
