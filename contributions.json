@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762361055994,
+      "repository": "LinusU/cwasm-lodepng",
+      "issueTitle": "Failed to decode png Image [Error Code 58] [WebAssembly] [NodeJS]",
+      "url": "https://github.com/LinusU/cwasm-lodepng/issues/1",
+      "createdAt": "2025-11-05T16:44:15.994Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
