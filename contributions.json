@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762355568173,
+      "id": 1762355602130,
       "repository": "HarperFast/harper",
       "issueTitle": "jsResource.ts does not return a promise for the completion of loading modules",
       "url": "https://github.com/HarperFast/harper/issues/29",
-      "createdAt": "2025-11-05T15:12:48.173Z",
+      "createdAt": "2025-11-05T15:13:22.130Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
