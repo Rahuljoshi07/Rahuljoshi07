@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762378812426,
+      "repository": "unifiedjs/unifiedjs.github.io",
+      "issueTitle": "there is a bug in highly optimized images for the size of 200",
+      "url": "https://github.com/unifiedjs/unifiedjs.github.io/issues/47",
+      "createdAt": "2025-11-05T21:40:12.426Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
