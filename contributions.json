@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762370388153,
+      "repository": "RobotWebTools/roslibjs",
+      "issueTitle": "Consider migrating all event-handling classes to Web Workers from EventEmitter",
+      "url": "https://github.com/RobotWebTools/roslibjs/issues/982",
+      "createdAt": "2025-11-05T19:19:48.153Z",
+      "type": "comment",
+      "content": "Adding TypeScript could improve code quality and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
