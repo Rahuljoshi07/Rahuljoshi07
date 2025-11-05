@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762373344361,
+      "repository": "elastic/elastic-otel-node",
+      "issueTitle": "dump configuration on startup",
+      "url": "https://github.com/elastic/elastic-otel-node/issues/1018",
+      "createdAt": "2025-11-05T20:09:04.361Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
