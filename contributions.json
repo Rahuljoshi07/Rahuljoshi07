@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762375604384,
+      "repository": "SalesforceLabs/OrgCheck",
+      "issueTitle": "Add big range for profile rule > 16,777,216",
+      "url": "https://github.com/SalesforceLabs/OrgCheck/issues/591",
+      "createdAt": "2025-11-05T20:46:44.384Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
