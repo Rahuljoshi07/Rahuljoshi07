@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762305520783,
+      "repository": "PaRr0tBoY/Awesome-Vivaldi",
+      "issueTitle": "Bug: [Quetify.css errors]",
+      "url": "https://github.com/PaRr0tBoY/Awesome-Vivaldi/issues/32",
+      "createdAt": "2025-11-05T01:18:40.783Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
