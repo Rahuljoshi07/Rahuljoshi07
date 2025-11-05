@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762369947715,
+      "repository": "hydroshare/hydroshare",
+      "issueTitle": "Adding Sort and Order Parameters into the `/resource/` path on the HydroShare REST API",
+      "url": "https://github.com/hydroshare/hydroshare/issues/6112",
+      "createdAt": "2025-11-05T19:12:27.715Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
