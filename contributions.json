@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762379292232,
+      "repository": "Plushtoast/dsa5-foundryVTT",
+      "issueTitle": "Master Workshop -> NSC Zucht lädt nicht",
+      "url": "https://github.com/Plushtoast/dsa5-foundryVTT/issues/2140",
+      "createdAt": "2025-11-05T21:48:12.232Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
