@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762348276712,
+      "repository": "fedora-copr/logdetective",
+      "issueTitle": "Reviews do not accumulate votes",
+      "url": "https://github.com/fedora-copr/logdetective/issues/209",
+      "createdAt": "2025-11-05T13:11:16.712Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
