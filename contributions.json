@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762360368189,
+      "repository": "geosolutions-it/MapStore2",
+      "issueTitle": "Build failure due to 3D tiles",
+      "url": "https://github.com/geosolutions-it/MapStore2/issues/11542",
+      "createdAt": "2025-11-05T16:32:48.189Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
