@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762426802870,
+      "repository": "openfun/joanie",
+      "issueTitle": "BO - Contract selection not persisting in product edit view (display issue only)",
+      "url": "https://github.com/openfun/joanie/issues/1236",
+      "createdAt": "2025-11-06T11:00:02.870Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
