@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762430909210,
+      "repository": "inpageedit/inpageedit-v2",
+      "issueTitle": "[BUG] IPE错误添加快速编辑",
+      "url": "https://github.com/inpageedit/inpageedit-v2/issues/259",
+      "createdAt": "2025-11-06T12:08:29.210Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
