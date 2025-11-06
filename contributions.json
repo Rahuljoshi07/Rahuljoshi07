@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762421357329,
+      "repository": "digitalocean/openapi",
+      "issueTitle": "\"end in a dot (.)\" requirement for CNAME record data is breaking DNS-validated ACME for cert issuers that use CNAME instead of TXT records.",
+      "url": "https://github.com/digitalocean/openapi/issues/884",
+      "createdAt": "2025-11-06T09:29:17.329Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
