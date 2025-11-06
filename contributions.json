@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762427743853,
+      "repository": "element-hq/ess-helm",
+      "issueTitle": "Element call does not work in test cluster (\"Waiting for media...\")",
+      "url": "https://github.com/element-hq/ess-helm/issues/681",
+      "createdAt": "2025-11-06T11:15:43.853Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
