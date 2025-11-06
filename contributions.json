@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762395801886,
+      "repository": "noir-lang/tiny-noirjs-app",
+      "issueTitle": "Proving in the browser doesn't work",
+      "url": "https://github.com/noir-lang/tiny-noirjs-app/issues/19",
+      "createdAt": "2025-11-06T02:23:21.886Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
