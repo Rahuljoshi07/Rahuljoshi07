@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762440286990,
+      "repository": "RealRaven2000/QuickFolders",
+      "issueTitle": "Many errors in the console, mostly related to `loadDictionary` ",
+      "url": "https://github.com/RealRaven2000/QuickFolders/issues/621",
+      "createdAt": "2025-11-06T14:44:46.990Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
