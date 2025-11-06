@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762468998841,
+      "id": 1762469062610,
       "repository": "LeaPhant/flowabot",
       "issueTitle": "stacking broken on a map",
       "url": "https://github.com/LeaPhant/flowabot/issues/77",
-      "createdAt": "2025-11-06T22:43:18.841Z",
+      "createdAt": "2025-11-06T22:44:22.610Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
