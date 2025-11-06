@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762463688166,
-      "repository": "2M4U/2m4u",
-      "issueTitle": ".env.template is missing",
-      "url": "https://github.com/2M4U/2m4u/issues/9",
-      "createdAt": "2025-11-06T21:14:48.166Z",
+      "id": 1762463721683,
+      "repository": "zereight/gitlab-mcp",
+      "issueTitle": "[Bug] Draft notes have incorrect validation",
+      "url": "https://github.com/zereight/gitlab-mcp/issues/266",
+      "createdAt": "2025-11-06T21:15:21.683Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
