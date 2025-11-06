@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762404156299,
+      "repository": "QuoteVote/quotevote-monorepo",
+      "issueTitle": "Password creation email redirects to error page instead of password setup",
+      "url": "https://github.com/QuoteVote/quotevote-monorepo/issues/239",
+      "createdAt": "2025-11-06T04:42:36.299Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
