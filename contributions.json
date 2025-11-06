@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762470617738,
+      "repository": "AzulGarza/timecopilot",
+      "issueTitle": "bug: Flowstate cannot forecast when the condition is h=1",
+      "url": "https://github.com/AzulGarza/timecopilot/issues/242",
+      "createdAt": "2025-11-06T23:10:17.738Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
