@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762453026237,
+      "repository": "opensearch-project/opensearch-js",
+      "issueTitle": "[BUG] Document ID containing _stats causes 403 on GET",
+      "url": "https://github.com/opensearch-project/opensearch-js/issues/1063",
+      "createdAt": "2025-11-06T18:17:06.238Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
