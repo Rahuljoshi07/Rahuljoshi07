@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762459395205,
+      "repository": "materialsproject/api",
+      "issueTitle": "[Bug]: pip install leads to pydantic error",
+      "url": "https://github.com/materialsproject/api/issues/1028",
+      "createdAt": "2025-11-06T20:03:15.205Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
