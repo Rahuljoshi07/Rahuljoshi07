@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762406813823,
+      "repository": "itsreimau/gaxtawu",
+      "issueTitle": "Issues config",
+      "url": "https://github.com/itsreimau/gaxtawu/issues/65",
+      "createdAt": "2025-11-06T05:26:53.823Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
