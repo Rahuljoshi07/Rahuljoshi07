@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762414488098,
+      "repository": "kiwigrid/k8s-sidecar",
+      "issueTitle": "Bug: Cpython and OpenSSL seem to have a bug causing certificate validation errors",
+      "url": "https://github.com/kiwigrid/k8s-sidecar/issues/400",
+      "createdAt": "2025-11-06T07:34:48.098Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
