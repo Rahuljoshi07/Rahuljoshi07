@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762417343024,
+      "repository": "code4romania/redirectioneaza",
+      "issueTitle": "[Development] Docker is not properly starting the app in dev mode",
+      "url": "https://github.com/code4romania/redirectioneaza/issues/433",
+      "createdAt": "2025-11-06T08:22:23.025Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
