@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762461278102,
+      "repository": "pinellolab/CRISPR_Pipeline",
+      "issueTitle": "some issues found so far",
+      "url": "https://github.com/pinellolab/CRISPR_Pipeline/issues/1",
+      "createdAt": "2025-11-06T20:34:38.103Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
