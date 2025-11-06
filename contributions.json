@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762443750567,
+      "repository": "cenobites/flask-jsonrpc",
+      "issueTitle": "Feature request: make flask_jsonrpc.exceptions.JSONRPCError* traceback.format_exception_only()-friendly",
+      "url": "https://github.com/cenobites/flask-jsonrpc/issues/663",
+      "createdAt": "2025-11-06T15:42:30.568Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
