@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762473250281,
+      "repository": "samvera-labs/ramp",
+      "issueTitle": "Handle VideoJS errors with unsupported src URLs gracefully",
+      "url": "https://github.com/samvera-labs/ramp/issues/878",
+      "createdAt": "2025-11-06T23:54:10.281Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
