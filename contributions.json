@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762447393242,
+      "repository": "linuxmint/cinnamon-spices-desklets",
+      "issueTitle": "[nvidia-gpu-monitor@hierakonpolis] Desklet causes noticeable system stutter",
+      "url": "https://github.com/linuxmint/cinnamon-spices-desklets/issues/1624",
+      "createdAt": "2025-11-06T16:43:13.242Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
