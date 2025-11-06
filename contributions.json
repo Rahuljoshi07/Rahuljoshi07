@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762416185942,
+      "repository": "betagouv/recommandations-collaboratives",
+      "issueTitle": "Dockerfile non mise à jour",
+      "url": "https://github.com/betagouv/recommandations-collaboratives/issues/1683",
+      "createdAt": "2025-11-06T08:03:05.942Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
