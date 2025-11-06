@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762400992838,
+      "repository": "josephdadams/TallyArbiter",
+      "issueTitle": "[Bug] Error: connect ECONNREFUSED ::1:8900",
+      "url": "https://github.com/josephdadams/TallyArbiter/issues/866",
+      "createdAt": "2025-11-06T03:49:52.838Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
