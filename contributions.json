@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762427022406,
+      "repository": "nornir-automation/nornir_napalm",
+      "issueTitle": "Connections to IOS XR via Netconf driver fail due to ssh_config_file argument",
+      "url": "https://github.com/nornir-automation/nornir_napalm/issues/63",
+      "createdAt": "2025-11-06T11:03:42.406Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
