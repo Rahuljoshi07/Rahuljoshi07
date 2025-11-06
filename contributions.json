@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762420441833,
+      "repository": "aliyun/darabonba-go-generator",
+      "issueTitle": "变量名与import名称冲突，import无效等问题",
+      "url": "https://github.com/aliyun/darabonba-go-generator/issues/115",
+      "createdAt": "2025-11-06T09:14:01.833Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
