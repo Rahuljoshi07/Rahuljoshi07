@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762414609066,
+      "repository": "CUQI-DTU/CUQIpy",
+      "issueTitle": "Samples of HybridGibbs are not saved correctly",
+      "url": "https://github.com/CUQI-DTU/CUQIpy/issues/708",
+      "createdAt": "2025-11-06T07:36:49.066Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
