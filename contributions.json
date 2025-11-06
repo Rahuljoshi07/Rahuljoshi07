@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762452418832,
+      "repository": "single-cell-data/TileDB-SOMA",
+      "issueTitle": "[Bug] Misleading `DoesNotExistError`s in `open` calls",
+      "url": "https://github.com/single-cell-data/TileDB-SOMA/issues/3388",
+      "createdAt": "2025-11-06T18:06:58.832Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
