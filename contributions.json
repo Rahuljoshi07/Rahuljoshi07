@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762447206377,
+      "repository": "mzivic7/endcord",
+      "issueTitle": "Crash when logging (ImportError: dynamic module does not define module export function (PyInit_search))",
+      "url": "https://github.com/mzivic7/endcord/issues/49",
+      "createdAt": "2025-11-06T16:40:06.377Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
