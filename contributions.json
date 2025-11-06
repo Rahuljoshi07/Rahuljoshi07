@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762396909158,
+      "repository": "Qiskit/qiskit-addon-utils",
+      "issueTitle": "Collect and collapse functions should support DAGDependency inputs",
+      "url": "https://github.com/Qiskit/qiskit-addon-utils/issues/39",
+      "createdAt": "2025-11-06T02:41:49.158Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
