@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762413128660,
+      "repository": "eslint/rewrite",
+      "issueTitle": "Change Request: Patch removed `SourceCode` methods for ESLint v10 compatibility",
+      "url": "https://github.com/eslint/rewrite/issues/279",
+      "createdAt": "2025-11-06T07:12:08.660Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
