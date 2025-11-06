@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762418045546,
+      "repository": "asyncapi/community",
+      "issueTitle": "[Docs Bug 🐞 report]: File Not Found Error",
+      "url": "https://github.com/asyncapi/community/issues/2108",
+      "createdAt": "2025-11-06T08:34:05.547Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
