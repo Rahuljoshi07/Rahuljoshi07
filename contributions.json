@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762457956585,
+      "repository": "jmtyszka/bidskit",
+      "issueTitle": "Files are overwritten on the second pass",
+      "url": "https://github.com/jmtyszka/bidskit/issues/128",
+      "createdAt": "2025-11-06T19:39:16.585Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
