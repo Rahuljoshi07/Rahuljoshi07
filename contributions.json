@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762452774686,
+      "repository": "tursodatabase/libsql-js",
+      "issueTitle": "Empty result when query with `kysely` + `libsql` at version 0.6.0-pre.9",
+      "url": "https://github.com/tursodatabase/libsql-js/issues/195",
+      "createdAt": "2025-11-06T18:12:54.686Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
