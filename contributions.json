@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762406624303,
+      "repository": "ccrraaiigg/caffeine",
+      "issueTitle": "switch to ES6 modules",
+      "url": "https://github.com/ccrraaiigg/caffeine/issues/61",
+      "createdAt": "2025-11-06T05:23:44.303Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
