@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762471186907,
+      "repository": "pytorch/helion",
+      "issueTitle": "ValueError('numel (2097152) exceeds triton maximum tensor numel (1048576)') when running default config",
+      "url": "https://github.com/pytorch/helion/issues/1064",
+      "createdAt": "2025-11-06T23:19:46.907Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
