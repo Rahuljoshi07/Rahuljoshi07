@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762402394042,
+      "repository": "langgenius/dify-official-plugins",
+      "issueTitle": "langgenius / feishu_base plugin bug",
+      "url": "https://github.com/langgenius/dify-official-plugins/issues/1895",
+      "createdAt": "2025-11-06T04:13:14.042Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
