@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762449186264,
+      "repository": "artefactual-labs/AIPscan",
+      "issueTitle": "When a storage service is deleted, it still shows as existing on the response page",
+      "url": "https://github.com/artefactual-labs/AIPscan/issues/379",
+      "createdAt": "2025-11-06T17:13:06.264Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
