@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762392695273,
+      "repository": "QuietNoise/comfyui_queue_manager",
+      "issueTitle": "Updated to version 0.0.9, when trying to display Queue manager got connection error",
+      "url": "https://github.com/QuietNoise/comfyui_queue_manager/issues/14",
+      "createdAt": "2025-11-06T01:31:35.273Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
