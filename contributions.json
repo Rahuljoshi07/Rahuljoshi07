@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762460743516,
+      "repository": "weecology/MillionTrees",
+      "issueTitle": "error if ground truth is present, but prediction is empty. in .eval() for a dataset.",
+      "url": "https://github.com/weecology/MillionTrees/issues/55",
+      "createdAt": "2025-11-06T20:25:43.516Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
