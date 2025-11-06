@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762395200581,
+      "repository": "BuenDia-Builders/codigofutura",
+      "issueTitle": "Error al descargar extensión de Freighter para Venezuela",
+      "url": "https://github.com/BuenDia-Builders/codigofutura/issues/1",
+      "createdAt": "2025-11-06T02:13:20.581Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
