@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762412591538,
+      "repository": "justincasher/lean-explore",
+      "issueTitle": "issue with fastmcp version",
+      "url": "https://github.com/justincasher/lean-explore/issues/8",
+      "createdAt": "2025-11-06T07:03:11.538Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
