@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762452073380,
+      "repository": "Illumina/PrimateAI-3D",
+      "issueTitle": "Render error on /gene/TNNT2?dataset=gnomad_r3",
+      "url": "https://github.com/Illumina/PrimateAI-3D/issues/4",
+      "createdAt": "2025-11-06T18:01:13.380Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
