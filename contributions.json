@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762419876521,
+      "repository": "labs4capella/python4capella",
+      "issueTitle": "Erreur Py4J: An error occurred while trying to connect to the Java server (127.0.0.1:25333)",
+      "url": "https://github.com/labs4capella/python4capella/issues/253",
+      "createdAt": "2025-11-06T09:04:36.521Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
