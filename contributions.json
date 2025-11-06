@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762445074640,
+      "repository": "katelyynn/bleh",
+      "issueTitle": "lfm pro edit sort unsets itself after an edit is deleted",
+      "url": "https://github.com/katelyynn/bleh/issues/330",
+      "createdAt": "2025-11-06T16:04:34.641Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
