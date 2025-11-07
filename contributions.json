@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762516310192,
+      "repository": "tier4/tier4_automotive_hdr_camera",
+      "issueTitle": "Makefile error",
+      "url": "https://github.com/tier4/tier4_automotive_hdr_camera/issues/36",
+      "createdAt": "2025-11-07T11:51:50.192Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
