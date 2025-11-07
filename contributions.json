@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762508212560,
+      "repository": "the-hideout/tarkov-dev",
+      "issueTitle": "Bad image quality of maps after zooming in",
+      "url": "https://github.com/the-hideout/tarkov-dev/issues/275",
+      "createdAt": "2025-11-07T09:36:52.560Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
