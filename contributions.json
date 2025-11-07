@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762546420824,
+      "repository": "itzzzme/zenime",
+      "issueTitle": "Error 404 after deployed on vercel",
+      "url": "https://github.com/itzzzme/zenime/issues/64",
+      "createdAt": "2025-11-07T20:13:40.824Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
