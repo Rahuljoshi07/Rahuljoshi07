@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762536599475,
+      "repository": "clearlydefined/curated-data",
+      "issueTitle": "Tried to update a GitHub Source Location through the GUI and got an error",
+      "url": "https://github.com/clearlydefined/curated-data/issues/29918",
+      "createdAt": "2025-11-07T17:29:59.475Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
