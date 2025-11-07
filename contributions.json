@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762488564320,
+      "repository": "pH200/sharp-layer",
+      "issueTitle": "AWS is ending support for Node.js 18 in Lambda on September 1",
+      "url": "https://github.com/pH200/sharp-layer/issues/7",
+      "createdAt": "2025-11-07T04:09:24.320Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
