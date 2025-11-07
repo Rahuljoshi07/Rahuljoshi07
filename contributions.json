@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762536728314,
+      "repository": "matrix-org/matrix.org",
+      "issueTitle": "Refactor GB pages to use a single source of data",
+      "url": "https://github.com/matrix-org/matrix.org/issues/2998",
+      "createdAt": "2025-11-07T17:32:08.314Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
