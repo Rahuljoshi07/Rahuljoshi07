@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762497421100,
+      "repository": "zjunlp/LightMem",
+      "issueTitle": "IndexError: index -1 is out of bounds for axis 0 with size 0",
+      "url": "https://github.com/zjunlp/LightMem/issues/12",
+      "createdAt": "2025-11-07T06:37:01.100Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
