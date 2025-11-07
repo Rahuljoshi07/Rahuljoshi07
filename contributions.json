@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762531605321,
+      "repository": "linuxmint/cinnamon-spices-applets",
+      "issueTitle": "weather@mockturl - Bug Report: Line Break and Color Issues in Humidity Display",
+      "url": "https://github.com/linuxmint/cinnamon-spices-applets/issues/7893",
+      "createdAt": "2025-11-07T16:06:45.321Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
