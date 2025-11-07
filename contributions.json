@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762517504463,
+      "repository": "fluxcd/community",
+      "issueTitle": "Bug Scrub every other wednesday morning - calendar issue",
+      "url": "https://github.com/fluxcd/community/issues/449",
+      "createdAt": "2025-11-07T12:11:44.463Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
