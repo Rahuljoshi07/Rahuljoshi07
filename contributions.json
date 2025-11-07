@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762547150027,
+      "repository": "awslabs/aws-crt-python",
+      "issueTitle": "AWS_IO_TLS_ERROR_NEGOTIATION_FAILURE on Win2012 (non-R2) Datacenter",
+      "url": "https://github.com/awslabs/aws-crt-python/issues/693",
+      "createdAt": "2025-11-07T20:25:50.028Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
