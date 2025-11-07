@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762531038449,
+      "repository": "PostHog/posthog-python",
+      "issueTitle": "Error handling when posthog is unable to get remote + cached feature flag",
+      "url": "https://github.com/PostHog/posthog-python/issues/351",
+      "createdAt": "2025-11-07T15:57:18.449Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
