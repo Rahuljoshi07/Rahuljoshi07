@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762546725441,
+      "repository": "physicshub/physicshub.github.io",
+      "issueTitle": "[Bug]: Almost every simulation right now isn't physically realistic [more people can work for this issues]",
+      "url": "https://github.com/physicshub/physicshub.github.io/issues/40",
+      "createdAt": "2025-11-07T20:18:45.441Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
