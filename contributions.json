@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762505943911,
+      "id": 1762505975207,
       "repository": "fastify/otel",
-      "issueTitle": "Docs improvements",
-      "url": "https://github.com/fastify/otel/issues/31",
-      "createdAt": "2025-11-07T08:59:03.911Z",
+      "issueTitle": "False positives in Datadog Error Tracking for 4xx errors",
+      "url": "https://github.com/fastify/otel/issues/91",
+      "createdAt": "2025-11-07T08:59:35.207Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
