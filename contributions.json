@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762505780018,
+      "repository": "openzim/zimfarm",
+      "issueTitle": "CMS - enhance reliability of CMS notifications",
+      "url": "https://github.com/openzim/zimfarm/issues/1436",
+      "createdAt": "2025-11-07T08:56:20.018Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. This suggestion is particularly relevant..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
