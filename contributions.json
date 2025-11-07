@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762512624048,
+      "repository": "tprouvot/Salesforce-Inspector-reloaded",
+      "issueTitle": "[bug]: Field usage not appearing",
+      "url": "https://github.com/tprouvot/Salesforce-Inspector-reloaded/issues/975",
+      "createdAt": "2025-11-07T10:50:24.048Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
