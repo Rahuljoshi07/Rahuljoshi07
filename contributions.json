@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762519362101,
+      "repository": "webpack/schema-utils",
+      "issueTitle": "improve error reporting in some cases",
+      "url": "https://github.com/webpack/schema-utils/issues/42",
+      "createdAt": "2025-11-07T12:42:42.101Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
