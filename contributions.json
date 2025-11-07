@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762479547694,
+      "repository": "liujuntao123/smart-excalidraw-next",
+      "issueTitle": "error",
+      "url": "https://github.com/liujuntao123/smart-excalidraw-next/issues/9",
+      "createdAt": "2025-11-07T01:39:07.694Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
