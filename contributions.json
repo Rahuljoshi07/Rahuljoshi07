@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762537158483,
+      "repository": "dfinity/vscode-motoko",
+      "issueTitle": "Performance issues with larger repos",
+      "url": "https://github.com/dfinity/vscode-motoko/issues/388",
+      "createdAt": "2025-11-07T17:39:18.483Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
