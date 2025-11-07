@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762523526453,
-      "repository": "collective/volto-form-block",
-      "issueTitle": "Cannot format message \"form_send_message_helptext \"",
-      "url": "https://github.com/collective/volto-form-block/issues/131",
-      "createdAt": "2025-11-07T13:52:06.453Z",
+      "id": 1762523586480,
+      "repository": "cap-js/attachments",
+      "issueTitle": "[Version: 3.1.0] 500 Error When Deleting Non-Existent Entity Annotated with @attachments",
+      "url": "https://github.com/cap-js/attachments/issues/286",
+      "createdAt": "2025-11-07T13:53:06.480Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
