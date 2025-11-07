@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762537994989,
+      "repository": "Esri/solutions-components",
+      "issueTitle": "Codemod bug: review migration of Stencil's componentDidUpdate lifecycle",
+      "url": "https://github.com/Esri/solutions-components/issues/1740",
+      "createdAt": "2025-11-07T17:53:14.989Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
