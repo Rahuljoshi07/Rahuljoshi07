@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762521075141,
+      "repository": "zivid/zivid-python-samples",
+      "issueTitle": "Calibration issues (Still getting an offset)",
+      "url": "https://github.com/zivid/zivid-python-samples/issues/190",
+      "createdAt": "2025-11-07T13:11:15.141Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
