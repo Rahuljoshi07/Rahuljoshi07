@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762501156091,
+      "repository": "kalisio/kano",
+      "issueTitle": "Reordering categories using drag and drop does not work on Kano Dev.",
+      "url": "https://github.com/kalisio/kano/issues/465",
+      "createdAt": "2025-11-07T07:39:16.091Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
