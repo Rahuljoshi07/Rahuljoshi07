@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762543911273,
+      "repository": "larsiusprime/openavmkit",
+      "issueTitle": "The indices for endog and exog are not aligned",
+      "url": "https://github.com/larsiusprime/openavmkit/issues/192",
+      "createdAt": "2025-11-07T19:31:51.273Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
