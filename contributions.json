@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762490927790,
+      "repository": "OpenMined/syft-flwr",
+      "issueTitle": "Fix bug",
+      "url": "https://github.com/OpenMined/syft-flwr/issues/86",
+      "createdAt": "2025-11-07T04:48:47.790Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
