@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762503377542,
+      "repository": "tronbyt/server",
+      "issueTitle": "allow an app to be set to display full animation without dwell_secs restriction.",
+      "url": "https://github.com/tronbyt/server/issues/429",
+      "createdAt": "2025-11-07T08:16:17.543Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
