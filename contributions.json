@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762505039225,
+      "repository": "zopefoundation/Zope",
+      "issueTitle": "PageTemplates/chameleon: (tal) start tags with missing end tags are silently ignored",
+      "url": "https://github.com/zopefoundation/Zope/issues/877",
+      "createdAt": "2025-11-07T08:43:59.225Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
