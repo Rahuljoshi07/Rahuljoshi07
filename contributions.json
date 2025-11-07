@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762532992801,
+      "repository": "geldata/gel-editor-plugin",
+      "issueTitle": "Windows: [error] this action cannot be run on win32",
+      "url": "https://github.com/geldata/gel-editor-plugin/issues/43",
+      "createdAt": "2025-11-07T16:29:52.801Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
