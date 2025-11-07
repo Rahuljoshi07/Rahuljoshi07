@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762518099217,
+      "repository": "deepset-ai/haystack-core-integrations",
+      "issueTitle": "Remove hardcoded (chat) generator type checks from Langfuse tracer",
+      "url": "https://github.com/deepset-ai/haystack-core-integrations/issues/2050",
+      "createdAt": "2025-11-07T12:21:39.217Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
