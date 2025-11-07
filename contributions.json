@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762513091239,
+      "repository": "bpmn-io/properties-panel",
+      "issueTitle": "JSDocs got lost during transpilation",
+      "url": "https://github.com/bpmn-io/properties-panel/issues/103",
+      "createdAt": "2025-11-07T10:58:11.239Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
