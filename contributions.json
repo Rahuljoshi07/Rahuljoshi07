@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762527029309,
+      "repository": "foundryvtt/crucible",
+      "issueTitle": "Exiting character creation without following character creation workflow can result in thrown errors for talent selection",
+      "url": "https://github.com/foundryvtt/crucible/issues/374",
+      "createdAt": "2025-11-07T14:50:29.309Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
