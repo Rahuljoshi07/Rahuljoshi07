@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762550626263,
+      "repository": "opencost/opencost-ui",
+      "issueTitle": "bug: Exchange rate not working",
+      "url": "https://github.com/opencost/opencost-ui/issues/5",
+      "createdAt": "2025-11-07T21:23:46.263Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
