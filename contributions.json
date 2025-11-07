@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762543641913,
+      "repository": "tc39/proposal-await-dictionary",
+      "issueTitle": "What should we do if a value promise rejects?  (Error messaging)",
+      "url": "https://github.com/tc39/proposal-await-dictionary/issues/5",
+      "createdAt": "2025-11-07T19:27:21.914Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
