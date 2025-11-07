@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762525823329,
+      "repository": "OpenCTI-Platform/connectors",
+      "issueTitle": "[sekoia] pdf file truncation",
+      "url": "https://github.com/OpenCTI-Platform/connectors/issues/5148",
+      "createdAt": "2025-11-07T14:30:23.329Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
