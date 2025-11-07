@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762488681248,
+      "repository": "OfficeDev/office-js",
+      "issueTitle": "Error sideloading. Error: m365.InternalError: Request failed with status code 429 (tracingId: )",
+      "url": "https://github.com/OfficeDev/office-js/issues/6269",
+      "createdAt": "2025-11-07T04:11:21.248Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
