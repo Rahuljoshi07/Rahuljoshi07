@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762507133014,
+      "repository": "vipshop/cache-dit",
+      "issueTitle": "support Kandinsky5 Tensor Parallelism",
+      "url": "https://github.com/vipshop/cache-dit/issues/395",
+      "createdAt": "2025-11-07T09:18:53.015Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
