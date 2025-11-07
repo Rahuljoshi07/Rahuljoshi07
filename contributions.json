@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762538697438,
+      "repository": "NVIDIA-NeMo/Megatron-Bridge",
+      "issueTitle": "ImportError: Undefined symbol in transformer_engine when using Nemotron-VL 25.09 image with Python 3.12",
+      "url": "https://github.com/NVIDIA-NeMo/Megatron-Bridge/issues/1226",
+      "createdAt": "2025-11-07T18:04:57.438Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
