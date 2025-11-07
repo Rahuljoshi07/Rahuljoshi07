@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762503734894,
+      "repository": "vaadin/web-components",
+      "issueTitle": "Upload component: Limit number of connections opened to server, upload in batches",
+      "url": "https://github.com/vaadin/web-components/issues/6698",
+      "createdAt": "2025-11-07T08:22:14.894Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
