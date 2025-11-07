@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762477795084,
-      "repository": "CycloneDX/cdxgen",
-      "issueTitle": "Getting error \"log.silly is not a function\" While generating dependency tree and got conflicts in peer dependency in scan process",
-      "url": "https://github.com/CycloneDX/cdxgen/issues/2683",
-      "createdAt": "2025-11-07T01:09:55.084Z",
+      "id": 1762477827767,
+      "repository": "nexios-labs/nexios",
+      "issueTitle": "jinja2.exceptions.UndefinedError: 'request' is undefined",
+      "url": "https://github.com/nexios-labs/nexios/issues/184",
+      "createdAt": "2025-11-07T01:10:27.767Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
