@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762546578927,
+      "repository": "scylladb/scylla-cluster-tests",
+      "issueTitle": "AWS error: The following supplied instance types do not exist: [i8ge.xlarge]",
+      "url": "https://github.com/scylladb/scylla-cluster-tests/issues/12419",
+      "createdAt": "2025-11-07T20:16:18.927Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
