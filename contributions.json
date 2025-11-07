@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762528760318,
+      "repository": "AIGNE-io/aigne-doc-smith",
+      "issueTitle": "[Bug]: 感觉文档中的文字描述不如之前的",
+      "url": "https://github.com/AIGNE-io/aigne-doc-smith/issues/248",
+      "createdAt": "2025-11-07T15:19:20.318Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
