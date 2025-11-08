@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762566578435,
+      "repository": "benbrastmckie/ModelChecker",
+      "issueTitle": "ModuleNotFoundError when running model-checker with example on macOS",
+      "url": "https://github.com/benbrastmckie/ModelChecker/issues/73",
+      "createdAt": "2025-11-08T01:49:38.435Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
