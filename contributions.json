@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762563148125,
+      "repository": "Quenary/tugtainer",
+      "issueTitle": "[Bug] Crash while updating a container",
+      "url": "https://github.com/Quenary/tugtainer/issues/41",
+      "createdAt": "2025-11-08T00:52:28.125Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
