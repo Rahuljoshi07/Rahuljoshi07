@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762563047639,
+      "repository": "nextcloud/collectives",
+      "issueTitle": "2 different \"three-dot-menus\" of landing page",
+      "url": "https://github.com/nextcloud/collectives/issues/2057",
+      "createdAt": "2025-11-08T00:50:47.640Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
