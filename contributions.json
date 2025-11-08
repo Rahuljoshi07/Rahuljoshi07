@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762628790134,
+      "repository": "gurumitts/pylutron-caseta",
+      "issueTitle": "\"Was not expecting message with tag...\" Error",
+      "url": "https://github.com/gurumitts/pylutron-caseta/issues/172",
+      "createdAt": "2025-11-08T19:06:30.134Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
