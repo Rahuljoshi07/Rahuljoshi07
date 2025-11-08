@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762587280715,
+      "repository": "kouts/vue-modal",
+      "issueTitle": "Is there any way to display scrollbars if the modal content runs off the screen",
+      "url": "https://github.com/kouts/vue-modal/issues/92",
+      "createdAt": "2025-11-08T07:34:40.715Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
