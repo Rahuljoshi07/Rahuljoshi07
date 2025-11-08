@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762588800357,
+      "repository": "openaps/AndroidAPSdocs",
+      "issueTitle": "Crowdin doesn't parse orphan: true front-matter",
+      "url": "https://github.com/openaps/AndroidAPSdocs/issues/2449",
+      "createdAt": "2025-11-08T08:00:00.357Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
