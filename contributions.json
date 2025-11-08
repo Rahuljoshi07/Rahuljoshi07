@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762639028672,
+      "repository": "babsonnexus/stream-link-manager-for-channels",
+      "issueTitle": "ISSUE: [SLM] Bookmarking \"Future Release\" Videos can cause a crash",
+      "url": "https://github.com/babsonnexus/stream-link-manager-for-channels/issues/87",
+      "createdAt": "2025-11-08T21:57:08.672Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
