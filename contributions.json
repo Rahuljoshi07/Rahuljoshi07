@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762566272304,
+      "repository": "vllm-project/tpu-inference",
+      "issueTitle": "[Bug]: Can't save profiling data to GCS Bucket - `VLLM_TORCH_PROFILER_DIR` coerced with `os.path()` in base vllm library",
+      "url": "https://github.com/vllm-project/tpu-inference/issues/1034",
+      "createdAt": "2025-11-08T01:44:32.304Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
