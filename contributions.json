@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762636266540,
+      "repository": "nodejs-loaders/nodejs-loaders",
+      "issueTitle": "feat(`tsx`): validate that work with other thing than react",
+      "url": "https://github.com/nodejs-loaders/nodejs-loaders/issues/98",
+      "createdAt": "2025-11-08T21:11:06.540Z",
+      "type": "comment",
+      "content": "Consider implementing proper error boundaries for better error handling. This suggestion is particul..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
