@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762621094227,
+      "repository": "stagehacks/Cue-View",
+      "issueTitle": "Enabling sACN viewer causes sACN to output improperly to pathscape gateways.",
+      "url": "https://github.com/stagehacks/Cue-View/issues/278",
+      "createdAt": "2025-11-08T16:58:14.227Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
