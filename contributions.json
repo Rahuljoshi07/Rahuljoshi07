@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762597145949,
+      "repository": "MITgcm/xmitgcm",
+      "issueTitle": "FileNotFoundError when downloading LLC4320 grid file (link works in browser)",
+      "url": "https://github.com/MITgcm/xmitgcm/issues/356",
+      "createdAt": "2025-11-08T10:19:05.949Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
