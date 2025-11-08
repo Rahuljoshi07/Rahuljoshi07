@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762580587004,
+      "repository": "FlexBE/flexbe_behavior_engine",
+      "issueTitle": "ActionClientProxy can't query goal status",
+      "url": "https://github.com/FlexBE/flexbe_behavior_engine/issues/3",
+      "createdAt": "2025-11-08T05:43:07.004Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
