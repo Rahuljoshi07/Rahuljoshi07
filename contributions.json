@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762560671803,
+      "repository": "oweitman/ioBroker.rssfeed",
+      "issueTitle": "Please consider fixing issues detected by repository checker",
+      "url": "https://github.com/oweitman/ioBroker.rssfeed/issues/192",
+      "createdAt": "2025-11-08T00:11:11.803Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
