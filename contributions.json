@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762630452422,
+      "repository": "Sanket9225/UsenetStreamer",
+      "issueTitle": "Playback error on apple tv using external players",
+      "url": "https://github.com/Sanket9225/UsenetStreamer/issues/6",
+      "createdAt": "2025-11-08T19:34:12.422Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
