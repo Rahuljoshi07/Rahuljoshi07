@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762612671607,
+      "repository": "packing-box/docker-packing-box",
+      "issueTitle": "Error while testing packer ELF-Cryptor",
+      "url": "https://github.com/packing-box/docker-packing-box/issues/178",
+      "createdAt": "2025-11-08T14:37:51.607Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
