@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762588682389,
+      "repository": "braydenidzenga/ZettaNote",
+      "issueTitle": "[BUG] losing page data when frontend calls the api to save.",
+      "url": "https://github.com/braydenidzenga/ZettaNote/issues/239",
+      "createdAt": "2025-11-08T07:58:02.389Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
