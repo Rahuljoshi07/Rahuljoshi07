@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762634541967,
+      "repository": "SilvaTechB/silva-md-bot",
+      "issueTitle": "LIMIT EXCEED ERROR MAINTENANCE 🫠",
+      "url": "https://github.com/SilvaTechB/silva-md-bot/issues/35",
+      "createdAt": "2025-11-08T20:42:21.967Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
