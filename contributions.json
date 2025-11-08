@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762595756364,
+      "repository": "openzim/zimfarm",
+      "issueTitle": "CMS - enhance reliability of CMS notifications",
+      "url": "https://github.com/openzim/zimfarm/issues/1436",
+      "createdAt": "2025-11-08T09:55:56.364Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
