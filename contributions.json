@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762609784848,
+      "repository": "ZapprTV/channels",
+      "issueTitle": "29 - LA7 Cinema: Errore formato/server (200 )",
+      "url": "https://github.com/ZapprTV/channels/issues/33",
+      "createdAt": "2025-11-08T13:49:44.848Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
