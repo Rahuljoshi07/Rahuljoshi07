@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1762606423956,
-      "repository": "frappe/print_designer",
-      "issueTitle": "AttributeError: 'ClientConnection' object has no attribute 'closed'",
-      "url": "https://github.com/frappe/print_designer/issues/455",
-      "createdAt": "2025-11-08T12:53:43.957Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
