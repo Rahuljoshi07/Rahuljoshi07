@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762602944748,
+      "repository": "mint-choc-chip-skyblade/sshd-rando",
+      "issueTitle": "[Bug]: Early boss rush",
+      "url": "https://github.com/mint-choc-chip-skyblade/sshd-rando/issues/554",
+      "createdAt": "2025-11-08T11:55:44.749Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
