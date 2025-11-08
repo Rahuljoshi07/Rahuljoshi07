@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762562576175,
+      "repository": "facebookresearch/spdl",
+      "issueTitle": "Flaky Tests",
+      "url": "https://github.com/facebookresearch/spdl/issues/956",
+      "createdAt": "2025-11-08T00:42:56.175Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
