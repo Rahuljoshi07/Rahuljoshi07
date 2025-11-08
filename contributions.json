@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762641294653,
+      "repository": "madduccino/coding.space",
+      "issueTitle": "Bug: Tutorial page's sidebar breaks at widths at and below 786px",
+      "url": "https://github.com/madduccino/coding.space/issues/205",
+      "createdAt": "2025-11-08T22:34:54.653Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
