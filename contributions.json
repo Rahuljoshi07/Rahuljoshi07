@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762579059707,
+      "repository": "saketkc/pysradb",
+      "issueTitle": "[ENH] geo_download_links error handling",
+      "url": "https://github.com/saketkc/pysradb/issues/216",
+      "createdAt": "2025-11-08T05:17:39.707Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
