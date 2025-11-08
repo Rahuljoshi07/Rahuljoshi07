@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762646288144,
+      "repository": "mrimsu/mrim-server",
+      "issueTitle": "Полноценная реализация локации пользователя",
+      "url": "https://github.com/mrimsu/mrim-server/issues/21",
+      "createdAt": "2025-11-08T23:58:08.144Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
