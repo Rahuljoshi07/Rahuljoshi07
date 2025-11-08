@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762561209210,
+      "repository": "openwallet-foundation/acapy",
+      "issueTitle": "KANON storage with Postgres wallet provisioning issues",
+      "url": "https://github.com/openwallet-foundation/acapy/issues/3920",
+      "createdAt": "2025-11-08T00:20:09.210Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
