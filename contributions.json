@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762587839641,
+      "repository": "livekit/python-sdks",
+      "issueTitle": "Optimize FFI Handle Disposal for Immediate Rust-Side Memory Release",
+      "url": "https://github.com/livekit/python-sdks/issues/524",
+      "createdAt": "2025-11-08T07:43:59.641Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
