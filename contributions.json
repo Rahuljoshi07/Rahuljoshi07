@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762563937485,
+      "repository": "langchain-ai/langsmith-sdk",
+      "issueTitle": "Issue: Filtering doesnt work properly",
+      "url": "https://github.com/langchain-ai/langsmith-sdk/issues/1970",
+      "createdAt": "2025-11-08T01:05:37.485Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
