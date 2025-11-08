@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762595597522,
+      "repository": "bahmutov/cypress-recurse",
+      "issueTitle": "Test hangs on the pipeline when a 'cypress-recurse\" timeout error occurs",
+      "url": "https://github.com/bahmutov/cypress-recurse/issues/214",
+      "createdAt": "2025-11-08T09:53:17.522Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
