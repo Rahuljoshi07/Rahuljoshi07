@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762564849735,
+      "id": 1762564897349,
       "repository": "nextcloud/photos",
       "issueTitle": "Photos v32.0.1 introduces issue navigating next/previous images in file viewer",
       "url": "https://github.com/nextcloud/photos/issues/3264",
-      "createdAt": "2025-11-08T01:20:49.735Z",
+      "createdAt": "2025-11-08T01:21:37.349Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
