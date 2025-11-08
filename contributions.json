@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762623682420,
+      "repository": "dpobel/metalsmith-filemetadata",
+      "issueTitle": "Proposal: Use `arrify` to support both array and object rules",
+      "url": "https://github.com/dpobel/metalsmith-filemetadata/issues/4",
+      "createdAt": "2025-11-08T17:41:22.420Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
