@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762608827490,
+      "repository": "grayjay-sources/grayjay-sources.github.io",
+      "issueTitle": "Fix secondary navbar dropdown",
+      "url": "https://github.com/grayjay-sources/grayjay-sources.github.io/issues/3",
+      "createdAt": "2025-11-08T13:33:47.490Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
