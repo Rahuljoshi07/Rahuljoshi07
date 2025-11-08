@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762600080377,
+      "repository": "ManiMatter/decluttarr",
+      "issueTitle": "Traceback Error when running jobs on Sonarr",
+      "url": "https://github.com/ManiMatter/decluttarr/issues/305",
+      "createdAt": "2025-11-08T11:08:00.377Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
