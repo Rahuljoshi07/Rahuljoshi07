@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762563469751,
+      "repository": "djangopackages/djangopackages",
+      "issueTitle": ":sparkles: Integrate score value into Package/Grid results",
+      "url": "https://github.com/djangopackages/djangopackages/issues/1063",
+      "createdAt": "2025-11-08T00:57:49.751Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
