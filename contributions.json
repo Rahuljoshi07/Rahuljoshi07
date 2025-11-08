@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762631073991,
+      "repository": "ovg-project/kvcached",
+      "issueTitle": "ValueError: Cannot get 31 free blocks from the pool",
+      "url": "https://github.com/ovg-project/kvcached/issues/197",
+      "createdAt": "2025-11-08T19:44:33.991Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
