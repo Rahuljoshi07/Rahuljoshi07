@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762611283472,
+      "repository": "djangopackages/djangopackages",
+      "issueTitle": ":tractor: Migrate to Hetzner",
+      "url": "https://github.com/djangopackages/djangopackages/issues/1433",
+      "createdAt": "2025-11-08T14:14:43.472Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
