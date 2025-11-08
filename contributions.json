@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762570032115,
+      "repository": "AnsonLai/MuseScore-Printer",
+      "issueTitle": "Size issue",
+      "url": "https://github.com/AnsonLai/MuseScore-Printer/issues/8",
+      "createdAt": "2025-11-08T02:47:12.115Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
