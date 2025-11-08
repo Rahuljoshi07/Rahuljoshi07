@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762626090287,
+      "repository": "lirantal/anti-trojan-source",
+      "issueTitle": "Add support for an '--allowedFiles' argument to handle false positives when using `--files`",
+      "url": "https://github.com/lirantal/anti-trojan-source/issues/5",
+      "createdAt": "2025-11-08T18:21:30.287Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
