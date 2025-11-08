@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762560671803,
-      "repository": "oweitman/ioBroker.rssfeed",
+      "id": 1762560732687,
+      "repository": "oweitman/ioBroker.squeezeboxrpc",
       "issueTitle": "Please consider fixing issues detected by repository checker",
-      "url": "https://github.com/oweitman/ioBroker.rssfeed/issues/192",
-      "createdAt": "2025-11-08T00:11:11.803Z",
+      "url": "https://github.com/oweitman/ioBroker.squeezeboxrpc/issues/197",
+      "createdAt": "2025-11-08T00:12:12.687Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
