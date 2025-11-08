@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762617397603,
+      "repository": "Akuli/jou",
+      "issueTitle": "Compiler cache bug",
+      "url": "https://github.com/Akuli/jou/issues/1016",
+      "createdAt": "2025-11-08T15:56:37.603Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
