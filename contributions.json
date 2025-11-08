@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762594102794,
+      "repository": "crystal-lang/install-crystal",
+      "issueTitle": "Dependencies inconsistency",
+      "url": "https://github.com/crystal-lang/install-crystal/issues/26",
+      "createdAt": "2025-11-08T09:28:22.794Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
