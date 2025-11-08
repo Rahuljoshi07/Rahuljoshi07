@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762576570178,
+      "repository": "ShirokamiRyzen/RyzumiMD-ESM",
+      "issueTitle": "Report Error",
+      "url": "https://github.com/ShirokamiRyzen/RyzumiMD-ESM/issues/11",
+      "createdAt": "2025-11-08T04:36:10.178Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
