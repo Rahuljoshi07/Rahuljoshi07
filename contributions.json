@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762701137973,
+      "repository": "madduccino/coding.space",
+      "issueTitle": "Bug: Broken link in 'Mary Had a Little Synth' untutorial",
+      "url": "https://github.com/madduccino/coding.space/issues/207",
+      "createdAt": "2025-11-09T15:12:17.973Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
