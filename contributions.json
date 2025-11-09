@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762731641784,
+      "repository": "schmitech/orbit",
+      "issueTitle": "DuckDB datasource connection error after reloading adapter",
+      "url": "https://github.com/schmitech/orbit/issues/91",
+      "createdAt": "2025-11-09T23:40:41.784Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
