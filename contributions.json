@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762687187896,
+      "repository": "nodejs/node-core-utils",
+      "issueTitle": "Commit-queue should automatically handle PRs with merge commits from the target branch",
+      "url": "https://github.com/nodejs/node-core-utils/issues/967",
+      "createdAt": "2025-11-09T11:19:47.896Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
