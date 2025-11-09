@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762670967186,
+      "repository": "Resgrid/Core",
+      "issueTitle": "Offline laptop / Can't connect with default credentials",
+      "url": "https://github.com/Resgrid/Core/issues/248",
+      "createdAt": "2025-11-09T06:49:27.186Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
