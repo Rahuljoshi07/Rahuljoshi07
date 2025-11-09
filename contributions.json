@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762703681013,
+      "repository": "MrAntares/roBrowserLegacy",
+      "issueTitle": "NPC speed clicking after entering on map server triggers a small glitch.",
+      "url": "https://github.com/MrAntares/roBrowserLegacy/issues/572",
+      "createdAt": "2025-11-09T15:54:41.013Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
