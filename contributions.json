@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762725048990,
+      "repository": "Tendsty/gooboo",
+      "issueTitle": "An error occurred when migrating from 1.5.8 to 1.6.0",
+      "url": "https://github.com/Tendsty/gooboo/issues/101",
+      "createdAt": "2025-11-09T21:50:48.990Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
