@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762687872077,
+      "repository": "ClickHouse/clickhouse-tableau-connector-jdbc",
+      "issueTitle": "Getting Code 47 error for some calculations in Tableau",
+      "url": "https://github.com/ClickHouse/clickhouse-tableau-connector-jdbc/issues/67",
+      "createdAt": "2025-11-09T11:31:12.077Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
