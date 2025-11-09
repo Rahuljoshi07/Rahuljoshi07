@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762692905189,
+      "repository": "pkgcore/pkgcheck",
+      "issueTitle": "failing test test_scan_repo[eclass], possibly due to bash 5.3",
+      "url": "https://github.com/pkgcore/pkgcheck/issues/760",
+      "createdAt": "2025-11-09T12:55:05.189Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
