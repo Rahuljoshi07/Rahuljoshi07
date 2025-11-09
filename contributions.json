@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762705652438,
+      "repository": "gwlilabmit/FragFold",
+      "issueTitle": "ImportError: cannot import name 'safe_filename' from 'colabfold.utils'",
+      "url": "https://github.com/gwlilabmit/FragFold/issues/18",
+      "createdAt": "2025-11-09T16:27:32.438Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
