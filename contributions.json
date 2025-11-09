@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762722172695,
+      "repository": "jcubic/chat-gpt",
+      "issueTitle": "Does not work on chrome for Android ",
+      "url": "https://github.com/jcubic/chat-gpt/issues/43",
+      "createdAt": "2025-11-09T21:02:52.695Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
