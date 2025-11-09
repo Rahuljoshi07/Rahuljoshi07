@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762669037928,
+      "repository": "dzeiocom/simple-icons-astro",
+      "issueTitle": "Bug when trying to use the Astro icon",
+      "url": "https://github.com/dzeiocom/simple-icons-astro/issues/2",
+      "createdAt": "2025-11-09T06:17:17.928Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
