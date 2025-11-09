@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762707952348,
-      "repository": "bradrevans/myrient-downloader",
-      "issueTitle": "Tosec section returns error.",
-      "url": "https://github.com/bradrevans/myrient-downloader/issues/6",
-      "createdAt": "2025-11-09T17:05:52.348Z",
+      "id": 1762707989880,
+      "repository": "scikit-hep/iminuit",
+      "issueTitle": "Backwards compatibility issue with default use_simplex",
+      "url": "https://github.com/scikit-hep/iminuit/issues/1041",
+      "createdAt": "2025-11-09T17:06:29.880Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
