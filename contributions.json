@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762700553546,
+      "repository": "Houston4444/RaySession",
+      "issueTitle": "Bug - Trails appear when dragging objects around",
+      "url": "https://github.com/Houston4444/RaySession/issues/270",
+      "createdAt": "2025-11-09T15:02:33.546Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
