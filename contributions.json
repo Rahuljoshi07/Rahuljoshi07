@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762717127620,
+      "repository": "mpfaffenberger/code_puppy",
+      "issueTitle": "Frequent Tool Call Timeouts in Version 0.250",
+      "url": "https://github.com/mpfaffenberger/code_puppy/issues/88",
+      "createdAt": "2025-11-09T19:38:47.620Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
