@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762653906457,
+      "repository": "Psyyke/A.C.A.S",
+      "issueTitle": "white black bug",
+      "url": "https://github.com/Psyyke/A.C.A.S/issues/36",
+      "createdAt": "2025-11-09T02:05:06.457Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
