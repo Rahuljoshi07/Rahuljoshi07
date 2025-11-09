@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762690795985,
+      "repository": "REG-Linux/REG-Linux",
+      "issueTitle": "Anbernic RG351P Issues with sound",
+      "url": "https://github.com/REG-Linux/REG-Linux/issues/1515",
+      "createdAt": "2025-11-09T12:19:55.985Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
