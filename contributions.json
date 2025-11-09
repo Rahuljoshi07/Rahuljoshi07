@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762653023034,
+      "repository": "nE0sIghT/gnome-browser-extension-mirror",
+      "issueTitle": "Every restart my extensions are disabled. Enabled them gives error: Failed to synchronize extensions:  GDBus.Error: org.gnome. Shell. ExtensionError: Unexpected response: Not Found",
+      "url": "https://github.com/nE0sIghT/gnome-browser-extension-mirror/issues/111",
+      "createdAt": "2025-11-09T01:50:23.034Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
