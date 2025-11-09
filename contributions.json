@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762676505997,
+      "repository": "lioensky/VCPToolBox",
+      "issueTitle": "RAG相关Bug反馈集",
+      "url": "https://github.com/lioensky/VCPToolBox/issues/108",
+      "createdAt": "2025-11-09T08:21:45.997Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
