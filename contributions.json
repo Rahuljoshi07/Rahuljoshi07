@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762686291498,
+      "id": 1762686345098,
       "repository": "lazarv/react-server",
-      "issueTitle": "POST /client/rsc.x-component / Server 404 / Chrome will loop for ever",
-      "url": "https://github.com/lazarv/react-server/issues/280",
-      "createdAt": "2025-11-09T11:04:51.498Z",
+      "issueTitle": "missing accept head return 404 error",
+      "url": "https://github.com/lazarv/react-server/issues/277",
+      "createdAt": "2025-11-09T11:05:45.098Z",
       "type": "comment",
-      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
