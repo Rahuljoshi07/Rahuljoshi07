@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762654144447,
+      "repository": "fsspec/universal_pathlib",
+      "issueTitle": "Cannot use UPath on S3 with pandas: PermissionError/Access Denied",
+      "url": "https://github.com/fsspec/universal_pathlib/issues/241",
+      "createdAt": "2025-11-09T02:09:04.447Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
