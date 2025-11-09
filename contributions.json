@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762652106626,
+      "repository": "nextcloud/tables",
+      "issueTitle": "Bug when inserting a file or a link in a text/mardown field or any other object (pop-up windows hidden)",
+      "url": "https://github.com/nextcloud/tables/issues/2126",
+      "createdAt": "2025-11-09T01:35:06.626Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
