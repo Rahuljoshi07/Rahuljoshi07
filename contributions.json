@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1762694293041,
-      "repository": "eX-Mech/pymech",
-      "issueTitle": "Fix tvtk API and failing tests with `traits.trait_errors.TraitError`",
-      "url": "https://github.com/eX-Mech/pymech/issues/142",
-      "createdAt": "2025-11-09T13:18:13.042Z",
-      "type": "comment",
-      "content": "Consider checking for None values to prevent AttributeError exceptions. (Suggested by Rahul Joshi)..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
