@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762680532201,
+      "repository": "sindresorhus/fkill",
+      "issueTitle": "Is there any change to optimize the processing time?",
+      "url": "https://github.com/sindresorhus/fkill/issues/25",
+      "createdAt": "2025-11-09T09:28:52.202Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
