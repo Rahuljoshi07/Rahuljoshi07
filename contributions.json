@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762647913419,
+      "repository": "ironmonk108/monks-wall-enhancement",
+      "issueTitle": "[BUG] \"Toggle Walls Display\" persists even when toggled off",
+      "url": "https://github.com/ironmonk108/monks-wall-enhancement/issues/61",
+      "createdAt": "2025-11-09T00:25:13.419Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
