@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762708249506,
+      "repository": "p2or/blender-loom",
+      "issueTitle": "some bugs..",
+      "url": "https://github.com/p2or/blender-loom/issues/112",
+      "createdAt": "2025-11-09T17:10:49.506Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
