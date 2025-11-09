@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762720961584,
+      "repository": "andyholmes/flatter",
+      "issueTitle": "Using `flatpak-builder-args` breaks Flatter",
+      "url": "https://github.com/andyholmes/flatter/issues/118",
+      "createdAt": "2025-11-09T20:42:41.585Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
