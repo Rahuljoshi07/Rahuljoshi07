@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762651104198,
+      "repository": "ruaan-deysel/ha-actronair-neo",
+      "issueTitle": "[Bug] Latest update removed new Compressor Energy Utility Sensor",
+      "url": "https://github.com/ruaan-deysel/ha-actronair-neo/issues/43",
+      "createdAt": "2025-11-09T01:18:24.198Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
