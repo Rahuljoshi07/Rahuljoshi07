@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762695061603,
+      "repository": "illixion/vscode-vibrancy-continued",
+      "issueTitle": "[Bug]: Transparency did not work for Terminal on Windows",
+      "url": "https://github.com/illixion/vscode-vibrancy-continued/issues/213",
+      "createdAt": "2025-11-09T13:31:01.603Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
