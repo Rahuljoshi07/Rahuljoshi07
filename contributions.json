@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762718691345,
+      "repository": "jxmorris12/language_tool_python",
+      "issueTitle": "simplejson.errors.JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+      "url": "https://github.com/jxmorris12/language_tool_python/issues/93",
+      "createdAt": "2025-11-09T20:04:51.345Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
