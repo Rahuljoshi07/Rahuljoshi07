@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762719260288,
+      "repository": "BagelBeef/ha-departureCard",
+      "issueTitle": "[Bug]: RelativeTime error after midnight",
+      "url": "https://github.com/BagelBeef/ha-departureCard/issues/34",
+      "createdAt": "2025-11-09T20:14:20.288Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
