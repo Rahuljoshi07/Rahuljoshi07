@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762676169838,
+      "repository": "andreadegiovine/homeassistant-stellantis-vehicles",
+      "issueTitle": "Error during startup after addon update to 2025.11.1",
+      "url": "https://github.com/andreadegiovine/homeassistant-stellantis-vehicles/issues/339",
+      "createdAt": "2025-11-09T08:16:09.838Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
