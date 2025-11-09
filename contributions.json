@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762715610814,
-      "repository": "2M4U/2m4u",
-      "issueTitle": ".env.template is missing",
-      "url": "https://github.com/2M4U/2m4u/issues/9",
-      "createdAt": "2025-11-09T19:13:30.814Z",
+      "id": 1762715641988,
+      "repository": "CycloneDX/cdxgen",
+      "issueTitle": "Getting error \"log.silly is not a function\" While generating dependency tree and got conflicts in peer dependency in scan process",
+      "url": "https://github.com/CycloneDX/cdxgen/issues/2683",
+      "createdAt": "2025-11-09T19:14:01.988Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
