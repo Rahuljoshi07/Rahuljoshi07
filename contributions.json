@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762715304519,
+      "repository": "griptape-ai/griptape-nodes",
+      "issueTitle": "Adv Lib Nodes Failing To Load On Windows",
+      "url": "https://github.com/griptape-ai/griptape-nodes/issues/3053",
+      "createdAt": "2025-11-09T19:08:24.519Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
