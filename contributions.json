@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762671668546,
+      "repository": "OpenAF/openaf",
+      "issueTitle": "Not parsing SQL with \"is not null\"",
+      "url": "https://github.com/OpenAF/openaf/issues/1255",
+      "createdAt": "2025-11-09T07:01:08.546Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
