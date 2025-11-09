@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762707834650,
+      "repository": "cuga-project/cuga-agent",
+      "issueTitle": "[Bug]: The URL for the HTML page containing the trajectory data in Webarena Leadboard is invalid.",
+      "url": "https://github.com/cuga-project/cuga-agent/issues/9",
+      "createdAt": "2025-11-09T17:03:54.650Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
