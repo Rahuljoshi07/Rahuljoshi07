@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762740516489,
+      "repository": "litestar-org/sqlspec",
+      "issueTitle": "Bug: Litestar 2.8.2 + SQLSpecPlugin returns GeneratorContextManager instead of SqliteDriver (AttributeError: '_GeneratorContextManager' object has no attribute 'cursor')_",
+      "url": "https://github.com/litestar-org/sqlspec/issues/238",
+      "createdAt": "2025-11-10T02:08:36.489Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
