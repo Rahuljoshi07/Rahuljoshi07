@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762757046054,
+      "repository": "noobaa/noobaa-core",
+      "issueTitle": "MDStore.find_chunks_by_dedup_key is not hitting indexes",
+      "url": "https://github.com/noobaa/noobaa-core/issues/9249",
+      "createdAt": "2025-11-10T06:44:06.054Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
