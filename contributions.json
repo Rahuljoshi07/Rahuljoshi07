@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762766701933,
+      "id": 1762766737764,
       "repository": "nikku/node-xsd-schema-validator",
       "issueTitle": "Validation failing with \"invalid xml\" for incorrect file path",
       "url": "https://github.com/nikku/node-xsd-schema-validator/issues/24",
-      "createdAt": "2025-11-10T09:25:01.934Z",
+      "createdAt": "2025-11-10T09:25:37.764Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
