@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762813339497,
+      "repository": "ROCm/aotriton",
+      "issueTitle": "[Issue]: Build error branch size exceeds simm16",
+      "url": "https://github.com/ROCm/aotriton/issues/124",
+      "createdAt": "2025-11-10T22:22:19.497Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
