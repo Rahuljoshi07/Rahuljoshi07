@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762753124380,
+      "repository": "golles/ha-knmi",
+      "issueTitle": "Solar irradiance shows short spikes at horizon times (≈07:43:27 and 17:23:27), always ≈523 W/m², lasting exact multiples of 10 min. Values just before/after are 0.",
+      "url": "https://github.com/golles/ha-knmi/issues/293",
+      "createdAt": "2025-11-10T05:38:44.380Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
