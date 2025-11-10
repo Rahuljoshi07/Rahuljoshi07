@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762733498731,
+      "repository": "spesmilo/electrumx",
+      "issueTitle": "Won't passing the \"mode\" arg to old daemons using `estimatefee` and lacking `estimatesmartfee` cause an error?",
+      "url": "https://github.com/spesmilo/electrumx/issues/318",
+      "createdAt": "2025-11-10T00:11:38.731Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
