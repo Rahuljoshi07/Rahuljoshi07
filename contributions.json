@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762758816534,
+      "id": 1762758848002,
       "repository": "lowsky/spotify-graphql-server",
-      "issueTitle": "tracks of albums are not loaded",
-      "url": "https://github.com/lowsky/spotify-graphql-server/issues/3",
-      "createdAt": "2025-11-10T07:13:36.534Z",
+      "issueTitle": "feature: add dataloader to cache some requested data",
+      "url": "https://github.com/lowsky/spotify-graphql-server/issues/56",
+      "createdAt": "2025-11-10T07:14:08.002Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
