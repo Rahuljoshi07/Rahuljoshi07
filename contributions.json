@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762751904238,
+      "repository": "craibo/ha_strava",
+      "issueTitle": "Strava 3.2.42/ HA 2024.11.3 - All Run Values show significantly decreased values",
+      "url": "https://github.com/craibo/ha_strava/issues/188",
+      "createdAt": "2025-11-10T05:18:24.238Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
