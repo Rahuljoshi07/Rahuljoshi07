@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762811051963,
+      "repository": "rsolomakhin/rsolomakhin.github.io",
+      "issueTitle": "How to validate paymentMethod billing address fields",
+      "url": "https://github.com/rsolomakhin/rsolomakhin.github.io/issues/39",
+      "createdAt": "2025-11-10T21:44:11.963Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
