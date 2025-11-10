@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762766086102,
+      "id": 1762766121196,
       "repository": "cap-js/cds-dbs",
       "issueTitle": "missing error for duplicated nested projection",
       "url": "https://github.com/cap-js/cds-dbs/issues/1408",
-      "createdAt": "2025-11-10T09:14:46.102Z",
+      "createdAt": "2025-11-10T09:15:21.196Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
