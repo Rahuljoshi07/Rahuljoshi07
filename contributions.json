@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762808771189,
+      "repository": "pluginpal/strapi-plugin-config-sync",
+      "issueTitle": "Different props order in exported configs",
+      "url": "https://github.com/pluginpal/strapi-plugin-config-sync/issues/191",
+      "createdAt": "2025-11-10T21:06:11.189Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
