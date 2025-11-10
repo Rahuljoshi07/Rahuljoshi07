@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762784131847,
+      "repository": "exelerus/cordova-plugin-audioinput",
+      "issueTitle": "AudioInputError fired on start with streamToWebAudio: true",
+      "url": "https://github.com/exelerus/cordova-plugin-audioinput/issues/132",
+      "createdAt": "2025-11-10T14:15:31.847Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
