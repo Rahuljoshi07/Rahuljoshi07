@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762776932534,
+      "repository": "qgiscloud/qgis-cloud-plugin",
+      "issueTitle": "errors in the plugin render it unresponsive as a rule",
+      "url": "https://github.com/qgiscloud/qgis-cloud-plugin/issues/61",
+      "createdAt": "2025-11-10T12:15:32.534Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
