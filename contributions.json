@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762740269772,
+      "repository": "typeddjango/djangorestframework-stubs",
+      "issueTitle": "def __getattr__(self, attr: str) -> Any: ... is the opposite of the intended behavior.",
+      "url": "https://github.com/typeddjango/djangorestframework-stubs/issues/851",
+      "createdAt": "2025-11-10T02:04:29.772Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
