@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762736841059,
+      "repository": "r-earthengine/ee_extra",
+      "issueTitle": "add support for COPERNICUS/S2_SR_HARMONIZED to compute the tasseledCap components",
+      "url": "https://github.com/r-earthengine/ee_extra/issues/49",
+      "createdAt": "2025-11-10T01:07:21.059Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
