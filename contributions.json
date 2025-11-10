@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762762747525,
+      "repository": "meta-pytorch/torchforge",
+      "issueTitle": "training failed due to perf_tracker RuntimeError: can't start new thread",
+      "url": "https://github.com/meta-pytorch/torchforge/issues/529",
+      "createdAt": "2025-11-10T08:19:07.525Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
