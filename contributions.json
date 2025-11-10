@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762743992080,
+      "repository": "mekael/WFClassic",
+      "issueTitle": "Sentinel modification",
+      "url": "https://github.com/mekael/WFClassic/issues/36",
+      "createdAt": "2025-11-10T03:06:32.080Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
