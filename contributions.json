@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762780659586,
+      "repository": "Jammy2211/PyAutoLens",
+      "issueTitle": "Bug with `ShapeSolver` and `Circle`",
+      "url": "https://github.com/Jammy2211/PyAutoLens/issues/320",
+      "createdAt": "2025-11-10T13:17:39.586Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
