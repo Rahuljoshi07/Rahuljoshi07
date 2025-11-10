@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762760002312,
+      "repository": "chrisvogt/gatsby-theme-chronogrove",
+      "issueTitle": "### Bug: State Type Inconsistency Causes Potential Bugs",
+      "url": "https://github.com/chrisvogt/gatsby-theme-chronogrove/issues/423",
+      "createdAt": "2025-11-10T07:33:22.312Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
