@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762752692719,
+      "repository": "craibo/ha_strava",
+      "issueTitle": "Camera entity - no picture from Strava",
+      "url": "https://github.com/craibo/ha_strava/issues/198",
+      "createdAt": "2025-11-10T05:31:32.719Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
