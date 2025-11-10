@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762738233178,
+      "repository": "Fr1ngg/remnawave-bedolaga-telegram-bot",
+      "issueTitle": "[BUG] Битая ссылка в readme.md",
+      "url": "https://github.com/Fr1ngg/remnawave-bedolaga-telegram-bot/issues/1827",
+      "createdAt": "2025-11-10T01:30:33.178Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
