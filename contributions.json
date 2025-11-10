@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762786569561,
+      "repository": "ing-bank/ordeq",
+      "issueTitle": "Support for running async nodes",
+      "url": "https://github.com/ing-bank/ordeq/issues/290",
+      "createdAt": "2025-11-10T14:56:09.561Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
