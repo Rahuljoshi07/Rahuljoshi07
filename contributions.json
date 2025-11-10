@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762785117186,
+      "repository": "duorua/narutomobile",
+      "issueTitle": "bug: 部分忍者在丰饶的战斗界面站着发呆",
+      "url": "https://github.com/duorua/narutomobile/issues/6",
+      "createdAt": "2025-11-10T14:31:57.187Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
