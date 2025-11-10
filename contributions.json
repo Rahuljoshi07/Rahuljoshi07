@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762798151702,
+      "repository": "TerraFirmaGreg-Team/Modpack-Modern",
+      "issueTitle": "[🪶]: Solars panel space survival quest error on converter",
+      "url": "https://github.com/TerraFirmaGreg-Team/Modpack-Modern/issues/2200",
+      "createdAt": "2025-11-10T18:09:11.702Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
