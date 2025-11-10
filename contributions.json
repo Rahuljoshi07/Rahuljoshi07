@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762774287180,
+      "repository": "dymmond/ravyn",
+      "issueTitle": "Performance regression: Slow response time after upgrading from Ravyn 0.1.0 to 0.3.1",
+      "url": "https://github.com/dymmond/ravyn/issues/631",
+      "createdAt": "2025-11-10T11:31:27.180Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
