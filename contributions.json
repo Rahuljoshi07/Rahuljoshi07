@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762764063667,
+      "repository": "gardenlinux/gardenlinux",
+      "issueTitle": "Migrate `feature/isci` tests",
+      "url": "https://github.com/gardenlinux/gardenlinux/issues/3606",
+      "createdAt": "2025-11-10T08:41:03.667Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
