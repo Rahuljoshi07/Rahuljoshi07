@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762743486385,
+      "repository": "semrel-extra/zx-bulk-release",
+      "issueTitle": "`zx-bulk-release --debug` does not show zx debug info, however `DEBUG=true zx-bulk-release` works.",
+      "url": "https://github.com/semrel-extra/zx-bulk-release/issues/63",
+      "createdAt": "2025-11-10T02:58:06.385Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
