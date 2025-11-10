@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762810696886,
+      "repository": "iobroker-community-adapters/ioBroker.shelly",
+      "issueTitle": "[Bug]: Warnmeldung [mqtt controlFunction] kommt zu häufig",
+      "url": "https://github.com/iobroker-community-adapters/ioBroker.shelly/issues/976",
+      "createdAt": "2025-11-10T21:38:16.887Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
