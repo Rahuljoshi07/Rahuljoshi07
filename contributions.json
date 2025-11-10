@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762785989953,
+      "repository": "xero/text0wnz",
+      "issueTitle": "XBINs do not have their SAUCE FileSize fields recorded correctly",
+      "url": "https://github.com/xero/text0wnz/issues/110",
+      "createdAt": "2025-11-10T14:46:29.953Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
