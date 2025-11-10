@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762776002538,
+      "repository": "canonical/kratos-operator",
+      "issueTitle": "Stop the service when database is gone",
+      "url": "https://github.com/canonical/kratos-operator/issues/534",
+      "createdAt": "2025-11-10T12:00:02.538Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
