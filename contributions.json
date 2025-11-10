@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762803174282,
+      "repository": "Fast-64/fast64",
+      "issueTitle": "[OoT] Collision exporter tries to write to the extracted folder",
+      "url": "https://github.com/Fast-64/fast64/issues/603",
+      "createdAt": "2025-11-10T19:32:54.282Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
