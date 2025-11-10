@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762738724084,
+      "repository": "livecoders/website",
+      "issueTitle": "[BUG]: Update Outdated Twitter Icon on Website",
+      "url": "https://github.com/livecoders/website/issues/295",
+      "createdAt": "2025-11-10T01:38:44.085Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
