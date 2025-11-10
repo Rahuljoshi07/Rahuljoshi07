@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762743311291,
+      "repository": "ironmonk108/monks-enhanced-journal",
+      "issueTitle": "[BUG] Change Shop Prices",
+      "url": "https://github.com/ironmonk108/monks-enhanced-journal/issues/765",
+      "createdAt": "2025-11-10T02:55:11.291Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
