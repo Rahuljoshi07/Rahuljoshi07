@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762802744408,
+      "repository": "ulyngs/reddfocus-open-source",
+      "issueTitle": "LinkedIn: hide feed only when URL ENDS with /feed/",
+      "url": "https://github.com/ulyngs/reddfocus-open-source/issues/66",
+      "createdAt": "2025-11-10T19:25:44.408Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
