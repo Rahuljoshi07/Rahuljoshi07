@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762792775157,
+      "repository": "nextcloud/llm2",
+      "issueTitle": "Cannot get a query to complete, or engage, with my GPU.",
+      "url": "https://github.com/nextcloud/llm2/issues/62",
+      "createdAt": "2025-11-10T16:39:35.158Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
