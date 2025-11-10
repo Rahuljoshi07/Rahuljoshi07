@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762792066838,
+      "repository": "Bogdanp/django_dramatiq",
+      "issueTitle": "Migrate to `pyproject.toml`",
+      "url": "https://github.com/Bogdanp/django_dramatiq/issues/156",
+      "createdAt": "2025-11-10T16:27:46.838Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
