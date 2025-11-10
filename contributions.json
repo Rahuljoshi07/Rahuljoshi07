@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762739451807,
+      "repository": "vectra-ai-research/Halberd",
+      "issueTitle": "Bug: AWS S3 Techniques Fail on Empty Buckets Despite Successful API Calls",
+      "url": "https://github.com/vectra-ai-research/Halberd/issues/79",
+      "createdAt": "2025-11-10T01:50:51.807Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
