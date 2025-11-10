@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762737296427,
+      "repository": "Fast-64/fast64",
+      "issueTitle": "[OoT] OoT DL exporter exports 2 DLs with the same name (redefinition) when the DL has opaque and transparent materials",
+      "url": "https://github.com/Fast-64/fast64/issues/602",
+      "createdAt": "2025-11-10T01:14:56.427Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
