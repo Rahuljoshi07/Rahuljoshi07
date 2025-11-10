@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762787710106,
+      "repository": "superdesk/eve-elastic",
+      "issueTitle": "Error when update or delete an item",
+      "url": "https://github.com/superdesk/eve-elastic/issues/85",
+      "createdAt": "2025-11-10T15:15:10.106Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
