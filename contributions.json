@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762743209030,
+      "repository": "PokeMMO-Tools/pokemmo-hub",
+      "issueTitle": "[BUG]: Unable to remove item from Investment list",
+      "url": "https://github.com/PokeMMO-Tools/pokemmo-hub/issues/16",
+      "createdAt": "2025-11-10T02:53:29.030Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
