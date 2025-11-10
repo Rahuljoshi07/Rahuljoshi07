@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762781117273,
+      "repository": "wondrify/asset-pipeline",
+      "issueTitle": "NoSuchMethodError when compiling assets if also using protobuf gradle plugin",
+      "url": "https://github.com/wondrify/asset-pipeline/issues/394",
+      "createdAt": "2025-11-10T13:25:17.273Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
