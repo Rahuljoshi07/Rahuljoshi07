@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762753428683,
+      "repository": "wemake-services/django-test-migrations",
+      "issueTitle": "Cannot have multiple test functions in the same class inheriting from MigratorTestCase",
+      "url": "https://github.com/wemake-services/django-test-migrations/issues/467",
+      "createdAt": "2025-11-10T05:43:48.683Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
