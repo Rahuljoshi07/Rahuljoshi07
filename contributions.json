@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762765311415,
+      "repository": "elastic/apm-agent-nodejs",
+      "issueTitle": "tracking issue for unclassified flaky tests",
+      "url": "https://github.com/elastic/apm-agent-nodejs/issues/3313",
+      "createdAt": "2025-11-10T09:01:51.415Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
