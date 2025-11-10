@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762765802199,
+      "repository": "elastic/apm-agent-nodejs",
+      "issueTitle": "tracking issue for unclassified flaky tests",
+      "url": "https://github.com/elastic/apm-agent-nodejs/issues/3313",
+      "createdAt": "2025-11-10T09:10:02.199Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
