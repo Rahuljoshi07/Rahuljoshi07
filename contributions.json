@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762808857480,
+      "repository": "typeddjango/djangorestframework-stubs",
+      "issueTitle": "Support for singleton types in unions requires `empty` to be Enum",
+      "url": "https://github.com/typeddjango/djangorestframework-stubs/issues/42",
+      "createdAt": "2025-11-10T21:07:37.480Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
