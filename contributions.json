@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762770129468,
+      "repository": "certeu/morio",
+      "issueTitle": "☂️ Build out tests and test infrastructure so we can deploy with confidence (umbrella issue)",
+      "url": "https://github.com/certeu/morio/issues/102",
+      "createdAt": "2025-11-10T10:22:09.468Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
