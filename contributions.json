@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762814635193,
+      "repository": "HumanSignal/label-studio-sdk",
+      "issueTitle": "pyproject.toml missing project.version -> causes error adding to uv managed environments.",
+      "url": "https://github.com/HumanSignal/label-studio-sdk/issues/663",
+      "createdAt": "2025-11-10T22:43:55.193Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
