@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762799181898,
+      "repository": "bbfrederick/rapidtide",
+      "issueTitle": "--cvr option gives no errors, but is not outputting XXX_desc-CVR_map.nii.gz",
+      "url": "https://github.com/bbfrederick/rapidtide/issues/226",
+      "createdAt": "2025-11-10T18:26:21.898Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
