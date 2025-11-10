@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762774093521,
+      "repository": "alorence/django-modern-rpc",
+      "issueTitle": "Nice would be logging RPCInternalError as error (with traceback)  but it is currently logged as warning",
+      "url": "https://github.com/alorence/django-modern-rpc/issues/71",
+      "createdAt": "2025-11-10T11:28:13.521Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
