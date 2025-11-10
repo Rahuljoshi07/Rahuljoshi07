@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762740550805,
+      "id": 1762740597468,
       "repository": "LibreSign/libresign",
-      "issueTitle": "[FEATURE]: Templates for a quicker workflow",
-      "url": "https://github.com/LibreSign/libresign/issues/5628",
-      "createdAt": "2025-11-10T02:09:10.805Z",
+      "issueTitle": "Internal Server Error: trim(): Argument #1 ($string) must be of type string, null given",
+      "url": "https://github.com/LibreSign/libresign/issues/5627",
+      "createdAt": "2025-11-10T02:09:57.468Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. This suggestion i..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
