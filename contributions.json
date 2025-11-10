@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762806271858,
+      "repository": "adobe/aio-cli-plugin-app",
+      "issueTitle": "`aio app undeploy` does not complete undeployment if an error occurs",
+      "url": "https://github.com/adobe/aio-cli-plugin-app/issues/880",
+      "createdAt": "2025-11-10T20:24:31.858Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
