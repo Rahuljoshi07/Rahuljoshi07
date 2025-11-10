@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762757838832,
+      "repository": "Yonokid/PyTaiko",
+      "issueTitle": "The font file is reloaded every time an outlined text is drawn",
+      "url": "https://github.com/Yonokid/PyTaiko/issues/128",
+      "createdAt": "2025-11-10T06:57:18.832Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
