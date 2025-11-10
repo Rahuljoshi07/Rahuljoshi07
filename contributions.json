@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762791118608,
+      "repository": "RuminantFarmSystems/RuFaS",
+      "issueTitle": "[ReadMe] ReadMe not updating status properly",
+      "url": "https://github.com/RuminantFarmSystems/RuFaS/issues/2617",
+      "createdAt": "2025-11-10T16:11:58.608Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
