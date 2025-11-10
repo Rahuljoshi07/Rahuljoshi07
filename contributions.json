@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762746499721,
+      "repository": "facebookresearch/spdl",
+      "issueTitle": "[RFC] Add `run_pipelien_in_subinterpreter` function",
+      "url": "https://github.com/facebookresearch/spdl/issues/967",
+      "createdAt": "2025-11-10T03:48:19.721Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
