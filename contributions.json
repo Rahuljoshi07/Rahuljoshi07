@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762819171506,
+      "repository": "JCSDA-internal/ioda-converters",
+      "issueTitle": "Debugging recent Radiosonde IODA-converter issue",
+      "url": "https://github.com/JCSDA-internal/ioda-converters/issues/1723",
+      "createdAt": "2025-11-10T23:59:31.506Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
