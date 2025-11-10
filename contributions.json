@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762776313407,
+      "repository": "NougatCA/FineTuner",
+      "issueTitle": "Some errors that occurred while fine-tuning models such as codebert",
+      "url": "https://github.com/NougatCA/FineTuner/issues/16",
+      "createdAt": "2025-11-10T12:05:13.407Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
