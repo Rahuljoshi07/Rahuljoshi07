@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762794560696,
+      "repository": "OHF-Voice/hassil",
+      "issueTitle": "Wildcard used as last thing in a permutation greedily grabs everything",
+      "url": "https://github.com/OHF-Voice/hassil/issues/87",
+      "createdAt": "2025-11-10T17:09:20.696Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
