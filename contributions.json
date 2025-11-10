@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762734651884,
+      "repository": "SL13PNIR/night-miner",
+      "issueTitle": "Error in mining cycle: Failed to fetch challenge",
+      "url": "https://github.com/SL13PNIR/night-miner/issues/11",
+      "createdAt": "2025-11-10T00:30:51.884Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
