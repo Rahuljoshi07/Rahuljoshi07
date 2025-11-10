@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762760970743,
+      "repository": "neetozone/neeto-editor",
+      "issueTitle": "Formatting Issue in replies",
+      "url": "https://github.com/neetozone/neeto-editor/issues/1663",
+      "createdAt": "2025-11-10T07:49:30.743Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
