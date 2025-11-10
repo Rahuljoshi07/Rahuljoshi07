@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762764208419,
+      "repository": "GradientHQ/parallax",
+      "issueTitle": "[Bug]: Parallax fails oln self host via Modal and Baseten (Lattica limitation)",
+      "url": "https://github.com/GradientHQ/parallax/issues/203",
+      "createdAt": "2025-11-10T08:43:28.419Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
