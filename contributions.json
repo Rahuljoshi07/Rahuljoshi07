@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762799407612,
+      "repository": "techspawn/woocommerce-mcp-server",
+      "issueTitle": "Windsurf error: no tools returned. Check your configuration.",
+      "url": "https://github.com/techspawn/woocommerce-mcp-server/issues/5",
+      "createdAt": "2025-11-10T18:30:07.612Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
