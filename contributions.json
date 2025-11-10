@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762798730270,
+      "repository": "larsiusprime/openavmkit",
+      "issueTitle": "write_notebook_output_sup throws ValueError about sales df not having CRS",
+      "url": "https://github.com/larsiusprime/openavmkit/issues/170",
+      "createdAt": "2025-11-10T18:18:50.270Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
