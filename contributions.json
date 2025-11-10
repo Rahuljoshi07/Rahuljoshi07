@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762749735992,
+      "repository": "kirillzhosul/gofra",
+      "issueTitle": "[typechcker, warnings] Add unreachable code detection",
+      "url": "https://github.com/kirillzhosul/gofra/issues/47",
+      "createdAt": "2025-11-10T04:42:15.992Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
