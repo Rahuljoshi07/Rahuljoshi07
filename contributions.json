@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762764363820,
+      "repository": "django-haystack/pysolr",
+      "issueTitle": "Delete erroring when id's are numeric",
+      "url": "https://github.com/django-haystack/pysolr/issues/489",
+      "createdAt": "2025-11-10T08:46:03.820Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
