@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762807801601,
+      "repository": "enpasos/jax2onnx",
+      "issueTitle": "Onnx Runtime Error",
+      "url": "https://github.com/enpasos/jax2onnx/issues/52",
+      "createdAt": "2025-11-10T20:50:01.601Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
