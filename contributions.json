@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762828502037,
+      "repository": "canonical/hardware-observer-operator",
+      "issueTitle": "Exporter should be in error state instead of blocked if installation fails",
+      "url": "https://github.com/canonical/hardware-observer-operator/issues/203",
+      "createdAt": "2025-11-11T02:35:02.038Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
