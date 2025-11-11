@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762873910248,
+      "repository": "huasenjio/huasenjio-compose",
+      "issueTitle": "[Bug] blog图片预览正常，但打开无法显示",
+      "url": "https://github.com/huasenjio/huasenjio-compose/issues/27",
+      "createdAt": "2025-11-11T15:11:50.248Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
