@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762847625703,
+      "repository": "loveyyp1314/SimPage",
+      "issueTitle": "Bug：后台修改天气城市后刷新始终显示“北京”",
+      "url": "https://github.com/loveyyp1314/SimPage/issues/61",
+      "createdAt": "2025-11-11T07:53:45.703Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
