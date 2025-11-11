@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762873486397,
+      "repository": "Cloufield/gwaslab",
+      "issueTitle": "Potential issue in data conversion when OR == 1 (SE becomes 0)",
+      "url": "https://github.com/Cloufield/gwaslab/issues/187",
+      "createdAt": "2025-11-11T15:04:46.397Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
