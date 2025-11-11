@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762865243947,
+      "repository": "Layf21/hass-froeling-connect",
+      "issueTitle": "Unexpected error whil try to setup the integration",
+      "url": "https://github.com/Layf21/hass-froeling-connect/issues/8",
+      "createdAt": "2025-11-11T12:47:23.947Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
