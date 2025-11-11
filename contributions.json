@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762860148472,
+      "repository": "zhmcclient/zhmc-prometheus-exporter",
+      "issueTitle": "Missing some required metrics and bug collect metrics",
+      "url": "https://github.com/zhmcclient/zhmc-prometheus-exporter/issues/812",
+      "createdAt": "2025-11-11T11:22:28.472Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
