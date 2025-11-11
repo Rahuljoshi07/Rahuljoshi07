@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762831295766,
+      "repository": "GradientHQ/parallax",
+      "issueTitle": "[Bug]: A question to use run parallax in WSL",
+      "url": "https://github.com/GradientHQ/parallax/issues/207",
+      "createdAt": "2025-11-11T03:21:35.766Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
