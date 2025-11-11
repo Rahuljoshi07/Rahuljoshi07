@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762853303725,
+      "repository": "Bogdanp/django_dramatiq",
+      "issueTitle": "Migrate to `pyproject.toml`",
+      "url": "https://github.com/Bogdanp/django_dramatiq/issues/156",
+      "createdAt": "2025-11-11T09:28:23.725Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
