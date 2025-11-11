@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762857022235,
-      "repository": "mozilla/releases-comm-central",
-      "issueTitle": "[BUG] Accepting invitation",
-      "url": "https://github.com/mozilla/releases-comm-central/issues/111",
-      "createdAt": "2025-11-11T10:30:22.235Z",
+      "id": 1762857066617,
+      "repository": "apify/apify-sdk-python",
+      "issueTitle": "Investigate occasional JSONDecodeError in integration tests",
+      "url": "https://github.com/apify/apify-sdk-python/issues/672",
+      "createdAt": "2025-11-11T10:31:06.617Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
