@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762875594691,
+      "repository": "HansBug/hbutils",
+      "issueTitle": "Unknown issue on macos python3.10-3.13, related to sockets",
+      "url": "https://github.com/HansBug/hbutils/issues/114",
+      "createdAt": "2025-11-11T15:39:54.691Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
