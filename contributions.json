@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762872426222,
+      "repository": "icosa-foundation/icosa-gallery",
+      "issueTitle": "\"try it out\" in api docs for asset lister produces an invalid url",
+      "url": "https://github.com/icosa-foundation/icosa-gallery/issues/187",
+      "createdAt": "2025-11-11T14:47:06.222Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
