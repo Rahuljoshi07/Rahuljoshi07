@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762869315663,
+      "repository": "eurostat/eurostat-map",
+      "issueTitle": "Coxcomb tooltip mousout doesnt work when coxcombRings(false)",
+      "url": "https://github.com/eurostat/eurostat-map/issues/177",
+      "createdAt": "2025-11-11T13:55:15.663Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
