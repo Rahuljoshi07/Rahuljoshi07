@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762856497008,
+      "repository": "tm-a-t/TGPy",
+      "issueTitle": "Reacting to \"TGPy error\" messages tries to evaluate them",
+      "url": "https://github.com/tm-a-t/TGPy/issues/51",
+      "createdAt": "2025-11-11T10:21:37.009Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
