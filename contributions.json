@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762866831157,
+      "repository": "rpsychologist/rpsychologist-com",
+      "issueTitle": "Error messages when I run example code on \"http://127.0.0.1:25808/library/powerlmm/doc/two-level.html\"  see below - Help!",
+      "url": "https://github.com/rpsychologist/rpsychologist-com/issues/79",
+      "createdAt": "2025-11-11T13:13:51.157Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
