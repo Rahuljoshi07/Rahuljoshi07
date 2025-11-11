@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762841749301,
+      "repository": "seud0nym/sigenergy2mqtt",
+      "issueTitle": "AttributeError when using PV string sensors for PVOutput extended data",
+      "url": "https://github.com/seud0nym/sigenergy2mqtt/issues/59",
+      "createdAt": "2025-11-11T06:15:49.301Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
