@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762822858343,
+      "repository": "DataDog/dd-trace-js",
+      "issueTitle": "[BUG]: Cypress test observability does not respect \"test isolation\" in Cypress",
+      "url": "https://github.com/DataDog/dd-trace-js/issues/6884",
+      "createdAt": "2025-11-11T01:00:58.343Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
