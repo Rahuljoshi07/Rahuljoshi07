@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762821986402,
+      "repository": "aws-samples/amazon-dynamodb-labs",
+      "issueTitle": "LADM: Migrate core infrastructure",
+      "url": "https://github.com/aws-samples/amazon-dynamodb-labs/issues/134",
+      "createdAt": "2025-11-11T00:46:26.402Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
