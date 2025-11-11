@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762873422696,
+      "repository": "googleapis/python-aiplatform",
+      "issueTitle": "Function AgentInfo.load_from_agent error when work on multiple agent",
+      "url": "https://github.com/googleapis/python-aiplatform/issues/6111",
+      "createdAt": "2025-11-11T15:03:42.696Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
