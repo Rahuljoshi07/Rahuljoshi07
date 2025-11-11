@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762843326690,
+      "repository": "alpacahq/alpaca-mcp-server",
+      "issueTitle": "I get this error \"request is not authorized\" when using Docker image: ghcr.io/chand1012/alpaca-mcp-server",
+      "url": "https://github.com/alpacahq/alpaca-mcp-server/issues/23",
+      "createdAt": "2025-11-11T06:42:06.690Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
