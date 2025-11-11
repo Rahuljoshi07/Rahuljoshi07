@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762867832559,
+      "repository": "firedrakeproject/firedrake",
+      "issueTitle": "BUG: Cross-mesh interpolation uses the wrong communicators for PETSc objects",
+      "url": "https://github.com/firedrakeproject/firedrake/issues/4709",
+      "createdAt": "2025-11-11T13:30:32.560Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
