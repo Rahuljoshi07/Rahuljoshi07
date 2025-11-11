@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762852434221,
+      "repository": "decentraland/unity-explorer",
+      "issueTitle": "Raycasts that hit an out-of-scene collider should return data",
+      "url": "https://github.com/decentraland/unity-explorer/issues/5324",
+      "createdAt": "2025-11-11T09:13:54.221Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
