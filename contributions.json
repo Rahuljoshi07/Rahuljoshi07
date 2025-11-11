@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762836293811,
+      "repository": "mikejac/node-red-contrib-google-smarthome",
+      "issueTitle": "Error in HttpActions:reportState()",
+      "url": "https://github.com/mikejac/node-red-contrib-google-smarthome/issues/712",
+      "createdAt": "2025-11-11T04:44:53.811Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
