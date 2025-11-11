@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762853766618,
+      "repository": "CycloneDX/cyclonedx-node-npm",
+      "issueTitle": "feat: set devDependencies `component.scope` to `excluded`",
+      "url": "https://github.com/CycloneDX/cyclonedx-node-npm/issues/1151",
+      "createdAt": "2025-11-11T09:36:06.618Z",
+      "type": "comment",
+      "content": "Using a bundler like Webpack or Vite could improve performance. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
