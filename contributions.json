@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762840485430,
-      "repository": "Nexus-Mods/vortex-api",
-      "issueTitle": "Feature request: Make web routes case-insensitive",
-      "url": "https://github.com/Nexus-Mods/vortex-api/issues/39",
-      "createdAt": "2025-11-11T05:54:45.430Z",
+      "id": 1762840517581,
+      "repository": "adobe/helix-deploy",
+      "issueTitle": "AWS Libraries are excluded when deploying to Adobe I/O Runtime, causing initialization errors",
+      "url": "https://github.com/adobe/helix-deploy/issues/667",
+      "createdAt": "2025-11-11T05:55:17.581Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
