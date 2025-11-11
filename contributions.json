@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762875510637,
+      "repository": "neetozone/neeto-editor",
+      "issueTitle": "Formatting Issue in replies",
+      "url": "https://github.com/neetozone/neeto-editor/issues/1663",
+      "createdAt": "2025-11-11T15:38:30.637Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
