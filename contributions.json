@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762822017593,
+      "id": 1762822052635,
       "repository": "nextcloud/forms",
-      "issueTitle": "Erreur lors de la création d'un lien de partage public pour un formulaire",
-      "url": "https://github.com/nextcloud/forms/issues/3017",
-      "createdAt": "2025-11-11T00:46:57.593Z",
+      "issueTitle": "Can't create form : Unknown column 'allow_edit_submissions' in 'field list'",
+      "url": "https://github.com/nextcloud/forms/issues/2954",
+      "createdAt": "2025-11-11T00:47:32.635Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
