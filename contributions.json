@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762824556455,
+      "repository": "Hylozoic/hylo",
+      "issueTitle": "Funding Round - Time adjustment is wonky",
+      "url": "https://github.com/Hylozoic/hylo/issues/1077",
+      "createdAt": "2025-11-11T01:29:16.455Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
