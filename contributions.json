@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762846305574,
+      "repository": "NabuCasa/hass-nabucasa",
+      "issueTitle": "Tons of the same errors",
+      "url": "https://github.com/NabuCasa/hass-nabucasa/issues/976",
+      "createdAt": "2025-11-11T07:31:45.574Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
