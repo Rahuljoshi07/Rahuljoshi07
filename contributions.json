@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762834156247,
+      "repository": "autogluon/autogluon-assistant",
+      "issueTitle": "What happened to the Late October [2025] Performance Enhancement Release?",
+      "url": "https://github.com/autogluon/autogluon-assistant/issues/250",
+      "createdAt": "2025-11-11T04:09:16.247Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
