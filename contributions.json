@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762871549451,
+      "repository": "InternRobotics/InternVLA-M1",
+      "issueTitle": "performance on simplerenv",
+      "url": "https://github.com/InternRobotics/InternVLA-M1/issues/7",
+      "createdAt": "2025-11-11T14:32:29.451Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
