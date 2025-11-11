@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762850404727,
+      "repository": "django-commons/django-tasks-scheduler",
+      "issueTitle": "Autocomplete jobs",
+      "url": "https://github.com/django-commons/django-tasks-scheduler/issues/252",
+      "createdAt": "2025-11-11T08:40:04.728Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. This suggestion is particularly relevant..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
