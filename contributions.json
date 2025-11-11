@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762845028732,
+      "repository": "OP-Archives/MOONMOON-site",
+      "issueTitle": "Issues with both Feb 25 and 27 broadcasts.",
+      "url": "https://github.com/OP-Archives/MOONMOON-site/issues/29",
+      "createdAt": "2025-11-11T07:10:28.732Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
