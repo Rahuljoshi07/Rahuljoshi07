@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762873285824,
+      "repository": "catalyst-cooperative/pudl-archiver",
+      "issueTitle": "`doelead`: Investigate failure of link pattern matching",
+      "url": "https://github.com/catalyst-cooperative/pudl-archiver/issues/925",
+      "createdAt": "2025-11-11T15:01:25.824Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
