@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762874196186,
+      "repository": "Parsl/parsl",
+      "issueTitle": "parsl-visualize gives wrong-looking plot when executes start tasks too fast",
+      "url": "https://github.com/Parsl/parsl/issues/4021",
+      "createdAt": "2025-11-11T15:16:36.186Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
