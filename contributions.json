@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762842917517,
+      "repository": "MagnaCapax/PMSS",
+      "issueTitle": "Additional docker rootless checks",
+      "url": "https://github.com/MagnaCapax/PMSS/issues/8",
+      "createdAt": "2025-11-11T06:35:17.517Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
