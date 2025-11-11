@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762836689875,
+      "repository": "TOSUN-Shanghai/TSMasterDemos",
+      "issueTitle": "TSMasterDevice init error",
+      "url": "https://github.com/TOSUN-Shanghai/TSMasterDemos/issues/4",
+      "createdAt": "2025-11-11T04:51:29.875Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
