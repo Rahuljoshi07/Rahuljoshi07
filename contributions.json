@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762862452162,
+      "repository": "microsoft/semantic-link-labs",
+      "issueTitle": "\"Expected delimiter: \\\" error in tom.generate_measure_descriptions()",
+      "url": "https://github.com/microsoft/semantic-link-labs/issues/949",
+      "createdAt": "2025-11-11T12:00:52.162Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
