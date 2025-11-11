@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762856601470,
+      "repository": "getyoti/yoti-node-sdk",
+      "issueTitle": "yoti Named export 'IDVClient' not found v4.5.1 Issue",
+      "url": "https://github.com/getyoti/yoti-node-sdk/issues/440",
+      "createdAt": "2025-11-11T10:23:21.470Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
