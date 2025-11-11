@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762854026148,
+      "id": 1762854080461,
       "repository": "cboard-org/cboard",
       "issueTitle": "Language settings page freezes on Linux desktop when no TTS voices are available",
       "url": "https://github.com/cboard-org/cboard/issues/2026",
-      "createdAt": "2025-11-11T09:40:26.149Z",
+      "createdAt": "2025-11-11T09:41:20.461Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
