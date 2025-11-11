@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762878401461,
+      "repository": "PennLINC/xcp_d",
+      "issueTitle": "BrokenProcessPool causes failure in make_qc_plots_es",
+      "url": "https://github.com/PennLINC/xcp_d/issues/1512",
+      "createdAt": "2025-11-11T16:26:41.461Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
