@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762824702257,
+      "repository": "cyruzzo/AboveVTT",
+      "issueTitle": "NetworkError when attempting to fetch resource.",
+      "url": "https://github.com/cyruzzo/AboveVTT/issues/3583",
+      "createdAt": "2025-11-11T01:31:42.257Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
