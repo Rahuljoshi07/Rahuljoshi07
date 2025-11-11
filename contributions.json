@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762820435016,
+      "repository": "nasa/opera-sds-pcm",
+      "issueTitle": "[Bug]: Many deduped download jobs getting into system",
+      "url": "https://github.com/nasa/opera-sds-pcm/issues/1291",
+      "createdAt": "2025-11-11T00:20:35.016Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
