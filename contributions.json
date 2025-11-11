@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762838396060,
+      "repository": "flattool/warehouse",
+      "issueTitle": "[Bug] Warehouse-flatpak doesn't show in the snapshots menu.",
+      "url": "https://github.com/flattool/warehouse/issues/211",
+      "createdAt": "2025-11-11T05:19:56.060Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
