@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762976134031,
+      "repository": "topmonks/hlidac-shopu",
+      "issueTitle": "Datart extension bug - missing slug for some products",
+      "url": "https://github.com/topmonks/hlidac-shopu/issues/3418",
+      "createdAt": "2025-11-12T19:35:34.031Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
