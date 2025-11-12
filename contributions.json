@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762947318794,
+      "repository": "hiero-ledger/hiero-sdk-js",
+      "issueTitle": "[Error: no PRNG] on React Native Expo 53",
+      "url": "https://github.com/hiero-ledger/hiero-sdk-js/issues/3520",
+      "createdAt": "2025-11-12T11:35:18.794Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
