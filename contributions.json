@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762979633701,
-      "repository": "bogeeee/pve-manager-electrified",
-      "issueTitle": "`Bug`: Kernel Trace - pve-firewall",
-      "url": "https://github.com/bogeeee/pve-manager-electrified/issues/2",
-      "createdAt": "2025-11-12T20:33:53.701Z",
+      "id": 1762979715892,
+      "repository": "behave/behave-django",
+      "issueTitle": "Recursion error on `django.conf.UserSettingsHolder.__getattr__` (or other) since Django 4.1 after many feature tests on PostgreSQL DB",
+      "url": "https://github.com/behave/behave-django/issues/164",
+      "createdAt": "2025-11-12T20:35:15.892Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
     }
   ],
   "stats": {
