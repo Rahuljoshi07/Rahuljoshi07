@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762945894032,
+      "repository": "KernelTuner/kernel_tuner",
+      "issueTitle": "Changes to restrictions are not backwards compatible",
+      "url": "https://github.com/KernelTuner/kernel_tuner/issues/333",
+      "createdAt": "2025-11-12T11:11:34.032Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
