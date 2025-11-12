@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762932200540,
+      "repository": "crlngn/crlngn-ui",
+      "issueTitle": "Players cannot see navigable scenes in scene nav",
+      "url": "https://github.com/crlngn/crlngn-ui/issues/162",
+      "createdAt": "2025-11-12T07:23:20.541Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
