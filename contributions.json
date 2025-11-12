@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1762978742123,
-      "repository": "behave/behave-django",
-      "issueTitle": "Recursion error on `django.conf.UserSettingsHolder.__getattr__` (or other) since Django 4.1 after many feature tests on PostgreSQL DB",
-      "url": "https://github.com/behave/behave-django/issues/164",
-      "createdAt": "2025-11-12T20:19:02.123Z",
-      "type": "comment",
-      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
