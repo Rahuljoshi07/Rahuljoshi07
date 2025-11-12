@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762966439819,
+      "repository": "cta-observatory/ctapipe",
+      "issueTitle": "Merging pixel stats of same event type breaks trigger table logic",
+      "url": "https://github.com/cta-observatory/ctapipe/issues/2890",
+      "createdAt": "2025-11-12T16:53:59.819Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
