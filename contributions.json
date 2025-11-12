@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762979595927,
+      "repository": "bogeeee/pve-manager-electrified",
+      "issueTitle": "`Bug`: Kernel Trace - pve-firewall",
+      "url": "https://github.com/bogeeee/pve-manager-electrified/issues/2",
+      "createdAt": "2025-11-12T20:33:15.927Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
