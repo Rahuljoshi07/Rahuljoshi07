@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762939214614,
+      "repository": "CycloneDX/cyclonedx-webpack-plugin",
+      "issueTitle": "Option to Suppress or Control Log Output (e.g., \"skipped Component from PkgPath\")",
+      "url": "https://github.com/CycloneDX/cyclonedx-webpack-plugin/issues/1395",
+      "createdAt": "2025-11-12T09:20:14.614Z",
+      "type": "comment",
+      "content": "Using a bundler like Webpack or Vite could improve performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
