@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762983530337,
+      "repository": "PrismarineJS/prismarine-nbt",
+      "issueTitle": "TypeScript noImplicitAny Errors",
+      "url": "https://github.com/PrismarineJS/prismarine-nbt/issues/111",
+      "createdAt": "2025-11-12T21:38:50.337Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
