@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762929547140,
+      "repository": "vipshop/cache-dit",
+      "issueTitle": "[bug] The tensor parallelism is slow and the memory of a single card has not been reduced.",
+      "url": "https://github.com/vipshop/cache-dit/issues/403",
+      "createdAt": "2025-11-12T06:39:07.140Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
