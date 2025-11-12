@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762956485790,
+      "repository": "duorua/narutomobile",
+      "issueTitle": "分享后关闭速度过快，qq还没打开就进行返回，导致偶发性卡住",
+      "url": "https://github.com/duorua/narutomobile/issues/92",
+      "createdAt": "2025-11-12T14:08:05.790Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
