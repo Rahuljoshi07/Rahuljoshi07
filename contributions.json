@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762965698331,
+      "repository": "ipspace/netlab",
+      "issueTitle": "[BUG] Ansible 12 is completely borked",
+      "url": "https://github.com/ipspace/netlab/issues/2768",
+      "createdAt": "2025-11-12T16:41:38.331Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
