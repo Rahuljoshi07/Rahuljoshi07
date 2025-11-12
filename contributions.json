@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762954820510,
+      "repository": "jverneaut/html-to-gutenberg",
+      "issueTitle": "Rebuild on dependencies file change",
+      "url": "https://github.com/jverneaut/html-to-gutenberg/issues/119",
+      "createdAt": "2025-11-12T13:40:20.510Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
