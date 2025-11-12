@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762953899271,
+      "repository": "CarbonPackages/Carbon.Pipeline",
+      "issueTitle": "Add build configuration to Site package instead of project root",
+      "url": "https://github.com/CarbonPackages/Carbon.Pipeline/issues/33",
+      "createdAt": "2025-11-12T13:24:59.272Z",
+      "type": "comment",
+      "content": "Using a bundler like Webpack or Vite could improve performance. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
