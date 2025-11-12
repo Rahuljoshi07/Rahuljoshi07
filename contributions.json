@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762947907027,
+      "repository": "octue/django-gcp",
+      "issueTitle": "Alter styling for django-unfold 0.56+",
+      "url": "https://github.com/octue/django-gcp/issues/83",
+      "createdAt": "2025-11-12T11:45:07.027Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
