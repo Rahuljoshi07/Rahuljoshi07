@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762953186399,
+      "repository": "cap-js-community/event-queue",
+      "issueTitle": "feat: instead of lazy init, check cds env for CAP outbox services to always have the config available",
+      "url": "https://github.com/cap-js-community/event-queue/issues/352",
+      "createdAt": "2025-11-12T13:13:06.399Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
