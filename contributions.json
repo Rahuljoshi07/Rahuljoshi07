@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762928137733,
+      "repository": "wemake-services/django-modern-rest",
+      "issueTitle": "Design SSE: server side event streaming",
+      "url": "https://github.com/wemake-services/django-modern-rest/issues/188",
+      "createdAt": "2025-11-12T06:15:37.733Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
