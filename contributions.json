@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762957917708,
+      "repository": "splunk/splunk-sdk-python",
+      "issueTitle": "JSONResultsReader iterator called on oneshot search does not iterate with for loop.",
+      "url": "https://github.com/splunk/splunk-sdk-python/issues/678",
+      "createdAt": "2025-11-12T14:31:57.708Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
