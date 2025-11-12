@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762926150946,
+      "repository": "Heartestrella/NeoSSH",
+      "issueTitle": "文件管理器双击编辑过快会清空远端文件内容",
+      "url": "https://github.com/Heartestrella/NeoSSH/issues/40",
+      "createdAt": "2025-11-12T05:42:30.946Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
