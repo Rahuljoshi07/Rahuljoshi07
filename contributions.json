@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762973055649,
+      "repository": "bdaiinstitute/synchros2",
+      "issueTitle": "intermittent error generated in wait_for_message",
+      "url": "https://github.com/bdaiinstitute/synchros2/issues/60",
+      "createdAt": "2025-11-12T18:44:15.649Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
