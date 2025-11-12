@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762971417172,
+      "repository": "BenPru/luxtronik",
+      "issueTitle": "Unable to update room thermostat impact factor",
+      "url": "https://github.com/BenPru/luxtronik/issues/470",
+      "createdAt": "2025-11-12T18:16:57.172Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
