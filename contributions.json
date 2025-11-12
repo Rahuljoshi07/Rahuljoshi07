@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762933561948,
+      "repository": "node-oauth/node-oauth2-server",
+      "issueTitle": "Types for the `OAuth2Server` class does not include the `options` property",
+      "url": "https://github.com/node-oauth/node-oauth2-server/issues/377",
+      "createdAt": "2025-11-12T07:46:01.948Z",
+      "type": "comment",
+      "content": "Adding TypeScript could improve code quality and maintainability. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
