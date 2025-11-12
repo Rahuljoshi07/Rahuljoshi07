@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762964234899,
+      "repository": "nextcloud/activity",
+      "issueTitle": "User gets a notification mail every 5 minutes",
+      "url": "https://github.com/nextcloud/activity/issues/2120",
+      "createdAt": "2025-11-12T16:17:14.900Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
