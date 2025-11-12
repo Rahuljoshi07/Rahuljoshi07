@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762969994009,
+      "repository": "asfadmin/Discovery-asf_search",
+      "issueTitle": "[Bug] Authentication issues with asf_search.ASFSession.auth_with_creds()",
+      "url": "https://github.com/asfadmin/Discovery-asf_search/issues/396",
+      "createdAt": "2025-11-12T17:53:14.009Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
