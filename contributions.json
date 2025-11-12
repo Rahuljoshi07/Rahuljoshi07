@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762971967649,
+      "repository": "behave/behave-django",
+      "issueTitle": "Recursion error on `django.conf.UserSettingsHolder.__getattr__` (or other) since Django 4.1 after many feature tests on PostgreSQL DB",
+      "url": "https://github.com/behave/behave-django/issues/164",
+      "createdAt": "2025-11-12T18:26:07.649Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
