@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762977483181,
+      "repository": "NVIDIA/NVFlare",
+      "issueTitle": "[Potential Bug?] Aborting flare jobs that use flower",
+      "url": "https://github.com/NVIDIA/NVFlare/issues/3822",
+      "createdAt": "2025-11-12T19:58:03.181Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
