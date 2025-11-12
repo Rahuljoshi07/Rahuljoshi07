@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762910400131,
+      "repository": "Harbour-Enterprises/SuperDoc",
+      "issueTitle": "wait too long when load more than 200 pages(more than 60 seconds), when switch browser tab, it will become white screen",
+      "url": "https://github.com/Harbour-Enterprises/SuperDoc/issues/1183",
+      "createdAt": "2025-11-12T01:20:00.131Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
