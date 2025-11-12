@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762954391950,
+      "repository": "LeonNagant/MaaGF1_Test",
+      "issueTitle": "8-1n循环这个脚本无法强化装备，另外右上角机场切换重装部队时建议加个延迟，不然容易卡界面",
+      "url": "https://github.com/LeonNagant/MaaGF1_Test/issues/139",
+      "createdAt": "2025-11-12T13:33:11.951Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
