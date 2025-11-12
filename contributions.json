@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762985655358,
+      "repository": "nodejs/create-node-meeting-artifacts",
+      "issueTitle": "TODO: use template for issue",
+      "url": "https://github.com/nodejs/create-node-meeting-artifacts/issues/3",
+      "createdAt": "2025-11-12T22:14:15.358Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
