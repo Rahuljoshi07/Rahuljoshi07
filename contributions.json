@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762951684857,
+      "repository": "CERNDocumentServer/cds-videos",
+      "issueTitle": "consolidate search mappings between ALL environments",
+      "url": "https://github.com/CERNDocumentServer/cds-videos/issues/2141",
+      "createdAt": "2025-11-12T12:48:04.857Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
