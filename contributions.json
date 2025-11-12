@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762962117514,
+      "repository": "cylc/cylc-ui",
+      "issueTitle": "workflows: indicate held and retrying tasks",
+      "url": "https://github.com/cylc/cylc-ui/issues/2350",
+      "createdAt": "2025-11-12T15:41:57.514Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
