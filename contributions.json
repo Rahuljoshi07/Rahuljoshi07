@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762937904284,
+      "repository": "stratosphereips/stratocyberlab",
+      "issueTitle": "[BUG] After downloading a new model with the manage window open, it does not refresh the manage window",
+      "url": "https://github.com/stratosphereips/stratocyberlab/issues/46",
+      "createdAt": "2025-11-12T08:58:24.284Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
