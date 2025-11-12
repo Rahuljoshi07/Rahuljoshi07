@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762969482682,
+      "repository": "open-cogsci/OpenSesame",
+      "issueTitle": "clock.time() intermittently returns 0 during experiment runtime (legacy and xpyriment backends)",
+      "url": "https://github.com/open-cogsci/OpenSesame/issues/826",
+      "createdAt": "2025-11-12T17:44:42.682Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
