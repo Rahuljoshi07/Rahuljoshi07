@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762977362462,
+      "repository": "livepeer/ai-runner",
+      "issueTitle": "streamdiffusion sdxl - Error in monitor loop (stuck worker)",
+      "url": "https://github.com/livepeer/ai-runner/issues/835",
+      "createdAt": "2025-11-12T19:56:02.462Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
