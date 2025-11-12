@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762986941006,
+      "repository": "hiero-ledger/hiero-sdk-js",
+      "issueTitle": "Investigate and Improve SDK Handling of 504 (Gateway Timeout) Errors in Mirror Node gRPC (Node.js)",
+      "url": "https://github.com/hiero-ledger/hiero-sdk-js/issues/3485",
+      "createdAt": "2025-11-12T22:35:41.006Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
