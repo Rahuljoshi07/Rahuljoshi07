@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1762932200540,
-      "repository": "crlngn/crlngn-ui",
-      "issueTitle": "Players cannot see navigable scenes in scene nav",
-      "url": "https://github.com/crlngn/crlngn-ui/issues/162",
-      "createdAt": "2025-11-12T07:23:20.541Z",
+      "id": 1762932256766,
+      "repository": "dvt3d/dc-sdk",
+      "issueTitle": "示例tools_plot.html线和面创建结束后出现 Uncaught RangeError: Maximum call stack size exceeded",
+      "url": "https://github.com/dvt3d/dc-sdk/issues/221",
+      "createdAt": "2025-11-12T07:24:16.766Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
