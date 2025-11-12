@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1762911514497,
-      "repository": "dragino/dragino-end-node-decoder",
-      "issueTitle": "LC01 decoder issues",
-      "url": "https://github.com/dragino/dragino-end-node-decoder/issues/37",
-      "createdAt": "2025-11-12T01:38:34.497Z",
+      "id": 1762911586427,
+      "repository": "nextcloud/tables",
+      "issueTitle": "Input behaviour broken for numbers with defined min/max values",
+      "url": "https://github.com/nextcloud/tables/issues/2154",
+      "createdAt": "2025-11-12T01:39:46.427Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
