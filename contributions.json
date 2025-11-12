@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762930440813,
+      "repository": "ai-shifu/ai-shifu",
+      "issueTitle": "[Bug]cook未配置登陆，C端返回了登陆按钮",
+      "url": "https://github.com/ai-shifu/ai-shifu/issues/938",
+      "createdAt": "2025-11-12T06:54:00.813Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
