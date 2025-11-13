@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762991992164,
+      "repository": "Teakinboyewa/SpatialAnalysisAgent",
+      "issueTitle": "FileNotFoundError on Linux",
+      "url": "https://github.com/Teakinboyewa/SpatialAnalysisAgent/issues/21",
+      "createdAt": "2025-11-12T23:59:52.164Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
