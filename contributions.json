@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762999111609,
+      "repository": "cartesia-ai/cartesia-python",
+      "issueTitle": "Update Voice raises PydanticValidation error",
+      "url": "https://github.com/cartesia-ai/cartesia-python/issues/35",
+      "createdAt": "2025-11-13T01:58:31.609Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
