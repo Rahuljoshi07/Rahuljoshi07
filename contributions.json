@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1763004264364,
+      "id": 1763004309230,
       "repository": "AIGNE-io/aigne-web-smith",
-      "issueTitle": "[bug] 应用启动后，没有自动启动子组件",
-      "url": "https://github.com/AIGNE-io/aigne-web-smith/issues/202",
-      "createdAt": "2025-11-13T03:24:24.364Z",
+      "issueTitle": "[bug] ctrl + c 的时候，不应该报错，而是仅退出即可",
+      "url": "https://github.com/AIGNE-io/aigne-web-smith/issues/160",
+      "createdAt": "2025-11-13T03:25:09.231Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
