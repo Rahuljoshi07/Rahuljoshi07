@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763003796373,
+      "repository": "tn3w/flask-Humanify",
+      "issueTitle": "(Suspected) Race condition in dataset loading and error in error handler",
+      "url": "https://github.com/tn3w/flask-Humanify/issues/19",
+      "createdAt": "2025-11-13T03:16:36.373Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
