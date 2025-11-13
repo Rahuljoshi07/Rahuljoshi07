@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762993669687,
+      "repository": "bartfeenstra/betty",
+      "issueTitle": "The breadcrumb for file pages points to a non-existent path",
+      "url": "https://github.com/bartfeenstra/betty/issues/3074",
+      "createdAt": "2025-11-13T00:27:49.687Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
