@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762996970826,
+      "repository": "NASA-AMMOS/MMGIS",
+      "issueTitle": "[Bug]: Cannot configure or enable MMGIS Copilot",
+      "url": "https://github.com/NASA-AMMOS/MMGIS/issues/799",
+      "createdAt": "2025-11-13T01:22:50.826Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
