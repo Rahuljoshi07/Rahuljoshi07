@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763007105003,
+      "repository": "ROCm/TheRock",
+      "issueTitle": "[issues] gfx-120X-all pytorch test failing on python 3.12 torch 2.7",
+      "url": "https://github.com/ROCm/TheRock/issues/2120",
+      "createdAt": "2025-11-13T04:11:45.003Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
