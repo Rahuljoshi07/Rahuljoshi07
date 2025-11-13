@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1762996448696,
+      "repository": "Basekick-Labs/arc",
+      "issueTitle": "Investigate worst results query 1, 2 and 3 in ClickBench",
+      "url": "https://github.com/Basekick-Labs/arc/issues/20",
+      "createdAt": "2025-11-13T01:14:08.696Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
