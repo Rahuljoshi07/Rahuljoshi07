@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763000495471,
+      "repository": "KeithCu/LinuxReport",
+      "issueTitle": "feedfilter.py use ML",
+      "url": "https://github.com/KeithCu/LinuxReport/issues/22",
+      "createdAt": "2025-11-13T02:21:35.471Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
