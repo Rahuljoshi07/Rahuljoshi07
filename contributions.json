@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763081590186,
+      "repository": "w3c/webref",
+      "issueTitle": "`<shape-command>` is missing definitions",
+      "url": "https://github.com/w3c/webref/issues/1720",
+      "createdAt": "2025-11-14T00:53:10.186Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
