@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763175092798,
+      "repository": "maniacx/Bluetooth-Battery-Meter",
+      "issueTitle": "[bug] Battery indicator not showing up when a new device is connected",
+      "url": "https://github.com/maniacx/Bluetooth-Battery-Meter/issues/87",
+      "createdAt": "2025-11-15T02:51:32.798Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
