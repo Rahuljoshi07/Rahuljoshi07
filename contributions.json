@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1763199657270,
+      "id": 1763199687489,
       "repository": "Itsukichann/Baileys",
-      "issueTitle": "TypeError: makeWASocket is not a function",
-      "url": "https://github.com/Itsukichann/Baileys/issues/60",
-      "createdAt": "2025-11-15T09:40:57.270Z",
+      "issueTitle": "TypeError: Cannot read properties of undefined (reading 'actor') when group enables invite via link",
+      "url": "https://github.com/Itsukichann/Baileys/issues/62",
+      "createdAt": "2025-11-15T09:41:27.489Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
