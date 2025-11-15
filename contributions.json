@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763187789886,
+      "repository": "hackademix/nscl",
+      "issueTitle": "TypeError: can't access dead object in patchWindow.js",
+      "url": "https://github.com/hackademix/nscl/issues/4",
+      "createdAt": "2025-11-15T06:23:09.886Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
