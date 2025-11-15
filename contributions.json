@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1763196148531,
-      "repository": "fails-components/webtransport",
-      "issueTitle": "Writing new Uint8Array() causes server freeze with quic_bug_10586_6: span.empty() && !fin",
-      "url": "https://github.com/fails-components/webtransport/issues/365",
-      "createdAt": "2025-11-15T08:42:28.531Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
