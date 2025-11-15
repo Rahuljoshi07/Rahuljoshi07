@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763172651832,
+      "repository": "ClearskyApp06/ClearskyUI",
+      "issueTitle": "error handling from backend",
+      "url": "https://github.com/ClearskyApp06/ClearskyUI/issues/81",
+      "createdAt": "2025-11-15T02:10:51.832Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
