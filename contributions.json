@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763204276017,
+      "repository": "adrianjost/files-sync-action",
+      "issueTitle": "Unable to find files from SRC_REPO Branch ",
+      "url": "https://github.com/adrianjost/files-sync-action/issues/131",
+      "createdAt": "2025-11-15T10:57:56.017Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
