@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763170778520,
+      "repository": "nextcloud/tasks",
+      "issueTitle": "Task list cannot load when using multiple nextcloud instances",
+      "url": "https://github.com/nextcloud/tasks/issues/2909",
+      "createdAt": "2025-11-15T01:39:38.521Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
