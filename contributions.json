@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763200698257,
+      "repository": "MoegirlPediaInterfaceAdmins/MoegirlPediaInterfaceCodes",
+      "issueTitle": "外部链接提示在触摸屏上与黑幕中链接需要二次点击冲突",
+      "url": "https://github.com/MoegirlPediaInterfaceAdmins/MoegirlPediaInterfaceCodes/issues/708",
+      "createdAt": "2025-11-15T09:58:18.257Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
