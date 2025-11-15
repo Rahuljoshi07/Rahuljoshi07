@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763180246885,
+      "repository": "ArnaudBuchholz/ui5-test-runner",
+      "issueTitle": "Check the test error",
+      "url": "https://github.com/ArnaudBuchholz/ui5-test-runner/issues/141",
+      "createdAt": "2025-11-15T04:17:26.885Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
