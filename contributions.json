@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763189212680,
+      "repository": "Vaskivskyi/ha-asusrouter",
+      "issueTitle": "[Bug] Asus GT-BE98 client tracking fails for Wi-Fi 7 devices",
+      "url": "https://github.com/Vaskivskyi/ha-asusrouter/issues/1030",
+      "createdAt": "2025-11-15T06:46:52.680Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
