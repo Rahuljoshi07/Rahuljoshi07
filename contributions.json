@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763174773677,
+      "id": 1763174807442,
       "repository": "visjs/vis-graph3d",
-      "issueTitle": "z-axis position",
-      "url": "https://github.com/visjs/vis-graph3d/issues/695",
-      "createdAt": "2025-11-15T02:46:13.677Z",
+      "issueTitle": " 0th data is empty when changing to line style with setoptions",
+      "url": "https://github.com/visjs/vis-graph3d/issues/855",
+      "createdAt": "2025-11-15T02:46:47.442Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
