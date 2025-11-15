@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1763169520328,
-      "repository": "vZome/vzome",
-      "issueTitle": "Timing issue causes white error screen in online vZome",
-      "url": "https://github.com/vZome/vzome/issues/953",
-      "createdAt": "2025-11-15T01:18:40.328Z",
+      "id": 1763169556706,
+      "repository": "nextcloud/notifications",
+      "issueTitle": "[5.0.0-dev] Since NC32: Controller OCA\\Notifications\\Controller\\EndpointController::listNotifications executed 121 queries.",
+      "url": "https://github.com/nextcloud/notifications/issues/2508",
+      "createdAt": "2025-11-15T01:19:16.706Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
