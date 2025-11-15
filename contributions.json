@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763200865068,
+      "repository": "nextcloud/tasks",
+      "issueTitle": "[Feature request] New due-date time entry is slow",
+      "url": "https://github.com/nextcloud/tasks/issues/2962",
+      "createdAt": "2025-11-15T10:01:05.068Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
