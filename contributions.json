@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763188945905,
+      "id": 1763188979038,
       "repository": "imharvol/mineflayer-web-inventory",
       "issueTitle": "Error with items",
       "url": "https://github.com/imharvol/mineflayer-web-inventory/issues/57",
-      "createdAt": "2025-11-15T06:42:25.905Z",
+      "createdAt": "2025-11-15T06:42:59.038Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
