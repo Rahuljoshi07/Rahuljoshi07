@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763190764528,
+      "repository": "nextcloud/tasks",
+      "issueTitle": "incorrect syntax check and linking → @test@test.com (not email address)",
+      "url": "https://github.com/nextcloud/tasks/issues/2828",
+      "createdAt": "2025-11-15T07:12:44.529Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
