@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763193104939,
+      "repository": "ThomazPom/Moz-Ext-UltimaDark",
+      "issueTitle": "Leekduck Events site doesn't load images correctly",
+      "url": "https://github.com/ThomazPom/Moz-Ext-UltimaDark/issues/170",
+      "createdAt": "2025-11-15T07:51:44.939Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
