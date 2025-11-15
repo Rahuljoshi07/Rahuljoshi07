@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763173497670,
+      "repository": "teia-community/teia-ui",
+      "issueTitle": "[feat] check sanity of rpc node during minting phase",
+      "url": "https://github.com/teia-community/teia-ui/issues/309",
+      "createdAt": "2025-11-15T02:24:57.670Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
