@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763207412064,
+      "repository": "repsac-by/gnome-shell-extension-quake-mode",
+      "issueTitle": "Ubuntu 22.04 + Wayland -> Tilix sometimes get stuck in quake mode",
+      "url": "https://github.com/repsac-by/gnome-shell-extension-quake-mode/issues/51",
+      "createdAt": "2025-11-15T11:50:12.064Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
