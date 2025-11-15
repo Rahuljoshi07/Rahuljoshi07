@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763195285583,
+      "repository": "terminusdb/terminusdb-client-python",
+      "issueTitle": "Document IDs encoded server side on set, not on get",
+      "url": "https://github.com/terminusdb/terminusdb-client-python/issues/419",
+      "createdAt": "2025-11-15T08:28:05.583Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
