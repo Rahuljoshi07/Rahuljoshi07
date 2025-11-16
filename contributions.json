@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763294819132,
+      "repository": "w00000dy/WLED-GUI",
+      "issueTitle": "unable to back out after updating a device",
+      "url": "https://github.com/w00000dy/WLED-GUI/issues/28",
+      "createdAt": "2025-11-16T12:06:59.132Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
