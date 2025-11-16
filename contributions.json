@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763333450898,
+      "repository": "sosreport/sos",
+      "issueTitle": "[filesys] issues: archive bloating and plugin timeouts",
+      "url": "https://github.com/sosreport/sos/issues/3965",
+      "createdAt": "2025-11-16T22:50:50.899Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
