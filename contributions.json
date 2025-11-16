@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763315369017,
+      "repository": "scikit-package/scikit-package",
+      "issueTitle": "bug: find a way to support pip installed dependencies when we release packages to conda forge",
+      "url": "https://github.com/scikit-package/scikit-package/issues/639",
+      "createdAt": "2025-11-16T17:49:29.017Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
