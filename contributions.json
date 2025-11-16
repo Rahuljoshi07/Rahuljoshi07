@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763259897159,
+      "repository": "sawyerf/Castafiore",
+      "issueTitle": "Music playback failed",
+      "url": "https://github.com/sawyerf/Castafiore/issues/79",
+      "createdAt": "2025-11-16T02:24:57.160Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
