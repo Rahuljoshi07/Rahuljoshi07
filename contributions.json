@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763284940919,
+      "repository": "kiwix/kiwix-js",
+      "issueTitle": "Critical error detecting online implementation of browserextension PWA in Chromium extensions",
+      "url": "https://github.com/kiwix/kiwix-js/issues/1398",
+      "createdAt": "2025-11-16T09:22:20.920Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
