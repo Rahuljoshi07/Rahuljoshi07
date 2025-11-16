@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763304558084,
+      "repository": "zestedesavoir/zds-site",
+      "issueTitle": "Les mails sont mal configurés et renvoient une alerte de sécurité",
+      "url": "https://github.com/zestedesavoir/zds-site/issues/6737",
+      "createdAt": "2025-11-16T14:49:18.084Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
