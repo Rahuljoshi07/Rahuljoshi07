@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763272277684,
+      "repository": "dart-native/codegen",
+      "issueTitle": "Huge no. of errors running code gen on AVFoundation",
+      "url": "https://github.com/dart-native/codegen/issues/44",
+      "createdAt": "2025-11-16T05:51:17.684Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. (Suggested by R..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
