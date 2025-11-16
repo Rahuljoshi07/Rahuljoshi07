@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763328972752,
+      "repository": "cuttle-cards/cuttle",
+      "issueTitle": "[DevEx]: Prevent unscoped `<style>` blocks with eslint rule enforce-style-attribute",
+      "url": "https://github.com/cuttle-cards/cuttle/issues/1293",
+      "createdAt": "2025-11-16T21:36:12.752Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
