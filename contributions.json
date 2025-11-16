@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763284179693,
+      "repository": "ai-shifu/ai-shifu",
+      "issueTitle": "[Bug] 一节学完后，该节的追问不可用，输入问题没有输出结果",
+      "url": "https://github.com/ai-shifu/ai-shifu/issues/941",
+      "createdAt": "2025-11-16T09:09:39.693Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
