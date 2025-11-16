@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763293109138,
+      "repository": "mrimsu/mrim-server",
+      "issueTitle": "Переход на TypeScript/Окончательный рефакторинг",
+      "url": "https://github.com/mrimsu/mrim-server/issues/11",
+      "createdAt": "2025-11-16T11:38:29.138Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
