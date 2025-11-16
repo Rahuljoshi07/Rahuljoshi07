@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763256066380,
+      "repository": "nextcloud/photos",
+      "issueTitle": "New photos or videos not displayed in \"All Media\"; new Photos not displayed in \"Photos\"; new videos ARE displayed in \"Videos\"",
+      "url": "https://github.com/nextcloud/photos/issues/2768",
+      "createdAt": "2025-11-16T01:21:06.380Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
