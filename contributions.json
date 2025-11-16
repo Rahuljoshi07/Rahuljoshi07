@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763274505995,
+      "id": 1763274568776,
       "repository": "Harshdev625/SDEverse",
       "issueTitle": "About\" Page Throws Unexpected Application Error (404 Not Found)",
       "url": "https://github.com/Harshdev625/SDEverse/issues/322",
-      "createdAt": "2025-11-16T06:28:25.995Z",
+      "createdAt": "2025-11-16T06:29:28.776Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
