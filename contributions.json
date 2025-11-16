@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763277987940,
+      "repository": "hcoona/hexo-renderer-asciidoc",
+      "issueTitle": "Upgrade from version 1 to version 2 does not build and does not error.",
+      "url": "https://github.com/hcoona/hexo-renderer-asciidoc/issues/31",
+      "createdAt": "2025-11-16T07:26:27.940Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
