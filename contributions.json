@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763274439214,
+      "repository": "GenderDysphoria/GenderDysphoria.fyi",
+      "issueTitle": "Factual error in second-puberty-masc.md",
+      "url": "https://github.com/GenderDysphoria/GenderDysphoria.fyi/issues/187",
+      "createdAt": "2025-11-16T06:27:19.214Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
