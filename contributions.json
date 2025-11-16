@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763333020687,
+      "repository": "kyuz0/amd-strix-halo-toolboxes",
+      "issueTitle": "FYI Toolbox conflicts with virtualbox on fedora 43 (and provides an unhelpful error messge) [with solution]",
+      "url": "https://github.com/kyuz0/amd-strix-halo-toolboxes/issues/27",
+      "createdAt": "2025-11-16T22:43:40.687Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
