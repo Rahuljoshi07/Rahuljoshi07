@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763278165579,
+      "repository": "hcoona/hexo-renderer-asciidoc",
+      "issueTitle": "Upgrade from version 1 to version 2 does not build and does not error.",
+      "url": "https://github.com/hcoona/hexo-renderer-asciidoc/issues/31",
+      "createdAt": "2025-11-16T07:29:25.579Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
