@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763322000262,
+      "repository": "Elinvention/gnome-shell-extension-nasa-apod",
+      "issueTitle": "HTTP error 404 from APOD API",
+      "url": "https://github.com/Elinvention/gnome-shell-extension-nasa-apod/issues/34",
+      "createdAt": "2025-11-16T19:40:00.262Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
