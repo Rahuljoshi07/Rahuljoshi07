@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763255555490,
+      "repository": "nextcloud/mail",
+      "issueTitle": "Redeclaration problem causing mail to fail on update if recognize is installed.",
+      "url": "https://github.com/nextcloud/mail/issues/12035",
+      "createdAt": "2025-11-16T01:12:35.490Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
