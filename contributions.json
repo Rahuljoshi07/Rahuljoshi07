@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763335942512,
+      "id": 1763336003463,
       "repository": "noam-sc/thunderbird-auto-profile-picture",
-      "issueTitle": "[Enhancement] Customize provider priority",
-      "url": "https://github.com/noam-sc/thunderbird-auto-profile-picture/issues/9",
-      "createdAt": "2025-11-16T23:32:22.512Z",
+      "issueTitle": "[BUG] Sender/icon in inbox not correctly updated when mails shift up or down",
+      "url": "https://github.com/noam-sc/thunderbird-auto-profile-picture/issues/17",
+      "createdAt": "2025-11-16T23:33:23.463Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
