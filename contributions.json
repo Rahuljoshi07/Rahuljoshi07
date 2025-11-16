@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763268878922,
+      "repository": "gr2m/universal-github-app-jwt",
+      "issueTitle": "Throw helpful error if `privateKey` is set to only the first line, e.g. `-----BEGIN RSA PRIVATE KEY-----`",
+      "url": "https://github.com/gr2m/universal-github-app-jwt/issues/71",
+      "createdAt": "2025-11-16T04:54:38.923Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
