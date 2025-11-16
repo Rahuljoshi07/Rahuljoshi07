@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763262664413,
+      "repository": "cardenluo/ComfyUI-Apt_Preset",
+      "issueTitle": "load_nunchaku reports an error！",
+      "url": "https://github.com/cardenluo/ComfyUI-Apt_Preset/issues/58",
+      "createdAt": "2025-11-16T03:11:04.413Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
