@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763292050427,
+      "repository": "supermihi/pytaglib",
+      "issueTitle": "Attempting to install venv on Mac OS 15.4 (ARM) gives 'Bad CRC-32 for file 'taglib.cpython-313-darwin.so' error",
+      "url": "https://github.com/supermihi/pytaglib/issues/158",
+      "createdAt": "2025-11-16T11:20:50.427Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
