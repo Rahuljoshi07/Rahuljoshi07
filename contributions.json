@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763305357457,
+      "repository": "zopefoundation/AccessControl",
+      "issueTitle": "private \"special\" methods can be (indirectly) accessed by untrusted code",
+      "url": "https://github.com/zopefoundation/AccessControl/issues/98",
+      "createdAt": "2025-11-16T15:02:37.457Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
