@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763283123540,
+      "repository": "paed01/bpmn-elements",
+      "issueTitle": "Performance issues with bigger bpmn files",
+      "url": "https://github.com/paed01/bpmn-elements/issues/42",
+      "createdAt": "2025-11-16T08:52:03.540Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
