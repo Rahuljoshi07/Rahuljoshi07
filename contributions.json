@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763322490598,
+      "repository": "i18next/i18next-http-middleware",
+      "issueTitle": "fallbackLng does not support object type at i18next-http-middleware version 3.8.1 any more",
+      "url": "https://github.com/i18next/i18next-http-middleware/issues/92",
+      "createdAt": "2025-11-16T19:48:10.599Z",
+      "type": "comment",
+      "content": "Adding TypeScript could improve code quality and maintainability. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
