@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763393241583,
+      "repository": "ing-bank/ordeq",
+      "issueTitle": "ordeq-dask",
+      "url": "https://github.com/ing-bank/ordeq/issues/337",
+      "createdAt": "2025-11-17T15:27:21.583Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
