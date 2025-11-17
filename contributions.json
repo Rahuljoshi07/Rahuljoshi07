@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763375296894,
+      "repository": "Second-Hand-Friends/kleinanzeigen-bot",
+      "issueTitle": "[BUG] [FEHLER] TimeoutError: No HTML element found using XPath '//dialog//button[contains(., \"Andere Versandmethoden\")]' within 11.25 seconds.",
+      "url": "https://github.com/Second-Hand-Friends/kleinanzeigen-bot/issues/687",
+      "createdAt": "2025-11-17T10:28:16.894Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
