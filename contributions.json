@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763419686066,
+      "repository": "adamchainz/django-mysql",
+      "issueTitle": "Add way to support Column Prefix Key Parts",
+      "url": "https://github.com/adamchainz/django-mysql/issues/1114",
+      "createdAt": "2025-11-17T22:48:06.066Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
