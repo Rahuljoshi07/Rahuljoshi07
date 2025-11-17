@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763389260020,
-      "repository": "LLNL/llnl.github.io",
-      "issueTitle": "Two left-hand filters disappear when scrolling all the way down the home page",
-      "url": "https://github.com/LLNL/llnl.github.io/issues/724",
-      "createdAt": "2025-11-17T14:21:00.020Z",
+      "id": 1763389301957,
+      "repository": "planetlabs/planet-client-python",
+      "issueTitle": "planet --version reports 0.0.0 under conda",
+      "url": "https://github.com/planetlabs/planet-client-python/issues/1197",
+      "createdAt": "2025-11-17T14:21:41.957Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
