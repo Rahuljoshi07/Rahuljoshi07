@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763411383562,
+      "repository": "OpenDSA/OpenDSA",
+      "issueTitle": "Replacement Selection Slideshow Display Issue",
+      "url": "https://github.com/OpenDSA/OpenDSA/issues/726",
+      "createdAt": "2025-11-17T20:29:43.562Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
