@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763369431740,
+      "id": 1763369504859,
       "repository": "asyncapi/python-paho-template",
       "issueTitle": "oneOf support bug",
       "url": "https://github.com/asyncapi/python-paho-template/issues/163",
-      "createdAt": "2025-11-17T08:50:31.740Z",
+      "createdAt": "2025-11-17T08:51:44.859Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
