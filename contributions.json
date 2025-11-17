@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763407861781,
+      "repository": "QuEraComputing/kirin",
+      "issueTitle": "UnusedYield rewrite rule is too aggressive",
+      "url": "https://github.com/QuEraComputing/kirin/issues/577",
+      "createdAt": "2025-11-17T19:31:01.781Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
