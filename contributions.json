@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763371047311,
+      "repository": "trendmicro-frontend/tonic-ui",
+      "issueTitle": "Upgrade `@emotion/react` to 11.12.0 to only forward defined `ref`s to improve compability with React 19",
+      "url": "https://github.com/trendmicro-frontend/tonic-ui/issues/1075",
+      "createdAt": "2025-11-17T09:17:27.311Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
