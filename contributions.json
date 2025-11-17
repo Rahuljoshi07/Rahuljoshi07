@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763347354099,
+      "repository": "Empowered-Indian/empowered-indian",
+      "issueTitle": "[Bug]: Download report button is only visible when hovered",
+      "url": "https://github.com/Empowered-Indian/empowered-indian/issues/63",
+      "createdAt": "2025-11-17T02:42:34.099Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
