@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1763381514336,
-      "repository": "Wasted-Audio/hvcc",
-      "issueTitle": "Bug: pd-external - input message queue is full",
-      "url": "https://github.com/Wasted-Audio/hvcc/issues/253",
-      "createdAt": "2025-11-17T12:11:54.336Z",
-      "type": "comment",
-      "content": "Consider checking for None values to prevent AttributeError exceptions. (Suggested by Rahul Joshi)..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
