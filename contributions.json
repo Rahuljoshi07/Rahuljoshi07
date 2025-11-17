@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763383694840,
+      "repository": "bolliy/ioBroker.sun2000",
+      "issueTitle": "[Bug]: Emma - inverter modbus Id 0 is not permitted!",
+      "url": "https://github.com/bolliy/ioBroker.sun2000/issues/218",
+      "createdAt": "2025-11-17T12:48:14.841Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
