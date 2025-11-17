@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763418743612,
+      "repository": "skchronicles/RNA-seek",
+      "issueTitle": "Possible Race Condition with s3 Remote files",
+      "url": "https://github.com/skchronicles/RNA-seek/issues/13",
+      "createdAt": "2025-11-17T22:32:23.612Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
