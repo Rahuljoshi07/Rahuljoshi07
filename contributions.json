@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763412365767,
+      "repository": "hydropix/TranslateBookWithLLM",
+      "issueTitle": "TypeError: generate_subtitle_block_prompt() takes from 2 to 6 positional arguments but 7 were given",
+      "url": "https://github.com/hydropix/TranslateBookWithLLM/issues/69",
+      "createdAt": "2025-11-17T20:46:05.767Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
