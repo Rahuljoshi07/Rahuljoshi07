@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763354590196,
+      "repository": "ArnaudBuchholz/ui5-test-runner",
+      "issueTitle": "Error: spawn wmic ENOENT",
+      "url": "https://github.com/ArnaudBuchholz/ui5-test-runner/issues/157",
+      "createdAt": "2025-11-17T04:43:10.196Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
