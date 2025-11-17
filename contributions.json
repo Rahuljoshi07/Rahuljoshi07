@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763375092025,
+      "repository": "GetStream/stream-chat-react",
+      "issueTitle": "bug: Members who do not participate in Thread still receive notifications from Thread",
+      "url": "https://github.com/GetStream/stream-chat-react/issues/2647",
+      "createdAt": "2025-11-17T10:24:52.025Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
