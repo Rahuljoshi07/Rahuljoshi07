@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763383804860,
+      "repository": "ami-iit/jaxsim",
+      "issueTitle": "Implement algorithm to compute the standalone Coriolis matrix `C(q, ν)`",
+      "url": "https://github.com/ami-iit/jaxsim/issues/41",
+      "createdAt": "2025-11-17T12:50:04.861Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
