@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763398291438,
+      "repository": "nebari-dev/nebari",
+      "issueTitle": "[BUG] - Docker containers using Docker Schema 1",
+      "url": "https://github.com/nebari-dev/nebari/issues/3122",
+      "createdAt": "2025-11-17T16:51:31.438Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
