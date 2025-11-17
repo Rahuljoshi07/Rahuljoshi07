@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763370539151,
+      "repository": "Buzut/huge-uploader-nodejs",
+      "issueTitle": "TypeError: getFileStatus is not a function",
+      "url": "https://github.com/Buzut/huge-uploader-nodejs/issues/10",
+      "createdAt": "2025-11-17T09:08:59.151Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
