@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763337641328,
+      "repository": "erosDiffusion/ComfyUI-enricos-nodes",
+      "issueTitle": "After page reload, fails with IsADirectoryError: [Errno 21] Is a directory",
+      "url": "https://github.com/erosDiffusion/ComfyUI-enricos-nodes/issues/109",
+      "createdAt": "2025-11-17T00:00:41.328Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
