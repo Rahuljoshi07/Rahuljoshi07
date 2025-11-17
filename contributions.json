@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763411789006,
+      "repository": "pyenphase/pyenphase",
+      "issueTitle": "CI action \"hackoberfest\" fails with zero length token assertion",
+      "url": "https://github.com/pyenphase/pyenphase/issues/348",
+      "createdAt": "2025-11-17T20:36:29.006Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
