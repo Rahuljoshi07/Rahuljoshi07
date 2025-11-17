@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763373699324,
-      "repository": "kube-HPC/hkube",
-      "issueTitle": "Algorithm queue duplicacy issue ",
-      "url": "https://github.com/kube-HPC/hkube/issues/2250",
-      "createdAt": "2025-11-17T10:01:39.324Z",
+      "id": 1763373733582,
+      "repository": "CycloneDX/cyclonedx-node-npm",
+      "issueTitle": "[BUG] `--omit=dev` and `--omit=optional` flags don't exclude `devOptional` dependencies, causing misleading output",
+      "url": "https://github.com/CycloneDX/cyclonedx-node-npm/issues/1325",
+      "createdAt": "2025-11-17T10:02:13.583Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
