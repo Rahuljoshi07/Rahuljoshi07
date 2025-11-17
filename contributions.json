@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763399045654,
+      "repository": "ltdrdata/ComfyUI-Inspire-Pack",
+      "issueTitle": "when using QWENIMAGE model，RandomNoise (inspire) error",
+      "url": "https://github.com/ltdrdata/ComfyUI-Inspire-Pack/issues/257",
+      "createdAt": "2025-11-17T17:04:05.654Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
