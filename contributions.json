@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763367744126,
+      "repository": "ansys/pydpf-core",
+      "issueTitle": "operator.outputs does not create an instance of the specific Outputs class, but the generic Outputs one",
+      "url": "https://github.com/ansys/pydpf-core/issues/2750",
+      "createdAt": "2025-11-17T08:22:24.127Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
