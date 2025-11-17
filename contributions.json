@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763342798386,
+      "repository": "TIGER-AI-Lab/verl-tool",
+      "issueTitle": "KeyError during weight synchronization from FSDP LoRA to vLLM in RL training",
+      "url": "https://github.com/TIGER-AI-Lab/verl-tool/issues/125",
+      "createdAt": "2025-11-17T01:26:38.386Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
