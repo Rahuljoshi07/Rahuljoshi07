@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763405330478,
+      "repository": "autogluon/tabarena",
+      "issueTitle": "Unexpected inference time metrics in leaderboard CSV (eg. TABPFNV2_GPU (default) vs REALMLP_GPU (default) ) #14",
+      "url": "https://github.com/autogluon/tabarena/issues/236",
+      "createdAt": "2025-11-17T18:48:50.478Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
