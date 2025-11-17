@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1763380754916,
-      "repository": "ROCm/aiter",
-      "issueTitle": "[Issue]: TypeError: `get_gemm1_kernels_list()` and `get_gemm2_kernels_list()` missing 1 required positional argument: 'preshuffle'  when running   `hsa/gfx942//fmoe_2stages/tune.py`",
-      "url": "https://github.com/ROCm/aiter/issues/1417",
-      "createdAt": "2025-11-17T11:59:14.916Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
