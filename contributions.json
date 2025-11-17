@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763373424297,
+      "repository": "the-momentum/python-ai-kit",
+      "issueTitle": "Imports from pydantic-ai not recognized",
+      "url": "https://github.com/the-momentum/python-ai-kit/issues/63",
+      "createdAt": "2025-11-17T09:57:04.297Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
