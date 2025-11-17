@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763383393703,
+      "repository": "romgar/django-dirtyfields",
+      "issueTitle": "`post_save` signal does not get disconnected when class gets unreferenced",
+      "url": "https://github.com/romgar/django-dirtyfields/issues/233",
+      "createdAt": "2025-11-17T12:43:13.703Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
