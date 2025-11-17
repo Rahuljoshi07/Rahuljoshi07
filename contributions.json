@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763387527642,
+      "repository": "MarketSquare/robotframework-openapitools",
+      "issueTitle": "nullable not taken into account in get_valid_value",
+      "url": "https://github.com/MarketSquare/robotframework-openapitools/issues/81",
+      "createdAt": "2025-11-17T13:52:07.642Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
