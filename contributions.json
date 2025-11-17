@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763343891428,
+      "id": 1763343923520,
       "repository": "rgrove/synchrotron",
-      "issueTitle": "Synchrotron stops watching after locking computer",
-      "url": "https://github.com/rgrove/synchrotron/issues/4",
-      "createdAt": "2025-11-17T01:44:51.428Z",
+      "issueTitle": "Some warnings about deprecated CLI options are logged even with `--verbosity error`",
+      "url": "https://github.com/rgrove/synchrotron/issues/3",
+      "createdAt": "2025-11-17T01:45:23.520Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
