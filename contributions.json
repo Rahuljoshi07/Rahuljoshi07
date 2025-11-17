@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763382607413,
+      "repository": "LD4P/sinopia_editor",
+      "issueTitle": "Sinopia MARC Conversion Bug",
+      "url": "https://github.com/LD4P/sinopia_editor/issues/4040",
+      "createdAt": "2025-11-17T12:30:07.413Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
