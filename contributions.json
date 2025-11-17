@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763382082997,
+      "repository": "ProfessionalWiki/Maps",
+      "issueTitle": "Performance issue when using multiple map blocks",
+      "url": "https://github.com/ProfessionalWiki/Maps/issues/818",
+      "createdAt": "2025-11-17T12:21:22.997Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
