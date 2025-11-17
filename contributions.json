@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763356441297,
+      "repository": "ECNU-Cross-Innovation-Lab/Mamba-Spike",
+      "issueTitle": "AttributeError: module 'snntorch' has no attribute 'Convolution'",
+      "url": "https://github.com/ECNU-Cross-Innovation-Lab/Mamba-Spike/issues/1",
+      "createdAt": "2025-11-17T05:14:01.297Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
