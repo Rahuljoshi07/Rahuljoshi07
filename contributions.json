@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763380334553,
+      "repository": "cdisc-org/cdisc-rules-engine",
+      "issueTitle": "JSON Schema Check rules - report SUCCESS not SKIPPED when no errors found",
+      "url": "https://github.com/cdisc-org/cdisc-rules-engine/issues/1433",
+      "createdAt": "2025-11-17T11:52:14.554Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
