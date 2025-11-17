@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763386344781,
+      "repository": "newrelic/node-newrelic",
+      "issueTitle": "next('route') and next('router') reported as errors",
+      "url": "https://github.com/newrelic/node-newrelic/issues/3511",
+      "createdAt": "2025-11-17T13:32:24.781Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
