@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763413078976,
+      "repository": "ArgoHA/custom_d_fine",
+      "issueTitle": "Question: D‑Fine training is much slower than YOLOv8/DAMO on 2×A100 (DDP)",
+      "url": "https://github.com/ArgoHA/custom_d_fine/issues/31",
+      "createdAt": "2025-11-17T20:57:58.977Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
