@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763402947853,
+      "repository": "wemake-services/django-modern-rest",
+      "issueTitle": "Design SSE: server side event streaming",
+      "url": "https://github.com/wemake-services/django-modern-rest/issues/188",
+      "createdAt": "2025-11-17T18:09:07.853Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
