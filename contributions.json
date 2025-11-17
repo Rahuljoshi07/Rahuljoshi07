@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763363556019,
+      "repository": "huntfx/MouseTracks",
+      "issueTitle": "Minor visual bug on profile switch",
+      "url": "https://github.com/huntfx/MouseTracks/issues/69",
+      "createdAt": "2025-11-17T07:12:36.019Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
