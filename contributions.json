@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763373733582,
+      "id": 1763373770983,
       "repository": "CycloneDX/cyclonedx-node-npm",
       "issueTitle": "[BUG] `--omit=dev` and `--omit=optional` flags don't exclude `devOptional` dependencies, causing misleading output",
       "url": "https://github.com/CycloneDX/cyclonedx-node-npm/issues/1325",
-      "createdAt": "2025-11-17T10:02:13.583Z",
+      "createdAt": "2025-11-17T10:02:50.983Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
