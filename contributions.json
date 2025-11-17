@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763359457676,
+      "repository": "probot/adapter-github-actions",
+      "issueTitle": "Missing pull_request_target.* types",
+      "url": "https://github.com/probot/adapter-github-actions/issues/86",
+      "createdAt": "2025-11-17T06:04:17.676Z",
+      "type": "comment",
+      "content": "Consider implementing proper error boundaries for better error handling. This suggestion is particul..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
