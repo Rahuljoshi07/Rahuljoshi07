@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763387813194,
+      "repository": "jambonz/jambonz-feature-server",
+      "issueTitle": "Critical : Handling Blank call issue due audio playback/freeswith restart",
+      "url": "https://github.com/jambonz/jambonz-feature-server/issues/1434",
+      "createdAt": "2025-11-17T13:56:53.195Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
