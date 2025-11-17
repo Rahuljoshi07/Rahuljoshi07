@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763375789525,
+      "repository": "OSIRIS-Solutions/osiris",
+      "issueTitle": "Bug: Portfolio API /person endpoint: highlighted status shows hidden activities",
+      "url": "https://github.com/OSIRIS-Solutions/osiris/issues/291",
+      "createdAt": "2025-11-17T10:36:29.525Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
