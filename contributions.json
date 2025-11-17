@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763418529554,
+      "repository": "google/torchax",
+      "issueTitle": "Would nn.BatchNorm2d work as expected?",
+      "url": "https://github.com/google/torchax/issues/22",
+      "createdAt": "2025-11-17T22:28:49.554Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
