@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763452155028,
+      "repository": "pydiverse/pydiverse.pipedag",
+      "issueTitle": "Changes in primary key, indexes, ... should also invalidate a lazy=True output table expression",
+      "url": "https://github.com/pydiverse/pydiverse.pipedag/issues/296",
+      "createdAt": "2025-11-18T07:49:15.028Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
