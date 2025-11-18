@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1763478459875,
-      "repository": "vega/vega-loader-arrow",
-      "issueTitle": "Adding a filter or changing encoding type causes Error: Arrow field values can not be overwritten.",
-      "url": "https://github.com/vega/vega-loader-arrow/issues/327",
-      "createdAt": "2025-11-18T15:07:39.875Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
