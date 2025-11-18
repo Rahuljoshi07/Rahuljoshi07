@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1763462076277,
+      "id": 1763462144224,
       "repository": "kalisio/kdk",
-      "issueTitle": "Diacritic search hook is not applied on complex queries",
-      "url": "https://github.com/kalisio/kdk/issues/1338",
-      "createdAt": "2025-11-18T10:34:36.277Z",
+      "issueTitle": "Collections are not well refreshed in append mode",
+      "url": "https://github.com/kalisio/kdk/issues/755",
+      "createdAt": "2025-11-18T10:35:44.224Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
