@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763434021711,
+      "repository": "tylerelyt/test_bed",
+      "issueTitle": "[Bug] 运行 bash quick_start.sh 报错 requests.exceptions.ConnectionError",
+      "url": "https://github.com/tylerelyt/test_bed/issues/4",
+      "createdAt": "2025-11-18T02:47:01.711Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
