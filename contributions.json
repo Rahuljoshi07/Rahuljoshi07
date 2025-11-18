@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763438455486,
+      "repository": "trustgraph-ai/trustgraph",
+      "issueTitle": "UTF-8 Encoding Error in text-load Pipeline Prevents Document Indexing",
+      "url": "https://github.com/trustgraph-ai/trustgraph/issues/554",
+      "createdAt": "2025-11-18T04:00:55.486Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
