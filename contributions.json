@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763426508491,
+      "repository": "microsoft/spec-to-agents",
+      "issueTitle": "Workflow validation warning: Cycle detected in workflow graph – ensure termination/iteration limits exist",
+      "url": "https://github.com/microsoft/spec-to-agents/issues/83",
+      "createdAt": "2025-11-18T00:41:48.491Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
