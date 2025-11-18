@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763466343015,
+      "repository": "mdn/fred",
+      "issueTitle": "`pr_check-lint_content.yml` workflow fails on PRs that only change Markdown files in root directory",
+      "url": "https://github.com/mdn/fred/issues/1087",
+      "createdAt": "2025-11-18T11:45:43.015Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
