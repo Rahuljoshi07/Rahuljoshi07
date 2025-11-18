@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763471454758,
+      "repository": "moraroy/NonSteamLaunchersDecky",
+      "issueTitle": "[Windows] Steam Userdata directory not found if Steam is installed on any drive other than C:",
+      "url": "https://github.com/moraroy/NonSteamLaunchersDecky/issues/56",
+      "createdAt": "2025-11-18T13:10:54.758Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
