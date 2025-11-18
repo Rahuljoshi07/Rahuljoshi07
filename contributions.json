@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763466817592,
+      "repository": "openghg/openghg",
+      "issueTitle": "Some ICOS data is missed by `retrieve_atmospheric`",
+      "url": "https://github.com/openghg/openghg/issues/860",
+      "createdAt": "2025-11-18T11:53:37.592Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
