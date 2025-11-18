@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763429666534,
+      "repository": "PhialsBasement/LibreCrawl",
+      "issueTitle": "Background processing",
+      "url": "https://github.com/PhialsBasement/LibreCrawl/issues/9",
+      "createdAt": "2025-11-18T01:34:26.534Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
