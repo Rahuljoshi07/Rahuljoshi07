@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763479201962,
+      "repository": "ncbi/SSDraw",
+      "issueTitle": "No matter what I do, the colab is not working at all  - showing error",
+      "url": "https://github.com/ncbi/SSDraw/issues/8",
+      "createdAt": "2025-11-18T15:20:01.962Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
