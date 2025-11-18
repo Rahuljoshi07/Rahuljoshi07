@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763487229809,
+      "repository": "deep-assistant/hive-mind",
+      "issueTitle": "opencode stuck in infinite loop of auto restart",
+      "url": "https://github.com/deep-assistant/hive-mind/issues/746",
+      "createdAt": "2025-11-18T17:33:49.809Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
