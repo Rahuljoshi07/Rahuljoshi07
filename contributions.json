@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763466927560,
+      "repository": "pinpoint-apm/pinpoint-node-agent",
+      "issueTitle": "AgentStatsMonitor construction arguments",
+      "url": "https://github.com/pinpoint-apm/pinpoint-node-agent/issues/359",
+      "createdAt": "2025-11-18T11:55:27.560Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
