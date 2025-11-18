@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1763456462851,
-      "repository": "apify/apify-sdk-python",
-      "issueTitle": "Make Actor consistently reusable without raising `ServiceConflictError`",
-      "url": "https://github.com/apify/apify-sdk-python/issues/678",
-      "createdAt": "2025-11-18T09:01:02.851Z",
+      "id": 1763456520994,
+      "repository": "opendatalab/mineru-vl-utils",
+      "issueTitle": "Bug：使用server_url=\"http://xxxxx/files/parser\",(VLLM-root_path设置) client = MinerUClient(     backend=\"http-client\",     model_name=\"MinerU2.5-2509-1.2B\",     server_url=server_url )",
+      "url": "https://github.com/opendatalab/mineru-vl-utils/issues/17",
+      "createdAt": "2025-11-18T09:02:00.994Z",
       "type": "comment",
       "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
