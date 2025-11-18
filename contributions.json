@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763493182369,
+      "repository": "JoshKarpel/spiel",
+      "issueTitle": "Figure out what changes in Textual since `0.11.1` broke slide transitions",
+      "url": "https://github.com/JoshKarpel/spiel/issues/223",
+      "createdAt": "2025-11-18T19:13:02.369Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
