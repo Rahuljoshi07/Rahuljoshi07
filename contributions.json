@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763445475702,
+      "repository": "DDS-Derek/MoviePilot-Plugins",
+      "issueTitle": "【BUG】115网盘整理(V2.2.10) 在最新版MP v2.8.2安裝失败",
+      "url": "https://github.com/DDS-Derek/MoviePilot-Plugins/issues/246",
+      "createdAt": "2025-11-18T05:57:55.703Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
