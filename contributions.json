@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763494060043,
+      "repository": "julien-nc/phonetrack",
+      "issueTitle": "Submitted events of Phonetrack are malformed",
+      "url": "https://github.com/julien-nc/phonetrack/issues/79",
+      "createdAt": "2025-11-18T19:27:40.044Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
