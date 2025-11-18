@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763454966187,
+      "repository": "openfoodfacts/open-prices",
+      "issueTitle": "👍 Top Issues Dashboard",
+      "url": "https://github.com/openfoodfacts/open-prices/issues/229",
+      "createdAt": "2025-11-18T08:36:06.187Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
