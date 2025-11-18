@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763446195936,
+      "repository": "Nezreka/SoulSync",
+      "issueTitle": "ModuleNotFoundError: No module named 'config.settings'",
+      "url": "https://github.com/Nezreka/SoulSync/issues/17",
+      "createdAt": "2025-11-18T06:09:55.936Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
