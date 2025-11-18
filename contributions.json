@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763446079850,
+      "repository": "adamewing/methylartist",
+      "issueTitle": "Issue with Locus and specific .bam",
+      "url": "https://github.com/adamewing/methylartist/issues/125",
+      "createdAt": "2025-11-18T06:07:59.850Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
