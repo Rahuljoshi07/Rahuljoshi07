@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763446287592,
+      "repository": "proxystore/proxystore",
+      "issueTitle": "`proxystore-endpoint check-nat` not returning right output",
+      "url": "https://github.com/proxystore/proxystore/issues/729",
+      "createdAt": "2025-11-18T06:11:27.592Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
