@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763441027234,
+      "repository": "intbot/ng2-pdfjs-viewer",
+      "issueTitle": "25.0.13 | Stuck on loading when displaying Blob",
+      "url": "https://github.com/intbot/ng2-pdfjs-viewer/issues/286",
+      "createdAt": "2025-11-18T04:43:47.234Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
