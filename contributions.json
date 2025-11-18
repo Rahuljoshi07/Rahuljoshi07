@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763452770200,
+      "repository": "jupyterhub/jupyter-rsession-proxy",
+      "issueTitle": "Terminal not working in RStudio",
+      "url": "https://github.com/jupyterhub/jupyter-rsession-proxy/issues/71",
+      "createdAt": "2025-11-18T07:59:30.200Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
