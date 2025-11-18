@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763456143316,
+      "repository": "dagghe/pyOMA2",
+      "issueTitle": "def_geo1 Validation Error in SingleSetup for MAC Calculation (AttributeError on input types)",
+      "url": "https://github.com/dagghe/pyOMA2/issues/41",
+      "createdAt": "2025-11-18T08:55:43.317Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
