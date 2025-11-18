@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763445591708,
+      "repository": "tronbyt/server",
+      "issueTitle": "Merge configapp and updateapp",
+      "url": "https://github.com/tronbyt/server/issues/492",
+      "createdAt": "2025-11-18T05:59:51.708Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
