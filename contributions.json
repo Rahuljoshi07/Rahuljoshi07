@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763475157850,
+      "repository": "Altinity/clickhouse-regression",
+      "issueTitle": "Failure: arm-with-analyzer-25.3.8.23-zookeeper / alter_attach_partition_1 / alter_attach_partition_1 - ExpectTimeoutError: Timeout 300.000s during (f\"OPTIMIZE TABLE {table_name} FINAL\")",
+      "url": "https://github.com/Altinity/clickhouse-regression/issues/65",
+      "createdAt": "2025-11-18T14:12:37.850Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
