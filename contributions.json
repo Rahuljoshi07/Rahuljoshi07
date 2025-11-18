@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763461818678,
+      "repository": "ircam-ismm/node-web-audio-api",
+      "issueTitle": "Mic crashes when number of channels > 32",
+      "url": "https://github.com/ircam-ismm/node-web-audio-api/issues/159",
+      "createdAt": "2025-11-18T10:30:18.678Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
