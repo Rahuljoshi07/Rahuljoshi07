@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763458773197,
+      "repository": "benborla/mcp-server-mysql",
+      "issueTitle": "\"Invalid URL\" (MCP error -32603) on resource operations (list, templates, or usage)",
+      "url": "https://github.com/benborla/mcp-server-mysql/issues/55",
+      "createdAt": "2025-11-18T09:39:33.197Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
