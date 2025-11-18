@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763452446876,
+      "repository": "asyncapi/community",
+      "issueTitle": "[BUG] <description> Notify about upcoming meetings workflow not working",
+      "url": "https://github.com/asyncapi/community/issues/2055",
+      "createdAt": "2025-11-18T07:54:06.876Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
