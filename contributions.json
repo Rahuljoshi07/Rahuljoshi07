@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763565495337,
+      "repository": "Mfuns-cn/mfunsPlayer",
+      "issueTitle": "弹幕接口并非可选参数",
+      "url": "https://github.com/Mfuns-cn/mfunsPlayer/issues/8",
+      "createdAt": "2025-11-19T15:18:15.337Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
