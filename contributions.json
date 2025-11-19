@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763562750700,
+      "repository": "nodecraft/b2-cloud-storage",
+      "issueTitle": "Drop dependency on `request`",
+      "url": "https://github.com/nodecraft/b2-cloud-storage/issues/31",
+      "createdAt": "2025-11-19T14:32:30.700Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
