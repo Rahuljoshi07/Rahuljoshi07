@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763556424223,
+      "repository": "eggplants/ghcr-badge",
+      "issueTitle": "[BUG] Wrong Version Number",
+      "url": "https://github.com/eggplants/ghcr-badge/issues/220",
+      "createdAt": "2025-11-19T12:47:04.224Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
