@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763518738323,
-      "repository": "apache/cordova-cli",
-      "issueTitle": "cordova prepare does not call platform prepare hooks",
-      "url": "https://github.com/apache/cordova-cli/issues/358",
-      "createdAt": "2025-11-19T02:18:58.323Z",
+      "id": 1763518812643,
+      "repository": "apache/cordova-lib",
+      "issueTitle": "platform-specific after_prepare hooks don't run after restoring",
+      "url": "https://github.com/apache/cordova-lib/issues/940",
+      "createdAt": "2025-11-19T02:20:12.643Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
     }
   ],
   "stats": {
