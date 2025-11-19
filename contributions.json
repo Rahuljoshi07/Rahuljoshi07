@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1763564489905,
-      "repository": "makinacorpus/django-geojson",
-      "issueTitle": "Error creating geometry from value 'null' (String input unrecognized as WKT EWKT, and HEXEWKB.)",
-      "url": "https://github.com/makinacorpus/django-geojson/issues/115",
-      "createdAt": "2025-11-19T15:01:29.905Z",
-      "type": "comment",
-      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
