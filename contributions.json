@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763528202716,
+      "repository": "NabuCasa/universal-silabs-flasher",
+      "issueTitle": "SONOFF Zigbee Dongle-E flash error",
+      "url": "https://github.com/NabuCasa/universal-silabs-flasher/issues/109",
+      "createdAt": "2025-11-19T04:56:42.716Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
