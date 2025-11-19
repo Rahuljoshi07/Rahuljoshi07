@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763538229505,
+      "repository": "pharmpy/pharmpy",
+      "issueTitle": "Error at the end of the run_amd process",
+      "url": "https://github.com/pharmpy/pharmpy/issues/3992",
+      "createdAt": "2025-11-19T07:43:49.506Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
