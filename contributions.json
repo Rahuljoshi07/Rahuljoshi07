@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763518738323,
+      "repository": "apache/cordova-cli",
+      "issueTitle": "cordova prepare does not call platform prepare hooks",
+      "url": "https://github.com/apache/cordova-cli/issues/358",
+      "createdAt": "2025-11-19T02:18:58.323Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
