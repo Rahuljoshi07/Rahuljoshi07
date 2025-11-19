@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763579843826,
+      "repository": "ehpor/hcipy",
+      "issueTitle": "make_rotated_aperture not working",
+      "url": "https://github.com/ehpor/hcipy/issues/289",
+      "createdAt": "2025-11-19T19:17:23.826Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
