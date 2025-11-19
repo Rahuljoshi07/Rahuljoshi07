@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763563820303,
+      "repository": "easybuilders/easybuild-framework",
+      "issueTitle": "Building easyconfigs with many extensions is much slower with EasyBuild 5.x than with EasyBuild 4.x",
+      "url": "https://github.com/easybuilders/easybuild-framework/issues/5052",
+      "createdAt": "2025-11-19T14:50:20.303Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
