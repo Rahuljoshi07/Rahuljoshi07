@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763551814511,
-      "repository": "enonic/app-contentstudio",
-      "issueTitle": "Inspect tab - Save button won't get enabled after switching parts",
-      "url": "https://github.com/enonic/app-contentstudio/issues/9259",
-      "createdAt": "2025-11-19T11:30:14.511Z",
+      "id": 1763551887502,
+      "repository": "nextcloud/photos",
+      "issueTitle": "Photo details show wrong time, perhaps ignoring exif OffsetTime.",
+      "url": "https://github.com/nextcloud/photos/issues/3118",
+      "createdAt": "2025-11-19T11:31:27.502Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
