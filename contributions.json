@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763574021324,
+      "repository": "theMK2k/Media-Hoarder",
+      "issueTitle": "IMDB Scraper error",
+      "url": "https://github.com/theMK2k/Media-Hoarder/issues/95",
+      "createdAt": "2025-11-19T17:40:21.324Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
