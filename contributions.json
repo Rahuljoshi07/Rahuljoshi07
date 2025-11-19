@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763576221424,
+      "repository": "freeCodeCamp/curriculum-helpers",
+      "issueTitle": "`CSSHelp.getStyle()` may be too strict",
+      "url": "https://github.com/freeCodeCamp/curriculum-helpers/issues/526",
+      "createdAt": "2025-11-19T18:17:01.424Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
