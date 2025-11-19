@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763561637315,
+      "repository": "KroMiose/nekro-agent",
+      "issueTitle": "[Bug]: tg适配器代理已经配置轮训正常启动的情况下收不到来着tg的任何信息",
+      "url": "https://github.com/KroMiose/nekro-agent/issues/150",
+      "createdAt": "2025-11-19T14:13:57.316Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
