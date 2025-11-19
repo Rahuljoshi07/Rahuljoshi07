@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763539158524,
+      "repository": "open-telemetry/opentelemetry.io",
+      "issueTitle": "[CI] Workflow update-spec-integration-branch.yml is failing due to lack of changes",
+      "url": "https://github.com/open-telemetry/opentelemetry.io/issues/8167",
+      "createdAt": "2025-11-19T07:59:18.524Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
