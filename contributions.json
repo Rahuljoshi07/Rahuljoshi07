@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763587668065,
+      "repository": "stanford-cs221/autumn2025-lectures",
+      "issueTitle": "[bug] Probabilities need to sum to 1",
+      "url": "https://github.com/stanford-cs221/autumn2025-lectures/issues/3",
+      "createdAt": "2025-11-19T21:27:48.066Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
