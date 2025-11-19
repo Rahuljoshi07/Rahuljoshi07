@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763559083891,
+      "repository": "nextgis/quickmapservices",
+      "issueTitle": "QMS (mis)behaviour in Panel/Toolbar context menu",
+      "url": "https://github.com/nextgis/quickmapservices/issues/237",
+      "createdAt": "2025-11-19T13:31:23.891Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
