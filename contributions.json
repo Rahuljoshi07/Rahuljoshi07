@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763580912639,
+      "repository": "AVSLab/bsk_rl",
+      "issueTitle": "Access filters may be readded every reset",
+      "url": "https://github.com/AVSLab/bsk_rl/issues/318",
+      "createdAt": "2025-11-19T19:35:12.639Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
