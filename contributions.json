@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763519933013,
+      "repository": "AdobeDocs/analytics-2.0-apis",
+      "issueTitle": "Issue in /src/pages/guides/endpoints/classifications/import-file.md",
+      "url": "https://github.com/AdobeDocs/analytics-2.0-apis/issues/608",
+      "createdAt": "2025-11-19T02:38:53.013Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
