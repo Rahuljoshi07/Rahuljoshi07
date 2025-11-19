@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763580064177,
+      "repository": "f-dangel/curvlinops",
+      "issueTitle": "[OPT] Poor run time and memory performance of EKFAC on CNNs",
+      "url": "https://github.com/f-dangel/curvlinops/issues/193",
+      "createdAt": "2025-11-19T19:21:04.177Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
