@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763559300613,
+      "repository": "KosinskiLab/AlphaPulldown",
+      "issueTitle": "Snakemake pipeline analysis error at create_notebook.py",
+      "url": "https://github.com/KosinskiLab/AlphaPulldown/issues/548",
+      "createdAt": "2025-11-19T13:35:00.613Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
