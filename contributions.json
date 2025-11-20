@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1763607794777,
+      "id": 1763607846747,
       "repository": "colorjs/color-space",
       "issueTitle": "TypeError: space.lab.lch is not a function",
       "url": "https://github.com/colorjs/color-space/issues/54",
-      "createdAt": "2025-11-20T03:03:14.777Z",
+      "createdAt": "2025-11-20T03:04:06.747Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
