@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763636166812,
+      "repository": "andreadegiovine/homeassistant-stellantis-vehicles",
+      "issueTitle": "After latest update i get errors",
+      "url": "https://github.com/andreadegiovine/homeassistant-stellantis-vehicles/issues/351",
+      "createdAt": "2025-11-20T10:56:06.812Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
