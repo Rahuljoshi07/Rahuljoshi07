@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763629609310,
+      "repository": "sillsdev/ptx2pdf",
+      "issueTitle": "Line spacing is corrupted on one page only",
+      "url": "https://github.com/sillsdev/ptx2pdf/issues/1108",
+      "createdAt": "2025-11-20T09:06:49.310Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
