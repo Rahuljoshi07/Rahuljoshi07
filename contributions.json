@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763653604448,
+      "repository": "origo-map/origo",
+      "issueTitle": "thematicStyling and visibleLayersControl in a shared map can preclude a legend",
+      "url": "https://github.com/origo-map/origo/issues/2252",
+      "createdAt": "2025-11-20T15:46:44.448Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
