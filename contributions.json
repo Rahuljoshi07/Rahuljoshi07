@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763638546864,
+      "repository": "akhundMurad/typeid-python",
+      "issueTitle": "The `.uuid` property does not give the right UUID according to spec/valid.yml",
+      "url": "https://github.com/akhundMurad/typeid-python/issues/15",
+      "createdAt": "2025-11-20T11:35:46.864Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
