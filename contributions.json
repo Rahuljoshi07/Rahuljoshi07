@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763615980617,
+      "repository": "babalae/bettergi-scripts-list",
+      "issueTitle": "[bug] 雙倍好感腳本問題",
+      "url": "https://github.com/babalae/bettergi-scripts-list/issues/2373",
+      "createdAt": "2025-11-20T05:19:40.617Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
