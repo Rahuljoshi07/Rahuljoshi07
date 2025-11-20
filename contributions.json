@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763628486281,
+      "repository": "Psyyke/A.C.A.S",
+      "issueTitle": "A.C.A.S. Issue That I Fixed",
+      "url": "https://github.com/Psyyke/A.C.A.S/issues/73",
+      "createdAt": "2025-11-20T08:48:06.281Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
