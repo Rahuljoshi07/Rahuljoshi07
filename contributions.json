@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763604278673,
+      "repository": "hackforla/311-data",
+      "issueTitle": "UXD - Blank Map Error States",
+      "url": "https://github.com/hackforla/311-data/issues/2024",
+      "createdAt": "2025-11-20T02:04:38.673Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
