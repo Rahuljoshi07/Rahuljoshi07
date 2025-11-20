@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763618550281,
+      "repository": "ularch/Easy_Cidaren",
+      "issueTitle": "[bug] 运行出错，错误信息：string indices must be integers, not 'str'",
+      "url": "https://github.com/ularch/Easy_Cidaren/issues/43",
+      "createdAt": "2025-11-20T06:02:30.282Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
