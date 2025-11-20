@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763632405696,
+      "repository": "lazarv/react-server",
+      "issueTitle": "redirect a POST rsc-x-component / fetch fails with CORS",
+      "url": "https://github.com/lazarv/react-server/issues/289",
+      "createdAt": "2025-11-20T09:53:25.696Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
