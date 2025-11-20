@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763633428627,
+      "repository": "MerginMaps/geodiff",
+      "issueTitle": "Database defined UNIQUE or FOREIGN KEY constraint causes rebase to fail",
+      "url": "https://github.com/MerginMaps/geodiff/issues/210",
+      "createdAt": "2025-11-20T10:10:28.627Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
