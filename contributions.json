@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763645273491,
+      "repository": "aqlaboratory/openfold-3",
+      "issueTitle": "[BUG][OpenFold Consortium Member] SLURM autodetection causes OF3 to hang on compute cluster",
+      "url": "https://github.com/aqlaboratory/openfold-3/issues/47",
+      "createdAt": "2025-11-20T13:27:53.491Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
