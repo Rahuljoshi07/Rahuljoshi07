@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763674894768,
+      "repository": "ephios-dev/ephios",
+      "issueTitle": "Multiple qualification grants for same qualification do not show error message",
+      "url": "https://github.com/ephios-dev/ephios/issues/1697",
+      "createdAt": "2025-11-20T21:41:34.768Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
