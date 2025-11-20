@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1763617846734,
+      "id": 1763617894084,
       "repository": "cockpit-project/cockpit-ostree",
-      "issueTitle": "'Edit repository' fails when repository is not added through Cockpit",
-      "url": "https://github.com/cockpit-project/cockpit-ostree/issues/899",
-      "createdAt": "2025-11-20T05:50:46.734Z",
+      "issueTitle": "Refreshing while an overlay is installed crashes the page",
+      "url": "https://github.com/cockpit-project/cockpit-ostree/issues/456",
+      "createdAt": "2025-11-20T05:51:34.084Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
