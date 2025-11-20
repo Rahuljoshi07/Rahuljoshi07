@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763654525403,
+      "repository": "shortcut-cli/shortcut-cli",
+      "issueTitle": "Short install --refresh errors with `ERR_INVALID_CHAR`",
+      "url": "https://github.com/shortcut-cli/shortcut-cli/issues/303",
+      "createdAt": "2025-11-20T16:02:05.403Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
