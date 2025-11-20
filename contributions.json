@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763624233524,
+      "repository": "MichalW/gnome-bluetooth-battery-indicator",
+      "issueTitle": "Issue with \"Hide indicator if there are no devices\" option",
+      "url": "https://github.com/MichalW/gnome-bluetooth-battery-indicator/issues/87",
+      "createdAt": "2025-11-20T07:37:13.524Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
