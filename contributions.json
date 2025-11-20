@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763664118086,
+      "repository": "cutelyst/Virtlyst",
+      "issueTitle": "SSH connection: console closing & RemoteHostClosedError",
+      "url": "https://github.com/cutelyst/Virtlyst/issues/50",
+      "createdAt": "2025-11-20T18:41:58.086Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
