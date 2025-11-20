@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763615249947,
+      "repository": "MaksimZayats/aiogram-django-template",
+      "issueTitle": "Migrate to uv?",
+      "url": "https://github.com/MaksimZayats/aiogram-django-template/issues/900",
+      "createdAt": "2025-11-20T05:07:29.947Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
