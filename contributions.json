@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763676875378,
+      "repository": "promptdriven/pdd",
+      "issueTitle": "Right now pdd sync hides all the messages and interactive prompts. Modify this so that it shows the stdout/error messages at the bottom",
+      "url": "https://github.com/promptdriven/pdd/issues/65",
+      "createdAt": "2025-11-20T22:14:35.378Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
