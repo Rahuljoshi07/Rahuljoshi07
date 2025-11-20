@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763642312076,
+      "repository": "oss-serverless/serverless",
+      "issueTitle": "Security issue in js-yaml",
+      "url": "https://github.com/oss-serverless/serverless/issues/117",
+      "createdAt": "2025-11-20T12:38:32.076Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
