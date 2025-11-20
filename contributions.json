@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763640219040,
+      "repository": "jcrodriguez-dis/moodle-mod_vpl",
+      "issueTitle": "“Uncaught ReferenceError: VPLUtil is not defined” after updating to VPL 4.4.0",
+      "url": "https://github.com/jcrodriguez-dis/moodle-mod_vpl/issues/266",
+      "createdAt": "2025-11-20T12:03:39.040Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
