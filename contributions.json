@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763627912152,
+      "repository": "Deltares/hydromt_wflow",
+      "issueTitle": "Lake tables not being read correctly",
+      "url": "https://github.com/Deltares/hydromt_wflow/issues/619",
+      "createdAt": "2025-11-20T08:38:32.152Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
