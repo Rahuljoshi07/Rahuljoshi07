@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763602300742,
+      "repository": "ComputerScienceHouse/conditional",
+      "issueTitle": "Use UUIDs as primary key instead of username",
+      "url": "https://github.com/ComputerScienceHouse/conditional/issues/448",
+      "createdAt": "2025-11-20T01:31:40.742Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. This suggestion is particularly relevant..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
