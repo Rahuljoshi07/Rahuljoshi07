@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763675812160,
+      "repository": "alinnman/celestial-navigation",
+      "issueTitle": "Algorithm error overview",
+      "url": "https://github.com/alinnman/celestial-navigation/issues/36",
+      "createdAt": "2025-11-20T21:56:52.160Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
