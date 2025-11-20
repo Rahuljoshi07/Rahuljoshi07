@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763656785914,
+      "repository": "hermetoproject/hermeto",
+      "issueTitle": "[gomod] Propagate the effect of the 'goproxy_url' config option to SBOM",
+      "url": "https://github.com/hermetoproject/hermeto/issues/577",
+      "createdAt": "2025-11-20T16:39:45.915Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
