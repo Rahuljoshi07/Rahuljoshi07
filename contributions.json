@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763638222193,
+      "repository": "Tracardi/tracardi",
+      "issueTitle": "Merged profiles do not inherit properties and PII",
+      "url": "https://github.com/Tracardi/tracardi/issues/892",
+      "createdAt": "2025-11-20T11:30:22.193Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
