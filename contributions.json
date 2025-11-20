@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763615090971,
+      "repository": "mfat/sshpilot",
+      "issueTitle": "Flatpak: Request access buton not visible in light mode",
+      "url": "https://github.com/mfat/sshpilot/issues/762",
+      "createdAt": "2025-11-20T05:04:50.971Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
