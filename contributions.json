@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763648085610,
+      "repository": "jupyter-naas/abi",
+      "issueTitle": "Update and refactor agent.py to ensure code quality and error-free operation",
+      "url": "https://github.com/jupyter-naas/abi/issues/703",
+      "createdAt": "2025-11-20T14:14:45.610Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
