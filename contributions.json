@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763644739961,
+      "repository": "aertslab/CREsted",
+      "issueTitle": "`TypeError: Could not locate class` when loading Enformer or Borzoi models",
+      "url": "https://github.com/aertslab/CREsted/issues/142",
+      "createdAt": "2025-11-20T13:18:59.961Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
