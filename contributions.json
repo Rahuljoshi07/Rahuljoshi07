@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763599598315,
+      "repository": "daviddrummond95/polar_llama",
+      "issueTitle": "Enable Link-Time Optimization (LTO) and codegen-units = 1 for the library",
+      "url": "https://github.com/daviddrummond95/polar_llama/issues/9",
+      "createdAt": "2025-11-20T00:46:38.315Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
