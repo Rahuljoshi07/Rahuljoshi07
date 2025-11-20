@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763650333296,
+      "repository": "uscuni/neatnet",
+      "issueTitle": "Get as an output an errors layer with the lines that failed to be simplified",
+      "url": "https://github.com/uscuni/neatnet/issues/267",
+      "createdAt": "2025-11-20T14:52:13.296Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
