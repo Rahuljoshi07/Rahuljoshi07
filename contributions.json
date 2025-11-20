@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763636641569,
+      "repository": "pinojs/pino-mongodb",
+      "issueTitle": "Deprecation Warning from tr46 Package Related to punycode Module",
+      "url": "https://github.com/pinojs/pino-mongodb/issues/159",
+      "createdAt": "2025-11-20T11:04:01.569Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
