@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763657381885,
+      "repository": "griptape-ai/griptape-nodes",
+      "issueTitle": "Root button in file browser reports error on mac",
+      "url": "https://github.com/griptape-ai/griptape-nodes/issues/3237",
+      "createdAt": "2025-11-20T16:49:41.885Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
