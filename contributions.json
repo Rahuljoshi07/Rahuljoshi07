@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763653016015,
+      "repository": "exelearning/exelearning",
+      "issueTitle": "Postgresql Error",
+      "url": "https://github.com/exelearning/exelearning/issues/695",
+      "createdAt": "2025-11-20T15:36:56.016Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
