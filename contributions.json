@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763676679928,
+      "repository": "RapidFireAI/rapidfireai",
+      "issueTitle": "[BUG][RAG][v0.12.6][RUN_EVALS] Run Evals progress table does not display knobs for STOPPED, DELETED / CLONED runs after completion",
+      "url": "https://github.com/RapidFireAI/rapidfireai/issues/101",
+      "createdAt": "2025-11-20T22:11:19.929Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
