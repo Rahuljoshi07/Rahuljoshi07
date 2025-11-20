@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763677299407,
+      "repository": "3fon3fonov/exostriker",
+      "issueTitle": "NS sessions saved with python3.10 will not be opened with Exo-Striker on python3.11, and vice versa.",
+      "url": "https://github.com/3fon3fonov/exostriker/issues/136",
+      "createdAt": "2025-11-20T22:21:39.407Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
