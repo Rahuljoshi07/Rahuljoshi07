@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763646892527,
+      "repository": "Stormbase/django-otp-webauthn",
+      "issueTitle": "Documentation: document ability to control the `next` parameter when authenticating",
+      "url": "https://github.com/Stormbase/django-otp-webauthn/issues/80",
+      "createdAt": "2025-11-20T13:54:52.527Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
