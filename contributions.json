@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763650955338,
+      "repository": "gardenlinux/gardenlinux",
+      "issueTitle": "sysdiff test failures in ci",
+      "url": "https://github.com/gardenlinux/gardenlinux/issues/3915",
+      "createdAt": "2025-11-20T15:02:35.338Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
