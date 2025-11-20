@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763630579911,
+      "repository": "Fdawgs/node-poppler",
+      "issueTitle": "The 'undefined' option for pdfToCairo's second parameter does not produce valid output for tiff files.",
+      "url": "https://github.com/Fdawgs/node-poppler/issues/430",
+      "createdAt": "2025-11-20T09:22:59.911Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
