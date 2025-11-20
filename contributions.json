@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763639017303,
+      "repository": "sgl-project/sglang-jax",
+      "issueTitle": "[Bug] out of memory when run grpo demo in v5e-4",
+      "url": "https://github.com/sgl-project/sglang-jax/issues/460",
+      "createdAt": "2025-11-20T11:43:37.303Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
