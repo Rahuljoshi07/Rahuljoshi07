@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763655682322,
+      "repository": "oOo0oOo/lean-lsp-mcp",
+      "issueTitle": "lean_diagnostic_messages misses kernel errors",
+      "url": "https://github.com/oOo0oOo/lean-lsp-mcp/issues/63",
+      "createdAt": "2025-11-20T16:21:22.322Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
