@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763639088726,
+      "repository": "euroargodev/argopy",
+      "issueTitle": "CI tests way too long on WIndows !",
+      "url": "https://github.com/euroargodev/argopy/issues/395",
+      "createdAt": "2025-11-20T11:44:48.726Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
