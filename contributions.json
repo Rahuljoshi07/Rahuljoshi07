@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763604709393,
+      "repository": "anvilistas/tabulator",
+      "issueTitle": "DataTree expansion freezes and crashes",
+      "url": "https://github.com/anvilistas/tabulator/issues/159",
+      "createdAt": "2025-11-20T02:11:49.393Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
