@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763662944987,
+      "repository": "colorjs/color-space",
+      "issueTitle": "Failure to convert XYZ to RGB and back",
+      "url": "https://github.com/colorjs/color-space/issues/48",
+      "createdAt": "2025-11-20T18:22:24.987Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
