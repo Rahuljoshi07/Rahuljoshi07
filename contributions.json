@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763657167116,
+      "repository": "spacetelescope/jwql",
+      "issueTitle": "Naive datetimes used for monitor query history tables",
+      "url": "https://github.com/spacetelescope/jwql/issues/1715",
+      "createdAt": "2025-11-20T16:46:07.116Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
