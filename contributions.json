@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763627290296,
+      "repository": "alpacahq/alpaca-mcp-server",
+      "issueTitle": "mcp error on Claude desktop & error on MCP Client",
+      "url": "https://github.com/alpacahq/alpaca-mcp-server/issues/14",
+      "createdAt": "2025-11-20T08:28:10.297Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
