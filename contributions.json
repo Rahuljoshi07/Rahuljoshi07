@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763680998263,
+      "id": 1763681035708,
       "repository": "samvera-labs/ramp",
-      "issueTitle": "Handle VideoJS errors with unsupported src URLs gracefully",
-      "url": "https://github.com/samvera-labs/ramp/issues/878",
-      "createdAt": "2025-11-20T23:23:18.263Z",
+      "issueTitle": "[BUG] Parse and load all sources in Canvas",
+      "url": "https://github.com/samvera-labs/ramp/issues/880",
+      "createdAt": "2025-11-20T23:23:55.708Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
