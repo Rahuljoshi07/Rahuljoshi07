@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763614032126,
+      "repository": "yt-project/yt",
+      "issueTitle": "ENH: add a configurable  `origin` default for plots",
+      "url": "https://github.com/yt-project/yt/issues/5327",
+      "createdAt": "2025-11-20T04:47:12.126Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
