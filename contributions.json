@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763634453041,
+      "repository": "IAMconsortium/pyam",
+      "issueTitle": "Address `FutureWarning` in pyam/core.py:931",
+      "url": "https://github.com/IAMconsortium/pyam/issues/925",
+      "createdAt": "2025-11-20T10:27:33.041Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
