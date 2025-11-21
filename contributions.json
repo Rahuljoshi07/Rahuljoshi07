@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763750339052,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Missing Skeleton Loading State in Snapshot & About Pages",
+      "url": "https://github.com/OWASP/Nest/issues/2673",
+      "createdAt": "2025-11-21T18:38:59.052Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. This suggestion is particularly relevant..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
