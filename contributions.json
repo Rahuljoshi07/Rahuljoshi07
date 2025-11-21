@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763748140454,
+      "repository": "apache/cordova-mobile-spec",
+      "issueTitle": "[Windows] Tests with external URLs fail because of `http://`",
+      "url": "https://github.com/apache/cordova-mobile-spec/issues/157",
+      "createdAt": "2025-11-21T18:02:20.454Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
