@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763730689706,
+      "repository": "nextcloud/files_pdfviewer",
+      "issueTitle": "PDF views weird / wrong characters on some PDFs in Chrome (encoding?)",
+      "url": "https://github.com/nextcloud/files_pdfviewer/issues/1306",
+      "createdAt": "2025-11-21T13:11:29.706Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
