@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763757036899,
+      "repository": "django-commons/django-typer",
+      "issueTitle": "Default option values should be set as attributes on the command instance.",
+      "url": "https://github.com/django-commons/django-typer/issues/231",
+      "createdAt": "2025-11-21T20:30:36.899Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. This suggestion is particularly relevant..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
