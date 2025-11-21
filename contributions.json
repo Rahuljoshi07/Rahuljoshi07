@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763744918395,
+      "repository": "aws-deadline/deadline-cloud-for-after-effects",
+      "issueTitle": "Bug: Renders Fail if path names are too long",
+      "url": "https://github.com/aws-deadline/deadline-cloud-for-after-effects/issues/152",
+      "createdAt": "2025-11-21T17:08:38.395Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
