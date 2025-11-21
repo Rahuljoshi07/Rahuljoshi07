@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763736151598,
+      "repository": "storacha/freeway",
+      "issueTitle": "Add more context in the error if tryint to access a v0 CID (starting with \"qm\")",
+      "url": "https://github.com/storacha/freeway/issues/167",
+      "createdAt": "2025-11-21T14:42:31.598Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
