@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763710951074,
+      "repository": "NTHU-SA/NTHU-Data-API",
+      "issueTitle": "bug: nanda buses are not handled",
+      "url": "https://github.com/NTHU-SA/NTHU-Data-API/issues/206",
+      "createdAt": "2025-11-21T07:42:31.074Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
