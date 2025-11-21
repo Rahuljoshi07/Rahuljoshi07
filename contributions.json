@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763757764553,
+      "repository": "hgmzhn/manga-translator-ui",
+      "issueTitle": "[Bug?]無法拖拽添加圖片",
+      "url": "https://github.com/hgmzhn/manga-translator-ui/issues/20",
+      "createdAt": "2025-11-21T20:42:44.553Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
