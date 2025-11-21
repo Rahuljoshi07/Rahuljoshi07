@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763709856661,
+      "repository": "facebook/facebook-nodejs-business-sdk",
+      "issueTitle": "Error Creating AdSet Redirecting to WhatsApp: \"WhatsApp phone number is not linked to your account\"",
+      "url": "https://github.com/facebook/facebook-nodejs-business-sdk/issues/301",
+      "createdAt": "2025-11-21T07:24:16.661Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
