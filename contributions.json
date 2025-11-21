@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763718081157,
+      "repository": "sekizlipenguen/react-native-popup-confirm-toast",
+      "issueTitle": "BUG not usable on Android PIP mode",
+      "url": "https://github.com/sekizlipenguen/react-native-popup-confirm-toast/issues/30",
+      "createdAt": "2025-11-21T09:41:21.157Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
