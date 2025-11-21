@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763748140454,
+      "id": 1763748190012,
       "repository": "apache/cordova-mobile-spec",
-      "issueTitle": "[Windows] Tests with external URLs fail because of `http://`",
-      "url": "https://github.com/apache/cordova-mobile-spec/issues/157",
-      "createdAt": "2025-11-21T18:02:20.454Z",
+      "issueTitle": "Reintroduce 3rd party plugin testing",
+      "url": "https://github.com/apache/cordova-mobile-spec/issues/180",
+      "createdAt": "2025-11-21T18:03:10.012Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. This suggestion i..."
     }
   ],
   "stats": {
