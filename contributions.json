@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763705072663,
+      "repository": "PenguinMod/PenguinMod-ExtensionsGallery",
+      "issueTitle": "[Targets] Variables \"for this sprite only\" are modified for the wrong target when in an \"as () do {}\" block",
+      "url": "https://github.com/PenguinMod/PenguinMod-ExtensionsGallery/issues/418",
+      "createdAt": "2025-11-21T06:04:32.663Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
