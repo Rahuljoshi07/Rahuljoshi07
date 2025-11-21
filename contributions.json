@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763740487923,
-      "repository": "creativecommons/cc-legal-tools-app",
-      "issueTitle": "[Bug] Extraneous spaces in HTML",
-      "url": "https://github.com/creativecommons/cc-legal-tools-app/issues/485",
-      "createdAt": "2025-11-21T15:54:47.923Z",
+      "id": 1763740519526,
+      "repository": "stardog-union/stardog.js",
+      "issueTitle": "`user.valid` should check for empty body",
+      "url": "https://github.com/stardog-union/stardog.js/issues/257",
+      "createdAt": "2025-11-21T15:55:19.526Z",
       "type": "comment",
-      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
