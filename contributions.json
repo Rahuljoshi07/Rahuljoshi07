@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763720428717,
+      "repository": "dell/dellemc-openmanage-ansible-modules",
+      "issueTitle": "[BUG]: FC section is missing",
+      "url": "https://github.com/dell/dellemc-openmanage-ansible-modules/issues/1044",
+      "createdAt": "2025-11-21T10:20:28.717Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
