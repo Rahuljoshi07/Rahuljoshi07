@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763729234569,
+      "id": 1763729263930,
       "repository": "nextcloud/integration_onedrive",
-      "issueTitle": "Allow for Selective Import of Specific Files/Folders",
-      "url": "https://github.com/nextcloud/integration_onedrive/issues/63",
-      "createdAt": "2025-11-21T12:47:14.569Z",
+      "issueTitle": "Onedrive Integration -  Client secret getting truncated",
+      "url": "https://github.com/nextcloud/integration_onedrive/issues/99",
+      "createdAt": "2025-11-21T12:47:43.930Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
