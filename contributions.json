@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763687480934,
-      "repository": "steemit/wallet",
-      "issueTitle": "FAQ.html outdated and contains some errors",
-      "url": "https://github.com/steemit/wallet/issues/253",
-      "createdAt": "2025-11-21T01:11:20.934Z",
+      "id": 1763687520738,
+      "repository": "steemit/condenser",
+      "issueTitle": "When you put \"^_^\" in the title it won't publish (Transaction broadcast error: Permlink is not a valid size.)",
+      "url": "https://github.com/steemit/condenser/issues/3954",
+      "createdAt": "2025-11-21T01:12:00.738Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
