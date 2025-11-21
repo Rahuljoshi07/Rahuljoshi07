@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763703071791,
+      "repository": "thatlonelybugbear/automated-conditions-5e",
+      "issueTitle": "[Bug] Mild incompatibility with Ready Set Roll",
+      "url": "https://github.com/thatlonelybugbear/automated-conditions-5e/issues/583",
+      "createdAt": "2025-11-21T05:31:11.791Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
