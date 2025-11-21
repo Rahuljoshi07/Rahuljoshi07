@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763741872215,
+      "repository": "markqvist/Sideband",
+      "issueTitle": "Crash on launch on macOS if path contains spaces",
+      "url": "https://github.com/markqvist/Sideband/issues/63",
+      "createdAt": "2025-11-21T16:17:52.215Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
