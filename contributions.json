@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763740487923,
+      "repository": "creativecommons/cc-legal-tools-app",
+      "issueTitle": "[Bug] Extraneous spaces in HTML",
+      "url": "https://github.com/creativecommons/cc-legal-tools-app/issues/485",
+      "createdAt": "2025-11-21T15:54:47.923Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
