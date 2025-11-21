@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763702003910,
+      "repository": "appwrite/sdk-for-cli",
+      "issueTitle": "🐛 Bug Report: `appwrite function get-execution` crashes with TypeError",
+      "url": "https://github.com/appwrite/sdk-for-cli/issues/153",
+      "createdAt": "2025-11-21T05:13:23.910Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
