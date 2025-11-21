@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763761758911,
+      "repository": "Program-Understanding/oxide",
+      "issueTitle": "[Issue]: Problstc Disasm requires running twice to populate results",
+      "url": "https://github.com/Program-Understanding/oxide/issues/6",
+      "createdAt": "2025-11-21T21:49:18.911Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
