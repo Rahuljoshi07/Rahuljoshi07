@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763709753713,
+      "repository": "common-workflow-language/cwltool",
+      "issueTitle": "CWL validation error for CUDARequirement",
+      "url": "https://github.com/common-workflow-language/cwltool/issues/2114",
+      "createdAt": "2025-11-21T07:22:33.713Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
