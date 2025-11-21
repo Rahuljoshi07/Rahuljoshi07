@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763760009420,
+      "repository": "ladyisatis/OnePaceOrganizer",
+      "issueTitle": "Symlinked episodes miss .mkv extension, Jellyfin does not index them",
+      "url": "https://github.com/ladyisatis/OnePaceOrganizer/issues/10",
+      "createdAt": "2025-11-21T21:20:09.420Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
