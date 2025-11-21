@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763737970912,
-      "repository": "RealRaven2000/SmartTemplates",
-      "issueTitle": "Inconsistencies when Dragging + Editing Template Files in settings",
-      "url": "https://github.com/RealRaven2000/SmartTemplates/issues/402",
-      "createdAt": "2025-11-21T15:12:50.912Z",
+      "id": 1763738007273,
+      "repository": "fumitoh/modelx",
+      "issueTitle": "Serialized space docs with escape sequences deserialized inconsistently",
+      "url": "https://github.com/fumitoh/modelx/issues/191",
+      "createdAt": "2025-11-21T15:13:27.273Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
