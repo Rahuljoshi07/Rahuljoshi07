@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763695503413,
+      "id": 1763695560478,
       "repository": "bahmutov/cyclope",
-      "issueTitle": "Add \"DOM\" button",
-      "url": "https://github.com/bahmutov/cyclope/issues/251",
-      "createdAt": "2025-11-21T03:25:03.413Z",
+      "issueTitle": "Having TypeError: Cannot read properties of undefined (reading 'realHover')",
+      "url": "https://github.com/bahmutov/cyclope/issues/85",
+      "createdAt": "2025-11-21T03:26:00.478Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
