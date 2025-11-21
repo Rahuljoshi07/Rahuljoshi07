@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763717332016,
+      "repository": "NVIDIA-NeMo/Megatron-Bridge",
+      "issueTitle": "load_weights=True doesn't load all weights",
+      "url": "https://github.com/NVIDIA-NeMo/Megatron-Bridge/issues/1420",
+      "createdAt": "2025-11-21T09:28:52.016Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
