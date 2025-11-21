@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763717426357,
-      "repository": "openzim/zimfarm",
-      "issueTitle": "Css/js resources should be cached by browsers",
-      "url": "https://github.com/openzim/zimfarm/issues/537",
-      "createdAt": "2025-11-21T09:30:26.357Z",
+      "id": 1763717473817,
+      "repository": "red-hat-storage/ocs-ci",
+      "issueTitle": "[Bug]: test_delete_rbd_pool_attached_to_sc_UI fails due to TimeoutException: Message: Failed to find the element (xpath,//tr[contains(., 'test-pool')]//button[@aria-label='Kebab toggle'] | //tr[contains(., 'test-pool')]//button[@data-test='kebab-button'])",
+      "url": "https://github.com/red-hat-storage/ocs-ci/issues/13707",
+      "createdAt": "2025-11-21T09:31:13.817Z",
       "type": "comment",
-      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
