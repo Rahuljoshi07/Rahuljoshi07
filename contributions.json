@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763769072173,
+      "repository": "actions/create-github-app-token",
+      "issueTitle": "BUG: v2.1.4, update of auth-app.js is breaking, even if it claims not to be",
+      "url": "https://github.com/actions/create-github-app-token/issues/301",
+      "createdAt": "2025-11-21T23:51:12.173Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
