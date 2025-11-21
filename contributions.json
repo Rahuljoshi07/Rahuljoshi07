@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763698504362,
+      "repository": "kubernetes-sigs/inference-perf",
+      "issueTitle": "`OverflowError: int too big to convert` while running",
+      "url": "https://github.com/kubernetes-sigs/inference-perf/issues/286",
+      "createdAt": "2025-11-21T04:15:04.362Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
