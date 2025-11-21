@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1763691638866,
+      "id": 1763691675199,
       "repository": "otetard/ownpad",
-      "issueTitle": "OwnPad does not allow sharing folders of Etherpads",
-      "url": "https://github.com/otetard/ownpad/issues/134",
-      "createdAt": "2025-11-21T02:20:38.866Z",
+      "issueTitle": "Ownpad v0.11.0 on NC29.0.1 with psql backend fails to validate api key/config due to variable naming mismatch",
+      "url": "https://github.com/otetard/ownpad/issues/146",
+      "createdAt": "2025-11-21T02:21:15.199Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
