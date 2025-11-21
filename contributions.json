@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763711366825,
+      "repository": "nanasess/setup-php",
+      "issueTitle": "Trying to use 8.2 has some sort of apt issue with unicode?",
+      "url": "https://github.com/nanasess/setup-php/issues/275",
+      "createdAt": "2025-11-21T07:49:26.825Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
