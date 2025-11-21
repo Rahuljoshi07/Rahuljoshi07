@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763684721566,
+      "repository": "Koen1999/suricata-check",
+      "issueTitle": "[NEW RULE ISSUE] Add additional SID Allocations to `SidChecker.py`",
+      "url": "https://github.com/Koen1999/suricata-check/issues/5",
+      "createdAt": "2025-11-21T00:25:21.566Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
