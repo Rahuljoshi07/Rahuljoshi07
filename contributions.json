@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763697867309,
+      "repository": "scaleway/scaleway-sdk-python",
+      "issueTitle": "Breaking change in v2.10.x: User and Server models require new mandatory fields",
+      "url": "https://github.com/scaleway/scaleway-sdk-python/issues/1309",
+      "createdAt": "2025-11-21T04:04:27.309Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
