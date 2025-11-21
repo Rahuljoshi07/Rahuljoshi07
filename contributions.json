@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763755719229,
+      "repository": "camunda/camunda-bpmn-js",
+      "issueTitle": "Increase/Decrease in Number fields is inconsistent",
+      "url": "https://github.com/camunda/camunda-bpmn-js/issues/350",
+      "createdAt": "2025-11-21T20:08:39.229Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
