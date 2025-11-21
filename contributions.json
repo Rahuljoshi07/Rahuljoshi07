@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763736911152,
+      "repository": "jonbeckett/virtualflightonlinetransmitter",
+      "issueTitle": "in who_json.php DEGtoDMS can generate an error",
+      "url": "https://github.com/jonbeckett/virtualflightonlinetransmitter/issues/5",
+      "createdAt": "2025-11-21T14:55:11.152Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
