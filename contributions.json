@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763712491346,
+      "repository": "red-hat-storage/ocs-ci",
+      "issueTitle": "[Bug]: test_add_capacity_ui & test_add_capacity_lso_ui failing with ceph pod errors",
+      "url": "https://github.com/red-hat-storage/ocs-ci/issues/13723",
+      "createdAt": "2025-11-21T08:08:11.346Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
