@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763730894420,
+      "repository": "RegioHelden/django-scrubber",
+      "issueTitle": "Proposal: Integrate scrubber wrapper",
+      "url": "https://github.com/RegioHelden/django-scrubber/issues/37",
+      "createdAt": "2025-11-21T13:14:54.420Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
