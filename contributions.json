@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763761939349,
+      "id": 1763761972532,
       "repository": "nextcloud/tables",
-      "issueTitle": "Performance Issues with Tables on Large Datasets",
-      "url": "https://github.com/nextcloud/tables/issues/2158",
-      "createdAt": "2025-11-21T21:52:19.349Z",
+      "issueTitle": "Summation total or average of a column",
+      "url": "https://github.com/nextcloud/tables/issues/2160",
+      "createdAt": "2025-11-21T21:52:52.532Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
