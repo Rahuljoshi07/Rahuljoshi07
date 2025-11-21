@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763728455471,
+      "repository": "prem-k-r/MaterialYouNewTab",
+      "issueTitle": "[Bug]: Custom website favicons not displayed, pixelated globe instead",
+      "url": "https://github.com/prem-k-r/MaterialYouNewTab/issues/81",
+      "createdAt": "2025-11-21T12:34:15.471Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
