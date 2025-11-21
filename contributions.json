@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763745220472,
+      "repository": "tenstorrent/tt-forge",
+      "issueTitle": "Issues running tt-xla on cloud instance",
+      "url": "https://github.com/tenstorrent/tt-forge/issues/529",
+      "createdAt": "2025-11-21T17:13:40.472Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
