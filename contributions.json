@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763687798584,
+      "repository": "nextcloud/mail",
+      "issueTitle": "Threading Mode: Older messages in a conversation are not shown, only visible in non-threaded view",
+      "url": "https://github.com/nextcloud/mail/issues/12028",
+      "createdAt": "2025-11-21T01:16:38.584Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
