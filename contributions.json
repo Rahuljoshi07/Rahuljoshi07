@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763835185152,
+      "repository": "kirillzhosul/gofra",
+      "issueTitle": "[typechcker, warnings] Add unreachable code detection",
+      "url": "https://github.com/kirillzhosul/gofra/issues/47",
+      "createdAt": "2025-11-22T18:13:05.152Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. (Suggested by Rahul Joshi..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
