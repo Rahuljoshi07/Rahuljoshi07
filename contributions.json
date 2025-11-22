@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763839814732,
+      "repository": "goruck/home-generative-agent",
+      "issueTitle": "face recognition server multiple entry in UI",
+      "url": "https://github.com/goruck/home-generative-agent/issues/144",
+      "createdAt": "2025-11-22T19:30:14.732Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
