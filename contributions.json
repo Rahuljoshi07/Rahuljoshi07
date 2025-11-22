@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763808140639,
+      "repository": "Sharly-Chess/sharly-chess",
+      "issueTitle": "[BUG] Date of birth comparator issue",
+      "url": "https://github.com/Sharly-Chess/sharly-chess/issues/337",
+      "createdAt": "2025-11-22T10:42:20.639Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
