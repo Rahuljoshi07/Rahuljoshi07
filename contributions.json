@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763816425015,
+      "repository": "UiPath/uipath-python",
+      "issueTitle": "[Bug/Feature Request] Package pushed via Python SDK defaults to type \"Agent\" with no option to set type \"RPA/Process\"",
+      "url": "https://github.com/UiPath/uipath-python/issues/912",
+      "createdAt": "2025-11-22T13:00:25.015Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
