@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763775591435,
+      "repository": "XLearning-SCU/2025-ICLR-TCR",
+      "issueTitle": "Significant performance gap between reported and my reproduced results on COCO-C (QS)",
+      "url": "https://github.com/XLearning-SCU/2025-ICLR-TCR/issues/7",
+      "createdAt": "2025-11-22T01:39:51.435Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
