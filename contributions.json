@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763825959602,
+      "repository": "piScope/piScope",
+      "issueTitle": "Error message while saving slice plot of Solution to image",
+      "url": "https://github.com/piScope/piScope/issues/94",
+      "createdAt": "2025-11-22T15:39:19.602Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
