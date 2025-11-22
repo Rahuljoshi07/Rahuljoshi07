@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763842739055,
+      "repository": "iobroker-community-adapters/ioBroker.shelly",
+      "issueTitle": "[Bug  / BLE]: Shelly BLE Button 4; fehlerhaftes Auswerten Tastendruck",
+      "url": "https://github.com/iobroker-community-adapters/ioBroker.shelly/issues/1292",
+      "createdAt": "2025-11-22T20:18:59.055Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
