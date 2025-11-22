@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763803669858,
+      "repository": "packing-box/docker-packing-box",
+      "issueTitle": "Error with filter-archive tool and assess command",
+      "url": "https://github.com/packing-box/docker-packing-box/issues/167",
+      "createdAt": "2025-11-22T09:27:49.858Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
