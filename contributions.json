@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763800828521,
+      "repository": "nextcloud/notifications",
+      "issueTitle": "Verify token caching",
+      "url": "https://github.com/nextcloud/notifications/issues/2625",
+      "createdAt": "2025-11-22T08:40:28.521Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
