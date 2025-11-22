@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763826267600,
+      "repository": "CN-E-Learning/CN-e-learning",
+      "issueTitle": "网页加载问题",
+      "url": "https://github.com/CN-E-Learning/CN-e-learning/issues/135",
+      "createdAt": "2025-11-22T15:44:27.600Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
