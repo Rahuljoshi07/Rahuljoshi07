@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763808650811,
+      "repository": "j-a-n/lovelace-wallpanel",
+      "issueTitle": "Wallpanel error: Failed to enter full screen",
+      "url": "https://github.com/j-a-n/lovelace-wallpanel/issues/507",
+      "createdAt": "2025-11-22T10:50:50.812Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
