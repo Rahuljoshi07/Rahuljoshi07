@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763825060545,
+      "repository": "bradrevans/myrient-downloader",
+      "issueTitle": "Limit concurrent downloads",
+      "url": "https://github.com/bradrevans/myrient-downloader/issues/21",
+      "createdAt": "2025-11-22T15:24:20.545Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
