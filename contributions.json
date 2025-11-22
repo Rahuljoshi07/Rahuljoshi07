@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763771735365,
+      "repository": "cpcloud/numbsql",
+      "issueTitle": "Why no support for collation functions?",
+      "url": "https://github.com/cpcloud/numbsql/issues/780",
+      "createdAt": "2025-11-22T00:35:35.365Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
