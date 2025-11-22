@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763849626489,
+      "repository": "vitejs/docs-es",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/vitejs/docs-es/issues/825",
+      "createdAt": "2025-11-22T22:13:46.489Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. (Suggested by..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
