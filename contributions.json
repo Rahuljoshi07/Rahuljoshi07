@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763812944854,
+      "repository": "pyauth/python-pkcs11",
+      "issueTitle": "Running python-pkcs11 in Docker - DeviceError",
+      "url": "https://github.com/pyauth/python-pkcs11/issues/220",
+      "createdAt": "2025-11-22T12:02:24.854Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
