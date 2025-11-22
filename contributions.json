@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763778178480,
+      "repository": "system2k/NodeWorldOfText",
+      "issueTitle": "Add back missing chat emotes like :aha:",
+      "url": "https://github.com/system2k/NodeWorldOfText/issues/194",
+      "createdAt": "2025-11-22T02:22:58.480Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
