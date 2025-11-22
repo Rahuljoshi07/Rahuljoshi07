@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763796411244,
+      "repository": "Jasons-impart/Create-Delight-Remake",
+      "issueTitle": "使用`矿物钻井`配合`下届合金钻头`开采`主世界贵金属矿簇`时会出现`钻头不可用`提示",
+      "url": "https://github.com/Jasons-impart/Create-Delight-Remake/issues/1238",
+      "createdAt": "2025-11-22T07:26:51.244Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
