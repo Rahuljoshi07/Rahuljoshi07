@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1763817823272,
-      "repository": "kkomelin/isomorphic-dompurify",
-      "issueTitle": "`lru-cache@11.2.1` dependency causes ES module resolution errors in Nuxt/Nitro builds",
-      "url": "https://github.com/kkomelin/isomorphic-dompurify/issues/353",
-      "createdAt": "2025-11-22T13:23:43.272Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
