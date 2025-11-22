@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763835642655,
+      "repository": "opensource-observer/oso",
+      "issueTitle": "Refactor the Open Dev Data dagster asset",
+      "url": "https://github.com/opensource-observer/oso/issues/5710",
+      "createdAt": "2025-11-22T18:20:42.655Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
