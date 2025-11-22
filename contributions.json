@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763777491408,
+      "id": 1763777517197,
       "repository": "nextcloud/integration_onedrive",
-      "issueTitle": "allow export data from nextcloud to onedrive",
-      "url": "https://github.com/nextcloud/integration_onedrive/issues/64",
-      "createdAt": "2025-11-22T02:11:31.408Z",
+      "issueTitle": "Onedrive Integration -  Client secret getting truncated",
+      "url": "https://github.com/nextcloud/integration_onedrive/issues/99",
+      "createdAt": "2025-11-22T02:11:57.197Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
