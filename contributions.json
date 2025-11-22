@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763834909971,
+      "repository": "v0-3/cactus",
+      "issueTitle": "Error when trying to use Turbo mode. Will there be a fix?",
+      "url": "https://github.com/v0-3/cactus/issues/8",
+      "createdAt": "2025-11-22T18:08:29.971Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
