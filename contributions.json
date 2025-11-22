@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763808378953,
+      "repository": "babalae/bettergi-scripts-list",
+      "issueTitle": "[bug] 七聖召喚每周打牌一條龍無法燒最後一張牌卡死",
+      "url": "https://github.com/babalae/bettergi-scripts-list/issues/2339",
+      "createdAt": "2025-11-22T10:46:18.953Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
