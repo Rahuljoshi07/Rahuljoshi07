@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763817595241,
+      "repository": "markqvist/RNode_Firmware",
+      "issueTitle": "Error flashing latest firmware to RAK4631",
+      "url": "https://github.com/markqvist/RNode_Firmware/issues/111",
+      "createdAt": "2025-11-22T13:19:55.241Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
