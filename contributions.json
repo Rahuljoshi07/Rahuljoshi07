@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763854066735,
+      "repository": "Knowledge-Graph-Hub/kg-registry",
+      "issueTitle": "KG-Registry-KG view does not show all cross-resource edges",
+      "url": "https://github.com/Knowledge-Graph-Hub/kg-registry/issues/443",
+      "createdAt": "2025-11-22T23:27:46.735Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
