@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763772536777,
+      "repository": "openxla/tokamax",
+      "issueTitle": "Error tuning ragged_dot backward",
+      "url": "https://github.com/openxla/tokamax/issues/375",
+      "createdAt": "2025-11-22T00:48:56.777Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
