@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763829297888,
+      "repository": "rootflo/flo-ai",
+      "issueTitle": "[BUG] 400 Bad Request from Mistral reflection router example in Flo-ai",
+      "url": "https://github.com/rootflo/flo-ai/issues/143",
+      "createdAt": "2025-11-22T16:34:57.888Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
