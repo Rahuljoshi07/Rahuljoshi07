@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763843587717,
+      "id": 1763843616170,
       "repository": "iobroker-community-adapters/ioBroker.shelly",
-      "issueTitle": "[Hardware Request / BLE]: Ecowitt Shelly Wetterstation WS  90 ",
-      "url": "https://github.com/iobroker-community-adapters/ioBroker.shelly/issues/1293",
-      "createdAt": "2025-11-22T20:33:07.717Z",
+      "issueTitle": "[Bug]: [MQTT] Unable to get mqttprefix of client with id \"shellyplus2pm-e",
+      "url": "https://github.com/iobroker-community-adapters/ioBroker.shelly/issues/931",
+      "createdAt": "2025-11-22T20:33:36.171Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
