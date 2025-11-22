@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763810952119,
+      "repository": "itemsapi/itemsjs",
+      "issueTitle": "bug with selected value for boolean facet",
+      "url": "https://github.com/itemsapi/itemsjs/issues/119",
+      "createdAt": "2025-11-22T11:29:12.119Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
