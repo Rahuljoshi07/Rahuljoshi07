@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763840698846,
+      "repository": "hubot-archive/hubot-pager-me",
+      "issueTitle": "No response given for invalid issue numbers",
+      "url": "https://github.com/hubot-archive/hubot-pager-me/issues/105",
+      "createdAt": "2025-11-22T19:44:58.846Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
