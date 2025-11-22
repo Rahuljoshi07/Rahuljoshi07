@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1763847780664,
-      "repository": "dbt-labs/dbt-autofix",
-      "issueTitle": "`Error processing my_model.sql: TemplateSyntaxError: expected token  ',', got '...'`",
-      "url": "https://github.com/dbt-labs/dbt-autofix/issues/221",
-      "createdAt": "2025-11-22T21:43:00.664Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
