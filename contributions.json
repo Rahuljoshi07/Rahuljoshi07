@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763778715202,
-      "repository": "NiffirgkcaJ/all-in-one-clipboard",
-      "issueTitle": "Package for Nixpkgs",
-      "url": "https://github.com/NiffirgkcaJ/all-in-one-clipboard/issues/14",
-      "createdAt": "2025-11-22T02:31:55.203Z",
+      "id": 1763778757997,
+      "repository": "nextcloud/files_retention",
+      "issueTitle": "Files deleted by files_retention are moved to invalid folder \"data/files_trashbin/versions\"",
+      "url": "https://github.com/nextcloud/files_retention/issues/822",
+      "createdAt": "2025-11-22T02:32:37.997Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
