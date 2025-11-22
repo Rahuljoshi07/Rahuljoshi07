@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763809060841,
+      "repository": "boytchev/disfigure",
+      "issueTitle": "Examples with TSL textures raise error",
+      "url": "https://github.com/boytchev/disfigure/issues/18",
+      "createdAt": "2025-11-22T10:57:40.841Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
