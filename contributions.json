@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763804561403,
+      "repository": "zillow/quantile-forest",
+      "issueTitle": "Port scikit-learn `absolute_error` criterion performance improvements to quantile-forest",
+      "url": "https://github.com/zillow/quantile-forest/issues/138",
+      "createdAt": "2025-11-22T09:42:41.403Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
