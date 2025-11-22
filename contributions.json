@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763824288092,
+      "repository": "REG-Linux/REG-Linux",
+      "issueTitle": "[RP5] Various issues",
+      "url": "https://github.com/REG-Linux/REG-Linux/issues/1971",
+      "createdAt": "2025-11-22T15:11:28.092Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
