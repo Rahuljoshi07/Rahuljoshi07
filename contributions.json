@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763820076282,
+      "repository": "ottopaulsen/node-red-contrib-power-saver",
+      "issueTitle": "Bug: Minimum Save Interval for Best Save Node is Not Respected (5.0.0-beta.1)",
+      "url": "https://github.com/ottopaulsen/node-red-contrib-power-saver/issues/232",
+      "createdAt": "2025-11-22T14:01:16.282Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
