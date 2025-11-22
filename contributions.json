@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763834179534,
+      "repository": "facebookresearch/spdl",
+      "issueTitle": "Torchcodec example",
+      "url": "https://github.com/facebookresearch/spdl/issues/1171",
+      "createdAt": "2025-11-22T17:56:19.534Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
