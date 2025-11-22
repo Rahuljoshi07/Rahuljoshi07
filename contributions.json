@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763810794963,
+      "repository": "cr0hn/aiotasks",
+      "issueTitle": "TypeError: DB must be of int type, not '12'",
+      "url": "https://github.com/cr0hn/aiotasks/issues/13",
+      "createdAt": "2025-11-22T11:26:34.963Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
