@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763835580833,
+      "repository": "8080713/iptv-api666",
+      "issueTitle": "[Bug]: Windows运行了很多遍会报错",
+      "url": "https://github.com/8080713/iptv-api666/issues/1",
+      "createdAt": "2025-11-22T18:19:40.833Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
