@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763815087933,
+      "repository": "ArkanDash/Advanced-RVC-Inference",
+      "issueTitle": "[BUG] Audio not appearing in the audio player within the gradio webui",
+      "url": "https://github.com/ArkanDash/Advanced-RVC-Inference/issues/23",
+      "createdAt": "2025-11-22T12:38:07.934Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
