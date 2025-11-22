@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1763773078159,
+      "id": 1763773105729,
       "repository": "kkomelin/isomorphic-dompurify",
-      "issueTitle": "t.createWindow error when upgrade to next.js 15.2.5 or 15.3.1",
-      "url": "https://github.com/kkomelin/isomorphic-dompurify/issues/330",
-      "createdAt": "2025-11-22T00:57:58.159Z",
+      "issueTitle": "Node.js v22.x - webidl-conversions@8.0.0 from jsdom@27.0.0 causing an error during server start in next.js",
+      "url": "https://github.com/kkomelin/isomorphic-dompurify/issues/356",
+      "createdAt": "2025-11-22T00:58:25.729Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
