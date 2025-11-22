@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763813917452,
+      "repository": "jkjkil4/JAnim",
+      "issueTitle": "Crash on wayland when exporting video from GUI",
+      "url": "https://github.com/jkjkil4/JAnim/issues/24",
+      "createdAt": "2025-11-22T12:18:37.452Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
