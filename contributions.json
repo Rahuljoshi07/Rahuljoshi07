@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763821679840,
+      "repository": "mw-root/uv-lock-report",
+      "issueTitle": "Bug when rebasing - report comment shows way more changed packages than expected",
+      "url": "https://github.com/mw-root/uv-lock-report/issues/73",
+      "createdAt": "2025-11-22T14:27:59.840Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
