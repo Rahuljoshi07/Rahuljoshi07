@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763778282689,
+      "id": 1763778316412,
       "repository": "somiibo/facebook-bot",
       "issueTitle": "Error when run \"NPM Start\"",
       "url": "https://github.com/somiibo/facebook-bot/issues/3",
-      "createdAt": "2025-11-22T02:24:42.689Z",
+      "createdAt": "2025-11-22T02:25:16.412Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
