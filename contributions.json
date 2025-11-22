@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763819030086,
+      "repository": "shaww855/acfun-live",
+      "issueTitle": "出错时自动重启导致程序混乱",
+      "url": "https://github.com/shaww855/acfun-live/issues/82",
+      "createdAt": "2025-11-22T13:43:50.086Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
