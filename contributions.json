@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763839630815,
+      "repository": "canonical/vault-k8s-operator",
+      "issueTitle": "Documentation: Vault 1.16 -> 1.18 upgrade",
+      "url": "https://github.com/canonical/vault-k8s-operator/issues/842",
+      "createdAt": "2025-11-22T19:27:10.815Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
