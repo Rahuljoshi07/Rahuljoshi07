@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763883431923,
+      "repository": "andrew-codechimp/HA-Battery-Notes",
+      "issueTitle": "Entities unavailable for sleeping devices",
+      "url": "https://github.com/andrew-codechimp/HA-Battery-Notes/issues/1802",
+      "createdAt": "2025-11-23T07:37:11.923Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
