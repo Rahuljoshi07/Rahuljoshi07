@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763903776742,
+      "repository": "Drlanderf/clara_oswald",
+      "issueTitle": "Music bot part don't work",
+      "url": "https://github.com/Drlanderf/clara_oswald/issues/160",
+      "createdAt": "2025-11-23T13:16:16.743Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
