@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763858171777,
+      "repository": "octokit/openapi-types.ts",
+      "issueTitle": "[MAINT]: run script to generate types as part of CI",
+      "url": "https://github.com/octokit/openapi-types.ts/issues/430",
+      "createdAt": "2025-11-23T00:36:11.777Z",
+      "type": "comment",
+      "content": "Adding TypeScript could improve code quality and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
