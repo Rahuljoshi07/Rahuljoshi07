@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763930466472,
+      "repository": "NiceVPN123/NiceVPN",
+      "issueTitle": "托管配置文件格式不正确: yaml: unmarshal errors: line 1: cannot unmarshal !!str `<!DOCTY...` into config.RawConfig ",
+      "url": "https://github.com/NiceVPN123/NiceVPN/issues/30",
+      "createdAt": "2025-11-23T20:41:06.473Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
