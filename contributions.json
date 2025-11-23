@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763901399625,
+      "repository": "Wulian233/mcmod-translation-dict",
+      "issueTitle": "bug: 中文查询时进行了不必要的整体查询",
+      "url": "https://github.com/Wulian233/mcmod-translation-dict/issues/6",
+      "createdAt": "2025-11-23T12:36:39.625Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
