@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763900787070,
+      "repository": "FoolVPN-ID/Nautica",
+      "issueTitle": "Error 522",
+      "url": "https://github.com/FoolVPN-ID/Nautica/issues/95",
+      "createdAt": "2025-11-23T12:26:27.070Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
