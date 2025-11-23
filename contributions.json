@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763882950841,
+      "repository": "fllesser/nonebot-plugin-parser",
+      "issueTitle": "Bug: 小红书gif提取有误",
+      "url": "https://github.com/fllesser/nonebot-plugin-parser/issues/330",
+      "createdAt": "2025-11-23T07:29:10.841Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
