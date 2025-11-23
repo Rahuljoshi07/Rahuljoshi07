@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763869084133,
-      "repository": "nextcloud/user_migration",
-      "issueTitle": "Calendar Export : Skipping calendar containing invalid calendar data",
-      "url": "https://github.com/nextcloud/user_migration/issues/784",
-      "createdAt": "2025-11-23T03:38:04.133Z",
+      "id": 1763869123306,
+      "repository": "nextcloud/photos",
+      "issueTitle": "Photos v32.0.1 introduces issue navigating next/previous images in file viewer",
+      "url": "https://github.com/nextcloud/photos/issues/3264",
+      "createdAt": "2025-11-23T03:38:43.306Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
