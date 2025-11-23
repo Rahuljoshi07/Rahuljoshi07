@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763908180136,
+      "repository": "kamilburda/batcher",
+      "issueTitle": "Crash at start when running via command line and Appimage",
+      "url": "https://github.com/kamilburda/batcher/issues/101",
+      "createdAt": "2025-11-23T14:29:40.136Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
