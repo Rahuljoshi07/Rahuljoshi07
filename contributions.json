@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763915370732,
+      "repository": "libtcod/python-tcod",
+      "issueTitle": "Support for building `python-tcod` with Python 3.13 `--disable-gil` (no-GIL) build",
+      "url": "https://github.com/libtcod/python-tcod/issues/161",
+      "createdAt": "2025-11-23T16:29:30.732Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
