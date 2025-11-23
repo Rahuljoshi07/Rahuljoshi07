@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763875024439,
+      "repository": "mother-of-all-self-hosting/mash-playbook",
+      "issueTitle": "Uploads >60s over HTTP/2 are terminated by Traefik due to readTimeout",
+      "url": "https://github.com/mother-of-all-self-hosting/mash-playbook/issues/625",
+      "createdAt": "2025-11-23T05:17:04.439Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
