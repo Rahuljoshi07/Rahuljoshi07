@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763901893499,
+      "repository": "OpenEnergyPlatform/oeplatform",
+      "issueTitle": "Profile/Tables: only \"data\" topic is shown for all listed tables, leads to more errors",
+      "url": "https://github.com/OpenEnergyPlatform/oeplatform/issues/2171",
+      "createdAt": "2025-11-23T12:44:53.500Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
