@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763876530435,
+      "repository": "rishikeshsreehari/npsnav",
+      "issueTitle": "Check why some dates are missing in last 1M",
+      "url": "https://github.com/rishikeshsreehari/npsnav/issues/26",
+      "createdAt": "2025-11-23T05:42:10.435Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
