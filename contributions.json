@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763924577739,
+      "repository": "lisp-docs/cl-language-reference",
+      "issueTitle": "[WSCL Issue] sample issue",
+      "url": "https://github.com/lisp-docs/cl-language-reference/issues/4",
+      "createdAt": "2025-11-23T19:02:57.739Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
