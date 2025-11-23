@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763857269306,
+      "repository": "nextcloud/assistant",
+      "issueTitle": "Error when retrying a task when the model used for the retried task is not available anymore",
+      "url": "https://github.com/nextcloud/assistant/issues/400",
+      "createdAt": "2025-11-23T00:21:09.306Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
