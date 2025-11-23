@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763856509375,
+      "repository": "Yonokid/PyTaiko",
+      "issueTitle": "Buru Chan no Oyatsu crashes the game",
+      "url": "https://github.com/Yonokid/PyTaiko/issues/155",
+      "createdAt": "2025-11-23T00:08:29.375Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
