@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763864251367,
+      "repository": "brentyi/tyro",
+      "issueTitle": "[Feature] Enable --flag / --no-flag syntax for DisallowNone[bool | None]",
+      "url": "https://github.com/brentyi/tyro/issues/381",
+      "createdAt": "2025-11-23T02:17:31.367Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
