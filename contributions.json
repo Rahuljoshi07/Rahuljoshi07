@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763888768374,
+      "repository": "cle-b/httpdbg",
+      "issueTitle": "On Windows, the group label is empty in case of Internal Server Error in a Flask endpoint",
+      "url": "https://github.com/cle-b/httpdbg/issues/189",
+      "createdAt": "2025-11-23T09:06:08.374Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
