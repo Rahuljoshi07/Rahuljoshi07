@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763905331834,
+      "repository": "cockpit-project/cockpit-podman",
+      "issueTitle": "Empty page on first load in Cockpit Client when podman.service needs to start",
+      "url": "https://github.com/cockpit-project/cockpit-podman/issues/2333",
+      "createdAt": "2025-11-23T13:42:11.835Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
