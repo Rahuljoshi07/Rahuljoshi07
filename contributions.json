@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763878847688,
+      "repository": "Emano-Waldeck/pdf-reader",
+      "issueTitle": "Bug: Clicking in Document Outline resets zoom level",
+      "url": "https://github.com/Emano-Waldeck/pdf-reader/issues/20",
+      "createdAt": "2025-11-23T06:20:47.688Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
