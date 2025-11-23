@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763887369313,
+      "repository": "dvd-22/creador-horarios",
+      "issueTitle": "[BUG] Clicking a group with ScheduleSelector panel collapsed, does not reveal the group",
+      "url": "https://github.com/dvd-22/creador-horarios/issues/8",
+      "createdAt": "2025-11-23T08:42:49.313Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
