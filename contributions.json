@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763897741931,
+      "repository": "phamquiluan/ResidualMaskingNetwork",
+      "issueTitle": "Resmasking Forward Function TypeError",
+      "url": "https://github.com/phamquiluan/ResidualMaskingNetwork/issues/53",
+      "createdAt": "2025-11-23T11:35:41.931Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
