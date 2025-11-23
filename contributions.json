@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763857857036,
+      "repository": "jeancochrane/mellow-bike-map",
+      "issueTitle": "Multiple route options",
+      "url": "https://github.com/jeancochrane/mellow-bike-map/issues/76",
+      "createdAt": "2025-11-23T00:30:57.036Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
