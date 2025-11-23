@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763911799653,
-      "repository": "nordlow/compiler-benchmark",
-      "issueTitle": "adding cproc",
-      "url": "https://github.com/nordlow/compiler-benchmark/issues/32",
-      "createdAt": "2025-11-23T15:29:59.653Z",
+      "id": 1763911826504,
+      "repository": "vtst/google-apps-scripts",
+      "issueTitle": "ReferenceError: \"gapi\" is not defined. (line 6, file \"Code\")",
+      "url": "https://github.com/vtst/google-apps-scripts/issues/2",
+      "createdAt": "2025-11-23T15:30:26.504Z",
       "type": "comment",
-      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
