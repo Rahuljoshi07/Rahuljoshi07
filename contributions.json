@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763908626945,
+      "repository": "zhaiiker/SillyTavernchat",
+      "issueTitle": "导入美化后有个小小的bug",
+      "url": "https://github.com/zhaiiker/SillyTavernchat/issues/12",
+      "createdAt": "2025-11-23T14:37:06.945Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
