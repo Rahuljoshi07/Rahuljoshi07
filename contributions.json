@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763870789047,
-      "repository": "2M4U/2m4u",
-      "issueTitle": ".env.template is missing",
-      "url": "https://github.com/2M4U/2m4u/issues/9",
-      "createdAt": "2025-11-23T04:06:29.047Z",
+      "id": 1763870828972,
+      "repository": "nextcloud/files_retention",
+      "issueTitle": "Files deleted by files_retention are moved to invalid folder \"data/files_trashbin/versions\"",
+      "url": "https://github.com/nextcloud/files_retention/issues/822",
+      "createdAt": "2025-11-23T04:07:08.972Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
