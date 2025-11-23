@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763860846746,
+      "repository": "danielmiessler/Personal_AI_Infrastructure",
+      "issueTitle": "Missing Commands folder in .claude",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure/issues/115",
+      "createdAt": "2025-11-23T01:20:46.746Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
