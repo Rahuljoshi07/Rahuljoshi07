@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763889940612,
+      "repository": "opengisch/qfieldsync",
+      "issueTitle": "Question: why \"synchronize from QField\" updates/changes the project used to generate the off-line project with \"Package for Qfield\"?",
+      "url": "https://github.com/opengisch/qfieldsync/issues/726",
+      "createdAt": "2025-11-23T09:25:40.612Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
