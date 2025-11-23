@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763929053163,
+      "repository": "okorach/sonar-tools",
+      "issueTitle": "`sonar-config` import aborts if htting a project with insufficient permissions",
+      "url": "https://github.com/okorach/sonar-tools/issues/2085",
+      "createdAt": "2025-11-23T20:17:33.163Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
