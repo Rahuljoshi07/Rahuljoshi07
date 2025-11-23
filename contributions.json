@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763939330928,
+      "repository": "gabrielbaute/spotify-saver",
+      "issueTitle": "[BUG] web ui spotifysaver-ui not registered in the pyproject.toml & web files do not install",
+      "url": "https://github.com/gabrielbaute/spotify-saver/issues/33",
+      "createdAt": "2025-11-23T23:08:50.928Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
