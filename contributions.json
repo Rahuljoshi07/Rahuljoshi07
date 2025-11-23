@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763880941589,
+      "repository": "supertone-inc/supertonic",
+      "issueTitle": "Unable to pronounce some words with (’) in it",
+      "url": "https://github.com/supertone-inc/supertonic/issues/16",
+      "createdAt": "2025-11-23T06:55:41.589Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
