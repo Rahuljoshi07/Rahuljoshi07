@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763930251348,
+      "id": 1763930289259,
       "repository": "QuoteVote/quotevote-monorepo",
       "issueTitle": "Fix Netlify Deploy Preview Connection Issues Permanently",
       "url": "https://github.com/QuoteVote/quotevote-monorepo/issues/273",
-      "createdAt": "2025-11-23T20:37:31.348Z",
+      "createdAt": "2025-11-23T20:38:09.259Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
