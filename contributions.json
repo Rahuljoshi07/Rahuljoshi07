@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763860107004,
+      "repository": "Heartestrella/NeoSSH",
+      "issueTitle": "文件管理器-打包压缩文件进度列表显示异常",
+      "url": "https://github.com/Heartestrella/NeoSSH/issues/59",
+      "createdAt": "2025-11-23T01:08:27.004Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
