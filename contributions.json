@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763900573026,
+      "repository": "TA2k/ioBroker.bmw",
+      "issueTitle": "Please consider fixing issues detected by repository checker",
+      "url": "https://github.com/TA2k/ioBroker.bmw/issues/193",
+      "createdAt": "2025-11-23T12:22:53.026Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
