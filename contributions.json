@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763857932989,
+      "repository": "nextcloud/end_to_end_encryption",
+      "issueTitle": "partial e2ee setup breaks with error 500",
+      "url": "https://github.com/nextcloud/end_to_end_encryption/issues/1189",
+      "createdAt": "2025-11-23T00:32:12.990Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
