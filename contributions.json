@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763940418728,
+      "repository": "5f32797a/VimeoSPL",
+      "issueTitle": "Error 403",
+      "url": "https://github.com/5f32797a/VimeoSPL/issues/11",
+      "createdAt": "2025-11-23T23:26:58.729Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
