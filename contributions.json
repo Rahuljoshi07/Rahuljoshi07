@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763928141149,
+      "repository": "bpwhelan/GameSentenceMiner",
+      "issueTitle": "Linux/Mac To-Do List / Known issues",
+      "url": "https://github.com/bpwhelan/GameSentenceMiner/issues/270",
+      "createdAt": "2025-11-23T20:02:21.149Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
