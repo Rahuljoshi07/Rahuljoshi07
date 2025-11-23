@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763869424680,
+      "repository": "apache/cordova-serve",
+      "issueTitle": "synchronize files with the local server ",
+      "url": "https://github.com/apache/cordova-serve/issues/41",
+      "createdAt": "2025-11-23T03:43:44.680Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
