@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763861884789,
+      "repository": "nextcloud/richdocuments",
+      "issueTitle": "apps/richdocuments/settings/fonts.json returns proper data but also error code 404",
+      "url": "https://github.com/nextcloud/richdocuments/issues/5193",
+      "createdAt": "2025-11-23T01:38:04.789Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
