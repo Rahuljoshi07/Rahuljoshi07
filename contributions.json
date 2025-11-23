@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763859555366,
+      "repository": "HITSZ-OpenAuto/hoa-moe",
+      "issueTitle": "[Bug] 搜索功能无法搜索标题，只能搜索内容",
+      "url": "https://github.com/HITSZ-OpenAuto/hoa-moe/issues/362",
+      "createdAt": "2025-11-23T00:59:15.366Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
