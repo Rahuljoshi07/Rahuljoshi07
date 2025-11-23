@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763886247334,
+      "repository": "dashscope/dashscope-sdk-python",
+      "issueTitle": "[BUG] QwenVL 视觉推理，采用本地文件上传时，文件未关闭，告警太烦。",
+      "url": "https://github.com/dashscope/dashscope-sdk-python/issues/77",
+      "createdAt": "2025-11-23T08:24:07.334Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
