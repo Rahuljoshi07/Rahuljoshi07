@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1763867465178,
+      "id": 1763867497716,
       "repository": "cyfung1031/userscript-supports",
       "issueTitle": "Uncaught TypeError: Cannot read properties of undefined (reading 'isWatchNarrowWidth')",
       "url": "https://github.com/cyfung1031/userscript-supports/issues/91",
-      "createdAt": "2025-11-23T03:11:05.178Z",
+      "createdAt": "2025-11-23T03:11:37.716Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
