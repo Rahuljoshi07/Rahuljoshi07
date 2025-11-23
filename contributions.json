@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763940983165,
+      "repository": "feldroy/air",
+      "issueTitle": "BUG: AirRouter assigns incorrect type to default parameter",
+      "url": "https://github.com/feldroy/air/issues/857",
+      "createdAt": "2025-11-23T23:36:23.165Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
