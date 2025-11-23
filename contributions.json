@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1763907372367,
-      "repository": "vtst/google-apps-scripts",
-      "issueTitle": "ReferenceError: \"gapi\" is not defined. (line 6, file \"Code\")",
-      "url": "https://github.com/vtst/google-apps-scripts/issues/2",
-      "createdAt": "2025-11-23T14:16:12.367Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
