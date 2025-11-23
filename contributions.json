@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763923320459,
+      "repository": "cbcoutinho/nextcloud-mcp-server",
+      "issueTitle": "Track upstream: MCP Client OAuth/DCR Compatibility Issues - Scope and Authentication Problems",
+      "url": "https://github.com/cbcoutinho/nextcloud-mcp-server/issues/234",
+      "createdAt": "2025-11-23T18:42:00.459Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
