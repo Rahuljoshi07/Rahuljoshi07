@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763867702085,
+      "repository": "StarWarsFoundryVTT/StarWarsFFG",
+      "issueTitle": "Dice result of attacks from inventory not showing up in chat.",
+      "url": "https://github.com/StarWarsFoundryVTT/StarWarsFFG/issues/2034",
+      "createdAt": "2025-11-23T03:15:02.085Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
