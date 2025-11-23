@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763870102692,
+      "repository": "trilogy-data/pytrilogy",
+      "issueTitle": "Thread Safety Issue In Pydantic",
+      "url": "https://github.com/trilogy-data/pytrilogy/issues/287",
+      "createdAt": "2025-11-23T03:55:02.693Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
