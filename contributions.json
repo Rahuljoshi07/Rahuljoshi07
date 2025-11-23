@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763933026000,
+      "repository": "sawyerf/Castafiore",
+      "issueTitle": "Navbar color in player view",
+      "url": "https://github.com/sawyerf/Castafiore/issues/92",
+      "createdAt": "2025-11-23T21:23:46.000Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
