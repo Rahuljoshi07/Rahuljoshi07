@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763913363656,
+      "repository": "tmhglnd/mercury-playground",
+      "issueTitle": "timediv() doesn't seem to work as advertised (or maybe it does ;-)",
+      "url": "https://github.com/tmhglnd/mercury-playground/issues/42",
+      "createdAt": "2025-11-23T15:56:03.656Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
