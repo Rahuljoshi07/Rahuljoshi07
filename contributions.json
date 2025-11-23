@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763898259105,
+      "repository": "Shasnow/StarRailAssistant",
+      "issueTitle": "[Bug]货币战争手卡数量有概率识别出错",
+      "url": "https://github.com/Shasnow/StarRailAssistant/issues/66",
+      "createdAt": "2025-11-23T11:44:19.105Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
