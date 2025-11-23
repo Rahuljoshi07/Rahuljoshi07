@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763867235356,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Improve Alt Text for Images Across Components",
+      "url": "https://github.com/OWASP/Nest/issues/2654",
+      "createdAt": "2025-11-23T03:07:15.356Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
