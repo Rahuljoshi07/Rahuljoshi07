@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763946963274,
+      "repository": "nextcloud/mail",
+      "issueTitle": "Cannot send emails – Mail app returns 500 for /apps/mail/api/messages while SMTP works (NC 32.0.2, Mail 5.6.0)",
+      "url": "https://github.com/nextcloud/mail/issues/12068",
+      "createdAt": "2025-11-24T01:16:03.274Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
