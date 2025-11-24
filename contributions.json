@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763942977105,
+      "repository": "TeamAOF/Craftoria",
+      "issueTitle": "[Bug Report]: WTHIT Not working after update",
+      "url": "https://github.com/TeamAOF/Craftoria/issues/724",
+      "createdAt": "2025-11-24T00:09:37.105Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
