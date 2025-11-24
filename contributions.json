@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763944507274,
+      "repository": "loilo/auto-group-tabs",
+      "issueTitle": "Bug: Adding chrome://* as a rule prevents the settings popup showing",
+      "url": "https://github.com/loilo/auto-group-tabs/issues/68",
+      "createdAt": "2025-11-24T00:35:07.274Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
