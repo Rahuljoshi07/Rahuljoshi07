@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763945283392,
+      "repository": "pretalx/pretalx",
+      "issueTitle": "Add filter for talks with do-not-record flag in schedule",
+      "url": "https://github.com/pretalx/pretalx/issues/1911",
+      "createdAt": "2025-11-24T00:48:03.392Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
