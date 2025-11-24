@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763946167858,
+      "repository": "NatLibFi/Finto-data",
+      "issueTitle": "Terossa väärin enkoodattuja ääkkösiä",
+      "url": "https://github.com/NatLibFi/Finto-data/issues/932",
+      "createdAt": "2025-11-24T01:02:47.858Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
