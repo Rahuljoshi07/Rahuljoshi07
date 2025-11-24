@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1763945989007,
+      "repository": "vmagamedov/grpclib",
+      "issueTitle": "Bug race condition in grpclib.protocol with asyncio.Queue",
+      "url": "https://github.com/vmagamedov/grpclib/issues/210",
+      "createdAt": "2025-11-24T00:59:49.008Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
