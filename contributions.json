@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764099482674,
+      "repository": "pangeo-data/xESMF",
+      "issueTitle": "[Bug] `UnboundLocalError` when longitude crosses 0° in 0–360 grids (cf-xarray #594)",
+      "url": "https://github.com/pangeo-data/xESMF/issues/454",
+      "createdAt": "2025-11-25T19:38:02.674Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
