@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764043365578,
+      "repository": "browser-use/browser-use-python",
+      "issueTitle": "File upload issues in Cloud Browser Use (manual & Python SDK v2): Uploaded files not accessible/attached to file inputs",
+      "url": "https://github.com/browser-use/browser-use-python/issues/11",
+      "createdAt": "2025-11-25T04:02:45.579Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
