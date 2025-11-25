@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764033533475,
+      "repository": "neurodesk/neurocontainers",
+      "issueTitle": "Issue using older version of miniconda in containers",
+      "url": "https://github.com/neurodesk/neurocontainers/issues/1495",
+      "createdAt": "2025-11-25T01:18:53.475Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
