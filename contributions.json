@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764064455292,
+      "id": 1764064491018,
       "repository": "adobe/helix-deploy",
-      "issueTitle": "AWS Libraries are excluded when deploying to Adobe I/O Runtime, causing initialization errors",
-      "url": "https://github.com/adobe/helix-deploy/issues/667",
-      "createdAt": "2025-11-25T09:54:15.292Z",
+      "issueTitle": "Provide opt-out flags for AWS API/route management",
+      "url": "https://github.com/adobe/helix-deploy/issues/863",
+      "createdAt": "2025-11-25T09:54:51.018Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
