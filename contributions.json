@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764077145105,
+      "repository": "Suvaidyam/frappe_theme",
+      "issueTitle": "bug: in import Fixture not work correctly",
+      "url": "https://github.com/Suvaidyam/frappe_theme/issues/190",
+      "createdAt": "2025-11-25T13:25:45.105Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
