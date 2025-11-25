@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764070971458,
+      "repository": "AprilSylph/XKit-Rewritten",
+      "issueTitle": "Themed Posts: Theming trail items clashes with new Tumblr A/B test",
+      "url": "https://github.com/AprilSylph/XKit-Rewritten/issues/2001",
+      "createdAt": "2025-11-25T11:42:51.458Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
