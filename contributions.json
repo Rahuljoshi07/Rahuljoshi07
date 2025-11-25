@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764083999208,
+      "repository": "camunda/camunda-modeler-plugins",
+      "issueTitle": "Camunda Modeler Plugin to show Transaction Boundaries is \"not a registered action\"",
+      "url": "https://github.com/camunda/camunda-modeler-plugins/issues/109",
+      "createdAt": "2025-11-25T15:19:59.208Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
