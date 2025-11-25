@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764078980939,
+      "repository": "zachleat/zachleat.com",
+      "issueTitle": "Fix meta description on all pages to be more descriptive of content",
+      "url": "https://github.com/zachleat/zachleat.com/issues/59",
+      "createdAt": "2025-11-25T13:56:20.939Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
