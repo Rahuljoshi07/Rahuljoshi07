@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764082722079,
+      "repository": "fzi-forschungszentrum-informatik/ros2_ros_bt_py",
+      "issueTitle": "🐛 [BUG] - Fallback and MemoryFallback fail in tutorial tree",
+      "url": "https://github.com/fzi-forschungszentrum-informatik/ros2_ros_bt_py/issues/212",
+      "createdAt": "2025-11-25T14:58:42.079Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
