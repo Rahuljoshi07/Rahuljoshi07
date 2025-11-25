@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764081401825,
+      "repository": "NVIDIA/physicsnemo-sym",
+      "issueTitle": "🐛[BUG]: MissingConfigException in modulus_default",
+      "url": "https://github.com/NVIDIA/physicsnemo-sym/issues/206",
+      "createdAt": "2025-11-25T14:36:41.825Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
