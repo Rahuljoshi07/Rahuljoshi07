@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764065246422,
+      "repository": "nextcloud/talk-desktop",
+      "issueTitle": "Desktop App does not shutdown on Fedora 41/42",
+      "url": "https://github.com/nextcloud/talk-desktop/issues/1206",
+      "createdAt": "2025-11-25T10:07:26.422Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
