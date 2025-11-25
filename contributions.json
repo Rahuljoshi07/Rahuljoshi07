@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764081761954,
+      "repository": "bpmn-io/path-intersection",
+      "issueTitle": "parsePathString does not fully implement arc BNF",
+      "url": "https://github.com/bpmn-io/path-intersection/issues/21",
+      "createdAt": "2025-11-25T14:42:41.954Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
