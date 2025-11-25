@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764033670257,
+      "repository": "neovim/tree-sitter-vimdoc",
+      "issueTitle": "improve URL parsing",
+      "url": "https://github.com/neovim/tree-sitter-vimdoc/issues/107",
+      "createdAt": "2025-11-25T01:21:10.257Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
