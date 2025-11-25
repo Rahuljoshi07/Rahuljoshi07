@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764033422996,
+      "repository": "RiseInRose/MiniGPT-4-ZH",
+      "issueTitle": "RuntimeError:   CUDA报错   ",
+      "url": "https://github.com/RiseInRose/MiniGPT-4-ZH/issues/12",
+      "createdAt": "2025-11-25T01:17:02.996Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
