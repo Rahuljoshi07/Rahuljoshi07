@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764097582203,
+      "repository": "kalisio/kdk",
+      "issueTitle": "Diacritic search hook is not applied on complex queries",
+      "url": "https://github.com/kalisio/kdk/issues/1338",
+      "createdAt": "2025-11-25T19:06:22.204Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
