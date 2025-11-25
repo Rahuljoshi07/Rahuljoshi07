@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764045242866,
+      "repository": "WeblateOrg/website",
+      "issueTitle": "issue with Arabic text on website",
+      "url": "https://github.com/WeblateOrg/website/issues/2947",
+      "createdAt": "2025-11-25T04:34:02.866Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
