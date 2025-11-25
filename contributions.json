@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764106019394,
+      "repository": "l5yth/potato-mesh",
+      "issueTitle": "No federation with Tallinn",
+      "url": "https://github.com/l5yth/potato-mesh/issues/493",
+      "createdAt": "2025-11-25T21:26:59.394Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
