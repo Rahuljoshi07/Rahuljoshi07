@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764096030466,
+      "repository": "apostrophecms/apostrophe-astro",
+      "issueTitle": "Error: \"No such module 'node:http'.\" on Cloudflare Pages",
+      "url": "https://github.com/apostrophecms/apostrophe-astro/issues/35",
+      "createdAt": "2025-11-25T18:40:30.467Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
