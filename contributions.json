@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764053139095,
+      "id": 1764053210218,
       "repository": "Iteranya/anita-cms",
       "issueTitle": "The AI Notes Bug",
       "url": "https://github.com/Iteranya/anita-cms/issues/6",
-      "createdAt": "2025-11-25T06:45:39.096Z",
+      "createdAt": "2025-11-25T06:46:50.218Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
