@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764085110966,
+      "repository": "nextcloud/sharereview",
+      "issueTitle": "When deleting a shared link in Nextcloud 32, a success message is displayed but the link is not actually deleted.",
+      "url": "https://github.com/nextcloud/sharereview/issues/38",
+      "createdAt": "2025-11-25T15:38:30.966Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
