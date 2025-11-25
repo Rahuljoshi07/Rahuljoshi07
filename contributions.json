@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764067021057,
+      "repository": "openpotato/openholidaysapi.data",
+      "issueTitle": "Wrong API value for date 2027-04-02 with countryIsoCode=DE and subdivisionCode=DE-MV and groupCode=DE-MV-ABS",
+      "url": "https://github.com/openpotato/openholidaysapi.data/issues/128",
+      "createdAt": "2025-11-25T10:37:01.058Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
