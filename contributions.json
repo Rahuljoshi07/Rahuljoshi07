@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764058918243,
+      "repository": "DataDog/dd-trace-js",
+      "issueTitle": "[BUG]: Infinite recursion in `aws-sdk` instrumentation on dd-trace 5.80.0",
+      "url": "https://github.com/DataDog/dd-trace-js/issues/6985",
+      "createdAt": "2025-11-25T08:21:58.243Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
