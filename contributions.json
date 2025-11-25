@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764108314787,
+      "repository": "cidgoh/DataHarmonizer",
+      "issueTitle": "DH 2.0 Schema Editor entity reuse failing",
+      "url": "https://github.com/cidgoh/DataHarmonizer/issues/482",
+      "createdAt": "2025-11-25T22:05:14.787Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
