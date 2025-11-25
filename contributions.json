@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764085319200,
+      "repository": "fzi-forschungszentrum-informatik/ros2_ros_bt_py",
+      "issueTitle": "🐛 [BUG] - broken state if service does not exist",
+      "url": "https://github.com/fzi-forschungszentrum-informatik/ros2_ros_bt_py/issues/208",
+      "createdAt": "2025-11-25T15:41:59.200Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
