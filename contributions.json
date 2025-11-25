@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764091369095,
+      "repository": "PozzettiAndrea/ComfyUI-SAM3DObjects",
+      "issueTitle": "Error: Failed to download micromamba: Could not find micromamba binary in archive",
+      "url": "https://github.com/PozzettiAndrea/ComfyUI-SAM3DObjects/issues/3",
+      "createdAt": "2025-11-25T17:22:49.095Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
