@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764044534597,
+      "repository": "CN-E-Learning/CN-e-learning",
+      "issueTitle": "[Bug] 通过链接直接访问文章页面时, 文章内容展示为空",
+      "url": "https://github.com/CN-E-Learning/CN-e-learning/issues/150",
+      "createdAt": "2025-11-25T04:22:14.597Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
