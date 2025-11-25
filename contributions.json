@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764102148266,
+      "repository": "sigstore/gh-action-sigstore-python",
+      "issueTitle": "Failure with --require-hashes because importlib_resources~=5.7, when should be ==5.7?",
+      "url": "https://github.com/sigstore/gh-action-sigstore-python/issues/254",
+      "createdAt": "2025-11-25T20:22:28.266Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
