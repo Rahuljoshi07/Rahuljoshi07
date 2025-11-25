@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764061902387,
+      "repository": "meetecho/juturna",
+      "issueTitle": "Improve error logging when a node fails to load during warmup",
+      "url": "https://github.com/meetecho/juturna/issues/59",
+      "createdAt": "2025-11-25T09:11:42.387Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
