@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764077403138,
+      "repository": "netlify/build",
+      "issueTitle": "@netlify/zip-it-and-ship-it: don't depend on exact `@babel/types` version",
+      "url": "https://github.com/netlify/build/issues/6784",
+      "createdAt": "2025-11-25T13:30:03.139Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
