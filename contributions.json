@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764053734731,
+      "repository": "cynkra/g6R",
+      "issueTitle": "Bug: Timebar plugin does not work",
+      "url": "https://github.com/cynkra/g6R/issues/26",
+      "createdAt": "2025-11-25T06:55:34.731Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
