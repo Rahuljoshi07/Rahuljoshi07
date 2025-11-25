@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764086828790,
+      "repository": "supermihi/pytaglib",
+      "issueTitle": "fatal error: 'taglib/tstring.h' file not found",
+      "url": "https://github.com/supermihi/pytaglib/issues/150",
+      "createdAt": "2025-11-25T16:07:08.791Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
