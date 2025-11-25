@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764066785633,
+      "repository": "TA2k/ioBroker.vw-connect",
+      "issueTitle": "Many errors while retrieving trips information",
+      "url": "https://github.com/TA2k/ioBroker.vw-connect/issues/393",
+      "createdAt": "2025-11-25T10:33:05.634Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. (Suggested by R..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
