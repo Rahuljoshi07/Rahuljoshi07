@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1764039259739,
-      "repository": "nextcloud/notifications",
-      "issueTitle": "[5.0.0-dev] Since NC32: Controller OCA\\Notifications\\Controller\\EndpointController::listNotifications executed 121 queries.",
-      "url": "https://github.com/nextcloud/notifications/issues/2508",
-      "createdAt": "2025-11-25T02:54:19.739Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
