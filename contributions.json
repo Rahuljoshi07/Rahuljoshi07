@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764090401931,
+      "repository": "s0len/meta-manager-config",
+      "issueTitle": "400 error on download",
+      "url": "https://github.com/s0len/meta-manager-config/issues/20",
+      "createdAt": "2025-11-25T17:06:41.931Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
