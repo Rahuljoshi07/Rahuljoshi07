@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1764050387684,
-      "repository": "opengovsg/mockpass",
-      "issueTitle": "TypeError: destructure profile of lookUpByAuthCode is undefined",
-      "url": "https://github.com/opengovsg/mockpass/issues/685",
-      "createdAt": "2025-11-25T05:59:47.684Z",
+      "id": 1764050416828,
+      "repository": "AdguardTeam/Scriptlets",
+      "issueTitle": "Fix 'trusted-set-constant' — determine string values more precisely",
+      "url": "https://github.com/AdguardTeam/Scriptlets/issues/499",
+      "createdAt": "2025-11-25T06:00:16.828Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
