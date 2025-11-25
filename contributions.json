@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764079632990,
+      "repository": "openhab/openhab-js",
+      "issueTitle": "Improve Typescript support - ex: Add `Java.type` definitions",
+      "url": "https://github.com/openhab/openhab-js/issues/387",
+      "createdAt": "2025-11-25T14:07:12.990Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
