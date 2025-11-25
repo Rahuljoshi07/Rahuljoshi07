@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764074594132,
-      "repository": "widgetfactory/jce",
-      "issueTitle": "🐛 Bug Report: Class \"WFMediaManager\" not found",
-      "url": "https://github.com/widgetfactory/jce/issues/134",
-      "createdAt": "2025-11-25T12:43:14.132Z",
+      "id": 1764074655357,
+      "repository": "GetStream/stream-video-js",
+      "issueTitle": "Calls do not end when rejected via native ring notification",
+      "url": "https://github.com/GetStream/stream-video-js/issues/2013",
+      "createdAt": "2025-11-25T12:44:15.357Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
