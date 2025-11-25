@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764058074042,
+      "repository": "adobe/helix-cli",
+      "issueTitle": "hlx up should check for updates",
+      "url": "https://github.com/adobe/helix-cli/issues/2225",
+      "createdAt": "2025-11-25T08:07:54.042Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
