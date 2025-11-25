@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764114382158,
+      "repository": "html-next/vertical-collection",
+      "issueTitle": "Application test times out when two vertical collections share a containerSelector",
+      "url": "https://github.com/html-next/vertical-collection/issues/320",
+      "createdAt": "2025-11-25T23:46:22.158Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. (Suggested by..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
