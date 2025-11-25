@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764065658696,
+      "repository": "tldr-pages/tldr-lint",
+      "issueTitle": "New linter error if a manual pages website different than manned.org is used in \"More information\"",
+      "url": "https://github.com/tldr-pages/tldr-lint/issues/325",
+      "createdAt": "2025-11-25T10:14:18.697Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
