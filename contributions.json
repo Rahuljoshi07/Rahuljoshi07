@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764091039044,
+      "id": 1764091101658,
       "repository": "open-risk/openNPL",
       "issueTitle": "REST API broken",
       "url": "https://github.com/open-risk/openNPL/issues/20",
-      "createdAt": "2025-11-25T17:17:19.044Z",
+      "createdAt": "2025-11-25T17:18:21.658Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
