@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764086122406,
+      "repository": "OpenTermsArchive/engine",
+      "issueTitle": "Font error when tracking PDF term",
+      "url": "https://github.com/OpenTermsArchive/engine/issues/1187",
+      "createdAt": "2025-11-25T15:55:22.406Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
