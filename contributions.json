@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764072295075,
+      "repository": "fluttercommunity/arcgis_map_sdk",
+      "issueTitle": "Execution failed for task ':arcgis_maps:buildCMakeDebug[arm64-v8a]'.             arcgis_maps: ^200.6.0+4426",
+      "url": "https://github.com/fluttercommunity/arcgis_map_sdk/issues/103",
+      "createdAt": "2025-11-25T12:04:55.075Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
