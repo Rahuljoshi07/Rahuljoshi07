@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764086982358,
+      "repository": "mandarons/icloudpy",
+      "issueTitle": "[BUG] Photos shared library does not work if I am not the owner of the shared library",
+      "url": "https://github.com/mandarons/icloudpy/issues/115",
+      "createdAt": "2025-11-25T16:09:42.358Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
