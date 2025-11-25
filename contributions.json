@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764066557135,
+      "id": 1764066623755,
       "repository": "TA2k/ioBroker.vw-connect",
       "issueTitle": "The adapter is no longer able to log in.",
       "url": "https://github.com/TA2k/ioBroker.vw-connect/issues/394",
-      "createdAt": "2025-11-25T10:29:17.135Z",
+      "createdAt": "2025-11-25T10:30:23.755Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. (Suggested by Rahul Joshi)..."
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
