@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764087788883,
+      "repository": "RomainGuimbal/SurfacePsycho",
+      "issueTitle": "STP import error",
+      "url": "https://github.com/RomainGuimbal/SurfacePsycho/issues/12",
+      "createdAt": "2025-11-25T16:23:08.883Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
