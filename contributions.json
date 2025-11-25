@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764110972624,
+      "repository": "Akuli/jou",
+      "issueTitle": "Supporting `sizeof(SomeType)`",
+      "url": "https://github.com/Akuli/jou/issues/1080",
+      "createdAt": "2025-11-25T22:49:32.625Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
