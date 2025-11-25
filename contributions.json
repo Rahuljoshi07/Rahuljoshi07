@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764053627908,
+      "repository": "pfnet/pysen",
+      "issueTitle": "Inconsistent max-line behavior between black and flake8-bugbear with B950 rule",
+      "url": "https://github.com/pfnet/pysen/issues/54",
+      "createdAt": "2025-11-25T06:53:47.909Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
