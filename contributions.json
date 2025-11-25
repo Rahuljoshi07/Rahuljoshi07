@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764107094848,
+      "repository": "layer5io/kanvas-docker-extension",
+      "issueTitle": "Error during WebSocket handshake: Unexpected response code: 422",
+      "url": "https://github.com/layer5io/kanvas-docker-extension/issues/27",
+      "createdAt": "2025-11-25T21:44:54.848Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
