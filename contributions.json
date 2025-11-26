@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764165975582,
+      "repository": "Jasons-impart/Create-Delight-Remake",
+      "issueTitle": "omnicells的模板的爆炸配方无效",
+      "url": "https://github.com/Jasons-impart/Create-Delight-Remake/issues/1223",
+      "createdAt": "2025-11-26T14:06:15.582Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
