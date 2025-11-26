@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764157697466,
+      "repository": "GetStream/stream-video-js",
+      "issueTitle": "Calls do not end when rejected via native ring notification",
+      "url": "https://github.com/GetStream/stream-video-js/issues/2013",
+      "createdAt": "2025-11-26T11:48:17.466Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
