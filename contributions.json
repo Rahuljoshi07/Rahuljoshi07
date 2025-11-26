@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764186360019,
+      "repository": "jimmc414/Kosmos",
+      "issueTitle": "Bug Report: Kosmos stalls during Autonomous Research when using Ollama",
+      "url": "https://github.com/jimmc414/Kosmos/issues/6",
+      "createdAt": "2025-11-26T19:46:00.019Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
