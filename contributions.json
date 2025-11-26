@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764196148053,
+      "repository": "PellelNitram/xournalpp_htr",
+      "issueTitle": "Fails to OCR with openDialog lua error...",
+      "url": "https://github.com/PellelNitram/xournalpp_htr/issues/23",
+      "createdAt": "2025-11-26T22:29:08.053Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
