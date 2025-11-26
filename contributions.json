@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764154117827,
+      "repository": "andrewfstratton/quando",
+      "issueTitle": "Undo doesn't update menu width",
+      "url": "https://github.com/andrewfstratton/quando/issues/605",
+      "createdAt": "2025-11-26T10:48:37.827Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
