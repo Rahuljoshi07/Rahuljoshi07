@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1764198432108,
+      "id": 1764198472754,
       "repository": "rive-app/rive-wasm",
-      "issueTitle": "Errors during makeRenderer not catchable",
-      "url": "https://github.com/rive-app/rive-wasm/issues/409",
-      "createdAt": "2025-11-26T23:07:12.108Z",
+      "issueTitle": "TypeError: Cannot read properties of null (reading 'deleteTexture') after updating Rive",
+      "url": "https://github.com/rive-app/rive-wasm/issues/408",
+      "createdAt": "2025-11-26T23:07:52.754Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
