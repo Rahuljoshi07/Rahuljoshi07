@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764172470335,
+      "repository": "Jasons-impart/Create-Delight-Remake",
+      "issueTitle": "[bug]删除lychee导致beta-正交晶系六方铁爆炸配方失效",
+      "url": "https://github.com/Jasons-impart/Create-Delight-Remake/issues/1230",
+      "createdAt": "2025-11-26T15:54:30.335Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
