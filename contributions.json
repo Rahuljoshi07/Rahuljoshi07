@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764184041942,
+      "repository": "mataroablog/mataroa",
+      "issueTitle": "Fix embeded images on epub exports",
+      "url": "https://github.com/mataroablog/mataroa/issues/22",
+      "createdAt": "2025-11-26T19:07:21.942Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
