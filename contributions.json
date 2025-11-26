@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764173770709,
+      "repository": "amazon-braket/amazon-braket-sdk-python",
+      "issueTitle": "Tensored Paulis formed without explicit qubit yield IR error",
+      "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/1165",
+      "createdAt": "2025-11-26T16:16:10.709Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
