@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764129047097,
+      "repository": "janhq/jan-browser-extension",
+      "issueTitle": "bug: MCP stops working (restart looping permanently?) after max context is reached.",
+      "url": "https://github.com/janhq/jan-browser-extension/issues/52",
+      "createdAt": "2025-11-26T03:50:47.097Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
