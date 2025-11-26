@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764159873188,
+      "repository": "neurallayer/roboquant",
+      "issueTitle": "Errors while fetching Futures historical data in IBKR",
+      "url": "https://github.com/neurallayer/roboquant/issues/87",
+      "createdAt": "2025-11-26T12:24:33.188Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
