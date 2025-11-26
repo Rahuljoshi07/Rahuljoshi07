@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764191444617,
+      "repository": "netboxlabs/netbox-custom-objects",
+      "issueTitle": "adding a custom-object-types-field for custom-object-types named ```model``` generates a server error",
+      "url": "https://github.com/netboxlabs/netbox-custom-objects/issues/299",
+      "createdAt": "2025-11-26T21:10:44.617Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
