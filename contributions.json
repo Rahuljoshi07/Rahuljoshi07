@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764144022528,
+      "repository": "SACGF/variantgrid",
+      "issueTitle": "ValueError: Couldn't determine Allele for clinvar_variation_id 618862",
+      "url": "https://github.com/SACGF/variantgrid/issues/1391",
+      "createdAt": "2025-11-26T08:00:22.529Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
