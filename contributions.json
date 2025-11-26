@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764120846597,
+      "repository": "open-condo-software/condo",
+      "issueTitle": "UI display issues after recent updates",
+      "url": "https://github.com/open-condo-software/condo/issues/6418",
+      "createdAt": "2025-11-26T01:34:06.597Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
