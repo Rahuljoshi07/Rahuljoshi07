@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764191620831,
+      "repository": "chrisjbawden/cockpit-dockermanager",
+      "issueTitle": "Getting \"ERROR: Unable to access Docker!\" no matter what I do",
+      "url": "https://github.com/chrisjbawden/cockpit-dockermanager/issues/16",
+      "createdAt": "2025-11-26T21:13:40.831Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
