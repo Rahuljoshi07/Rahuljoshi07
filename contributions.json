@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764189948165,
+      "repository": "foundryvtt-starfinder/foundryvtt-starfinder",
+      "issueTitle": "Missing Bar Brawl Resource in V13.351",
+      "url": "https://github.com/foundryvtt-starfinder/foundryvtt-starfinder/issues/1703",
+      "createdAt": "2025-11-26T20:45:48.165Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
