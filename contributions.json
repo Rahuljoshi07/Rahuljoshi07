@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764174051195,
+      "repository": "10Ring/LAA-Net",
+      "issueTitle": "Why is the generalization performance of the model I trained poor?",
+      "url": "https://github.com/10Ring/LAA-Net/issues/23",
+      "createdAt": "2025-11-26T16:20:51.195Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
