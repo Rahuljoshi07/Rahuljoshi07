@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764200608584,
+      "repository": "icedman/dash2dock-lite",
+      "issueTitle": "Error when enabling — TypeError: mount.get_icon().names is undefined",
+      "url": "https://github.com/icedman/dash2dock-lite/issues/259",
+      "createdAt": "2025-11-26T23:43:28.584Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
