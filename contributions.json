@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764162975097,
+      "repository": "truenas/apps",
+      "issueTitle": "[Bug Report]: File Browser remains in Deploying when certificate for HTTPS selected",
+      "url": "https://github.com/truenas/apps/issues/3688",
+      "createdAt": "2025-11-26T13:16:15.098Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
