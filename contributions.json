@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764183381617,
+      "repository": "2M4U/2m4u",
+      "issueTitle": "Possible fixes for update.js",
+      "url": "https://github.com/2M4U/2m4u/issues/6",
+      "createdAt": "2025-11-26T18:56:21.617Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
