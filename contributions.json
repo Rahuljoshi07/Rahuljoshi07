@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764189862378,
+      "repository": "polkadot-js/docs",
+      "issueTitle": "Issue with Batch Transactions Status in Polkadot JS API Callback",
+      "url": "https://github.com/polkadot-js/docs/issues/463",
+      "createdAt": "2025-11-26T20:44:22.378Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
