@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764120433835,
+      "repository": "mareuter/pylunar",
+      "issueTitle": "RuntimeError: field colong undefined until first compute()",
+      "url": "https://github.com/mareuter/pylunar/issues/16",
+      "createdAt": "2025-11-26T01:27:13.835Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
