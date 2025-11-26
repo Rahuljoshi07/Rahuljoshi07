@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764148109837,
+      "repository": "jungao1106/ICoT",
+      "issueTitle": "UnboundLocalError: local variable 'outputs' referenced before assignment",
+      "url": "https://github.com/jungao1106/ICoT/issues/30",
+      "createdAt": "2025-11-26T09:08:29.837Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
