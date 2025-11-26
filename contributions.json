@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764169082679,
+      "repository": "ramses-rf/ramses_rf",
+      "issueTitle": "Spider 'stat: TypeError: Invalid device type to be a controller: `21:041873` (THM)",
+      "url": "https://github.com/ramses-rf/ramses_rf/issues/340",
+      "createdAt": "2025-11-26T14:58:02.679Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
