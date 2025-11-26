@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764139311836,
+      "repository": "Dnyo666/delta-force-plugin",
+      "issueTitle": "图片消息发送bug",
+      "url": "https://github.com/Dnyo666/delta-force-plugin/issues/9",
+      "createdAt": "2025-11-26T06:41:51.836Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
