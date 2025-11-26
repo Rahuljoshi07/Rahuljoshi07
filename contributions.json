@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764171554145,
+      "repository": "geosolutions-it/MapStore2",
+      "issueTitle": "Review DockerFiles",
+      "url": "https://github.com/geosolutions-it/MapStore2/issues/11127",
+      "createdAt": "2025-11-26T15:39:14.145Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
