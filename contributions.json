@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764138244107,
+      "repository": "visjs/vis-graph3d",
+      "issueTitle": " 0th data is empty when changing to line style with setoptions",
+      "url": "https://github.com/visjs/vis-graph3d/issues/855",
+      "createdAt": "2025-11-26T06:24:04.107Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
