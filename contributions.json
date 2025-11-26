@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764124297710,
+      "repository": "felipecrs/semantic-release-vsce",
+      "issueTitle": "Use the `vsce` APIs rather than the CLI",
+      "url": "https://github.com/felipecrs/semantic-release-vsce/issues/331",
+      "createdAt": "2025-11-26T02:31:37.710Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
