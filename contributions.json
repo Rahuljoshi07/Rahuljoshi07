@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764143677211,
+      "repository": "waldur/waldur-mastermind",
+      "issueTitle": "[Openstack] Quota issue about storage when trying to create an instance",
+      "url": "https://github.com/waldur/waldur-mastermind/issues/64",
+      "createdAt": "2025-11-26T07:54:37.211Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
