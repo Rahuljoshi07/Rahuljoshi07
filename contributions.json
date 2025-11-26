@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764120084369,
+      "repository": "triton-inference-server/model_analyzer",
+      "issueTitle": "Model analyzer not working for ensemble models: Model ensemble_add_sub_config_default load failed: [StatusCode.INTERNAL] failed to load 'ensemble_add_sub_config_default', no version is available",
+      "url": "https://github.com/triton-inference-server/model_analyzer/issues/964",
+      "createdAt": "2025-11-26T01:21:24.370Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
