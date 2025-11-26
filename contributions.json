@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764146910452,
+      "repository": "KBVE/kbve",
+      "issueTitle": "[Bug] : [Unity] : Chip Character Sheet Off Center Sprites",
+      "url": "https://github.com/KBVE/kbve/issues/6705",
+      "createdAt": "2025-11-26T08:48:30.452Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
