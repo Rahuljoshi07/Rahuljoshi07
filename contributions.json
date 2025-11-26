@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764119920091,
+      "repository": "intel/auto-round",
+      "issueTitle": "unexpected large ram/vram  usage for gguf",
+      "url": "https://github.com/intel/auto-round/issues/869",
+      "createdAt": "2025-11-26T01:18:40.091Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
