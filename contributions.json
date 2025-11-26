@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764174996536,
+      "repository": "kalisio/kdk",
+      "issueTitle": "Unable to store geojson",
+      "url": "https://github.com/kalisio/kdk/issues/1180",
+      "createdAt": "2025-11-26T16:36:36.536Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
