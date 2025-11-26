@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764157535940,
-      "repository": "2M4U/2m4u",
-      "issueTitle": ".env.template is missing",
-      "url": "https://github.com/2M4U/2m4u/issues/9",
-      "createdAt": "2025-11-26T11:45:35.940Z",
+      "id": 1764157567605,
+      "repository": "kalisio/kdk",
+      "issueTitle": "Diacritic search hook is not applied on complex queries",
+      "url": "https://github.com/kalisio/kdk/issues/1338",
+      "createdAt": "2025-11-26T11:46:07.606Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
