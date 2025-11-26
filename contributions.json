@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764123189867,
+      "repository": "modelscope/Trinity-RFT",
+      "issueTitle": "请问如何断点续训？",
+      "url": "https://github.com/modelscope/Trinity-RFT/issues/399",
+      "createdAt": "2025-11-26T02:13:09.867Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
