@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764189476151,
+      "repository": "timbeadle/grunt-tv4",
+      "issueTitle": "Fatal error: Cannot call method 'replace' of undefined",
+      "url": "https://github.com/timbeadle/grunt-tv4/issues/14",
+      "createdAt": "2025-11-26T20:37:56.152Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
