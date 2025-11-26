@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764149661182,
-      "repository": "josdejong/typed-function",
-      "issueTitle": "Add return-type annotations?",
-      "url": "https://github.com/josdejong/typed-function/issues/124",
-      "createdAt": "2025-11-26T09:34:21.182Z",
+      "id": 1764149709527,
+      "repository": "DataDog/dd-trace-js",
+      "issueTitle": "[BUG]: Infinite recursion in `aws-sdk` instrumentation on dd-trace 5.80.0",
+      "url": "https://github.com/DataDog/dd-trace-js/issues/6985",
+      "createdAt": "2025-11-26T09:35:09.527Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
