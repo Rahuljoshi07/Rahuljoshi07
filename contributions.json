@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764149962310,
+      "repository": "klein0r/ioBroker.trashschedule",
+      "issueTitle": "Please consider fixing issues detected by repository checker",
+      "url": "https://github.com/klein0r/ioBroker.trashschedule/issues/369",
+      "createdAt": "2025-11-26T09:39:22.310Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
