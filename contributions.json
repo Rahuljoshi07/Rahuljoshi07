@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764158584499,
+      "repository": "hiero-ledger/hiero-sdk-python",
+      "issueTitle": "Create docs/sdk_developers/training/max_attempts_error.md",
+      "url": "https://github.com/hiero-ledger/hiero-sdk-python/issues/877",
+      "createdAt": "2025-11-26T12:03:04.499Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
