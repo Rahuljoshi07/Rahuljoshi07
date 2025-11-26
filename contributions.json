@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764174346282,
+      "repository": "statamic/collaboration",
+      "issueTitle": "Does not work with Localizing Entries \\ Multi-Site",
+      "url": "https://github.com/statamic/collaboration/issues/90",
+      "createdAt": "2025-11-26T16:25:46.282Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
