@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764116694998,
+      "repository": "rive-app/rive-wasm",
+      "issueTitle": "TypeError: Cannot read properties of null (reading 'deleteTexture') after updating Rive",
+      "url": "https://github.com/rive-app/rive-wasm/issues/408",
+      "createdAt": "2025-11-26T00:24:54.998Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
