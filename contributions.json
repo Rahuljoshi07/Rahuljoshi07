@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764162005193,
+      "repository": "UB-Mannheim/zotero-ocr",
+      "issueTitle": "Issue with OCR Plugin: Always Recognizing First Scanned PDF Document",
+      "url": "https://github.com/UB-Mannheim/zotero-ocr/issues/82",
+      "createdAt": "2025-11-26T13:00:05.193Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
