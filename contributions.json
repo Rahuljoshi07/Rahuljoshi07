@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764126855629,
+      "repository": "insin/control-panel-for-youtube",
+      "issueTitle": "Old player UI doesn't kick in when opening a video in a new tab",
+      "url": "https://github.com/insin/control-panel-for-youtube/issues/143",
+      "createdAt": "2025-11-26T03:14:15.629Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
