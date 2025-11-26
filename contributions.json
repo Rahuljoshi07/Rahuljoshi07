@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764191212268,
+      "repository": "TheOneOgre/govee-cloud",
+      "issueTitle": "H5083 Smart Plug Not Working",
+      "url": "https://github.com/TheOneOgre/govee-cloud/issues/33",
+      "createdAt": "2025-11-26T21:06:52.268Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
