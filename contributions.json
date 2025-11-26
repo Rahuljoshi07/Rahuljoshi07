@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764143139231,
+      "repository": "tapframe/nuvio-providers",
+      "issueTitle": "Playback error with NetMirror provider",
+      "url": "https://github.com/tapframe/nuvio-providers/issues/10",
+      "createdAt": "2025-11-26T07:45:39.231Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
