@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764163227981,
+      "repository": "Nokse22/ascii-draw",
+      "issueTitle": "Unable to launch flatpak",
+      "url": "https://github.com/Nokse22/ascii-draw/issues/61",
+      "createdAt": "2025-11-26T13:20:27.981Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
