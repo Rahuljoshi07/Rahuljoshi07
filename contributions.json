@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764119098456,
+      "repository": "TeamAOF/Craftoria",
+      "issueTitle": "[Bug Report]: There are no ores in the mining dimension",
+      "url": "https://github.com/TeamAOF/Craftoria/issues/728",
+      "createdAt": "2025-11-26T01:04:58.456Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
