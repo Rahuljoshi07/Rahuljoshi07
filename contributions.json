@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764148203921,
+      "repository": "umr-lops/xsarsea",
+      "issueTitle": "import cv2 ImportError: dlopen: cannot load any more object with static TLS",
+      "url": "https://github.com/umr-lops/xsarsea/issues/74",
+      "createdAt": "2025-11-26T09:10:03.921Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
