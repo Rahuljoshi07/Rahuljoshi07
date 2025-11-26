@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764129711817,
+      "repository": "nodejs/github-bot",
+      "issueTitle": "Bot comments three times on V8 CI",
+      "url": "https://github.com/nodejs/github-bot/issues/355",
+      "createdAt": "2025-11-26T04:01:51.817Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
