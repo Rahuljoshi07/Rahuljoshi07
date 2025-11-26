@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764120766832,
+      "repository": "vikramsoni2/nextExplorer",
+      "issueTitle": "[Issue] Folder with videos hangs the explorer",
+      "url": "https://github.com/vikramsoni2/nextExplorer/issues/117",
+      "createdAt": "2025-11-26T01:32:46.832Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
