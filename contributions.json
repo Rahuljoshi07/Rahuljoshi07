@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764141735456,
+      "repository": "OpenGVLab/OmniQuant",
+      "issueTitle": "I encounter a error: \"AttributeError: 'LlamaAttention' object has no attribute 'rotary_emb'\",when i run code with llama-1-7b. ",
+      "url": "https://github.com/OpenGVLab/OmniQuant/issues/103",
+      "createdAt": "2025-11-26T07:22:15.456Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
