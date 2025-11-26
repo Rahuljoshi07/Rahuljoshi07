@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764121535000,
+      "repository": "ThePansmith/Monifactory",
+      "issueTitle": "[Bug]: Monifactory passively accumulates RAM not reported ingame",
+      "url": "https://github.com/ThePansmith/Monifactory/issues/2270",
+      "createdAt": "2025-11-26T01:45:35.000Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
