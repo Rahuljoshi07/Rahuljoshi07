@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764167138657,
+      "repository": "Ingan121/WMPotify",
+      "issueTitle": "WMPotify Load Error",
+      "url": "https://github.com/Ingan121/WMPotify/issues/80",
+      "createdAt": "2025-11-26T14:25:38.657Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
