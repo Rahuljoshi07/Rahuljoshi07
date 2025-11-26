@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764198472754,
+      "id": 1764198511132,
       "repository": "rive-app/rive-wasm",
-      "issueTitle": "TypeError: Cannot read properties of null (reading 'deleteTexture') after updating Rive",
-      "url": "https://github.com/rive-app/rive-wasm/issues/408",
-      "createdAt": "2025-11-26T23:07:52.754Z",
+      "issueTitle": "Feature Request: Decouple getRuntime to Allow Dynamic Runtime Switching and Improve Performance",
+      "url": "https://github.com/rive-app/rive-wasm/issues/412",
+      "createdAt": "2025-11-26T23:08:31.132Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
