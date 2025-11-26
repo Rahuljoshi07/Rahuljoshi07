@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764168709110,
+      "repository": "Alfresco/alfresco-community-share",
+      "issueTitle": "\"Error loading items\" on Users page",
+      "url": "https://github.com/Alfresco/alfresco-community-share/issues/4",
+      "createdAt": "2025-11-26T14:51:49.110Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
