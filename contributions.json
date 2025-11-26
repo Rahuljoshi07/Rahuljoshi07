@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764155280439,
+      "repository": "aidotse/LeakPro",
+      "issueTitle": "Leakpro in Multi-run scenario creates incorrect auditing data.",
+      "url": "https://github.com/aidotse/LeakPro/issues/350",
+      "createdAt": "2025-11-26T11:08:00.439Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
