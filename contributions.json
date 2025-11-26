@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764199017788,
+      "repository": "barseghyanartur/ska",
+      "issueTitle": "Convert the value of `valid_until` into string",
+      "url": "https://github.com/barseghyanartur/ska/issues/23",
+      "createdAt": "2025-11-26T23:16:57.788Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
