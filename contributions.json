@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1764149709527,
-      "repository": "DataDog/dd-trace-js",
-      "issueTitle": "[BUG]: Infinite recursion in `aws-sdk` instrumentation on dd-trace 5.80.0",
-      "url": "https://github.com/DataDog/dd-trace-js/issues/6985",
-      "createdAt": "2025-11-26T09:35:09.527Z",
-      "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
