@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764142952174,
+      "repository": "beijixiaohu/OJBetter",
+      "issueTitle": "显示目标区域范围 选项在 CF 题解界面有问题",
+      "url": "https://github.com/beijixiaohu/OJBetter/issues/353",
+      "createdAt": "2025-11-26T07:42:32.174Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
