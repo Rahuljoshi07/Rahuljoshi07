@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764170544709,
+      "repository": "jcrodriguez-dis/moodle-mod_vpl",
+      "issueTitle": "Issue/Question - The initial text/graphic terminal location and size.",
+      "url": "https://github.com/jcrodriguez-dis/moodle-mod_vpl/issues/270",
+      "createdAt": "2025-11-26T15:22:24.709Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
