@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764154984377,
+      "repository": "ros2/ros2cli",
+      "issueTitle": "🧑‍🌾 rmw_connextdds support message making ROS2 CLI tests fail",
+      "url": "https://github.com/ros2/ros2cli/issues/1054",
+      "createdAt": "2025-11-26T11:03:04.377Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
