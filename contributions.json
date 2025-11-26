@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764182267600,
+      "repository": "ROCm/torch_migraphx",
+      "issueTitle": "trying to build torch_migraphx I get errors. I got those solved (see below) but running tests mostly fail.",
+      "url": "https://github.com/ROCm/torch_migraphx/issues/129",
+      "createdAt": "2025-11-26T18:37:47.600Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
