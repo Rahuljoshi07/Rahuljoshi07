@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764154488549,
+      "repository": "epigenelabs/inmoose",
+      "issueTitle": "Multiple inconsistencies and errors in inmoose.limma module (lmFit, contrasts_fit, topTable)",
+      "url": "https://github.com/epigenelabs/inmoose/issues/171",
+      "createdAt": "2025-11-26T10:54:48.549Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
