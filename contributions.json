@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764229549023,
+      "repository": "Quasky/bridgeipelago",
+      "issueTitle": "$register does not check if a slot exists",
+      "url": "https://github.com/Quasky/bridgeipelago/issues/51",
+      "createdAt": "2025-11-27T07:45:49.023Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
