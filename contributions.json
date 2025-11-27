@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764281132843,
+      "repository": "PavlidisLab/rnaseq-pipeline",
+      "issueTitle": "RSEM temporary file cleanup does not always work",
+      "url": "https://github.com/PavlidisLab/rnaseq-pipeline/issues/39",
+      "createdAt": "2025-11-27T22:05:32.843Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
