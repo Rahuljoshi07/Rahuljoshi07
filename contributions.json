@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764259589799,
+      "repository": "openatv/enigma2",
+      "issueTitle": "\"HDMI-CEC\" vol. buttons issue",
+      "url": "https://github.com/openatv/enigma2/issues/2324",
+      "createdAt": "2025-11-27T16:06:29.799Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
