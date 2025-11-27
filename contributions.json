@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764211661348,
+      "repository": "fenggo/I-ReaxFF",
+      "issueTitle": "UnboundLocalError: local variable 'DANG_' referenced before assignment",
+      "url": "https://github.com/fenggo/I-ReaxFF/issues/2",
+      "createdAt": "2025-11-27T02:47:41.348Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
