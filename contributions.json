@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764258197101,
+      "repository": "niklas2902/py4godot",
+      "issueTitle": "String type transform Error:UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe6 in position 0: unexpected end of data",
+      "url": "https://github.com/niklas2902/py4godot/issues/193",
+      "createdAt": "2025-11-27T15:43:17.101Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
