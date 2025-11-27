@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764280068429,
+      "repository": "TeamAOF/Craftoria",
+      "issueTitle": "[Bug Report]: Just Enough Mekanism Multiblocks not showing up",
+      "url": "https://github.com/TeamAOF/Craftoria/issues/732",
+      "createdAt": "2025-11-27T21:47:48.429Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
