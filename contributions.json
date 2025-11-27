@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764218593879,
+      "repository": "tomlin7/biscuit",
+      "issueTitle": "Fix MacOS builds",
+      "url": "https://github.com/tomlin7/biscuit/issues/164",
+      "createdAt": "2025-11-27T04:43:13.879Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
