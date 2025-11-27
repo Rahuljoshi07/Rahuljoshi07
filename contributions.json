@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764263859464,
+      "repository": "jkitchin/litdb",
+      "issueTitle": "playsound dependency fails to build with Python 3.12+",
+      "url": "https://github.com/jkitchin/litdb/issues/16",
+      "createdAt": "2025-11-27T17:17:39.464Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
