@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764208254456,
+      "repository": "Granddyser/qwen3-vl-comfy-ui",
+      "issueTitle": "crashing with error: 'dict' object has no attribute 'model_type'",
+      "url": "https://github.com/Granddyser/qwen3-vl-comfy-ui/issues/5",
+      "createdAt": "2025-11-27T01:50:54.456Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
