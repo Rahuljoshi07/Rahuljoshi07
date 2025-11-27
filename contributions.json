@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764247169169,
+      "repository": "astropy/astroquery",
+      "issueTitle": "Error installing from the main branch with Python 3.14: `AttributeError: module 'pkgutil' has no attribute 'get_loader'`",
+      "url": "https://github.com/astropy/astroquery/issues/3463",
+      "createdAt": "2025-11-27T12:39:29.169Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
