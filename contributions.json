@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764282892041,
+      "repository": "evazion/translate-pixiv-tags",
+      "issueTitle": "Intermittent 408 and 403 error codes",
+      "url": "https://github.com/evazion/translate-pixiv-tags/issues/115",
+      "createdAt": "2025-11-27T22:34:52.041Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
