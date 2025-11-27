@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764262559870,
+      "repository": "cnoe-io/ai-platform-engineering",
+      "issueTitle": "[Bug]: RAG agent-ontology fails to start. Looking for `fetch_entity` rather than `graph_fetch_entity`",
+      "url": "https://github.com/cnoe-io/ai-platform-engineering/issues/439",
+      "createdAt": "2025-11-27T16:55:59.870Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
