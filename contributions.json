@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764203514519,
+      "repository": "logicblocks/event.store",
+      "issueTitle": "Error handling does not work as one would expect",
+      "url": "https://github.com/logicblocks/event.store/issues/71",
+      "createdAt": "2025-11-27T00:31:54.519Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
