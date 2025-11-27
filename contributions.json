@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1764259107483,
+      "id": 1764259168056,
       "repository": "yeyang52/yenai-plugin",
-      "issueTitle": "[Bug] 入群验证的欢迎消息发送失败",
-      "url": "https://github.com/yeyang52/yenai-plugin/issues/155",
-      "createdAt": "2025-11-27T15:58:27.484Z",
+      "issueTitle": "[Bug] 群验证工作一段时间后，有新人进来不会触发群验证",
+      "url": "https://github.com/yeyang52/yenai-plugin/issues/161",
+      "createdAt": "2025-11-27T15:59:28.057Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
