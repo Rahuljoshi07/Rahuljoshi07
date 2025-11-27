@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764250462872,
+      "repository": "CycloneDX/cyclonedx-webpack-plugin",
+      "issueTitle": "perf: use caching when searchig for package manifests",
+      "url": "https://github.com/CycloneDX/cyclonedx-webpack-plugin/issues/1474",
+      "createdAt": "2025-11-27T13:34:22.872Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
