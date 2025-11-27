@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764215699717,
+      "repository": "ArnaudBuchholz/ui5-test-runner",
+      "issueTitle": "Failures induced by `local-network-access` check",
+      "url": "https://github.com/ArnaudBuchholz/ui5-test-runner/issues/159",
+      "createdAt": "2025-11-27T03:54:59.717Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
