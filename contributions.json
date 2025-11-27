@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764282551930,
+      "repository": "markqvist/Sideband",
+      "issueTitle": "Touchpad inputs are treated as touchscreen inputs on Linux under some unknown conditions",
+      "url": "https://github.com/markqvist/Sideband/issues/54",
+      "createdAt": "2025-11-27T22:29:11.930Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
