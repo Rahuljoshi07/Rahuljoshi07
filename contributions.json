@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764207451549,
+      "repository": "Itsukichann/Baileys",
+      "issueTitle": "Device Not Able to connect in console showing the device is connect but in WhatsApp its showing unable to log in please check your internet connection but in console its connected then error coming",
+      "url": "https://github.com/Itsukichann/Baileys/issues/65",
+      "createdAt": "2025-11-27T01:37:31.549Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
