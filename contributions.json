@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764264657481,
+      "repository": "materialsvirtuallab/matgl",
+      "issueTitle": "[Bug]: AttributeError: 'GlobalStorage' object has no attribute 'batch_num_edges'",
+      "url": "https://github.com/materialsvirtuallab/matgl/issues/690",
+      "createdAt": "2025-11-27T17:30:57.481Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
