@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764204729896,
+      "repository": "NVIDIA/cuEquivariance",
+      "issueTitle": "Bug: cuEquivariance-jax not support the B200 / B300 | cuda12",
+      "url": "https://github.com/NVIDIA/cuEquivariance/issues/209",
+      "createdAt": "2025-11-27T00:52:09.896Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
