@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764209734047,
+      "repository": "StarWarsFoundryVTT/StarWarsFFG",
+      "issueTitle": "Adjusted value 0 is visible when no characteristic is selected on weapon sheet",
+      "url": "https://github.com/StarWarsFoundryVTT/StarWarsFFG/issues/2045",
+      "createdAt": "2025-11-27T02:15:34.047Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
