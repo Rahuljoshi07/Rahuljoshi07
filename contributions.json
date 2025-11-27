@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764262916744,
+      "repository": "malinovsku/ha-keenetic_api",
+      "issueTitle": "Unexpected error fetching keenetic_api-http://192.168.1.1-fw data",
+      "url": "https://github.com/malinovsku/ha-keenetic_api/issues/14",
+      "createdAt": "2025-11-27T17:01:56.744Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
