@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764250583632,
+      "repository": "FarhanAliRaza/django-bolt",
+      "issueTitle": "Create MediaType enum for response media type.",
+      "url": "https://github.com/FarhanAliRaza/django-bolt/issues/28",
+      "createdAt": "2025-11-27T13:36:23.632Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
