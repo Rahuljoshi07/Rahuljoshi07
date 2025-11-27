@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764275372466,
+      "repository": "antonrh/anydi",
+      "issueTitle": "ImportError: cannot import name 'Depends' from 'fast_depends.dependencies' when using fast_depends >= 3.x",
+      "url": "https://github.com/antonrh/anydi/issues/210",
+      "createdAt": "2025-11-27T20:29:32.466Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
