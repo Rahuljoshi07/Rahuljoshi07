@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764228714712,
+      "repository": "eclipse-dirigible/dirigible",
+      "issueTitle": "[Database] PostgreSQL - Import of SystemDB not Working",
+      "url": "https://github.com/eclipse-dirigible/dirigible/issues/5485",
+      "createdAt": "2025-11-27T07:31:54.712Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
