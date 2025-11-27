@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764273961975,
+      "repository": "kartoza/django-bims",
+      "issueTitle": "Pulling origin, endemism and national conservation status for synonyms",
+      "url": "https://github.com/kartoza/django-bims/issues/4969",
+      "createdAt": "2025-11-27T20:06:01.975Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
