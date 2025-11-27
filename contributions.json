@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764205189702,
+      "repository": "theriverman/django-minio-backend",
+      "issueTitle": "Python minio update appears to break the 'initialize_buckets' management command",
+      "url": "https://github.com/theriverman/django-minio-backend/issues/68",
+      "createdAt": "2025-11-27T00:59:49.703Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
