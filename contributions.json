@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1764262959372,
-      "repository": "snowflakedb/snowflake-connector-nodejs",
-      "issueTitle": "SNOW-1842116: Typescript: `getResultsFromQueryId` expects option of type `StatementOption`. `sqlText` should therefore be optional.",
-      "url": "https://github.com/snowflakedb/snowflake-connector-nodejs/issues/978",
-      "createdAt": "2025-11-27T17:02:39.372Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
