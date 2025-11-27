@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764254973469,
-      "repository": "2M4U/2m4u",
-      "issueTitle": ".env.template is missing",
-      "url": "https://github.com/2M4U/2m4u/issues/9",
-      "createdAt": "2025-11-27T14:49:33.469Z",
+      "id": 1764255002386,
+      "repository": "linear-b/gitstream",
+      "issueTitle": "GitStream assumes it is operating in a GitHub context",
+      "url": "https://github.com/linear-b/gitstream/issues/807",
+      "createdAt": "2025-11-27T14:50:02.386Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
