@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764237527603,
+      "repository": "zilliztech/VectorDBBench",
+      "issueTitle": "batchcli can only run the first case, and the subsequent cases will show a WARNING",
+      "url": "https://github.com/zilliztech/VectorDBBench/issues/649",
+      "createdAt": "2025-11-27T09:58:47.603Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
