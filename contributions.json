@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764262372450,
+      "repository": "GauravKarakoti/Weather-API",
+      "issueTitle": "Suggest Replacing Existing Weather API With OpenWeatherMap (Low Latency)",
+      "url": "https://github.com/GauravKarakoti/Weather-API/issues/390",
+      "createdAt": "2025-11-27T16:52:52.450Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
