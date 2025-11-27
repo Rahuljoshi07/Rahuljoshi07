@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764230903058,
+      "repository": "yeonjuan/html-eslint",
+      "issueTitle": "[BUG] Headings must not be empty with images",
+      "url": "https://github.com/yeonjuan/html-eslint/issues/452",
+      "createdAt": "2025-11-27T08:08:23.058Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
