@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764216625171,
+      "repository": "PyProphet/pyprophet",
+      "issueTitle": "--apply_weights requires --ss_main_score to be specified as in the original command",
+      "url": "https://github.com/PyProphet/pyprophet/issues/151",
+      "createdAt": "2025-11-27T04:10:25.171Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
