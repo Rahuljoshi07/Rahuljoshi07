@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764281614148,
+      "repository": "i-dot-ai/lex",
+      "issueTitle": "[BUG] Elastic pipeline errors on empty `text` field",
+      "url": "https://github.com/i-dot-ai/lex/issues/5",
+      "createdAt": "2025-11-27T22:13:34.148Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
