@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764252302415,
+      "repository": "glass-dev/glass",
+      "issueTitle": "Duplicate Coveralls reports",
+      "url": "https://github.com/glass-dev/glass/issues/536",
+      "createdAt": "2025-11-27T14:05:02.415Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
