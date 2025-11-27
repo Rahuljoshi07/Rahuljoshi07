@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764229470570,
+      "repository": "CERNDocumentServer/cds-videos",
+      "issueTitle": "instance: upgrade dependencies",
+      "url": "https://github.com/CERNDocumentServer/cds-videos/issues/2127",
+      "createdAt": "2025-11-27T07:44:30.570Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
