@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764215699717,
+      "id": 1764215730589,
       "repository": "ArnaudBuchholz/ui5-test-runner",
-      "issueTitle": "Failures induced by `local-network-access` check",
-      "url": "https://github.com/ArnaudBuchholz/ui5-test-runner/issues/159",
-      "createdAt": "2025-11-27T03:54:59.717Z",
+      "issueTitle": "Loading of resources failing",
+      "url": "https://github.com/ArnaudBuchholz/ui5-test-runner/issues/153",
+      "createdAt": "2025-11-27T03:55:30.589Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
