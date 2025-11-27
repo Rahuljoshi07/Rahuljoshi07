@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764259495637,
+      "repository": "cenobites/flask-jsonrpc",
+      "issueTitle": "Feature request: allow deeper view nesting in API Browser",
+      "url": "https://github.com/cenobites/flask-jsonrpc/issues/377",
+      "createdAt": "2025-11-27T16:04:55.637Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
