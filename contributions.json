@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1764252562211,
+      "id": 1764252599556,
       "repository": "AikidoSec/safe-chain",
-      "issueTitle": "[Bug]: Version 1.1.7 do not check package.json",
-      "url": "https://github.com/AikidoSec/safe-chain/issues/156",
-      "createdAt": "2025-11-27T14:09:22.211Z",
+      "issueTitle": "[Bug]: `npm audit` reports `2 high severity vulnerabilities` on \"main\" branch",
+      "url": "https://github.com/AikidoSec/safe-chain/issues/182",
+      "createdAt": "2025-11-27T14:09:59.557Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
