@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764282236407,
+      "repository": "MrPrimate/ddb-importer",
+      "issueTitle": "Haste expires at the end of the target's turn",
+      "url": "https://github.com/MrPrimate/ddb-importer/issues/566",
+      "createdAt": "2025-11-27T22:23:56.407Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
