@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764224025983,
+      "repository": "SSWConsulting/SSW.Rules",
+      "issueTitle": "🐛 BUG - Rule Category intro broken",
+      "url": "https://github.com/SSWConsulting/SSW.Rules/issues/2124",
+      "createdAt": "2025-11-27T06:13:45.983Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
