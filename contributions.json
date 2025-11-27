@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764225680641,
+      "repository": "thunlp/LLaVA-UHD",
+      "issueTitle": "RuntimeError: Given groups=1, weight of size [1024, 3, 14, 14], expected input[1024, 1, 224, 224] to have 3 channels, but got 1 channels instead",
+      "url": "https://github.com/thunlp/LLaVA-UHD/issues/31",
+      "createdAt": "2025-11-27T06:41:20.641Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
