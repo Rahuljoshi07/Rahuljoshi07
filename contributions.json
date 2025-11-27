@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764284102790,
+      "repository": "codingjoe/django-vies",
+      "issueTitle": "MS_MAX_CONCURRENT_REQ",
+      "url": "https://github.com/codingjoe/django-vies/issues/314",
+      "createdAt": "2025-11-27T22:55:02.790Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
