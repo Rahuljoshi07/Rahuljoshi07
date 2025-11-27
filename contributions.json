@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764270711938,
+      "repository": "Steffo99/greed",
+      "issueTitle": "Bug: sqlite3.OperationalError, database is locked",
+      "url": "https://github.com/Steffo99/greed/issues/86",
+      "createdAt": "2025-11-27T19:11:51.938Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
