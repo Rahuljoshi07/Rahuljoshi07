@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764207734942,
+      "id": 1764207759202,
       "repository": "nextcloud/tables",
-      "issueTitle": "Add column fails",
-      "url": "https://github.com/nextcloud/tables/issues/2177",
-      "createdAt": "2025-11-27T01:42:14.942Z",
+      "issueTitle": "duplicate rows / copy and modify",
+      "url": "https://github.com/nextcloud/tables/issues/69",
+      "createdAt": "2025-11-27T01:42:39.202Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
