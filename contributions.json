@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764252562211,
+      "repository": "AikidoSec/safe-chain",
+      "issueTitle": "[Bug]: Version 1.1.7 do not check package.json",
+      "url": "https://github.com/AikidoSec/safe-chain/issues/156",
+      "createdAt": "2025-11-27T14:09:22.211Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
