@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764272580490,
+      "repository": "TheKing-OfTime/YandexMusicModClient",
+      "issueTitle": "Качаются не все треки, а те что скачаны не под тем названием и обложкой",
+      "url": "https://github.com/TheKing-OfTime/YandexMusicModClient/issues/184",
+      "createdAt": "2025-11-27T19:43:00.490Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
