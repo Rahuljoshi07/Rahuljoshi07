@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764236730405,
+      "repository": "ramses-rf/ramses_cc",
+      "issueTitle": "Code `2411` warning: `WantEcho cmd_=2411|RQ`",
+      "url": "https://github.com/ramses-rf/ramses_cc/issues/342",
+      "createdAt": "2025-11-27T09:45:30.406Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
