@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764206277395,
+      "repository": "dev-launchers/dev-launchers-platform",
+      "issueTitle": "Display “idea name already in use” error when clicking outside the field",
+      "url": "https://github.com/dev-launchers/dev-launchers-platform/issues/2696",
+      "createdAt": "2025-11-27T01:17:57.396Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
