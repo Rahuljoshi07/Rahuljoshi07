@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764230114334,
+      "repository": "ansys/pyedb",
+      "issueTitle": "Issue with function edb.modeler.get_primitives()",
+      "url": "https://github.com/ansys/pyedb/issues/1594",
+      "createdAt": "2025-11-27T07:55:14.334Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
