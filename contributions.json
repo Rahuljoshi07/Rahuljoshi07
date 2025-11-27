@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764227662470,
+      "repository": "opendatacube/datacube-ows",
+      "issueTitle": "Crash when defining layers for non-existent products",
+      "url": "https://github.com/opendatacube/datacube-ows/issues/1354",
+      "createdAt": "2025-11-27T07:14:22.470Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
