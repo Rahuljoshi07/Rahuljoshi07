@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764251197679,
+      "repository": "mindsers/changelog-reader-action",
+      "issueTitle": "Add warning and error messages for the validation feature",
+      "url": "https://github.com/mindsers/changelog-reader-action/issues/36",
+      "createdAt": "2025-11-27T13:46:37.679Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
