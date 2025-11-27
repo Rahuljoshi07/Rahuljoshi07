@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764254628347,
+      "repository": "SemanticMediaWiki/SemanticResultFormats",
+      "issueTitle": "[gallery] Proposal for correcting result format gallery (redirect and overlay)",
+      "url": "https://github.com/SemanticMediaWiki/SemanticResultFormats/issues/940",
+      "createdAt": "2025-11-27T14:43:48.347Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
