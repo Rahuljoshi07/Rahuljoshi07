@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764265072625,
+      "repository": "FZJ-IEK3-VSA/glaes",
+      "issueTitle": "Error of using prior datasets",
+      "url": "https://github.com/FZJ-IEK3-VSA/glaes/issues/11",
+      "createdAt": "2025-11-27T17:37:52.625Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
