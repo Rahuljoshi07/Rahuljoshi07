@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764231206455,
+      "repository": "vbuch/node-signpdf",
+      "issueTitle": "Invalid object ref: 23 0 R when inserted fields and `pdf-lib.save()` then signing PDF",
+      "url": "https://github.com/vbuch/node-signpdf/issues/296",
+      "createdAt": "2025-11-27T08:13:26.455Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
