@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764262916744,
-      "repository": "malinovsku/ha-keenetic_api",
-      "issueTitle": "Unexpected error fetching keenetic_api-http://192.168.1.1-fw data",
-      "url": "https://github.com/malinovsku/ha-keenetic_api/issues/14",
-      "createdAt": "2025-11-27T17:01:56.744Z",
+      "id": 1764262959372,
+      "repository": "snowflakedb/snowflake-connector-nodejs",
+      "issueTitle": "SNOW-1842116: Typescript: `getResultsFromQueryId` expects option of type `StatementOption`. `sqlText` should therefore be optional.",
+      "url": "https://github.com/snowflakedb/snowflake-connector-nodejs/issues/978",
+      "createdAt": "2025-11-27T17:02:39.372Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
