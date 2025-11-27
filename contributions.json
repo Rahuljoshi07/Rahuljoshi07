@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764252387465,
+      "repository": "science-of-finetuning/diffing-toolkit",
+      "issueTitle": "Cleaner error when a selected layer doesn't have norms",
+      "url": "https://github.com/science-of-finetuning/diffing-toolkit/issues/13",
+      "createdAt": "2025-11-27T14:06:27.465Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
