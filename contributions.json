@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764301893221,
+      "repository": "yan-xiaoo/XJTUToolBox",
+      "issueTitle": "[Bug]: 登录失败404 Client Error: Not Found for url: https://login.xjtu.edu.cn/",
+      "url": "https://github.com/yan-xiaoo/XJTUToolBox/issues/6",
+      "createdAt": "2025-11-28T03:51:33.221Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
