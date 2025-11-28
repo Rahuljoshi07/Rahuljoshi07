@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764324685969,
+      "repository": "unixorn/ha-mqtt-discoverable",
+      "issueTitle": "[BUG] No \"on_connect\" callback and \"reboot\" button when using external client",
+      "url": "https://github.com/unixorn/ha-mqtt-discoverable/issues/468",
+      "createdAt": "2025-11-28T10:11:25.970Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
