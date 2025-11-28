@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764363546772,
+      "repository": "maxmarsc/dave",
+      "issueTitle": "[GDB][VSCode] Fails to update scope when changing frame",
+      "url": "https://github.com/maxmarsc/dave/issues/7",
+      "createdAt": "2025-11-28T20:59:06.772Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
