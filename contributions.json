@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764353964559,
+      "repository": "rodpayne/home-assistant_person_location",
+      "issueTitle": "pywaze fallback failed WRCError: <html> <head><title>410 Gone</title></head>",
+      "url": "https://github.com/rodpayne/home-assistant_person_location/issues/32",
+      "createdAt": "2025-11-28T18:19:24.559Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
