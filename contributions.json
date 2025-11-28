@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764320319444,
+      "repository": "strictdoc-project/strictdoc",
+      "issueTitle": "Bug: Export with source traceability reads unnecessary files",
+      "url": "https://github.com/strictdoc-project/strictdoc/issues/2578",
+      "createdAt": "2025-11-28T08:58:39.444Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
