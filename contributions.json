@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764352129369,
+      "repository": "hjyssg/ShiguReader",
+      "issueTitle": "bug",
+      "url": "https://github.com/hjyssg/ShiguReader/issues/339",
+      "createdAt": "2025-11-28T17:48:49.369Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
