@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764341009206,
+      "repository": "Meteor-Community-Packages/meteor-mocha",
+      "issueTitle": "UnhandledPromiseRejectionWarning: Error: Protocol error (Runtime.callFunctionOn): Promise was collected",
+      "url": "https://github.com/Meteor-Community-Packages/meteor-mocha/issues/104",
+      "createdAt": "2025-11-28T14:43:29.206Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
