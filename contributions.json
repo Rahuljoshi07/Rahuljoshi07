@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764311664828,
+      "repository": "dhongu/deltatech",
+      "issueTitle": "deltatech_mrp_record~BUG~",
+      "url": "https://github.com/dhongu/deltatech/issues/34",
+      "createdAt": "2025-11-28T06:34:24.828Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
