@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764341288063,
+      "repository": "PozzettiAndrea/ComfyUI-SAM3",
+      "issueTitle": "load sm3 model Error occurred",
+      "url": "https://github.com/PozzettiAndrea/ComfyUI-SAM3/issues/34",
+      "createdAt": "2025-11-28T14:48:08.063Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
