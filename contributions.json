@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764343828451,
+      "repository": "StevenMapes/django-aws-api-gateway-websockets",
+      "issueTitle": "Doc Update: Add notes for how to handle occasions where the \"host\" and 'origin' are not the same",
+      "url": "https://github.com/StevenMapes/django-aws-api-gateway-websockets/issues/80",
+      "createdAt": "2025-11-28T15:30:28.451Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
