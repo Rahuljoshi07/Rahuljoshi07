@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764293844778,
+      "repository": "nextcloud/talk-desktop",
+      "issueTitle": "SSO-login should use the system browser",
+      "url": "https://github.com/nextcloud/talk-desktop/issues/1558",
+      "createdAt": "2025-11-28T01:37:24.778Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
