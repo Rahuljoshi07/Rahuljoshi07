@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764348633229,
+      "repository": "criteo/hwbench",
+      "issueTitle": "[BUG] Add feature checks on Turbostat",
+      "url": "https://github.com/criteo/hwbench/issues/62",
+      "createdAt": "2025-11-28T16:50:33.229Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
