@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764369928227,
+      "repository": "sgl-project/SpecForge",
+      "issueTitle": "[Bug] Missing bench_model_speedup.py",
+      "url": "https://github.com/sgl-project/SpecForge/issues/335",
+      "createdAt": "2025-11-28T22:45:28.227Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
