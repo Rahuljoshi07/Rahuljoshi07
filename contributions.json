@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764327078035,
+      "repository": "bpmn-io/bpmn-js-token-simulation",
+      "issueTitle": "Can trigger compensation within active sub-processes",
+      "url": "https://github.com/bpmn-io/bpmn-js-token-simulation/issues/231",
+      "createdAt": "2025-11-28T10:51:18.035Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
