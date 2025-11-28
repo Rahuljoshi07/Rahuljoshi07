@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764349739752,
+      "repository": "maniacx/Battery-Health-Charging",
+      "issueTitle": "Battery Health Charging Error - Encountered an unexpected error. (Dell)",
+      "url": "https://github.com/maniacx/Battery-Health-Charging/issues/141",
+      "createdAt": "2025-11-28T17:08:59.752Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
