@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764316853494,
+      "repository": "CEMeNT-PSAAP/MCDC",
+      "issueTitle": "mpi4py CI error",
+      "url": "https://github.com/CEMeNT-PSAAP/MCDC/issues/346",
+      "createdAt": "2025-11-28T08:00:53.494Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
