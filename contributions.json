@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764329076761,
+      "id": 1764329106085,
       "repository": "NeteaseCloudMusicApiEnhanced/api-enhanced",
       "issueTitle": "[Bug]",
       "url": "https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced/issues/60",
-      "createdAt": "2025-11-28T11:24:36.761Z",
+      "createdAt": "2025-11-28T11:25:06.085Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
