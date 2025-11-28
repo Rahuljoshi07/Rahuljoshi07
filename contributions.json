@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764321060451,
+      "repository": "paralleldrive/aidd",
+      "issueTitle": "File path bugs",
+      "url": "https://github.com/paralleldrive/aidd/issues/47",
+      "createdAt": "2025-11-28T09:11:00.451Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
