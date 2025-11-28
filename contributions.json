@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764315968538,
+      "repository": "deepset-ai/haystack-experimental",
+      "issueTitle": "HITL: Resuming agent execution fails with KeyError: 'serialized_data' due to incomplete snapshot (original_input_data={})",
+      "url": "https://github.com/deepset-ai/haystack-experimental/issues/399",
+      "createdAt": "2025-11-28T07:46:08.538Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
