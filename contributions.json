@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764369597205,
+      "repository": "Chakyl/society-sunlit-valley",
+      "issueTitle": "[Bug] version 3.3.5 The escape rope doesnt work so i cant leave the skull cavern and die",
+      "url": "https://github.com/Chakyl/society-sunlit-valley/issues/145",
+      "createdAt": "2025-11-28T22:39:57.205Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
