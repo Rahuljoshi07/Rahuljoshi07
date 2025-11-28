@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764361721293,
+      "repository": "mayberryjp/homelabids",
+      "issueTitle": "Error: [ERROR] Error deleting records from /database/consolidated.db newflows: database is locked",
+      "url": "https://github.com/mayberryjp/homelabids/issues/7860",
+      "createdAt": "2025-11-28T20:28:41.293Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
