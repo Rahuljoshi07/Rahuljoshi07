@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764300619669,
+      "repository": "lukehugh/cv2_enumerate_cameras",
+      "issueTitle": "cv2_enumerate_cameras crashing with ModuleNotFoundError on Windows due to missing _windows_backend",
+      "url": "https://github.com/lukehugh/cv2_enumerate_cameras/issues/4",
+      "createdAt": "2025-11-28T03:30:19.669Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
