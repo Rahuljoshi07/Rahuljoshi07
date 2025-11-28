@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764356507245,
+      "repository": "dbfixtures/pytest-postgresql",
+      "issueTitle": "psycopg.errors.AdminShutdown: terminating connection due to administrator command",
+      "url": "https://github.com/dbfixtures/pytest-postgresql/issues/1177",
+      "createdAt": "2025-11-28T19:01:47.245Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
