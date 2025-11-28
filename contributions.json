@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764325539867,
+      "repository": "TeamAOF/Craftoria",
+      "issueTitle": "[Bug Report]: Ars Nouveau tablet of flight does not work in 1.5.3",
+      "url": "https://github.com/TeamAOF/Craftoria/issues/729",
+      "createdAt": "2025-11-28T10:25:39.867Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
