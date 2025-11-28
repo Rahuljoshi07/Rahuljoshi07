@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764325009102,
+      "repository": "liusida/ComfyUI-Notebook",
+      "issueTitle": "ERROR: This installation is not allowed in this security_level.",
+      "url": "https://github.com/liusida/ComfyUI-Notebook/issues/7",
+      "createdAt": "2025-11-28T10:16:49.102Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
