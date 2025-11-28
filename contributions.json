@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764340547516,
+      "repository": "oplivilqo/manosaba_text_box",
+      "issueTitle": "bug: 切换角色后，不能正常切换表情，且切换时闪烁明显",
+      "url": "https://github.com/oplivilqo/manosaba_text_box/issues/38",
+      "createdAt": "2025-11-28T14:35:47.516Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
