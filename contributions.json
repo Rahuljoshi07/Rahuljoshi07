@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764324825669,
+      "repository": "magento/magento2-page-builder",
+      "issueTitle": "Banner element overlay issue on mobile when min-height is customized.",
+      "url": "https://github.com/magento/magento2-page-builder/issues/898",
+      "createdAt": "2025-11-28T10:13:45.669Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
