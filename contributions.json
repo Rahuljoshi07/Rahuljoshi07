@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764325091430,
+      "repository": "frappe/print_designer",
+      "issueTitle": "Error when send email with print attachment",
+      "url": "https://github.com/frappe/print_designer/issues/491",
+      "createdAt": "2025-11-28T10:18:11.431Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
