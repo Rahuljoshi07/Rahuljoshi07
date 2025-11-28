@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1764372143348,
+      "id": 1764372202962,
       "repository": "nikku/feelin",
-      "issueTitle": "Cannot access a list item with an expression",
-      "url": "https://github.com/nikku/feelin/issues/127",
-      "createdAt": "2025-11-28T23:22:23.348Z",
+      "issueTitle": "Accessing context property \"number\" throws exception when value is undefined",
+      "url": "https://github.com/nikku/feelin/issues/110",
+      "createdAt": "2025-11-28T23:23:22.962Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
