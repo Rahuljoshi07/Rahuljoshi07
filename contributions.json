@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764328577133,
+      "repository": "lukehinds/deepfabric",
+      "issueTitle": "Add support for three-way split (train/validation/test) in SplitConfig",
+      "url": "https://github.com/lukehinds/deepfabric/issues/425",
+      "createdAt": "2025-11-28T11:16:17.133Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
