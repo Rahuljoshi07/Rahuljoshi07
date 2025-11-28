@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764309811223,
+      "repository": "meshcore-dev/meshcore-ha",
+      "issueTitle": "FR: sensor for counting repeater neighbors",
+      "url": "https://github.com/meshcore-dev/meshcore-ha/issues/101",
+      "createdAt": "2025-11-28T06:03:31.223Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
