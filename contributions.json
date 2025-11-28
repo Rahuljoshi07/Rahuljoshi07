@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764314038556,
+      "repository": "BlinkDL/Albatross",
+      "issueTitle": "_curses.error: endwin() returned ERR",
+      "url": "https://github.com/BlinkDL/Albatross/issues/4",
+      "createdAt": "2025-11-28T07:13:58.557Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
