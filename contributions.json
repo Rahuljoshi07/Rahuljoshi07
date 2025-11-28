@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764289566959,
+      "repository": "fh-fvtt/zweihander",
+      "issueTitle": "Standardize Errors and Warnings",
+      "url": "https://github.com/fh-fvtt/zweihander/issues/216",
+      "createdAt": "2025-11-28T00:26:06.959Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
