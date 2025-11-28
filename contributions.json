@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764316379524,
+      "repository": "elementary-data/dbt-data-reliability",
+      "issueTitle": "Feature: case-sensitive column names for schema_changes_from_baseline",
+      "url": "https://github.com/elementary-data/dbt-data-reliability/issues/894",
+      "createdAt": "2025-11-28T07:52:59.524Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
