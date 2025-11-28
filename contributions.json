@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764362528363,
+      "repository": "nextcloud/documentation",
+      "issueTitle": "Clarification for LDAP user cleanup",
+      "url": "https://github.com/nextcloud/documentation/issues/13868",
+      "createdAt": "2025-11-28T20:42:08.363Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
