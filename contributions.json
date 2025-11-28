@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764323871376,
-      "repository": "Peergos/web-ui",
-      "issueTitle": "[Security feature] Authentication changes should ask for password",
-      "url": "https://github.com/Peergos/web-ui/issues/735",
-      "createdAt": "2025-11-28T09:57:51.376Z",
+      "id": 1764323916808,
+      "repository": "samdutton/multihouse",
+      "issueTitle": "TypeError: perf.getEntriesByName is not a function",
+      "url": "https://github.com/samdutton/multihouse/issues/17",
+      "createdAt": "2025-11-28T09:58:36.808Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
