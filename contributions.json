@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764341536035,
+      "repository": "neos/neos-ui",
+      "issueTitle": "BUG: Content elements is not shown in UI after page reload",
+      "url": "https://github.com/neos/neos-ui/issues/4023",
+      "createdAt": "2025-11-28T14:52:16.035Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
