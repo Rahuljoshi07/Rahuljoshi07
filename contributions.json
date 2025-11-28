@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764364959496,
+      "repository": "iobroker-community-adapters/ioBroker.pi-hole",
+      "issueTitle": "Many \"Error: Socket hang up\" errors",
+      "url": "https://github.com/iobroker-community-adapters/ioBroker.pi-hole/issues/62",
+      "createdAt": "2025-11-28T21:22:39.496Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
