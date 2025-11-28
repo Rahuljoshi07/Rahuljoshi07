@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764359279843,
+      "repository": "shaozi/ldap-authentication",
+      "issueTitle": "attributes with ;binary is returned as Buffer instead of base64-encoded strings in v3.3.3",
+      "url": "https://github.com/shaozi/ldap-authentication/issues/82",
+      "createdAt": "2025-11-28T19:47:59.843Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
