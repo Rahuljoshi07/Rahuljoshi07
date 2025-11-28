@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764332055028,
+      "repository": "jakethakur/antorax",
+      "issueTitle": "Held objects don't expand when character has expand property",
+      "url": "https://github.com/jakethakur/antorax/issues/16",
+      "createdAt": "2025-11-28T12:14:15.028Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
