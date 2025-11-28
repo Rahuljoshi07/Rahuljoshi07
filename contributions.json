@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764348287595,
+      "repository": "jakethakur/antorax",
+      "issueTitle": "Quest progress notifications don't display any objectives that were previously hidden via an isHidden function",
+      "url": "https://github.com/jakethakur/antorax/issues/20",
+      "createdAt": "2025-11-28T16:44:47.595Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
