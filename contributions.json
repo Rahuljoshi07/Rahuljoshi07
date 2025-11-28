@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764346096042,
+      "repository": "gopasspw/gopassbridge",
+      "issueTitle": "First insertion on listed site fails, second succeeds",
+      "url": "https://github.com/gopasspw/gopassbridge/issues/300",
+      "createdAt": "2025-11-28T16:08:16.042Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
