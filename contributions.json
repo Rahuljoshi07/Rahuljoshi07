@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764333430106,
+      "repository": "i-am-bee/agentstack",
+      "issueTitle": "[BUG] Wrong build when nesting agentstack repo in pnpm project",
+      "url": "https://github.com/i-am-bee/agentstack/issues/1656",
+      "createdAt": "2025-11-28T12:37:10.106Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
