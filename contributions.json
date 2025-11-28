@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764344887164,
+      "repository": "Vulnogram/Vulnogram",
+      "issueTitle": "Loading \"other\" metric does not satisfy check for required content field",
+      "url": "https://github.com/Vulnogram/Vulnogram/issues/273",
+      "createdAt": "2025-11-28T15:48:07.164Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
