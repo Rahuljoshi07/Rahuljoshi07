@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764312818286,
+      "repository": "opea-project/GenAIComps",
+      "issueTitle": "[Bug] `llm-docsum` test fail on vllm backend",
+      "url": "https://github.com/opea-project/GenAIComps/issues/1947",
+      "createdAt": "2025-11-28T06:53:38.286Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
