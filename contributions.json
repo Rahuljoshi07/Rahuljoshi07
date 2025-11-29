@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764442007174,
+      "repository": "linuxmint/cinnamon-spices-applets",
+      "issueTitle": "Exit@claudiux - Restart / Power Off / Suspend blocked by systemd-inhibit",
+      "url": "https://github.com/linuxmint/cinnamon-spices-applets/issues/8001",
+      "createdAt": "2025-11-29T18:46:47.175Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
