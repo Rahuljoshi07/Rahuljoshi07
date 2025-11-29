@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764392272152,
+      "repository": "roratorio-hub/ratorio",
+      "issueTitle": "セーブデータの読み込みに失敗することがある",
+      "url": "https://github.com/roratorio-hub/ratorio/issues/1125",
+      "createdAt": "2025-11-29T04:57:52.152Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
