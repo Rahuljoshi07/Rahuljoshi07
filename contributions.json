@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764411368098,
+      "repository": "AOrbitron/Eridanus",
+      "issueTitle": "[BUG] openai接口兼容性问题",
+      "url": "https://github.com/AOrbitron/Eridanus/issues/224",
+      "createdAt": "2025-11-29T10:16:08.098Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
