@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764429370358,
+      "repository": "marktennyson/flask-mailing",
+      "issueTitle": "Cannot leave MAIL_USERNAME and MAIL_PASSWORD unset",
+      "url": "https://github.com/marktennyson/flask-mailing/issues/41",
+      "createdAt": "2025-11-29T15:16:10.358Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
