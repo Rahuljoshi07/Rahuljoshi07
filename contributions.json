@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764452304034,
+      "id": 1764452335487,
       "repository": "LibreSign/libresign",
       "issueTitle": "Internal Server Error: trim(): Argument #1 ($string) must be of type string, null given",
       "url": "https://github.com/LibreSign/libresign/issues/5627",
-      "createdAt": "2025-11-29T21:38:24.034Z",
+      "createdAt": "2025-11-29T21:38:55.487Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
