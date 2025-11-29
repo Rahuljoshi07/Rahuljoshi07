@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764456605645,
+      "repository": "ajvincent/es-membrane",
+      "issueTitle": "Take out the trash (issues)",
+      "url": "https://github.com/ajvincent/es-membrane/issues/263",
+      "createdAt": "2025-11-29T22:50:05.645Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
