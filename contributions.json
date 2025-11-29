@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764415363977,
+      "repository": "thecem/octopus_germany",
+      "issueTitle": "Error in Logs about \"flex api\".",
+      "url": "https://github.com/thecem/octopus_germany/issues/63",
+      "createdAt": "2025-11-29T11:22:43.977Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
