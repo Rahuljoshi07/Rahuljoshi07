@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764413947768,
+      "repository": "gcovr/gcovr",
+      "issueTitle": "Exclude defaulted comparison operators / Defaulted comparison operators generate excessive branch coverage entries",
+      "url": "https://github.com/gcovr/gcovr/issues/1207",
+      "createdAt": "2025-11-29T10:59:07.768Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
