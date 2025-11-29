@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764442643735,
+      "repository": "101t/jasmin-web-panel",
+      "issueTitle": "Erorr on sms_logger.py while trying docker compose up",
+      "url": "https://github.com/101t/jasmin-web-panel/issues/96",
+      "createdAt": "2025-11-29T18:57:23.735Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
