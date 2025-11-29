@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764420962702,
+      "repository": "TobySuch/Shifter",
+      "issueTitle": "url shortener",
+      "url": "https://github.com/TobySuch/Shifter/issues/592",
+      "createdAt": "2025-11-29T12:56:02.702Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
