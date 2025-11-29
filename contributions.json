@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764427965196,
+      "repository": "DBJD-CR/astrbot_plugin_proactive_chat",
+      "issueTitle": "[Bug] 1.0.0-beta.2 版本新用户无法正常创建主动消息",
+      "url": "https://github.com/DBJD-CR/astrbot_plugin_proactive_chat/issues/10",
+      "createdAt": "2025-11-29T14:52:45.196Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
