@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764401327345,
+      "repository": "LeCAR-Lab/HDMI",
+      "issueTitle": "Add new motion to training but bad performance",
+      "url": "https://github.com/LeCAR-Lab/HDMI/issues/8",
+      "createdAt": "2025-11-29T07:28:47.345Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
