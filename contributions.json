@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764432405330,
+      "id": 1764432441636,
       "repository": "icosa-foundation/icosa-gallery",
       "issueTitle": "Unlisted assets incorrectly show \"Normal users will not be able to see this page\"",
       "url": "https://github.com/icosa-foundation/icosa-gallery/issues/198",
-      "createdAt": "2025-11-29T16:06:45.330Z",
+      "createdAt": "2025-11-29T16:07:21.636Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
