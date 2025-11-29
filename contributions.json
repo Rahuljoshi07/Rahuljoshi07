@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764383803540,
+      "repository": "okken/pytest-check",
+      "issueTitle": "Document & test: custom error message for check.raises",
+      "url": "https://github.com/okken/pytest-check/issues/143",
+      "createdAt": "2025-11-29T02:36:43.541Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
