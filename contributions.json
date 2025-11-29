@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764451379357,
+      "repository": "lokus-ai/lokus",
+      "issueTitle": "[Bug]: fail to work on windows",
+      "url": "https://github.com/lokus-ai/lokus/issues/99",
+      "createdAt": "2025-11-29T21:22:59.357Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
