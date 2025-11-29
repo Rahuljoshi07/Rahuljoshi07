@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764391019341,
+      "repository": "NeteaseCloudMusicApiEnhanced/api-enhanced",
+      "issueTitle": "[Bug]",
+      "url": "https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced/issues/60",
+      "createdAt": "2025-11-29T04:36:59.341Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
