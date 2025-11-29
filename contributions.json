@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764436233062,
+      "id": 1764436260605,
       "repository": "LibreSign/libresign",
-      "issueTitle": "Internal Server Error: trim(): Argument #1 ($string) must be of type string, null given",
-      "url": "https://github.com/LibreSign/libresign/issues/5627",
-      "createdAt": "2025-11-29T17:10:33.062Z",
+      "issueTitle": "Refactor pull request template for better structure and UI guidance",
+      "url": "https://github.com/LibreSign/libresign/issues/5534",
+      "createdAt": "2025-11-29T17:11:00.605Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
     }
   ],
   "stats": {
