@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764391019341,
+      "id": 1764391057717,
       "repository": "NeteaseCloudMusicApiEnhanced/api-enhanced",
       "issueTitle": "[Bug]",
       "url": "https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced/issues/60",
-      "createdAt": "2025-11-29T04:36:59.341Z",
+      "createdAt": "2025-11-29T04:37:37.717Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
