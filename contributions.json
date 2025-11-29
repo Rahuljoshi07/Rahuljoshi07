@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764456461074,
+      "repository": "jkenlooper/piecemaker",
+      "issueTitle": "FileNotFoundError: [WinError 2] The system cannot find the file specified",
+      "url": "https://github.com/jkenlooper/piecemaker/issues/25",
+      "createdAt": "2025-11-29T22:47:41.074Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
