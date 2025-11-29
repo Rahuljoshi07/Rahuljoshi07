@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764436519313,
+      "repository": "ember-bootstrap/ember-bootstrap",
+      "issueTitle": "Tracking issue: ember-bootstrap 7.0.0",
+      "url": "https://github.com/ember-bootstrap/ember-bootstrap/issues/2085",
+      "createdAt": "2025-11-29T17:15:19.313Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
