@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764377950944,
+      "repository": "miurahr/py7zr",
+      "issueTitle": "Compatibility issue 0.22 -> 1.0. How do I read one file into memory?",
+      "url": "https://github.com/miurahr/py7zr/issues/662",
+      "createdAt": "2025-11-29T00:59:10.944Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
