@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764380387498,
-      "repository": "nextcloud/talk-desktop",
-      "issueTitle": "SSO-login should use the system browser",
-      "url": "https://github.com/nextcloud/talk-desktop/issues/1558",
-      "createdAt": "2025-11-29T01:39:47.498Z",
+      "id": 1764380428900,
+      "repository": "NYUCCL/smile",
+      "issueTitle": "when localstorage for a domain is full smile will not run without a clear error",
+      "url": "https://github.com/NYUCCL/smile/issues/216",
+      "createdAt": "2025-11-29T01:40:28.900Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
