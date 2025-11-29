@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764410238505,
+      "repository": "tillsteinbach/WeConnect-cli",
+      "issueTitle": "Assistance Required for WeConnect-CLI Error (InsecureTransportError)",
+      "url": "https://github.com/tillsteinbach/WeConnect-cli/issues/152",
+      "createdAt": "2025-11-29T09:57:18.505Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
