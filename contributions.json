@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764375708198,
+      "repository": "PrimeIntellect-ai/prime-rl",
+      "issueTitle": "Error during training: assert token_prefix_with_turn[: len(token_prefix)] == token_prefix, (",
+      "url": "https://github.com/PrimeIntellect-ai/prime-rl/issues/1334",
+      "createdAt": "2025-11-29T00:21:48.198Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
