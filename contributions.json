@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764394774698,
+      "repository": "mkorpela/pabot",
+      "issueTitle": "Pabot error in azure pipeline: RuntimeError: Connection to remote server broken: [WinError 10061] No connection could be made because the target machine actively refused it",
+      "url": "https://github.com/mkorpela/pabot/issues/666",
+      "createdAt": "2025-11-29T05:39:34.698Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
