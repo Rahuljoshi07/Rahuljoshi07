@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764428295727,
+      "repository": "flaghunters/Extra-Flags-for-4chan",
+      "issueTitle": "Do not open new issues - Issue tracker has been moved to Gitlab! Url inside.",
+      "url": "https://github.com/flaghunters/Extra-Flags-for-4chan/issues/749",
+      "createdAt": "2025-11-29T14:58:15.727Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
