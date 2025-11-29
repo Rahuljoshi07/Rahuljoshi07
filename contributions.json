@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764430480846,
+      "repository": "marktennyson/flask-mailing",
+      "issueTitle": "Pydantic serializer warnings",
+      "url": "https://github.com/marktennyson/flask-mailing/issues/65",
+      "createdAt": "2025-11-29T15:34:40.846Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
