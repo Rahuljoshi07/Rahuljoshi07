@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764375796171,
+      "repository": "MET-OM/metocean-stats",
+      "issueTitle": "Issues with OPeNDAP url",
+      "url": "https://github.com/MET-OM/metocean-stats/issues/123",
+      "createdAt": "2025-11-29T00:23:16.171Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
