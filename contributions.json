@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764452167557,
+      "repository": "Kitware/trame-vtklocal",
+      "issueTitle": "Example vtk/lut.py seems broken \"JS Error => No interactor found for render window with identifier: 1  JS Error => Interactor class vtkWebAssemblyOpenGLRenderWindow is not recognized!  JS Error => Could not startEventLoop for 1\"\"",
+      "url": "https://github.com/Kitware/trame-vtklocal/issues/47",
+      "createdAt": "2025-11-29T21:36:07.557Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
