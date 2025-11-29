@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764398396405,
+      "repository": "vipshop/cache-dit",
+      "issueTitle": "Z-Image using Ulysses with DBCache FnB0 crash",
+      "url": "https://github.com/vipshop/cache-dit/issues/498",
+      "createdAt": "2025-11-29T06:39:56.405Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
