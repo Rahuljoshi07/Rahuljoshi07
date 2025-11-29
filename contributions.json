@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764431723460,
+      "id": 1764431754649,
       "repository": "icosa-foundation/icosa-gallery",
-      "issueTitle": "Add endpoint to update asset thumbnail",
-      "url": "https://github.com/icosa-foundation/icosa-gallery/issues/196",
-      "createdAt": "2025-11-29T15:55:23.461Z",
+      "issueTitle": "Unlisted assets incorrectly show \"Normal users will not be able to see this page\"",
+      "url": "https://github.com/icosa-foundation/icosa-gallery/issues/198",
+      "createdAt": "2025-11-29T15:55:54.649Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
