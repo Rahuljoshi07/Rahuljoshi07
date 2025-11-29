@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764430252183,
+      "repository": "salmonw/salmon-wallet-v2",
+      "issueTitle": "I get a Signature error when I connect to my Dapp with Salmon Wallet.",
+      "url": "https://github.com/salmonw/salmon-wallet-v2/issues/27",
+      "createdAt": "2025-11-29T15:30:52.183Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
