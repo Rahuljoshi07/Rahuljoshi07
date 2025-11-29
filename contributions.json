@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764402762551,
+      "repository": "l5yth/potato-mesh",
+      "issueTitle": "current is off by 1000",
+      "url": "https://github.com/l5yth/potato-mesh/issues/524",
+      "createdAt": "2025-11-29T07:52:42.551Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
