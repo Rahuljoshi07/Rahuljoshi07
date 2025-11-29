@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764438956813,
+      "repository": "PozzettiAndrea/ComfyUI-SAM3DObjects",
+      "issueTitle": "The installation cannot be successful and an error message is reported.",
+      "url": "https://github.com/PozzettiAndrea/ComfyUI-SAM3DObjects/issues/5",
+      "createdAt": "2025-11-29T17:55:56.813Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
