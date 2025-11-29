@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764445607629,
+      "repository": "flowcase/flowcase",
+      "issueTitle": "LDAP Authentication",
+      "url": "https://github.com/flowcase/flowcase/issues/16",
+      "createdAt": "2025-11-29T19:46:47.629Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
