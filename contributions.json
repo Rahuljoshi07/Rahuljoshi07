@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764434057314,
+      "repository": "typeddjango/djangorestframework-stubs",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/typeddjango/djangorestframework-stubs/issues/868",
+      "createdAt": "2025-11-29T16:34:17.314Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
