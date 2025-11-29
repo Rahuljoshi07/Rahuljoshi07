@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764411016930,
+      "repository": "ucam-eo/geotessera",
+      "issueTitle": "\"RuntimeError: Failed to load registry as GeoParquet: Repetition level histogram  size mismatch\" - Problem with pyarrow v19",
+      "url": "https://github.com/ucam-eo/geotessera/issues/118",
+      "createdAt": "2025-11-29T10:10:16.930Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
