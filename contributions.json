@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764384836449,
+      "repository": "nextcloud/appstore",
+      "issueTitle": "Clear cache after app release deletion",
+      "url": "https://github.com/nextcloud/appstore/issues/1668",
+      "createdAt": "2025-11-29T02:53:56.449Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
