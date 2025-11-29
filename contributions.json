@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1764405068176,
+      "id": 1764405104937,
       "repository": "icedman/dash2dock-lite",
-      "issueTitle": "TypeError: can't access property 0, mount.get_icon().names is undefined",
-      "url": "https://github.com/icedman/dash2dock-lite/issues/244",
-      "createdAt": "2025-11-29T08:31:08.176Z",
+      "issueTitle": "[BUG] unpin any app from dock crash the wayland session",
+      "url": "https://github.com/icedman/dash2dock-lite/issues/217",
+      "createdAt": "2025-11-29T08:31:44.937Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
