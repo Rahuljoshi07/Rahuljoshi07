@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764465289712,
+      "repository": "nextcloud/mail",
+      "issueTitle": "Email signature – “Show more items” action is hidden",
+      "url": "https://github.com/nextcloud/mail/issues/12096",
+      "createdAt": "2025-11-30T01:14:49.713Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
