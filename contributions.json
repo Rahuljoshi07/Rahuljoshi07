@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764519632592,
+      "repository": "FreeFeed/freefeed-react-client",
+      "issueTitle": "Bug Report: Aparat Embed Not Displayed - CORS Proxy 404 Error",
+      "url": "https://github.com/FreeFeed/freefeed-react-client/issues/1704",
+      "createdAt": "2025-11-30T16:20:32.592Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
