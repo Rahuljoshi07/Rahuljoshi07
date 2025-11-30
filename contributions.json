@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764528060547,
-      "repository": "kengorab/abra-lang",
-      "issueTitle": "Track if mutable variable is ever reassigned to",
-      "url": "https://github.com/kengorab/abra-lang/issues/595",
-      "createdAt": "2025-11-30T18:41:00.547Z",
+      "id": 1764528110655,
+      "repository": "linear-b/gitstream",
+      "issueTitle": "GitStream assumes it is operating in a GitHub context",
+      "url": "https://github.com/linear-b/gitstream/issues/807",
+      "createdAt": "2025-11-30T18:41:50.656Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
