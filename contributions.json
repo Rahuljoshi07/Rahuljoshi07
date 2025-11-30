@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764538898190,
+      "repository": "the-hideout/tarkov-dev",
+      "issueTitle": "Loot icons reset bug",
+      "url": "https://github.com/the-hideout/tarkov-dev/issues/1177",
+      "createdAt": "2025-11-30T21:41:38.190Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
