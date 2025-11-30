@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764512402991,
+      "repository": "dhtech/dhmap",
+      "issueTitle": "Errors when running the default maps",
+      "url": "https://github.com/dhtech/dhmap/issues/7",
+      "createdAt": "2025-11-30T14:20:02.991Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
