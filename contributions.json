@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764461172290,
+      "repository": "nomadkaraoke/python-audio-separator",
+      "issueTitle": "[Bug]: Dereverb models fail to load in latest version (works fine in 0.37.1)",
+      "url": "https://github.com/nomadkaraoke/python-audio-separator/issues/245",
+      "createdAt": "2025-11-30T00:06:12.290Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
