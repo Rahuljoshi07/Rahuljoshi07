@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764522413952,
+      "repository": "DYHARDx/BYAMN-Learning",
+      "issueTitle": "Fix: Firebase script crashes due to ESM imports in non‑module context",
+      "url": "https://github.com/DYHARDx/BYAMN-Learning/issues/31",
+      "createdAt": "2025-11-30T17:06:53.952Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
