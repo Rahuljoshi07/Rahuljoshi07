@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764480153415,
+      "repository": "linuxmint/cinnamon-spices-applets",
+      "issueTitle": "Drawer appler doesn't work and disables other applets.",
+      "url": "https://github.com/linuxmint/cinnamon-spices-applets/issues/7536",
+      "createdAt": "2025-11-30T05:22:33.415Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
