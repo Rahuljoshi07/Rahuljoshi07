@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764539245393,
+      "repository": "AIgen-Solutions-s-r-l/AlphaPulse",
+      "issueTitle": "Fix test suite failures (581 failed, 81 errors)",
+      "url": "https://github.com/AIgen-Solutions-s-r-l/AlphaPulse/issues/326",
+      "createdAt": "2025-11-30T21:47:25.393Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
