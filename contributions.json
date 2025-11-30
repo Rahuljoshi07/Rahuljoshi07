@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764530761531,
+      "repository": "open5e/open5e-api",
+      "issueTitle": "[BUG / DATA] Missing `srd-2014` medium / heavy armor variations of `\"Armor of Resistance\"`",
+      "url": "https://github.com/open5e/open5e-api/issues/830",
+      "createdAt": "2025-11-30T19:26:01.531Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
