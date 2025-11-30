@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764517133214,
+      "repository": "stustapay/stustapay",
+      "issueTitle": "improve handling of missing tag secrets for event",
+      "url": "https://github.com/stustapay/stustapay/issues/611",
+      "createdAt": "2025-11-30T15:38:53.214Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for react ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
