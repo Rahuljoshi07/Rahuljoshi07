@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764535642461,
+      "repository": "mir-group/nequip",
+      "issueTitle": "[BUG] AOT inductor compilation fails",
+      "url": "https://github.com/mir-group/nequip/issues/574",
+      "createdAt": "2025-11-30T20:47:22.462Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
