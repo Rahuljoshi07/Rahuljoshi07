@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764487369052,
+      "repository": "red-hat-storage/ocs-ci",
+      "issueTitle": "[Bug]: test_monitoring_shows_mon_down make test tolerate holes in data points",
+      "url": "https://github.com/red-hat-storage/ocs-ci/issues/13059",
+      "createdAt": "2025-11-30T07:22:49.052Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
