@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764492917981,
+      "repository": "chronicle/content-hub",
+      "issueTitle": "Power Up: Tools 'Get Email Templates' returning incomplete list of HTML templates",
+      "url": "https://github.com/chronicle/content-hub/issues/304",
+      "createdAt": "2025-11-30T08:55:17.981Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
