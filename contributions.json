@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764526873197,
+      "repository": "deep-assistant/hive-mind",
+      "issueTitle": "OpenCode: Permission required to run: Access file outside working directory: /tmp/opencode-source/package.json",
+      "url": "https://github.com/deep-assistant/hive-mind/issues/755",
+      "createdAt": "2025-11-30T18:21:13.197Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
