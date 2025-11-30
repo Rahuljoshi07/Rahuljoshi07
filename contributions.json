@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764539864631,
+      "repository": "gfscott/eleventy-plugin-embed-everything",
+      "issueTitle": "umap.openstreetmap.de",
+      "url": "https://github.com/gfscott/eleventy-plugin-embed-everything/issues/312",
+      "createdAt": "2025-11-30T21:57:44.631Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
