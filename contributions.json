@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764468752382,
+      "repository": "ijry/uview-plus",
+      "issueTitle": "throttle节流方法没有清理定时器",
+      "url": "https://github.com/ijry/uview-plus/issues/920",
+      "createdAt": "2025-11-30T02:12:32.382Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
