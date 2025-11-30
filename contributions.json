@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764530912042,
+      "repository": "nautilus-os/NautilusOS",
+      "issueTitle": "It gets blocked",
+      "url": "https://github.com/nautilus-os/NautilusOS/issues/56",
+      "createdAt": "2025-11-30T19:28:32.042Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
