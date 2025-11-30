@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764489259360,
+      "id": 1764489291943,
       "repository": "icosa-foundation/icosa-gallery",
       "issueTitle": "Unlisted assets incorrectly show \"Normal users will not be able to see this page\"",
       "url": "https://github.com/icosa-foundation/icosa-gallery/issues/198",
-      "createdAt": "2025-11-30T07:54:19.360Z",
+      "createdAt": "2025-11-30T07:54:51.943Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
