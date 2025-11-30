@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764523248502,
+      "id": 1764523286759,
       "repository": "TurboWarp/turbowarp.org",
-      "issueTitle": "Potential race condition between file stat and file read",
-      "url": "https://github.com/TurboWarp/turbowarp.org/issues/1",
-      "createdAt": "2025-11-30T17:20:48.502Z",
+      "issueTitle": "Use 301 instead of 302 for some redirects",
+      "url": "https://github.com/TurboWarp/turbowarp.org/issues/9",
+      "createdAt": "2025-11-30T17:21:26.760Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
