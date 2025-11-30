@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764535120173,
+      "repository": "kalavai-net/kalavai-client",
+      "issueTitle": "[BUG] kalavai-client is not working on Windows",
+      "url": "https://github.com/kalavai-net/kalavai-client/issues/34",
+      "createdAt": "2025-11-30T20:38:40.173Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
