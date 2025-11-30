@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764519236762,
+      "repository": "together-science/nerdamer-prime",
+      "issueTitle": "Number of decimal places and rounding errors in text(\"decimals\", n)",
+      "url": "https://github.com/together-science/nerdamer-prime/issues/62",
+      "createdAt": "2025-11-30T16:13:56.762Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
