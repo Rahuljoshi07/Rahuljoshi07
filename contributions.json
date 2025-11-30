@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764527418676,
+      "repository": "SignalK/signalk-server",
+      "issueTitle": "DEBUG causes SignalK to crash on startup",
+      "url": "https://github.com/SignalK/signalk-server/issues/2148",
+      "createdAt": "2025-11-30T18:30:18.676Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
