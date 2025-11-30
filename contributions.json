@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764533102232,
+      "repository": "MRX8024/motors-sync",
+      "issueTitle": "Internal Error on Command: 'Sync_Motors'",
+      "url": "https://github.com/MRX8024/motors-sync/issues/46",
+      "createdAt": "2025-11-30T20:05:02.233Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
