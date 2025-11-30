@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1764467018857,
+      "id": 1764467056139,
       "repository": "nextcloud/text",
       "issueTitle": "Adding new table rows is not possible if only the column header exists",
       "url": "https://github.com/nextcloud/text/issues/6851",
-      "createdAt": "2025-11-30T01:43:38.857Z",
+      "createdAt": "2025-11-30T01:44:16.139Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
