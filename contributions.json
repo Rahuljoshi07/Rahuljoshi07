@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764496379094,
+      "repository": "sleepy-project/sleepy",
+      "issueTitle": "[Feature] 实现歌曲状态读取并推送到后端（已完成Android AutoX.js的实现）",
+      "url": "https://github.com/sleepy-project/sleepy/issues/123",
+      "createdAt": "2025-11-30T09:52:59.094Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
