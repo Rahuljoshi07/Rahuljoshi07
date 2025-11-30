@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764526568262,
+      "repository": "Pomax/make-webbly-things",
+      "issueTitle": "Rewind doesn't clear `<file-tree>` class when using esc/enter",
+      "url": "https://github.com/Pomax/make-webbly-things/issues/224",
+      "createdAt": "2025-11-30T18:16:08.262Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
