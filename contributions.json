@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764546680872,
+      "repository": "skoruppa/stremio-community-subtitles",
+      "issueTitle": "Error message when trying to connect to SubSource on the subtitle providers",
+      "url": "https://github.com/skoruppa/stremio-community-subtitles/issues/16",
+      "createdAt": "2025-11-30T23:51:20.872Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
