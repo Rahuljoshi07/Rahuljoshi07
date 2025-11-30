@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764504214646,
+      "repository": "DasBasti/pySmartHashtag",
+      "issueTitle": "Warning message in HA: Detected blocking call to load_verify_locations",
+      "url": "https://github.com/DasBasti/pySmartHashtag/issues/79",
+      "createdAt": "2025-11-30T12:03:34.646Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
