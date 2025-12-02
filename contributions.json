@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764700609092,
+      "repository": "LewdLeah/Localized-Languages",
+      "issueTitle": "Issues regarding the Traditional Chinese translation",
+      "url": "https://github.com/LewdLeah/Localized-Languages/issues/4",
+      "createdAt": "2025-12-02T18:36:49.093Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
