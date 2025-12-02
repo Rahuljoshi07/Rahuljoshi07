@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764660325939,
+      "repository": "buxlabs/amd-to-es6",
+      "issueTitle": "Bring back two flaky cli tests",
+      "url": "https://github.com/buxlabs/amd-to-es6/issues/115",
+      "createdAt": "2025-12-02T07:25:25.939Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. (Suggested by..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
