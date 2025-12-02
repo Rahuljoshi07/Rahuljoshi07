@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764680759445,
-      "repository": "tomvlk/node-split-file",
-      "issueTitle": "Add typescript support",
-      "url": "https://github.com/tomvlk/node-split-file/issues/38",
-      "createdAt": "2025-12-02T13:05:59.445Z",
+      "id": 1764680789033,
+      "repository": "aidenlab/juicebox.js",
+      "issueTitle": "Issues with HiC map scale for large (~2.4 Gbp) single scaffold genomes",
+      "url": "https://github.com/aidenlab/juicebox.js/issues/398",
+      "createdAt": "2025-12-02T13:06:29.033Z",
       "type": "comment",
-      "content": "Adding TypeScript could improve code quality and maintainability. This suggestion is particularly re..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
