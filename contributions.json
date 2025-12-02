@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764673176306,
+      "repository": "GenieFramework/Stipple.jl",
+      "issueTitle": "@event does not propagate errors",
+      "url": "https://github.com/GenieFramework/Stipple.jl/issues/286",
+      "createdAt": "2025-12-02T10:59:36.306Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
