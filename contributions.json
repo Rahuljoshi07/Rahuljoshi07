@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764700963459,
+      "repository": "HemmeligOrg/Hemmelig.app",
+      "issueTitle": "Copy buttons do not work",
+      "url": "https://github.com/HemmeligOrg/Hemmelig.app/issues/438",
+      "createdAt": "2025-12-02T18:42:43.459Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
