@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764696001344,
+      "repository": "PlayFab/NodeSDK",
+      "issueTitle": "[Question] Should the IPlayFabResultCommon interface extend the IPlayFabError interface?",
+      "url": "https://github.com/PlayFab/NodeSDK/issues/118",
+      "createdAt": "2025-12-02T17:20:01.344Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
