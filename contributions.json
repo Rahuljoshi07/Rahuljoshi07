@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764681390809,
+      "repository": "denkiwakame/arxiv2notion",
+      "issueTitle": "Issue with Database Access",
+      "url": "https://github.com/denkiwakame/arxiv2notion/issues/23",
+      "createdAt": "2025-12-02T13:16:30.809Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
