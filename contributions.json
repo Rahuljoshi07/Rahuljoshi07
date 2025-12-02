@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764638698108,
+      "repository": "jaehyeon-kim/flink-demos",
+      "issueTitle": "Issue Running processor.py",
+      "url": "https://github.com/jaehyeon-kim/flink-demos/issues/24",
+      "createdAt": "2025-12-02T01:24:58.109Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
