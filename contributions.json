@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764709979934,
+      "repository": "OpenFreeEnergy/openfe",
+      "issueTitle": "Gather error when less than two repeats are present",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1708",
+      "createdAt": "2025-12-02T21:12:59.934Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
