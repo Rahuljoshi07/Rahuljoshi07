@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764716915551,
+      "repository": "pinokiofactory/e2-f5-tts",
+      "issueTitle": "Error with windows 11 + cuda",
+      "url": "https://github.com/pinokiofactory/e2-f5-tts/issues/3",
+      "createdAt": "2025-12-02T23:08:35.551Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
