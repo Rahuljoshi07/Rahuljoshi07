@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764699603600,
+      "repository": "Parsl/parsl",
+      "issueTitle": "Memoizer searches in run-specific sub-folder for checkpoints and ignores previous runs",
+      "url": "https://github.com/Parsl/parsl/issues/4040",
+      "createdAt": "2025-12-02T18:20:03.600Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
