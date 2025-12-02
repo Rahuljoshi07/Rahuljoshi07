@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764671865195,
+      "repository": "OxfordAbstracts/purescript-graphql-client",
+      "issueTitle": "Error: Unsupported TypeDefinition kind: INTERFACE",
+      "url": "https://github.com/OxfordAbstracts/purescript-graphql-client/issues/142",
+      "createdAt": "2025-12-02T10:37:45.195Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
