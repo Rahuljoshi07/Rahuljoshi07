@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764673582420,
-      "repository": "metomi/isodatetime",
-      "issueTitle": "Erroneous bounds checking for day of month when using truncated year of decade",
-      "url": "https://github.com/metomi/isodatetime/issues/264",
-      "createdAt": "2025-12-02T11:06:22.420Z",
+      "id": 1764673631203,
+      "repository": "Bellisario/node-snapdrop",
+      "issueTitle": "[Bug] \"DOMException: Failed to execute 'setRemoteDescription' on 'RTCPeerConnection': Failed to set remote answer sdp: Called in wrong state: stable\"",
+      "url": "https://github.com/Bellisario/node-snapdrop/issues/24",
+      "createdAt": "2025-12-02T11:07:11.203Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
