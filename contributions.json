@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764674801652,
+      "repository": "Fdawgs/node-poppler",
+      "issueTitle": "Deep freeze `#acceptedOptions` to prevent mutation",
+      "url": "https://github.com/Fdawgs/node-poppler/issues/731",
+      "createdAt": "2025-12-02T11:26:41.652Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
