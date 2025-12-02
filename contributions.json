@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764662857641,
+      "id": 1764662913676,
       "repository": "jshttp/range-parser",
       "issueTitle": "invalid start and end byte ranges should return -2",
       "url": "https://github.com/jshttp/range-parser/issues/24",
-      "createdAt": "2025-12-02T08:07:37.641Z",
+      "createdAt": "2025-12-02T08:08:33.676Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
