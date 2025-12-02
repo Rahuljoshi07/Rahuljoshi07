@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764712820929,
+      "repository": "datasnakes/OrthoEvolution",
+      "issueTitle": "Qstat parsing will error on jobs that use characters that need to be escaped.",
+      "url": "https://github.com/datasnakes/OrthoEvolution/issues/159",
+      "createdAt": "2025-12-02T22:00:20.929Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
