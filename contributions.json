@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764641841908,
-      "repository": "proxystore/taps",
-      "issueTitle": "Avoid calling `result()` in task callbacks",
-      "url": "https://github.com/proxystore/taps/issues/108",
-      "createdAt": "2025-12-02T02:17:21.908Z",
+      "id": 1764641873976,
+      "repository": "LibreSign/libresign",
+      "issueTitle": "Internal Server Error: trim(): Argument #1 ($string) must be of type string, null given",
+      "url": "https://github.com/LibreSign/libresign/issues/5627",
+      "createdAt": "2025-12-02T02:17:53.976Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
