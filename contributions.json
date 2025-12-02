@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764706951180,
+      "repository": "mgaitan/sphinxcontrib-mermaid",
+      "issueTitle": "Diagram not rendering if it's in an unopened tab from sphinx-design's tab-set",
+      "url": "https://github.com/mgaitan/sphinxcontrib-mermaid/issues/126",
+      "createdAt": "2025-12-02T20:22:31.180Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
