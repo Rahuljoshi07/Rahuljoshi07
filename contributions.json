@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764688522803,
+      "repository": "sleepy-project/sleepy",
+      "issueTitle": "后端使用 FastAPI 重构",
+      "url": "https://github.com/sleepy-project/sleepy/issues/109",
+      "createdAt": "2025-12-02T15:15:22.803Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
