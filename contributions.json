@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764675784857,
+      "id": 1764675825294,
       "repository": "RARgames/4gaBoards",
       "issueTitle": "[BUG] Language setting is not applied in new browser session",
       "url": "https://github.com/RARgames/4gaBoards/issues/819",
-      "createdAt": "2025-12-02T11:43:04.857Z",
+      "createdAt": "2025-12-02T11:43:45.294Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
