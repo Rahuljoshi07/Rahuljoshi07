@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764689281392,
+      "repository": "DIAGNijmegen/grand-challenge",
+      "issueTitle": "Forge example algorithm uses old pytorch",
+      "url": "https://github.com/DIAGNijmegen/grand-challenge/issues/4452",
+      "createdAt": "2025-12-02T15:28:01.392Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
