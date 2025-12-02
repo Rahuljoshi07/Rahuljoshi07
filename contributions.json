@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764671062403,
+      "repository": "eclipse-tractusx/tractus-x-umbrella",
+      "issueTitle": "Helm install fails due to invalid Ingress path",
+      "url": "https://github.com/eclipse-tractusx/tractus-x-umbrella/issues/347",
+      "createdAt": "2025-12-02T10:24:22.404Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
