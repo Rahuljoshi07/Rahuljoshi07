@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764666599737,
+      "repository": "yandex/yandex_tracker_client",
+      "issueTitle": "AttributeError: 'FieldLoggingDict' object has no attribute '_obj'",
+      "url": "https://github.com/yandex/yandex_tracker_client/issues/19",
+      "createdAt": "2025-12-02T09:09:59.738Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
