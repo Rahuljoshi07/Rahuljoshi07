@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764650182963,
+      "repository": "GoogleChrome/chromium-dashboard",
+      "issueTitle": "Error when trying to change status to \"N/a verified\" after the owner voted \"N/a (self-certified)\"",
+      "url": "https://github.com/GoogleChrome/chromium-dashboard/issues/5721",
+      "createdAt": "2025-12-02T04:36:22.963Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
