@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764725066694,
+      "repository": "foundryvtt-starfinder/foundryvtt-starfinder",
+      "issueTitle": "Multi-classed Vanguard's Entropic Strike damage is off-by-one at some levels.",
+      "url": "https://github.com/foundryvtt-starfinder/foundryvtt-starfinder/issues/1496",
+      "createdAt": "2025-12-03T01:24:26.694Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
