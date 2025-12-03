@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764757054973,
+      "repository": "caniko/pydantic-numpy",
+      "issueTitle": "Serialization / Deserialization error for empty arrays with dim>1",
+      "url": "https://github.com/caniko/pydantic-numpy/issues/63",
+      "createdAt": "2025-12-03T10:17:34.973Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
