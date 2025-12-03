@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764799086003,
+      "repository": "silverwind/updates",
+      "issueTitle": "Don't upgrade from non-prelease to prerelease from `latest` dist-tag by default",
+      "url": "https://github.com/silverwind/updates/issues/76",
+      "createdAt": "2025-12-03T21:58:06.003Z",
+      "type": "comment",
+      "content": "Using a bundler like Webpack or Vite could improve performance. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
