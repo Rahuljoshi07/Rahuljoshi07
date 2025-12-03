@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764760291606,
-      "repository": "farjs/farjs",
-      "issueTitle": "Migrate from Scala.js to JavaScript",
-      "url": "https://github.com/farjs/farjs/issues/84",
-      "createdAt": "2025-12-03T11:11:31.606Z",
+      "id": 1764760319825,
+      "repository": "nextcloud/mail",
+      "issueTitle": "Threading Mode: Older messages in a conversation are not shown, only visible in non-threaded view",
+      "url": "https://github.com/nextcloud/mail/issues/12028",
+      "createdAt": "2025-12-03T11:11:59.825Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
