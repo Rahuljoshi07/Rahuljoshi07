@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764797065898,
+      "repository": "sugarlabs/musicblocks",
+      "issueTitle": "UI Bug (Hover Blockage)",
+      "url": "https://github.com/sugarlabs/musicblocks/issues/4809",
+      "createdAt": "2025-12-03T21:24:25.898Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
