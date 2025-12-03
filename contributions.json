@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764806256415,
+      "repository": "silverwind/updates",
+      "issueTitle": "Don't upgrade from non-prelease to prerelease from `latest` dist-tag by default",
+      "url": "https://github.com/silverwind/updates/issues/76",
+      "createdAt": "2025-12-03T23:57:36.415Z",
+      "type": "comment",
+      "content": "Adding TypeScript could prevent type-related bugs and improve maintainability. This suggestion is pa..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
