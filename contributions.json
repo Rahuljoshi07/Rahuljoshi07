@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764764564902,
+      "repository": "olivierfriard/BORIS",
+      "issueTitle": "Error message when trying to open a project",
+      "url": "https://github.com/olivierfriard/BORIS/issues/916",
+      "createdAt": "2025-12-03T12:22:44.902Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
