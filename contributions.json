@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764765512540,
+      "repository": "ModelTC/LightX2V",
+      "issueTitle": "wan2.2-FP8-step4  Distillation Model  4-CPU Parallel Inference Result is Incorrect",
+      "url": "https://github.com/ModelTC/LightX2V/issues/557",
+      "createdAt": "2025-12-03T12:38:32.540Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
