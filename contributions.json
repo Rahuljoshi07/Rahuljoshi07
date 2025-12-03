@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764753912184,
-      "repository": "EcrituresNumeriques/stylo",
-      "issueTitle": "StrictPopulateError: Cannot populate path `permissions` because it is not in your schema. Set the `strictPopulate` option to false to override.",
-      "url": "https://github.com/EcrituresNumeriques/stylo/issues/1831",
-      "createdAt": "2025-12-03T09:25:12.184Z",
+      "id": 1764753953811,
+      "repository": "aliyun/alibabacloud-python-sdk",
+      "issueTitle": "ImportError: cannot import name 'Client' from partially initialized module 'alibabacloud_iot20180120.client'",
+      "url": "https://github.com/aliyun/alibabacloud-python-sdk/issues/38",
+      "createdAt": "2025-12-03T09:25:53.811Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
