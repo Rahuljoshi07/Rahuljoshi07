@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764753607298,
+      "repository": "canonical/checkbox",
+      "issueTitle": "startprovider fails to run with urwid 3.0.4",
+      "url": "https://github.com/canonical/checkbox/issues/2221",
+      "createdAt": "2025-12-03T09:20:07.298Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
