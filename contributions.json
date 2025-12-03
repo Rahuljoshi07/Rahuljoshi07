@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764742914742,
+      "repository": "stepfun-ai/gelab-zero",
+      "issueTitle": "Try python examples/run_single_task.py with an unexpected error",
+      "url": "https://github.com/stepfun-ai/gelab-zero/issues/11",
+      "createdAt": "2025-12-03T06:21:54.742Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
