@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764776141539,
+      "repository": "polhenarejos/pico-openpgp",
+      "issueTitle": "ESP32-S3: RSA 2048+ Generation Causes System Crash, Card Error in PGP GUI, and PIN Authentication Failures",
+      "url": "https://github.com/polhenarejos/pico-openpgp/issues/44",
+      "createdAt": "2025-12-03T15:35:41.539Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
