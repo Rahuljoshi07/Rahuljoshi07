@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764799383864,
+      "repository": "destinygg/chat-gui",
+      "issueTitle": "Watching mode doesn't highlight new messages properly when nothing embedded",
+      "url": "https://github.com/destinygg/chat-gui/issues/371",
+      "createdAt": "2025-12-03T22:03:03.864Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
