@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764780016661,
+      "repository": "awslabs/s3-connector-for-pytorch",
+      "issueTitle": "Lightning v2.6.0: S3LightningCheckpoint.load_checkpoint() missing 'weights_only' parameter",
+      "url": "https://github.com/awslabs/s3-connector-for-pytorch/issues/387",
+      "createdAt": "2025-12-03T16:40:16.662Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
