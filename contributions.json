@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764786191478,
+      "repository": "IgniteUI/igniteui-docfx",
+      "issueTitle": "Error thrown on trying to copy topic section link for Tree Grid Toolbar topic",
+      "url": "https://github.com/IgniteUI/igniteui-docfx/issues/6307",
+      "createdAt": "2025-12-03T18:23:11.478Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
