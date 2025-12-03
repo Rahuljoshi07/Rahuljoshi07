@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764782608919,
+      "repository": "sonic-net/sonic-mgmt",
+      "issueTitle": "Bug: [Chassis]'sonic-clear priority-group drop counters' does not clear drop counters",
+      "url": "https://github.com/sonic-net/sonic-mgmt/issues/21519",
+      "createdAt": "2025-12-03T17:23:28.919Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
