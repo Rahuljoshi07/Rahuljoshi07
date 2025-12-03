@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764773471195,
+      "repository": "awmottaz/prettier-plugin-void-html",
+      "issueTitle": "Improper Handling of Missing Trailing Newline for Nested Void Tags",
+      "url": "https://github.com/awmottaz/prettier-plugin-void-html/issues/30",
+      "createdAt": "2025-12-03T14:51:11.195Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
