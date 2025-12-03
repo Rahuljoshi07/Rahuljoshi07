@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764764125407,
+      "repository": "lincolnloop/django-layout",
+      "issueTitle": "Ensure `caplog` works in test suite",
+      "url": "https://github.com/lincolnloop/django-layout/issues/102",
+      "createdAt": "2025-12-03T12:15:25.407Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
