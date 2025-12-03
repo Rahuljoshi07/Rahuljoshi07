@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764727125496,
+      "repository": "okTurtles/group-income",
+      "issueTitle": "unreceived DM, sync issues",
+      "url": "https://github.com/okTurtles/group-income/issues/2975",
+      "createdAt": "2025-12-03T01:58:45.496Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
