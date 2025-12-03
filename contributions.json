@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764749426939,
+      "repository": "ghazi-git/drf-standardized-errors",
+      "issueTitle": "Document 404 when no renderers found",
+      "url": "https://github.com/ghazi-git/drf-standardized-errors/issues/109",
+      "createdAt": "2025-12-03T08:10:26.939Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
