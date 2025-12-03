@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764748025501,
+      "repository": "AdobeDocs/adobe-dev-console",
+      "issueTitle": "Issue in /main/src/pages/guides/authentication/UserAuthentication/implementation.md",
+      "url": "https://github.com/AdobeDocs/adobe-dev-console/issues/232",
+      "createdAt": "2025-12-03T07:47:05.502Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
