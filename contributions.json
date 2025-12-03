@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764756822255,
+      "repository": "COVESA/s2dm",
+      "issueTitle": "@range directive does not work properly with lists in the `jsonschema` exporter",
+      "url": "https://github.com/COVESA/s2dm/issues/157",
+      "createdAt": "2025-12-03T10:13:42.255Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
