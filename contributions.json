@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764733676359,
+      "repository": "fhh2626/BFEE2",
+      "issueTitle": "Issue with separation step in BFEE2",
+      "url": "https://github.com/fhh2626/BFEE2/issues/147",
+      "createdAt": "2025-12-03T03:47:56.359Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
