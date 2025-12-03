@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764783886523,
+      "repository": "harvard-growth-lab/pandas-to-postgres",
+      "issueTitle": "Foreign Keys not being recreated",
+      "url": "https://github.com/harvard-growth-lab/pandas-to-postgres/issues/7",
+      "createdAt": "2025-12-03T17:44:46.524Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
