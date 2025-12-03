@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764743178022,
+      "repository": "gambitph/Stackable",
+      "issueTitle": "Heading block - HTML being applied to other blocks if moved together outside the parent block",
+      "url": "https://github.com/gambitph/Stackable/issues/3078",
+      "createdAt": "2025-12-03T06:26:18.023Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
