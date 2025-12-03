@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764792665247,
+      "repository": "hyprland-community/pyprland",
+      "issueTitle": "[BUG] Scratchpad pop-ups behind main window",
+      "url": "https://github.com/hyprland-community/pyprland/issues/173",
+      "createdAt": "2025-12-03T20:11:05.247Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
