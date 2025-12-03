@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764771736799,
+      "repository": "maxplanck-ie/parkour2",
+      "issueTitle": "Port our 'Duties' submodule to use Tabulator",
+      "url": "https://github.com/maxplanck-ie/parkour2/issues/237",
+      "createdAt": "2025-12-03T14:22:16.799Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
