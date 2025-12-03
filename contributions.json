@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1764767391444,
-      "repository": "InfotelGLPI/manageentities",
-      "issueTitle": "Uncaught Exception TypeError: implode(): Argument #1 ($pieces) must be of type array, string given in /opt/glpi/marketplace/manageentities/inc/critype.class.php at line 65",
-      "url": "https://github.com/InfotelGLPI/manageentities/issues/33",
-      "createdAt": "2025-12-03T13:09:51.444Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
