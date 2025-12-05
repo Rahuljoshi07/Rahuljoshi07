@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764897368701,
+      "repository": "Cat-zaizai/ZaiZaiCat-Checkin",
+      "issueTitle": "修复：看雪论坛签到脚本推送通知 AttributeError 异常",
+      "url": "https://github.com/Cat-zaizai/ZaiZaiCat-Checkin/issues/3",
+      "createdAt": "2025-12-05T01:16:08.701Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
