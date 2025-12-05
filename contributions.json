@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1764910577240,
+      "id": 1764910619820,
       "repository": "mosheng1/QuickClipboard",
-      "issueTitle": "[Feature] 检查更新弹出的窗口不会自动关闭",
-      "url": "https://github.com/mosheng1/QuickClipboard/issues/177",
-      "createdAt": "2025-12-05T04:56:17.240Z",
+      "issueTitle": "[Bug] 共用一个数据存储位置",
+      "url": "https://github.com/mosheng1/QuickClipboard/issues/176",
+      "createdAt": "2025-12-05T04:56:59.820Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
