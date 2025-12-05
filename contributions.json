@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764914944654,
+      "repository": "tOgg1/graphene-django-cud",
+      "issueTitle": "Nested one-to-one fields",
+      "url": "https://github.com/tOgg1/graphene-django-cud/issues/98",
+      "createdAt": "2025-12-05T06:09:04.654Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
