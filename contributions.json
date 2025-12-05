@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764906733314,
+      "repository": "langchain-ai/langsmith-sdk",
+      "issueTitle": "Issue: TS hub.pull breaks with includeModel true",
+      "url": "https://github.com/langchain-ai/langsmith-sdk/issues/2169",
+      "createdAt": "2025-12-05T03:52:13.314Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
