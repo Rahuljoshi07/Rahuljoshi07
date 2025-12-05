@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764923047695,
+      "repository": "vllm-project/vllm-omni",
+      "issueTitle": "[Bug]: QwenImage offline inference stuck at downloading qwen/qwen3-0.6B in NPU（A2 910B）",
+      "url": "https://github.com/vllm-project/vllm-omni/issues/208",
+      "createdAt": "2025-12-05T08:24:07.695Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
