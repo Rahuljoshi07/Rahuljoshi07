@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764989173579,
+      "repository": "domainaware/checkdmarc",
+      "issueTitle": "SPF/DMARC validator: several pre-existing validation bugs",
+      "url": "https://github.com/domainaware/checkdmarc/issues/213",
+      "createdAt": "2025-12-06T02:46:13.579Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
