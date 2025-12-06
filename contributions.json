@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764995552168,
+      "repository": "essoduke/jQuery-TWzipcode",
+      "issueTitle": "新竹市東區、北區、香山區郵遞區號一樣，因此會有 bug",
+      "url": "https://github.com/essoduke/jQuery-TWzipcode/issues/21",
+      "createdAt": "2025-12-06T04:32:32.168Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
