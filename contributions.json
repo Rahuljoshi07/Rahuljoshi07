@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1765000213433,
+      "id": 1765000238924,
       "repository": "PaloAltoNetworks/upload-secure-artifact",
-      "issueTitle": "Tweaks to leverage some new gitleaks features to catch more secrets",
-      "url": "https://github.com/PaloAltoNetworks/upload-secure-artifact/issues/5",
-      "createdAt": "2025-12-06T05:50:13.433Z",
+      "issueTitle": "path argument is not compatible with original actions/upload-artifacts (multi-line support broken)",
+      "url": "https://github.com/PaloAltoNetworks/upload-secure-artifact/issues/6",
+      "createdAt": "2025-12-06T05:50:38.924Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
