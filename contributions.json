@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1764987584837,
+      "repository": "pydap/pydap",
+      "issueTitle": "enable context manager protocol for enabling/disabling batch mode.",
+      "url": "https://github.com/pydap/pydap/issues/595",
+      "createdAt": "2025-12-06T02:19:44.837Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
