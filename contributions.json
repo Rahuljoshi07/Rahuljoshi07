@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765000186137,
+      "repository": "PaloAltoNetworks/upload-secure-artifact",
+      "issueTitle": "path argument is not compatible with original actions/upload-artifacts (multi-line support broken)",
+      "url": "https://github.com/PaloAltoNetworks/upload-secure-artifact/issues/6",
+      "createdAt": "2025-12-06T05:49:46.137Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
