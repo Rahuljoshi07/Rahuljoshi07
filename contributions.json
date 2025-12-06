@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765000399223,
+      "repository": "PaloAltoNetworks/upload-secure-artifact",
+      "issueTitle": "Tweaks to leverage some new gitleaks features to catch more secrets",
+      "url": "https://github.com/PaloAltoNetworks/upload-secure-artifact/issues/5",
+      "createdAt": "2025-12-06T05:53:19.223Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
