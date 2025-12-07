@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765077381105,
+      "repository": "helloxz/nsfw",
+      "issueTitle": "测试url图片时报错：Unknown error: AsyncClient.get() got an unexpected keyword argument 'stream'",
+      "url": "https://github.com/helloxz/nsfw/issues/1",
+      "createdAt": "2025-12-07T03:16:21.105Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
