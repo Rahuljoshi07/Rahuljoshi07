@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765090276539,
+      "repository": "pettingllms-ai/PettingLLMs",
+      "issueTitle": "Error executing method 'determine_available_memory'. This might cause deadlock in distributed execution.",
+      "url": "https://github.com/pettingllms-ai/PettingLLMs/issues/4",
+      "createdAt": "2025-12-07T06:51:16.539Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
