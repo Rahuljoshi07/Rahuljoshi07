@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765145664730,
+      "repository": "EnigmaticaModpacks/Enigmatica9",
+      "issueTitle": "Superior Shield Dupe",
+      "url": "https://github.com/EnigmaticaModpacks/Enigmatica9/issues/1034",
+      "createdAt": "2025-12-07T22:14:24.730Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
