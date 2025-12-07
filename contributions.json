@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765138058512,
+      "repository": "BrandeisPatrick/blank-space",
+      "issueTitle": "Add git support and a diff support so ai code changes are applied instead of overlapping causing errors",
+      "url": "https://github.com/BrandeisPatrick/blank-space/issues/1",
+      "createdAt": "2025-12-07T20:07:38.512Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
