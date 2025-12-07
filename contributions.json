@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765115975443,
+      "repository": "pickles4evaaaa/mybibliotheca",
+      "issueTitle": "[BUG] Incorrect Volume Information When Fetching Metadata",
+      "url": "https://github.com/pickles4evaaaa/mybibliotheca/issues/142",
+      "createdAt": "2025-12-07T13:59:35.443Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
