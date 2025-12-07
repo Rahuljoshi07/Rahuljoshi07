@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1765121129344,
+      "id": 1765121207360,
       "repository": "ENIACJushi/TouHouLittleMaidBE",
-      "issueTitle": "您好，我这里1.21.111的车万女仆模组，女仆被魂符或文文相机回收后就放不出来了，无论是站着点地上还是潜行点地上都没用。是bug吗？（注：实验性玩法已全部打开，版本匹配）",
-      "url": "https://github.com/ENIACJushi/TouHouLittleMaidBE/issues/14",
-      "createdAt": "2025-12-07T15:25:29.344Z",
+      "issueTitle": "错误日志栏（魂符/相片无法释放女仆）：[Scripting][error]-InvalidActorError: Failed to call function 'getDynamicProperty' due to Entity being invalid (has the Entity been removed?). at timerEvent (src/maid/MaidManager.js:519) at dataDrivenEntityTrigger (src/events/EntityEvents.js:144) at (src/events/EntityEvents.js:235)",
+      "url": "https://github.com/ENIACJushi/TouHouLittleMaidBE/issues/16",
+      "createdAt": "2025-12-07T15:26:47.360Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
