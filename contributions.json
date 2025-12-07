@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765108824302,
+      "repository": "winterx/color4bg.js",
+      "issueTitle": "How to fix the error \"Math.seedrandom is not a constructor\"",
+      "url": "https://github.com/winterx/color4bg.js/issues/17",
+      "createdAt": "2025-12-07T12:00:24.302Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
