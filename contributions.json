@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765120528751,
+      "repository": "EvolvingLMMs-Lab/lmms-engine",
+      "issueTitle": "Training Issue of Qwen3VL (may relate to ViT)",
+      "url": "https://github.com/EvolvingLMMs-Lab/lmms-engine/issues/104",
+      "createdAt": "2025-12-07T15:15:28.751Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
