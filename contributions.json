@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765092309055,
+      "repository": "geoidesic/foundryvtt-actor-studio",
+      "issueTitle": "Level Up Permission Issue",
+      "url": "https://github.com/geoidesic/foundryvtt-actor-studio/issues/207",
+      "createdAt": "2025-12-07T07:25:09.055Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
