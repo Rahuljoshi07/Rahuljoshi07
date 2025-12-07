@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765149447462,
+      "repository": "quantastica/quantum-circuit",
+      "issueTitle": "error when convert u3 gate in quest",
+      "url": "https://github.com/quantastica/quantum-circuit/issues/99",
+      "createdAt": "2025-12-07T23:17:27.462Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
