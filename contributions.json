@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765132245118,
+      "repository": "HopsonCommunity/HopsonBot",
+      "issueTitle": "TypeError: Cannot read property 'displayName' of null",
+      "url": "https://github.com/HopsonCommunity/HopsonBot/issues/37",
+      "createdAt": "2025-12-07T18:30:45.118Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
