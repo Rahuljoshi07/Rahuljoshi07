@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765111251849,
+      "repository": "Foundryborne/daggerheart",
+      "issueTitle": "[Bug] Bold Presence Domain card does not give effect to owner",
+      "url": "https://github.com/Foundryborne/daggerheart/issues/1379",
+      "createdAt": "2025-12-07T12:40:51.849Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
