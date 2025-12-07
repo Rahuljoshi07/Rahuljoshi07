@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765134667716,
+      "repository": "kraken-tech/django-subatomic",
+      "issueTitle": "Improve durability docs",
+      "url": "https://github.com/kraken-tech/django-subatomic/issues/105",
+      "createdAt": "2025-12-07T19:11:07.716Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
