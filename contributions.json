@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765143824561,
+      "repository": "ThePansmith/Monifactory",
+      "issueTitle": "[Bug]: New duping method (AE2 terminals)",
+      "url": "https://github.com/ThePansmith/Monifactory/issues/1924",
+      "createdAt": "2025-12-07T21:43:44.561Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
