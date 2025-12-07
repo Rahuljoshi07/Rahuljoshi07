@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765143035202,
+      "repository": "Neurolinked/MlsetupBuilder",
+      "issueTitle": "Unable to save or apply custom color codes for custom mltemplates",
+      "url": "https://github.com/Neurolinked/MlsetupBuilder/issues/12",
+      "createdAt": "2025-12-07T21:30:35.202Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
