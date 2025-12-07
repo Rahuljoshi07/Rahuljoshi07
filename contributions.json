@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765149801443,
+      "repository": "PBorocz/raindrop-io-py",
+      "issueTitle": "Error when getting large number of raindrops",
+      "url": "https://github.com/PBorocz/raindrop-io-py/issues/14",
+      "createdAt": "2025-12-07T23:23:21.444Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
