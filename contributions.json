@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765220601632,
+      "repository": "loopbackio/loopback-connector-postgresql",
+      "issueTitle": "Partial JSON Update",
+      "url": "https://github.com/loopbackio/loopback-connector-postgresql/issues/788",
+      "createdAt": "2025-12-08T19:03:21.632Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. This suggestion i..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
