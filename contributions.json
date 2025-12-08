@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765194490957,
+      "repository": "GetStream/stream-video-js",
+      "issueTitle": "Screen sharing not working on Android 15",
+      "url": "https://github.com/GetStream/stream-video-js/issues/2030",
+      "createdAt": "2025-12-08T11:48:10.957Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
