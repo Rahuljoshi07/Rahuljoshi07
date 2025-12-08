@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765177516353,
+      "repository": "alan-turing-institute/python-project-template",
+      "issueTitle": "Update `classifiers` to remove py3.9",
+      "url": "https://github.com/alan-turing-institute/python-project-template/issues/36",
+      "createdAt": "2025-12-08T07:05:16.353Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
