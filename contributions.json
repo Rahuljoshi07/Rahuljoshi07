@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765217491304,
+      "repository": "maxlath/wikibase-cli",
+      "issueTitle": "Add constraint checking?",
+      "url": "https://github.com/maxlath/wikibase-cli/issues/195",
+      "createdAt": "2025-12-08T18:11:31.304Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
