@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765196859413,
+      "repository": "wikimediabrasil/quickstatements3",
+      "issueTitle": "fix: painfully slow statistics",
+      "url": "https://github.com/wikimediabrasil/quickstatements3/issues/393",
+      "createdAt": "2025-12-08T12:27:39.413Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions instead of traditional loops for better performance. This suggest..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
