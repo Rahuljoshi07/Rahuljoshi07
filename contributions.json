@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765235070681,
+      "repository": "ProjectSidewalk/SidewalkWebpage",
+      "issueTitle": "Bug in filtering based on \"unvalidated\" in gallery",
+      "url": "https://github.com/ProjectSidewalk/SidewalkWebpage/issues/4085",
+      "createdAt": "2025-12-08T23:04:30.681Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
