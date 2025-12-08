@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765228761450,
+      "repository": "TerraFirmaGreg-Team/Modpack-Modern",
+      "issueTitle": "[💥]: `TypeError: Cannot read property \"CREATE_BASE\" from undefined` in Kube.js",
+      "url": "https://github.com/TerraFirmaGreg-Team/Modpack-Modern/issues/2347",
+      "createdAt": "2025-12-08T21:19:21.450Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
