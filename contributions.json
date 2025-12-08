@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765183860873,
+      "repository": "secureCodeBox/secureCodeBox",
+      "issueTitle": "Elasticsearch 8.x compatibility issue: persistence-elastic hook fails with TypeError on bulk indexing",
+      "url": "https://github.com/secureCodeBox/secureCodeBox/issues/3385",
+      "createdAt": "2025-12-08T08:51:00.873Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
