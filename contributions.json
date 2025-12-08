@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765211230887,
+      "repository": "YunoHost-Apps/jupyterlab_ynh",
+      "issueTitle": "Error upgrading to 3.4.7~ynh1",
+      "url": "https://github.com/YunoHost-Apps/jupyterlab_ynh/issues/118",
+      "createdAt": "2025-12-08T16:27:10.887Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
