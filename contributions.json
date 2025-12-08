@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765225453107,
+      "repository": "dswah/pyGAM",
+      "issueTitle": "[BUG] EDoF is not shown when we have a lot of predictors ",
+      "url": "https://github.com/dswah/pyGAM/issues/298",
+      "createdAt": "2025-12-08T20:24:13.108Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
