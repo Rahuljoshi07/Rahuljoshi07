@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765181788552,
+      "repository": "mengxinzxz/HuoDong-update",
+      "issueTitle": "小程序·志系列的两个BUG",
+      "url": "https://github.com/mengxinzxz/HuoDong-update/issues/186",
+      "createdAt": "2025-12-08T08:16:28.552Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
