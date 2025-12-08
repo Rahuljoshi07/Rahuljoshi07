@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765208877127,
+      "repository": "educational-resources-and-services/bibletags-data",
+      "issueTitle": "Examine (and fix) el-x-koine_ugnt issues",
+      "url": "https://github.com/educational-resources-and-services/bibletags-data/issues/5",
+      "createdAt": "2025-12-08T15:47:57.127Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
