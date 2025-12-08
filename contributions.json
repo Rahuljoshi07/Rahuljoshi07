@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765238226618,
+      "repository": "loopbackio/loopback-datasource-juggler",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/loopbackio/loopback-datasource-juggler/issues/1917",
+      "createdAt": "2025-12-08T23:57:06.618Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. (Suggested by..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
