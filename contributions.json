@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765221218887,
+      "repository": "miguelsousa/openbakery",
+      "issueTitle": "[universal] com_google_fonts_check_iterpolation_issues fails on CFF2",
+      "url": "https://github.com/miguelsousa/openbakery/issues/177",
+      "createdAt": "2025-12-08T19:13:38.887Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
