@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765169970651,
+      "repository": "NVIDIA/NVFlare",
+      "issueTitle": "[Issue] download_job_result() timeout issue on aggregation server (job > 2GB)",
+      "url": "https://github.com/NVIDIA/NVFlare/issues/3853",
+      "createdAt": "2025-12-08T04:59:30.651Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
