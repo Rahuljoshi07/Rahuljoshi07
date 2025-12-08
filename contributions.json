@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765207565514,
+      "repository": "FlowFuse/flowfuse",
+      "issueTitle": "Datatable menu items get clipped",
+      "url": "https://github.com/FlowFuse/flowfuse/issues/6375",
+      "createdAt": "2025-12-08T15:26:05.514Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
