@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765199184226,
+      "repository": "plus3it/watchmaker",
+      "issueTitle": "[bug] Use of `sudo` in platform.py breaks ability to re-run on hardened systems",
+      "url": "https://github.com/plus3it/watchmaker/issues/2283",
+      "createdAt": "2025-12-08T13:06:24.226Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
