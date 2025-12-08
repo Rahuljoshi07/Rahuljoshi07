@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765231430076,
+      "repository": "adobe/aio-cli-plugin-app",
+      "issueTitle": "cannot create a sequence with an action that has `web:yes` property and `require-adobe-auth: true` annotation",
+      "url": "https://github.com/adobe/aio-cli-plugin-app/issues/881",
+      "createdAt": "2025-12-08T22:03:50.076Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
