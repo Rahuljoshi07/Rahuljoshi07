@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765212934003,
+      "repository": "HakanSeven12/Road",
+      "issueTitle": "Profile_Frame_Create results in error",
+      "url": "https://github.com/HakanSeven12/Road/issues/32",
+      "createdAt": "2025-12-08T16:55:34.003Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
