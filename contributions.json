@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765161565196,
+      "repository": "agentscope-ai/agentscope-runtime",
+      "issueTitle": "[General] k8s deploy pod run error",
+      "url": "https://github.com/agentscope-ai/agentscope-runtime/issues/219",
+      "createdAt": "2025-12-08T02:39:25.196Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
