@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765208489842,
+      "repository": "GetStream/stream-video-js",
+      "issueTitle": "iOS audio session is overridden when AudioAttachment component from chat is used",
+      "url": "https://github.com/GetStream/stream-video-js/issues/1910",
+      "createdAt": "2025-12-08T15:41:29.842Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
