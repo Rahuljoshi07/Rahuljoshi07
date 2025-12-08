@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765196136164,
+      "repository": "SAR-ARD/s1ard",
+      "issueTitle": "possibility of incomplete products",
+      "url": "https://github.com/SAR-ARD/s1ard/issues/244",
+      "createdAt": "2025-12-08T12:15:36.164Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
