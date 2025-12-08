@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765179548367,
+      "repository": "alexbol99/flatten-js",
+      "issueTitle": "Intersection of two rectangles gives invalid results because of rounding errors",
+      "url": "https://github.com/alexbol99/flatten-js/issues/207",
+      "createdAt": "2025-12-08T07:39:08.367Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
