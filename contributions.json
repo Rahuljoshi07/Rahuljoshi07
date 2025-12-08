@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765197493510,
+      "repository": "tglauch/pyVPRM",
+      "issueTitle": "Naming Issue: self.sat_imgs.sat_img (in VPRM.py)",
+      "url": "https://github.com/tglauch/pyVPRM/issues/8",
+      "createdAt": "2025-12-08T12:38:13.510Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
