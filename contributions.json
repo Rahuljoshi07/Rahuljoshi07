@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765176335195,
+      "repository": "hynek/svcs",
+      "issueTitle": "ty 0.0.1a26+ breaks on fastapi and starlette integrations",
+      "url": "https://github.com/hynek/svcs/issues/151",
+      "createdAt": "2025-12-08T06:45:35.195Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
