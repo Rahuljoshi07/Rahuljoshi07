@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1765154862560,
+      "id": 1765154899852,
       "repository": "nextcloud/forms",
       "issueTitle": "Cron cleanup: Did expect one result but found none",
       "url": "https://github.com/nextcloud/forms/issues/3061",
-      "createdAt": "2025-12-08T00:47:42.561Z",
+      "createdAt": "2025-12-08T00:48:19.852Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
