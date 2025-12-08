@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765195879603,
+      "repository": "raman325/lock_code_manager",
+      "issueTitle": "[ISSUE] Locks in sync and Code slot sensors show as unavailable",
+      "url": "https://github.com/raman325/lock_code_manager/issues/358",
+      "createdAt": "2025-12-08T12:11:19.603Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
