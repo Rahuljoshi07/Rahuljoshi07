@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765212714288,
+      "repository": "hartwork/no-cyclic-imports",
+      "issueTitle": "False negative for `from . import [..]`",
+      "url": "https://github.com/hartwork/no-cyclic-imports/issues/18",
+      "createdAt": "2025-12-08T16:51:54.288Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
