@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765190591719,
+      "repository": "jonashartmann/webcam-directive",
+      "issueTitle": "NotAllowedError: Permission denied in APP Android",
+      "url": "https://github.com/jonashartmann/webcam-directive/issues/75",
+      "createdAt": "2025-12-08T10:43:11.719Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
