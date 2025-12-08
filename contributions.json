@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765190295472,
+      "repository": "inveniosoftware/invenio-app-rdm",
+      "issueTitle": "Facet label mapping crashes with KeyError when label_map lacks a bucket key (missing fallback in get_labelled_values)",
+      "url": "https://github.com/inveniosoftware/invenio-app-rdm/issues/3257",
+      "createdAt": "2025-12-08T10:38:15.472Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
