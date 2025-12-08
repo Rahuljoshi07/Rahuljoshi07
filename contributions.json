@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765207683568,
+      "repository": "Jackhammer9/RedDownloader",
+      "issueTitle": "TypeError: Logger.LogInfo() takes 2 positional arguments but 3 were given",
+      "url": "https://github.com/Jackhammer9/RedDownloader/issues/64",
+      "createdAt": "2025-12-08T15:28:03.568Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
