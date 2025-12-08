@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765237739190,
+      "repository": "ProjectSidewalk/SidewalkWebpage",
+      "issueTitle": "Expert Validate: double clicking 'Yes' changes severity rating",
+      "url": "https://github.com/ProjectSidewalk/SidewalkWebpage/issues/4088",
+      "createdAt": "2025-12-08T23:48:59.190Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
