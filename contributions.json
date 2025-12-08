@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1765215811258,
-      "repository": "Automattic/vip-cli",
-      "issueTitle": "Fails to run ``vip dev-env start`: `Error: Cannot read properties of undefined (reading 'slice')` at `node_modules/lando/lib/utils.js:198:20`",
-      "url": "https://github.com/Automattic/vip-cli/issues/2651",
-      "createdAt": "2025-12-08T17:43:31.258Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
