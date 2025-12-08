@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765178600694,
+      "repository": "qiskit-community/qiskit-metal",
+      "issueTitle": "Error in the interface between qiskit metal and ansys",
+      "url": "https://github.com/qiskit-community/qiskit-metal/issues/994",
+      "createdAt": "2025-12-08T07:23:20.694Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
