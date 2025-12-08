@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765181025834,
+      "repository": "pymc-devs/pytensor",
+      "issueTitle": "Speed up test times :rocket:",
+      "url": "https://github.com/pymc-devs/pytensor/issues/1124",
+      "createdAt": "2025-12-08T08:03:45.835Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
