@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765235788758,
+      "repository": "KAR0218/KAR0218.github.io",
+      "issueTitle": "6.00 error \"There is not enought free memory\"",
+      "url": "https://github.com/KAR0218/KAR0218.github.io/issues/10",
+      "createdAt": "2025-12-08T23:16:28.758Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
