@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765210015677,
+      "repository": "ericmjl/llamabot",
+      "issueTitle": "Speed up slow-running tests (>0.5s)",
+      "url": "https://github.com/ericmjl/llamabot/issues/265",
+      "createdAt": "2025-12-08T16:06:55.677Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
