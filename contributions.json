@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765202681969,
+      "repository": "oceanbase/powermem",
+      "issueTitle": "[Bug]: Upon adding image memory, the JSON results from the first and second searches differ.",
+      "url": "https://github.com/oceanbase/powermem/issues/81",
+      "createdAt": "2025-12-08T14:04:41.969Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
