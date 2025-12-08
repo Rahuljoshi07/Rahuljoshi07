@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765190387372,
+      "repository": "thomluther/ha-anker-solix",
+      "issueTitle": "Since MQTT Activation, the state of charge is fluctuating",
+      "url": "https://github.com/thomluther/ha-anker-solix/issues/396",
+      "createdAt": "2025-12-08T10:39:47.372Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
