@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765170732560,
+      "repository": "ansys/python-installer-qt-gui",
+      "issueTitle": "The Python Manager is identified as Trojan by Microsoft Defender",
+      "url": "https://github.com/ansys/python-installer-qt-gui/issues/489",
+      "createdAt": "2025-12-08T05:12:12.560Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
