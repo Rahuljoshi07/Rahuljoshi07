@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765200095971,
+      "repository": "hCaptcha/react-hcaptcha",
+      "issueTitle": "No loading indication or spinner when user clicks \"verify\" on captcha overlay",
+      "url": "https://github.com/hCaptcha/react-hcaptcha/issues/257",
+      "createdAt": "2025-12-08T13:21:35.971Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
