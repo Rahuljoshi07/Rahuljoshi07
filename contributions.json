@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765164001231,
+      "repository": "SuperMap/iClient-JavaScript",
+      "issueTitle": "new MapboxStyles报错 Uncaught TypeError: olLayer.get is not a function;",
+      "url": "https://github.com/SuperMap/iClient-JavaScript/issues/547",
+      "createdAt": "2025-12-08T03:20:01.231Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
