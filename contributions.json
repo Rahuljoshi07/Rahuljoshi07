@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765177153815,
+      "repository": "neetozone/neeto-ui",
+      "issueTitle": "Issue when closing DatePicker without selecting a date",
+      "url": "https://github.com/neetozone/neeto-ui/issues/2643",
+      "createdAt": "2025-12-08T06:59:13.815Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
