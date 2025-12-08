@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1765217196544,
-      "repository": "FlatAssembler/PicoBlaze_Simulator_in_JS",
-      "issueTitle": "A bug that might occur if `base_decimal` or `base_hexadecimal` are put inside an if-branching",
-      "url": "https://github.com/FlatAssembler/PicoBlaze_Simulator_in_JS/issues/34",
-      "createdAt": "2025-12-08T18:06:36.544Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
