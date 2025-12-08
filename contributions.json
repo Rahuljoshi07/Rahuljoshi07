@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765208367125,
+      "repository": "snowflakedb/snowflake-connector-nodejs",
+      "issueTitle": "SNOW-2476142: Proxying with SnowflakeHttpsProxyAgent broken when HTTP_PROXY envvar used",
+      "url": "https://github.com/snowflakedb/snowflake-connector-nodejs/issues/1190",
+      "createdAt": "2025-12-08T15:39:27.125Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
