@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1765187029020,
+      "id": 1765187065159,
       "repository": "bscript/rep",
-      "issueTitle": "Fix pls cookie issue in \"SEND\", \"Bulk replay\".",
-      "url": "https://github.com/bscript/rep/issues/31",
-      "createdAt": "2025-12-08T09:43:49.021Z",
+      "issueTitle": "Fix HTTP/1 request line endings",
+      "url": "https://github.com/bscript/rep/issues/21",
+      "createdAt": "2025-12-08T09:44:25.159Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
