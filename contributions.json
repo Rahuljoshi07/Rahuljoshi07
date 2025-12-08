@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765228099475,
+      "repository": "yohanesgultom/wapi",
+      "issueTitle": "Non-Docker Error ",
+      "url": "https://github.com/yohanesgultom/wapi/issues/53",
+      "createdAt": "2025-12-08T21:08:19.475Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
