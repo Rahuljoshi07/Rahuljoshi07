@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765193379018,
+      "repository": "pixijs/pixijs.com",
+      "issueTitle": "lots of errors, cant compile site project",
+      "url": "https://github.com/pixijs/pixijs.com/issues/160",
+      "createdAt": "2025-12-08T11:29:39.018Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
