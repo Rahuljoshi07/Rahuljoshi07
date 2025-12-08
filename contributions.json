@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765185502260,
+      "repository": "suurt8ll/open_webui_functions",
+      "issueTitle": "fix(injector): don't overwrite other status messages with the prompt template title",
+      "url": "https://github.com/suurt8ll/open_webui_functions/issues/70",
+      "createdAt": "2025-12-08T09:18:22.260Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
