@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765192776631,
+      "repository": "firewalla/firewalla",
+      "issueTitle": "Bug: ERROR Ipset: Error in interactive ipset stderr ipset v7.15",
+      "url": "https://github.com/firewalla/firewalla/issues/8474",
+      "createdAt": "2025-12-08T11:19:36.631Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
