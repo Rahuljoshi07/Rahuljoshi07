@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765168505048,
+      "repository": "jurialmunkey/plugin.video.themoviedb.helper",
+      "issueTitle": ":bug: Window(Home).Property(TMDbHelper.ListItem.Monitor.Episode_type) is always empty",
+      "url": "https://github.com/jurialmunkey/plugin.video.themoviedb.helper/issues/1713",
+      "createdAt": "2025-12-08T04:35:05.048Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
