@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765180624308,
+      "repository": "SalesforceLabs/OrgCheck",
+      "issueTitle": "An error occurred while running the dataset objects.",
+      "url": "https://github.com/SalesforceLabs/OrgCheck/issues/603",
+      "createdAt": "2025-12-08T07:57:04.308Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
