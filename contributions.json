@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765158607409,
+      "repository": "dmort27/epitran",
+      "issueTitle": "UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 970: character maps to <undefined>",
+      "url": "https://github.com/dmort27/epitran/issues/188",
+      "createdAt": "2025-12-08T01:50:07.409Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
