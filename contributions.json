@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765191243157,
+      "repository": "nrgsille76/io_scene_max",
+      "issueTitle": "Parented objects are scattered randomly, IOR value of materials is 0",
+      "url": "https://github.com/nrgsille76/io_scene_max/issues/34",
+      "createdAt": "2025-12-08T10:54:03.157Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
