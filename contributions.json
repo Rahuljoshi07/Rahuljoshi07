@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765175112888,
+      "repository": "unfazed-eco/unfazed",
+      "issueTitle": "BUG：file response 没有返回正确的文件类型",
+      "url": "https://github.com/unfazed-eco/unfazed/issues/82",
+      "createdAt": "2025-12-08T06:25:12.888Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
