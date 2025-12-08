@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1765194564183,
+      "id": 1765194598516,
       "repository": "micz/ThunderAI",
-      "issueTitle": "Request needed optional permissions before fetching models for Claude and OpenAI",
-      "url": "https://github.com/micz/ThunderAI/issues/558",
-      "createdAt": "2025-12-08T11:49:24.183Z",
+      "issueTitle": "Error trying to fetch Claude models: Claude API request failed: TypeError: NetworkError when attempting to fetch resource.",
+      "url": "https://github.com/micz/ThunderAI/issues/557",
+      "createdAt": "2025-12-08T11:49:58.516Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
