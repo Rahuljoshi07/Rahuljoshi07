@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765178101266,
+      "repository": "didi/mpx-cube-ui",
+      "issueTitle": "[Bug report] mpx-cube-ui缺少icon列表例子",
+      "url": "https://github.com/didi/mpx-cube-ui/issues/30",
+      "createdAt": "2025-12-08T07:15:01.266Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
