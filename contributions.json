@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765183394510,
+      "repository": "openzim/zimfarm",
+      "issueTitle": "Task worker has badly failed",
+      "url": "https://github.com/openzim/zimfarm/issues/1307",
+      "createdAt": "2025-12-08T08:43:14.510Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
