@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765208681462,
+      "repository": "opensource-observer/oso",
+      "issueTitle": "Refactor `stg_github__*_events` in light of API changes",
+      "url": "https://github.com/opensource-observer/oso/issues/5611",
+      "createdAt": "2025-12-08T15:44:41.462Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
