@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765226131165,
+      "repository": "Refloow/Steam-Auto-Friend",
+      "issueTitle": "Bug within the % placeholder to replace name",
+      "url": "https://github.com/Refloow/Steam-Auto-Friend/issues/3",
+      "createdAt": "2025-12-08T20:35:31.165Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
