@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765211914577,
+      "repository": "data-fair/data-fair",
+      "issueTitle": "Create a dataset from a remote CSV url does not work for some Content-Type headers",
+      "url": "https://github.com/data-fair/data-fair/issues/244",
+      "createdAt": "2025-12-08T16:38:34.577Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
