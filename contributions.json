@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765166559730,
+      "repository": "macbre/nodemw",
+      "issueTitle": "Error: Request to API failed: HTTP status code was 429",
+      "url": "https://github.com/macbre/nodemw/issues/693",
+      "createdAt": "2025-12-08T04:02:39.730Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
