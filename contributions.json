@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765230939725,
+      "repository": "wagtail/guide",
+      "issueTitle": "llms.txt for guide website content",
+      "url": "https://github.com/wagtail/guide/issues/412",
+      "createdAt": "2025-12-08T21:55:39.726Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
