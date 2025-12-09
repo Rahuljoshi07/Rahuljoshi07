@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765283340120,
+      "repository": "mpfaffenberger/code_puppy",
+      "issueTitle": "[BUG] Unhandled execption causing dying agents",
+      "url": "https://github.com/mpfaffenberger/code_puppy/issues/116",
+      "createdAt": "2025-12-09T12:29:00.120Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
