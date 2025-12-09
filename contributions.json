@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765279516669,
+      "repository": "safe-global/safe-eth-py",
+      "issueTitle": "Gas limit when using multicall",
+      "url": "https://github.com/safe-global/safe-eth-py/issues/254",
+      "createdAt": "2025-12-09T11:25:16.669Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
