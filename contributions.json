@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765302862154,
+      "repository": "django-commons/django-valkey",
+      "issueTitle": "Support prefix and version for hset keys",
+      "url": "https://github.com/django-commons/django-valkey/issues/78",
+      "createdAt": "2025-12-09T17:54:22.154Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
