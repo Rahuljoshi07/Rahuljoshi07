@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765290327797,
+      "repository": "silverwind/updates",
+      "issueTitle": "Don't upgrade from non-prelease to prerelease from `latest` dist-tag by default",
+      "url": "https://github.com/silverwind/updates/issues/76",
+      "createdAt": "2025-12-09T14:25:27.797Z",
+      "type": "comment",
+      "content": "Consider implementing proper error boundaries for better error handling. This suggestion is particul..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
