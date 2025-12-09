@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765316052007,
+      "repository": "kevin-mizu/domloggerpp",
+      "issueTitle": "Improve leverage-innerhtml.json config to detect window based clobbering",
+      "url": "https://github.com/kevin-mizu/domloggerpp/issues/51",
+      "createdAt": "2025-12-09T21:34:12.007Z",
+      "type": "comment",
+      "content": "Using a bundler like Webpack or Vite could improve performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
