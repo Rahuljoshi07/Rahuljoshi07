@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765289141976,
+      "repository": "elastic/apm-agent-python",
+      "issueTitle": "Improvement: Export 'async_capture_span' from the top-level 'elasticapm' package for easier imports",
+      "url": "https://github.com/elastic/apm-agent-python/issues/2462",
+      "createdAt": "2025-12-09T14:05:41.977Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
