@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765256677347,
+      "repository": "Verified-Intelligence/alpha-beta-CROWN",
+      "issueTitle": "RuntimeError: torch.cat(): expected a non-empty list of Tensors",
+      "url": "https://github.com/Verified-Intelligence/alpha-beta-CROWN/issues/98",
+      "createdAt": "2025-12-09T05:04:37.347Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
