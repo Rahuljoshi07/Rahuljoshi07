@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765245745759,
+      "repository": "fossguild/naja",
+      "issueTitle": "[BUG] Teleport mode resets apple count to 2 after first teleport",
+      "url": "https://github.com/fossguild/naja/issues/470",
+      "createdAt": "2025-12-09T02:02:25.759Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
