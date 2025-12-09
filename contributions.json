@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765257202473,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Extract Repeated Error Messages to Constants",
+      "url": "https://github.com/OWASP/Nest/issues/2641",
+      "createdAt": "2025-12-09T05:13:22.473Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
