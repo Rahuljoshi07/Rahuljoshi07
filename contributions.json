@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765298099281,
+      "repository": "nordlow/compiler-benchmark",
+      "issueTitle": "adding cproc",
+      "url": "https://github.com/nordlow/compiler-benchmark/issues/32",
+      "createdAt": "2025-12-09T16:34:59.281Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
