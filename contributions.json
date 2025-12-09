@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765297232575,
+      "repository": "OSIRIS-Solutions/osiris",
+      "issueTitle": "Bug: Advanced search: cannot search for individual values in list because DE/EN mixed",
+      "url": "https://github.com/OSIRIS-Solutions/osiris/issues/334",
+      "createdAt": "2025-12-09T16:20:32.576Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
