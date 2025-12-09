@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765287498945,
+      "repository": "ecmwf/WeatherGenerator",
+      "issueTitle": "Multi-stream integration test",
+      "url": "https://github.com/ecmwf/WeatherGenerator/issues/1435",
+      "createdAt": "2025-12-09T13:38:18.945Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
