@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765265962812,
+      "repository": "SignalK/signalk-server",
+      "issueTitle": "DISCUSSION - Issue: Data Path Priority Problem - User Experience & Predictability",
+      "url": "https://github.com/SignalK/signalk-server/issues/2162",
+      "createdAt": "2025-12-09T07:39:22.812Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
