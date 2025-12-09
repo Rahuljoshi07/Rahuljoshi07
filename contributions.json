@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765312345912,
+      "repository": "KhalisFoundation/sttm-desktop",
+      "issueTitle": "Waheguru Jee,\nA Cpl of more issues\n• after changing colors ( background) from dark to light & then clouds, the screen turns blank & doesn’t recover, until we restart the desktop app.\n• An earlier version used to enable to jump Tuks based upon first letter, but lately (many versions) this feature is unavailable e.g pressing m would take u to next tuk starting with an m ( Mumma)\n• Inability to delete selective history ( it used to be available in earlier versions)",
+      "url": "https://github.com/KhalisFoundation/sttm-desktop/issues/2125",
+      "createdAt": "2025-12-09T20:32:25.913Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
