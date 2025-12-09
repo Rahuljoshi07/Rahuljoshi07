@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765309275776,
+      "repository": "AresSC2/ares-sc2",
+      "issueTitle": "Bug: fix compiler warnings when compiling cython",
+      "url": "https://github.com/AresSC2/ares-sc2/issues/48",
+      "createdAt": "2025-12-09T19:41:15.776Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
