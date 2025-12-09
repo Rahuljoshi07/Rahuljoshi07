@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765321019518,
+      "repository": "conda-forge/admin-requests",
+      "issueTitle": "Persistent \"User not autorized\" error for @laureleen06 on muscat-split-feedstock",
+      "url": "https://github.com/conda-forge/admin-requests/issues/1781",
+      "createdAt": "2025-12-09T22:56:59.518Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
