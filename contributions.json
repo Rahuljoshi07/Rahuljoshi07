@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765306320015,
+      "repository": "website-scraper/website-scraper-existing-directory",
+      "issueTitle": "Drop usage of fs-extra and switch to native fs",
+      "url": "https://github.com/website-scraper/website-scraper-existing-directory/issues/63",
+      "createdAt": "2025-12-09T18:52:00.015Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
