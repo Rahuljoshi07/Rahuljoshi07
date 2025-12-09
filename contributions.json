@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765319082603,
+      "repository": "DaWe35/image-router",
+      "issueTitle": "[BUG] Inconsistent and different Imagine history for each different device",
+      "url": "https://github.com/DaWe35/image-router/issues/48",
+      "createdAt": "2025-12-09T22:24:42.603Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
