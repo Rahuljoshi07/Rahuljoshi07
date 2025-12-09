@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765290564587,
+      "repository": "OCA/account-financial-reporting",
+      "issueTitle": "[18.0] account_financial_report tests are failing on: You cannot set a partner as an invoicing address of another if they have a different Tax ID",
+      "url": "https://github.com/OCA/account-financial-reporting/issues/1328",
+      "createdAt": "2025-12-09T14:29:24.587Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
