@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765256614323,
+      "repository": "firstbatchxyz/dnet",
+      "issueTitle": "Investigate Why Ringed Pipeline favors k>1 at 70B Q4",
+      "url": "https://github.com/firstbatchxyz/dnet/issues/73",
+      "createdAt": "2025-12-09T05:03:34.323Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
