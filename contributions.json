@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765282152827,
+      "repository": "ranaldsgift/KefinTweaks",
+      "issueTitle": "Not an issue, more a request.",
+      "url": "https://github.com/ranaldsgift/KefinTweaks/issues/48",
+      "createdAt": "2025-12-09T12:09:12.827Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
