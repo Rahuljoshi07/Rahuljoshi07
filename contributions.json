@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765291273741,
+      "repository": "openedx/docs.openedx.org",
+      "issueTitle": "Issue with page: Quick Start: Build a Course - Images are out of date",
+      "url": "https://github.com/openedx/docs.openedx.org/issues/1233",
+      "createdAt": "2025-12-09T14:41:13.741Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
