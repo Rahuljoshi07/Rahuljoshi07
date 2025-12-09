@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765269061537,
+      "repository": "foo123/FILTER.js",
+      "issueTitle": "Things TODO",
+      "url": "https://github.com/foo123/FILTER.js/issues/12",
+      "createdAt": "2025-12-09T08:31:01.537Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
