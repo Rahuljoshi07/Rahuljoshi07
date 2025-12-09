@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765269939357,
+      "repository": "zone-eu/zone-mta",
+      "issueTitle": "Zone-MTA fails to start with \"TypeError: Cannot set property closed\" in restify module",
+      "url": "https://github.com/zone-eu/zone-mta/issues/453",
+      "createdAt": "2025-12-09T08:45:39.357Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
