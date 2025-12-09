@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765291688986,
+      "repository": "Jasons-impart/Create-Delight-Remake",
+      "issueTitle": "掠夺者会尝试攻击观察者模式下的玩家",
+      "url": "https://github.com/Jasons-impart/Create-Delight-Remake/issues/1281",
+      "createdAt": "2025-12-09T14:48:08.986Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
