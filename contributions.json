@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765276225382,
+      "repository": "grafana/jslib.k6.io",
+      "issueTitle": "Migrate away from *.k6.io the CI tests",
+      "url": "https://github.com/grafana/jslib.k6.io/issues/162",
+      "createdAt": "2025-12-09T10:30:25.382Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
