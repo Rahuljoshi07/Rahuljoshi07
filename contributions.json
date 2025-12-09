@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765253838893,
+      "repository": "Kilvoctu/aiyabot",
+      "issueTitle": "Incompatibility issues with Samplers / Schedulers in AUTO1111 Version 1.9+",
+      "url": "https://github.com/Kilvoctu/aiyabot/issues/264",
+      "createdAt": "2025-12-09T04:17:18.893Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
