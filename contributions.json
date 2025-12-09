@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765302762164,
+      "repository": "gardenlinux/gardenlinux",
+      "issueTitle": "Enable GLCI to publish to multiple open stack configurations",
+      "url": "https://github.com/gardenlinux/gardenlinux/issues/4042",
+      "createdAt": "2025-12-09T17:52:42.164Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
