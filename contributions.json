@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1765323023871,
+      "id": 1765323086342,
       "repository": "55gms/55GMS",
       "issueTitle": "[Bug]: It takes so long to build the codespace",
       "url": "https://github.com/55gms/55GMS/issues/151",
-      "createdAt": "2025-12-09T23:30:23.871Z",
+      "createdAt": "2025-12-09T23:31:26.342Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
