@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765322564307,
+      "repository": "krgamestudios/MERN-template",
+      "issueTitle": "Accidentally opening chat while writing in the news publisher will refresh the page, wiping the incomplete news article",
+      "url": "https://github.com/krgamestudios/MERN-template/issues/36",
+      "createdAt": "2025-12-09T23:22:44.307Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
