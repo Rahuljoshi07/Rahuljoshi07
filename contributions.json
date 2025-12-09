@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1765246827063,
-      "repository": "ansible-collections/azure",
-      "issueTitle": "Performance regression in azure inventory (starting in 3.9.0)",
-      "url": "https://github.com/ansible-collections/azure/issues/2125",
-      "createdAt": "2025-12-09T02:20:27.064Z",
-      "type": "comment",
-      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
