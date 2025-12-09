@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765273130789,
+      "repository": "vllm-project/vllm-omni",
+      "issueTitle": "[Bug]: How can I run inference for Qwen3-Omni on two A100 GPUs?",
+      "url": "https://github.com/vllm-project/vllm-omni/issues/240",
+      "createdAt": "2025-12-09T09:38:50.790Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
