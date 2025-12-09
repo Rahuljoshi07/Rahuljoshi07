@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765291160724,
+      "repository": "WordPress/create-block-theme",
+      "issueTitle": "Bug: Fluid typography edits leave stale size value in theme.json",
+      "url": "https://github.com/WordPress/create-block-theme/issues/789",
+      "createdAt": "2025-12-09T14:39:20.724Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
