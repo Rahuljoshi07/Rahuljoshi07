@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765271010607,
+      "repository": "mdn/mdn-http-observatory",
+      "issueTitle": "Observatory returns a `502` error when scanning `www.bloomberg.com`",
+      "url": "https://github.com/mdn/mdn-http-observatory/issues/347",
+      "createdAt": "2025-12-09T09:03:30.607Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
