@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765298595084,
+      "repository": "widgetfactory/jce",
+      "issueTitle": "iframe bug after upgrading to JCE 2.9.83",
+      "url": "https://github.com/widgetfactory/jce/issues/131",
+      "createdAt": "2025-12-09T16:43:15.084Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
