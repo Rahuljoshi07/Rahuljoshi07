@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765242797727,
+      "repository": "link-assistant/hive-mind",
+      "issueTitle": "We were unable to get results for some tool uses based on the comments of the pull request",
+      "url": "https://github.com/link-assistant/hive-mind/issues/853",
+      "createdAt": "2025-12-09T01:13:17.727Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
