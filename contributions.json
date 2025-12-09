@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765243229845,
+      "repository": "kkomelin/isomorphic-dompurify",
+      "issueTitle": "Node.js v22.x - webidl-conversions@8.0.0 from jsdom@27.0.0 causing an error during server start in next.js",
+      "url": "https://github.com/kkomelin/isomorphic-dompurify/issues/356",
+      "createdAt": "2025-12-09T01:20:29.845Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
