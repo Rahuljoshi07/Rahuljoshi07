@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765285902348,
+      "repository": "digitalfabrik/integreat-cms",
+      "issueTitle": "Auto Save is publishing changed settings in Event and Location form",
+      "url": "https://github.com/digitalfabrik/integreat-cms/issues/3516",
+      "createdAt": "2025-12-09T13:11:42.348Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
