@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765302574179,
+      "repository": "aerospike/aerospike-client-nodejs",
+      "issueTitle": "AerospikeRecord.bins incorrectly typed as AerospikeRecord<B> instead of B",
+      "url": "https://github.com/aerospike/aerospike-client-nodejs/issues/801",
+      "createdAt": "2025-12-09T17:49:34.179Z",
+      "type": "comment",
+      "content": "Adding TypeScript could improve code quality and maintainability. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
