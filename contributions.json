@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765276374848,
+      "repository": "kalavai-net/kalavai-client",
+      "issueTitle": "[BUG] If a job fails, it is still marked as pending in the GUI",
+      "url": "https://github.com/kalavai-net/kalavai-client/issues/30",
+      "createdAt": "2025-12-09T10:32:54.848Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
