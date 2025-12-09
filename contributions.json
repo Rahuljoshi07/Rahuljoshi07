@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765287012980,
+      "repository": "FTBTeam/FTB-Modpack-Issues",
+      "issueTitle": "Death Glitch",
+      "url": "https://github.com/FTBTeam/FTB-Modpack-Issues/issues/10796",
+      "createdAt": "2025-12-09T13:30:12.980Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
