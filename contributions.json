@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1765267268526,
+      "id": 1765267297025,
       "repository": "tldr-pages/tldr-node-client",
       "issueTitle": "Update ISSUE_TEMPLATE to new format",
       "url": "https://github.com/tldr-pages/tldr-node-client/issues/528",
-      "createdAt": "2025-12-09T08:01:08.526Z",
+      "createdAt": "2025-12-09T08:01:37.025Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
