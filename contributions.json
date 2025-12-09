@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765253995342,
+      "repository": "lando/pantheon",
+      "issueTitle": "Object Cache Pro plugin causes 500 error due to PhpRedis igbinary and zstd requirement",
+      "url": "https://github.com/lando/pantheon/issues/284",
+      "createdAt": "2025-12-09T04:19:55.343Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
