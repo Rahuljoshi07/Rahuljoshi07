@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765257686215,
+      "repository": "babalae/bettergi-scripts-list",
+      "issueTitle": "[bug]全自动地脉花坐标策略缺失反馈",
+      "url": "https://github.com/babalae/bettergi-scripts-list/issues/2451",
+      "createdAt": "2025-12-09T05:21:26.215Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
