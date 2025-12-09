@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765303268915,
+      "repository": "wecode-ai/Wegent",
+      "issueTitle": "Bug: Missing GitHub CLI (gh) command in executor containers - developer-agent cannot create PRs",
+      "url": "https://github.com/wecode-ai/Wegent/issues/353",
+      "createdAt": "2025-12-09T18:01:08.915Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
