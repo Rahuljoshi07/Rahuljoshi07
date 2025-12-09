@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765268815173,
+      "repository": "deepflowio/deepflow-app",
+      "issueTitle": "Anyone knows how to debug this project?",
+      "url": "https://github.com/deepflowio/deepflow-app/issues/320",
+      "createdAt": "2025-12-09T08:26:55.173Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
