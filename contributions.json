@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765283510764,
+      "repository": "pharmpy/pharmpy",
+      "issueTitle": "Issue in result retrieval for generic Model and in dummy estimator",
+      "url": "https://github.com/pharmpy/pharmpy/issues/4214",
+      "createdAt": "2025-12-09T12:31:50.765Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
