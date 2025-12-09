@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765250819316,
+      "repository": "keyteki/keyteki",
+      "issueTitle": "Using Book of leQ on empty deck results in error",
+      "url": "https://github.com/keyteki/keyteki/issues/4687",
+      "createdAt": "2025-12-09T03:26:59.316Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
