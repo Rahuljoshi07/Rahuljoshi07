@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1765323146463,
+      "id": 1765323180750,
       "repository": "55gms/55GMS",
-      "issueTitle": "[Bug]: ERROR MODULE NOT FOUND",
-      "url": "https://github.com/55gms/55GMS/issues/149",
-      "createdAt": "2025-12-09T23:32:26.463Z",
+      "issueTitle": "[Bug]: It takes so long to build the codespace",
+      "url": "https://github.com/55gms/55GMS/issues/151",
+      "createdAt": "2025-12-09T23:33:00.750Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
