@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1765240956669,
+      "id": 1765240994635,
       "repository": "Kode/kmake",
-      "issueTitle": "Require custom js scripts in kfile.js fails with missing internal module error.",
-      "url": "https://github.com/Kode/kmake/issues/58",
-      "createdAt": "2025-12-09T00:42:36.669Z",
+      "issueTitle": "emscripten bad debug dir definition cannot open files without manual definition.",
+      "url": "https://github.com/Kode/kmake/issues/56",
+      "createdAt": "2025-12-09T00:43:14.635Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
