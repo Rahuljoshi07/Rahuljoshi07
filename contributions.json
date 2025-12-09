@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765266330145,
+      "repository": "s0t7x/decky-sunshine",
+      "issueTitle": "Nightly Prevents steamos from switching to desktop",
+      "url": "https://github.com/s0t7x/decky-sunshine/issues/71",
+      "createdAt": "2025-12-09T07:45:30.145Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
