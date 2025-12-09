@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765301014122,
+      "repository": "center-for-threat-informed-defense/attack-workbench-rest-api",
+      "issueTitle": "Badly formatted parameter error when deleting collections",
+      "url": "https://github.com/center-for-threat-informed-defense/attack-workbench-rest-api/issues/441",
+      "createdAt": "2025-12-09T17:23:34.122Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
