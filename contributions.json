@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765245852676,
+      "repository": "cyjake/leoric",
+      "issueTitle": "Support `JSON_SET()`/ `JSONB_SET()` / `JSONB_SET_LAX()`",
+      "url": "https://github.com/cyjake/leoric/issues/434",
+      "createdAt": "2025-12-09T02:04:12.676Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
