@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765253232234,
+      "repository": "safe-global/safe-config-service",
+      "issueTitle": "Investigate Gunicorn errors",
+      "url": "https://github.com/safe-global/safe-config-service/issues/1344",
+      "createdAt": "2025-12-09T04:07:12.234Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
