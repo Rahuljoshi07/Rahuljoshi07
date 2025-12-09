@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765263578764,
+      "repository": "R-s0n/ars0n-framework-v2",
+      "issueTitle": "Container ars0n-framework-v2-db-1  error",
+      "url": "https://github.com/R-s0n/ars0n-framework-v2/issues/76",
+      "createdAt": "2025-12-09T06:59:38.764Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
