@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1765378064097,
+      "id": 1765378121653,
       "repository": "ocadotechnology/rapid-router",
       "issueTitle": "Classless non-admin teachers cannot access the scoreboard",
       "url": "https://github.com/ocadotechnology/rapid-router/issues/1868",
-      "createdAt": "2025-12-10T14:47:44.097Z",
+      "createdAt": "2025-12-10T14:48:41.653Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
