@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765405186526,
+      "repository": "XiaomiFirmwareUpdater/miui-updates-tracker",
+      "issueTitle": "Slow Download",
+      "url": "https://github.com/XiaomiFirmwareUpdater/miui-updates-tracker/issues/241",
+      "createdAt": "2025-12-10T22:19:46.526Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
