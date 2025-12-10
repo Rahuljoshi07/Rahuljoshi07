@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765404338201,
+      "repository": "opsmill/infrahub",
+      "issueTitle": "bug: required attribute with default_value is marked as optional in Infrahub's schema",
+      "url": "https://github.com/opsmill/infrahub/issues/7867",
+      "createdAt": "2025-12-10T22:05:38.201Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
