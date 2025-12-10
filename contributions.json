@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765407924697,
+      "repository": "disasteroftheuniverse/zdoom-navmesh-generator",
+      "issueTitle": "[bug] Navmesh generator doesn't work with Plane_Align slopes.",
+      "url": "https://github.com/disasteroftheuniverse/zdoom-navmesh-generator/issues/3",
+      "createdAt": "2025-12-10T23:05:24.697Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
