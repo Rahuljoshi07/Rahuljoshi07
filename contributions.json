@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765366647709,
+      "repository": "IGNF/geopf-extensions-openlayers",
+      "issueTitle": "layerswitcher titres en mode sombre",
+      "url": "https://github.com/IGNF/geopf-extensions-openlayers/issues/469",
+      "createdAt": "2025-12-10T11:37:27.709Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
