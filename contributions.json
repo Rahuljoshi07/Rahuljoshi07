@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765399839542,
+      "repository": "toomuchdesign/postcss-nested-ancestors",
+      "issueTitle": "VScode throws error: } expectedpostcss(css-rcurlyexpected)",
+      "url": "https://github.com/toomuchdesign/postcss-nested-ancestors/issues/48",
+      "createdAt": "2025-12-10T20:50:39.542Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
