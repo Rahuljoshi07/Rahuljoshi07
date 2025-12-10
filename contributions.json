@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765326378281,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Add Docstrings to Model Mixin Methods",
+      "url": "https://github.com/OWASP/Nest/issues/2648",
+      "createdAt": "2025-12-10T00:26:18.281Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
