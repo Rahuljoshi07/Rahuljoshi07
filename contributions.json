@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765386498952,
+      "repository": "octokit/graphql-action",
+      "issueTitle": "[BUG]: v2.x branch updated with v3 features",
+      "url": "https://github.com/octokit/graphql-action/issues/290",
+      "createdAt": "2025-12-10T17:08:18.952Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
