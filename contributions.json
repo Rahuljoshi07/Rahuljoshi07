@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1765331657723,
+      "id": 1765331690703,
       "repository": "nextcloud/viewer",
-      "issueTitle": "Dependency Dashboard",
-      "url": "https://github.com/nextcloud/viewer/issues/1904",
-      "createdAt": "2025-12-10T01:54:17.723Z",
+      "issueTitle": "Opening multiple documents at the same time doesn't work",
+      "url": "https://github.com/nextcloud/viewer/issues/3038",
+      "createdAt": "2025-12-10T01:54:50.703Z",
       "type": "comment",
-      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
