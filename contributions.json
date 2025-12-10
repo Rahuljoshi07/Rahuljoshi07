@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1765329750177,
-      "repository": "dragino/dragino-end-node-decoder",
-      "issueTitle": "LC01 decoder issues",
-      "url": "https://github.com/dragino/dragino-end-node-decoder/issues/37",
-      "createdAt": "2025-12-10T01:22:30.177Z",
+      "id": 1765329805334,
+      "repository": "cal-itp/data-infra",
+      "issueTitle": "Bug: `download_gtfs_schedule_v2.email_download_failures` fails to send email",
+      "url": "https://github.com/cal-itp/data-infra/issues/4381",
+      "createdAt": "2025-12-10T01:23:25.334Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
