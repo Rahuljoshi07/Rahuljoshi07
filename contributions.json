@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765357007005,
+      "repository": "cap-js/telemetry",
+      "issueTitle": "Remove stack from message is crashing if there is too much error messages coming from CAP validation",
+      "url": "https://github.com/cap-js/telemetry/issues/398",
+      "createdAt": "2025-12-10T08:56:47.005Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
