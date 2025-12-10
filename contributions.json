@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1765351328438,
+      "id": 1765351386013,
       "repository": "node-oauth/node-oauth2-server",
       "issueTitle": "Property `inner` missing from `OAuthError` typings",
       "url": "https://github.com/node-oauth/node-oauth2-server/issues/367",
-      "createdAt": "2025-12-10T07:22:08.438Z",
+      "createdAt": "2025-12-10T07:23:06.013Z",
       "type": "comment",
       "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
