@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765390126480,
+      "repository": "3dg1luk43/ha_creality_ws",
+      "issueTitle": "[Bug]: K2 Plus WebRTC stream fails after HA Core 2025.12.0 update (Errno 111)",
+      "url": "https://github.com/3dg1luk43/ha_creality_ws/issues/40",
+      "createdAt": "2025-12-10T18:08:46.481Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
