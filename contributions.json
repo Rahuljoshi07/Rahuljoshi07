@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765396634898,
+      "repository": "blackflux/object-scan",
+      "issueTitle": "Typescript ESM Import Errors",
+      "url": "https://github.com/blackflux/object-scan/issues/1807",
+      "createdAt": "2025-12-10T19:57:14.898Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
