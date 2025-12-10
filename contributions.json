@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765329750177,
+      "repository": "dragino/dragino-end-node-decoder",
+      "issueTitle": "LC01 decoder issues",
+      "url": "https://github.com/dragino/dragino-end-node-decoder/issues/37",
+      "createdAt": "2025-12-10T01:22:30.177Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
