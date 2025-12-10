@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765342547143,
+      "repository": "aws-cloudformation/resource-schema-guard-rail",
+      "issueTitle": "Usability issues",
+      "url": "https://github.com/aws-cloudformation/resource-schema-guard-rail/issues/30",
+      "createdAt": "2025-12-10T04:55:47.143Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
