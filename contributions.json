@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765337742751,
+      "repository": "ThalesGroup/security-risk-assessment-tool",
+      "issueTitle": "[Issue]: Dropdown option text overflows when item names are long",
+      "url": "https://github.com/ThalesGroup/security-risk-assessment-tool/issues/343",
+      "createdAt": "2025-12-10T03:35:42.751Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
