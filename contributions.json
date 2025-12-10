@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765376693076,
+      "repository": "deepset-ai/haystack-core-integrations",
+      "issueTitle": "Instead of throwing a `RuntimeError` if a Component has not been warmed up call `warm_up` at runtime",
+      "url": "https://github.com/deepset-ai/haystack-core-integrations/issues/2592",
+      "createdAt": "2025-12-10T14:24:53.076Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
