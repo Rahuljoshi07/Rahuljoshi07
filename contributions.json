@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765341200668,
+      "repository": "nextcloud/notes",
+      "issueTitle": "Notes Version 4.12.4 menubar missing",
+      "url": "https://github.com/nextcloud/notes/issues/1693",
+      "createdAt": "2025-12-10T04:33:20.669Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
