@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765355417283,
+      "repository": "GEOLYTIX/xyz",
+      "issueTitle": "Hover label requests",
+      "url": "https://github.com/GEOLYTIX/xyz/issues/2387",
+      "createdAt": "2025-12-10T08:30:17.284Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
