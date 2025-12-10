@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765375730869,
+      "repository": "nfdi-de/section-metadata-wg-onto",
+      "issueTitle": "Capture issues with LIDO/CIDOC",
+      "url": "https://github.com/nfdi-de/section-metadata-wg-onto/issues/66",
+      "createdAt": "2025-12-10T14:08:50.869Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
