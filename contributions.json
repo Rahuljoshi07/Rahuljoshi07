@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765390511990,
+      "repository": "chung-leong/zigar",
+      "issueTitle": "Status not being shown during module build process",
+      "url": "https://github.com/chung-leong/zigar/issues/834",
+      "createdAt": "2025-12-10T18:15:11.990Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
