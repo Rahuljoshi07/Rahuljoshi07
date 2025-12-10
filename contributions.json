@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765364688103,
+      "repository": "selfcustody/krux-installer",
+      "issueTitle": "[Documentation] The Project License is expired",
+      "url": "https://github.com/selfcustody/krux-installer/issues/188",
+      "createdAt": "2025-12-10T11:04:48.103Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for nodejs..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
