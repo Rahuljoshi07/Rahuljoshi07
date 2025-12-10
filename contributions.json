@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765334839990,
+      "repository": "SecKatie/ha-wyzeapi",
+      "issueTitle": "[Bug] Home Monitoring Alarm stopped working (Unavailable)",
+      "url": "https://github.com/SecKatie/ha-wyzeapi/issues/744",
+      "createdAt": "2025-12-10T02:47:19.990Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
