@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765407271817,
+      "repository": "laststance/create-react-app-vite",
+      "issueTitle": "fix `The CJS build of Vite's Node API is deprecated. See https://vitejs.dev/guide/troubleshooting.html#vite-cjs-node-api-deprecated for more details.`",
+      "url": "https://github.com/laststance/create-react-app-vite/issues/1018",
+      "createdAt": "2025-12-10T22:54:31.818Z",
+      "type": "comment",
+      "content": "Adding TypeScript could improve code quality and maintainability. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
