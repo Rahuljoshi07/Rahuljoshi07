@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765359402074,
+      "repository": "Consensys/doc.linea",
+      "issueTitle": "Consensus client is Coordinator or Maru?",
+      "url": "https://github.com/Consensys/doc.linea/issues/1280",
+      "createdAt": "2025-12-10T09:36:42.074Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
