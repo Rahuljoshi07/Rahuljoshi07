@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765345455604,
+      "repository": "unoplat/unoplat-code-confluence",
+      "issueTitle": "Docs improvement",
+      "url": "https://github.com/unoplat/unoplat-code-confluence/issues/1045",
+      "createdAt": "2025-12-10T05:44:15.604Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. (Suggested by Rahul Joshi..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
