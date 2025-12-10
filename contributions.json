@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1765382814643,
+      "id": 1765382860030,
       "repository": "neetozone/neeto-editor",
-      "issueTitle": "TypeError: Cannot read properties of undefined (reading '0')",
-      "url": "https://github.com/neetozone/neeto-editor/issues/1687",
-      "createdAt": "2025-12-10T16:06:54.643Z",
+      "issueTitle": "Cannot read properties of undefined in NeetoChat",
+      "url": "https://github.com/neetozone/neeto-editor/issues/1686",
+      "createdAt": "2025-12-10T16:07:40.030Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
     }
   ],
   "stats": {
