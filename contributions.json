@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765344499998,
+      "repository": "renovatebot/pep440",
+      "issueTitle": "satisfies with local version identifies incorrectly returning true",
+      "url": "https://github.com/renovatebot/pep440/issues/764",
+      "createdAt": "2025-12-10T05:28:19.998Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
