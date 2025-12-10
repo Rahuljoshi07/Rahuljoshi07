@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765359683311,
+      "repository": "birdnet-team/birdnet",
+      "issueTitle": "Not an issue, a question: Why not benchmark batch sizes 16, 32, 64?",
+      "url": "https://github.com/birdnet-team/birdnet/issues/8",
+      "createdAt": "2025-12-10T09:41:23.311Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
