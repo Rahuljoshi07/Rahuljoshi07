@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765408544107,
+      "repository": "ProjectNeura/MIPCandy",
+      "issueTitle": "`inspect()` performance: `torch.unique()` consumes 37% of execution time",
+      "url": "https://github.com/ProjectNeura/MIPCandy/issues/119",
+      "createdAt": "2025-12-10T23:15:44.107Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
