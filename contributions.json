@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765403252368,
+      "repository": "Blb3D/filaops",
+      "issueTitle": "[Chore] Convert console.error to proper error handling in frontend",
+      "url": "https://github.com/Blb3D/filaops/issues/37",
+      "createdAt": "2025-12-10T21:47:32.368Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
