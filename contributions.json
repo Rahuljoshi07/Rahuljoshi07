@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765373021697,
+      "repository": "openlayers/ol-mapbox-style",
+      "issueTitle": "Add support for GeometryCollection feature type",
+      "url": "https://github.com/openlayers/ol-mapbox-style/issues/1383",
+      "createdAt": "2025-12-10T13:23:41.697Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
