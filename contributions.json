@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765354405913,
+      "repository": "e-dyn/gloria",
+      "issueTitle": "BUG: Fitting fails on some data sets due to non-finite gradient",
+      "url": "https://github.com/e-dyn/gloria/issues/84",
+      "createdAt": "2025-12-10T08:13:25.913Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
