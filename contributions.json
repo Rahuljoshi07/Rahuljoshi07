@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765399099541,
+      "repository": "rcbj/oauth2-oidc-debugger",
+      "issueTitle": "Add a mechanism to explore / iterate through all generations of tokens issued for an OAuth2 or OIDC User session",
+      "url": "https://github.com/rcbj/oauth2-oidc-debugger/issues/66",
+      "createdAt": "2025-12-10T20:38:19.541Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
