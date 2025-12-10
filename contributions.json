@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765400933455,
+      "repository": "imrightguy/CloudToLocalLLM",
+      "issueTitle": "Kubernetes: Web runtime config via ConfigMap + initContainer (GCIP/GIS, API/Streaming URLs)",
+      "url": "https://github.com/imrightguy/CloudToLocalLLM/issues/123",
+      "createdAt": "2025-12-10T21:08:53.455Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
