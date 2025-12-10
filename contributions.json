@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765372281928,
+      "repository": "haddocking/haddock3",
+      "issueTitle": "libutil Error - List index out of range",
+      "url": "https://github.com/haddocking/haddock3/issues/1459",
+      "createdAt": "2025-12-10T13:11:21.928Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
