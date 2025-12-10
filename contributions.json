@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765376097822,
+      "repository": "django-commons/django-tasks-scheduler",
+      "issueTitle": "Question: get_current_job() ?",
+      "url": "https://github.com/django-commons/django-tasks-scheduler/issues/326",
+      "createdAt": "2025-12-10T14:14:57.822Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
