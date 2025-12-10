@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765336560938,
+      "repository": "mwang87/MassQueryLanguage",
+      "issueTitle": "[bug] when loading mgf files without metadata key \"scans\"",
+      "url": "https://github.com/mwang87/MassQueryLanguage/issues/249",
+      "createdAt": "2025-12-10T03:16:00.938Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
