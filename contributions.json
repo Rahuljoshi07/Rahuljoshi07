@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765387125510,
+      "repository": "brian7704/OpenTAKServer",
+      "issueTitle": "Ubuntu 22/24 Automatic installer 1.6.0 error",
+      "url": "https://github.com/brian7704/OpenTAKServer/issues/179",
+      "createdAt": "2025-12-10T17:18:45.511Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
