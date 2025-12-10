@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765398274259,
+      "repository": "storacha/upload-service",
+      "issueTitle": "Storacha Delegation Base64 Encoding Issue",
+      "url": "https://github.com/storacha/upload-service/issues/590",
+      "createdAt": "2025-12-10T20:24:34.259Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
