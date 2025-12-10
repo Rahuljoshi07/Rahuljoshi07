@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765396757301,
+      "repository": "chihacknight/chihacknight.org",
+      "issueTitle": "Flickr API Key Error",
+      "url": "https://github.com/chihacknight/chihacknight.org/issues/679",
+      "createdAt": "2025-12-10T19:59:17.301Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
