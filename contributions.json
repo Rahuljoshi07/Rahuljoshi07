@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765379918087,
+      "repository": "espruino/EspruinoWebIDE",
+      "issueTitle": "Numeric separators result in error",
+      "url": "https://github.com/espruino/EspruinoWebIDE/issues/293",
+      "createdAt": "2025-12-10T15:18:38.087Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
