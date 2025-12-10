@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765345039643,
+      "repository": "mosheng1/QuickClipboard",
+      "issueTitle": "[Bug] 托盘图标右键菜单显示不正常，菜单被遮挡或双屏显示位置错乱",
+      "url": "https://github.com/mosheng1/QuickClipboard/issues/181",
+      "createdAt": "2025-12-10T05:37:19.643Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
