@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765382814643,
+      "repository": "neetozone/neeto-editor",
+      "issueTitle": "TypeError: Cannot read properties of undefined (reading '0')",
+      "url": "https://github.com/neetozone/neeto-editor/issues/1687",
+      "createdAt": "2025-12-10T16:06:54.643Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
