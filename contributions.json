@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765384866013,
+      "repository": "srp33/CodeBuddy",
+      "issueTitle": "Logout not working in production",
+      "url": "https://github.com/srp33/CodeBuddy/issues/401",
+      "createdAt": "2025-12-10T16:41:06.013Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
