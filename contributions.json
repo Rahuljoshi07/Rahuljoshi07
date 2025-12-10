@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765346141768,
+      "repository": "gem/oq-engine",
+      "issueTitle": "Improve the prompt message when running db migrations",
+      "url": "https://github.com/gem/oq-engine/issues/11035",
+      "createdAt": "2025-12-10T05:55:41.768Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
