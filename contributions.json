@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765351599628,
+      "repository": "canonical/opensearch-operator",
+      "issueTitle": "Object Storage Credentials not stored if the main orchestrator is demoted then promoted again without removing object storage relation",
+      "url": "https://github.com/canonical/opensearch-operator/issues/770",
+      "createdAt": "2025-12-10T07:26:39.628Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
