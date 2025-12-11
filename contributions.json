@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765454608605,
+      "repository": "throneteki/throneteki",
+      "issueTitle": "Castamere and Spider's Web Bug",
+      "url": "https://github.com/throneteki/throneteki/issues/3665",
+      "createdAt": "2025-12-11T12:03:28.606Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
