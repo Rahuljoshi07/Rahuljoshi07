@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765475351579,
+      "repository": "prabinzz/nepali-wordlist",
+      "issueTitle": "Not enough words if you compare it with English wordlist whose file size is more than a GB.",
+      "url": "https://github.com/prabinzz/nepali-wordlist/issues/1",
+      "createdAt": "2025-12-11T17:49:11.579Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
