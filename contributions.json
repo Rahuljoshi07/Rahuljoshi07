@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765425033984,
+      "repository": "ember-bootstrap/ember-bootstrap-changeset-validations",
+      "issueTitle": "uncaught error with invalid model",
+      "url": "https://github.com/ember-bootstrap/ember-bootstrap-changeset-validations/issues/58",
+      "createdAt": "2025-12-11T03:50:33.984Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
