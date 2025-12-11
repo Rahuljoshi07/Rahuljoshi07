@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765463275250,
+      "repository": "linuxmint/mintbackup",
+      "issueTitle": "Bug: mintbackup doesn't show most installed apps",
+      "url": "https://github.com/linuxmint/mintbackup/issues/95",
+      "createdAt": "2025-12-11T14:27:55.250Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
