@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765478377353,
+      "repository": "jbsparrow/CyberDropDownloader",
+      "issueTitle": "[BUG] Typo",
+      "url": "https://github.com/jbsparrow/CyberDropDownloader/issues/1555",
+      "createdAt": "2025-12-11T18:39:37.353Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
