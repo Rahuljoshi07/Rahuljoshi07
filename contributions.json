@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765467932932,
+      "repository": "thexerteproject/xerteonlinetoolkits",
+      "issueTitle": "Highlight text page download issue when no suggested or feedback text",
+      "url": "https://github.com/thexerteproject/xerteonlinetoolkits/issues/1496",
+      "createdAt": "2025-12-11T15:45:32.932Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
