@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765429444229,
+      "repository": "solorey/Art-Saver",
+      "issueTitle": "Feature request/bug report: Doesn't work with OldTwitter extension",
+      "url": "https://github.com/solorey/Art-Saver/issues/60",
+      "createdAt": "2025-12-11T05:04:04.229Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
