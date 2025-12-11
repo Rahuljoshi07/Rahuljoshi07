@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765484809246,
+      "repository": "marcoboers/home-assistant-quatt",
+      "issueTitle": "Graphical interface \"Configuration error\" on Android app",
+      "url": "https://github.com/marcoboers/home-assistant-quatt/issues/254",
+      "createdAt": "2025-12-11T20:26:49.246Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
