@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765462027168,
+      "repository": "Pushwoosh/pushwoosh-phonegap-plugin",
+      "issueTitle": "[Bug]: Deprecated CocoaPods source",
+      "url": "https://github.com/Pushwoosh/pushwoosh-phonegap-plugin/issues/421",
+      "createdAt": "2025-12-11T14:07:07.169Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
