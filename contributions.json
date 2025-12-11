@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765452122375,
+      "repository": "fractal-analytics-platform/fractal-server",
+      "issueTitle": "Replace large traceback with placeholder in remote SLURM worker",
+      "url": "https://github.com/fractal-analytics-platform/fractal-server/issues/3074",
+      "createdAt": "2025-12-11T11:22:02.375Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
