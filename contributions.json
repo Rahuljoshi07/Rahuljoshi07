@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765475101418,
+      "repository": "openedx/paragon",
+      "issueTitle": "Tracking issue: Convert components to TypeScript",
+      "url": "https://github.com/openedx/paragon/issues/3739",
+      "createdAt": "2025-12-11T17:45:01.418Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
