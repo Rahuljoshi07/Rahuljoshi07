@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1765431730307,
+      "id": 1765431794206,
       "repository": "codescandy/dashui-free-nextjs-admin-template",
       "issueTitle": "error Failed to start server - Error: listen EACCES: permission denied 0.0.0.0:3001",
       "url": "https://github.com/codescandy/dashui-free-nextjs-admin-template/issues/13",
-      "createdAt": "2025-12-11T05:42:10.307Z",
+      "createdAt": "2025-12-11T05:43:14.206Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
