@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765497584056,
+      "repository": "tim-fiola/network_traffic_modeler_py3",
+      "issueTitle": "Allow floats for demand magnitudes",
+      "url": "https://github.com/tim-fiola/network_traffic_modeler_py3/issues/57",
+      "createdAt": "2025-12-11T23:59:44.056Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
