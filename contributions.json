@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765416940214,
+      "repository": "nextcloud/sharereview",
+      "issueTitle": "Page not found V2.0.0",
+      "url": "https://github.com/nextcloud/sharereview/issues/40",
+      "createdAt": "2025-12-11T01:35:40.214Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
