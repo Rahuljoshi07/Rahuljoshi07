@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765462911733,
+      "repository": "MadeAgents/mobile-use",
+      "issueTitle": "vllm issue: image_grid_thw[image_index][0], list index out of range",
+      "url": "https://github.com/MadeAgents/mobile-use/issues/16",
+      "createdAt": "2025-12-11T14:21:51.733Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
