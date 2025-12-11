@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765481461096,
+      "repository": "WebCoder49/code-input",
+      "issueTitle": "Make find-and-replace matches start at the position of the caret before Ctrl+F was pressed",
+      "url": "https://github.com/WebCoder49/code-input/issues/156",
+      "createdAt": "2025-12-11T19:31:01.096Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
