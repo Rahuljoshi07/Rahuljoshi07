@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1765417193753,
+      "id": 1765417222617,
       "repository": "nextcloud/talk-desktop",
-      "issueTitle": "Some emojis are not displayed",
-      "url": "https://github.com/nextcloud/talk-desktop/issues/1514",
-      "createdAt": "2025-12-11T01:39:53.753Z",
+      "issueTitle": "Add support for user high-contrast themes and dyslexia font",
+      "url": "https://github.com/nextcloud/talk-desktop/issues/56",
+      "createdAt": "2025-12-11T01:40:22.618Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
