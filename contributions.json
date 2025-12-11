@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765456102454,
+      "repository": "wikimediabrasil/quickstatements3",
+      "issueTitle": "fix: painfully slow statistics",
+      "url": "https://github.com/wikimediabrasil/quickstatements3/issues/393",
+      "createdAt": "2025-12-11T12:28:22.454Z",
+      "type": "comment",
+      "content": "Using generators could help with memory efficiency for large datasets. This suggestion is particular..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
