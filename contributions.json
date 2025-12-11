@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765434840960,
+      "repository": "carrotwaxr/peek-stash-browser",
+      "issueTitle": "Error: Peek 2.1.0 Crashes During Cache Build on Large Stash Libraries (String Limit / No Pagination)",
+      "url": "https://github.com/carrotwaxr/peek-stash-browser/issues/160",
+      "createdAt": "2025-12-11T06:34:00.960Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
