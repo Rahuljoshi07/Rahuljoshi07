@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765487090293,
+      "repository": "openreview/openreview-matcher",
+      "issueTitle": "Error Messages Not Clear Enough",
+      "url": "https://github.com/openreview/openreview-matcher/issues/284",
+      "createdAt": "2025-12-11T21:04:50.293Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
