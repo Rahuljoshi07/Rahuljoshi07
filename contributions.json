@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765462688611,
+      "repository": "pollen-robotics/reachy_mini",
+      "issueTitle": "Expression 'ret' failed in 'src/hostapi/alsa/pa_linux_alsa.c', line: 1736",
+      "url": "https://github.com/pollen-robotics/reachy_mini/issues/526",
+      "createdAt": "2025-12-11T14:18:08.611Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
