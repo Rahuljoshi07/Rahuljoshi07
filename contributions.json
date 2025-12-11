@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765440726556,
+      "repository": "g0v/amis-moedict",
+      "issueTitle": "Issue with audio quality ?",
+      "url": "https://github.com/g0v/amis-moedict/issues/40",
+      "createdAt": "2025-12-11T08:12:06.556Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
