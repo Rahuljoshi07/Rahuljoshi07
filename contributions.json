@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1765480558501,
-      "repository": "ApryseSDK/webviewer-ui",
-      "issueTitle": "[Bug] Error: InternalError: too much recursion in Firefox v146 ",
-      "url": "https://github.com/ApryseSDK/webviewer-ui/issues/1108",
-      "createdAt": "2025-12-11T19:15:58.501Z",
+      "id": 1765480589709,
+      "repository": "StraboSpot/StraboField",
+      "issueTitle": "Sample double saving",
+      "url": "https://github.com/StraboSpot/StraboField/issues/807",
+      "createdAt": "2025-12-11T19:16:29.709Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
