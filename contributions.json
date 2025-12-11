@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765432951240,
+      "repository": "g0v/amis-moedict",
+      "issueTitle": "Issue with audio quality ?",
+      "url": "https://github.com/g0v/amis-moedict/issues/40",
+      "createdAt": "2025-12-11T06:02:31.240Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
