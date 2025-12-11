@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765459222693,
+      "repository": "TutteInstitute/datamapplot",
+      "issueTitle": "Empty strings for `labels` raises `ValueError`",
+      "url": "https://github.com/TutteInstitute/datamapplot/issues/130",
+      "createdAt": "2025-12-11T13:20:22.693Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
