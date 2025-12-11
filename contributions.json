@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765491296540,
+      "repository": "GoogleChrome/chromium-dashboard",
+      "issueTitle": "Handle case of two users submitting a WPT coverage evaluation at the same time",
+      "url": "https://github.com/GoogleChrome/chromium-dashboard/issues/5760",
+      "createdAt": "2025-12-11T22:14:56.540Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
