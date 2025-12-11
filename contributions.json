@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765430291812,
+      "repository": "jalantechnologies/flask-react-template",
+      "issueTitle": "Optimize Dockerfile with Multi-Stage Builds",
+      "url": "https://github.com/jalantechnologies/flask-react-template/issues/519",
+      "createdAt": "2025-12-11T05:18:11.812Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
