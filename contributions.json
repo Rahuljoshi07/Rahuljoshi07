@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765442795724,
+      "repository": "vaadin/web-components",
+      "issueTitle": "[card] Content margin for Scroller not removed for Flow component",
+      "url": "https://github.com/vaadin/web-components/issues/10612",
+      "createdAt": "2025-12-11T08:46:35.724Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
