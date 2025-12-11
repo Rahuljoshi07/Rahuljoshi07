@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765438668718,
+      "repository": "redhat-performance/benchmark-runner",
+      "issueTitle": "Check cluster readiness",
+      "url": "https://github.com/redhat-performance/benchmark-runner/issues/1137",
+      "createdAt": "2025-12-11T07:37:48.718Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
