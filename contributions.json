@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765441876585,
+      "repository": "kaapana/kaapana",
+      "issueTitle": "DNS_PROBE_FINISHED_NXDOMAIN error",
+      "url": "https://github.com/kaapana/kaapana/issues/23",
+      "createdAt": "2025-12-11T08:31:16.585Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
