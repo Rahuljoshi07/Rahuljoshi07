@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765415519349,
+      "repository": "christmas-countdown/bot",
+      "issueTitle": "Don't keep tring to update missing Santa Tracker messages",
+      "url": "https://github.com/christmas-countdown/bot/issues/77",
+      "createdAt": "2025-12-11T01:11:59.349Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
