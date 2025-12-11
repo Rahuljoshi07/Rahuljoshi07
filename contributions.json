@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765425614118,
+      "repository": "kaifansariw/GameHub",
+      "issueTitle": "Bug: Social media icons not redirecting to their respective pages",
+      "url": "https://github.com/kaifansariw/GameHub/issues/225",
+      "createdAt": "2025-12-11T04:00:14.118Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
