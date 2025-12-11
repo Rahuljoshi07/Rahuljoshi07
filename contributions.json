@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765489744162,
+      "repository": "vuetifyjs/eslint-plugin-vuetify",
+      "issueTitle": "Definition for rule 'vuetify/no-legacy-grid' was not found",
+      "url": "https://github.com/vuetifyjs/eslint-plugin-vuetify/issues/77",
+      "createdAt": "2025-12-11T21:49:04.162Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
