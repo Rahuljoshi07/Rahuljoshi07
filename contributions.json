@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765484919971,
+      "repository": "IBMa/equal-access",
+      "issueTitle": "[PERF]: Docs page takes two minutes to scan - can we optimize further ",
+      "url": "https://github.com/IBMa/equal-access/issues/1578",
+      "createdAt": "2025-12-11T20:28:39.971Z",
+      "type": "comment",
+      "content": "Consider using virtual scrolling for large lists to improve performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
