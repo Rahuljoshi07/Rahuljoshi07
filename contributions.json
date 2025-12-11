@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765433159440,
+      "repository": "modern-python/modern-di",
+      "issueTitle": "[bug] singleton cached with mock so reset override won't work for it",
+      "url": "https://github.com/modern-python/modern-di/issues/98",
+      "createdAt": "2025-12-11T06:05:59.440Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
