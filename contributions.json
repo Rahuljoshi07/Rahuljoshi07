@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765435942138,
+      "repository": "whad-team/whad-client",
+      "issueTitle": "`sniff` method in `ESB` connector class collides with `Connector`'s",
+      "url": "https://github.com/whad-team/whad-client/issues/288",
+      "createdAt": "2025-12-11T06:52:22.138Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
