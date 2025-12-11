@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765445965488,
+      "repository": "cables-gl/cables",
+      "issueTitle": "why does debugCommands not work in gui.js",
+      "url": "https://github.com/cables-gl/cables/issues/7475",
+      "createdAt": "2025-12-11T09:39:25.488Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
