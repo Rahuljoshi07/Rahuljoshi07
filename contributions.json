@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765484222836,
+      "repository": "google-deepmind/mujoco_warp",
+      "issueTitle": "Investigate performance of the n_humanoid scene.",
+      "url": "https://github.com/google-deepmind/mujoco_warp/issues/550",
+      "createdAt": "2025-12-11T20:17:02.836Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
