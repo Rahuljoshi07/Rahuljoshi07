@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765435218618,
+      "repository": "xDatx/Studocu-Helper",
+      "issueTitle": "Error when Export to PDF",
+      "url": "https://github.com/xDatx/Studocu-Helper/issues/1",
+      "createdAt": "2025-12-11T06:40:18.618Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
