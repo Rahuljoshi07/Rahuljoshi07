@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765411854623,
+      "repository": "Woahai321/list-sync",
+      "issueTitle": "[Bug]: cannot add user watchlist",
+      "url": "https://github.com/Woahai321/list-sync/issues/71",
+      "createdAt": "2025-12-11T00:10:54.623Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
