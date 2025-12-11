@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765459794721,
+      "repository": "JanisV/release-bot",
+      "issueTitle": "IndexError: list index out of range with a lot of starred repos",
+      "url": "https://github.com/JanisV/release-bot/issues/26",
+      "createdAt": "2025-12-11T13:29:54.721Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
