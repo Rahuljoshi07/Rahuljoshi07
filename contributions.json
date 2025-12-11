@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765483693859,
+      "repository": "bigdigital/zeppos_watchdrip_app",
+      "issueTitle": "Power management",
+      "url": "https://github.com/bigdigital/zeppos_watchdrip_app/issues/1",
+      "createdAt": "2025-12-11T20:08:13.859Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
