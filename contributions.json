@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765414788334,
+      "repository": "Hugging-Face-KREW/Ko-AgentBench",
+      "issueTitle": "[Bug] Azure GPT-5 tool_calls null response error",
+      "url": "https://github.com/Hugging-Face-KREW/Ko-AgentBench/issues/68",
+      "createdAt": "2025-12-11T00:59:48.334Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
