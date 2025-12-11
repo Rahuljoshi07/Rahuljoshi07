@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1765417384036,
+      "id": 1765417428836,
       "repository": "nextcloud/text",
       "issueTitle": "in-word italic/bold only rendered in editing mode, not in view mode",
       "url": "https://github.com/nextcloud/text/issues/8030",
-      "createdAt": "2025-12-11T01:43:04.036Z",
+      "createdAt": "2025-12-11T01:43:48.836Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
