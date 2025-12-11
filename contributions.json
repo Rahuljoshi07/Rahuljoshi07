@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765456944377,
+      "repository": "pimcore/admin-ui-classic-bundle",
+      "issueTitle": "[Bug]: Empty request data in `DELETE` & `PUT` requests",
+      "url": "https://github.com/pimcore/admin-ui-classic-bundle/issues/1064",
+      "createdAt": "2025-12-11T12:42:24.377Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
