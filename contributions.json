@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765491873864,
+      "repository": "maldoinc/wireup",
+      "issueTitle": "TypeError: Cannot subclass ForwardRef on Python 3.14 due to eval_type_backport usage",
+      "url": "https://github.com/maldoinc/wireup/issues/87",
+      "createdAt": "2025-12-11T22:24:33.864Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
