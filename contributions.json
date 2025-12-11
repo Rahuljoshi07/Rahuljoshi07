@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765493230467,
+      "repository": "slack-samples/bolt-js-assistant-template",
+      "issueTitle": "Inconsistent “thinking” status behavior - assistant.thread.setstatus",
+      "url": "https://github.com/slack-samples/bolt-js-assistant-template/issues/55",
+      "createdAt": "2025-12-11T22:47:10.467Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
