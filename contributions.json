@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765477911810,
+      "repository": "zeek/zeekctl",
+      "issueTitle": "Cluster: 'setcap' error on each node after installation (Operation not permitted) ",
+      "url": "https://github.com/zeek/zeekctl/issues/71",
+      "createdAt": "2025-12-11T18:31:51.810Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
