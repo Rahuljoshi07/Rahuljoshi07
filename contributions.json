@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765482119401,
+      "repository": "pergolafabio/Hikvision-Addons",
+      "issueTitle": "Scene Sensor not reading from monitor",
+      "url": "https://github.com/pergolafabio/Hikvision-Addons/issues/287",
+      "createdAt": "2025-12-11T19:41:59.401Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
