@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765422998706,
+      "repository": "gambitph/Stackable",
+      "issueTitle": "Stackable 3.19.4 causes WordPress admin to slow down significantly",
+      "url": "https://github.com/gambitph/Stackable/issues/3658",
+      "createdAt": "2025-12-11T03:16:38.706Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
