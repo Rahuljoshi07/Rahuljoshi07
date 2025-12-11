@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765481783621,
+      "repository": "NVIDIA-NeMo/Skills",
+      "issueTitle": "Questions about data quality problems in `openmath_reasoning` and potential improvement",
+      "url": "https://github.com/NVIDIA-NeMo/Skills/issues/1092",
+      "createdAt": "2025-12-11T19:36:23.621Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
