@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765416758705,
+      "repository": "rulego/rulego-server",
+      "issueTitle": "【功能建议】关于与其他系统的集成的功能建议",
+      "url": "https://github.com/rulego/rulego-server/issues/56",
+      "createdAt": "2025-12-11T01:32:38.705Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
