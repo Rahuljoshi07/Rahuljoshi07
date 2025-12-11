@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765470006564,
+      "repository": "geosolutions-it/MapStore2",
+      "issueTitle": "Setting the map projection crashes MapStore if resolutions configured in new.json file with a different projection",
+      "url": "https://github.com/geosolutions-it/MapStore2/issues/11779",
+      "createdAt": "2025-12-11T16:20:06.564Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
