@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765412321322,
+      "repository": "kaic/win-post-install",
+      "issueTitle": "Competitive gaming network optimization issues",
+      "url": "https://github.com/kaic/win-post-install/issues/6",
+      "createdAt": "2025-12-11T00:18:41.322Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
