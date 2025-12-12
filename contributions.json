@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765504437927,
+      "repository": "Nezreka/SoulSync",
+      "issueTitle": "Error when syncing playlists from Spotify to Emby",
+      "url": "https://github.com/Nezreka/SoulSync/issues/71",
+      "createdAt": "2025-12-12T01:53:57.927Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
