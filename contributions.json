@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765529842942,
+      "repository": "wecode-ai/Wegent",
+      "issueTitle": "[Bug]: 自建litellm添加模型失败",
+      "url": "https://github.com/wecode-ai/Wegent/issues/421",
+      "createdAt": "2025-12-12T08:57:22.943Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
