@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765552450689,
+      "repository": "decentraland/unity-explorer",
+      "issueTitle": "[QA] Emote | \"Confetti\" base emote has no sound",
+      "url": "https://github.com/decentraland/unity-explorer/issues/6439",
+      "createdAt": "2025-12-12T15:14:10.689Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
