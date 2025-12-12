@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765545476580,
+      "repository": "JanisV/release-bot",
+      "issueTitle": "IndexError: list index out of range with a lot of starred repos",
+      "url": "https://github.com/JanisV/release-bot/issues/26",
+      "createdAt": "2025-12-12T13:17:56.580Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
