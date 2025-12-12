@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1765541153786,
+      "id": 1765541218616,
       "repository": "gnosischain/documentation",
-      "issueTitle": "i18n and Translation Support",
-      "url": "https://github.com/gnosischain/documentation/issues/25",
-      "createdAt": "2025-12-12T12:05:53.786Z",
+      "issueTitle": "bug: Old .env file in the Validator Deposit page",
+      "url": "https://github.com/gnosischain/documentation/issues/615",
+      "createdAt": "2025-12-12T12:06:58.616Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
