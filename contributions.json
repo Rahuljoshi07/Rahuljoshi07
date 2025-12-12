@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765544114216,
+      "repository": "ing-bank/ordeq",
+      "issueTitle": "ordeq-instructor",
+      "url": "https://github.com/ing-bank/ordeq/issues/189",
+      "createdAt": "2025-12-12T12:55:14.216Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
