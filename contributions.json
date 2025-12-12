@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765504537615,
+      "repository": "exerciselibrary/exerciselibrary.github.io",
+      "issueTitle": "Rep Counting Sound Does Not Play Every Rep",
+      "url": "https://github.com/exerciselibrary/exerciselibrary.github.io/issues/117",
+      "createdAt": "2025-12-12T01:55:37.615Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
