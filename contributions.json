@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765577445211,
+      "repository": "zooniverse/front-end-monorepo",
+      "issueTitle": "2 notifications reported as 173",
+      "url": "https://github.com/zooniverse/front-end-monorepo/issues/7145",
+      "createdAt": "2025-12-12T22:10:45.211Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
