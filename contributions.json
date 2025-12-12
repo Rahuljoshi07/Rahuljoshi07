@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765558212150,
+      "repository": "iNavFlight/inav-configurator",
+      "issueTitle": "Passthrough fails with \"ACK_D_GENERAL_ERROR\" on SPEDIXF405 with INAV 8.0.0",
+      "url": "https://github.com/iNavFlight/inav-configurator/issues/2399",
+      "createdAt": "2025-12-12T16:50:12.151Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
