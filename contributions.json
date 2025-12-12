@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765533505800,
+      "repository": "MetOffice/CSET",
+      "issueTitle": "Many lined plots use incorrect labels for each line",
+      "url": "https://github.com/MetOffice/CSET/issues/1846",
+      "createdAt": "2025-12-12T09:58:25.800Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
