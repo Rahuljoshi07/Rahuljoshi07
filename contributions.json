@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765551915081,
+      "repository": "nautobot/nautobot-app-device-onboarding",
+      "issueTitle": "Connectivity Test fails with `TypeError` when `task.host.port` is `None`",
+      "url": "https://github.com/nautobot/nautobot-app-device-onboarding/issues/465",
+      "createdAt": "2025-12-12T15:05:15.081Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
