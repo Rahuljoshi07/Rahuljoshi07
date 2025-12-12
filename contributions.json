@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765541090009,
+      "repository": "cometkim/unicode-segmenter",
+      "issueTitle": "Porting the `DoubleEndedIterator` of segmenters",
+      "url": "https://github.com/cometkim/unicode-segmenter/issues/26",
+      "createdAt": "2025-12-12T12:04:50.009Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
