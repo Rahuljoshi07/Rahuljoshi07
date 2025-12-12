@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765568923346,
+      "repository": "talmolab/sleap",
+      "issueTitle": "Error saving: Unable to create attribute (object header message is too large)",
+      "url": "https://github.com/talmolab/sleap/issues/2117",
+      "createdAt": "2025-12-12T19:48:43.346Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
