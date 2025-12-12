@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765565827075,
+      "repository": "Coneja-Chibi/VectHare",
+      "issueTitle": "issues with Bananabread and Vecthare",
+      "url": "https://github.com/Coneja-Chibi/VectHare/issues/20",
+      "createdAt": "2025-12-12T18:57:07.075Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
