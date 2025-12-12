@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765565150485,
+      "repository": "UniversityOfHelsinkiCS/palaute",
+      "issueTitle": "VIE-502 not shown in organisation H40 course unit list in settings",
+      "url": "https://github.com/UniversityOfHelsinkiCS/palaute/issues/1583",
+      "createdAt": "2025-12-12T18:45:50.485Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
