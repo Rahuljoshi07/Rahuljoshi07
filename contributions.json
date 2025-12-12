@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765505142212,
+      "repository": "Luffy03/FreeTumor",
+      "issueTitle": "Possible bug: using 'label' instead of 'trans_label' in Synthesis call in TGAN.forward when mode == \"losses_D\"",
+      "url": "https://github.com/Luffy03/FreeTumor/issues/2",
+      "createdAt": "2025-12-12T02:05:42.212Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
