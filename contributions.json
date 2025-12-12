@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765509265798,
+      "repository": "tj-django/django-migration-fixer",
+      "issueTitle": "[Feature] Add support for resolving migration conflicts on the same branch",
+      "url": "https://github.com/tj-django/django-migration-fixer/issues/171",
+      "createdAt": "2025-12-12T03:14:25.798Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
