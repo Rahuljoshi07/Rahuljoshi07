@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1765516701288,
+      "id": 1765516769325,
       "repository": "SJRiz/pytogether",
       "issueTitle": "Display error modal on API failures",
       "url": "https://github.com/SJRiz/pytogether/issues/1",
-      "createdAt": "2025-12-12T05:18:21.288Z",
+      "createdAt": "2025-12-12T05:19:29.325Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
