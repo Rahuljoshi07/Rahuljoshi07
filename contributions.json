@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1765543284300,
-      "repository": "mdn/mdn-http-observatory",
-      "issueTitle": "Observatory returns a `502` error when scanning `www.bloomberg.com`",
-      "url": "https://github.com/mdn/mdn-http-observatory/issues/347",
-      "createdAt": "2025-12-12T12:41:24.300Z",
+      "id": 1765543351817,
+      "repository": "datacoon/undatum",
+      "issueTitle": "Significant memory and swap usage during conversion from jsonl.zst to parquet",
+      "url": "https://github.com/datacoon/undatum/issues/34",
+      "createdAt": "2025-12-12T12:42:31.817Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
