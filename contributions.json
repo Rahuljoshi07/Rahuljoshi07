@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765550400144,
+      "repository": "mojolicious/mojo.js",
+      "issueTitle": "not possible to start server listen on ports 80/443",
+      "url": "https://github.com/mojolicious/mojo.js/issues/164",
+      "createdAt": "2025-12-12T14:40:00.144Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
