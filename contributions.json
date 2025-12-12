@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765571105738,
+      "repository": "MaskerPRC/tab-hive",
+      "issueTitle": "[Bug]: 正常网页，但是出现证书错误",
+      "url": "https://github.com/MaskerPRC/tab-hive/issues/98",
+      "createdAt": "2025-12-12T20:25:05.738Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
