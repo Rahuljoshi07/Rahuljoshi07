@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1765508039490,
-      "repository": "somiibo/instagram-bot",
-      "issueTitle": "Error: Cannot find module 'registry-js'",
-      "url": "https://github.com/somiibo/instagram-bot/issues/1",
-      "createdAt": "2025-12-12T02:53:59.490Z",
+      "id": 1765508106425,
+      "repository": "immortalwrt/luci",
+      "issueTitle": "链路状态显示错误",
+      "url": "https://github.com/immortalwrt/luci/issues/601",
+      "createdAt": "2025-12-12T02:55:06.425Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
