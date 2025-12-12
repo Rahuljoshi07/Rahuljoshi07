@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765557963324,
+      "repository": "ZiHuixi/QQgroup-annual-report-analyzer",
+      "issueTitle": "开始分析后提示分析失败：Network Error",
+      "url": "https://github.com/ZiHuixi/QQgroup-annual-report-analyzer/issues/19",
+      "createdAt": "2025-12-12T16:46:03.324Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
