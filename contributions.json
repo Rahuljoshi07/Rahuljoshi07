@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765548589250,
+      "repository": "truenas/apps",
+      "issueTitle": "[Bug Report]: Unmanic issue with install",
+      "url": "https://github.com/truenas/apps/issues/3840",
+      "createdAt": "2025-12-12T14:09:49.250Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
