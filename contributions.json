@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765568714016,
+      "repository": "grommet/hpe-design-system",
+      "issueTitle": "Tokens - FormField error colors mismatch",
+      "url": "https://github.com/grommet/hpe-design-system/issues/5479",
+      "createdAt": "2025-12-12T19:45:14.016Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
