@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765566017151,
+      "repository": "kamilburda/batcher",
+      "issueTitle": "[image name] field does not work in \"Also export as PNG\" Action",
+      "url": "https://github.com/kamilburda/batcher/issues/100",
+      "createdAt": "2025-12-12T19:00:17.151Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
