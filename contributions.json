@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765546150682,
+      "repository": "SimonDanisch/Bonito.jl",
+      "issueTitle": "Error when different than Bonito.SERVER_CONFIGURATION (custom `Server`)",
+      "url": "https://github.com/SimonDanisch/Bonito.jl/issues/368",
+      "createdAt": "2025-12-12T13:29:10.682Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
