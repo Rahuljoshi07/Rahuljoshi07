@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1765528920744,
+      "id": 1765528980089,
       "repository": "eurostat/gridviz",
-      "issueTitle": "Pinch to zoom not centred when embedded",
-      "url": "https://github.com/eurostat/gridviz/issues/118",
-      "createdAt": "2025-12-12T08:42:00.744Z",
+      "issueTitle": "multiple zoom events + mousemove = jolt",
+      "url": "https://github.com/eurostat/gridviz/issues/161",
+      "createdAt": "2025-12-12T08:43:00.089Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
