@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765587274193,
+      "repository": "foundryvtt/dnd5e",
+      "issueTitle": "Korean characters in actor cause errors upon migrating from v5.2.2 (or lower) to v5.2.3",
+      "url": "https://github.com/foundryvtt/dnd5e/issues/6561",
+      "createdAt": "2025-12-13T00:54:34.193Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
