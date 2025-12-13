@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765612750862,
+      "repository": "willmiao/ComfyUI-Lora-Manager",
+      "issueTitle": "[BUG] / [FR] Fetch keeps trying to fetch on civarchive_api even if model cant ever be found",
+      "url": "https://github.com/willmiao/ComfyUI-Lora-Manager/issues/721",
+      "createdAt": "2025-12-13T07:59:10.862Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
