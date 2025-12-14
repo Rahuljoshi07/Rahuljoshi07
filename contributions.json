@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765740863681,
+      "repository": "bhousel/node-diff3",
+      "issueTitle": "Poor performance",
+      "url": "https://github.com/bhousel/node-diff3/issues/84",
+      "createdAt": "2025-12-14T19:34:23.681Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
