@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765676598849,
+      "repository": "nextcloud/text",
+      "issueTitle": "Outline / Table of contents improvements",
+      "url": "https://github.com/nextcloud/text/issues/7741",
+      "createdAt": "2025-12-14T01:43:18.849Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
