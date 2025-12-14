@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1765711751830,
+      "id": 1765711816930,
       "repository": "mcollina/async-cache-dedupe",
       "issueTitle": "Deduping is not working when stale",
       "url": "https://github.com/mcollina/async-cache-dedupe/issues/164",
-      "createdAt": "2025-12-14T11:29:11.830Z",
+      "createdAt": "2025-12-14T11:30:16.930Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
