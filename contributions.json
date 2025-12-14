@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765687531042,
+      "repository": "mosheng1/QuickClipboard",
+      "issueTitle": "[Bug] 便捷粘贴一直闪烁",
+      "url": "https://github.com/mosheng1/QuickClipboard/issues/187",
+      "createdAt": "2025-12-14T04:45:31.042Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
