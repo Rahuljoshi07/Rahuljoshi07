@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765706564243,
+      "repository": "gramps-project/gramps-web-api",
+      "issueTitle": "[Bug] Birth and death dates lost after editing person names on NAS with Btrfs",
+      "url": "https://github.com/gramps-project/gramps-web-api/issues/743",
+      "createdAt": "2025-12-14T10:02:44.243Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
