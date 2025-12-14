@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765712107508,
+      "repository": "Heistergand/fanfields2",
+      "issueTitle": "Check if trying to link from underneath a field",
+      "url": "https://github.com/Heistergand/fanfields2/issues/96",
+      "createdAt": "2025-12-14T11:35:07.508Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
