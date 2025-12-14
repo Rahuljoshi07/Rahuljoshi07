@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1765755175997,
-      "repository": "niklas-heer/speed-comparison",
-      "issueTitle": "Add [Mojo]",
-      "url": "https://github.com/niklas-heer/speed-comparison/issues/148",
-      "createdAt": "2025-12-14T23:32:55.997Z",
+      "id": 1765755228137,
+      "repository": "cogent3/cogent3",
+      "issueTitle": "ENH: improve performance of `.counts_per_seq()` method",
+      "url": "https://github.com/cogent3/cogent3/issues/2215",
+      "createdAt": "2025-12-14T23:33:48.138Z",
       "type": "comment",
-      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
