@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765743864199,
+      "repository": "simatec/ioBroker.backitup",
+      "issueTitle": "Please consider fixing issues detected by repository checker",
+      "url": "https://github.com/simatec/ioBroker.backitup/issues/1314",
+      "createdAt": "2025-12-14T20:24:24.199Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
