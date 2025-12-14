@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765676442761,
+      "repository": "nextcloud/talk-desktop",
+      "issueTitle": "The speed of opening a chat with a large number of messages",
+      "url": "https://github.com/nextcloud/talk-desktop/issues/1581",
+      "createdAt": "2025-12-14T01:40:42.761Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. This suggestion i..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
