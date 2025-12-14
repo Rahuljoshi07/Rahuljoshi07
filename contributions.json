@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765720518374,
+      "repository": "ibbybuilds/aegra",
+      "issueTitle": "[BUG] JSON decode error on large payload",
+      "url": "https://github.com/ibbybuilds/aegra/issues/100",
+      "createdAt": "2025-12-14T13:55:18.374Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
