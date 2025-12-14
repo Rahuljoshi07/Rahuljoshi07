@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765709388661,
+      "repository": "astrandb/miele",
+      "issueTitle": "No Water Consumption on WEJ885?",
+      "url": "https://github.com/astrandb/miele/issues/738",
+      "createdAt": "2025-12-14T10:49:48.661Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
