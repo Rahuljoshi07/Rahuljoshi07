@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765674566682,
+      "repository": "Laskyyy/Create-Astral",
+      "issueTitle": "[Bug]: Various recipes have a null output",
+      "url": "https://github.com/Laskyyy/Create-Astral/issues/615",
+      "createdAt": "2025-12-14T01:09:26.682Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
