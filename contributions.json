@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765697206801,
+      "repository": "genmini-ai/OpenCanvas",
+      "issueTitle": "fix: replace docling due to its OOM error",
+      "url": "https://github.com/genmini-ai/OpenCanvas/issues/29",
+      "createdAt": "2025-12-14T07:26:46.801Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
