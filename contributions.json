@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765746001663,
+      "repository": "openstreetmap/id-tagging-schema",
+      "issueTitle": "Don't suggest to add `education` tag to existing `amenity=school` features",
+      "url": "https://github.com/openstreetmap/id-tagging-schema/issues/1858",
+      "createdAt": "2025-12-14T21:00:01.663Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
