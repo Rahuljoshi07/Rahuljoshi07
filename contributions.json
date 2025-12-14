@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765688878879,
+      "repository": "georgebv/drf-pydantic",
+      "issueTitle": "Feature Request: Align default allow_blank behavior for str fields with Pydantic or provide a Config option",
+      "url": "https://github.com/georgebv/drf-pydantic/issues/44",
+      "createdAt": "2025-12-14T05:07:58.880Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
