@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765675399783,
+      "repository": "nextcloud/photos",
+      "issueTitle": "Openstreetmap does not load correctly in photos sidebar",
+      "url": "https://github.com/nextcloud/photos/issues/3346",
+      "createdAt": "2025-12-14T01:23:19.783Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
