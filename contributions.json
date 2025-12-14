@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765717508992,
+      "repository": "openfoodfacts/open-prices",
+      "issueTitle": "Django: upgrade to 5.2",
+      "url": "https://github.com/openfoodfacts/open-prices/issues/1151",
+      "createdAt": "2025-12-14T13:05:08.993Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
