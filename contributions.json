@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1765720518374,
-      "repository": "ibbybuilds/aegra",
-      "issueTitle": "[BUG] JSON decode error on large payload",
-      "url": "https://github.com/ibbybuilds/aegra/issues/100",
-      "createdAt": "2025-12-14T13:55:18.374Z",
+      "id": 1765720587903,
+      "repository": "Heistergand/fanfields2",
+      "issueTitle": "Check if trying to link from underneath a field",
+      "url": "https://github.com/Heistergand/fanfields2/issues/96",
+      "createdAt": "2025-12-14T13:56:27.904Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
