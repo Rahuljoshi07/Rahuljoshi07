@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765752213162,
+      "repository": "adamtheturtle/sphinx-substitution-extensions",
+      "issueTitle": "[Detail Bug] IndexError in _process_node when processing empty literalinclude with :content-substitutions:",
+      "url": "https://github.com/adamtheturtle/sphinx-substitution-extensions/issues/1287",
+      "createdAt": "2025-12-14T22:43:33.162Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
