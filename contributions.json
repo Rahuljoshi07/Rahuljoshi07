@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765733878593,
+      "repository": "coendevente/SlicerNNInteractive",
+      "issueTitle": "Connection issue on self certified https server",
+      "url": "https://github.com/coendevente/SlicerNNInteractive/issues/73",
+      "createdAt": "2025-12-14T17:37:58.593Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
