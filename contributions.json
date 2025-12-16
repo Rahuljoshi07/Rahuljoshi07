@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765909877232,
+      "repository": "IBM/ibmi-bob",
+      "issueTitle": "TOBi does not report error when source is mis-named",
+      "url": "https://github.com/IBM/ibmi-bob/issues/474",
+      "createdAt": "2025-12-16T18:31:17.233Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
