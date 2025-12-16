@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765874218890,
+      "repository": "ansible-collections/amazon.aws",
+      "issueTitle": "Improve error message with encrypt: true and a server that does not support encryption",
+      "url": "https://github.com/ansible-collections/amazon.aws/issues/2775",
+      "createdAt": "2025-12-16T08:36:58.891Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
