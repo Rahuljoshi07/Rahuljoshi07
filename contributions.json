@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765908642985,
+      "repository": "fvtt-fria-ligan/twilight2000-foundry-vtt",
+      "issueTitle": "Whisper Chat messages CSS rule is overwritten and hidden",
+      "url": "https://github.com/fvtt-fria-ligan/twilight2000-foundry-vtt/issues/169",
+      "createdAt": "2025-12-16T18:10:42.985Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
