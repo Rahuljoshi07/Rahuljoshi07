@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765916609950,
+      "repository": "diodiogod/TTS-Audio-Suite",
+      "issueTitle": "[Bug] TTS Text generation failed: Failed to load Step Audio EditX model: Input cfg is not an OmegaConf config object (dict)",
+      "url": "https://github.com/diodiogod/TTS-Audio-Suite/issues/196",
+      "createdAt": "2025-12-16T20:23:29.950Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
