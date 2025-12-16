@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765851106739,
+      "repository": "ansible-collections/azure",
+      "issueTitle": "azure_rm_aks does not detect any change in the aad_profile property",
+      "url": "https://github.com/ansible-collections/azure/issues/2129",
+      "createdAt": "2025-12-16T02:11:46.739Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
