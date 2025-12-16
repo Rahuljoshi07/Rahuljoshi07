@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765893046828,
+      "repository": "nikku/feelin",
+      "issueTitle": "Error and warnings support additional to result",
+      "url": "https://github.com/nikku/feelin/issues/126",
+      "createdAt": "2025-12-16T13:50:46.828Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
