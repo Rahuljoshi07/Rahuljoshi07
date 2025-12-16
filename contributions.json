@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765890361884,
+      "repository": "Rex-sys-hk/PlanScope",
+      "issueTitle": "Training result performance issue",
+      "url": "https://github.com/Rex-sys-hk/PlanScope/issues/6",
+      "createdAt": "2025-12-16T13:06:01.884Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
