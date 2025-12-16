@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1765915329642,
-      "repository": "devnen/Chatterbox-TTS-Server",
-      "issueTitle": "Request to Update the UI for Multi-Language Support",
-      "url": "https://github.com/devnen/Chatterbox-TTS-Server/issues/67",
-      "createdAt": "2025-12-16T20:02:09.642Z",
+      "id": 1765915385022,
+      "repository": "rive-app/rive-wasm",
+      "issueTitle": "TypeError: Cannot read properties of null (reading 'deleteTexture') after updating Rive",
+      "url": "https://github.com/rive-app/rive-wasm/issues/408",
+      "createdAt": "2025-12-16T20:03:05.022Z",
       "type": "comment",
-      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
