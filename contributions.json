@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765920211036,
+      "repository": "georgetown-cset/eto-chip-explorer",
+      "issueTitle": "Supplier chart seems too narrow on Packaging Tools and Integrated Assembly Tools",
+      "url": "https://github.com/georgetown-cset/eto-chip-explorer/issues/624",
+      "createdAt": "2025-12-16T21:23:31.036Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
