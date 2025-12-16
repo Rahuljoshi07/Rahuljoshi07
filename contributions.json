@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765873170850,
+      "repository": "aicoding-caret/caret",
+      "issueTitle": "[개선사항] 서버 측 텔레메트리 구현",
+      "url": "https://github.com/aicoding-caret/caret/issues/20",
+      "createdAt": "2025-12-16T08:19:30.850Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
