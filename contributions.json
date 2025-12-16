@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765851364683,
+      "repository": "AzureAD/microsoft-authentication-library-for-python",
+      "issueTitle": "[Bug] Broker on Mac error to authenticate \"Source application does not match redirect uri host. Invalid source app.\"",
+      "url": "https://github.com/AzureAD/microsoft-authentication-library-for-python/issues/803",
+      "createdAt": "2025-12-16T02:16:04.683Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
