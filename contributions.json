@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765893394966,
+      "repository": "pretalx/pretalx",
+      "issueTitle": "Multiple entries for same concept in English create issues in Spanish",
+      "url": "https://github.com/pretalx/pretalx/issues/2229",
+      "createdAt": "2025-12-16T13:56:34.966Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
