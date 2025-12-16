@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765927609326,
+      "repository": "RailtownAI/railtracks",
+      "issueTitle": "[Tech Debt] Allow optional \"Include\" statements for chroma vector store search",
+      "url": "https://github.com/RailtownAI/railtracks/issues/870",
+      "createdAt": "2025-12-16T23:26:49.326Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
