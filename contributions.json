@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765892652783,
+      "repository": "academic-innovation/django-lti",
+      "issueTitle": "Address status of pylti1.3",
+      "url": "https://github.com/academic-innovation/django-lti/issues/108",
+      "createdAt": "2025-12-16T13:44:12.783Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
