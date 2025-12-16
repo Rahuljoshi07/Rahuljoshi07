@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765897398157,
+      "repository": "michael/svedit",
+      "issueTitle": "Schema and Component Property Mismatch Causes Runtime Errors",
+      "url": "https://github.com/michael/svedit/issues/188",
+      "createdAt": "2025-12-16T15:03:18.157Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
