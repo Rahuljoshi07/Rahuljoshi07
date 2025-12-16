@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765860721787,
+      "repository": "NYUCCL/smile",
+      "issueTitle": "error in `npm run upload_config`",
+      "url": "https://github.com/NYUCCL/smile/issues/215",
+      "createdAt": "2025-12-16T04:52:01.787Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
