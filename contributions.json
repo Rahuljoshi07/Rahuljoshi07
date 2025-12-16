@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765899631840,
+      "repository": "carrotwaxr/peek-stash-browser",
+      "issueTitle": "Error refreshing cache",
+      "url": "https://github.com/carrotwaxr/peek-stash-browser/issues/135",
+      "createdAt": "2025-12-16T15:40:31.840Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
