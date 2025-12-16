@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765884735154,
+      "repository": "CycloneDX/cyclonedx-node-npm",
+      "issueTitle": "feat: detail runtime dependencies",
+      "url": "https://github.com/CycloneDX/cyclonedx-node-npm/issues/1396",
+      "createdAt": "2025-12-16T11:32:15.155Z",
+      "type": "comment",
+      "content": "Using a bundler like Webpack or Vite could improve performance. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
