@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1765853955769,
+      "id": 1765854019952,
       "repository": "timkpaine/jupyterlab_iframe",
       "issueTitle": "IFrame doesn't read GET parameters after first `&`",
       "url": "https://github.com/timkpaine/jupyterlab_iframe/issues/89",
-      "createdAt": "2025-12-16T02:59:15.770Z",
+      "createdAt": "2025-12-16T03:00:19.952Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
