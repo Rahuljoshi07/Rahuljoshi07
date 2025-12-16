@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765886640988,
+      "repository": "spine-tools/Spine-Toolbox",
+      "issueTitle": "The sign warning about invalid value type disappears when value data is pasted back",
+      "url": "https://github.com/spine-tools/Spine-Toolbox/issues/3237",
+      "createdAt": "2025-12-16T12:04:00.988Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
