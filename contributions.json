@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765907561937,
+      "repository": "Arize-ai/openinference",
+      "issueTitle": "[bug] ADK auto-instrumentation not displaying LLM input / output on some spans correctly",
+      "url": "https://github.com/Arize-ai/openinference/issues/2537",
+      "createdAt": "2025-12-16T17:52:41.937Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
