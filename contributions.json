@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765850664440,
+      "repository": "opea-project/GenAIComps",
+      "issueTitle": "[Bug] llms_text-generation_bedrock.sh test fail on xeon",
+      "url": "https://github.com/opea-project/GenAIComps/issues/1944",
+      "createdAt": "2025-12-16T02:04:24.440Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
