@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765894963332,
+      "repository": "OpenCTI-Platform/connectors",
+      "issueTitle": "[SentinelOne-Intel] STIX pattern filter is too restrictive for hashes",
+      "url": "https://github.com/OpenCTI-Platform/connectors/issues/5428",
+      "createdAt": "2025-12-16T14:22:43.332Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
