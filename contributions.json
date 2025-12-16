@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765858588363,
+      "repository": "vocalpy/vocalpy",
+      "issueTitle": "BUG: VS code jupyter notebook kernel crashing when calling feature.sat (specifically, spectral.sat._sat_multitaper)",
+      "url": "https://github.com/vocalpy/vocalpy/issues/222",
+      "createdAt": "2025-12-16T04:16:28.363Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
