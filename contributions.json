@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1765922146862,
+      "id": 1765922214415,
       "repository": "physicshub/physicshub.github.io",
-      "issueTitle": "[Bug]: When you change simulation speed it doesn't save",
-      "url": "https://github.com/physicshub/physicshub.github.io/issues/130",
-      "createdAt": "2025-12-16T21:55:46.862Z",
+      "issueTitle": "[Bug]: When you reset simulation SimInfos go to 0",
+      "url": "https://github.com/physicshub/physicshub.github.io/issues/129",
+      "createdAt": "2025-12-16T21:56:54.415Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
