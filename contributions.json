@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765853202592,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Update docker compose to build the backend image only once",
+      "url": "https://github.com/OWASP/Nest/issues/2927",
+      "createdAt": "2025-12-16T02:46:42.592Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
