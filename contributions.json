@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765876059636,
+      "repository": "vllm-project/vllm-omni",
+      "issueTitle": "[Bug]: Stage generation errors cause process hang",
+      "url": "https://github.com/vllm-project/vllm-omni/issues/322",
+      "createdAt": "2025-12-16T09:07:39.636Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
