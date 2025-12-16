@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765854534681,
+      "repository": "voyage-ai/voyageai-python",
+      "issueTitle": "Compatibility issue with Python 3.14 (caused by Pydantic v1)",
+      "url": "https://github.com/voyage-ai/voyageai-python/issues/36",
+      "createdAt": "2025-12-16T03:08:54.681Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
