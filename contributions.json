@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765901441403,
+      "repository": "SWI-Prolog/npm-swipl-wasm",
+      "issueTitle": "Is there a Command Line Interface (CLI) ?",
+      "url": "https://github.com/SWI-Prolog/npm-swipl-wasm/issues/446",
+      "createdAt": "2025-12-16T16:10:41.403Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
