@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765847260998,
+      "repository": "KhalisFoundation/sttm-web",
+      "issueTitle": "Issue with copy paste on shabad page",
+      "url": "https://github.com/KhalisFoundation/sttm-web/issues/1834",
+      "createdAt": "2025-12-16T01:07:40.998Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
