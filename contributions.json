@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765992440951,
+      "repository": "geneontology/go-annotation",
+      "issueTitle": "InterPro2GO issue:  IPR006252 and IPR001465 are giving zebrafish ugl malate sythase activity incorrectly",
+      "url": "https://github.com/geneontology/go-annotation/issues/6080",
+      "createdAt": "2025-12-17T17:27:20.951Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
