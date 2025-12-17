@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765949628577,
+      "repository": "frappe/print_designer",
+      "issueTitle": "Internal links in print formats break when using headers",
+      "url": "https://github.com/frappe/print_designer/issues/498",
+      "createdAt": "2025-12-17T05:33:48.577Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
