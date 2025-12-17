@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765969565590,
+      "repository": "agentarea/agentarea",
+      "issueTitle": "Helm chart is not applying correctly in ArgoCD env.",
+      "url": "https://github.com/agentarea/agentarea/issues/49",
+      "createdAt": "2025-12-17T11:06:05.590Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
