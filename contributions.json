@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765976793360,
+      "repository": "Open-CMSIS-Pack/cmsis-toolbox",
+      "issueTitle": "[Bug] cbridge: generated `*.cgen.yml` contains file references with incorrect path for selected middleware",
+      "url": "https://github.com/Open-CMSIS-Pack/cmsis-toolbox/issues/455",
+      "createdAt": "2025-12-17T13:06:33.360Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
