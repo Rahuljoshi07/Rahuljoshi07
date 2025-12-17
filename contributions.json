@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765985021663,
+      "repository": "logic-star-ai/swt-bench",
+      "issueTitle": "Gold Patch Failures/Errors (SWT-Bench Verified)",
+      "url": "https://github.com/logic-star-ai/swt-bench/issues/40",
+      "createdAt": "2025-12-17T15:23:41.663Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
