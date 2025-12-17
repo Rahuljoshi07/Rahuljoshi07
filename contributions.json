@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765989312119,
+      "repository": "patternfly/patternfly-org",
+      "issueTitle": "Bug - Getting started section layout is broken when navigating",
+      "url": "https://github.com/patternfly/patternfly-org/issues/4373",
+      "createdAt": "2025-12-17T16:35:12.119Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
