@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766009630763,
+      "repository": "AllenNeuralDynamics/aind-data-schema",
+      "issueTitle": "Bug in add processing method when no dependency graph",
+      "url": "https://github.com/AllenNeuralDynamics/aind-data-schema/issues/1649",
+      "createdAt": "2025-12-17T22:13:50.764Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
