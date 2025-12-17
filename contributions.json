@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765953471042,
+      "repository": "mosheng1/QuickClipboard",
+      "issueTitle": "[Bug] 列表无收集内容项时背景透明问题",
+      "url": "https://github.com/mosheng1/QuickClipboard/issues/202",
+      "createdAt": "2025-12-17T06:37:51.042Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
