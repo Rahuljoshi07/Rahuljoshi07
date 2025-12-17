@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765958898860,
+      "repository": "boschresearch/MultiADS",
+      "issueTitle": "关于train.py和train_multi_seg.py中设置参数aug_rate=0.2以启用combine_img函数实现数据增强的疑惑",
+      "url": "https://github.com/boschresearch/MultiADS/issues/15",
+      "createdAt": "2025-12-17T08:08:18.860Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
