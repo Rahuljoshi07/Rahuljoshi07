@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765990220026,
+      "repository": "hoeci/sort-play",
+      "issueTitle": "Unable to save dynamic playlist",
+      "url": "https://github.com/hoeci/sort-play/issues/82",
+      "createdAt": "2025-12-17T16:50:20.026Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
