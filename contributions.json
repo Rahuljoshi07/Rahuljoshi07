@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765969252252,
+      "repository": "asyncapi/markdown-template",
+      "issueTitle": "[BUG] <description> Not compatible with the latest Async/generator's latest version",
+      "url": "https://github.com/asyncapi/markdown-template/issues/626",
+      "createdAt": "2025-12-17T11:00:52.252Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
