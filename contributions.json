@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1765989069615,
+      "repository": "Opentrons/opentrons",
+      "issueTitle": "bug: Updating Windows App and Robot Software with automated prompts gives out of sync version numbers and broken communication",
+      "url": "https://github.com/Opentrons/opentrons/issues/20406",
+      "createdAt": "2025-12-17T16:31:09.615Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
