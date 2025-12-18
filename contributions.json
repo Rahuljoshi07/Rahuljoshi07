@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766037592158,
+      "repository": "gardenlinux/gardenlinux",
+      "issueTitle": "add github issue css to the compliance report html file to allow better readability than js DOM hacking in github issues",
+      "url": "https://github.com/gardenlinux/gardenlinux/issues/4075",
+      "createdAt": "2025-12-18T05:59:52.158Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
