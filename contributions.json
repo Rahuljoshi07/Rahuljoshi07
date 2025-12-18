@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766040336098,
+      "repository": "jmcs/ecological",
+      "issueTitle": "Reliance on dataclasses throws errors in pip for Python3.9",
+      "url": "https://github.com/jmcs/ecological/issues/30",
+      "createdAt": "2025-12-18T06:45:36.098Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
