@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1766034338811,
+      "id": 1766034376732,
       "repository": "msa-ez/platform",
-      "issueTitle": "ES) Aggregate generator 동작시 중복 필드",
-      "url": "https://github.com/msa-ez/platform/issues/73",
-      "createdAt": "2025-12-18T05:05:38.811Z",
+      "issueTitle": "ES)AggregateGenerator시 잘못된 type반환에 대한 개선방안",
+      "url": "https://github.com/msa-ez/platform/issues/80",
+      "createdAt": "2025-12-18T05:06:16.733Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
