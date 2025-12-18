@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766022383354,
+      "repository": "natapol2547/paintsystem",
+      "issueTitle": "Undo on a clipped/alpha locked causes layer to disappear (2.1.0)",
+      "url": "https://github.com/natapol2547/paintsystem/issues/82",
+      "createdAt": "2025-12-18T01:46:23.354Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
