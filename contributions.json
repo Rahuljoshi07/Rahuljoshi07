@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766040515949,
+      "repository": "bouob/tickets_hunter",
+      "issueTitle": "[BUG] 拓元購票成功后持續多次打開checkout窗口",
+      "url": "https://github.com/bouob/tickets_hunter/issues/193",
+      "createdAt": "2025-12-18T06:48:35.950Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
