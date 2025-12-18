@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766025396797,
+      "repository": "hackforla/tdm-calculator",
+      "issueTitle": "Bug: Server Unit Tests Send Emails",
+      "url": "https://github.com/hackforla/tdm-calculator/issues/2821",
+      "createdAt": "2025-12-18T02:36:36.797Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
