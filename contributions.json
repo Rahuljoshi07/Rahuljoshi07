@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766027366442,
+      "repository": "nextcloud/officeonline",
+      "issueTitle": "Unable to restrict usage to all available nextcloud groups",
+      "url": "https://github.com/nextcloud/officeonline/issues/636",
+      "createdAt": "2025-12-18T03:09:26.442Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
