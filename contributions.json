@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766021616539,
+      "repository": "jurialmunkey/plugin.video.themoviedb.helper",
+      "issueTitle": ":bug: Adding Movie to TMDb watchlist/user_list via KODI errors majority of the time",
+      "url": "https://github.com/jurialmunkey/plugin.video.themoviedb.helper/issues/1644",
+      "createdAt": "2025-12-18T01:33:36.540Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
