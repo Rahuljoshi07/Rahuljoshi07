@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766031436475,
+      "repository": "vllm-project/vllm-omni",
+      "issueTitle": "[Bug]: Accuracy bug of ulysses on Qwen-image-edit",
+      "url": "https://github.com/vllm-project/vllm-omni/issues/347",
+      "createdAt": "2025-12-18T04:17:16.475Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
