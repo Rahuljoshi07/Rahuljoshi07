@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766144040729,
+      "repository": "rtCamp/godam",
+      "issueTitle": "Console Error in Single Video Page Analytics Without License",
+      "url": "https://github.com/rtCamp/godam/issues/1095",
+      "createdAt": "2025-12-19T11:34:00.729Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
