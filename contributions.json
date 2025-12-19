@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766153359071,
+      "repository": "htilly/SlackONOS",
+      "issueTitle": "create a function that is called bugreport. Should work the same way as featurerequest but for bug reporting instead. Label should be bug.",
+      "url": "https://github.com/htilly/SlackONOS/issues/202",
+      "createdAt": "2025-12-19T14:09:19.071Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
