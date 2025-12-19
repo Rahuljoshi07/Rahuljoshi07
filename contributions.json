@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766112063501,
+      "repository": "pnnbao97/VieNeu-TTS",
+      "issueTitle": "Linux: RuntimeError: espeak not installed on your system",
+      "url": "https://github.com/pnnbao97/VieNeu-TTS/issues/5",
+      "createdAt": "2025-12-19T02:41:03.501Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
