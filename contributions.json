@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766166003353,
+      "repository": "single-cell-data/TileDB-SOMA",
+      "issueTitle": "Failed scheduled CI run",
+      "url": "https://github.com/single-cell-data/TileDB-SOMA/issues/4352",
+      "createdAt": "2025-12-19T17:40:03.353Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
