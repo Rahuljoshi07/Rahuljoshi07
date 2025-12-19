@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766120626173,
+      "repository": "Hylozoic/hylo",
+      "issueTitle": "Calendar view is not responsive; does not work on small screens",
+      "url": "https://github.com/Hylozoic/hylo/issues/1124",
+      "createdAt": "2025-12-19T05:03:46.174Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
