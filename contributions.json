@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766174341171,
+      "repository": "aws-deadline/deadline-cloud-for-unreal-engine",
+      "issueTitle": "Bug: scripts\\build_plugin.py assumes `psutil` is installed already but it is not installed by default",
+      "url": "https://github.com/aws-deadline/deadline-cloud-for-unreal-engine/issues/244",
+      "createdAt": "2025-12-19T19:59:01.172Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
