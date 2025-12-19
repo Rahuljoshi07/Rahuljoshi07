@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766183255333,
+      "repository": "SalesforceCommerceCloud/pwa-kit",
+      "issueTitle": "[BUG] Password Reset Broken in retail-react-app@8.3.0",
+      "url": "https://github.com/SalesforceCommerceCloud/pwa-kit/issues/3544",
+      "createdAt": "2025-12-19T22:27:35.334Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
