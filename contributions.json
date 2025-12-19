@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766152020808,
+      "repository": "nodejs/import-in-the-middle",
+      "issueTitle": "Crash when using `import-in-the-middle` with `module.exports = {...require('$dependency')}`",
+      "url": "https://github.com/nodejs/import-in-the-middle/issues/157",
+      "createdAt": "2025-12-19T13:47:00.808Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
