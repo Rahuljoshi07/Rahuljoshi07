@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766163781088,
+      "repository": "w3c/wai-course-list",
+      "issueTitle": "Submit a new course is not possible due to an error.",
+      "url": "https://github.com/w3c/wai-course-list/issues/659",
+      "createdAt": "2025-12-19T17:03:01.089Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
