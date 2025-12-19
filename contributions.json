@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1766166511593,
+      "id": 1766166547496,
       "repository": "oldcordapp/OldcordV3",
       "issueTitle": "Fermi Issues (Messages, Settings Menu)",
       "url": "https://github.com/oldcordapp/OldcordV3/issues/90",
-      "createdAt": "2025-12-19T17:48:31.593Z",
+      "createdAt": "2025-12-19T17:49:07.497Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
