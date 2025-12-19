@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766179068536,
+      "repository": "blackcoffeerobotics/bcr_arm",
+      "issueTitle": "Robot USD file won't load—Absolute Path Issue",
+      "url": "https://github.com/blackcoffeerobotics/bcr_arm/issues/4",
+      "createdAt": "2025-12-19T21:17:48.536Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
