@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766163076577,
+      "repository": "joshxviii/animalese-typing-desktop",
+      "issueTitle": "Issues with setting it to work only in specific apps",
+      "url": "https://github.com/joshxviii/animalese-typing-desktop/issues/23",
+      "createdAt": "2025-12-19T16:51:16.577Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
