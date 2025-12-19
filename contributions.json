@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766128717224,
+      "repository": "bis-med-it/pysdmx",
+      "issueTitle": "Group attributes not read correctly when multiple groups exist",
+      "url": "https://github.com/bis-med-it/pysdmx/issues/474",
+      "createdAt": "2025-12-19T07:18:37.225Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
