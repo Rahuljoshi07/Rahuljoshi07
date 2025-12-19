@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766110736216,
+      "repository": "55gms/55GMS",
+      "issueTitle": "[Bug]: It takes so long to build the codespace",
+      "url": "https://github.com/55gms/55GMS/issues/151",
+      "createdAt": "2025-12-19T02:18:56.216Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
