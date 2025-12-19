@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766157921400,
+      "repository": "vllm-project/vllm-metal",
+      "issueTitle": "After vllm-metal install, serve causes TypeError: init_batch_invariance() missing 1 required positional argument: 'attention_backend'",
+      "url": "https://github.com/vllm-project/vllm-metal/issues/16",
+      "createdAt": "2025-12-19T15:25:21.400Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
