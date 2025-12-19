@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766145064158,
+      "repository": "htilly/SlackONOS",
+      "issueTitle": "create a function that is called bugreport. Should work the same way as featurerequest but for bug reporting instead. Label should be bug.",
+      "url": "https://github.com/htilly/SlackONOS/issues/202",
+      "createdAt": "2025-12-19T11:51:04.158Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
