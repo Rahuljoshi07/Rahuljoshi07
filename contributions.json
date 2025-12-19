@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766156976376,
+      "repository": "amagovpt/AccessMonitor",
+      "issueTitle": "Self-hosted instance always returns error \"An unexpected error has ocurred. Please try again later.\"",
+      "url": "https://github.com/amagovpt/AccessMonitor/issues/19",
+      "createdAt": "2025-12-19T15:09:36.376Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
