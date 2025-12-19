@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766177881818,
+      "repository": "CharlesPikachu/videodl",
+      "issueTitle": "[BUG] 无法下载cctv视频",
+      "url": "https://github.com/CharlesPikachu/videodl/issues/29",
+      "createdAt": "2025-12-19T20:58:01.818Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
