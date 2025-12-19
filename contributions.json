@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1766132910597,
-      "repository": "vsajip/python-gnupg",
-      "issueTitle": "Handles binary data from gnupg incorrectly (crashes with ` UnicodeDecodeError: 'utf-8' codec can't decode byte 0xf3 in position 0: invalid continuation byte`)",
-      "url": "https://github.com/vsajip/python-gnupg/issues/267",
-      "createdAt": "2025-12-19T08:28:30.597Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
