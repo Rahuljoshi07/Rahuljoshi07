@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766213234358,
+      "repository": "KroMiose/nekro-agent",
+      "issueTitle": "[Bug]: 在错误的输入admin的密码后，提示信息错误",
+      "url": "https://github.com/KroMiose/nekro-agent/issues/168",
+      "createdAt": "2025-12-20T06:47:14.358Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
