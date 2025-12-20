@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766194283557,
+      "repository": "nasa-fornax/fornax-demo-notebooks",
+      "issueTitle": "BUG: Sparclclient not compatible with newer versions of numpy",
+      "url": "https://github.com/nasa-fornax/fornax-demo-notebooks/issues/406",
+      "createdAt": "2025-12-20T01:31:23.557Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
