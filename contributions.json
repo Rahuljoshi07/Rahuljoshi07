@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766210116354,
+      "repository": "MrAntares/roBrowserLegacy",
+      "issueTitle": "Walk duration and moving speed misalignment with movspeed buffs",
+      "url": "https://github.com/MrAntares/roBrowserLegacy/issues/647",
+      "createdAt": "2025-12-20T05:55:16.354Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
