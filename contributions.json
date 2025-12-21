@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1766337694586,
+      "id": 1766337767439,
       "repository": "speechanddebate/tabroom",
       "issueTitle": "Bug: registration log doesn't convert date when converting time from UTC to local",
       "url": "https://github.com/speechanddebate/tabroom/issues/72",
-      "createdAt": "2025-12-21T17:21:34.586Z",
+      "createdAt": "2025-12-21T17:22:47.439Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
