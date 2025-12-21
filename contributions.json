@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766329749407,
+      "repository": "forwardemail/nodejs-dns-over-https-tangerine",
+      "issueTitle": "DNS verification inconsistency",
+      "url": "https://github.com/forwardemail/nodejs-dns-over-https-tangerine/issues/16",
+      "createdAt": "2025-12-21T15:09:09.407Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
