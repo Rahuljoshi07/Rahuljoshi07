@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766341912492,
+      "repository": "sghng/typ2docx",
+      "issueTitle": "Equations captured in context are not extracted",
+      "url": "https://github.com/sghng/typ2docx/issues/52",
+      "createdAt": "2025-12-21T18:31:52.492Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
