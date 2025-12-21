@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766304728654,
+      "repository": "icedman/dash2dock-lite",
+      "issueTitle": "[Bug] Bounce+Close crash",
+      "url": "https://github.com/icedman/dash2dock-lite/issues/273",
+      "createdAt": "2025-12-21T08:12:08.654Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
