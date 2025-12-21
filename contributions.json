@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766327813421,
+      "repository": "AleksandrFurmenkovOfficial/ai-code-review",
+      "issueTitle": "Unexpected input(s) 'review_rules_file'",
+      "url": "https://github.com/AleksandrFurmenkovOfficial/ai-code-review/issues/159",
+      "createdAt": "2025-12-21T14:36:53.422Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
