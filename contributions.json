@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766327977795,
+      "repository": "Foundryborne/daggerheart",
+      "issueTitle": "Action that triggered reaction roll does not update results in the chat prompt.",
+      "url": "https://github.com/Foundryborne/daggerheart/issues/1448",
+      "createdAt": "2025-12-21T14:39:37.795Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
