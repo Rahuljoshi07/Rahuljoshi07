@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1766350805062,
-      "repository": "maldoinc/wireup",
-      "issueTitle": "\"Wireup dependencies must have types\" error when using Pydantic settings base class",
-      "url": "https://github.com/maldoinc/wireup/issues/94",
-      "createdAt": "2025-12-21T21:00:05.062Z",
+      "id": 1766350872332,
+      "repository": "rive-app/rive-wasm",
+      "issueTitle": "Errors during makeRenderer not catchable",
+      "url": "https://github.com/rive-app/rive-wasm/issues/409",
+      "createdAt": "2025-12-21T21:01:12.332Z",
       "type": "comment",
-      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
