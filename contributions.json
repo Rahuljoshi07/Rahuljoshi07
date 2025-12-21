@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766350805062,
+      "repository": "maldoinc/wireup",
+      "issueTitle": "\"Wireup dependencies must have types\" error when using Pydantic settings base class",
+      "url": "https://github.com/maldoinc/wireup/issues/94",
+      "createdAt": "2025-12-21T21:00:05.062Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
