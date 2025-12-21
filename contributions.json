@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766347697187,
+      "repository": "sphinx-contrib/confluencebuilder",
+      "issueTitle": "xhtml parsing error with xml tags in backticks",
+      "url": "https://github.com/sphinx-contrib/confluencebuilder/issues/1103",
+      "createdAt": "2025-12-21T20:08:17.187Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
