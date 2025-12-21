@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766325738527,
+      "repository": "hbq0405/emby-toolkit",
+      "issueTitle": "[BUG]注册用户提示内部出错，联系管理员",
+      "url": "https://github.com/hbq0405/emby-toolkit/issues/24",
+      "createdAt": "2025-12-21T14:02:18.527Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
