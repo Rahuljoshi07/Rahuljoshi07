@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766336300858,
+      "repository": "foxthefox/ioBroker.ecoflow-mqtt",
+      "issueTitle": "EcoFlow DELTA 3 Plus - enBeep",
+      "url": "https://github.com/foxthefox/ioBroker.ecoflow-mqtt/issues/361",
+      "createdAt": "2025-12-21T16:58:20.858Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
