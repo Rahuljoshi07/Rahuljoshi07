@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766319695190,
+      "repository": "strapi-community/plugin-io",
+      "issueTitle": "[Bug]: No images collection in socket response",
+      "url": "https://github.com/strapi-community/plugin-io/issues/95",
+      "createdAt": "2025-12-21T12:21:35.190Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
