@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766359743596,
+      "repository": "google/santa-tracker-web",
+      "issueTitle": "Games Don't Run At Correct Speed",
+      "url": "https://github.com/google/santa-tracker-web/issues/217",
+      "createdAt": "2025-12-21T23:29:03.597Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
