@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766325567951,
+      "repository": "pymc-devs/pytensor",
+      "issueTitle": "Scan new API does not respect user-defined ordering of mapped (None) outputs and non-traceable SIT-SOT",
+      "url": "https://github.com/pymc-devs/pytensor/issues/1796",
+      "createdAt": "2025-12-21T13:59:27.951Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
