@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766299299772,
+      "repository": "aristoteleo/dynamo-release",
+      "issueTitle": "ValueError: could not convert integer scalar when running dyn.tl.dynamics on large harmonized dataset (~4M cells)",
+      "url": "https://github.com/aristoteleo/dynamo-release/issues/732",
+      "createdAt": "2025-12-21T06:41:39.772Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
