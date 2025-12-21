@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766357501324,
+      "repository": "delitamakanda/elearning",
+      "issueTitle": "The version of celery used may be deprecated",
+      "url": "https://github.com/delitamakanda/elearning/issues/97",
+      "createdAt": "2025-12-21T22:51:41.324Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
