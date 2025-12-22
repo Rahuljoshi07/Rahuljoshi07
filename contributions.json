@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766372285154,
+      "repository": "pallets-eco/flask-pydantic",
+      "issueTitle": "Pydantic v2's error object contains a ctx field",
+      "url": "https://github.com/pallets-eco/flask-pydantic/issues/86",
+      "createdAt": "2025-12-22T02:58:05.154Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
