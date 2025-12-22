@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1766443417745,
+      "id": 1766443446151,
       "repository": "the-hideout/tarkov-dev",
       "issueTitle": "Loot icons reset bug",
       "url": "https://github.com/the-hideout/tarkov-dev/issues/1177",
-      "createdAt": "2025-12-22T22:43:37.745Z",
+      "createdAt": "2025-12-22T22:44:06.151Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
