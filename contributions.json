@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766436566912,
+      "repository": "sigstore/gh-action-sigstore-python",
+      "issueTitle": "readme: Should the default example have \"contents:write\" ?",
+      "url": "https://github.com/sigstore/gh-action-sigstore-python/issues/147",
+      "createdAt": "2025-12-22T20:49:26.912Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
