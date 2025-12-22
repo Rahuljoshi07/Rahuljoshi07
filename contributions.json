@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1766408737717,
+      "id": 1766408782295,
       "repository": "htilly/SlackONOS",
       "issueTitle": "create a function that is called bugreport. Should work the same way as featurerequest but for bug reporting instead. Label should be bug.",
       "url": "https://github.com/htilly/SlackONOS/issues/202",
-      "createdAt": "2025-12-22T13:05:37.717Z",
+      "createdAt": "2025-12-22T13:06:22.296Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
