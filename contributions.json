@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766382703682,
+      "repository": "orion-ai-community/BizzAI",
+      "issueTitle": "Bug: Walk-in customer can save estimate without being registered as a customer",
+      "url": "https://github.com/orion-ai-community/BizzAI/issues/62",
+      "createdAt": "2025-12-22T05:51:43.682Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
