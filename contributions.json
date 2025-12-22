@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766441614362,
+      "repository": "KhronosGroup/SYCL-Docs",
+      "issueTitle": "Definition of \"kernel argument\" is wrong for named kernel object",
+      "url": "https://github.com/KhronosGroup/SYCL-Docs/issues/915",
+      "createdAt": "2025-12-22T22:13:34.362Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
