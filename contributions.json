@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766397099122,
+      "repository": "pulp/pulpcore",
+      "issueTitle": "Certain versions of boto3 trigger MissingContentLength errors when uploading to S3",
+      "url": "https://github.com/pulp/pulpcore/issues/6469",
+      "createdAt": "2025-12-22T09:51:39.122Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
