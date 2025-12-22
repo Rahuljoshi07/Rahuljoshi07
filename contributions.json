@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766378054464,
+      "repository": "netlify-templates/nextjs-blog-theme",
+      "issueTitle": "use latest packages",
+      "url": "https://github.com/netlify-templates/nextjs-blog-theme/issues/290",
+      "createdAt": "2025-12-22T04:34:14.464Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
