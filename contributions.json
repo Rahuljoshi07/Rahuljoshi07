@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766366087490,
+      "repository": "niklas-heer/speed-comparison",
+      "issueTitle": "Bug: [SHORT DESCRIPTION]",
+      "url": "https://github.com/niklas-heer/speed-comparison/issues/249",
+      "createdAt": "2025-12-22T01:14:47.490Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
