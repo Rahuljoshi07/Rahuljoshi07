@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766435305041,
+      "repository": "circuitpython/web-editor",
+      "issueTitle": "Get Connect/Disconnect Button to work properly",
+      "url": "https://github.com/circuitpython/web-editor/issues/373",
+      "createdAt": "2025-12-22T20:28:25.041Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
