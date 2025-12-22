@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766426464095,
+      "repository": "ClanGenOfficial/clangen",
+      "issueTitle": "[BUG] event editor issues",
+      "url": "https://github.com/ClanGenOfficial/clangen/issues/3899",
+      "createdAt": "2025-12-22T18:01:04.095Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
