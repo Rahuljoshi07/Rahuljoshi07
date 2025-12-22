@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1766380849689,
+      "id": 1766380887050,
       "repository": "SimpleAccounts/SimpleAccounts-UAE",
       "issueTitle": "Backend: PropertyValueException when saving PasswordHistory during password reset",
       "url": "https://github.com/SimpleAccounts/SimpleAccounts-UAE/issues/286",
-      "createdAt": "2025-12-22T05:20:49.690Z",
+      "createdAt": "2025-12-22T05:21:27.050Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
