@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766437695502,
+      "repository": "nextcloud/collectives",
+      "issueTitle": "Last edited information should not be clickable in link shares",
+      "url": "https://github.com/nextcloud/collectives/issues/2169",
+      "createdAt": "2025-12-22T21:08:15.502Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
