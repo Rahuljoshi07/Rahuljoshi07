@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766373785547,
+      "repository": "jxxghp/MoviePilot-Plugins",
+      "issueTitle": "ntfymsg插件好像有bug",
+      "url": "https://github.com/jxxghp/MoviePilot-Plugins/issues/868",
+      "createdAt": "2025-12-22T03:23:05.547Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
