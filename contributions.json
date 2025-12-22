@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766385539791,
+      "repository": "intel/auto-round",
+      "issueTitle": "enable_torch_compile causes AttributeError: 'Linear' object has no attribute 'act_max'",
+      "url": "https://github.com/intel/auto-round/issues/1109",
+      "createdAt": "2025-12-22T06:38:59.791Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
