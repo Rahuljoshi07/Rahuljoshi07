@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766383110739,
+      "repository": "bieniu/ha-shellies-discovery-gen2",
+      "issueTitle": "Battery sensor of shelly blue HT not working after update to 4.1.0",
+      "url": "https://github.com/bieniu/ha-shellies-discovery-gen2/issues/731",
+      "createdAt": "2025-12-22T05:58:30.739Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
