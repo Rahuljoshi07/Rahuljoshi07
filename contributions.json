@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766373187817,
+      "repository": "sipeed/MaixPy",
+      "issueTitle": "img.get_regression无法返回多条直线信息",
+      "url": "https://github.com/sipeed/MaixPy/issues/118",
+      "createdAt": "2025-12-22T03:13:07.817Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
