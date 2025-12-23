@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766457409050,
+      "repository": "in0vik/Shazam-Tool",
+      "issueTitle": "ModuleNotFoundError: No module named 'audioop'",
+      "url": "https://github.com/in0vik/Shazam-Tool/issues/2",
+      "createdAt": "2025-12-23T02:36:49.050Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
