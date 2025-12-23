@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766473313032,
+      "repository": "Barbariandev/MANTIS",
+      "issueTitle": "Shape Mismatch Error in LBFGS Salience Computation",
+      "url": "https://github.com/Barbariandev/MANTIS/issues/8",
+      "createdAt": "2025-12-23T07:01:53.033Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
