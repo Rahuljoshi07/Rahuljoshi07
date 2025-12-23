@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766513442650,
+      "repository": "hello-robot/stretch_ros2",
+      "issueTitle": "Confusing error message in move_to_position()",
+      "url": "https://github.com/hello-robot/stretch_ros2/issues/214",
+      "createdAt": "2025-12-23T18:10:42.650Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
