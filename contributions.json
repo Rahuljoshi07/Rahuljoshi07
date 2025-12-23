@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766475948335,
+      "repository": "markaggar/ha-media-card",
+      "issueTitle": "[Bug]: Showing Configuration Error on Exposed Media Screen (Android)",
+      "url": "https://github.com/markaggar/ha-media-card/issues/62",
+      "createdAt": "2025-12-23T07:45:48.335Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
