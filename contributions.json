@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766478759633,
+      "repository": "hackthebox/Hackster",
+      "issueTitle": "[Bug] - `Alembic` auto generate revision",
+      "url": "https://github.com/hackthebox/Hackster/issues/127",
+      "createdAt": "2025-12-23T08:32:39.633Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
