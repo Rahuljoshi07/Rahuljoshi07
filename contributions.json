@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766517164336,
+      "repository": "fedspendingtransparency/fiscal-data",
+      "issueTitle": "[Bug] ConnectionResetError",
+      "url": "https://github.com/fedspendingtransparency/fiscal-data/issues/1419",
+      "createdAt": "2025-12-23T19:12:44.336Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
