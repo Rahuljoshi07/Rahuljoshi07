@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1766512854725,
+      "id": 1766512890249,
       "repository": "mue/mue",
       "issueTitle": "[Bug] 中英文字体无法对齐",
       "url": "https://github.com/mue/mue/issues/1124",
-      "createdAt": "2025-12-23T18:00:54.725Z",
+      "createdAt": "2025-12-23T18:01:30.249Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
