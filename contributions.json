@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766514547575,
+      "repository": "TT-ReBORN/Georgia-ReBORN",
+      "issueTitle": "Georgia-ReBORN Wine Bugs on Linux",
+      "url": "https://github.com/TT-ReBORN/Georgia-ReBORN/issues/2",
+      "createdAt": "2025-12-23T18:29:07.575Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
