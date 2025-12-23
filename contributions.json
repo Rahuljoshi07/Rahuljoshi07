@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766459358449,
+      "repository": "JaredTherriault/ComfyUI-JNodes",
+      "issueTitle": "Image Drawer/Lora Preview error",
+      "url": "https://github.com/JaredTherriault/ComfyUI-JNodes/issues/25",
+      "createdAt": "2025-12-23T03:09:18.449Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
