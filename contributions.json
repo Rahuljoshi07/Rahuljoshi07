@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766502082863,
+      "repository": "elastic/apm-agent-python",
+      "issueTitle": "Fix arn table upload on release",
+      "url": "https://github.com/elastic/apm-agent-python/issues/2403",
+      "createdAt": "2025-12-23T15:01:22.863Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
