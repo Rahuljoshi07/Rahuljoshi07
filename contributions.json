@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766455499744,
+      "repository": "NullVoxPopuli/ember-data-resources",
+      "issueTitle": "@ember/test-waiters issue in build",
+      "url": "https://github.com/NullVoxPopuli/ember-data-resources/issues/449",
+      "createdAt": "2025-12-23T02:04:59.744Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
