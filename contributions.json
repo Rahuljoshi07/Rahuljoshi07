@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766453127582,
+      "repository": "TIGER-AI-Lab/verl-tool",
+      "issueTitle": "OOM Error: Excessive System RAM (750GB) usage during RL rollout phase",
+      "url": "https://github.com/TIGER-AI-Lab/verl-tool/issues/131",
+      "createdAt": "2025-12-23T01:25:27.582Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
