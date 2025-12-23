@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766487116017,
+      "repository": "home-assistant-HomeWhiz/home-assistant-HomeWhiz",
+      "issueTitle": "Error adding a cooker",
+      "url": "https://github.com/home-assistant-HomeWhiz/home-assistant-HomeWhiz/issues/352",
+      "createdAt": "2025-12-23T10:51:56.018Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
