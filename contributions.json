@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766451053612,
+      "repository": "duriantaco/skylos",
+      "issueTitle": "ModuleNotFoundError: No module named 'skylos.visitors.languages' when running 'skylos . --quality --danger'",
+      "url": "https://github.com/duriantaco/skylos/issues/56",
+      "createdAt": "2025-12-23T00:50:53.613Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
