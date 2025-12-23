@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766496754763,
+      "repository": "TobyBaril/EarlGrey",
+      "issueTitle": "TE family count error?",
+      "url": "https://github.com/TobyBaril/EarlGrey/issues/252",
+      "createdAt": "2025-12-23T13:32:34.764Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
