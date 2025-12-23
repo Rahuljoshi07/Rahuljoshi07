@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1766452039422,
-      "repository": "nextcloud/contacts",
-      "issueTitle": "iOS CardDAV always normalizes to principal and syncs system addressbooks (even if disabled)",
-      "url": "https://github.com/nextcloud/contacts/issues/4631",
-      "createdAt": "2025-12-23T01:07:19.423Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
