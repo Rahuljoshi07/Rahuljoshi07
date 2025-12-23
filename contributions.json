@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766498874856,
+      "repository": "nextcloud/contacts",
+      "issueTitle": "Contacts of a team not loading > App unusable after NC 31.0.12 Update",
+      "url": "https://github.com/nextcloud/contacts/issues/4924",
+      "createdAt": "2025-12-23T14:07:54.856Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
