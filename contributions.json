@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766512724600,
+      "repository": "ienone/douyu-qmx-pro",
+      "issueTitle": "优化设置逻辑&ui",
+      "url": "https://github.com/ienone/douyu-qmx-pro/issues/43",
+      "createdAt": "2025-12-23T17:58:44.600Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
