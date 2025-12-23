@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766501481102,
+      "repository": "HathorNetwork/hathor-wallet-mobile",
+      "issueTitle": "[Dashboard] Minor visual glitch on \"Tokens / Nano\" tab",
+      "url": "https://github.com/HathorNetwork/hathor-wallet-mobile/issues/788",
+      "createdAt": "2025-12-23T14:51:21.103Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
