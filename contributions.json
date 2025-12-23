@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766495596841,
+      "repository": "DrKaiyangZheng/VITAP",
+      "issueTitle": "ValueError: Cannot set a DataFrame with multiple columns to the single column sseqid_taxa_percentage",
+      "url": "https://github.com/DrKaiyangZheng/VITAP/issues/8",
+      "createdAt": "2025-12-23T13:13:16.841Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
