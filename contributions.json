@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766504269119,
+      "repository": "Jasons-impart/Create-Delight-Remake",
+      "issueTitle": "JEI Missing Items after Restart (Quantum Bridge Card & Others)",
+      "url": "https://github.com/Jasons-impart/Create-Delight-Remake/issues/1348",
+      "createdAt": "2025-12-23T15:37:49.119Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
