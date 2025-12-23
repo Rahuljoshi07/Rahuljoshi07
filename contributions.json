@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766491892491,
+      "repository": "carbon-design-system/carbon-components-vue",
+      "issueTitle": "Why are dropdown lists or tooltips obscured when adding `<cv-multi-select>` or `<cv-tooltip>` tags to the body of `<cv-data-table>`?",
+      "url": "https://github.com/carbon-design-system/carbon-components-vue/issues/1801",
+      "createdAt": "2025-12-23T12:11:32.492Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
