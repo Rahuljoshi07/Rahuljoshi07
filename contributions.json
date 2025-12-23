@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766511018662,
+      "repository": "foundryvtt/crucible",
+      "issueTitle": "Correct some issues with window size and vertical scrolling on different sized monitors",
+      "url": "https://github.com/foundryvtt/crucible/issues/515",
+      "createdAt": "2025-12-23T17:30:18.662Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
