@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766559874186,
+      "repository": "chflame163/ComfyUI_LayerStyle_Advance",
+      "issueTitle": "Error message occurred while importing the 'ComfyUI_LayerStyle_Advance' module.",
+      "url": "https://github.com/chflame163/ComfyUI_LayerStyle_Advance/issues/39",
+      "createdAt": "2025-12-24T07:04:34.186Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
