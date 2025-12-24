@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766562592236,
+      "repository": "ezra-bible-app/ezra-bible-app",
+      "issueTitle": "Issue when searching multiple words",
+      "url": "https://github.com/ezra-bible-app/ezra-bible-app/issues/1290",
+      "createdAt": "2025-12-24T07:49:52.236Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
