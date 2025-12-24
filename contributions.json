@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766605341415,
+      "repository": "fabriziosalmi/proxmox-lxc-autoscale-ml",
+      "issueTitle": "API - 429 - Too many requests",
+      "url": "https://github.com/fabriziosalmi/proxmox-lxc-autoscale-ml/issues/3",
+      "createdAt": "2025-12-24T19:42:21.415Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
