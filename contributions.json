@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766564591723,
+      "repository": "alibaba/RecIS",
+      "issueTitle": "[Bug] `trainer.train_and_evaluate` and `trainer.evaluate` not work",
+      "url": "https://github.com/alibaba/RecIS/issues/15",
+      "createdAt": "2025-12-24T08:23:11.723Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
