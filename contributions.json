@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1766551380052,
+      "id": 1766551411708,
       "repository": "rubyjs/mini_racer",
-      "issueTitle": "Error installing mini_racer v0.19.0 on darwin platform",
-      "url": "https://github.com/rubyjs/mini_racer/issues/359",
-      "createdAt": "2025-12-24T04:43:00.052Z",
+      "issueTitle": "Wrong linker path when building from source",
+      "url": "https://github.com/rubyjs/mini_racer/issues/358",
+      "createdAt": "2025-12-24T04:43:31.708Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
