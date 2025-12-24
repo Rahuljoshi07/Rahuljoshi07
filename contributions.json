@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766609778911,
+      "repository": "KhronosGroup/SPIRV-Visualizer",
+      "issueTitle": "Better error messages",
+      "url": "https://github.com/KhronosGroup/SPIRV-Visualizer/issues/25",
+      "createdAt": "2025-12-24T20:56:18.912Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
