@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766592111128,
+      "repository": "n00bcodr/Jellyfin-Enhanced",
+      "issueTitle": "🐛[BUG] Custom Pause Screen not working if moving mouse before default delay",
+      "url": "https://github.com/n00bcodr/Jellyfin-Enhanced/issues/212",
+      "createdAt": "2025-12-24T16:01:51.128Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
