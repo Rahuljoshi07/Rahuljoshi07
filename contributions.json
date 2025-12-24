@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766569097334,
+      "repository": "nextcloud/whiteboard",
+      "issueTitle": "Incorrect key binding hint for \"Eraser\" and \"Add reaction\"",
+      "url": "https://github.com/nextcloud/whiteboard/issues/886",
+      "createdAt": "2025-12-24T09:38:17.334Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
