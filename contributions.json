@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766585275230,
+      "repository": "w00000dy/WLED-GUI",
+      "issueTitle": "Consistent WLED Helper crash on reboot / autostart",
+      "url": "https://github.com/w00000dy/WLED-GUI/issues/10",
+      "createdAt": "2025-12-24T14:07:55.230Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
