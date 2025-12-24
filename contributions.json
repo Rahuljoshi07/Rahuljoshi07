@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1766608280894,
-      "repository": "Ascend/pytorch",
-      "issueTitle": "F.interpolate on NPU is REALLY slow, even slower than CPU",
-      "url": "https://github.com/Ascend/pytorch/issues/69",
-      "createdAt": "2025-12-24T20:31:20.894Z",
-      "type": "comment",
-      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
