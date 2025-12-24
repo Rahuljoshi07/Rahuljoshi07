@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766615295469,
+      "repository": "eslint/eslint.org",
+      "issueTitle": "Suggestion: Use `defineConfig` for downloaded configuration files",
+      "url": "https://github.com/eslint/eslint.org/issues/885",
+      "createdAt": "2025-12-24T22:28:15.469Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
