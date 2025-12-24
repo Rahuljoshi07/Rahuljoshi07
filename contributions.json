@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766552021879,
+      "repository": "oseymour/ScraperFC",
+      "issueTitle": "Understat scrape_league_tables fails with IndexError: list index out of range",
+      "url": "https://github.com/oseymour/ScraperFC/issues/71",
+      "createdAt": "2025-12-24T04:53:41.879Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
