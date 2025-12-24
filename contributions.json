@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766573854036,
+      "repository": "Deodat-Lawson/PDR_AI_v2",
+      "issueTitle": "UI bug when agentic search's reference make the chat box oversized",
+      "url": "https://github.com/Deodat-Lawson/PDR_AI_v2/issues/113",
+      "createdAt": "2025-12-24T10:57:34.036Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
