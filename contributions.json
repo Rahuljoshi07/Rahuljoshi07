@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766601227688,
+      "repository": "Louvivien/tradingapp",
+      "issueTitle": "Error Handling",
+      "url": "https://github.com/Louvivien/tradingapp/issues/13",
+      "createdAt": "2025-12-24T18:33:47.688Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
