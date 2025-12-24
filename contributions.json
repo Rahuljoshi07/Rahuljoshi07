@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766554769826,
+      "repository": "zhiyu1998/rconsole-plugin",
+      "issueTitle": "[Bug]: 小红书gif提取有误",
+      "url": "https://github.com/zhiyu1998/rconsole-plugin/issues/99",
+      "createdAt": "2025-12-24T05:39:29.826Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
