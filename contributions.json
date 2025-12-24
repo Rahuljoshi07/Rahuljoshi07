@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766555628872,
+      "repository": "pyiron/pyiron_base",
+      "issueTitle": "Job.copy_to fails in non-database mode",
+      "url": "https://github.com/pyiron/pyiron_base/issues/1742",
+      "createdAt": "2025-12-24T05:53:48.872Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
