@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766620601311,
+      "repository": "jatinkrmalik/LLMFeeder",
+      "issueTitle": "Fails to fetch headings and code blocksT",
+      "url": "https://github.com/jatinkrmalik/LLMFeeder/issues/66",
+      "createdAt": "2025-12-24T23:56:41.311Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
