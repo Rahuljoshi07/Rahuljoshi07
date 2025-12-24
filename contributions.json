@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766608702602,
+      "repository": "hCaptcha/react-hcaptcha",
+      "issueTitle": "Component is not compatible with dialog element",
+      "url": "https://github.com/hCaptcha/react-hcaptcha/issues/201",
+      "createdAt": "2025-12-24T20:38:22.603Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
