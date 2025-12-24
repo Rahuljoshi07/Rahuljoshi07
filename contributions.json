@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766564119905,
+      "repository": "smeup/ketchup",
+      "issueTitle": "kup-image html render error when both icon and placeholderIcon attribute in KupDataCell are present",
+      "url": "https://github.com/smeup/ketchup/issues/2354",
+      "createdAt": "2025-12-24T08:15:19.905Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
