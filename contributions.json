@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1766598226851,
+      "id": 1766598257947,
       "repository": "aws-lite/aws-lite",
-      "issueTitle": "SSO - cache filename is incorrect when using `sso_session`",
-      "url": "https://github.com/aws-lite/aws-lite/issues/166",
-      "createdAt": "2025-12-24T17:43:46.851Z",
+      "issueTitle": "Types have a dependency to @aws-sdk/client-s3, which is hundreds of packages",
+      "url": "https://github.com/aws-lite/aws-lite/issues/193",
+      "createdAt": "2025-12-24T17:44:17.947Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
