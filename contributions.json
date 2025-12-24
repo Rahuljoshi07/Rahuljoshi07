@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766586570888,
+      "repository": "AMD-AGI/GEAK-eval",
+      "issueTitle": "(Some) Performance data missing after running eval",
+      "url": "https://github.com/AMD-AGI/GEAK-eval/issues/11",
+      "createdAt": "2025-12-24T14:29:30.888Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
