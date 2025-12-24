@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766549313730,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Refactor badges update job: modularize handlers, introduce base class, and add comprehensive tests",
+      "url": "https://github.com/OWASP/Nest/issues/3019",
+      "createdAt": "2025-12-24T04:08:33.730Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
