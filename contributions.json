@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1766580938859,
-      "repository": "oracle/nosql-node-sdk",
-      "issueTitle": "TypeError: Cannot destructure property 'proxy' of 'this' as it is undefined. ",
-      "url": "https://github.com/oracle/nosql-node-sdk/issues/19",
-      "createdAt": "2025-12-24T12:55:38.859Z",
-      "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
