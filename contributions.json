@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766615842498,
+      "repository": "SREGym/SREGym",
+      "issueTitle": "Port exhaustion on long running cluster",
+      "url": "https://github.com/SREGym/SREGym/issues/411",
+      "createdAt": "2025-12-24T22:37:22.499Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
