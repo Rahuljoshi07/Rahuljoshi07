@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766586698840,
+      "repository": "Southpaw-TACTIC/TACTIC",
+      "issueTitle": "DropElementWdg Issue - Tactic 4.9",
+      "url": "https://github.com/Southpaw-TACTIC/TACTIC/issues/1763",
+      "createdAt": "2025-12-24T14:31:38.840Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
