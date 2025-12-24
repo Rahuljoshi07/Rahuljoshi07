@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766570837586,
+      "repository": "saoxia/erpnext_china",
+      "issueTitle": "点击 HRMS 提示: pymysql.err.OperationalError: (1054, \"Unknown column '_unit' in 'order clause'\") Possible source of error: erpnext_china (app)",
+      "url": "https://github.com/saoxia/erpnext_china/issues/130",
+      "createdAt": "2025-12-24T10:07:17.586Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
