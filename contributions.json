@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766591535312,
+      "repository": "Comfy-Org/workflow_templates",
+      "issueTitle": "[Template Bug]: Kandinsky 5.0 Video Lite workflow no video output",
+      "url": "https://github.com/Comfy-Org/workflow_templates/issues/432",
+      "createdAt": "2025-12-24T15:52:15.312Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
