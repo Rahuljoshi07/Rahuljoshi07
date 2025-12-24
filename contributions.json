@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766544294840,
+      "repository": "jtvberg/StreamDock",
+      "issueTitle": "error code e100 on netflix",
+      "url": "https://github.com/jtvberg/StreamDock/issues/19",
+      "createdAt": "2025-12-24T02:44:54.840Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
