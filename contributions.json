@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1766598815752,
-      "repository": "vamplabAI/sgr-agent-core",
-      "issueTitle": "Cleanup dependencies and add extra required tags",
-      "url": "https://github.com/vamplabAI/sgr-agent-core/issues/117",
-      "createdAt": "2025-12-24T17:53:35.752Z",
+      "id": 1766598842532,
+      "repository": "ServiceStack/llms",
+      "issueTitle": "ollama: attaching a file does not work/results in error 500/400 Bad request",
+      "url": "https://github.com/ServiceStack/llms/issues/11",
+      "createdAt": "2025-12-24T17:54:02.532Z",
       "type": "comment",
-      "content": "Consider using context managers (with statements) for resource management. (Suggested by Rahul Joshi..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
