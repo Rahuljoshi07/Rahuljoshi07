@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766584946971,
+      "repository": "OCA/OpenUpgrade",
+      "issueTitle": "[15.0-->16.0] hr_expense_sheet all report already paid AND reconciled need to be register payment of 0,00€ amount to access 'Entry journal'?",
+      "url": "https://github.com/OCA/OpenUpgrade/issues/5464",
+      "createdAt": "2025-12-24T14:02:26.971Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
