@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766618523895,
+      "repository": "exerciselibrary/exerciselibrary.github.io",
+      "issueTitle": "Total Load Calculation in Summary Screen Incorrect",
+      "url": "https://github.com/exerciselibrary/exerciselibrary.github.io/issues/129",
+      "createdAt": "2025-12-24T23:22:03.895Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
