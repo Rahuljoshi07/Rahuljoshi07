@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766557175332,
+      "repository": "kwindrem/GuiMods",
+      "issueTitle": "Installer optimization to prevent blank page",
+      "url": "https://github.com/kwindrem/GuiMods/issues/294",
+      "createdAt": "2025-12-24T06:19:35.332Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
