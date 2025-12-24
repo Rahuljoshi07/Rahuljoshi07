@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766567310495,
+      "repository": "strapi-community/plugin-io",
+      "issueTitle": "[Bug]: CollectionTyps with relations",
+      "url": "https://github.com/strapi-community/plugin-io/issues/82",
+      "createdAt": "2025-12-24T09:08:30.495Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
