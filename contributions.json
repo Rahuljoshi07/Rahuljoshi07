@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766572455890,
+      "repository": "Kruithne/wow.export",
+      "issueTitle": "Macos version corrupt",
+      "url": "https://github.com/Kruithne/wow.export/issues/472",
+      "createdAt": "2025-12-24T10:34:15.890Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
