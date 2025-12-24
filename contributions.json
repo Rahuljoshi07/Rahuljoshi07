@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766593456698,
+      "repository": "Deltakit/deltakit",
+      "issueTitle": "bug: `build-docs` workflow does not run when PR from forks",
+      "url": "https://github.com/Deltakit/deltakit/issues/137",
+      "createdAt": "2025-12-24T16:24:16.698Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
