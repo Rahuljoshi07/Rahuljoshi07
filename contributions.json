@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766594542119,
+      "repository": "Kamalisk/arkhamdb",
+      "issueTitle": "Chaos Option will not selection Deck Building permanents",
+      "url": "https://github.com/Kamalisk/arkhamdb/issues/688",
+      "createdAt": "2025-12-24T16:42:22.119Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
