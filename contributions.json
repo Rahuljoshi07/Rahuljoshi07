@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766689918272,
+      "repository": "eurostat/gridviz",
+      "issueTitle": "Pinch to zoom not centred when embedded",
+      "url": "https://github.com/eurostat/gridviz/issues/118",
+      "createdAt": "2025-12-25T19:11:58.272Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
