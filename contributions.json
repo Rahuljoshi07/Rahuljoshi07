@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766647377067,
+      "repository": "kernelci/kernelci-core",
+      "issueTitle": "Fetching k8s logs for incomplete k8s pods",
+      "url": "https://github.com/kernelci/kernelci-core/issues/2959",
+      "createdAt": "2025-12-25T07:22:57.067Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
