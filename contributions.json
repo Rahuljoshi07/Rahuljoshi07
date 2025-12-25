@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766671035872,
+      "repository": "xgui-client/X-GUI-BLOOKET-CLIENT",
+      "issueTitle": "Uncaught SyntaxError: Invalid destructuring assignment target",
+      "url": "https://github.com/xgui-client/X-GUI-BLOOKET-CLIENT/issues/12",
+      "createdAt": "2025-12-25T13:57:15.872Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
