@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766657704823,
+      "repository": "ailyProject/aily-blockly-libraries",
+      "issueTitle": "ai-vox初始化时遇见问题",
+      "url": "https://github.com/ailyProject/aily-blockly-libraries/issues/200",
+      "createdAt": "2025-12-25T10:15:04.823Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
