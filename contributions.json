@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766659460851,
+      "repository": "tenstorrent/tt-xla",
+      "issueTitle": "[Torch/XLA] Incorrect computation of torch.dot",
+      "url": "https://github.com/tenstorrent/tt-xla/issues/2672",
+      "createdAt": "2025-12-25T10:44:20.851Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
