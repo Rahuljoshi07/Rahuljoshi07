@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766664087716,
+      "repository": "2M4U/2m4u",
+      "issueTitle": ".env.template is missing",
+      "url": "https://github.com/2M4U/2m4u/issues/9",
+      "createdAt": "2025-12-25T12:01:27.716Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
