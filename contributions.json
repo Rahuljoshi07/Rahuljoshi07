@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766691996392,
+      "repository": "skillcreatorai/Ai-Agent-Skills",
+      "issueTitle": "[Bug] Opencode agents install",
+      "url": "https://github.com/skillcreatorai/Ai-Agent-Skills/issues/2",
+      "createdAt": "2025-12-25T19:46:36.392Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
