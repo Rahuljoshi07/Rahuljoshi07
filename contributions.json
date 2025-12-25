@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766681416405,
+      "repository": "VIAME/VIAME",
+      "issueTitle": "VIAME example server GPU errors",
+      "url": "https://github.com/VIAME/VIAME/issues/202",
+      "createdAt": "2025-12-25T16:50:16.405Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
