@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766703366245,
+      "repository": "jimporter/bfg9000",
+      "issueTitle": "Investigate inability to report error stacks in Python 3.14",
+      "url": "https://github.com/jimporter/bfg9000/issues/148",
+      "createdAt": "2025-12-25T22:56:06.246Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
