@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766637322323,
+      "repository": "CharlesPikachu/freeproxy",
+      "issueTitle": "[BUG] session.candidate_proxies 为空",
+      "url": "https://github.com/CharlesPikachu/freeproxy/issues/8",
+      "createdAt": "2025-12-25T04:35:22.323Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
