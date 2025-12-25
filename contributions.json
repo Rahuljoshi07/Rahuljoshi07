@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766658201372,
+      "repository": "Bithomp/frontend-react",
+      "issueTitle": "Issue your own currency - new page",
+      "url": "https://github.com/Bithomp/frontend-react/issues/476",
+      "createdAt": "2025-12-25T10:23:21.372Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
