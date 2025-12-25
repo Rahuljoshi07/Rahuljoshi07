@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766682380748,
+      "repository": "Vladimir-csp/uwsm",
+      "issueTitle": "Shutdown xdg-desktop-portal ordering issue",
+      "url": "https://github.com/Vladimir-csp/uwsm/issues/142",
+      "createdAt": "2025-12-25T17:06:20.748Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
