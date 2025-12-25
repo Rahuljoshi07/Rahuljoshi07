@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766672121734,
+      "repository": "MINT-SJTU/LeRobot-Anything-U-Arm",
+      "issueTitle": "Excellent work, but during the actual operation, I encountered the following issues:",
+      "url": "https://github.com/MINT-SJTU/LeRobot-Anything-U-Arm/issues/10",
+      "createdAt": "2025-12-25T14:15:21.734Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
