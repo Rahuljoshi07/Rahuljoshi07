@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766671451838,
+      "repository": "Comfy-Themes/Spicetify",
+      "issueTitle": "Black rectangles around window controls",
+      "url": "https://github.com/Comfy-Themes/Spicetify/issues/245",
+      "createdAt": "2025-12-25T14:04:11.838Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
