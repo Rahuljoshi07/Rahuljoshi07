@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766654239781,
+      "repository": "facebookresearch/balance",
+      "issueTitle": "[BUG] `pyre` errors",
+      "url": "https://github.com/facebookresearch/balance/issues/211",
+      "createdAt": "2025-12-25T09:17:19.781Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
