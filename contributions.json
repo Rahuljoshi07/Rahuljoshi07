@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766648475383,
+      "repository": "ProjectNeura/MIPCandy",
+      "issueTitle": "Support mixed precision",
+      "url": "https://github.com/ProjectNeura/MIPCandy/issues/179",
+      "createdAt": "2025-12-25T07:41:15.383Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
