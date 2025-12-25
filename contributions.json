@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766627812592,
+      "repository": "adam9899/MC-Eternal-2",
+      "issueTitle": "Bug When loading map after update",
+      "url": "https://github.com/adam9899/MC-Eternal-2/issues/760",
+      "createdAt": "2025-12-25T01:56:52.592Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
