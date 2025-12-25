@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766663061045,
+      "repository": "LMCache/LMCache-Ascend",
+      "issueTitle": "[Bug] Precision Issue on 310P (MindSpore) when LMCache-Ascend is enabled for short sequences",
+      "url": "https://github.com/LMCache/LMCache-Ascend/issues/104",
+      "createdAt": "2025-12-25T11:44:21.045Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
