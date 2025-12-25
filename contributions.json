@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766690390513,
+      "repository": "spdx/spdx-online-tools",
+      "issueTitle": "Improve the error message display for validate",
+      "url": "https://github.com/spdx/spdx-online-tools/issues/597",
+      "createdAt": "2025-12-25T19:19:50.513Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
