@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766636463352,
+      "repository": "anrayliu/pyvidplayer2",
+      "issueTitle": "[0.9.25] Known Bugs",
+      "url": "https://github.com/anrayliu/pyvidplayer2/issues/53",
+      "createdAt": "2025-12-25T04:21:03.352Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
