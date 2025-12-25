@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766621779999,
+      "repository": "mnot/thor",
+      "issueTitle": "TCP_NOTSENT_LOWAT",
+      "url": "https://github.com/mnot/thor/issues/33",
+      "createdAt": "2025-12-25T00:16:20.000Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
