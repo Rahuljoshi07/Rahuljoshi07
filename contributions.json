@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766701072654,
+      "repository": "MrPrimate/ddb-importer",
+      "issueTitle": "Can no longer adjust items to individually retain changed icons or resources etc during import as the button doesnt show up on the items anymore. when using tidy sheet.",
+      "url": "https://github.com/MrPrimate/ddb-importer/issues/544",
+      "createdAt": "2025-12-25T22:17:52.654Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
