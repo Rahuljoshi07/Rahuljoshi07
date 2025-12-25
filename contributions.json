@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766624545899,
+      "repository": "macrosalt/Microsoft-Rewards-bot",
+      "issueTitle": "command error",
+      "url": "https://github.com/macrosalt/Microsoft-Rewards-bot/issues/7",
+      "createdAt": "2025-12-25T01:02:25.899Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
