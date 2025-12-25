@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766684462884,
+      "repository": "flashphoner/flashphoner_client",
+      "issueTitle": "Issues with using the 2.0.203",
+      "url": "https://github.com/flashphoner/flashphoner_client/issues/16",
+      "createdAt": "2025-12-25T17:41:02.884Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
