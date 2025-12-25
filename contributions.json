@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766655769586,
+      "repository": "tenstorrent/tt-xla",
+      "issueTitle": "Frontend issues in bwd testing infra",
+      "url": "https://github.com/tenstorrent/tt-xla/issues/2493",
+      "createdAt": "2025-12-25T09:42:49.586Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
