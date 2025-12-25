@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766656942467,
+      "repository": "agentscope-ai/agentscope-samples",
+      "issueTitle": "[Bug]:You are using an unsupported command-ine flag: --no-sandbox. Stability and security will suffer",
+      "url": "https://github.com/agentscope-ai/agentscope-samples/issues/87",
+      "createdAt": "2025-12-25T10:02:22.467Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
