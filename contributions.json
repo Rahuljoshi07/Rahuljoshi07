@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766652237854,
+      "repository": "babalae/bettergi-scripts-list",
+      "issueTitle": "[Bug]: b服鸡腿好感和鳄鱼兽肉好感退出重登卡死",
+      "url": "https://github.com/babalae/bettergi-scripts-list/issues/2540",
+      "createdAt": "2025-12-25T08:43:57.854Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
