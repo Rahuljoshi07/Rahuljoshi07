@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766671227924,
+      "repository": "llnl/llnl.github.io",
+      "issueTitle": "Two left-hand filters disappear when scrolling all the way down the home page",
+      "url": "https://github.com/llnl/llnl.github.io/issues/724",
+      "createdAt": "2025-12-25T14:00:27.924Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
