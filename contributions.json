@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766689268412,
+      "repository": "taskiq-python/taskiq-faststream",
+      "issueTitle": "TypeError: BrokerWrapper.task.<locals>.<lambda>__taskiq_original() takes 0 positional arguments but 1 was given",
+      "url": "https://github.com/taskiq-python/taskiq-faststream/issues/78",
+      "createdAt": "2025-12-25T19:01:08.412Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
