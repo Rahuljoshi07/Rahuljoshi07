@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766685530553,
+      "repository": "aiming-lab/Agent0",
+      "issueTitle": "FileNotFoundError",
+      "url": "https://github.com/aiming-lab/Agent0/issues/21",
+      "createdAt": "2025-12-25T17:58:50.553Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
