@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766675196225,
+      "repository": "milvus-io/community",
+      "issueTitle": "[ERROR] Milvus Sizing Tool output incorrect configuration",
+      "url": "https://github.com/milvus-io/community/issues/464",
+      "createdAt": "2025-12-25T15:06:36.225Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
