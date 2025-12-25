@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766674959836,
+      "repository": "AhmadAkbarID/hydro",
+      "issueTitle": "The king bug",
+      "url": "https://github.com/AhmadAkbarID/hydro/issues/7",
+      "createdAt": "2025-12-25T15:02:39.836Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
