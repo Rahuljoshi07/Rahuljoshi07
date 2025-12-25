@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766687677846,
+      "repository": "muexxl/batcontrol",
+      "issueTitle": "Crash on startup: ConnectionClosedError (message too big) when fetching Home Assistant states",
+      "url": "https://github.com/muexxl/batcontrol/issues/241",
+      "createdAt": "2025-12-25T18:34:37.846Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
