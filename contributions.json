@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766657822187,
+      "repository": "dawidd6/action-send-mail",
+      "issueTitle": "Certificate error while sending email",
+      "url": "https://github.com/dawidd6/action-send-mail/issues/238",
+      "createdAt": "2025-12-25T10:17:02.187Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
