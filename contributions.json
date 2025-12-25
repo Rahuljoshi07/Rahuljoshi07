@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766695148384,
+      "repository": "tigattack/ansible-role-mergerfs",
+      "issueTitle": "Error on first install",
+      "url": "https://github.com/tigattack/ansible-role-mergerfs/issues/20",
+      "createdAt": "2025-12-25T20:39:08.384Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
