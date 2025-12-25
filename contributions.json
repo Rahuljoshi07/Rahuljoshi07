@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766635114899,
+      "repository": "ClanGenOfficial/clangen",
+      "issueTitle": "[BUG] cats cannot become mates despite events tab saying otherwise",
+      "url": "https://github.com/ClanGenOfficial/clangen/issues/4145",
+      "createdAt": "2025-12-25T03:58:34.899Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
