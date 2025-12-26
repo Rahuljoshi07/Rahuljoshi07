@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766782422213,
+      "repository": "anchore/vunnel",
+      "issueTitle": "Enhance SLES provider to pull in data on unfixed packages",
+      "url": "https://github.com/anchore/vunnel/issues/626",
+      "createdAt": "2025-12-26T20:53:42.213Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
