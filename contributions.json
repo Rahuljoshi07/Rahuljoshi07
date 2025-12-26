@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766758874325,
+      "repository": "pollen-robotics/reachy_mini",
+      "issueTitle": "Daemon become unresponsive - Random Hardware Communication Issue",
+      "url": "https://github.com/pollen-robotics/reachy_mini/issues/623",
+      "createdAt": "2025-12-26T14:21:14.325Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
