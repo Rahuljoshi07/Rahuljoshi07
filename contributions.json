@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766748462679,
+      "repository": "Zendure/Zendure-HA",
+      "issueTitle": "[Bug] bypass not work well - Version 1.1.4-pre10",
+      "url": "https://github.com/Zendure/Zendure-HA/issues/911",
+      "createdAt": "2025-12-26T11:27:42.679Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
