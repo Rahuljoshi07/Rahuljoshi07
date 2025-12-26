@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766719767878,
+      "repository": "Seeed-Studio/wiki-documents",
+      "issueTitle": "Seeed Studio IoT Button V2 errors",
+      "url": "https://github.com/Seeed-Studio/wiki-documents/issues/3654",
+      "createdAt": "2025-12-26T03:29:27.878Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
