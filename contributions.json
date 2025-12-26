@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766768751165,
+      "repository": "entermedia-community/entermedia-server",
+      "issueTitle": "Issue with eclipse ",
+      "url": "https://github.com/entermedia-community/entermedia-server/issues/4",
+      "createdAt": "2025-12-26T17:05:51.165Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
