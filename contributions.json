@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766728174435,
+      "repository": "mosheng1/QuickClipboard",
+      "issueTitle": "[Bug] 对文件图标的拖放不符合预期",
+      "url": "https://github.com/mosheng1/QuickClipboard/issues/211",
+      "createdAt": "2025-12-26T05:49:34.435Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
