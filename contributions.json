@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766734361928,
+      "repository": "jihchi/mermaid.ink",
+      "issueTitle": "CDN cache error result",
+      "url": "https://github.com/jihchi/mermaid.ink/issues/631",
+      "createdAt": "2025-12-26T07:32:41.928Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
