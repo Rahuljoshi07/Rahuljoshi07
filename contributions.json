@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766789125202,
+      "repository": "n00bcodr/Jellyfin-Enhanced",
+      "issueTitle": "🐛[BUG]",
+      "url": "https://github.com/n00bcodr/Jellyfin-Enhanced/issues/241",
+      "createdAt": "2025-12-26T22:45:25.202Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
