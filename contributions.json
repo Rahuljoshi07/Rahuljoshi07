@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1766773696019,
+      "id": 1766773725145,
       "repository": "eurostat/gridviz",
-      "issueTitle": "gridviz.GeoJSONLayer polygon feature support",
-      "url": "https://github.com/eurostat/gridviz/issues/158",
-      "createdAt": "2025-12-26T18:28:16.019Z",
+      "issueTitle": "Pinch to zoom not centred when embedded",
+      "url": "https://github.com/eurostat/gridviz/issues/118",
+      "createdAt": "2025-12-26T18:28:45.146Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
