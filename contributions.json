@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766714483042,
+      "repository": "SimpleAccounts/SimpleAccounts-UAE",
+      "issueTitle": "[BUG] Backend 500 Error: Contact List API",
+      "url": "https://github.com/SimpleAccounts/SimpleAccounts-UAE/issues/333",
+      "createdAt": "2025-12-26T02:01:23.042Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
