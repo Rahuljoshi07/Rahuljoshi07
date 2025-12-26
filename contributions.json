@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766744734228,
+      "repository": "jsdom/whatwg-url",
+      "issueTitle": "What to do about validation errors",
+      "url": "https://github.com/jsdom/whatwg-url/issues/156",
+      "createdAt": "2025-12-26T10:25:34.228Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
