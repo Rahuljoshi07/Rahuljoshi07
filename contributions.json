@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766772342526,
+      "repository": "sphinx-toolbox/sphinx-pyproject",
+      "issueTitle": "0.3.0: documentation build fails",
+      "url": "https://github.com/sphinx-toolbox/sphinx-pyproject/issues/38",
+      "createdAt": "2025-12-26T18:05:42.526Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
