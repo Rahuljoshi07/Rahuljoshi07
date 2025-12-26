@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1766743036922,
+      "id": 1766743081653,
       "repository": "oldcordapp/OldcordV3",
-      "issueTitle": "Denying READ_MESSAGES from everyone role bugs member list for those who have permission to read messages in the channel",
-      "url": "https://github.com/oldcordapp/OldcordV3/issues/94",
-      "createdAt": "2025-12-26T09:57:16.922Z",
+      "issueTitle": "Removing channel overwrites doesn't emit an update in the DB",
+      "url": "https://github.com/oldcordapp/OldcordV3/issues/95",
+      "createdAt": "2025-12-26T09:58:01.653Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
