@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766709501321,
+      "repository": "Thrillberg/imperial",
+      "issueTitle": "Convoy bug",
+      "url": "https://github.com/Thrillberg/imperial/issues/855",
+      "createdAt": "2025-12-26T00:38:21.322Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
