@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766789268168,
+      "repository": "AAA3A-AAA3A/AAA3A-cogs",
+      "issueTitle": "IP Cog error on trying to get host IP",
+      "url": "https://github.com/AAA3A-AAA3A/AAA3A-cogs/issues/92",
+      "createdAt": "2025-12-26T22:47:48.168Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
