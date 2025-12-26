@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766743586632,
+      "repository": "electh/ReactFlux",
+      "issueTitle": "[Bug] Misarranged layout on mobile in article view in PWA mode",
+      "url": "https://github.com/electh/ReactFlux/issues/498",
+      "createdAt": "2025-12-26T10:06:26.632Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
