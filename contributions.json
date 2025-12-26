@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766729855189,
+      "repository": "simonw/claude-code-transcripts",
+      "issueTitle": "UnicodeEncodeError on Windows when session contains special characters",
+      "url": "https://github.com/simonw/claude-code-transcripts/issues/6",
+      "createdAt": "2025-12-26T06:17:35.189Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
