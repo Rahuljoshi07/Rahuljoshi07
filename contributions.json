@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766732477753,
+      "repository": "ThePansmith/Monifactory",
+      "issueTitle": "[Bug]: Ender IO conduits are uncraftable",
+      "url": "https://github.com/ThePansmith/Monifactory/issues/2397",
+      "createdAt": "2025-12-26T07:01:17.753Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
