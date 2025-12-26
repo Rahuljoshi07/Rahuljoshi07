@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766783875596,
+      "repository": "khiqwq/owner_auth_plugin",
+      "issueTitle": "[Bug] 0.12.0 的麦麦无法加载此插件",
+      "url": "https://github.com/khiqwq/owner_auth_plugin/issues/9",
+      "createdAt": "2025-12-26T21:17:55.596Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
