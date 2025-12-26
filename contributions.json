@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1766713192619,
+      "id": 1766713248446,
       "repository": "Readme-Workflows/recent-activity",
       "issueTitle": "Bug report: Amount in commit logs is undefined",
       "url": "https://github.com/Readme-Workflows/recent-activity/issues/348",
-      "createdAt": "2025-12-26T01:39:52.620Z",
+      "createdAt": "2025-12-26T01:40:48.446Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
