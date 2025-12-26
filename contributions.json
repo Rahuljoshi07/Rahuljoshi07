@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766745256402,
+      "repository": "avniproject/avni-client",
+      "issueTitle": "Add needed logs to figure out below issues",
+      "url": "https://github.com/avniproject/avni-client/issues/1806",
+      "createdAt": "2025-12-26T10:34:16.402Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
