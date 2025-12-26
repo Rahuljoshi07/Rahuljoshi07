@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766747636407,
+      "repository": "anxdpanic/plugin.video.tubed",
+      "issueTitle": "[403] The request can't be completed because you have exceeded your quota",
+      "url": "https://github.com/anxdpanic/plugin.video.tubed/issues/226",
+      "createdAt": "2025-12-26T11:13:56.407Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
