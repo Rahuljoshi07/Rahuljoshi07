@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766727589229,
+      "repository": "G1213123/TrafficSign",
+      "issueTitle": "dxf export chinese character outline intersection not align on the outline",
+      "url": "https://github.com/G1213123/TrafficSign/issues/12",
+      "createdAt": "2025-12-26T05:39:49.229Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
