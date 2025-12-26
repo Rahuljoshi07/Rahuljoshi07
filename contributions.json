@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766733448617,
+      "repository": "Shasnow/StarRailAssistant",
+      "issueTitle": "[BUG] 货币战争, 上人触发盛会之星后, 没有选择巨星, 直接点出战, 出战无效",
+      "url": "https://github.com/Shasnow/StarRailAssistant/issues/93",
+      "createdAt": "2025-12-26T07:17:28.617Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
