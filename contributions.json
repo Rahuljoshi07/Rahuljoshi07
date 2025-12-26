@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766741986443,
+      "repository": "varshneydevansh/FilterTube",
+      "issueTitle": "bug: The home page collab video 3 dot UI broken",
+      "url": "https://github.com/varshneydevansh/FilterTube/issues/28",
+      "createdAt": "2025-12-26T09:39:46.443Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
