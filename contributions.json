@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766733931073,
+      "repository": "MrAntares/roBrowserLegacy",
+      "issueTitle": "Itemlink bug on latest git",
+      "url": "https://github.com/MrAntares/roBrowserLegacy/issues/633",
+      "createdAt": "2025-12-26T07:25:31.073Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
