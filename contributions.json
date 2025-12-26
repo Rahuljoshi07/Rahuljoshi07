@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766763315676,
+      "repository": "prolix-oc/SillyTavern-SimTracker",
+      "issueTitle": "403 Forbidden Error",
+      "url": "https://github.com/prolix-oc/SillyTavern-SimTracker/issues/8",
+      "createdAt": "2025-12-26T15:35:15.676Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
