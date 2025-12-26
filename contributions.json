@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766724072467,
+      "repository": "bransoned/MemorEasy",
+      "issueTitle": "[Bug] The audio is cooked in all files, and why are there 2 video files for everyting?",
+      "url": "https://github.com/bransoned/MemorEasy/issues/35",
+      "createdAt": "2025-12-26T04:41:12.467Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
