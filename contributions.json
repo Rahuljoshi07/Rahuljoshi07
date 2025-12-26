@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766716613377,
+      "repository": "sgl-project/SpecForge",
+      "issueTitle": "Poor Chinese Performance in EAGLE3 Model Due to Lack of Chinese Training Data",
+      "url": "https://github.com/sgl-project/SpecForge/issues/388",
+      "createdAt": "2025-12-26T02:36:53.377Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
