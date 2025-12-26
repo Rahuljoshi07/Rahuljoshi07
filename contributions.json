@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766776033092,
+      "repository": "tree-sitter-grammars/tree-sitter-lua",
+      "issueTitle": "bug: field names in table constructors are impossible to highlight correctly",
+      "url": "https://github.com/tree-sitter-grammars/tree-sitter-lua/issues/61",
+      "createdAt": "2025-12-26T19:07:13.092Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
