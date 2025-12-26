@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766753156566,
+      "repository": "remittor/zapret-openwrt",
+      "issueTitle": "[BUG] zapret и zapret2 в одном билде",
+      "url": "https://github.com/remittor/zapret-openwrt/issues/589",
+      "createdAt": "2025-12-26T12:45:56.566Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
