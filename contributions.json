@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766781551209,
+      "repository": "reagento/dishka",
+      "issueTitle": "Protocol in the list of base classes breaks the introspection of __init__",
+      "url": "https://github.com/reagento/dishka/issues/628",
+      "createdAt": "2025-12-26T20:39:11.209Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
