@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766757619664,
+      "repository": "kirillzhosul/gofra",
+      "issueTitle": "Always treat string as C-Strings, without an size",
+      "url": "https://github.com/kirillzhosul/gofra/issues/27",
+      "createdAt": "2025-12-26T14:00:19.664Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
