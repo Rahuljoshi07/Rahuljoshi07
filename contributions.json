@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766765861467,
+      "repository": "Rello/analytics",
+      "issueTitle": "Nullpointer in DataloadController::importFile()",
+      "url": "https://github.com/Rello/analytics/issues/560",
+      "createdAt": "2025-12-26T16:17:41.468Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
