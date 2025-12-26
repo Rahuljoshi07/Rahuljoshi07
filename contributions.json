@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766720069110,
+      "repository": "kneave/climate-scheduler",
+      "issueTitle": "\"Member Entities\" toggle does not expand",
+      "url": "https://github.com/kneave/climate-scheduler/issues/45",
+      "createdAt": "2025-12-26T03:34:29.110Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
