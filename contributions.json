@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766751002253,
+      "repository": "OHDSI/DataQualityDashboard",
+      "issueTitle": "Split CONCEPT_RECORD_COMPLETENESS for required vs non-required",
+      "url": "https://github.com/OHDSI/DataQualityDashboard/issues/620",
+      "createdAt": "2025-12-26T12:10:02.253Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
