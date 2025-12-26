@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766741035336,
+      "repository": "kernelkit/infix",
+      "issueTitle": "RPi 4B with 1 or 8 GiB RAM does not boot",
+      "url": "https://github.com/kernelkit/infix/issues/1314",
+      "createdAt": "2025-12-26T09:23:55.336Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
