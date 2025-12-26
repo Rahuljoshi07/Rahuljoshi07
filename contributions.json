@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766708703065,
+      "repository": "kakaroto/Beyond20",
+      "issueTitle": "Dueling Fighting Style damage not being applied to damage.",
+      "url": "https://github.com/kakaroto/Beyond20/issues/1313",
+      "createdAt": "2025-12-26T00:25:03.065Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
