@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766743781940,
+      "repository": "andydandy74/ClockworkForDynamo",
+      "issueTitle": "[Bug] Room.InsertsOfBoundariesByCategory fails",
+      "url": "https://github.com/andydandy74/ClockworkForDynamo/issues/502",
+      "createdAt": "2025-12-26T10:09:41.940Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
