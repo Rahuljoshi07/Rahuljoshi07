@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766710775365,
+      "repository": "VIAME/VIAME",
+      "issueTitle": "Minor issue on loaded annotations freezing",
+      "url": "https://github.com/VIAME/VIAME/issues/205",
+      "createdAt": "2025-12-26T00:59:35.365Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
