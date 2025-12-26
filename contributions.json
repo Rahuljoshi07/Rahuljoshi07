@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766784896707,
+      "repository": "Gabominated/PCSX2",
+      "issueTitle": "[50/60FPS patch bugs] The X-Files: Resist or Serve",
+      "url": "https://github.com/Gabominated/PCSX2/issues/21",
+      "createdAt": "2025-12-26T21:34:56.707Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
