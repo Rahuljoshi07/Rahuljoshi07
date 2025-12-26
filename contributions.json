@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766755981879,
+      "repository": "strawberry-graphql/strawberry-django",
+      "issueTitle": "Reversed naming for `OneToManyInput` & `ManyToOneInput`",
+      "url": "https://github.com/strawberry-graphql/strawberry-django/issues/826",
+      "createdAt": "2025-12-26T13:33:01.879Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
