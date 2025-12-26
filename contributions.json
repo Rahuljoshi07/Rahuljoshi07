@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766749899719,
+      "repository": "NeteaseCloudMusicApiEnhanced/api-enhanced",
+      "issueTitle": "[BUG]: `/voicelist/search` 接口无法获取到播客数据",
+      "url": "https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced/issues/69",
+      "createdAt": "2025-12-26T11:51:39.720Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
