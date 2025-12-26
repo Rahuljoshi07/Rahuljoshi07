@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766762702442,
+      "repository": "pl4nty/anutimetable",
+      "issueTitle": "Assuming each course code has only one class per session",
+      "url": "https://github.com/pl4nty/anutimetable/issues/513",
+      "createdAt": "2025-12-26T15:25:02.442Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
