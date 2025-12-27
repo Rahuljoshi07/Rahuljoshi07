@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1766860808088,
-      "repository": "bnayalivne/silvia-pid",
-      "issueTitle": "error: no matching function for call to 'WiFiClass::onEvent(std::_Bind_helper<false, void (WiFiManager::*)(arduino_event_id_t, system_event_info_t), WiFiManager*, const std::_Placeholder<1>&, const std::_Placeholder<2>&>::type)'",
-      "url": "https://github.com/bnayalivne/silvia-pid/issues/3",
-      "createdAt": "2025-12-27T18:40:08.088Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
