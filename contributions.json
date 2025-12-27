@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766800557760,
+      "repository": "qx-labs/agents-deep-research",
+      "issueTitle": "[Bug] _execute_tools() overwrites results when multiple AgentTasks share the same gap and agent",
+      "url": "https://github.com/qx-labs/agents-deep-research/issues/18",
+      "createdAt": "2025-12-27T01:55:57.760Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
