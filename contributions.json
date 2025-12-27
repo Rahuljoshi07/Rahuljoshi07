@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766866576978,
+      "repository": "ci-lab-cz/streamd",
+      "issueTitle": "MCPB.py Gaussian Optimization Error — Request to use Cartesian coordinates for Gaussian geometry optimization",
+      "url": "https://github.com/ci-lab-cz/streamd/issues/39",
+      "createdAt": "2025-12-27T20:16:16.979Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
