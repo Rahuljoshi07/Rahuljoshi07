@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1766794895508,
+      "id": 1766794926916,
       "repository": "nextcloud/assistant",
-      "issueTitle": "Copy result with \"<\" or \">\" are replaced with entity name (&lt; and &gt;)",
-      "url": "https://github.com/nextcloud/assistant/issues/432",
-      "createdAt": "2025-12-27T00:21:35.508Z",
+      "issueTitle": "Copy result in ``` tags only, not the complete text",
+      "url": "https://github.com/nextcloud/assistant/issues/433",
+      "createdAt": "2025-12-27T00:22:06.916Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
