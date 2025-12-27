@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766819437898,
+      "repository": "PavelBlend/blender-xray",
+      "issueTitle": "Ошибка при попытке экспортировать в .anm",
+      "url": "https://github.com/PavelBlend/blender-xray/issues/868",
+      "createdAt": "2025-12-27T07:10:37.898Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
