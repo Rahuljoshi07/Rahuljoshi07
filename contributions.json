@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1766844595943,
+      "id": 1766844635110,
       "repository": "oldcordapp/OldcordV3",
       "issueTitle": "Use discord's official error codes/messages",
       "url": "https://github.com/oldcordapp/OldcordV3/issues/64",
-      "createdAt": "2025-12-27T14:09:55.943Z",
+      "createdAt": "2025-12-27T14:10:35.111Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
