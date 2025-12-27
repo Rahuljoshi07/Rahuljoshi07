@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1766857443017,
+      "id": 1766857473861,
       "repository": "tomkp/smartcard",
       "issueTitle": "Enhance mock error scenarios",
       "url": "https://github.com/tomkp/smartcard/issues/52",
-      "createdAt": "2025-12-27T17:44:03.017Z",
+      "createdAt": "2025-12-27T17:44:33.861Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
