@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1766857227810,
+      "id": 1766857259125,
       "repository": "tomkp/smartcard",
       "issueTitle": "Enhance mock error scenarios",
       "url": "https://github.com/tomkp/smartcard/issues/52",
-      "createdAt": "2025-12-27T17:40:27.811Z",
+      "createdAt": "2025-12-27T17:40:59.125Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
