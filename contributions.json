@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766820372260,
+      "repository": "remittor/zapret-openwrt",
+      "issueTitle": "[BUG] Полностью отваливается интернет",
+      "url": "https://github.com/remittor/zapret-openwrt/issues/592",
+      "createdAt": "2025-12-27T07:26:12.261Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
