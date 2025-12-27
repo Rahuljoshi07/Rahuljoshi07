@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766824805220,
+      "repository": "badri-s2001/antigravity-claude-proxy",
+      "issueTitle": "Error: \"Max retries exceeded\"",
+      "url": "https://github.com/badri-s2001/antigravity-claude-proxy/issues/4",
+      "createdAt": "2025-12-27T08:40:05.220Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
