@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766849456673,
+      "repository": "SodaCodeSave/StellaSora-Auto-Helper",
+      "issueTitle": "Bug汇总：领取任务无限循环、体力领取未返回首页就寻活动等",
+      "url": "https://github.com/SodaCodeSave/StellaSora-Auto-Helper/issues/4",
+      "createdAt": "2025-12-27T15:30:56.673Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
