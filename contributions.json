@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766873679265,
+      "repository": "metarhia/metalog",
+      "issueTitle": "Support multiple write destinations by logger.",
+      "url": "https://github.com/metarhia/metalog/issues/202",
+      "createdAt": "2025-12-27T22:14:39.265Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
