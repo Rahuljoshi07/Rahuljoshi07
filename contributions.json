@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766798019191,
+      "repository": "nextcloud/mail",
+      "issueTitle": "Inline images cannot be saved even when they display correctly",
+      "url": "https://github.com/nextcloud/mail/issues/12080",
+      "createdAt": "2025-12-27T01:13:39.191Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
