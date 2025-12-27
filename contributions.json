@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766798111808,
+      "repository": "nextcloud/maps",
+      "issueTitle": "Make app compatible with NC32",
+      "url": "https://github.com/nextcloud/maps/issues/1467",
+      "createdAt": "2025-12-27T01:15:11.808Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
