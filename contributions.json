@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766803509073,
+      "repository": "AISBench/benchmark",
+      "issueTitle": "[Bug] 评测mmmu数据集最后分数偏低",
+      "url": "https://github.com/AISBench/benchmark/issues/30",
+      "createdAt": "2025-12-27T02:45:09.073Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
