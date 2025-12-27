@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766820604260,
+      "repository": "remittor/zapret-openwrt",
+      "issueTitle": "[BUG] При запущенном zapret, на android tv подключение к сети с ограничениями",
+      "url": "https://github.com/remittor/zapret-openwrt/issues/591",
+      "createdAt": "2025-12-27T07:30:04.260Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
