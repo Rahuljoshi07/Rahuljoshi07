@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766859733038,
+      "repository": "cpriest/SnapLinksPlus",
+      "issueTitle": "Font Weight Grabbing the Smaller Links",
+      "url": "https://github.com/cpriest/SnapLinksPlus/issues/535",
+      "createdAt": "2025-12-27T18:22:13.038Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
