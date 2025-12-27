@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766833274031,
+      "repository": "bellini666/django-choices-field",
+      "issueTitle": "Type annotations for `verbose_name` and `help_text` doesn't allow lazy translations",
+      "url": "https://github.com/bellini666/django-choices-field/issues/32",
+      "createdAt": "2025-12-27T11:01:14.031Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
