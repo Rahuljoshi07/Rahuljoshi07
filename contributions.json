@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766848518048,
+      "repository": "sh2/extension-summarize-translate-gemini",
+      "issueTitle": "Unable to obtain YouTube transcripts (December 2025).",
+      "url": "https://github.com/sh2/extension-summarize-translate-gemini/issues/37",
+      "createdAt": "2025-12-27T15:15:18.048Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
