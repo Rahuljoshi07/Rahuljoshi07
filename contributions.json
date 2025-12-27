@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766838139746,
+      "repository": "wellenvogel/avnav",
+      "issueTitle": "Support for older SD card formats",
+      "url": "https://github.com/wellenvogel/avnav/issues/534",
+      "createdAt": "2025-12-27T12:22:19.747Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
