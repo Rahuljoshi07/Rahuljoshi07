@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766839759534,
+      "repository": "openwisp/openwisp-network-topology",
+      "issueTitle": "[change] Load netjsongraph.js from openwisp-utils",
+      "url": "https://github.com/openwisp/openwisp-network-topology/issues/272",
+      "createdAt": "2025-12-27T12:49:19.534Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
