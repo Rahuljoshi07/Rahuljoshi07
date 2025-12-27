@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766830004889,
+      "repository": "MarketSquare/robotframework-robocop",
+      "issueTitle": "Error message link to Robocop documentation displayed by Robocop doesn't work (404 - Not found)",
+      "url": "https://github.com/MarketSquare/robotframework-robocop/issues/1602",
+      "createdAt": "2025-12-27T10:06:44.889Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
