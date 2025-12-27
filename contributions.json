@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766876014533,
+      "repository": "dalenewman/OrchardCore.Transformalize",
+      "issueTitle": "Bulk Action failed to run an ADO command against an \"output\" connection.",
+      "url": "https://github.com/dalenewman/OrchardCore.Transformalize/issues/6",
+      "createdAt": "2025-12-27T22:53:34.533Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
