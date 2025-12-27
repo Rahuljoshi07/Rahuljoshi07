@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766835842352,
+      "repository": "nextcloud/text",
+      "issueTitle": "Adding a document (odt, doc, etc.) to a markdown file creates a too small widget",
+      "url": "https://github.com/nextcloud/text/issues/8119",
+      "createdAt": "2025-12-27T11:44:02.352Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
