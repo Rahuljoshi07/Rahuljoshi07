@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1766836992431,
+      "id": 1766837025572,
       "repository": "oldcordapp/OldcordV3",
-      "issueTitle": "Use discord's official error codes/messages",
-      "url": "https://github.com/oldcordapp/OldcordV3/issues/64",
-      "createdAt": "2025-12-27T12:03:12.431Z",
+      "issueTitle": "Denying READ_MESSAGES from everyone role bugs member list for those who have permission to read messages in the channel",
+      "url": "https://github.com/oldcordapp/OldcordV3/issues/94",
+      "createdAt": "2025-12-27T12:03:45.572Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
