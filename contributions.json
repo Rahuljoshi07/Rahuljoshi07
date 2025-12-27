@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766796947454,
+      "repository": "nextcloud/integration_github",
+      "issueTitle": "Change from moments library to composable for relative time",
+      "url": "https://github.com/nextcloud/integration_github/issues/161",
+      "createdAt": "2025-12-27T00:55:47.454Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
