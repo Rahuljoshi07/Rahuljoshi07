@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766851179459,
+      "repository": "NeptuneHub/AudioMuse-AI",
+      "issueTitle": "[BUG] Clustering returns HTTP 400 when using openAI endpoint for playlist naming",
+      "url": "https://github.com/NeptuneHub/AudioMuse-AI/issues/239",
+      "createdAt": "2025-12-27T15:59:39.459Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
