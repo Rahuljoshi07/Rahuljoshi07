@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766811111006,
+      "repository": "FPGAwars/apio",
+      "issueTitle": "ecppll generates a PLL module with lint errors",
+      "url": "https://github.com/FPGAwars/apio/issues/670",
+      "createdAt": "2025-12-27T04:51:51.006Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
