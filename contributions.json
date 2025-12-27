@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766801686710,
+      "repository": "LibreSign/libresign",
+      "issueTitle": "Failed to merge PDF with footer ",
+      "url": "https://github.com/LibreSign/libresign/issues/6235",
+      "createdAt": "2025-12-27T02:14:46.710Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
