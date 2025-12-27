@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766820781513,
+      "repository": "remittor/zapret-openwrt",
+      "issueTitle": "Ошибка при установке Zapret",
+      "url": "https://github.com/remittor/zapret-openwrt/issues/590",
+      "createdAt": "2025-12-27T07:33:01.514Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
