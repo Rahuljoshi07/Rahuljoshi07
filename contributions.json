@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766844336550,
+      "repository": "DjangoCRM/django-crm",
+      "issueTitle": "Pass the current `query_string` to the URL of the remove duplicates button.",
+      "url": "https://github.com/DjangoCRM/django-crm/issues/359",
+      "createdAt": "2025-12-27T14:05:36.550Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. This suggestion is particularly relevant..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
