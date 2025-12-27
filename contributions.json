@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766800629145,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Extend Existing /owasp Command",
+      "url": "https://github.com/OWASP/Nest/issues/3043",
+      "createdAt": "2025-12-27T01:57:09.145Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
