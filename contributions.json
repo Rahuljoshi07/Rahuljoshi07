@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1766860117970,
+      "id": 1766860145780,
       "repository": "code-423n4/code423n4.com",
       "issueTitle": "[BUG] Join Code4rena Discord Link Expired",
       "url": "https://github.com/code-423n4/code423n4.com/issues/17284",
-      "createdAt": "2025-12-27T18:28:37.970Z",
+      "createdAt": "2025-12-27T18:29:05.780Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
