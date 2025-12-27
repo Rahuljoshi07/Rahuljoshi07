@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1766878581189,
+      "id": 1766878619219,
       "repository": "55gms/55GMS",
-      "issueTitle": "[Bug]: ERROR MODULE NOT FOUND",
-      "url": "https://github.com/55gms/55GMS/issues/149",
-      "createdAt": "2025-12-27T23:36:21.189Z",
+      "issueTitle": "[Bug]: It takes so long to build the codespace",
+      "url": "https://github.com/55gms/55GMS/issues/151",
+      "createdAt": "2025-12-27T23:36:59.219Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
