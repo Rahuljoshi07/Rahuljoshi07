@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766841984542,
+      "repository": "oldcordapp/OldcordV3",
+      "issueTitle": "Use discord's official error codes/messages",
+      "url": "https://github.com/oldcordapp/OldcordV3/issues/64",
+      "createdAt": "2025-12-27T13:26:24.542Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
