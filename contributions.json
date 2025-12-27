@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766794895508,
+      "repository": "nextcloud/assistant",
+      "issueTitle": "Copy result with \"<\" or \">\" are replaced with entity name (&lt; and &gt;)",
+      "url": "https://github.com/nextcloud/assistant/issues/432",
+      "createdAt": "2025-12-27T00:21:35.508Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
