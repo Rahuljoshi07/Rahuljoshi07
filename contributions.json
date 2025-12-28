@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766961764315,
+      "repository": "caprover/one-click-apps",
+      "issueTitle": "App issue: formbrick",
+      "url": "https://github.com/caprover/one-click-apps/issues/1265",
+      "createdAt": "2025-12-28T22:42:44.315Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
