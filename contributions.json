@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766943967209,
+      "repository": "O-X-L/ansible-opnsense",
+      "issueTitle": "Problem: gateway module => Fields missing in API-response",
+      "url": "https://github.com/O-X-L/ansible-opnsense/issues/366",
+      "createdAt": "2025-12-28T17:46:07.209Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
