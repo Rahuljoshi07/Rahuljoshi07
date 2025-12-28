@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766930869688,
+      "repository": "thecem/octopus_germany",
+      "issueTitle": "0.0.80: The sensor for the intelligent dispatch no longer works",
+      "url": "https://github.com/thecem/octopus_germany/issues/72",
+      "createdAt": "2025-12-28T14:07:49.688Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
