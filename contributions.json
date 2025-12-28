@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766922282207,
+      "repository": "hillelkingqt/GeminiDesk",
+      "issueTitle": "[Bug] IME candidate window does not appear when typing in non-English languages (e.g., Chinese)",
+      "url": "https://github.com/hillelkingqt/GeminiDesk/issues/190",
+      "createdAt": "2025-12-28T11:44:42.207Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
