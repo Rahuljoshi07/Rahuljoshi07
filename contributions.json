@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766894161985,
+      "repository": "ytdl-patched/ytdl-patched",
+      "issueTitle": "Can't build the code with Python 3.11",
+      "url": "https://github.com/ytdl-patched/ytdl-patched/issues/93",
+      "createdAt": "2025-12-28T03:56:01.985Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
