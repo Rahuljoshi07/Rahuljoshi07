@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766906635853,
+      "repository": "technomancer702/nodecast-tv",
+      "issueTitle": "ERROR: for nodecast-tv  Cannot create container for service nodecast-tv: No command specified",
+      "url": "https://github.com/technomancer702/nodecast-tv/issues/4",
+      "createdAt": "2025-12-28T07:23:55.853Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
