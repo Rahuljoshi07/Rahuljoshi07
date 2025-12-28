@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766944682817,
+      "repository": "bikespace/bikespace",
+      "issueTitle": "Allow users to report issue with bike parking from parking map",
+      "url": "https://github.com/bikespace/bikespace/issues/312",
+      "createdAt": "2025-12-28T17:58:02.817Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
