@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766925456934,
+      "repository": "VoxDroid/KemonoDownloader",
+      "issueTitle": "Creator downloader is not working",
+      "url": "https://github.com/VoxDroid/KemonoDownloader/issues/57",
+      "createdAt": "2025-12-28T12:37:36.934Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
