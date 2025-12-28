@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766903097197,
+      "repository": "klsdf/GreenResourcesManager",
+      "issueTitle": "优化建议及BUG反馈",
+      "url": "https://github.com/klsdf/GreenResourcesManager/issues/3",
+      "createdAt": "2025-12-28T06:24:57.197Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
