@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1767026151102,
+      "id": 1767026189084,
       "repository": "amazon-connect/amazon-connect-streams",
-      "issueTitle": "Unable to make/receive calls after browser wake from sleep (token refresh timing issue)",
-      "url": "https://github.com/amazon-connect/amazon-connect-streams/issues/1060",
-      "createdAt": "2025-12-29T16:35:51.102Z",
+      "issueTitle": "[Bug report] rejecting or hanging up calls",
+      "url": "https://github.com/amazon-connect/amazon-connect-streams/issues/1039",
+      "createdAt": "2025-12-29T16:36:29.084Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
