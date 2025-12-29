@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767013424798,
+      "repository": "TorchSim/torch-sim",
+      "issueTitle": "Sevennet broken with new v0.12.0 release",
+      "url": "https://github.com/TorchSim/torch-sim/issues/387",
+      "createdAt": "2025-12-29T13:03:44.798Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
