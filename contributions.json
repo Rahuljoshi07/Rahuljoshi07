@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766967237345,
+      "repository": "codergautam/worldguessr",
+      "issueTitle": "Map Zoom Bug",
+      "url": "https://github.com/codergautam/worldguessr/issues/74",
+      "createdAt": "2025-12-29T00:13:57.345Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
