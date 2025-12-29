@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767003073189,
+      "repository": "FTBTeam/FTB-Modpack-Issues",
+      "issueTitle": "[Recipe]: No recipe for Tin Plate -> Tin Wire",
+      "url": "https://github.com/FTBTeam/FTB-Modpack-Issues/issues/11145",
+      "createdAt": "2025-12-29T10:11:13.189Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
