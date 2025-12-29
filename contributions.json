@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767029743264,
+      "repository": "aicoding-caret/caret",
+      "issueTitle": "다이어그램을 그려 달라고 하면 무작정 파일을 만들어 내용 작성 시작합니다.",
+      "url": "https://github.com/aicoding-caret/caret/issues/16",
+      "createdAt": "2025-12-29T17:35:43.264Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
