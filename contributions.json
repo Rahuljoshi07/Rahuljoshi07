@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766972028031,
+      "repository": "Dawson924/MouseFlightControl",
+      "issueTitle": "DCS鼠标指针隐藏时可能会导致控制位置或自由视角出现在错误的位置",
+      "url": "https://github.com/Dawson924/MouseFlightControl/issues/2",
+      "createdAt": "2025-12-29T01:33:48.031Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
