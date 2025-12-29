@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766986990100,
+      "repository": "netlify-templates/nextjs-blog-theme",
+      "issueTitle": "use latest packages",
+      "url": "https://github.com/netlify-templates/nextjs-blog-theme/issues/290",
+      "createdAt": "2025-12-29T05:43:10.100Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
