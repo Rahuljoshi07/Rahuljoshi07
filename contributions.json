@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1767020679825,
-      "repository": "sugarlabs/musicblocks",
-      "issueTitle": "[Bug] createCentsSlider destroys event listeners by using innerHTML",
-      "url": "https://github.com/sugarlabs/musicblocks/issues/4939",
-      "createdAt": "2025-12-29T15:04:39.825Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
