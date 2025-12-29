@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766995304857,
+      "repository": "oldcordapp/OldcordV3",
+      "issueTitle": "Use discord's official error codes/messages",
+      "url": "https://github.com/oldcordapp/OldcordV3/issues/64",
+      "createdAt": "2025-12-29T08:01:44.857Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
