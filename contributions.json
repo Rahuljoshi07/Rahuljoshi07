@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767028527464,
+      "repository": "polarmutex/tree-sitter-beancount",
+      "issueTitle": "Uppercase, incomplete accounts result in `ERROR` nodes",
+      "url": "https://github.com/polarmutex/tree-sitter-beancount/issues/82",
+      "createdAt": "2025-12-29T17:15:27.464Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
