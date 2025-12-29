@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767036020399,
+      "repository": "ContaAzul/creditcard.js",
+      "issueTitle": "Discover cvc is 3 digits, not 4",
+      "url": "https://github.com/ContaAzul/creditcard.js/issues/172",
+      "createdAt": "2025-12-29T19:20:20.399Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
