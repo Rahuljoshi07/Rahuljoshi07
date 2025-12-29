@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766995237805,
+      "repository": "Next-Flip/v2.momentum-fw.dev",
+      "issueTitle": "Asset pack preview rendering issue",
+      "url": "https://github.com/Next-Flip/v2.momentum-fw.dev/issues/2",
+      "createdAt": "2025-12-29T08:00:37.805Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
