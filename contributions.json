@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767051315507,
+      "repository": "aristanetworks/sonic",
+      "issueTitle": "[Chassis 202405]: Supervisor ungraceful restart take ~7+ seconds for traffic to converge. Need help with its optimization",
+      "url": "https://github.com/aristanetworks/sonic/issues/119",
+      "createdAt": "2025-12-29T23:35:15.507Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
