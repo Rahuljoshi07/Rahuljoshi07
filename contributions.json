@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767002203170,
+      "repository": "limafresh/Brushshe",
+      "issueTitle": "After exiting the selection function, the outline around the canvas remains",
+      "url": "https://github.com/limafresh/Brushshe/issues/56",
+      "createdAt": "2025-12-29T09:56:43.170Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
