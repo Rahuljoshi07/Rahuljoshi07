@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767022517230,
+      "repository": "remittor/zapret-openwrt",
+      "issueTitle": "[BUG] Файл исключений zapret-hosts-user-exclude.txt",
+      "url": "https://github.com/remittor/zapret-openwrt/issues/613",
+      "createdAt": "2025-12-29T15:35:17.230Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
