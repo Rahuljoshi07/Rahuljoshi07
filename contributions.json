@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766992874675,
+      "repository": "howl-anderson/hanzi_char_featurizer",
+      "issueTitle": "ModuleNotFoundError: No module named 'hanzi_char_featurizer.featurizers'",
+      "url": "https://github.com/howl-anderson/hanzi_char_featurizer/issues/6",
+      "createdAt": "2025-12-29T07:21:14.675Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
