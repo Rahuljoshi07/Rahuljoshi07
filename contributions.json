@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767016286477,
+      "repository": "kivy/pyobjus",
+      "issueTitle": "Build failure on 10.6.8: `_runtime.h: error: expected ';', ',' or ')' before 'self'`",
+      "url": "https://github.com/kivy/pyobjus/issues/129",
+      "createdAt": "2025-12-29T13:51:26.477Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
