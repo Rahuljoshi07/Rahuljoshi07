@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766979920658,
+      "repository": "Foundryborne/daggerheart",
+      "issueTitle": "[Bug] template button with bad behavior on journal",
+      "url": "https://github.com/Foundryborne/daggerheart/issues/1490",
+      "createdAt": "2025-12-29T03:45:20.658Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
