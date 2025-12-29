@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767018765768,
-      "repository": "bufbuild/protovalidate-python",
-      "issueTitle": "[BUG] Generated buf.validate message are not part of the pypi package",
-      "url": "https://github.com/bufbuild/protovalidate-python/issues/339",
-      "createdAt": "2025-12-29T14:32:45.768Z",
+      "id": 1767018805372,
+      "repository": "Ascend/pytorch",
+      "issueTitle": "F.interpolate on NPU is REALLY slow, even slower than CPU",
+      "url": "https://github.com/Ascend/pytorch/issues/69",
+      "createdAt": "2025-12-29T14:33:25.372Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
