@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767031051288,
+      "repository": "nextcloud/talk-desktop",
+      "issueTitle": "Monochrome systray icon broken",
+      "url": "https://github.com/nextcloud/talk-desktop/issues/1606",
+      "createdAt": "2025-12-29T17:57:31.288Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
