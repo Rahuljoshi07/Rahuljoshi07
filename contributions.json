@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766971586630,
+      "repository": "forzagreen/n2words",
+      "issueTitle": "Hebrew Language -> Incorrect Format numbers -> 9999",
+      "url": "https://github.com/forzagreen/n2words/issues/151",
+      "createdAt": "2025-12-29T01:26:26.630Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
