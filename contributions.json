@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767007787578,
+      "repository": "pasteurlabs/tesseract-jax",
+      "issueTitle": "Inherent performance limitations in reverse-mode when gradients require tangents and primals.",
+      "url": "https://github.com/pasteurlabs/tesseract-jax/issues/27",
+      "createdAt": "2025-12-29T11:29:47.578Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
