@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766987808963,
+      "repository": "commit-check/commit-check",
+      "issueTitle": "Ignore author and also support ignore co-author",
+      "url": "https://github.com/commit-check/commit-check/issues/290",
+      "createdAt": "2025-12-29T05:56:48.963Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
