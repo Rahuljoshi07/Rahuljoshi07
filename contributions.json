@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766982576528,
+      "repository": "cyberhobo/wordpress-geo-mashup",
+      "issueTitle": "Datepicker styles are off",
+      "url": "https://github.com/cyberhobo/wordpress-geo-mashup/issues/908",
+      "createdAt": "2025-12-29T04:29:36.528Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
