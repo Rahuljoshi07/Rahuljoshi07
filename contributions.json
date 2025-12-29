@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767040371127,
+      "id": 1767040399164,
       "repository": "remotestorage/armadietto",
       "issueTitle": "RS version support issues with legacy server",
       "url": "https://github.com/remotestorage/armadietto/issues/151",
-      "createdAt": "2025-12-29T20:32:51.127Z",
+      "createdAt": "2025-12-29T20:33:19.164Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
