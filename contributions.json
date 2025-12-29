@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1766972651646,
+      "id": 1766972679907,
       "repository": "nextcloud/text",
       "issueTitle": "Text editor asking to reconnect, despite still being connected",
       "url": "https://github.com/nextcloud/text/issues/8128",
-      "createdAt": "2025-12-29T01:44:11.646Z",
+      "createdAt": "2025-12-29T01:44:39.907Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
