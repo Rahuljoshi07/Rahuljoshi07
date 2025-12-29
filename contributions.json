@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1767009003603,
-      "repository": "taskcluster/taskcluster",
-      "issueTitle": "Creating a task via UI fails (payload too large) while python Queue API succeeds with same payload",
-      "url": "https://github.com/taskcluster/taskcluster/issues/8171",
-      "createdAt": "2025-12-29T11:50:03.603Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
