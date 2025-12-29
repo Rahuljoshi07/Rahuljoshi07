@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1766984994231,
+      "repository": "warren-bank/HLS-Proxy",
+      "issueTitle": "Cpu usage 100% issue ",
+      "url": "https://github.com/warren-bank/HLS-Proxy/issues/57",
+      "createdAt": "2025-12-29T05:09:54.231Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
