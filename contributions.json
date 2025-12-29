@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767012726409,
+      "repository": "new-sankaku/manga-editor-desu",
+      "issueTitle": "TypeError when attempting to use Upscaler",
+      "url": "https://github.com/new-sankaku/manga-editor-desu/issues/57",
+      "createdAt": "2025-12-29T12:52:06.409Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
