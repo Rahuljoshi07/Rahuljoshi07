@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767000356786,
+      "id": 1767000391003,
       "repository": "vbuch/node-signpdf",
       "issueTitle": "Got Error when updated node-forge package to version 1.3.2 ",
       "url": "https://github.com/vbuch/node-signpdf/issues/298",
-      "createdAt": "2025-12-29T09:25:56.786Z",
+      "createdAt": "2025-12-29T09:26:31.003Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
