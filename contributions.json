@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767029127897,
+      "repository": "ui5-community/ui5-ecosystem-showcase",
+      "issueTitle": "[ui5-middleware-simpleproxy] Remove console.log (debug?) statement",
+      "url": "https://github.com/ui5-community/ui5-ecosystem-showcase/issues/1304",
+      "createdAt": "2025-12-29T17:25:27.897Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
