@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767024511580,
+      "repository": "Python-roborock/python-roborock",
+      "issueTitle": "Unable to clear dock error (“Water finished”) via Home Assistant",
+      "url": "https://github.com/Python-roborock/python-roborock/issues/702",
+      "createdAt": "2025-12-29T16:08:31.581Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
