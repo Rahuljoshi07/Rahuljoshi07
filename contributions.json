@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767018765768,
+      "repository": "bufbuild/protovalidate-python",
+      "issueTitle": "[BUG] Generated buf.validate message are not part of the pypi package",
+      "url": "https://github.com/bufbuild/protovalidate-python/issues/339",
+      "createdAt": "2025-12-29T14:32:45.768Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
