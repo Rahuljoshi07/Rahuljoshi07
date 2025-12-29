@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767019433299,
+      "repository": "lightning-js/blits",
+      "issueTitle": "[BUG] Announcer on LG webOS TV - Cant hear the announcement",
+      "url": "https://github.com/lightning-js/blits/issues/552",
+      "createdAt": "2025-12-29T14:43:53.299Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
