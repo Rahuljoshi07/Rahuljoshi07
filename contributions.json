@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767017493092,
+      "repository": "vertyco/vrt-cogs",
+      "issueTitle": "[LevelUp] Can't load: Sentinel import issue",
+      "url": "https://github.com/vertyco/vrt-cogs/issues/263",
+      "createdAt": "2025-12-29T14:11:33.092Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
