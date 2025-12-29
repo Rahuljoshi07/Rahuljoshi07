@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767005697502,
+      "repository": "gardenlinux/gardenlinux",
+      "issueTitle": "Update Linux kernel for 1592.16 to 6.6.119",
+      "url": "https://github.com/gardenlinux/gardenlinux/issues/3966",
+      "createdAt": "2025-12-29T10:54:57.502Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
