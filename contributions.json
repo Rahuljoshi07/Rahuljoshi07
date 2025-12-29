@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1767008975504,
+      "id": 1767009003603,
       "repository": "taskcluster/taskcluster",
-      "issueTitle": "The log viewer should not scroll to the bottom when the window get resized",
-      "url": "https://github.com/taskcluster/taskcluster/issues/8170",
-      "createdAt": "2025-12-29T11:49:35.504Z",
+      "issueTitle": "Creating a task via UI fails (payload too large) while python Queue API succeeds with same payload",
+      "url": "https://github.com/taskcluster/taskcluster/issues/8171",
+      "createdAt": "2025-12-29T11:50:03.603Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
