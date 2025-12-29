@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767044816421,
+      "repository": "csteinba/node-red-contrib-mongodb4",
+      "issueTitle": "msg.mode is ignored – documentation does not match actual behavior",
+      "url": "https://github.com/csteinba/node-red-contrib-mongodb4/issues/33",
+      "createdAt": "2025-12-29T21:46:56.421Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
