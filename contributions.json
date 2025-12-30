@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767083598569,
+      "repository": "Geoportail-Luxembourg/geoportailv3",
+      "issueTitle": "Accessibility issue: Button colors",
+      "url": "https://github.com/Geoportail-Luxembourg/geoportailv3/issues/3271",
+      "createdAt": "2025-12-30T08:33:18.569Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
