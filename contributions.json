@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767133944673,
+      "repository": "meerk40t/meerk40t",
+      "issueTitle": "0.9.5.3: Greedy optimisation seems to slow down to a crawl at the end when you would expect it to speed up",
+      "url": "https://github.com/meerk40t/meerk40t/issues/2771",
+      "createdAt": "2025-12-30T22:32:24.673Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
