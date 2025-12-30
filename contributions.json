@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767058035390,
+      "repository": "wingman-jr-addon/wingman_jr",
+      "issueTitle": "Some Downloads not work anymore",
+      "url": "https://github.com/wingman-jr-addon/wingman_jr/issues/202",
+      "createdAt": "2025-12-30T01:27:15.390Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
