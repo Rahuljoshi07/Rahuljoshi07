@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767109608620,
+      "repository": "rg-engineering/ioBroker.heatingcontrol",
+      "issueTitle": "Version 3.0 - set active in temp sensor doesn't work",
+      "url": "https://github.com/rg-engineering/ioBroker.heatingcontrol/issues/718",
+      "createdAt": "2025-12-30T15:46:48.620Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
