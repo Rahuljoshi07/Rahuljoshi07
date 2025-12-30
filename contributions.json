@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767064088029,
+      "repository": "objectionary/eo2js",
+      "issueTitle": "transpile.test.js:104-124: Re-enable skipped...",
+      "url": "https://github.com/objectionary/eo2js/issues/189",
+      "createdAt": "2025-12-30T03:08:08.029Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
