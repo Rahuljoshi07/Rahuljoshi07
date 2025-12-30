@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767102046051,
+      "repository": "cgwire/zou",
+      "issueTitle": "Assets do not get removed from the 'Ready For' count for shot tasks when they are deleted from the project",
+      "url": "https://github.com/cgwire/zou/issues/997",
+      "createdAt": "2025-12-30T13:40:46.051Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
