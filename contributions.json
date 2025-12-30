@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767109289386,
+      "repository": "geoparquet/geoparquet-io",
+      "issueTitle": "Performance investigation",
+      "url": "https://github.com/geoparquet/geoparquet-io/issues/129",
+      "createdAt": "2025-12-30T15:41:29.386Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
