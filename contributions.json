@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767082920760,
+      "repository": "fantasycalendar/FoundryVTT-Sequencer",
+      "issueTitle": "[BUG] - Effects don't play over the tokens by default",
+      "url": "https://github.com/fantasycalendar/FoundryVTT-Sequencer/issues/430",
+      "createdAt": "2025-12-30T08:22:00.760Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
