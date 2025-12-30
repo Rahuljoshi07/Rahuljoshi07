@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767091427996,
+      "repository": "Suvaidyam/frappe_theme",
+      "issueTitle": "Error when calling My Theme Doctype",
+      "url": "https://github.com/Suvaidyam/frappe_theme/issues/191",
+      "createdAt": "2025-12-30T10:43:47.996Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
