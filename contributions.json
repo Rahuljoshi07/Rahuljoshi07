@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767105193992,
+      "repository": "NickDJM/accessible-menu",
+      "issueTitle": "Bug: Interacting with the browsers scroll bar closes menus",
+      "url": "https://github.com/NickDJM/accessible-menu/issues/468",
+      "createdAt": "2025-12-30T14:33:13.992Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
