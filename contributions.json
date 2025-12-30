@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767129302329,
-      "repository": "asyncapi/markdown-template",
-      "issueTitle": "[BUG] <description> Not compatible with the latest Async/generator's latest version",
-      "url": "https://github.com/asyncapi/markdown-template/issues/626",
-      "createdAt": "2025-12-30T21:15:02.330Z",
+      "id": 1767129340162,
+      "repository": "asyncapi/nodejs-template",
+      "issueTitle": "[BUG] Incoming messages' payload are not parsed into objects",
+      "url": "https://github.com/asyncapi/nodejs-template/issues/322",
+      "createdAt": "2025-12-30T21:15:40.162Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
