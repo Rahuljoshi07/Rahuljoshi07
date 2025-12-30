@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767079138722,
+      "repository": "isayevlab/Auto3D_pkg",
+      "issueTitle": "OSError with multiple GPUs",
+      "url": "https://github.com/isayevlab/Auto3D_pkg/issues/86",
+      "createdAt": "2025-12-30T07:18:58.722Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
