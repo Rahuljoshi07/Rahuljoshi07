@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767079622065,
+      "repository": "kiwix/kiwix-android-custom",
+      "issueTitle": "Most of the icons are not OK",
+      "url": "https://github.com/kiwix/kiwix-android-custom/issues/247",
+      "createdAt": "2025-12-30T07:27:02.065Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
