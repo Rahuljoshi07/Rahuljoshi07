@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767110602112,
+      "repository": "scikit-hep/mplhep",
+      "issueTitle": "fix: errorbar width for ATLAS/LHCb styles",
+      "url": "https://github.com/scikit-hep/mplhep/issues/613",
+      "createdAt": "2025-12-30T16:03:22.112Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
