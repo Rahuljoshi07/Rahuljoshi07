@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767134241395,
+      "repository": "vamplabAI/sgr-agent-core",
+      "issueTitle": "Cleanup dependencies and add extra dependency groups",
+      "url": "https://github.com/vamplabAI/sgr-agent-core/issues/117",
+      "createdAt": "2025-12-30T22:37:21.395Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. (Suggested by Rahul Joshi..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
