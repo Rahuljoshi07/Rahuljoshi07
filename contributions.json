@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767119003732,
+      "repository": "steveseguin/social_stream",
+      "issueTitle": "Error importing backup: \"[Settings] Failed to read import file: importFile[0].getFile is not a function\"",
+      "url": "https://github.com/steveseguin/social_stream/issues/683",
+      "createdAt": "2025-12-30T18:23:23.732Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
