@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767128780937,
+      "repository": "OneSignal/onesignal-python-api",
+      "issueTitle": "[Bug]: Incompatible with urllib3 2.x - AttributeError: 'HTTPResponse' object has no attribute 'getheader'",
+      "url": "https://github.com/OneSignal/onesignal-python-api/issues/58",
+      "createdAt": "2025-12-30T21:06:20.937Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
