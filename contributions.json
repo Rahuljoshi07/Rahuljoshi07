@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767087553653,
+      "id": 1767087593129,
       "repository": "oldcordapp/OldcordV3",
       "issueTitle": "Removing channel overwrites doesn't emit an update in the DB",
       "url": "https://github.com/oldcordapp/OldcordV3/issues/95",
-      "createdAt": "2025-12-30T09:39:13.653Z",
+      "createdAt": "2025-12-30T09:39:53.129Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
