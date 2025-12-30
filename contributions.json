@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767090286642,
+      "repository": "Iteranya/anita-cms",
+      "issueTitle": "The AI Notes Bug",
+      "url": "https://github.com/Iteranya/anita-cms/issues/6",
+      "createdAt": "2025-12-30T10:24:46.642Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
