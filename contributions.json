@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767104784615,
+      "repository": "ruknsoftware/rukn-zatca-connector",
+      "issueTitle": "errorMessages\":[{\"type\":\"ERROR\",\"code\":\"BR-CO-11\",\"category\":\"EN_16931\",\"message\":\"Sum of allowances on document level (BT-107) = S Document level allowance amount (BT-92)\",\"status\":\"ERROR\"},{",
+      "url": "https://github.com/ruknsoftware/rukn-zatca-connector/issues/148",
+      "createdAt": "2025-12-30T14:26:24.615Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
