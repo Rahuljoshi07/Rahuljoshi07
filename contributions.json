@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767095737723,
+      "repository": "iobroker-community-adapters/ioBroker.device-watcher",
+      "issueTitle": "Devices without battery are considered as \"battery devices\"",
+      "url": "https://github.com/iobroker-community-adapters/ioBroker.device-watcher/issues/586",
+      "createdAt": "2025-12-30T11:55:37.723Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
