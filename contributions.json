@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767091811780,
+      "repository": "JoDehli/PyLoxone",
+      "issueTitle": "[Bug]: loxone.event_websocket_command, unkown action",
+      "url": "https://github.com/JoDehli/PyLoxone/issues/449",
+      "createdAt": "2025-12-30T10:50:11.780Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
