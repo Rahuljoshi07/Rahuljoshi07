@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767066636778,
+      "repository": "alncat/opusDSD",
+      "issueTitle": "RuntimeError: Expected size for first two dimensions of batch2 tensor to be: [104, 2] but got: [104, 3].",
+      "url": "https://github.com/alncat/opusDSD/issues/10",
+      "createdAt": "2025-12-30T03:50:36.778Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
