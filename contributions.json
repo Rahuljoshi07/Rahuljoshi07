@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767135363141,
-      "repository": "mkoskim/mawejs",
-      "issueTitle": "Fix: Import from .doc crashes",
-      "url": "https://github.com/mkoskim/mawejs/issues/375",
-      "createdAt": "2025-12-30T22:56:03.141Z",
+      "id": 1767135399447,
+      "repository": "v0lta/PyTorch-Wavelet-Toolbox",
+      "issueTitle": "Bug: CUDA error when batch size exceeds 65535",
+      "url": "https://github.com/v0lta/PyTorch-Wavelet-Toolbox/issues/115",
+      "createdAt": "2025-12-30T22:56:39.447Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
