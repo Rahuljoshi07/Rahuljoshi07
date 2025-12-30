@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767130731812,
+      "repository": "orion-ai-community/BizzAI",
+      "issueTitle": "Bug: Sign Up Phone Number Field Allows More Than 10 Digits Without Validation",
+      "url": "https://github.com/orion-ai-community/BizzAI/issues/104",
+      "createdAt": "2025-12-30T21:38:51.812Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
