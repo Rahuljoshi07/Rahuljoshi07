@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767133376512,
+      "repository": "CharlesPikachu/videodl",
+      "issueTitle": "解析非常耗时 大概20秒左右才能解析出来",
+      "url": "https://github.com/CharlesPikachu/videodl/issues/30",
+      "createdAt": "2025-12-30T22:22:56.512Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
