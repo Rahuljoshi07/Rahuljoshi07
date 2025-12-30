@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767117718071,
+      "repository": "openwisp/openwisp-users",
+      "issueTitle": "[bug] `FilterSerializerByOrganization` filters fields without organization",
+      "url": "https://github.com/openwisp/openwisp-users/issues/319",
+      "createdAt": "2025-12-30T18:01:58.071Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
