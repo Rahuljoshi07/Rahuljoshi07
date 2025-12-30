@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767063085618,
+      "repository": "conflux-fans/pos-pool",
+      "issueTitle": "UI build error",
+      "url": "https://github.com/conflux-fans/pos-pool/issues/90",
+      "createdAt": "2025-12-30T02:51:25.618Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
