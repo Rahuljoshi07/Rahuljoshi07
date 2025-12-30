@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767102655270,
+      "repository": "flatpak/flatpak-builder-tools",
+      "issueTitle": "node generator produce incomplete manifest",
+      "url": "https://github.com/flatpak/flatpak-builder-tools/issues/492",
+      "createdAt": "2025-12-30T13:50:55.270Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
