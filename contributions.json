@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767055541240,
+      "repository": "github/safe-settings",
+      "issueTitle": "Address security-managers API deprecation",
+      "url": "https://github.com/github/safe-settings/issues/903",
+      "createdAt": "2025-12-30T00:45:41.240Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
