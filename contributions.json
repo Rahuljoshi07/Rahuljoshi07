@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767115216436,
+      "id": 1767115250016,
       "repository": "NickDJM/accessible-menu",
-      "issueTitle": "Bug: VoiceOver ctrl + option + space does not open menus in Safari and Firefox",
-      "url": "https://github.com/NickDJM/accessible-menu/issues/469",
-      "createdAt": "2025-12-30T17:20:16.437Z",
+      "issueTitle": "Bug: List-item Separators in Menu not possible",
+      "url": "https://github.com/NickDJM/accessible-menu/issues/437",
+      "createdAt": "2025-12-30T17:20:50.016Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. (Suggested by R..."
     }
   ],
   "stats": {
