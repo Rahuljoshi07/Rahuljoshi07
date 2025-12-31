@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767194974118,
+      "repository": "PortPy-Project/ECHO-VMAT",
+      "issueTitle": "KeyError: 'voxel_coordinate_XYZ_mm' in ECHO-VMAT/examples /echo_vmat_portpy.ipynb notebook",
+      "url": "https://github.com/PortPy-Project/ECHO-VMAT/issues/1",
+      "createdAt": "2025-12-31T15:29:34.118Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
