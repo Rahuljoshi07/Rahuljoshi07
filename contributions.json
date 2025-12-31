@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767196437672,
+      "repository": "ETS2LA/Euro-Truck-Simulator-2-Lane-Assist",
+      "issueTitle": "[Bug]: Automatic Overtake: Speed delta too small",
+      "url": "https://github.com/ETS2LA/Euro-Truck-Simulator-2-Lane-Assist/issues/461",
+      "createdAt": "2025-12-31T15:53:57.672Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
