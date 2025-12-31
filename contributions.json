@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767194381878,
+      "repository": "clipboard2file/clipboard2file",
+      "issueTitle": "[Bug] Does not work when the image file is copied to clipboard, only when the image is copied to the clipboard",
+      "url": "https://github.com/clipboard2file/clipboard2file/issues/27",
+      "createdAt": "2025-12-31T15:19:41.878Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
