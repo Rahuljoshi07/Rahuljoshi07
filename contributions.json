@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767179060059,
+      "repository": "link-assistant/hive-mind",
+      "issueTitle": "Solve command stuck on Playwright MCP tool call",
+      "url": "https://github.com/link-assistant/hive-mind/issues/1039",
+      "createdAt": "2025-12-31T11:04:20.059Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
