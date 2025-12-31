@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767181229878,
+      "repository": "babelfish-for-postgresql/babelfish_project_website",
+      "issueTitle": "[Bug]: Incorrect or outdated content in \"Differences between Babelfish and SQL Server\"?",
+      "url": "https://github.com/babelfish-for-postgresql/babelfish_project_website/issues/262",
+      "createdAt": "2025-12-31T11:40:29.878Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
