@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767180592451,
+      "repository": "theyosh/TerrariumPI",
+      "issueTitle": "[BUG]: Dimmer completely not responding.",
+      "url": "https://github.com/theyosh/TerrariumPI/issues/1034",
+      "createdAt": "2025-12-31T11:29:52.451Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
