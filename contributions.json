@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767209009567,
+      "repository": "lxfight/astrbot_plugin_mnemosyne",
+      "issueTitle": "[Bug]session_id更改导致检索出错",
+      "url": "https://github.com/lxfight/astrbot_plugin_mnemosyne/issues/97",
+      "createdAt": "2025-12-31T19:23:29.567Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
