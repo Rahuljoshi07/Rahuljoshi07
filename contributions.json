@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767187541464,
-      "repository": "cdxgen/cdxgen",
-      "issueTitle": "[cocoapods] flutter ios sbom generation fails: `TypeError: allDependencies.get is not a function or its return value is not iterable`",
-      "url": "https://github.com/cdxgen/cdxgen/issues/3179",
-      "createdAt": "2025-12-31T13:25:41.464Z",
+      "id": 1767187585897,
+      "repository": "RealDevSquad/website-backend",
+      "issueTitle": "Bug: Backend accepts \"undefined\" string as valid username in `PATCH /users/self` endpoint",
+      "url": "https://github.com/RealDevSquad/website-backend/issues/2527",
+      "createdAt": "2025-12-31T13:26:25.897Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
