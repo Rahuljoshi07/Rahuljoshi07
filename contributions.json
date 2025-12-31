@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767209268947,
+      "repository": "AnoyRC/priospace",
+      "issueTitle": "Blue theme uses an orange colour palette",
+      "url": "https://github.com/AnoyRC/priospace/issues/6",
+      "createdAt": "2025-12-31T19:27:48.947Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
