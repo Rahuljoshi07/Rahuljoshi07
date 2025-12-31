@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767148923141,
+      "repository": "mindspore-lab/mindnlp",
+      "issueTitle": "Diffusers模型用例测试bug反馈43",
+      "url": "https://github.com/mindspore-lab/mindnlp/issues/2327",
+      "createdAt": "2025-12-31T02:42:03.141Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
