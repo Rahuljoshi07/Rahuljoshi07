@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767145750713,
+      "repository": "steemit/condenser",
+      "issueTitle": "The trending page needs to get fixed finally",
+      "url": "https://github.com/steemit/condenser/issues/3961",
+      "createdAt": "2025-12-31T01:49:10.713Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
