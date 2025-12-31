@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767187585897,
-      "repository": "RealDevSquad/website-backend",
-      "issueTitle": "Bug: Backend accepts \"undefined\" string as valid username in `PATCH /users/self` endpoint",
-      "url": "https://github.com/RealDevSquad/website-backend/issues/2527",
-      "createdAt": "2025-12-31T13:26:25.897Z",
+      "id": 1767187628698,
+      "repository": "RealDevSquad/website-www",
+      "issueTitle": "bug: percentage bar is visible on ui on all status",
+      "url": "https://github.com/RealDevSquad/website-www/issues/1108",
+      "createdAt": "2025-12-31T13:27:08.698Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
