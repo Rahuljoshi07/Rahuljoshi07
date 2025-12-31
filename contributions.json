@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767145430916,
+      "repository": "TencentBlueKing/blueking-dbm",
+      "issueTitle": "fix(mongodb): redis-exporter-巡检-bug",
+      "url": "https://github.com/TencentBlueKing/blueking-dbm/issues/15405",
+      "createdAt": "2025-12-31T01:43:50.916Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
