@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767155303942,
+      "repository": "isayevlab/Auto3D_pkg",
+      "issueTitle": "Optimization engine did not run and no 3D structure converged.",
+      "url": "https://github.com/isayevlab/Auto3D_pkg/issues/72",
+      "createdAt": "2025-12-31T04:28:23.942Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
