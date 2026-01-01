@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767309351670,
+      "repository": "Ryan-Millard/Img2Num",
+      "issueTitle": "fix(404 Error): GitHub pages default 404 page redirect on refresh",
+      "url": "https://github.com/Ryan-Millard/Img2Num/issues/181",
+      "createdAt": "2026-01-01T23:15:51.670Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
