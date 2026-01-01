@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767278944497,
+      "repository": "Sigma-Security-Group/FriendlySnek",
+      "issueTitle": "fix(schedule): reserved role name-change drops reserved member",
+      "url": "https://github.com/Sigma-Security-Group/FriendlySnek/issues/89",
+      "createdAt": "2026-01-01T14:49:04.497Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
