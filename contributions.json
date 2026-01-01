@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1767233331029,
+      "id": 1767233363480,
       "repository": "nextcloud/integration_mattermost",
       "issueTitle": "Authenticated ciphertext could not be decoded.",
       "url": "https://github.com/nextcloud/integration_mattermost/issues/82",
-      "createdAt": "2026-01-01T02:08:51.029Z",
+      "createdAt": "2026-01-01T02:09:23.480Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
