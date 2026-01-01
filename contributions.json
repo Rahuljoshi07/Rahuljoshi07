@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767228798219,
+      "repository": "project-ryoma/ryoma",
+      "issueTitle": "No module called ryoma_ai.models.openai",
+      "url": "https://github.com/project-ryoma/ryoma/issues/646",
+      "createdAt": "2026-01-01T00:53:18.219Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
