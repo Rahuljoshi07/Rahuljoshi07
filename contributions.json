@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767300467387,
+      "repository": "lallulli/songpress",
+      "issueTitle": "Bug in Songpress 1.8.1",
+      "url": "https://github.com/lallulli/songpress/issues/97",
+      "createdAt": "2026-01-01T20:47:47.387Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
