@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767261727909,
+      "repository": "NSPC911/rovr",
+      "issueTitle": "Lines Of Code not rendering in readme",
+      "url": "https://github.com/NSPC911/rovr/issues/151",
+      "createdAt": "2026-01-01T10:02:07.909Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
