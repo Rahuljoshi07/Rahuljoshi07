@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767258672700,
+      "repository": "skillcreatorai/Ai-Agent-Skills",
+      "issueTitle": "[Bug] Update fails for skills installed from external repos",
+      "url": "https://github.com/skillcreatorai/Ai-Agent-Skills/issues/3",
+      "createdAt": "2026-01-01T09:11:12.700Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
