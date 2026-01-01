@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767250789269,
+      "repository": "venera-app/venera-configs",
+      "issueTitle": "漫画源怎么不能从仓库更新，一直显示network error，连续刷新也不行？",
+      "url": "https://github.com/venera-app/venera-configs/issues/226",
+      "createdAt": "2026-01-01T06:59:49.269Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
