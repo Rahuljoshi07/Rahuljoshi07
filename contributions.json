@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767246824602,
+      "repository": "fyw1999/MovingDroneCrowd",
+      "issueTitle": "Question about the unexpected drop in D2 performance when scene complexity increases (D0 to D3)",
+      "url": "https://github.com/fyw1999/MovingDroneCrowd/issues/6",
+      "createdAt": "2026-01-01T05:53:44.602Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
