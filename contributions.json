@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767300530625,
+      "id": 1767300559820,
       "repository": "physicshub/physicshub.github.io",
-      "issueTitle": "[Bug]: In Mobile view search bar in Blog page isn’t responsive",
-      "url": "https://github.com/physicshub/physicshub.github.io/issues/133",
-      "createdAt": "2026-01-01T20:48:50.625Z",
+      "issueTitle": "[Bug]: When you reset simulation SimInfos go to 0",
+      "url": "https://github.com/physicshub/physicshub.github.io/issues/129",
+      "createdAt": "2026-01-01T20:49:19.820Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
