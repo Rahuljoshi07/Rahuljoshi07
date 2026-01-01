@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767297717916,
+      "repository": "jens-maus/node-ical",
+      "issueTitle": "Recurring events with exclusions are not handled",
+      "url": "https://github.com/jens-maus/node-ical/issues/360",
+      "createdAt": "2026-01-01T20:01:57.916Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
