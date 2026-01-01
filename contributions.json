@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767294453365,
+      "repository": "domdfcoding/enum_tools",
+      "issueTitle": "sphinx autoenum does not work with Sphinx 7.2+: UnboundLocalError: cannot access local variable 'membername' where it is not associated with a value",
+      "url": "https://github.com/domdfcoding/enum_tools/issues/77",
+      "createdAt": "2026-01-01T19:07:33.365Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
