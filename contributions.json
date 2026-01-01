@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767295235266,
+      "repository": "nextcloud/photos",
+      "issueTitle": "[Bug]: Tags with slashes are broken in Photos",
+      "url": "https://github.com/nextcloud/photos/issues/3357",
+      "createdAt": "2026-01-01T19:20:35.266Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
