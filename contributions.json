@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767238851000,
+      "repository": "ersilia-os/ersilia",
+      "issueTitle": "🐛 Bug: Catalog command not working properly",
+      "url": "https://github.com/ersilia-os/ersilia/issues/1782",
+      "createdAt": "2026-01-01T03:40:51.000Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
