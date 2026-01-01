@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767227538435,
+      "repository": "jaylex32/Syncra",
+      "issueTitle": "[BUG/FEAT] Plex 2FA appears to be unsupported",
+      "url": "https://github.com/jaylex32/Syncra/issues/29",
+      "createdAt": "2026-01-01T00:32:18.435Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
