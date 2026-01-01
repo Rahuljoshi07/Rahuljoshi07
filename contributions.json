@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767227145399,
+      "repository": "astropy/asdf-astropy",
+      "issueTitle": "astropy v7.0: Missing support for model: astropy.modeling.functional_models.Lorentz2D",
+      "url": "https://github.com/astropy/asdf-astropy/issues/243",
+      "createdAt": "2026-01-01T00:25:45.399Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
