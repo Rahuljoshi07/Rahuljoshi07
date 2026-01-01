@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767232647348,
+      "repository": "g0ldyy/comet",
+      "issueTitle": "[BUG] Connections Never Die",
+      "url": "https://github.com/g0ldyy/comet/issues/414",
+      "createdAt": "2026-01-01T01:57:27.348Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
