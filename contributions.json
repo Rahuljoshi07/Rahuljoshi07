@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767231141072,
+      "repository": "clonos/control-pane",
+      "issueTitle": "500 Internal Server Error",
+      "url": "https://github.com/clonos/control-pane/issues/59",
+      "createdAt": "2026-01-01T01:32:21.072Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
