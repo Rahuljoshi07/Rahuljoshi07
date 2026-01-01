@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767242834801,
+      "repository": "Harshdev625/SDEverse",
+      "issueTitle": "About\" Page Throws Unexpected Application Error (404 Not Found)",
+      "url": "https://github.com/Harshdev625/SDEverse/issues/322",
+      "createdAt": "2026-01-01T04:47:14.801Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
