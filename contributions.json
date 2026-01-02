@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767329460885,
+      "repository": "electerm/electerm-web",
+      "issueTitle": "网页版无法复制粘贴提示clipboard apl notavailable",
+      "url": "https://github.com/electerm/electerm-web/issues/25",
+      "createdAt": "2026-01-02T04:51:00.886Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
