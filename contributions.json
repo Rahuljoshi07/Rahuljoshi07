@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767354593012,
+      "repository": "dagster-io/erk",
+      "issueTitle": "Investigate: Worktree deleted after erk land - was this intentional?",
+      "url": "https://github.com/dagster-io/erk/issues/3754",
+      "createdAt": "2026-01-02T11:49:53.012Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
