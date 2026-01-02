@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767315960878,
+      "repository": "gbowne1/reactsocialnetwork",
+      "issueTitle": "[Bug]: NPM deprecation warnings when installing fresh",
+      "url": "https://github.com/gbowne1/reactsocialnetwork/issues/312",
+      "createdAt": "2026-01-02T01:06:00.878Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
