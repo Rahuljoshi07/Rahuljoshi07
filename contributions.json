@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767392331422,
+      "repository": "testflows/TestFlows-GitHub-Hetzner-Runners",
+      "issueTitle": "Dashboard: servers health status is including unused from other projects that have different --with-label",
+      "url": "https://github.com/testflows/TestFlows-GitHub-Hetzner-Runners/issues/95",
+      "createdAt": "2026-01-02T22:18:51.422Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
