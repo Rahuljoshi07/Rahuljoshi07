@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767395094249,
-      "repository": "mue/mue",
-      "issueTitle": "[Bug] 中英文字体无法对齐",
-      "url": "https://github.com/mue/mue/issues/1124",
-      "createdAt": "2026-01-02T23:04:54.250Z",
+      "id": 1767395129397,
+      "repository": "rive-app/rive-wasm",
+      "issueTitle": "Errors during makeRenderer not catchable",
+      "url": "https://github.com/rive-app/rive-wasm/issues/409",
+      "createdAt": "2026-01-02T23:05:29.397Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
