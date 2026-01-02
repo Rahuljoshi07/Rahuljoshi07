@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767331722688,
+      "repository": "CyberSource/cybersource-rest-client-node",
+      "issueTitle": "Module Not Found in Next.js - AMD module issue and relative paths.",
+      "url": "https://github.com/CyberSource/cybersource-rest-client-node/issues/138",
+      "createdAt": "2026-01-02T05:28:42.688Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
