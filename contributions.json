@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767382223219,
+      "repository": "cch1999/pocketeer",
+      "issueTitle": "error importing view_pockets",
+      "url": "https://github.com/cch1999/pocketeer/issues/13",
+      "createdAt": "2026-01-02T19:30:23.219Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
