@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767380091026,
+      "repository": "AppDaemon/appdaemon",
+      "issueTitle": "run_every(..., pin=True) regression in v4.5.12",
+      "url": "https://github.com/AppDaemon/appdaemon/issues/2457",
+      "createdAt": "2026-01-02T18:54:51.026Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
