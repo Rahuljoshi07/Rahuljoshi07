@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767315857708,
+      "id": 1767315901092,
       "repository": "gbowne1/reactsocialnetwork",
       "issueTitle": "[Bug]: NPM deprecation warnings when installing fresh",
       "url": "https://github.com/gbowne1/reactsocialnetwork/issues/312",
-      "createdAt": "2026-01-02T01:04:17.708Z",
+      "createdAt": "2026-01-02T01:05:01.092Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
