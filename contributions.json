@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767375215215,
+      "repository": "scottstensland/websockets-streaming-audio",
+      "issueTitle": "npm audit fix",
+      "url": "https://github.com/scottstensland/websockets-streaming-audio/issues/15",
+      "createdAt": "2026-01-02T17:33:35.215Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
