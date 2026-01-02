@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767388788277,
+      "repository": "holoviz/lumen",
+      "issueTitle": "RuntimeError raised when clicking the Export Report button",
+      "url": "https://github.com/holoviz/lumen/issues/1558",
+      "createdAt": "2026-01-02T21:19:48.277Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
