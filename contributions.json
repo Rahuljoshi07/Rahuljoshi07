@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767376820304,
+      "repository": "spedas/pyspedas",
+      "issueTitle": "PHP scripts on danaid not working",
+      "url": "https://github.com/spedas/pyspedas/issues/1289",
+      "createdAt": "2026-01-02T18:00:20.305Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
