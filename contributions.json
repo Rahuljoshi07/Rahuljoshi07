@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767321634283,
+      "repository": "TezosTaqueria/taqueria",
+      "issueTitle": "🐛 Bug ➾ Decompile task for Archetype outputs error",
+      "url": "https://github.com/TezosTaqueria/taqueria/issues/1938",
+      "createdAt": "2026-01-02T02:40:34.283Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
