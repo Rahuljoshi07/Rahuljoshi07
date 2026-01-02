@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767331487907,
+      "id": 1767331527869,
       "repository": "SimpleAccounts/SimpleAccounts-UAE",
-      "issueTitle": "chore: update deprecated npm dependencies",
-      "url": "https://github.com/SimpleAccounts/SimpleAccounts-UAE/issues/335",
-      "createdAt": "2026-01-02T05:24:47.907Z",
+      "issueTitle": "[BUG] Backend 500 Error: Contact List API",
+      "url": "https://github.com/SimpleAccounts/SimpleAccounts-UAE/issues/333",
+      "createdAt": "2026-01-02T05:25:27.869Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
