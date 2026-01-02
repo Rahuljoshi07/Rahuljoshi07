@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767361537592,
+      "repository": "gediminasz/ctags-companion",
+      "issueTitle": "Fix all @ts-expect-error",
+      "url": "https://github.com/gediminasz/ctags-companion/issues/68",
+      "createdAt": "2026-01-02T13:45:37.592Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
