@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767330009691,
+      "repository": "mmarquez76/AstrologyClock",
+      "issueTitle": "Wallpaper crashing after recent Wallpaper Engine update",
+      "url": "https://github.com/mmarquez76/AstrologyClock/issues/1",
+      "createdAt": "2026-01-02T05:00:09.691Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
