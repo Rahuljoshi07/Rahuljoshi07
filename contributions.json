@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767322805879,
+      "id": 1767322829977,
       "repository": "somiibo/instagram-bot",
       "issueTitle": "Error: Cannot find module 'registry-js'",
       "url": "https://github.com/somiibo/instagram-bot/issues/1",
-      "createdAt": "2026-01-02T03:00:05.879Z",
+      "createdAt": "2026-01-02T03:00:29.977Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
