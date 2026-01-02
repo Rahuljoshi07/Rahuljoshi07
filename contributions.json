@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767368085468,
+      "repository": "ikollipara/django-meili",
+      "issueTitle": "Meilisearch indexing does not work in production (DEBUG=False)",
+      "url": "https://github.com/ikollipara/django-meili/issues/39",
+      "createdAt": "2026-01-02T15:34:45.468Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
