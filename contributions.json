@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767314499386,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Fix: Show module as a section when there is only 1 module",
+      "url": "https://github.com/OWASP/Nest/issues/3083",
+      "createdAt": "2026-01-02T00:41:39.386Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
