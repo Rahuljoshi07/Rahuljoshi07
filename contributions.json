@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767368809309,
+      "repository": "macrocosm-os/data-universe",
+      "issueTitle": "Preserve miner S3 scores when failures are caused by API/network issues",
+      "url": "https://github.com/macrocosm-os/data-universe/issues/687",
+      "createdAt": "2026-01-02T15:46:49.309Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
