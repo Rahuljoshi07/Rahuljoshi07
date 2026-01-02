@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767341976900,
+      "repository": "stylelint-less/stylelint-less",
+      "issueTitle": "Issue with multiple \"each\" blocks and less/no-duplicate-variables",
+      "url": "https://github.com/stylelint-less/stylelint-less/issues/34",
+      "createdAt": "2026-01-02T08:19:36.900Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
