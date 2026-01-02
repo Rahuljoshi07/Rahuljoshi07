@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767351759725,
-      "repository": "mue/mue",
-      "issueTitle": "[Bug] 中英文字体无法对齐",
-      "url": "https://github.com/mue/mue/issues/1124",
-      "createdAt": "2026-01-02T11:02:39.725Z",
+      "id": 1767351793830,
+      "repository": "kiwix/kiwix-js",
+      "issueTitle": "New Gutenberg UI: not working in restricted mode",
+      "url": "https://github.com/kiwix/kiwix-js/issues/1403",
+      "createdAt": "2026-01-02T11:03:13.830Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
