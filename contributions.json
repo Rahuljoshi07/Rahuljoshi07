@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767374979646,
+      "repository": "ikollipara/django-meili",
+      "issueTitle": "Async meili call",
+      "url": "https://github.com/ikollipara/django-meili/issues/38",
+      "createdAt": "2026-01-02T17:29:39.646Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
