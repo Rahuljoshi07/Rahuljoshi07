@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767347367737,
+      "repository": "barebaric/rayforge",
+      "issueTitle": "Bitmap files can't be loaded since v0.26 post 102",
+      "url": "https://github.com/barebaric/rayforge/issues/106",
+      "createdAt": "2026-01-02T09:49:27.737Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
