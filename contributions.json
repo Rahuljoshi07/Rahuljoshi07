@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767385922986,
+      "repository": "sudmantlab/loco-pipe",
+      "issueTitle": "Issue with lostruct",
+      "url": "https://github.com/sudmantlab/loco-pipe/issues/6",
+      "createdAt": "2026-01-02T20:32:02.986Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
