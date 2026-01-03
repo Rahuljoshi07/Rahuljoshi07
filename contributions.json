@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767421121005,
+      "repository": "ZeroDeng01/sublinkPro",
+      "issueTitle": "[Bug]: 预览效果与实际效果不一致",
+      "url": "https://github.com/ZeroDeng01/sublinkPro/issues/57",
+      "createdAt": "2026-01-03T06:18:41.005Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
