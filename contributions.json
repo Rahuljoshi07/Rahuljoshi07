@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767440582399,
+      "repository": "amitness/open-in-overleaf",
+      "issueTitle": "error in the HF",
+      "url": "https://github.com/amitness/open-in-overleaf/issues/20",
+      "createdAt": "2026-01-03T11:43:02.399Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
