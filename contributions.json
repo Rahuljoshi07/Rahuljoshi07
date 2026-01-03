@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767446432763,
+      "repository": "chaijs/check-error",
+      "issueTitle": "errorLike constructor can create misleading error",
+      "url": "https://github.com/chaijs/check-error/issues/51",
+      "createdAt": "2026-01-03T13:20:32.763Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
