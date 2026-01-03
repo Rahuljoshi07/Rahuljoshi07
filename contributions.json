@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767480434955,
+      "repository": "TA2k/ioBroker.lg-thinq",
+      "issueTitle": "Please consider fixing issues detected by repository checker",
+      "url": "https://github.com/TA2k/ioBroker.lg-thinq/issues/87",
+      "createdAt": "2026-01-03T22:47:14.955Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
