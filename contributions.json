@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767425358971,
+      "repository": "catlog22/Claude-Code-Workflow",
+      "issueTitle": "Workflow 执行流程存在多个异常：跳过 review 阶段、任务状态不一致、归档后无法重新 review",
+      "url": "https://github.com/catlog22/Claude-Code-Workflow/issues/48",
+      "createdAt": "2026-01-03T07:29:18.971Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
