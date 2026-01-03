@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767410468197,
+      "repository": "dscalzi/HeliosLauncher",
+      "issueTitle": "General Issue: Please Provide Details",
+      "url": "https://github.com/dscalzi/HeliosLauncher/issues/384",
+      "createdAt": "2026-01-03T03:21:08.197Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
