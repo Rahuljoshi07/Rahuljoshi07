@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767467594830,
+      "repository": "fmartinou/teleinfo2mqtt",
+      "issueTitle": "teleinfo2mqtt arrête d'envoyer des informations au bout de quelques minutes",
+      "url": "https://github.com/fmartinou/teleinfo2mqtt/issues/93",
+      "createdAt": "2026-01-03T19:13:14.830Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
