@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767410241637,
+      "id": 1767410286047,
       "repository": "oldcordapp/OldcordV3",
       "issueTitle": "Denying READ_MESSAGES from everyone role bugs member list for those who have permission to read messages in the channel",
       "url": "https://github.com/oldcordapp/OldcordV3/issues/94",
-      "createdAt": "2026-01-03T03:17:21.637Z",
+      "createdAt": "2026-01-03T03:18:06.047Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
