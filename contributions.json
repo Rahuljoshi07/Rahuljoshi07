@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767415108447,
+      "repository": "oldcordapp/OldcordV3",
+      "issueTitle": "Denying READ_MESSAGES from everyone role bugs member list for those who have permission to read messages in the channel",
+      "url": "https://github.com/oldcordapp/OldcordV3/issues/94",
+      "createdAt": "2026-01-03T04:38:28.447Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
