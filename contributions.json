@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767470233986,
+      "repository": "nilsnolde/valhalla-qgis-plugin",
+      "issueTitle": "BREAKING: settings will throw errors with newest version",
+      "url": "https://github.com/nilsnolde/valhalla-qgis-plugin/issues/30",
+      "createdAt": "2026-01-03T19:57:13.986Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
