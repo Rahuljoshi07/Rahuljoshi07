@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767463640101,
+      "id": 1767463668744,
       "repository": "ethibox/ethibox",
       "issueTitle": "ethibox throwing error duplicate key for email",
       "url": "https://github.com/ethibox/ethibox/issues/114",
-      "createdAt": "2026-01-03T18:07:20.102Z",
+      "createdAt": "2026-01-03T18:07:48.744Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
