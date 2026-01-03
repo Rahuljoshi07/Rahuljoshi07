@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767435227575,
+      "repository": "mcollina/async-cache-dedupe",
+      "issueTitle": "Deduping is not working when stale",
+      "url": "https://github.com/mcollina/async-cache-dedupe/issues/164",
+      "createdAt": "2026-01-03T10:13:47.575Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
