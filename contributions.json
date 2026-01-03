@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767474292345,
+      "repository": "link-assistant/hive-mind",
+      "issueTitle": "On limit reached, we should help user to make it possible to resume himself manually",
+      "url": "https://github.com/link-assistant/hive-mind/issues/942",
+      "createdAt": "2026-01-03T21:04:52.345Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
