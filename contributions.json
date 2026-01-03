@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767473146649,
+      "repository": "Zeecka/AperiSolve",
+      "issueTitle": "[BUG] multiple issues found in the current codebase ( main branch )",
+      "url": "https://github.com/Zeecka/AperiSolve/issues/134",
+      "createdAt": "2026-01-03T20:45:46.650Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
