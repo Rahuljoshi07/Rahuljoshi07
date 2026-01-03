@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767470417919,
+      "repository": "OpenHands/software-agent-sdk",
+      "issueTitle": "Conversations stalling due to unhandled LLM API errors (thinking block signature, context length)",
+      "url": "https://github.com/OpenHands/software-agent-sdk/issues/1575",
+      "createdAt": "2026-01-03T20:00:17.920Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
