@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767478240956,
+      "repository": "cairo-book/cairo-book",
+      "issueTitle": "debugging / walnut support?",
+      "url": "https://github.com/cairo-book/cairo-book/issues/1231",
+      "createdAt": "2026-01-03T22:10:40.956Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
