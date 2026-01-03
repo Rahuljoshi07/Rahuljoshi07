@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767402607737,
+      "repository": "Bentix-cs/fivem-greenscreener",
+      "issueTitle": "error no such export requestClientScreenshot",
+      "url": "https://github.com/Bentix-cs/fivem-greenscreener/issues/15",
+      "createdAt": "2026-01-03T01:10:07.738Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
