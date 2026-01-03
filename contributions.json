@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767473444540,
+      "repository": "jtydhr88/ComfyUI-HY-Motion1",
+      "issueTitle": "gguf error loading",
+      "url": "https://github.com/jtydhr88/ComfyUI-HY-Motion1/issues/12",
+      "createdAt": "2026-01-03T20:50:44.540Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
