@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767453665802,
+      "repository": "abhishekkumar177/College_Media",
+      "issueTitle": "feat: Improve client-side error handling and user feedback for API failures",
+      "url": "https://github.com/abhishekkumar177/College_Media/issues/73",
+      "createdAt": "2026-01-03T15:21:05.802Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
