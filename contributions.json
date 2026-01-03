@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767463945315,
+      "repository": "leomoon-studios/wiki-go",
+      "issueTitle": "Code incorrectly parsed in quotation",
+      "url": "https://github.com/leomoon-studios/wiki-go/issues/132",
+      "createdAt": "2026-01-03T18:12:25.315Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
