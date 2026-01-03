@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767478431673,
+      "repository": "fabiocaccamo/django-maintenance-mode",
+      "issueTitle": "The middleware does not always need to be last",
+      "url": "https://github.com/fabiocaccamo/django-maintenance-mode/issues/221",
+      "createdAt": "2026-01-03T22:13:51.673Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
