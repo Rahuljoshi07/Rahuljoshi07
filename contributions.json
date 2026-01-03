@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1767469264380,
-      "repository": "RealDevSquad/website-backend",
-      "issueTitle": "Bug: Backend accepts \"undefined\" string as valid username in `PATCH /users/self` endpoint",
-      "url": "https://github.com/RealDevSquad/website-backend/issues/2527",
-      "createdAt": "2026-01-03T19:41:04.380Z",
-      "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
