@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767407580299,
+      "repository": "oldcordapp/OldcordV3",
+      "issueTitle": "Fermi Issues (Messages, Settings Menu)",
+      "url": "https://github.com/oldcordapp/OldcordV3/issues/90",
+      "createdAt": "2026-01-03T02:33:00.299Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
