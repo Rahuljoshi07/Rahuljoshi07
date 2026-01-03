@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1767469187544,
+      "id": 1767469225697,
       "repository": "RealDevSquad/website-backend",
       "issueTitle": "Bug: Backend accepts \"undefined\" string as valid username in `PATCH /users/self` endpoint",
       "url": "https://github.com/RealDevSquad/website-backend/issues/2527",
-      "createdAt": "2026-01-03T19:39:47.544Z",
+      "createdAt": "2026-01-03T19:40:25.697Z",
       "type": "comment",
       "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
