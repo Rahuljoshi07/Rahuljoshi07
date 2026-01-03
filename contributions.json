@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767406060035,
+      "repository": "dagster-io/erk",
+      "issueTitle": "Fix Flaky Tests in test_exit_plan_mode_hook.py and test_plan_save_to_issue.py [erk-plan]",
+      "url": "https://github.com/dagster-io/erk/issues/3856",
+      "createdAt": "2026-01-03T02:07:40.035Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
