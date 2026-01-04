@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767562311853,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Refactor: Use a constant for the repeated \"Module not found.\" error message",
+      "url": "https://github.com/OWASP/Nest/issues/3146",
+      "createdAt": "2026-01-04T21:31:51.853Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
