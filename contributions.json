@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767567121045,
+      "repository": "SlyAceZeta/Ribbons.Guide",
+      "issueTitle": "Filtering to game+incomplete with warnings and then changing the game causes 0 Pokémon at all times",
+      "url": "https://github.com/SlyAceZeta/Ribbons.Guide/issues/150",
+      "createdAt": "2026-01-04T22:52:01.045Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
