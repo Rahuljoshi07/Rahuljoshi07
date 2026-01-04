@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767500533098,
+      "repository": "ou524u/Open-Rayzer",
+      "issueTitle": "Any idea why there's a performance gap?",
+      "url": "https://github.com/ou524u/Open-Rayzer/issues/2",
+      "createdAt": "2026-01-04T04:22:13.098Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
