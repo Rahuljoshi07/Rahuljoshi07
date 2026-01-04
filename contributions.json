@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767558399518,
+      "repository": "ioBroker/ioBroker.zigbee",
+      "issueTitle": "Error while setting values since Zigbee 2.0.0",
+      "url": "https://github.com/ioBroker/ioBroker.zigbee/issues/2401",
+      "createdAt": "2026-01-04T20:26:39.518Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
