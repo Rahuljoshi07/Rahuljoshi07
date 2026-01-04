@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767493982415,
+      "repository": "raman325/lock_code_manager",
+      "issueTitle": "[ISSUE] Custom element not found: lock-code-manager-lock-data",
+      "url": "https://github.com/raman325/lock_code_manager/issues/705",
+      "createdAt": "2026-01-04T02:33:02.415Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
