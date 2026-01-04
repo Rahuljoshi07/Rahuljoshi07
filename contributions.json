@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767524587247,
+      "repository": "AstrorEnales/blender_magicavoxel",
+      "issueTitle": "Importing is very slow while using almost no CPU",
+      "url": "https://github.com/AstrorEnales/blender_magicavoxel/issues/17",
+      "createdAt": "2026-01-04T11:03:07.247Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
