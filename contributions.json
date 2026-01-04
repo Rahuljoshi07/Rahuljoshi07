@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767514130282,
+      "repository": "cavefire/hass-openid",
+      "issueTitle": "[BUG] An application is requesting access to your home assistant instance - Authentik",
+      "url": "https://github.com/cavefire/hass-openid/issues/44",
+      "createdAt": "2026-01-04T08:08:50.283Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
