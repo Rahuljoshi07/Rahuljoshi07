@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767518845927,
+      "repository": "mosheng1/QuickClipboard",
+      "issueTitle": "[Bug] v0.2.0-beta.2版本报毒了",
+      "url": "https://github.com/mosheng1/QuickClipboard/issues/225",
+      "createdAt": "2026-01-04T09:27:25.927Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
