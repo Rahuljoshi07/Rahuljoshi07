@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767545569086,
+      "repository": "lastsunday/job-hunting",
+      "issueTitle": "补充数据库导出和数据库恢复的实现（当前数据库PGLite）",
+      "url": "https://github.com/lastsunday/job-hunting/issues/58",
+      "createdAt": "2026-01-04T16:52:49.086Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
