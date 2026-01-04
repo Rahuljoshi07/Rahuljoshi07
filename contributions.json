@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767514652772,
+      "repository": "beixiaocai/xclabel",
+      "issueTitle": "django.db.utils.OperationalError: database is locked",
+      "url": "https://github.com/beixiaocai/xclabel/issues/12",
+      "createdAt": "2026-01-04T08:17:32.772Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
