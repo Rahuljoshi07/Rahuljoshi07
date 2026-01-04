@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767530045073,
+      "repository": "TerraFirmaGreg-Team/Modpack-Modern",
+      "issueTitle": "[🐛]: Mixing bowl flatbread recipe issue",
+      "url": "https://github.com/TerraFirmaGreg-Team/Modpack-Modern/issues/2612",
+      "createdAt": "2026-01-04T12:34:05.073Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
