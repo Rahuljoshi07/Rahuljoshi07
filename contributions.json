@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767510754420,
+      "repository": "KimigaiiWuyi/GenshinUID",
+      "issueTitle": "[bug]nonebot2端 中断进程会导致nb2进程堵塞",
+      "url": "https://github.com/KimigaiiWuyi/GenshinUID/issues/687",
+      "createdAt": "2026-01-04T07:12:34.420Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
