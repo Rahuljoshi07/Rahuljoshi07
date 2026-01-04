@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767521507819,
+      "repository": "cdxgen/cdxgen",
+      "issueTitle": "[cocoapods] flutter ios sbom generation fails: `TypeError: allDependencies.get is not a function or its return value is not iterable`",
+      "url": "https://github.com/cdxgen/cdxgen/issues/3179",
+      "createdAt": "2026-01-04T10:11:47.819Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
