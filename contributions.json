@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767568288206,
+      "repository": "fancyson-ai/sora-creator-tools",
+      "issueTitle": "Bug: Investigate why purging all data outside last 1 day still results in 20MB of storage",
+      "url": "https://github.com/fancyson-ai/sora-creator-tools/issues/73",
+      "createdAt": "2026-01-04T23:11:28.206Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
