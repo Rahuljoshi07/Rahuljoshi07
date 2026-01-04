@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767531609776,
+      "repository": "RealRaven2000/quickFilters",
+      "issueTitle": "After quickFilters 6.9.2 with HTML Assistant on Thunderbird 144.0.1, Merge Rules \"Automatically select Merge\" not honored (need to be selected each time)",
+      "url": "https://github.com/RealRaven2000/quickFilters/issues/331",
+      "createdAt": "2026-01-04T13:00:09.776Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
