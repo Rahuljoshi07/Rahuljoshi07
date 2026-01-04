@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767486246720,
+      "repository": "jhonmart/python-format-js",
+      "issueTitle": "\"{:=10d}}\".format(-14) not working",
+      "url": "https://github.com/jhonmart/python-format-js/issues/53",
+      "createdAt": "2026-01-04T00:24:06.720Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
