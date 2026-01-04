@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767497436713,
+      "id": 1767497475850,
       "repository": "nextcloud/photos",
-      "issueTitle": "Photo resizing on upload or bulk resizing on demand",
-      "url": "https://github.com/nextcloud/photos/issues/3356",
-      "createdAt": "2026-01-04T03:30:36.713Z",
+      "issueTitle": "PHP Deprecated: fgetcsv()",
+      "url": "https://github.com/nextcloud/photos/issues/3359",
+      "createdAt": "2026-01-04T03:31:15.850Z",
       "type": "comment",
-      "content": "Adding TypeScript could prevent type-related bugs and improve maintainability. This suggestion is pa..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
