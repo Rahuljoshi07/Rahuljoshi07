@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767500083394,
+      "repository": "tsukumijima/KonomiTV",
+      "issueTitle": "Docker関連の判定改善案",
+      "url": "https://github.com/tsukumijima/KonomiTV/issues/179",
+      "createdAt": "2026-01-04T04:14:43.395Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for vue pr..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
