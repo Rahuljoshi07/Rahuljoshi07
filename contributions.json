@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767524156683,
+      "repository": "YadavAkhileshh/OpenPlayground",
+      "issueTitle": "Bug: Project category filter buttons are not working",
+      "url": "https://github.com/YadavAkhileshh/OpenPlayground/issues/246",
+      "createdAt": "2026-01-04T10:55:56.683Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
