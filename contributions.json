@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767510589699,
+      "repository": "Suhani1234-5/TourEase",
+      "issueTitle": "Category filters (Budget Friendly, Luxury, etc.) are not functional on Explore Destinations page",
+      "url": "https://github.com/Suhani1234-5/TourEase/issues/89",
+      "createdAt": "2026-01-04T07:09:49.699Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
