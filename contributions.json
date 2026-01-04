@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767503190288,
+      "repository": "VATUSA/current",
+      "issueTitle": "[BUG] Variable Name Visible to Users on Ticket View Page",
+      "url": "https://github.com/VATUSA/current/issues/137",
+      "createdAt": "2026-01-04T05:06:30.288Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
