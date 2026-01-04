@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767487604604,
+      "repository": "John0n1/ON1Builder",
+      "issueTitle": "[Bug]: AttributeErrors",
+      "url": "https://github.com/John0n1/ON1Builder/issues/116",
+      "createdAt": "2026-01-04T00:46:44.604Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
