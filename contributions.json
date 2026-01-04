@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767553341788,
+      "repository": "notebook-intelligence/notebook-intelligence",
+      "issueTitle": "\"Failed to delete GitHub access token\" error is always emitted at startup",
+      "url": "https://github.com/notebook-intelligence/notebook-intelligence/issues/96",
+      "createdAt": "2026-01-04T19:02:21.788Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
