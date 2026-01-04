@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767559610766,
+      "repository": "arg0NNY/DiscordPlugins",
+      "issueTitle": "Invalid Integer crash on some servers",
+      "url": "https://github.com/arg0NNY/DiscordPlugins/issues/117",
+      "createdAt": "2026-01-04T20:46:50.766Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
