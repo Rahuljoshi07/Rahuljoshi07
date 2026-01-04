@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767554050804,
+      "repository": "TerraFirmaGreg-Team/Modpack-Modern",
+      "issueTitle": "[🐛]: [TFC Bug] Full ingot molds usually can't be rightclicked if they solidified from molten",
+      "url": "https://github.com/TerraFirmaGreg-Team/Modpack-Modern/issues/2593",
+      "createdAt": "2026-01-04T19:14:10.804Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
