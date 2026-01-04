@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767512329975,
+      "repository": "ModelCloud/GPTQModel",
+      "issueTitle": "[BUG] cannot import name 'no_init_weights' from 'transformers.modeling_utils'",
+      "url": "https://github.com/ModelCloud/GPTQModel/issues/2328",
+      "createdAt": "2026-01-04T07:38:49.976Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
