@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767515363476,
+      "id": 1767515408906,
       "repository": "phifogg/ioBroker.sainlogic",
-      "issueTitle": "Default value type !== value type",
-      "url": "https://github.com/phifogg/ioBroker.sainlogic/issues/226",
-      "createdAt": "2026-01-04T08:29:23.476Z",
+      "issueTitle": "Support for EcoWitt WFC01 (Smart Water Timer)",
+      "url": "https://github.com/phifogg/ioBroker.sainlogic/issues/218",
+      "createdAt": "2026-01-04T08:30:08.906Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
