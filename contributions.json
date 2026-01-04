@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1767549019792,
+      "id": 1767549047121,
       "repository": "orion-ai-community/BizzAI",
-      "issueTitle": "Bug: Dropdown menus not visible properly on Returned Items page (Dark Mode)",
-      "url": "https://github.com/orion-ai-community/BizzAI/issues/116",
-      "createdAt": "2026-01-04T17:50:19.792Z",
+      "issueTitle": "Bug: Return page retains cached state after logout and login with another account",
+      "url": "https://github.com/orion-ai-community/BizzAI/issues/160",
+      "createdAt": "2026-01-04T17:50:47.121Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
