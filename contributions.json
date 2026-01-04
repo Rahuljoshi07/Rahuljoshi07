@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767552333292,
+      "repository": "ArnoldSmith86/virtualtabletop",
+      "issueTitle": "Broken dice with icons",
+      "url": "https://github.com/ArnoldSmith86/virtualtabletop/issues/2805",
+      "createdAt": "2026-01-04T18:45:33.292Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
