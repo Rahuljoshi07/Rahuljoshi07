@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767502666054,
+      "repository": "anka-afk/astrbot_plugin_meme_manager",
+      "issueTitle": "[critical bug]Can't call web-ui correctly无法通过指令唤起表情包管理后台WebUI",
+      "url": "https://github.com/anka-afk/astrbot_plugin_meme_manager/issues/42",
+      "createdAt": "2026-01-04T04:57:46.054Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
