@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767537926895,
+      "repository": "bartfeenstra/betty",
+      "issueTitle": "Plugin documentation references are broken on Read The Docs",
+      "url": "https://github.com/bartfeenstra/betty/issues/3426",
+      "createdAt": "2026-01-04T14:45:26.895Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
