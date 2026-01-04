@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767550098905,
+      "repository": "cs50/compare50",
+      "issueTitle": "In match_#.html, line spacing seems too tight, g's and other characters are cut off vertically",
+      "url": "https://github.com/cs50/compare50/issues/60",
+      "createdAt": "2026-01-04T18:08:18.905Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
