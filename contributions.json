@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767494533660,
+      "repository": "scimmyjs/scimmy-routers",
+      "issueTitle": "constraints not being passed to Resource as Number - Express v5 makes req.query immutable",
+      "url": "https://github.com/scimmyjs/scimmy-routers/issues/36",
+      "createdAt": "2026-01-04T02:42:13.660Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
