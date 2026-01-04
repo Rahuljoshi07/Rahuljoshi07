@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767562911461,
+      "repository": "FriendsOfFlarum/user-directory",
+      "issueTitle": "discussion list query from user directory with group filter: unexpected interaction",
+      "url": "https://github.com/FriendsOfFlarum/user-directory/issues/89",
+      "createdAt": "2026-01-04T21:41:51.461Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
