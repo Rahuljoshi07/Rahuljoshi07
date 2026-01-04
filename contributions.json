@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767534581892,
+      "repository": "kiwix/kiwix-js-pwa",
+      "issueTitle": "kiwix not launching on windows xp",
+      "url": "https://github.com/kiwix/kiwix-js-pwa/issues/804",
+      "createdAt": "2026-01-04T13:49:41.892Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
