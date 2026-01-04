@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767503782572,
+      "repository": "DYHARDx/BYAMN-Learning",
+      "issueTitle": "Merge conflict markers visible in footer UI",
+      "url": "https://github.com/DYHARDx/BYAMN-Learning/issues/193",
+      "createdAt": "2026-01-04T05:16:22.572Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
