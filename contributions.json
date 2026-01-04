@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767533309005,
+      "repository": "stsquad/emacs_chrome",
+      "issueTitle": "AMO description: \"extensions cannot spawn new processes\" but this is false - extensions can use native messaging",
+      "url": "https://github.com/stsquad/emacs_chrome/issues/192",
+      "createdAt": "2026-01-04T13:28:29.005Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
