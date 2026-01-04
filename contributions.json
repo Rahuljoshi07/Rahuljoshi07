@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767493613022,
+      "repository": "EeyoreLee/vscode-extension-yapf",
+      "issueTitle": "Critical Bug Report: `use_tabs = true` Configuration Inconsistently Applied",
+      "url": "https://github.com/EeyoreLee/vscode-extension-yapf/issues/273",
+      "createdAt": "2026-01-04T02:26:53.023Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
