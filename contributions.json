@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767545298216,
+      "repository": "flipcomputing/flock",
+      "issueTitle": "Sound API: Web Audio errors and unexpected `playSound()` promise behavior with `loop` parameter",
+      "url": "https://github.com/flipcomputing/flock/issues/264",
+      "createdAt": "2026-01-04T16:48:18.216Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
