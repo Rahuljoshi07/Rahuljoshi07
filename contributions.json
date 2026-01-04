@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767497907697,
+      "repository": "RUC-NLPIR/ARPO",
+      "issueTitle": "[Bug Fixed by Author] A config file‘s bug fix that everyone needs to be aware",
+      "url": "https://github.com/RUC-NLPIR/ARPO/issues/33",
+      "createdAt": "2026-01-04T03:38:27.697Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
