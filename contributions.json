@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767533550522,
+      "repository": "blocklet/create-blocklet",
+      "issueTitle": "[Bug]: vue-ts-static e2e 测试无法通过",
+      "url": "https://github.com/blocklet/create-blocklet/issues/406",
+      "createdAt": "2026-01-04T13:32:30.522Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
