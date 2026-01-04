@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767517687753,
+      "repository": "abhishekkumar177/College_Media",
+      "issueTitle": "[Bug]: Dynamic Copyright Year in Footer",
+      "url": "https://github.com/abhishekkumar177/College_Media/issues/77",
+      "createdAt": "2026-01-04T09:08:07.753Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
