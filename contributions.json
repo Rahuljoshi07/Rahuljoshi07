@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767553791527,
+      "repository": "toji/spookyball",
+      "issueTitle": "Web GPU errors on Linux Chromium 94",
+      "url": "https://github.com/toji/spookyball/issues/1",
+      "createdAt": "2026-01-04T19:09:51.527Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
