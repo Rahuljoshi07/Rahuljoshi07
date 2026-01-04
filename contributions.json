@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767554683248,
-      "repository": "apache/tooling-trusted-releases",
-      "issueTitle": "Category should be a list",
-      "url": "https://github.com/apache/tooling-trusted-releases/issues/464",
-      "createdAt": "2026-01-04T19:24:43.249Z",
+      "id": 1767554717616,
+      "repository": "bdeitte/hot-shots",
+      "issueTitle": "Error sending hot-shots message: Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed",
+      "url": "https://github.com/bdeitte/hot-shots/issues/247",
+      "createdAt": "2026-01-04T19:25:17.616Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
