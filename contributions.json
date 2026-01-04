@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767554683248,
+      "repository": "apache/tooling-trusted-releases",
+      "issueTitle": "Category should be a list",
+      "url": "https://github.com/apache/tooling-trusted-releases/issues/464",
+      "createdAt": "2026-01-04T19:24:43.249Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
