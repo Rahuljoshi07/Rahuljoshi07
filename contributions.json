@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767617023903,
-      "repository": "ioBroker/ioBroker.iot",
-      "issueTitle": "Please consider fixing issues detected by repository checker",
-      "url": "https://github.com/ioBroker/ioBroker.iot/issues/1061",
-      "createdAt": "2026-01-05T12:43:43.903Z",
+      "id": 1767617075448,
+      "repository": "mkorpela/pabot",
+      "issueTitle": "Pabot execution gets infinitely stuck",
+      "url": "https://github.com/mkorpela/pabot/issues/669",
+      "createdAt": "2026-01-05T12:44:35.448Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
