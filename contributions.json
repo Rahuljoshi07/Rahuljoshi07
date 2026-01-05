@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767580628769,
+      "repository": "Lumiwealth/lumiwealth-tradier",
+      "issueTitle": "AttributeError: 'MarketData' object has no attribute 'get_chains'",
+      "url": "https://github.com/Lumiwealth/lumiwealth-tradier/issues/19",
+      "createdAt": "2026-01-05T02:37:08.769Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
