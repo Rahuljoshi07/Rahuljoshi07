@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767617860384,
+      "repository": "cocoAutumn/AicEventEditor",
+      "issueTitle": "Blank Issue",
+      "url": "https://github.com/cocoAutumn/AicEventEditor/issues/1",
+      "createdAt": "2026-01-05T12:57:40.384Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
