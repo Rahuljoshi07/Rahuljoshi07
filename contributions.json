@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767611897541,
+      "repository": "oVirt/ovirt-ansible-collection",
+      "issueTitle": "ovirt.ovirt.ovirt_vm lacks option to set Video Type (SPICE setup)",
+      "url": "https://github.com/oVirt/ovirt-ansible-collection/issues/737",
+      "createdAt": "2026-01-05T11:18:17.541Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
