@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767630421775,
+      "repository": "kvanbiesen/bmw-cardata-ha",
+      "issueTitle": "[Bug]: Clock went backwards xx seconds, resetting estimate baseline",
+      "url": "https://github.com/kvanbiesen/bmw-cardata-ha/issues/139",
+      "createdAt": "2026-01-05T16:27:01.775Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
