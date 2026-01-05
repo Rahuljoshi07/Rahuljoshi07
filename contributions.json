@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767581214493,
+      "id": 1767581248854,
       "repository": "derhuerst/db-rest",
-      "issueTitle": "Stations Nearby",
-      "url": "https://github.com/derhuerst/db-rest/issues/4",
-      "createdAt": "2026-01-05T02:46:54.493Z",
+      "issueTitle": "Timezone issue for journey advices in UK",
+      "url": "https://github.com/derhuerst/db-rest/issues/54",
+      "createdAt": "2026-01-05T02:47:28.854Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
