@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767628642001,
+      "repository": "tradingstrategy-ai/web3-ethereum-defi",
+      "issueTitle": "bug: final profit calculations are way off",
+      "url": "https://github.com/tradingstrategy-ai/web3-ethereum-defi/issues/561",
+      "createdAt": "2026-01-05T15:57:22.001Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
