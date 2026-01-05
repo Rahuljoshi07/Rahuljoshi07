@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767600098945,
+      "repository": "jellyfin/jellycon",
+      "issueTitle": "Widget not refreshing unless I refresh the entire skin",
+      "url": "https://github.com/jellyfin/jellycon/issues/391",
+      "createdAt": "2026-01-05T08:01:38.945Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
