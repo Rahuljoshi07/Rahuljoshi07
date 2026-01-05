@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767636373301,
+      "repository": "zoom/rivet-javascript",
+      "issueTitle": "[Bug] VideoSdkClient has hardcoded `doubleEncodeUrl: true` causing 404 errors",
+      "url": "https://github.com/zoom/rivet-javascript/issues/12",
+      "createdAt": "2026-01-05T18:06:13.301Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
