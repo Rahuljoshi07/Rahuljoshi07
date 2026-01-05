@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767629623525,
+      "repository": "PKU-YuanGroup/UltraShape-1.0",
+      "issueTitle": "Too few active voxel Error and memory-resolution tradeoff problem",
+      "url": "https://github.com/PKU-YuanGroup/UltraShape-1.0/issues/12",
+      "createdAt": "2026-01-05T16:13:43.525Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
