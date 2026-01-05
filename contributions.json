@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767615093306,
+      "repository": "frappe/print_designer",
+      "issueTitle": "[BUG] Country is missing as field",
+      "url": "https://github.com/frappe/print_designer/issues/365",
+      "createdAt": "2026-01-05T12:11:33.307Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
