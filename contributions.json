@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767583540978,
+      "repository": "NVIDIA/TileGym",
+      "issueTitle": "Potential numerical accuracy issue in the fused_moe implementation",
+      "url": "https://github.com/NVIDIA/TileGym/issues/23",
+      "createdAt": "2026-01-05T03:25:40.979Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
