@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767641350190,
+      "repository": "marshmallow-code/apispec-webframeworks",
+      "issueTitle": "Flask plugin does not gracefully fail when view is None",
+      "url": "https://github.com/marshmallow-code/apispec-webframeworks/issues/133",
+      "createdAt": "2026-01-05T19:29:10.190Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
