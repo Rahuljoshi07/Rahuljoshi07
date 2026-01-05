@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767574451830,
+      "repository": "Kode/kmake",
+      "issueTitle": "Require custom js scripts in kfile.js fails with missing internal module error.",
+      "url": "https://github.com/Kode/kmake/issues/58",
+      "createdAt": "2026-01-05T00:54:11.830Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
