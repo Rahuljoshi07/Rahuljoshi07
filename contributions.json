@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767586467330,
+      "repository": "jarrodwatts/claude-hud",
+      "issueTitle": "Not working in Windows Terminal",
+      "url": "https://github.com/jarrodwatts/claude-hud/issues/20",
+      "createdAt": "2026-01-05T04:14:27.330Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
