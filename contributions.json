@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767637858025,
+      "repository": "steveseguin/electroncapture",
+      "issueTitle": "Screenshare Capture failing on Pipewire & Wayland on Hyprland, version 2.20.1",
+      "url": "https://github.com/steveseguin/electroncapture/issues/114",
+      "createdAt": "2026-01-05T18:30:58.026Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
