@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767621201371,
+      "repository": "ansys/pydpf-post",
+      "issueTitle": "Empty stress DPFArray for CPT212 element",
+      "url": "https://github.com/ansys/pydpf-post/issues/197",
+      "createdAt": "2026-01-05T13:53:21.371Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
