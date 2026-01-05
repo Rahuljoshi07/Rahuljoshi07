@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767623667847,
-      "repository": "Ascend/pytorch",
-      "issueTitle": "F.interpolate on NPU is REALLY slow, even slower than CPU",
-      "url": "https://github.com/Ascend/pytorch/issues/69",
-      "createdAt": "2026-01-05T14:34:27.848Z",
+      "id": 1767623697902,
+      "repository": "PennLINC/xcp_d",
+      "issueTitle": "Issue with denoising design matrix when fMRI runs have different file names",
+      "url": "https://github.com/PennLINC/xcp_d/issues/1555",
+      "createdAt": "2026-01-05T14:34:57.902Z",
       "type": "comment",
-      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
