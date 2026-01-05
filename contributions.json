@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767615238015,
+      "repository": "lincolnloop/django-layout",
+      "issueTitle": "Use `pull-request` event in Github actions",
+      "url": "https://github.com/lincolnloop/django-layout/issues/90",
+      "createdAt": "2026-01-05T12:13:58.015Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
