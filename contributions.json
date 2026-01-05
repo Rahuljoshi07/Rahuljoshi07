@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767577796289,
+      "repository": "dagster-io/erk",
+      "issueTitle": "Fix false branch-mismatch error for stacked branches in slot list [erk-plan]",
+      "url": "https://github.com/dagster-io/erk/issues/4143",
+      "createdAt": "2026-01-05T01:49:56.289Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
