@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767571889805,
+      "repository": "MrThearMan/graphene-django-query-optimizer",
+      "issueTitle": "Changes in v0.10.8–0.10.9 break related model's 'in' lookup filtering",
+      "url": "https://github.com/MrThearMan/graphene-django-query-optimizer/issues/256",
+      "createdAt": "2026-01-05T00:11:29.805Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
