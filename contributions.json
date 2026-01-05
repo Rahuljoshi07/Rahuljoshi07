@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1767603416010,
-      "repository": "OpenEnergyPlatform/oeplatform",
-      "issueTitle": "scenario bundel sparql queries are very slow",
-      "url": "https://github.com/OpenEnergyPlatform/oeplatform/issues/2197",
-      "createdAt": "2026-01-05T08:56:56.010Z",
-      "type": "comment",
-      "content": "Consider caching with functools.lru_cache for expensive computations. This suggestion is particularl..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
