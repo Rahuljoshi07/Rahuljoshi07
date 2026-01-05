@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767652892697,
+      "repository": "meizhong986/WhisperJAV",
+      "issueTitle": "Unable to run whisperjav on M1 Mac CTranslate2 CUDA support error",
+      "url": "https://github.com/meizhong986/WhisperJAV/issues/100",
+      "createdAt": "2026-01-05T22:41:32.697Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
