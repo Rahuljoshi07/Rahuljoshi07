@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767657422679,
-      "repository": "schmitech/orbit",
-      "issueTitle": "tech-debt: Check for variables used for debugging to avoid unnecessary computation",
-      "url": "https://github.com/schmitech/orbit/issues/119",
-      "createdAt": "2026-01-05T23:57:02.679Z",
+      "id": 1767657458059,
+      "repository": "fizzbee-io/fizzbee",
+      "issueTitle": "`performance_bin` fails if `--states` path doesn't end with trailing slash `/`",
+      "url": "https://github.com/fizzbee-io/fizzbee/issues/273",
+      "createdAt": "2026-01-05T23:57:38.059Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
