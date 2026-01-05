@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767619143508,
+      "repository": "ImperialCollegeLondon/virtual_ecosystem",
+      "issueTitle": "Bug in passing `--param` to `ve_run_cli`",
+      "url": "https://github.com/ImperialCollegeLondon/virtual_ecosystem/issues/1241",
+      "createdAt": "2026-01-05T13:19:03.508Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
