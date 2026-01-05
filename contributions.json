@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767602574832,
+      "repository": "THERSANE-DOLI/thunderbird-module-doliconnector",
+      "issueTitle": "Minor bug: Only minutes and seconds are displayed on settings save",
+      "url": "https://github.com/THERSANE-DOLI/thunderbird-module-doliconnector/issues/36",
+      "createdAt": "2026-01-05T08:42:54.832Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
