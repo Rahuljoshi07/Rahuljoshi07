@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767611653155,
+      "repository": "jdeath/Hubspace-Homeassistant",
+      "issueTitle": "Unable to process Afero IoT data.",
+      "url": "https://github.com/jdeath/Hubspace-Homeassistant/issues/207",
+      "createdAt": "2026-01-05T11:14:13.155Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
