@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767646827340,
+      "repository": "cloud-gov/pages-build-container",
+      "issueTitle": "Review try/catch blocks for non-logged errors",
+      "url": "https://github.com/cloud-gov/pages-build-container/issues/406",
+      "createdAt": "2026-01-05T21:00:27.340Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
