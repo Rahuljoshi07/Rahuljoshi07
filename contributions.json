@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767618205798,
+      "repository": "Dirk-Peter-md/ioBroker.sprinklecontrol",
+      "issueTitle": "Please consider fixing issues detected by repository checker",
+      "url": "https://github.com/Dirk-Peter-md/ioBroker.sprinklecontrol/issues/239",
+      "createdAt": "2026-01-05T13:03:25.798Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
