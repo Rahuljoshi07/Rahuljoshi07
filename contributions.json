@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767610375398,
+      "repository": "NeuralEnsemble/elephant",
+      "issueTitle": "AttributeError: 'dict' object has no attribute 'sparsity'",
+      "url": "https://github.com/NeuralEnsemble/elephant/issues/665",
+      "createdAt": "2026-01-05T10:52:55.398Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
