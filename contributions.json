@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767590701657,
+      "repository": "ZeroDeng01/sublinkPro",
+      "issueTitle": "[Bug]: 订阅预览节点与实际拉取节点不一致",
+      "url": "https://github.com/ZeroDeng01/sublinkPro/issues/56",
+      "createdAt": "2026-01-05T05:25:01.658Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
