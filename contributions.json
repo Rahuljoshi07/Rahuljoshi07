@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767626430026,
+      "repository": "EnAccess/OpenPAYGO-python",
+      "issueTitle": "[Bug]: Inconsistent `value` behaviour between `generate_token` and `decode_token` for `DISABLE_PAYG` and `COUNTER_SYNC`",
+      "url": "https://github.com/EnAccess/OpenPAYGO-python/issues/25",
+      "createdAt": "2026-01-05T15:20:30.026Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
