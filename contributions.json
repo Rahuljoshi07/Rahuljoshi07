@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767643772813,
+      "repository": "twilio/twilio-video.js",
+      "issueTitle": "\"AbortError: Timeout starting video source\" when calling createLocalTracks in Chrome v123 on Windows 10",
+      "url": "https://github.com/twilio/twilio-video.js/issues/2073",
+      "createdAt": "2026-01-05T20:09:32.813Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
