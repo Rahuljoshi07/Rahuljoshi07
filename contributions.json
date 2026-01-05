@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767635889347,
+      "repository": "KSJaay/Lunalytics",
+      "issueTitle": "[Bug]: OAuth2 Provider configuration (Custom/Authentik) not persisting",
+      "url": "https://github.com/KSJaay/Lunalytics/issues/187",
+      "createdAt": "2026-01-05T17:58:09.347Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
