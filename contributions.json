@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767606140677,
+      "id": 1767606174500,
       "repository": "node-oauth/node-oauth2-server",
-      "issueTitle": "Authorize endpoint promise hangs Until timeout",
-      "url": "https://github.com/node-oauth/node-oauth2-server/issues/333",
-      "createdAt": "2026-01-05T09:42:20.677Z",
+      "issueTitle": "Property `inner` missing from `OAuthError` typings",
+      "url": "https://github.com/node-oauth/node-oauth2-server/issues/367",
+      "createdAt": "2026-01-05T09:42:54.501Z",
       "type": "comment",
-      "content": "Adding TypeScript could improve code quality and maintainability. This suggestion is particularly re..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
