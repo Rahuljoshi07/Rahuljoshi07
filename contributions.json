@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767656711469,
+      "repository": "chemelli74/aioamazondevices",
+      "issueTitle": "Warning an Unknown device type 'A2IS7199CJBT71' for LG webOS 2021 TV",
+      "url": "https://github.com/chemelli74/aioamazondevices/issues/649",
+      "createdAt": "2026-01-05T23:45:11.469Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
