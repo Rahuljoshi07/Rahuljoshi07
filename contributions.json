@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767622279454,
+      "repository": "PriorLabs/tabpfn-client",
+      "issueTitle": "RuntimeError: InternalServerError: 502 Bad Gateway during Unsupervised Data Generation (Client Backend)",
+      "url": "https://github.com/PriorLabs/tabpfn-client/issues/202",
+      "createdAt": "2026-01-05T14:11:19.454Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
