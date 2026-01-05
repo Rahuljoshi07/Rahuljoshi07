@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767608269584,
+      "repository": "ZeroDeng01/sublinkPro",
+      "issueTitle": "[Bug]: ipados 自带浏览器订阅列表二维码点击后出现的分享链接复制无反应",
+      "url": "https://github.com/ZeroDeng01/sublinkPro/issues/63",
+      "createdAt": "2026-01-05T10:17:49.584Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
