@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767619407301,
+      "repository": "neuro-inc/apolo-cli",
+      "issueTitle": "Unable to filter images by project name of 3 symbols",
+      "url": "https://github.com/neuro-inc/apolo-cli/issues/3008",
+      "createdAt": "2026-01-05T13:23:27.301Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
