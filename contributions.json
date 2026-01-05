@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767595315627,
+      "repository": "pritampanda15/PandaDock",
+      "issueTitle": "ImportError: cannot import name 'PandaDock' from 'pandadock'",
+      "url": "https://github.com/pritampanda15/PandaDock/issues/11",
+      "createdAt": "2026-01-05T06:41:55.627Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
