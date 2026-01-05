@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767593447507,
+      "repository": "Shubham-cyber-prog/100-Days-Of-Web-Development-ECWoC26",
+      "issueTitle": "Navigation resets scroll and context across project pages",
+      "url": "https://github.com/Shubham-cyber-prog/100-Days-Of-Web-Development-ECWoC26/issues/208",
+      "createdAt": "2026-01-05T06:10:47.507Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
