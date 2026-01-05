@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767588099584,
+      "repository": "devdanzin/lafleur",
+      "issueTitle": "We're appending serialize_state multiple times",
+      "url": "https://github.com/devdanzin/lafleur/issues/152",
+      "createdAt": "2026-01-05T04:41:39.584Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
