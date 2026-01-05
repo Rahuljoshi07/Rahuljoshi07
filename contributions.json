@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767643957185,
+      "repository": "SignalK/signalk-server",
+      "issueTitle": "Minor Bug: Missing text in security/devices type column when read only and request approved",
+      "url": "https://github.com/SignalK/signalk-server/issues/2224",
+      "createdAt": "2026-01-05T20:12:37.185Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
