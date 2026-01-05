@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767615465260,
+      "repository": "torchbox/django-pattern-library",
+      "issueTitle": "Patterns are duplicated when using more than one template engine",
+      "url": "https://github.com/torchbox/django-pattern-library/issues/264",
+      "createdAt": "2026-01-05T12:17:45.260Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
