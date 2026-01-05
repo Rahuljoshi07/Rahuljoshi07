@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767654200197,
+      "repository": "petamoriken/float16",
+      "issueTitle": "Issue in converting float16 to float32",
+      "url": "https://github.com/petamoriken/float16/issues/1163",
+      "createdAt": "2026-01-05T23:03:20.197Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
