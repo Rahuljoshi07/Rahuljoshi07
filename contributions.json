@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767630806864,
+      "repository": "Comfy-Org/comfy-cli",
+      "issueTitle": "api.mixpanel.com tracking cannot be disabled with config variable",
+      "url": "https://github.com/Comfy-Org/comfy-cli/issues/337",
+      "createdAt": "2026-01-05T16:33:26.864Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
