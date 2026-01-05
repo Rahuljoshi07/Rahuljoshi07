@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767633340158,
+      "repository": "pyanderson/roll20_tormenta20_grimoire",
+      "issueTitle": "Extensão para Legacy",
+      "url": "https://github.com/pyanderson/roll20_tormenta20_grimoire/issues/26",
+      "createdAt": "2026-01-05T17:15:40.158Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
