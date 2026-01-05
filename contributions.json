@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767646117910,
+      "repository": "openforcefield/openff-bespokefit",
+      "issueTitle": "Getting \"[ERROR] failed to connect to the bespoke executor\" on some systems",
+      "url": "https://github.com/openforcefield/openff-bespokefit/issues/416",
+      "createdAt": "2026-01-05T20:48:37.910Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
