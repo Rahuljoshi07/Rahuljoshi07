@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767616727697,
+      "repository": "abhishekkumar177/College_Media",
+      "issueTitle": "chore: Add consistent empty, loading, and error states across major pages",
+      "url": "https://github.com/abhishekkumar177/College_Media/issues/71",
+      "createdAt": "2026-01-05T12:38:47.698Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
