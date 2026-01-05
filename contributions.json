@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767633751040,
+      "repository": "LibreSign/libresign",
+      "issueTitle": "Failed to merge PDF with footer ",
+      "url": "https://github.com/LibreSign/libresign/issues/6235",
+      "createdAt": "2026-01-05T17:22:31.040Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
