@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767650208887,
+      "repository": "repo-helper/whey",
+      "issueTitle": "0.0.23: whey fails on building `sphinx-toolbox` 3.0.0",
+      "url": "https://github.com/repo-helper/whey/issues/66",
+      "createdAt": "2026-01-05T21:56:48.888Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
