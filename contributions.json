@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767596584191,
+      "repository": "antoniandre/vue-cal",
+      "issueTitle": "[Bug] Event resizing does not work in the production build",
+      "url": "https://github.com/antoniandre/vue-cal/issues/96",
+      "createdAt": "2026-01-05T07:03:04.192Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
