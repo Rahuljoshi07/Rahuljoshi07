@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767622940273,
+      "repository": "nextcloud/activity",
+      "issueTitle": "Error in Activity when user shares nested folder with third user which is owned by admin",
+      "url": "https://github.com/nextcloud/activity/issues/2277",
+      "createdAt": "2026-01-05T14:22:20.273Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
