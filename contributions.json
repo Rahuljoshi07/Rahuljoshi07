@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1767651387481,
-      "repository": "nextcloud/impersonate",
-      "issueTitle": "JS error when impersonated",
-      "url": "https://github.com/nextcloud/impersonate/issues/532",
-      "createdAt": "2026-01-05T22:16:27.481Z",
+      "id": 1767651416402,
+      "repository": "adobe/jsonschema2md",
+      "issueTitle": "ERR_INVALID_ARG_TYPE: The \"path\" argument must be of type string. Received undefined",
+      "url": "https://github.com/adobe/jsonschema2md/issues/392",
+      "createdAt": "2026-01-05T22:16:56.402Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
