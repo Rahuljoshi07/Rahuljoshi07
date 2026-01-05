@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767584930628,
+      "repository": "sugarlabs/musicblocks",
+      "issueTitle": "Issue in opening website on Andriod",
+      "url": "https://github.com/sugarlabs/musicblocks/issues/4991",
+      "createdAt": "2026-01-05T03:48:50.628Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
