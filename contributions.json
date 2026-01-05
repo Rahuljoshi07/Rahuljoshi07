@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767581376144,
+      "repository": "argilo/gr-nrsc5",
+      "issueTitle": "gr-nrsc5 fails on gr3.8 with...",
+      "url": "https://github.com/argilo/gr-nrsc5/issues/11",
+      "createdAt": "2026-01-05T02:49:36.144Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
