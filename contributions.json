@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767608325535,
+      "repository": "alan-turing-institute/data-safe-haven",
+      "issueTitle": "\"Resource type azure-native:dns:RecordSet not found\" on TRE redeployment",
+      "url": "https://github.com/alan-turing-institute/data-safe-haven/issues/2511",
+      "createdAt": "2026-01-05T10:18:45.535Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
