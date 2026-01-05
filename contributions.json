@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767616822994,
+      "repository": "nextcloud/HaRP",
+      "issueTitle": "HaRP: internal HTTP daemon on 8200 returns 404 for /v1.44/_ping (AppAPI heartbeat fails)",
+      "url": "https://github.com/nextcloud/HaRP/issues/77",
+      "createdAt": "2026-01-05T12:40:22.994Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
