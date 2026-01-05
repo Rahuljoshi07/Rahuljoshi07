@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1767603588289,
+      "id": 1767603625189,
       "repository": "3liz/lizmap-web-client",
-      "issueTitle": "[Bug]: User set transparency does not work when \"Load layer as single WMS layer\" active (LWC 3.9.1)",
-      "url": "https://github.com/3liz/lizmap-web-client/issues/6061",
-      "createdAt": "2026-01-05T08:59:48.289Z",
+      "issueTitle": "[Bug]: after update to 3.9.1 --> \"This map contains some users additional JavaScript scripts. This can be the cause of this message, try disabling them\"",
+      "url": "https://github.com/3liz/lizmap-web-client/issues/5964",
+      "createdAt": "2026-01-05T09:00:25.189Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
