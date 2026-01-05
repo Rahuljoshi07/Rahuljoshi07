@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767607379015,
+      "repository": "arteck/ioBroker.zigbee2mqtt",
+      "issueTitle": "Error \"TypeError: mqttServer.closed is not a function\" after restarting",
+      "url": "https://github.com/arteck/ioBroker.zigbee2mqtt/issues/561",
+      "createdAt": "2026-01-05T10:02:59.015Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
