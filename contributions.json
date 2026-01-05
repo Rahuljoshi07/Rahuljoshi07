@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767578798119,
+      "repository": "sandialabs/pyttb",
+      "issueTitle": "Speed up sparse tensor export/import functionality using numpy.savetxt and numpy.loadtxt",
+      "url": "https://github.com/sandialabs/pyttb/issues/460",
+      "createdAt": "2026-01-05T02:06:38.119Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
