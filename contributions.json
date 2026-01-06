@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767668544704,
+      "repository": "Kode/kmake",
+      "issueTitle": "[Feature Request]Modify addLibrary apis to specify different debug / release paths.",
+      "url": "https://github.com/Kode/kmake/issues/61",
+      "createdAt": "2026-01-06T03:02:24.704Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
