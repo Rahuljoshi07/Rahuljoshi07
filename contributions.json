@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767693004209,
+      "repository": "EC-Earth/ece2cmor3",
+      "issueTitle": "Optimization: Avoid np.vectorize for simple arithmetic; use direct NumPy operations instead",
+      "url": "https://github.com/EC-Earth/ece2cmor3/issues/856",
+      "createdAt": "2026-01-06T09:50:04.209Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
