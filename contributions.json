@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767716640254,
+      "repository": "OWASP/www-project-vulnerable-web-applications-directory",
+      "issueTitle": "Enhanced JSON Schema Validation with Clear Error Reporting\n",
+      "url": "https://github.com/OWASP/www-project-vulnerable-web-applications-directory/issues/189",
+      "createdAt": "2026-01-06T16:24:00.254Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
