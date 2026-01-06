@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767715297616,
+      "repository": "ESMCI/cime",
+      "issueTitle": "Fix used-before-assignment and possibly-used-before-assignment issues detected with recent pylint versions",
+      "url": "https://github.com/ESMCI/cime/issues/4857",
+      "createdAt": "2026-01-06T16:01:37.616Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
