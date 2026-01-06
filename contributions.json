@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767667496647,
+      "repository": "MillenniumDawn/Millennium-Dawn",
+      "issueTitle": "[BUG] Investigate female portraits re-breaking for BBA",
+      "url": "https://github.com/MillenniumDawn/Millennium-Dawn/issues/141",
+      "createdAt": "2026-01-06T02:44:56.647Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
