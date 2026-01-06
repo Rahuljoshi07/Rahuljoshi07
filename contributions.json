@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767725868715,
+      "repository": "z3z1ma/dbt-osmosis",
+      "issueTitle": "dbt-osmosis installs dbt-core-interface + An error was encountered while trying to flush usage events",
+      "url": "https://github.com/z3z1ma/dbt-osmosis/issues/294",
+      "createdAt": "2026-01-06T18:57:48.716Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
