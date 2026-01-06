@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767739678269,
+      "repository": "kernelkit/infix",
+      "issueTitle": "Container not restarted when changing configuration",
+      "url": "https://github.com/kernelkit/infix/issues/1313",
+      "createdAt": "2026-01-06T22:47:58.269Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
