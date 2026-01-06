@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767701116259,
+      "repository": "J-Lich/abs-kosync-bridge",
+      "issueTitle": "Doesn't sync to audiobookshelf",
+      "url": "https://github.com/J-Lich/abs-kosync-bridge/issues/8",
+      "createdAt": "2026-01-06T12:05:16.259Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
