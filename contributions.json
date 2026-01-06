@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767700140430,
+      "repository": "Event-AHU/Medical_Image_Analysis",
+      "issueTitle": "FileNotFoundError: [Errno 2] No such file or directory: 'cam_features.pt'",
+      "url": "https://github.com/Event-AHU/Medical_Image_Analysis/issues/32",
+      "createdAt": "2026-01-06T11:49:00.430Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
