@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767732951647,
+      "repository": "llama-farm/llamafarm",
+      "issueTitle": "Consider listing tools separately from models and using a reference",
+      "url": "https://github.com/llama-farm/llamafarm/issues/647",
+      "createdAt": "2026-01-06T20:55:51.647Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
