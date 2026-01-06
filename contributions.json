@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767685739039,
+      "repository": "Zendure/Zendure-HA",
+      "issueTitle": "Bug or feature? Charging behavior when reaching the minimum SoC",
+      "url": "https://github.com/Zendure/Zendure-HA/issues/992",
+      "createdAt": "2026-01-06T07:48:59.039Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
