@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767679558780,
+      "repository": "django-haystack/celery-haystack",
+      "issueTitle": "Celery 5.2.7: Error importing module celery_haystack.tasks: \"No module named 'celery.task'\"",
+      "url": "https://github.com/django-haystack/celery-haystack/issues/97",
+      "createdAt": "2026-01-06T06:05:58.780Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
