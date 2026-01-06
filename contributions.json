@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767700910298,
+      "repository": "scikit-hep/awkward",
+      "issueTitle": "Backend Optimization",
+      "url": "https://github.com/scikit-hep/awkward/issues/3788",
+      "createdAt": "2026-01-06T12:01:50.298Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
