@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767667090899,
+      "repository": "adobe/helix-website",
+      "issueTitle": "[bug] Site search on https://www.aem.live is broken",
+      "url": "https://github.com/adobe/helix-website/issues/1036",
+      "createdAt": "2026-01-06T02:38:10.899Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
