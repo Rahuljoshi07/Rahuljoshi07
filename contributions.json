@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767724924458,
+      "repository": "nvidia-cosmos/cosmos-cookbook",
+      "issueTitle": "[BUG] Missing module \"omni.client\" when running end-to-end workflows",
+      "url": "https://github.com/nvidia-cosmos/cosmos-cookbook/issues/130",
+      "createdAt": "2026-01-06T18:42:04.458Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
