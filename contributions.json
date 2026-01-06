@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767682906810,
+      "repository": "arcosoph/nanowakeword",
+      "issueTitle": "Negative samples audibly contain wake word – expected hard-negative behavior or data issue?",
+      "url": "https://github.com/arcosoph/nanowakeword/issues/16",
+      "createdAt": "2026-01-06T07:01:46.810Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
