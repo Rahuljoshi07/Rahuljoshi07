@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767711325373,
+      "repository": "ramses-rf/ramses_rf",
+      "issueTitle": "Drop support for python 3.11 as of Feb. 2026",
+      "url": "https://github.com/ramses-rf/ramses_rf/issues/384",
+      "createdAt": "2026-01-06T14:55:25.373Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
