@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767730930147,
+      "repository": "dsphper/lanhu-mcp",
+      "issueTitle": "[BUG]Bug Report: Cookie 认证失败 - \"No valid session ID provided\"",
+      "url": "https://github.com/dsphper/lanhu-mcp/issues/10",
+      "createdAt": "2026-01-06T20:22:10.147Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
