@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767659736104,
+      "repository": "OpenHands/OpenHands-CLI",
+      "issueTitle": "Action confirmation pane doesn't have visible buttons when content is too long",
+      "url": "https://github.com/OpenHands/OpenHands-CLI/issues/275",
+      "createdAt": "2026-01-06T00:35:36.104Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
