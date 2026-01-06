@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767687698573,
+      "repository": "hynek/svcs",
+      "issueTitle": "ty 0.0.1a26+ breaks on fastapi and starlette integrations",
+      "url": "https://github.com/hynek/svcs/issues/151",
+      "createdAt": "2026-01-06T08:21:38.573Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
