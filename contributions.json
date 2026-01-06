@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767673656128,
+      "repository": "orion-ai-community/BizzAI",
+      "issueTitle": "Bug : Forgot Password API fails due to CORS policy in deployed environment",
+      "url": "https://github.com/orion-ai-community/BizzAI/issues/154",
+      "createdAt": "2026-01-06T04:27:36.128Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
