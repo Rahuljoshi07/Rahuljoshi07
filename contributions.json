@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767705546212,
+      "repository": "DrizzleTime/Foxel",
+      "issueTitle": "挂载openlist（WebDAV 策略为302重定向），分享文件时下载的文件为0kb",
+      "url": "https://github.com/DrizzleTime/Foxel/issues/43",
+      "createdAt": "2026-01-06T13:19:06.212Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
