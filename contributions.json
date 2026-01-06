@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767687910660,
+      "repository": "kalisio/feathers-distributed",
+      "issueTitle": "Open connections prevent process to close",
+      "url": "https://github.com/kalisio/feathers-distributed/issues/51",
+      "createdAt": "2026-01-06T08:25:10.660Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
