@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767730498298,
+      "repository": "prosch88/UFADE",
+      "issueTitle": "UFADE backup fails — repeatedly prompts for encrypted backup password and then errors",
+      "url": "https://github.com/prosch88/UFADE/issues/21",
+      "createdAt": "2026-01-06T20:14:58.298Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
