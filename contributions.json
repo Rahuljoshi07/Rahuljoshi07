@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767679176847,
+      "repository": "CyberSource/cybersource-rest-samples-python",
+      "issueTitle": "Running samples: ModuleNotFoundError: No module named 'Crypto'",
+      "url": "https://github.com/CyberSource/cybersource-rest-samples-python/issues/42",
+      "createdAt": "2026-01-06T05:59:36.847Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
