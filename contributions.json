@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767710289031,
+      "repository": "naztronaut/siril-scripts",
+      "issueTitle": "Platesolving issue when script is merging batchlights1.fit and batchlights2.fit (I think)",
+      "url": "https://github.com/naztronaut/siril-scripts/issues/55",
+      "createdAt": "2026-01-06T14:38:09.031Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
