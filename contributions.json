@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767675962134,
+      "repository": "yangyaofei/dify-vllm-provider",
+      "issueTitle": "JSONDecodeError",
+      "url": "https://github.com/yangyaofei/dify-vllm-provider/issues/17",
+      "createdAt": "2026-01-06T05:06:02.134Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
