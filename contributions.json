@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767699546315,
+      "repository": "weigertlab/spotiflow",
+      "issueTitle": "3D NMS min_dist Filter Bug?",
+      "url": "https://github.com/weigertlab/spotiflow/issues/51",
+      "createdAt": "2026-01-06T11:39:06.315Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
