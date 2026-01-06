@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767673708367,
+      "repository": "Dipanita45/HEALCONNECT",
+      "issueTitle": "issue with the text",
+      "url": "https://github.com/Dipanita45/HEALCONNECT/issues/111",
+      "createdAt": "2026-01-06T04:28:28.367Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
