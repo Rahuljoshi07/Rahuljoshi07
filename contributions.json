@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767736771031,
-      "repository": "faeibson/lovelace-multiline-text-input-card",
-      "issueTitle": "Screen will move up when typing on iOS",
-      "url": "https://github.com/faeibson/lovelace-multiline-text-input-card/issues/5",
-      "createdAt": "2026-01-06T21:59:31.031Z",
+      "id": 1767736806261,
+      "repository": "schmitech/orbit",
+      "issueTitle": "tech-debt: Check for variables used for debugging to avoid unnecessary computation",
+      "url": "https://github.com/schmitech/orbit/issues/119",
+      "createdAt": "2026-01-06T22:00:06.261Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
