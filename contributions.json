@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767660693086,
+      "id": 1767660729478,
       "repository": "LibreSign/libresign",
       "issueTitle": "Failed to merge PDF with footer ",
       "url": "https://github.com/LibreSign/libresign/issues/6235",
-      "createdAt": "2026-01-06T00:51:33.086Z",
+      "createdAt": "2026-01-06T00:52:09.478Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
