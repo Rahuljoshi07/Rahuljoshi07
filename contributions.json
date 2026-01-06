@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767690294785,
+      "repository": "RapidFireAI/rapidfireai",
+      "issueTitle": "[BUG][RAG][v0.12.6][RUN_EVALS] Online aggregation updates at shard boundaries only",
+      "url": "https://github.com/RapidFireAI/rapidfireai/issues/98",
+      "createdAt": "2026-01-06T09:04:54.785Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
