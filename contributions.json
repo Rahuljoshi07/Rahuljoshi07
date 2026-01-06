@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767731525420,
+      "repository": "adamchainz/django-read-only",
+      "issueTitle": "Move to SQL level protection",
+      "url": "https://github.com/adamchainz/django-read-only/issues/20",
+      "createdAt": "2026-01-06T20:32:05.421Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
