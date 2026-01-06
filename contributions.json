@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767711903252,
+      "repository": "League-of-Foundry-Developers/fvtt-module-popout",
+      "issueTitle": "[Bug Fix] Make `close`, `render`, `maximize`, and `minimize` function replacements `async`.",
+      "url": "https://github.com/League-of-Foundry-Developers/fvtt-module-popout/issues/153",
+      "createdAt": "2026-01-06T15:05:03.252Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
