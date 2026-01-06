@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767720456625,
+      "repository": "hitesh-kumar123/Smart-Rent-System",
+      "issueTitle": "Bug: Deprecated fallback to hardcoded production URL causes blank screen",
+      "url": "https://github.com/hitesh-kumar123/Smart-Rent-System/issues/73",
+      "createdAt": "2026-01-06T17:27:36.625Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
