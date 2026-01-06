@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767684191837,
+      "repository": "Agent-Hellboy/mcp-server-fuzzer",
+      "issueTitle": "Review all code flow of reporter components",
+      "url": "https://github.com/Agent-Hellboy/mcp-server-fuzzer/issues/141",
+      "createdAt": "2026-01-06T07:23:11.838Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
