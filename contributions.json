@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767695028198,
+      "repository": "OpenCTI-Platform/connectors",
+      "issueTitle": "MISP connector only imports small set of data / small timerange",
+      "url": "https://github.com/OpenCTI-Platform/connectors/issues/5452",
+      "createdAt": "2026-01-06T10:23:48.198Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
