@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767730780421,
+      "repository": "nikunjsingh93/react-glass-keep",
+      "issueTitle": "Scrolling issues when editing large note on mobile device",
+      "url": "https://github.com/nikunjsingh93/react-glass-keep/issues/3",
+      "createdAt": "2026-01-06T20:19:40.422Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
