@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767677213543,
+      "repository": "kyamagu/psd2svg",
+      "issueTitle": "Log resource limit warnings before hard errors",
+      "url": "https://github.com/kyamagu/psd2svg/issues/240",
+      "createdAt": "2026-01-06T05:26:53.543Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
