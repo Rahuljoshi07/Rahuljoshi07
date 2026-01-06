@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767689324276,
+      "repository": "futurestudio/hapi-rate-limitor",
+      "issueTitle": "Rate limit not resetting on time",
+      "url": "https://github.com/futurestudio/hapi-rate-limitor/issues/262",
+      "createdAt": "2026-01-06T08:48:44.276Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
