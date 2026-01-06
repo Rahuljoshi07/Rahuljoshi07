@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767717955103,
+      "repository": "CharlesPikachu/videodl",
+      "issueTitle": "Nothing but errors",
+      "url": "https://github.com/CharlesPikachu/videodl/issues/35",
+      "createdAt": "2026-01-06T16:45:55.103Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
