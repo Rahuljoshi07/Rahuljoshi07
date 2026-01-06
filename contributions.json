@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767662226572,
+      "repository": "AgregoreWeb/agregore-browser",
+      "issueTitle": "perf: LLM API Fails with \"fetch failed\" Error When Using Ollama",
+      "url": "https://github.com/AgregoreWeb/agregore-browser/issues/310",
+      "createdAt": "2026-01-06T01:17:06.572Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
