@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767701260298,
+      "repository": "AikidoSec/safe-chain",
+      "issueTitle": "[Bug]: Unable to install binary safe-chain on node:22 or node:24 docker containers",
+      "url": "https://github.com/AikidoSec/safe-chain/issues/212",
+      "createdAt": "2026-01-06T12:07:40.298Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
