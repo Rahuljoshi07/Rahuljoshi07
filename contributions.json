@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767697171320,
-      "repository": "2M4U/2m4u",
-      "issueTitle": ".env.template is missing",
-      "url": "https://github.com/2M4U/2m4u/issues/9",
-      "createdAt": "2026-01-06T10:59:31.320Z",
+      "id": 1767697200499,
+      "repository": "ServiceStack/llms",
+      "issueTitle": "ollama: attaching a file does not work/results in error 500/400 Bad request",
+      "url": "https://github.com/ServiceStack/llms/issues/11",
+      "createdAt": "2026-01-06T11:00:00.499Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
