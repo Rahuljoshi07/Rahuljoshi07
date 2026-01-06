@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767732228810,
+      "repository": "muchimi/JoystickGremlinEx",
+      "issueTitle": "M76T137 (UI) - Adding a Joystick Condition results in an error",
+      "url": "https://github.com/muchimi/JoystickGremlinEx/issues/449",
+      "createdAt": "2026-01-06T20:43:48.810Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
