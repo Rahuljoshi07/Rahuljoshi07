@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767676142580,
+      "id": 1767676184113,
       "repository": "stdlib-js/www",
       "issueTitle": "[Bug]: error decoder page links standalone packages to non-existent URLs",
       "url": "https://github.com/stdlib-js/www/issues/105",
-      "createdAt": "2026-01-06T05:09:02.580Z",
+      "createdAt": "2026-01-06T05:09:44.113Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
