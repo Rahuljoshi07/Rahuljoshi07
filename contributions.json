@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767813012187,
+      "repository": "hiddenSymmetries/simsopt",
+      "issueTitle": "Interpolant issue when s>1",
+      "url": "https://github.com/hiddenSymmetries/simsopt/issues/523",
+      "createdAt": "2026-01-07T19:10:12.187Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
