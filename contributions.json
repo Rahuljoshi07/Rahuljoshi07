@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767774788912,
+      "repository": "visualbruno/ComfyUI-Trellis2",
+      "issueTitle": "An error occurred while using the latest Linux o-voxel wheel.",
+      "url": "https://github.com/visualbruno/ComfyUI-Trellis2/issues/60",
+      "createdAt": "2026-01-07T08:33:08.912Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
