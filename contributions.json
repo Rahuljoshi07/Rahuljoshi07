@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767804034464,
+      "repository": "cylc/cylc-ui",
+      "issueTitle": "analysis: duplicate tasks and duplicate filters",
+      "url": "https://github.com/cylc/cylc-ui/issues/2398",
+      "createdAt": "2026-01-07T16:40:34.464Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
