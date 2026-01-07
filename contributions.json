@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767749723230,
+      "repository": "NVIDIA-NeMo/Evaluator",
+      "issueTitle": "The supported tasks of nemo-evaluator-launcher are much less than nemo-evaluator",
+      "url": "https://github.com/NVIDIA-NeMo/Evaluator/issues/436",
+      "createdAt": "2026-01-07T01:35:23.230Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
