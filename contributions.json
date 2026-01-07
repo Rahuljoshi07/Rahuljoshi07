@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767769261905,
-      "repository": "socketio/socket.io-website",
-      "issueTitle": "Step #7 Server delivery has multiple issues",
-      "url": "https://github.com/socketio/socket.io-website/issues/512",
-      "createdAt": "2026-01-07T07:01:01.905Z",
+      "id": 1767769301995,
+      "repository": "iobroker-community-adapters/ioBroker.device-watcher",
+      "issueTitle": "Please consider fixing issues detected by repository checker",
+      "url": "https://github.com/iobroker-community-adapters/ioBroker.device-watcher/issues/576",
+      "createdAt": "2026-01-07T07:01:41.995Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
