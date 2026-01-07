@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767823612960,
+      "repository": "danielrivard/homeassistant-innova",
+      "issueTitle": "Error Connecting to Innova Devices",
+      "url": "https://github.com/danielrivard/homeassistant-innova/issues/123",
+      "createdAt": "2026-01-07T22:06:52.960Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
