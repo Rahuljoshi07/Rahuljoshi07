@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767797694848,
-      "repository": "gcovr/gcovr",
-      "issueTitle": "Inconsistency in coverage reports",
-      "url": "https://github.com/gcovr/gcovr/issues/1215",
-      "createdAt": "2026-01-07T14:54:54.848Z",
+      "id": 1767797739841,
+      "repository": "crnormand/gurps",
+      "issueTitle": "Possible BUG (it's definitely a bug, but I'm not sure if it's GGA)",
+      "url": "https://github.com/crnormand/gurps/issues/2466",
+      "createdAt": "2026-01-07T14:55:39.841Z",
       "type": "comment",
-      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
