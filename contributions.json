@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767825156220,
+      "repository": "Emu86Dev/Emu86",
+      "issueTitle": "intel \"a simple function call\" fails for stepping: (potential call stack issue?)",
+      "url": "https://github.com/Emu86Dev/Emu86/issues/125",
+      "createdAt": "2026-01-07T22:32:36.220Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
