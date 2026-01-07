@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767816601161,
+      "repository": "dorna-robotics/dorna2-python",
+      "issueTitle": "Error code -600 in response to jmove?",
+      "url": "https://github.com/dorna-robotics/dorna2-python/issues/16",
+      "createdAt": "2026-01-07T20:10:01.161Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
