@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767777084444,
+      "repository": "blocklet/create-blocklet",
+      "issueTitle": "[Bug]: 安装的模板第一次启动后会写入 .env.development 然后触发 vite restart，会导致无法访问 vite 资源",
+      "url": "https://github.com/blocklet/create-blocklet/issues/400",
+      "createdAt": "2026-01-07T09:11:24.444Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
