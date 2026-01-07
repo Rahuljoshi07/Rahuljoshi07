@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767816275694,
+      "repository": "griptape-ai/griptape-nodes",
+      "issueTitle": "Asking the agent in the sidebar to create an image, the image won't show up unless you refresh the browser.",
+      "url": "https://github.com/griptape-ai/griptape-nodes/issues/3612",
+      "createdAt": "2026-01-07T20:04:35.694Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
