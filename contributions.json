@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767789782015,
+      "repository": "pulp/plugin_template",
+      "issueTitle": "Misformatted changelog on \"Update Changelog\" PR",
+      "url": "https://github.com/pulp/plugin_template/issues/907",
+      "createdAt": "2026-01-07T12:43:02.015Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
