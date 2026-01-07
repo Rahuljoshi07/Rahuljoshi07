@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767788667933,
+      "repository": "hitesh-kumar123/Smart-Rent-System",
+      "issueTitle": "BUG: Clicking on “Los Angeles” should open city-specific listings instead of generic listings page",
+      "url": "https://github.com/hitesh-kumar123/Smart-Rent-System/issues/82",
+      "createdAt": "2026-01-07T12:24:27.934Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
