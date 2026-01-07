@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767824452158,
+      "repository": "pyrocko/qseek",
+      "issueTitle": "Value Error: Nodes=0",
+      "url": "https://github.com/pyrocko/qseek/issues/35",
+      "createdAt": "2026-01-07T22:20:52.158Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
