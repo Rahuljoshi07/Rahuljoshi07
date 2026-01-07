@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767749889671,
+      "repository": "MillenniumDawn/Millennium-Dawn",
+      "issueTitle": "[BUG] Intermittent mis-matched display of investments from AI",
+      "url": "https://github.com/MillenniumDawn/Millennium-Dawn/issues/227",
+      "createdAt": "2026-01-07T01:38:09.672Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
