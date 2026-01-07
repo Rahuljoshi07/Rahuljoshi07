@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767778255204,
+      "repository": "SEKOIA-IO/documentation",
+      "issueTitle": "Possible error on the page How to write a parser (grok part)",
+      "url": "https://github.com/SEKOIA-IO/documentation/issues/2121",
+      "createdAt": "2026-01-07T09:30:55.204Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
