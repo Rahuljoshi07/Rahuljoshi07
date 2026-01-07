@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767811595702,
+      "repository": "nilsnolde/valhalla-qgis-plugin",
+      "issueTitle": "Plugin \"Locations are empty\" error",
+      "url": "https://github.com/nilsnolde/valhalla-qgis-plugin/issues/34",
+      "createdAt": "2026-01-07T18:46:35.702Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
