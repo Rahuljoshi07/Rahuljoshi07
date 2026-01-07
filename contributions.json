@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767822477261,
+      "repository": "melvincarvalho/noskey",
+      "issueTitle": "npm i -g noskey results in libnode.so.72 error on Ubuntu 24.04",
+      "url": "https://github.com/melvincarvalho/noskey/issues/2",
+      "createdAt": "2026-01-07T21:47:57.261Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
