@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767776396193,
+      "repository": "SN-Koarashi/ig-helper",
+      "issueTitle": "BUG: Lower quality than possible",
+      "url": "https://github.com/SN-Koarashi/ig-helper/issues/115",
+      "createdAt": "2026-01-07T08:59:56.193Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
