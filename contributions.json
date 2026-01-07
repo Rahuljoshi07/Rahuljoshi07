@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767750048384,
+      "repository": "meizhong986/WhisperJAV",
+      "issueTitle": "5090显卡转录Large V2大模型 报错:ValueError: Requested int8_float16 compute type...",
+      "url": "https://github.com/meizhong986/WhisperJAV/issues/113",
+      "createdAt": "2026-01-07T01:40:48.384Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
