@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767815612448,
+      "repository": "dfetch-org/dfetch",
+      "issueTitle": "Git ssh key issues not reported",
+      "url": "https://github.com/dfetch-org/dfetch/issues/771",
+      "createdAt": "2026-01-07T19:53:32.448Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
