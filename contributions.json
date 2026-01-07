@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767782304348,
+      "repository": "databrickslabs/ontos",
+      "issueTitle": "[BUG]: Postgres Schema not created when APP_DB_DROP_ON_START is set to false during first deployment",
+      "url": "https://github.com/databrickslabs/ontos/issues/38",
+      "createdAt": "2026-01-07T10:38:24.349Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
