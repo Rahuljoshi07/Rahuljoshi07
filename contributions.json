@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767746592182,
+      "repository": "klein0r/ioBroker.octoprint",
+      "issueTitle": "[Bug]: received 403 response ([downloadThumbnailFor] [plugin slicer thumbnails])",
+      "url": "https://github.com/klein0r/ioBroker.octoprint/issues/331",
+      "createdAt": "2026-01-07T00:43:12.182Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
