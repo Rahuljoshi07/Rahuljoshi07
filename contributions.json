@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767814830752,
+      "repository": "orion-ai-community/BizzAI",
+      "issueTitle": "Bug: Cash in Hand totals are incorrect and do not reflect all cash-out transactions",
+      "url": "https://github.com/orion-ai-community/BizzAI/issues/161",
+      "createdAt": "2026-01-07T19:40:30.752Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
