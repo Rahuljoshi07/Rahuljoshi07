@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767803135536,
+      "repository": "RegioHelden/django-scrubber",
+      "issueTitle": "Django 6.0 compat",
+      "url": "https://github.com/RegioHelden/django-scrubber/issues/176",
+      "createdAt": "2026-01-07T16:25:35.536Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
