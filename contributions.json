@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767796057874,
+      "repository": "fedora-copr/logdetective",
+      "issueTitle": "Create note in MR rather than a discussion",
+      "url": "https://github.com/fedora-copr/logdetective/issues/331",
+      "createdAt": "2026-01-07T14:27:37.874Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
