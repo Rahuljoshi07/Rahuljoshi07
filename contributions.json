@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767778172838,
+      "repository": "Open-CMSIS-Pack/cmsis-toolbox",
+      "issueTitle": "[Bug]: `execute` with `always` flag at project level is called even for unrelated contexts",
+      "url": "https://github.com/Open-CMSIS-Pack/cmsis-toolbox/issues/448",
+      "createdAt": "2026-01-07T09:29:32.839Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
