@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767804234269,
+      "repository": "3dem/model-angelo",
+      "issueTitle": "Error in model building of protein fibril",
+      "url": "https://github.com/3dem/model-angelo/issues/120",
+      "createdAt": "2026-01-07T16:43:54.269Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
