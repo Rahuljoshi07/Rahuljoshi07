@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767778945344,
+      "repository": "AprilSylph/XKit-Rewritten",
+      "issueTitle": "visual bugs on the post footer",
+      "url": "https://github.com/AprilSylph/XKit-Rewritten/issues/2020",
+      "createdAt": "2026-01-07T09:42:25.344Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
