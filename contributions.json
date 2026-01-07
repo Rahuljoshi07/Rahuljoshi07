@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1767767559903,
-      "repository": "F5Networks/k8s-bigip-ctlr",
-      "issueTitle": "F5 CIS sends empty schemaVersion value triggering 422 response and breaking the full cis to big-ip communication for all the created VirtualServers",
-      "url": "https://github.com/F5Networks/k8s-bigip-ctlr/issues/4015",
-      "createdAt": "2026-01-07T06:32:39.903Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
