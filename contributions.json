@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767822961592,
+      "repository": "nightlark/pymsi",
+      "issueTitle": "[BUG] ValueError: There should be exactly one root directory in the file tree",
+      "url": "https://github.com/nightlark/pymsi/issues/61",
+      "createdAt": "2026-01-07T21:56:01.592Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
