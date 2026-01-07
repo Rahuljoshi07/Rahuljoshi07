@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767819239250,
+      "id": 1767819271061,
       "repository": "the-luap/picpeak",
       "issueTitle": "[BUG] Settings Image Protection does not load",
       "url": "https://github.com/the-luap/picpeak/issues/76",
-      "createdAt": "2026-01-07T20:53:59.250Z",
+      "createdAt": "2026-01-07T20:54:31.061Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
