@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767788908167,
+      "repository": "databrickslabs/lakebridge",
+      "issueTitle": "[BUG]: CLI mishandles `--log-level=` and `--debug`",
+      "url": "https://github.com/databrickslabs/lakebridge/issues/2211",
+      "createdAt": "2026-01-07T12:28:28.167Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
