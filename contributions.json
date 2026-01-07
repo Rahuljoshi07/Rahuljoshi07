@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1767801063508,
+      "id": 1767801101875,
       "repository": "adaptlearning/adapt-contrib-spoor",
-      "issueTitle": "Resetting location may be ignored in SCORM 2004",
-      "url": "https://github.com/adaptlearning/adapt-contrib-spoor/issues/344",
-      "createdAt": "2026-01-07T15:51:03.508Z",
+      "issueTitle": "`offlineStorage.clear` scope - only clears `cmi.suspend_data`?",
+      "url": "https://github.com/adaptlearning/adapt-contrib-spoor/issues/349",
+      "createdAt": "2026-01-07T15:51:41.875Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
