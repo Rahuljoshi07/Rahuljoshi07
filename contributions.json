@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767757862286,
+      "repository": "lastsunday/job-hunting",
+      "issueTitle": "BOSS直聘自动浏览职位搜索页功能异常",
+      "url": "https://github.com/lastsunday/job-hunting/issues/178",
+      "createdAt": "2026-01-07T03:51:02.286Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
