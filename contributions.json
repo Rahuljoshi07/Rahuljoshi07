@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767797934429,
+      "repository": "r2hu1/MySocials",
+      "issueTitle": "Clerk Sign Up Error",
+      "url": "https://github.com/r2hu1/MySocials/issues/12",
+      "createdAt": "2026-01-07T14:58:54.429Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
