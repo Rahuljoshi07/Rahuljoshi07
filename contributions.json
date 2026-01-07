@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1767747618557,
+      "id": 1767747652063,
       "repository": "linuxmint/cinnamon-spices-applets",
-      "issueTitle": "Applet Bug",
-      "url": "https://github.com/linuxmint/cinnamon-spices-applets/issues/8156",
-      "createdAt": "2026-01-07T01:00:18.557Z",
+      "issueTitle": "[Security] ReDoS vulnerability in weather@mockturtl applet via luxon@3.2.0 (CVE-2023-22467)",
+      "url": "https://github.com/linuxmint/cinnamon-spices-applets/issues/8155",
+      "createdAt": "2026-01-07T01:00:52.063Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
