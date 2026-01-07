@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767830021721,
+      "repository": "linux-system-roles/network",
+      "issueTitle": "On dnf5 systems (e.g. Fedora 41) python3-rpm required + error message not descriptive",
+      "url": "https://github.com/linux-system-roles/network/issues/766",
+      "createdAt": "2026-01-07T23:53:41.721Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
