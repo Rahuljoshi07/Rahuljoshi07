@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767752024269,
+      "repository": "aconrad/pycobertura",
+      "issueTitle": "Error when using --ignore-regex with diff",
+      "url": "https://github.com/aconrad/pycobertura/issues/190",
+      "createdAt": "2026-01-07T02:13:44.269Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
