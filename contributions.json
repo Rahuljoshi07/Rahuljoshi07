@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767786067746,
+      "repository": "google/secops-wrapper",
+      "issueTitle": "error exporting multiple Nativedashboards",
+      "url": "https://github.com/google/secops-wrapper/issues/166",
+      "createdAt": "2026-01-07T11:41:07.746Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
