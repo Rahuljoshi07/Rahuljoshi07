@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767804798634,
+      "repository": "kyochikuto/Rainb0w",
+      "issueTitle": "script error: unknown flag",
+      "url": "https://github.com/kyochikuto/Rainb0w/issues/11",
+      "createdAt": "2026-01-07T16:53:18.634Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
