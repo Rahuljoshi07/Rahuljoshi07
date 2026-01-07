@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767751812174,
+      "repository": "caelestia-dots/cli",
+      "issueTitle": "[BUG] toggleing special workspace execute command but not open workspace",
+      "url": "https://github.com/caelestia-dots/cli/issues/73",
+      "createdAt": "2026-01-07T02:10:12.174Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
