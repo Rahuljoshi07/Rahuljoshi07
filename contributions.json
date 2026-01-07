@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767747272708,
+      "repository": "Comfy-Org/comfy-kitchen",
+      "issueTitle": "memory bug",
+      "url": "https://github.com/Comfy-Org/comfy-kitchen/issues/10",
+      "createdAt": "2026-01-07T00:54:32.708Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
