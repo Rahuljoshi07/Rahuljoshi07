@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767814693784,
+      "repository": "nygma2004/km",
+      "issueTitle": "Tried it, but gave me an error",
+      "url": "https://github.com/nygma2004/km/issues/1",
+      "createdAt": "2026-01-07T19:38:13.784Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
