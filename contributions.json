@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767805276023,
+      "repository": "hitesh-kumar123/Smart-Rent-System",
+      "issueTitle": "Bug: Clicking on “Chicago” should open city-specific listings instead of generic listings page",
+      "url": "https://github.com/hitesh-kumar123/Smart-Rent-System/issues/83",
+      "createdAt": "2026-01-07T17:01:16.023Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
