@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1767771139411,
+      "id": 1767771172146,
       "repository": "jsonresume/jsonresume.org",
-      "issueTitle": "[Bug]: date don't show correctly in a theme that hasn't been updated for 4 years",
-      "url": "https://github.com/jsonresume/jsonresume.org/issues/250",
-      "createdAt": "2026-01-07T07:32:19.411Z",
+      "issueTitle": "[Bug]: Don't use a styled date range for single dates",
+      "url": "https://github.com/jsonresume/jsonresume.org/issues/252",
+      "createdAt": "2026-01-07T07:32:52.146Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
