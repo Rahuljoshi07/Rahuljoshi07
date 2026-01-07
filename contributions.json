@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767778442607,
+      "repository": "KudoAI/duckduckgpt",
+      "issueTitle": "DDG spam covered by DDGPT",
+      "url": "https://github.com/KudoAI/duckduckgpt/issues/156",
+      "createdAt": "2026-01-07T09:34:02.608Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
