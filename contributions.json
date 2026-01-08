@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767833379814,
+      "repository": "airbytehq/airbyte-python-cdk",
+      "issueTitle": "Performance issue with `PartitionEnqueuer` for large number of partitions",
+      "url": "https://github.com/airbytehq/airbyte-python-cdk/issues/872",
+      "createdAt": "2026-01-08T00:49:39.814Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
