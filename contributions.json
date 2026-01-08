@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767836274434,
+      "repository": "tgoai/tgo",
+      "issueTitle": "[Bug] \"Unknown model error\" when invoking local model",
+      "url": "https://github.com/tgoai/tgo/issues/12",
+      "createdAt": "2026-01-08T01:37:54.434Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
