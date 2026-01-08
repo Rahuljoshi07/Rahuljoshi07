@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767831418006,
+      "repository": "auth0/auth0-checkmate",
+      "issueTitle": "JWT Signing Algorithm validator incorrectly assumes no jwt configuration defaults to RS256",
+      "url": "https://github.com/auth0/auth0-checkmate/issues/51",
+      "createdAt": "2026-01-08T00:16:58.006Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
