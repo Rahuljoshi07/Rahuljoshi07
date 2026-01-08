@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767833286018,
+      "repository": "DataDog/dd-trace-py",
+      "issueTitle": "[BUG]: pymongo >=4.12 does not report spans",
+      "url": "https://github.com/DataDog/dd-trace-py/issues/13684",
+      "createdAt": "2026-01-08T00:48:06.018Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
