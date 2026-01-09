@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767961064109,
+      "repository": "lovell/limax",
+      "issueTitle": "Mapping of umlauts broken",
+      "url": "https://github.com/lovell/limax/issues/50",
+      "createdAt": "2026-01-09T12:17:44.109Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
