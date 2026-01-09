@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1767921567739,
+      "id": 1767921595265,
       "repository": "nextcloud/mail",
-      "issueTitle": "Copy-Paste of a mail shown in NCmail does not contain the mail's body",
-      "url": "https://github.com/nextcloud/mail/issues/11916",
-      "createdAt": "2026-01-09T01:19:27.739Z",
+      "issueTitle": "Wrong rendering from api",
+      "url": "https://github.com/nextcloud/mail/issues/10522",
+      "createdAt": "2026-01-09T01:19:55.265Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
