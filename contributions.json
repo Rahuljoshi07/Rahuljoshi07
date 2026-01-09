@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1767954121383,
+      "id": 1767954189209,
       "repository": "remarkablemark/html-dom-parser",
       "issueTitle": "「ESM build」Broken relative import in /esm/client/html-to-dom.mjs under strict ESM resolvers (CodeSandbox / Webpack5 experiments)",
       "url": "https://github.com/remarkablemark/html-dom-parser/issues/1222",
-      "createdAt": "2026-01-09T10:22:01.383Z",
+      "createdAt": "2026-01-09T10:23:09.210Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
