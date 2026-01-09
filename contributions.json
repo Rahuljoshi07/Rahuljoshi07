@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767934622670,
+      "repository": "EpicWink/proxpi",
+      "issueTitle": "Invalid gzip header fetching dependent with uv",
+      "url": "https://github.com/EpicWink/proxpi/issues/67",
+      "createdAt": "2026-01-09T04:57:02.670Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
