@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767960332643,
+      "repository": "jesus2099/konami-command",
+      "issueTitle": "TRACKLIST_TOOLS: “Set selected recording dates” does not handle newly added relationships",
+      "url": "https://github.com/jesus2099/konami-command/issues/948",
+      "createdAt": "2026-01-09T12:05:32.643Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
