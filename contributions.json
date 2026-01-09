@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767932809031,
+      "repository": "cortexrd/Knack-Toolkit-Library",
+      "issueTitle": "User Filters table have multiple records connected to the same account",
+      "url": "https://github.com/cortexrd/Knack-Toolkit-Library/issues/555",
+      "createdAt": "2026-01-09T04:26:49.031Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
