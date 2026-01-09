@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767961515883,
+      "repository": "Nuitka-Commander/nuitka-commander.github.io",
+      "issueTitle": "[BUG] 无法导入\\换行符",
+      "url": "https://github.com/Nuitka-Commander/nuitka-commander.github.io/issues/105",
+      "createdAt": "2026-01-09T12:25:15.883Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
