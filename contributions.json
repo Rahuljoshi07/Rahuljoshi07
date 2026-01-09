@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767923717291,
+      "repository": "babalae/bettergi-scripts-list",
+      "issueTitle": "[Bug]: 打开一脚本“修改JS脚本自定义配置”时报错",
+      "url": "https://github.com/babalae/bettergi-scripts-list/issues/2645",
+      "createdAt": "2026-01-09T01:55:17.291Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
