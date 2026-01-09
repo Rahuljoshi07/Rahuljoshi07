@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767955429744,
+      "repository": "m0wer/joinmarket-ng",
+      "issueTitle": "Improve Bitcoin full node wallet scan performance (currently scantxoutset)",
+      "url": "https://github.com/m0wer/joinmarket-ng/issues/62",
+      "createdAt": "2026-01-09T10:43:49.745Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
