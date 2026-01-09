@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1767951633377,
+      "repository": "kungful/ComfyUI_to_webui",
+      "issueTitle": "httpx[socks] error despite being installed.",
+      "url": "https://github.com/kungful/ComfyUI_to_webui/issues/4",
+      "createdAt": "2026-01-09T09:40:33.377Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
