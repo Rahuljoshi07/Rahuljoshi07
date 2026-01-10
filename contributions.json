@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768074136031,
-      "repository": "2M4U/2m4u",
-      "issueTitle": ".env.template is missing",
-      "url": "https://github.com/2M4U/2m4u/issues/9",
-      "createdAt": "2026-01-10T19:42:16.031Z",
+      "id": 1768074185039,
+      "repository": "iamkroot/trakt-scrobbler",
+      "issueTitle": "[BUG] movie / episode added multiple times to the history.",
+      "url": "https://github.com/iamkroot/trakt-scrobbler/issues/351",
+      "createdAt": "2026-01-10T19:43:05.039Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
