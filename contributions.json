@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768064928115,
+      "repository": "ebaauw/homebridge-rpi",
+      "issueTitle": "Restore backup image of Homebridge and receiving RPI [02/01/2026, 10:49:02] [RPi] 127.0.0.1: warning: 127.0.0.1:8888: cannot connect: ECONNREFUSED error",
+      "url": "https://github.com/ebaauw/homebridge-rpi/issues/191",
+      "createdAt": "2026-01-10T17:08:48.115Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
