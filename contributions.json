@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768010131051,
+      "repository": "nextcloud/talk-desktop",
+      "issueTitle": "Nextcloud Talk does not save files when Download file clicked in chat",
+      "url": "https://github.com/nextcloud/talk-desktop/issues/1618",
+      "createdAt": "2026-01-10T01:55:31.051Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
