@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768008183408,
+      "repository": "virt-lightning/virt-lightning",
+      "issueTitle": "VM starting with non-existent network results in non-handled error",
+      "url": "https://github.com/virt-lightning/virt-lightning/issues/312",
+      "createdAt": "2026-01-10T01:23:03.408Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
