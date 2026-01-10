@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768085879154,
+      "repository": "dust-books/dust-server",
+      "issueTitle": "[Bug]: Docker build instructions are wrong",
+      "url": "https://github.com/dust-books/dust-server/issues/22",
+      "createdAt": "2026-01-10T22:57:59.154Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
