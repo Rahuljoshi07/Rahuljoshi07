@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768068191560,
+      "repository": "MeguminBOT/TextureAtlas-Toolbox",
+      "issueTitle": "FNF specific: Fix characters that have two or more animations using the same animation name but different indices.",
+      "url": "https://github.com/MeguminBOT/TextureAtlas-Toolbox/issues/28",
+      "createdAt": "2026-01-10T18:03:11.561Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
