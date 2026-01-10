@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768038789514,
+      "repository": "git-kick/ioBroker.e3dc-rscp",
+      "issueTitle": "RangeError (Sentry E3DC-RSCP-28)",
+      "url": "https://github.com/git-kick/ioBroker.e3dc-rscp/issues/205",
+      "createdAt": "2026-01-10T09:53:09.514Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
