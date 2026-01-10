@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768036556890,
+      "repository": "Candinya/Kratos-Rebirth",
+      "issueTitle": "Bug 回报：考虑默认不设banner的博客主题字体颜色",
+      "url": "https://github.com/Candinya/Kratos-Rebirth/issues/224",
+      "createdAt": "2026-01-10T09:15:56.891Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
