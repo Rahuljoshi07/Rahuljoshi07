@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1768079614062,
-      "repository": "kneave/climate-scheduler",
-      "issueTitle": "Between 00:00 and first setpoint, last point from the current day applied instead of d-1",
-      "url": "https://github.com/kneave/climate-scheduler/issues/101",
-      "createdAt": "2026-01-10T21:13:34.062Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
