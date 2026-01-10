@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768077183392,
+      "repository": "gcovr/gcovr",
+      "issueTitle": "lcov output errors",
+      "url": "https://github.com/gcovr/gcovr/issues/1190",
+      "createdAt": "2026-01-10T20:33:03.392Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
