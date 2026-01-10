@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768085585856,
+      "repository": "Mews/py-roblox-bot",
+      "issueTitle": "Failsafe has to wait for any `time.sleep` to finish before terminating program",
+      "url": "https://github.com/Mews/py-roblox-bot/issues/8",
+      "createdAt": "2026-01-10T22:53:05.856Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
