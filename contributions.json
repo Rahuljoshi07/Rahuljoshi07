@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768254184546,
+      "repository": "medic/cht-conf",
+      "issueTitle": "Add support for having the target subtitles to be a function",
+      "url": "https://github.com/medic/cht-conf/issues/775",
+      "createdAt": "2026-01-12T21:43:04.546Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
