@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768243064184,
+      "repository": "orion-ai-community/BizzAI",
+      "issueTitle": "Bug: Black Background in Delivery Challan Modal",
+      "url": "https://github.com/orion-ai-community/BizzAI/issues/192",
+      "createdAt": "2026-01-12T18:37:44.184Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
