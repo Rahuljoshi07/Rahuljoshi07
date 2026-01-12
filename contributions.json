@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768194085633,
+      "repository": "kypvalanx/Foundry-VTT-StarWars-SagaEdition",
+      "issueTitle": "[Bug] Creating new actors",
+      "url": "https://github.com/kypvalanx/Foundry-VTT-StarWars-SagaEdition/issues/557",
+      "createdAt": "2026-01-12T05:01:25.633Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
