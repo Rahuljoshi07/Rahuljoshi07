@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768221717074,
+      "repository": "new-sankaku/manga-editor-desu",
+      "issueTitle": "FAKE SAVE issue.",
+      "url": "https://github.com/new-sankaku/manga-editor-desu/issues/63",
+      "createdAt": "2026-01-12T12:41:57.074Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
