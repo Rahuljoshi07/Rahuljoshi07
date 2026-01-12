@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768248880350,
+      "repository": "nextcloud/collectives",
+      "issueTitle": "Collectives cannot be shared with users with zero quota",
+      "url": "https://github.com/nextcloud/collectives/issues/2189",
+      "createdAt": "2026-01-12T20:14:40.350Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
