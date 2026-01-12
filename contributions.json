@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768220775616,
+      "repository": "shreyashpatel5506/githubanalyzer",
+      "issueTitle": "[Issue]: Add error boundary for dynamic pages",
+      "url": "https://github.com/shreyashpatel5506/githubanalyzer/issues/7",
+      "createdAt": "2026-01-12T12:26:15.616Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
