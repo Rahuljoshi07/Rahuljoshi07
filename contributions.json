@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1768208333280,
+      "id": 1768208363440,
       "repository": "nextcloud/mail",
-      "issueTitle": "Message preview with \"Content-Transfer-Encoding: base64\" wrong?",
-      "url": "https://github.com/nextcloud/mail/issues/12228",
-      "createdAt": "2026-01-12T08:58:53.280Z",
+      "issueTitle": "TypeError: PHPMailer\\DKIMValidator\\DKIM::canonicalizeBody(): Argument #2 ($style) must be of type string, null given",
+      "url": "https://github.com/nextcloud/mail/issues/12206",
+      "createdAt": "2026-01-12T08:59:23.441Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
