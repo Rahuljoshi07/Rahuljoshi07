@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768194393178,
+      "repository": "loopbackio/strong-error-handler",
+      "issueTitle": "Support `expose` property of http-errors",
+      "url": "https://github.com/loopbackio/strong-error-handler/issues/78",
+      "createdAt": "2026-01-12T05:06:33.178Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
