@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768217036114,
-      "repository": "Kanahiro/chiitiler",
-      "issueTitle": "Server returns 500 instead of 4xx if no `style` key is POSTed in request",
-      "url": "https://github.com/Kanahiro/chiitiler/issues/136",
-      "createdAt": "2026-01-12T11:23:56.114Z",
+      "id": 1768217101660,
+      "repository": "Bellisario/node-snapdrop",
+      "issueTitle": "[Bug] \"DOMException: Failed to execute 'setRemoteDescription' on 'RTCPeerConnection': Failed to set remote answer sdp: Called in wrong state: stable\"",
+      "url": "https://github.com/Bellisario/node-snapdrop/issues/24",
+      "createdAt": "2026-01-12T11:25:01.660Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
