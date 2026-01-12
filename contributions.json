@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768207180444,
+      "repository": "tenstorrent/tt-forge",
+      "issueTitle": "TT-xla performance tests failure 12-01-2026",
+      "url": "https://github.com/tenstorrent/tt-forge/issues/790",
+      "createdAt": "2026-01-12T08:39:40.444Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
