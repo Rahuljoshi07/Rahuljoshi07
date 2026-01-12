@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768246406754,
+      "repository": "APPFL/APPFL",
+      "issueTitle": "Memory optimization during aggregation",
+      "url": "https://github.com/APPFL/APPFL/issues/360",
+      "createdAt": "2026-01-12T19:33:26.754Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
