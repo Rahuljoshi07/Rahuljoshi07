@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768229076443,
+      "repository": "Silentely/eSIM-Tools",
+      "issueTitle": "[BUG] simyo登录失败",
+      "url": "https://github.com/Silentely/eSIM-Tools/issues/15",
+      "createdAt": "2026-01-12T14:44:36.443Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
