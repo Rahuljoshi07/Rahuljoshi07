@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768209187170,
+      "repository": "Emurgo/yoroi-frontend",
+      "issueTitle": "Wrong address with Trezor",
+      "url": "https://github.com/Emurgo/yoroi-frontend/issues/4080",
+      "createdAt": "2026-01-12T09:13:07.170Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
