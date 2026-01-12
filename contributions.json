@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768250323754,
-      "repository": "varshneydevansh/FilterTube",
-      "issueTitle": "Huge overhead",
-      "url": "https://github.com/varshneydevansh/FilterTube/issues/31",
-      "createdAt": "2026-01-12T20:38:43.754Z",
+      "id": 1768250381068,
+      "repository": "trycourier/courier-python",
+      "issueTitle": "Version 7.5+ broken NameError: name 'NestedFilterConfig' is not defined",
+      "url": "https://github.com/trycourier/courier-python/issues/120",
+      "createdAt": "2026-01-12T20:39:41.069Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
