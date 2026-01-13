@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768314988318,
+      "repository": "copasi/basico",
+      "issueTitle": "Bug: biomodels `search_for_model()` function returns max 100 results",
+      "url": "https://github.com/copasi/basico/issues/71",
+      "createdAt": "2026-01-13T14:36:28.318Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
