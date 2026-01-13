@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768334303989,
+      "repository": "openwisp/openwisp-users",
+      "issueTitle": "[feature] Restrict access to sensitive fields for non-superuser",
+      "url": "https://github.com/openwisp/openwisp-users/issues/448",
+      "createdAt": "2026-01-13T19:58:23.989Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
