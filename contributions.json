@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768317781012,
+      "repository": "nii-nlp/med-eval",
+      "issueTitle": "Index Error when evaluating specific models and specific template on bc5disease_jp task",
+      "url": "https://github.com/nii-nlp/med-eval/issues/4",
+      "createdAt": "2026-01-13T15:23:01.012Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
