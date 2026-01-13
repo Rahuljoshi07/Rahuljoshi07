@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768338587402,
+      "repository": "NickDJM/accessible-menu",
+      "issueTitle": "Bug: CDN version bug",
+      "url": "https://github.com/NickDJM/accessible-menu/issues/501",
+      "createdAt": "2026-01-13T21:09:47.403Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. (Suggested by R..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
