@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768311279393,
+      "repository": "lukso-network/docs",
+      "issueTitle": "[BUG] LSP4Metadata JSON Formatting",
+      "url": "https://github.com/lukso-network/docs/issues/1181",
+      "createdAt": "2026-01-13T13:34:39.393Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
