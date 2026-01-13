@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768264478842,
+      "repository": "ESPresense/ESPresense.github.io",
+      "issueTitle": "Firmware install failing with \"Failed to download manifest\"",
+      "url": "https://github.com/ESPresense/ESPresense.github.io/issues/98",
+      "createdAt": "2026-01-13T00:34:38.842Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
