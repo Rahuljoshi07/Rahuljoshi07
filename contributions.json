@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768348121889,
+      "repository": "allenai/beaker-gantry",
+      "issueTitle": "`fatal: reference is not a tree` on `gantry run` from a feature branch",
+      "url": "https://github.com/allenai/beaker-gantry/issues/132",
+      "createdAt": "2026-01-13T23:48:41.889Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
