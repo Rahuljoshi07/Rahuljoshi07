@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768274648176,
+      "repository": "djangopackages/djangopackages",
+      "issueTitle": "`django-q` ERROR Failed to pull task from broker after enabling connection pooling",
+      "url": "https://github.com/djangopackages/djangopackages/issues/1490",
+      "createdAt": "2026-01-13T03:24:08.176Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
