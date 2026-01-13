@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768264632311,
+      "repository": "agit8or1/huduglue",
+      "issueTitle": "ITFlow integration fails with error: Unknown provider type: itflow",
+      "url": "https://github.com/agit8or1/huduglue/issues/6",
+      "createdAt": "2026-01-13T00:37:12.311Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
