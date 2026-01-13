@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768276246436,
-      "repository": "boneylizard/Eloquent",
-      "issueTitle": "Fatal error on launch: No module named 'backend.app.forensic_linguistics_service'",
-      "url": "https://github.com/boneylizard/Eloquent/issues/1",
-      "createdAt": "2026-01-13T03:50:46.436Z",
+      "id": 1768276293631,
+      "repository": "nycmeshnet/meshdb",
+      "issueTitle": "Model search is painfully slow in dropdowns",
+      "url": "https://github.com/nycmeshnet/meshdb/issues/671",
+      "createdAt": "2026-01-13T03:51:33.631Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
     }
   ],
   "stats": {
