@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768284465498,
+      "repository": "OpenResearchInstitute/pluto_msk",
+      "issueTitle": "PeakRDL \"external\" registers are causing reboot loop on ADALM-Pluto",
+      "url": "https://github.com/OpenResearchInstitute/pluto_msk/issues/20",
+      "createdAt": "2026-01-13T06:07:45.498Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
