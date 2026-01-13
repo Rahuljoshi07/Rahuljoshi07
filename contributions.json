@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768319014906,
+      "repository": "docknetwork/sdk",
+      "issueTitle": "SyntaxError: Named export 'SECURITY_CONTEXT_URL' not found.",
+      "url": "https://github.com/docknetwork/sdk/issues/387",
+      "createdAt": "2026-01-13T15:43:34.906Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
