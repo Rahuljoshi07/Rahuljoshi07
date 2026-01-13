@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768333656252,
+      "repository": "adafruit/Adafruit_CircuitPython_NeoPixel",
+      "issueTitle": "tuple rgb value reported to be slower than list",
+      "url": "https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel/issues/52",
+      "createdAt": "2026-01-13T19:47:36.253Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
