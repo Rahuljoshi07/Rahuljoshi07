@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768312236624,
+      "repository": "LibrariesHacked/catalogues-library",
+      "issueTitle": "Fix false positives",
+      "url": "https://github.com/LibrariesHacked/catalogues-library/issues/33",
+      "createdAt": "2026-01-13T13:50:36.624Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
