@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768305922515,
+      "repository": "C2SM-RCM/emiproc",
+      "issueTitle": "[Bug]: Hourofyear should have size 8784",
+      "url": "https://github.com/C2SM-RCM/emiproc/issues/80",
+      "createdAt": "2026-01-13T12:05:22.515Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
