@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768302632770,
+      "repository": "L3P3/minicraft",
+      "issueTitle": "Keyboard covers chat input",
+      "url": "https://github.com/L3P3/minicraft/issues/54",
+      "createdAt": "2026-01-13T11:10:32.770Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
