@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768291233552,
+      "repository": "Andrews54757/FastStream",
+      "issueTitle": "[BUG]Clicking Extension Icon does NOT open Faststream.",
+      "url": "https://github.com/Andrews54757/FastStream/issues/460",
+      "createdAt": "2026-01-13T08:00:33.552Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
