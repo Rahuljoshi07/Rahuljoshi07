@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768321389110,
+      "repository": "Autodesk/arnold-usd",
+      "issueTitle": "Shaders linked via primvars removed on AiSceneWrite",
+      "url": "https://github.com/Autodesk/arnold-usd/issues/2510",
+      "createdAt": "2026-01-13T16:23:09.110Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
