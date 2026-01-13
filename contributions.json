@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768293801771,
+      "repository": "spack/spack-packages",
+      "issueTitle": "Installation issue: Open MPI can't build for `xpmem` without also building for `cray-xpmem`.",
+      "url": "https://github.com/spack/spack-packages/issues/592",
+      "createdAt": "2026-01-13T08:43:21.771Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
