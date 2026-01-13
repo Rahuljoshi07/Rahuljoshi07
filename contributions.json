@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768288282680,
+      "repository": "vvangfaye/HoliTracer",
+      "issueTitle": "Performance gap (~6%) when evaluating original model on VHRRoad dataset",
+      "url": "https://github.com/vvangfaye/HoliTracer/issues/13",
+      "createdAt": "2026-01-13T07:11:22.680Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
