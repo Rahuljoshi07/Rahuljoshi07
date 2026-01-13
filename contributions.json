@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768310712316,
+      "repository": "vapronva/nebula_tv_downloader-media_api",
+      "issueTitle": "AttributeError: 'HttpUrl' object has no attribute 'format'",
+      "url": "https://github.com/vapronva/nebula_tv_downloader-media_api/issues/5",
+      "createdAt": "2026-01-13T13:25:12.316Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
