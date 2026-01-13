@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768310531465,
+      "repository": "oncodash/ontoweaver",
+      "issueTitle": "The logger should raise clearer errors concerning wrong usage of keywords or typos present in the YAML mapping files.",
+      "url": "https://github.com/oncodash/ontoweaver/issues/151",
+      "createdAt": "2026-01-13T13:22:11.465Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
