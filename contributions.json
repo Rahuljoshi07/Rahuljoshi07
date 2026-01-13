@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768299144589,
+      "repository": "meizhong986/WhisperJAV",
+      "issueTitle": "WhisperJAV v1.7.5 Failed to translate after solved the [✗ Start Error: TypeError: Cannot read properties of null (reading 'value')]",
+      "url": "https://github.com/meizhong986/WhisperJAV/issues/123",
+      "createdAt": "2026-01-13T10:12:24.589Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
