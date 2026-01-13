@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768269168123,
+      "repository": "dxddxx/TeXicode",
+      "issueTitle": "Fix TypeError: process_markdown() missing 'options' argument with -f flag",
+      "url": "https://github.com/dxddxx/TeXicode/issues/5",
+      "createdAt": "2026-01-13T01:52:48.123Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
