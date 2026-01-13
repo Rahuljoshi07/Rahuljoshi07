@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768288385083,
+      "repository": "NVIDIA-AI-Blueprints/aiq-research-assistant",
+      "issueTitle": "[BUG]: browser-use does not work with aiq serve",
+      "url": "https://github.com/NVIDIA-AI-Blueprints/aiq-research-assistant/issues/26",
+      "createdAt": "2026-01-13T07:13:05.083Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
