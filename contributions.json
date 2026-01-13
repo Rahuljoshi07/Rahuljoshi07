@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768277568799,
+      "repository": "OpenHands/benchmarks",
+      "issueTitle": "Run 50-image SWE-bench eval to debug runtime instability",
+      "url": "https://github.com/OpenHands/benchmarks/issues/282",
+      "createdAt": "2026-01-13T04:12:48.799Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
