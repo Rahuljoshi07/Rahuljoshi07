@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768332882196,
+      "repository": "voyanttools/Voyant",
+      "issueTitle": "Not sorting on Words/Sentence",
+      "url": "https://github.com/voyanttools/Voyant/issues/99",
+      "createdAt": "2026-01-13T19:34:42.196Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
