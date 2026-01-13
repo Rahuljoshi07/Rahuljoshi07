@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768263963014,
+      "repository": "linkml/linkml",
+      "issueTitle": "Enums are rendered as String-typed fields in Java",
+      "url": "https://github.com/linkml/linkml/issues/3068",
+      "createdAt": "2026-01-13T00:26:03.014Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
