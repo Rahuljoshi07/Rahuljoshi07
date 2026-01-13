@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768318730751,
+      "repository": "posit-dev/py-shiny-site",
+      "issueTitle": "[BUG] anywidget.js 404 Not Found when rendering Altair charts",
+      "url": "https://github.com/posit-dev/py-shiny-site/issues/333",
+      "createdAt": "2026-01-13T15:38:50.751Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
