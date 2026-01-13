@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768311114745,
+      "repository": "rescript-lang/tree-sitter-rescript",
+      "issueTitle": "Top level error for simple binding",
+      "url": "https://github.com/rescript-lang/tree-sitter-rescript/issues/256",
+      "createdAt": "2026-01-13T13:31:54.745Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
