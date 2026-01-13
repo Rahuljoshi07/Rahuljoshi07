@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768310295906,
+      "repository": "de-id/agents-sdk-demo",
+      "issueTitle": "connection issue: ERR_NAME_NOT_RESOLVED",
+      "url": "https://github.com/de-id/agents-sdk-demo/issues/5",
+      "createdAt": "2026-01-13T13:18:15.906Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
