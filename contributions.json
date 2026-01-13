@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768274674221,
+      "id": 1768274741487,
       "repository": "andyholmes/flatter",
-      "issueTitle": "Add an input for uploading test logs",
-      "url": "https://github.com/andyholmes/flatter/issues/165",
-      "createdAt": "2026-01-13T03:24:34.221Z",
+      "issueTitle": "Using `flatpak-builder-args` breaks Flatter",
+      "url": "https://github.com/andyholmes/flatter/issues/118",
+      "createdAt": "2026-01-13T03:25:41.487Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
