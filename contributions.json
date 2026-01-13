@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768322847767,
+      "repository": "ARM-software/Tool-Solutions",
+      "issueTitle": "Tensorflow huggingface BERT Model is slower in ARM compared to Intel",
+      "url": "https://github.com/ARM-software/Tool-Solutions/issues/194",
+      "createdAt": "2026-01-13T16:47:27.767Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
