@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768274460983,
+      "repository": "NodeSecure/report",
+      "issueTitle": "Remove dotenv",
+      "url": "https://github.com/NodeSecure/report/issues/480",
+      "createdAt": "2026-01-13T03:21:00.983Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
