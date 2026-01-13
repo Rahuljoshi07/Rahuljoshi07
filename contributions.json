@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768324184169,
+      "repository": "2dos/DK64-Randomizer",
+      "issueTitle": "Music is always sped up when the win condition is Key 3 and 8 without K.Rool being required",
+      "url": "https://github.com/2dos/DK64-Randomizer/issues/3026",
+      "createdAt": "2026-01-13T17:09:44.169Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
