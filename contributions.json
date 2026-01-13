@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768308498546,
+      "repository": "vsys-host/shkeeper.io",
+      "issueTitle": "505 error",
+      "url": "https://github.com/vsys-host/shkeeper.io/issues/171",
+      "createdAt": "2026-01-13T12:48:18.546Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
