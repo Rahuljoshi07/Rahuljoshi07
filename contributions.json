@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768339795901,
+      "repository": "shadowmere-xyz/shadowmere",
+      "issueTitle": "Reduce the number of checks while scraping subscriptions",
+      "url": "https://github.com/shadowmere-xyz/shadowmere/issues/626",
+      "createdAt": "2026-01-13T21:29:55.901Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
