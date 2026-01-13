@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768344287956,
+      "repository": "gelbphoenix/autocaliweb",
+      "issueTitle": "[BUG] No cover available",
+      "url": "https://github.com/gelbphoenix/autocaliweb/issues/128",
+      "createdAt": "2026-01-13T22:44:47.956Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
