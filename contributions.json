@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768301942143,
+      "repository": "snowflakedb/snowflake-connector-python",
+      "issueTitle": "SNOW-2688693: The write_pandas function returns `invalid value [?] for parameter 'ON_ERROR'` instead of actual errors",
+      "url": "https://github.com/snowflakedb/snowflake-connector-python/issues/2638",
+      "createdAt": "2026-01-13T10:59:02.143Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
