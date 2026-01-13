@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1768339983853,
-      "repository": "dimagi/django-cte",
-      "issueTitle": "Annotate after Union using a CTE breaks with django 5.2 - django.core.exceptions.FieldError: Cannot select the 'underlying_id' alias. Use annotate() to promote it.",
-      "url": "https://github.com/dimagi/django-cte/issues/133",
-      "createdAt": "2026-01-13T21:33:03.853Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
