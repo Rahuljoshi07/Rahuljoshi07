@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768423052113,
+      "repository": "3urobeat/steam-idler",
+      "issueTitle": "Program exits if login fails",
+      "url": "https://github.com/3urobeat/steam-idler/issues/28",
+      "createdAt": "2026-01-14T20:37:32.113Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
