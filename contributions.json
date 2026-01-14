@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768353583398,
+      "repository": "north-road/slyr",
+      "issueTitle": "In the new version 6.0.0, when opening Lyr files, the size of styles is not set correctly.",
+      "url": "https://github.com/north-road/slyr/issues/282",
+      "createdAt": "2026-01-14T01:19:43.399Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
