@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768403048555,
+      "repository": "nhsuk/nhsuk-frontend",
+      "issueTitle": "Bug with checkbox variant examples when all shown on the same page",
+      "url": "https://github.com/nhsuk/nhsuk-frontend/issues/1769",
+      "createdAt": "2026-01-14T15:04:08.555Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
