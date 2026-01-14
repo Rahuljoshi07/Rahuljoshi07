@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768413477746,
+      "repository": "Selbi182/SpotifyBigPicture",
+      "issueTitle": "Illegal Scope from Spotify API",
+      "url": "https://github.com/Selbi182/SpotifyBigPicture/issues/45",
+      "createdAt": "2026-01-14T17:57:57.746Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
