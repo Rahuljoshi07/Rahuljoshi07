@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768415213522,
+      "repository": "RunOnFlux/flux",
+      "issueTitle": "[FEAT] Use structures for flux messages",
+      "url": "https://github.com/RunOnFlux/flux/issues/1225",
+      "createdAt": "2026-01-14T18:26:53.522Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
