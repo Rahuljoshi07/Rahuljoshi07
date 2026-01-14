@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768400606169,
+      "repository": "RealRaven2000/QuickFolders",
+      "issueTitle": "Seeing error from quickfolders-util.js:1461:15  - can't access property \"disabled\", doc.getElementById(...) is null",
+      "url": "https://github.com/RealRaven2000/QuickFolders/issues/630",
+      "createdAt": "2026-01-14T14:23:26.169Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
