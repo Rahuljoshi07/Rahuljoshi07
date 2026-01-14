@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768363522313,
+      "repository": "Shubham-cyber-prog/100-Days-Of-Web-Development-ECWoC26",
+      "issueTitle": "Google and GitHub Login/Signup Buttons Are Static (No Authentication Flow)",
+      "url": "https://github.com/Shubham-cyber-prog/100-Days-Of-Web-Development-ECWoC26/issues/602",
+      "createdAt": "2026-01-14T04:05:22.313Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
