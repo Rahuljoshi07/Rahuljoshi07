@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768395016415,
+      "repository": "deepset-ai/haystack-core-integrations",
+      "issueTitle": "Update integration pages to reflect that components auto `warm_up` on their first run",
+      "url": "https://github.com/deepset-ai/haystack-core-integrations/issues/2751",
+      "createdAt": "2026-01-14T12:50:16.416Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
