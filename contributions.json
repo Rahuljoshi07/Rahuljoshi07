@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768414190156,
+      "repository": "agit8or1/huduglue",
+      "issueTitle": "ITFlow Integration: Syncing fails for all objects with \"Failed to fetch clients: Expecting value: line 1 column 1 (char 0)\" Error",
+      "url": "https://github.com/agit8or1/huduglue/issues/20",
+      "createdAt": "2026-01-14T18:09:50.156Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
