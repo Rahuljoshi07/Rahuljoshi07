@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768381211937,
+      "repository": "pretalx/pretalx",
+      "issueTitle": "Slot IDs in the API are regenerated when creating a new schedule release",
+      "url": "https://github.com/pretalx/pretalx/issues/2256",
+      "createdAt": "2026-01-14T09:00:11.937Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
