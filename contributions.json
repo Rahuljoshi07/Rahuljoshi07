@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768428450846,
+      "repository": "nextcloud/mail",
+      "issueTitle": "HTML Email Signature Templates with Variable Support",
+      "url": "https://github.com/nextcloud/mail/issues/12225",
+      "createdAt": "2026-01-14T22:07:30.846Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
