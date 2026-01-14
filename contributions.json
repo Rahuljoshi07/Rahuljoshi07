@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768395675566,
+      "repository": "InternScience/GraphGen",
+      "issueTitle": "Memory Issue: ECE Partitioning Consumes Excessive Memory with Large File Sets",
+      "url": "https://github.com/InternScience/GraphGen/issues/128",
+      "createdAt": "2026-01-14T13:01:15.566Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
