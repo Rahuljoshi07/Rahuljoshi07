@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768414527211,
+      "repository": "thegetty/quire",
+      "issueTitle": "Radio annotation images are not showing their proper defaults on page load",
+      "url": "https://github.com/thegetty/quire/issues/1111",
+      "createdAt": "2026-01-14T18:15:27.211Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
