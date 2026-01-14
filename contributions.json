@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768391958688,
+      "repository": "kvanbiesen/bmw-cardata-ha",
+      "issueTitle": "[Bug]: Reauthorisation needed - BMW site won't accept code.",
+      "url": "https://github.com/kvanbiesen/bmw-cardata-ha/issues/164",
+      "createdAt": "2026-01-14T11:59:18.688Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
