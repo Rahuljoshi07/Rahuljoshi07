@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768424257737,
+      "repository": "GCRC/nunaliit",
+      "issueTitle": "Submission tool breaks when comparing null objects against a non-null object",
+      "url": "https://github.com/GCRC/nunaliit/issues/898",
+      "createdAt": "2026-01-14T20:57:37.737Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
