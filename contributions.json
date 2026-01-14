@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768356201753,
+      "repository": "passagemath/passagemath",
+      "issueTitle": "opensuse-16.0-standard: `FLINT_NORETURN` error",
+      "url": "https://github.com/passagemath/passagemath/issues/1784",
+      "createdAt": "2026-01-14T02:03:21.753Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
