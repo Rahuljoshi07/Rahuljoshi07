@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768406710619,
+      "repository": "nodejs/security-wg",
+      "issueTitle": "Handling high volume of AI-generated vulnerability reports",
+      "url": "https://github.com/nodejs/security-wg/issues/1541",
+      "createdAt": "2026-01-14T16:05:10.619Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
