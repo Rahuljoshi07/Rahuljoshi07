@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768414904131,
-      "repository": "adobe/alloy",
-      "issueTitle": "Frequent Adobe Analytics Console Errors",
-      "url": "https://github.com/adobe/alloy/issues/1323",
-      "createdAt": "2026-01-14T18:21:44.131Z",
+      "id": 1768414975529,
+      "repository": "linux-nvme/nvme-stas",
+      "issueTitle": "Unable to save last known config: [Errno 2] No such file or directory: '/run/stafd/last-known-config.pickle'",
+      "url": "https://github.com/linux-nvme/nvme-stas/issues/252",
+      "createdAt": "2026-01-14T18:22:55.529Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
