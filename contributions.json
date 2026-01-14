@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768387546488,
+      "repository": "exelearning/exelearning",
+      "issueTitle": "Compatibility Issue: v4.0 incorrectly interprets TEXT Fields as IMAGE in \"Descubre\" iDevice Created in v2.9",
+      "url": "https://github.com/exelearning/exelearning/issues/983",
+      "createdAt": "2026-01-14T10:45:46.489Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
