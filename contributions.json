@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768354863739,
-      "repository": "g0v/amis-moedict",
-      "issueTitle": "Issue with audio quality ?",
-      "url": "https://github.com/g0v/amis-moedict/issues/40",
-      "createdAt": "2026-01-14T01:41:03.739Z",
+      "id": 1768354949309,
+      "repository": "nextcloud/talk-desktop",
+      "issueTitle": "Nextcloud Talk does not save files when Download file clicked in chat",
+      "url": "https://github.com/nextcloud/talk-desktop/issues/1618",
+      "createdAt": "2026-01-14T01:42:29.309Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
