@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768394489357,
+      "repository": "lumina37/aiotieba",
+      "issueTitle": "get_user_posts 接口部分用户的回复获取不到",
+      "url": "https://github.com/lumina37/aiotieba/issues/304",
+      "createdAt": "2026-01-14T12:41:29.357Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
