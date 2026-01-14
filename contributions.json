@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768384591137,
+      "repository": "timescale/docs",
+      "issueTitle": "[Site Bug] Issue with the page: /docs/use-timescale/latest/security/read-only-role",
+      "url": "https://github.com/timescale/docs/issues/4639",
+      "createdAt": "2026-01-14T09:56:31.137Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
