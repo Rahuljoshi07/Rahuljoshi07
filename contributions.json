@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768392263350,
+      "repository": "AFM-SPM/AFMReader",
+      "issueTitle": "[Bug]: TopoStats not processing .jpk-qi-image file",
+      "url": "https://github.com/AFM-SPM/AFMReader/issues/175",
+      "createdAt": "2026-01-14T12:04:23.350Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
