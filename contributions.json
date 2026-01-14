@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768361333392,
+      "repository": "deepmodeling/dpdata",
+      "issueTitle": "[BUG] multi dirs including with OUTCAR(single-point calc mode) can not be converted into deepmd_data together by dpdata",
+      "url": "https://github.com/deepmodeling/dpdata/issues/894",
+      "createdAt": "2026-01-14T03:28:53.392Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
