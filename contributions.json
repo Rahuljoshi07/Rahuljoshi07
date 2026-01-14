@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768390333964,
+      "id": 1768390370264,
       "repository": "Clarifai/clarifai-nodejs-grpc",
       "issueTitle": "Issue using in next.js 13",
       "url": "https://github.com/Clarifai/clarifai-nodejs-grpc/issues/69",
-      "createdAt": "2026-01-14T11:32:13.964Z",
+      "createdAt": "2026-01-14T11:32:50.264Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
