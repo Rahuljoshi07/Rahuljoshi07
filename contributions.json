@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768392111191,
+      "repository": "globalwordnet/english-wordnet",
+      "issueTitle": "`make-plus.py` script issues",
+      "url": "https://github.com/globalwordnet/english-wordnet/issues/1255",
+      "createdAt": "2026-01-14T12:01:51.191Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
