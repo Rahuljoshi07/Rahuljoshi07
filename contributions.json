@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768369258500,
+      "repository": "opendatacube/datacube-ows",
+      "issueTitle": "ERROR: duplicate key value violates unique constraint",
+      "url": "https://github.com/opendatacube/datacube-ows/issues/1429",
+      "createdAt": "2026-01-14T05:40:58.500Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
