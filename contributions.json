@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768383944844,
+      "repository": "yo-han/Home-Assistant-Carelink",
+      "issueTitle": "Nightscout Error",
+      "url": "https://github.com/yo-han/Home-Assistant-Carelink/issues/139",
+      "createdAt": "2026-01-14T09:45:44.844Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
