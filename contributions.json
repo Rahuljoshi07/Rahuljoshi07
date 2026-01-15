@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768474686258,
+      "repository": "open-zaak/open-zaak",
+      "issueTitle": "Flaky test `test_read_zaaktype_with_besluittype`",
+      "url": "https://github.com/open-zaak/open-zaak/issues/2294",
+      "createdAt": "2026-01-15T10:58:06.258Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
