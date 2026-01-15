@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768507210051,
+      "repository": "pmvreeswijk/ZOGY",
+      "issueTitle": "Bug in ZOGY?",
+      "url": "https://github.com/pmvreeswijk/ZOGY/issues/17",
+      "createdAt": "2026-01-15T20:00:10.051Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
