@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768482213708,
+      "id": 1768482254813,
       "repository": "the-luap/picpeak",
       "issueTitle": "[BUG] Watermark upload failing and log not displaying properly",
       "url": "https://github.com/the-luap/picpeak/issues/94",
-      "createdAt": "2026-01-15T13:03:33.708Z",
+      "createdAt": "2026-01-15T13:04:14.813Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
