@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768512609696,
-      "repository": "OWASP/www-project-vulnerable-web-applications-directory",
-      "issueTitle": "Shall we add DeFi as a collection type?",
-      "url": "https://github.com/OWASP/www-project-vulnerable-web-applications-directory/issues/127",
-      "createdAt": "2026-01-15T21:30:09.696Z",
+      "id": 1768512670680,
+      "repository": "mozilla/releases-comm-central",
+      "issueTitle": "[BUG] Accepting invitation",
+      "url": "https://github.com/mozilla/releases-comm-central/issues/111",
+      "createdAt": "2026-01-15T21:31:10.680Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
