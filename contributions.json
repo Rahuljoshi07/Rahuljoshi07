@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1768453288733,
-      "repository": "ibmruntimes/yieldable-json",
-      "issueTitle": "Not catchable \"RangeError: Maximum callstack size exceeded\" error",
-      "url": "https://github.com/ibmruntimes/yieldable-json/issues/34",
-      "createdAt": "2026-01-15T05:01:28.734Z",
+      "id": 1768453320602,
+      "repository": "dgreenheck/ez-tree",
+      "issueTitle": "Double Sided Culling Bug",
+      "url": "https://github.com/dgreenheck/ez-tree/issues/31",
+      "createdAt": "2026-01-15T05:02:00.602Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
