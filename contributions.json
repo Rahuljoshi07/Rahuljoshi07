@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768483759761,
+      "repository": "GrandpaEJ/BustAPI",
+      "issueTitle": "Support Multiprocessing on Windows/Mac",
+      "url": "https://github.com/GrandpaEJ/BustAPI/issues/9",
+      "createdAt": "2026-01-15T13:29:19.762Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
