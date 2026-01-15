@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1768481341063,
-      "repository": "remorses/unframer",
-      "issueTitle": "Type extraction fails with SyntaxError: 'unframer' does not provide export 'queryCache Version: unframer/3.2.17 win32-x64 node-v22.16.0",
-      "url": "https://github.com/remorses/unframer/issues/44",
-      "createdAt": "2026-01-15T12:49:01.063Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
