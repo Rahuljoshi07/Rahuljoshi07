@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768450515444,
+      "repository": "fawney19/Aether",
+      "issueTitle": "bug key优先的优先级管理有问题",
+      "url": "https://github.com/fawney19/Aether/issues/87",
+      "createdAt": "2026-01-15T04:15:15.444Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
