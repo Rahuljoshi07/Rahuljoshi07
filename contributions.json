@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768456452930,
+      "repository": "UiPath/uipath-python",
+      "issueTitle": "Bug: lastPushDate from studio_metadata.json is not updated",
+      "url": "https://github.com/UiPath/uipath-python/issues/1108",
+      "createdAt": "2026-01-15T05:54:12.931Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
