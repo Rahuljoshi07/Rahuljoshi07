@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768438718309,
+      "repository": "pollen-robotics/reachy-mini-desktop-app",
+      "issueTitle": "DLL Issue with Windows App",
+      "url": "https://github.com/pollen-robotics/reachy-mini-desktop-app/issues/52",
+      "createdAt": "2026-01-15T00:58:38.310Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
