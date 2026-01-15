@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768503374265,
+      "repository": "newton-physics/urdf-usd-converter",
+      "issueTitle": "Mesh material and URDF material overrides are incorrect",
+      "url": "https://github.com/newton-physics/urdf-usd-converter/issues/47",
+      "createdAt": "2026-01-15T18:56:14.265Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
