@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768472709709,
+      "repository": "studiobts/home-assistant-device-pulse",
+      "issueTitle": "Config flow could not be loaded: 500 Internal Server Error Server got itself in trouble",
+      "url": "https://github.com/studiobts/home-assistant-device-pulse/issues/24",
+      "createdAt": "2026-01-15T10:25:09.709Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
