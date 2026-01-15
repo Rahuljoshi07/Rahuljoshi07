@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768489569500,
+      "repository": "wger-project/docker",
+      "issueTitle": "CSRF Issue updated config/prod.env",
+      "url": "https://github.com/wger-project/docker/issues/134",
+      "createdAt": "2026-01-15T15:06:09.500Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
