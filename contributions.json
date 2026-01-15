@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768521010118,
+      "repository": "NVIDIA-NeMo/Gym",
+      "issueTitle": "bug: client.py calling example_single_tool_call_simple_agent produces error in “Creating a Resource Server” tutorial",
+      "url": "https://github.com/NVIDIA-NeMo/Gym/issues/565",
+      "createdAt": "2026-01-15T23:50:10.118Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
