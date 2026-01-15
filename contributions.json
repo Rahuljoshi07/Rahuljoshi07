@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768497075562,
+      "repository": "SenteraLLC/ulabel",
+      "issueTitle": "Brush Toolbox Item Appearance Behavior Inconsistent",
+      "url": "https://github.com/SenteraLLC/ulabel/issues/217",
+      "createdAt": "2026-01-15T17:11:15.562Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
