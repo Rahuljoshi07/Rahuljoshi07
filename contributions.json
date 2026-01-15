@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768497645186,
+      "repository": "boxgaming/qbjs",
+      "issueTitle": "AudioContext errors thrown in console when program is halted",
+      "url": "https://github.com/boxgaming/qbjs/issues/176",
+      "createdAt": "2026-01-15T17:20:45.186Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
