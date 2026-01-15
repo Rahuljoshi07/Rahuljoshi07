@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768456584153,
+      "repository": "hiphop9/Warp2025",
+      "issueTitle": "[BUG] Increase Zoom Out didnt work after gepard shield applied",
+      "url": "https://github.com/hiphop9/Warp2025/issues/31",
+      "createdAt": "2026-01-15T05:56:24.153Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
