@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768493521704,
+      "repository": "liam2/liam2",
+      "issueTitle": "align(link=) should warn/error if take or leave are used",
+      "url": "https://github.com/liam2/liam2/issues/349",
+      "createdAt": "2026-01-15T16:12:01.704Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
