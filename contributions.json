@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768506392498,
+      "repository": "kirillzhosul/gofra",
+      "issueTitle": "Refactor and rework typechecker into semantic analyzer",
+      "url": "https://github.com/kirillzhosul/gofra/issues/51",
+      "createdAt": "2026-01-15T19:46:32.498Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
