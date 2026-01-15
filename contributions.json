@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768488733545,
+      "repository": "linode/linode-cli",
+      "issueTitle": "[Bug]: Breaking changes after version upgrade, `object-storage keys-create --bucket_access.region` is no longer an option",
+      "url": "https://github.com/linode/linode-cli/issues/795",
+      "createdAt": "2026-01-15T14:52:13.545Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
