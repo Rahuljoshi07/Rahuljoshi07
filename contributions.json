@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768487732362,
+      "repository": "ularch/Easy_Cidaren",
+      "issueTitle": "[bug]缺少参数或者参数值不能为空！,位置:2.",
+      "url": "https://github.com/ularch/Easy_Cidaren/issues/67",
+      "createdAt": "2026-01-15T14:35:32.362Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
