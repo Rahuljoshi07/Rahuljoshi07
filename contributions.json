@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768484223083,
+      "repository": "thexerteproject/xerteonlinetoolkits",
+      "issueTitle": "Issue with marking MCQs when there are duplicate tracking labels",
+      "url": "https://github.com/thexerteproject/xerteonlinetoolkits/issues/1511",
+      "createdAt": "2026-01-15T13:37:03.083Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
