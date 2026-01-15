@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768482379179,
+      "repository": "CESNET/exafs",
+      "issueTitle": "Migration procedure is not ideal",
+      "url": "https://github.com/CESNET/exafs/issues/73",
+      "createdAt": "2026-01-15T13:06:19.179Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
