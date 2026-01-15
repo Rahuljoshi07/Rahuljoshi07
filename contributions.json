@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768454175817,
+      "repository": "finos/regular-table",
+      "issueTitle": "X-coordinates larger than available columns",
+      "url": "https://github.com/finos/regular-table/issues/222",
+      "createdAt": "2026-01-15T05:16:15.817Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
