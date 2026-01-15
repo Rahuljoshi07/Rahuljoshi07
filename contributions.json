@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768514270285,
+      "id": 1768514310873,
       "repository": "physicshub/physicshub.github.io",
       "issueTitle": "[Bug]: Google Search Console can't index sitemap.xml",
       "url": "https://github.com/physicshub/physicshub.github.io/issues/107",
-      "createdAt": "2026-01-15T21:57:50.285Z",
+      "createdAt": "2026-01-15T21:58:30.873Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
