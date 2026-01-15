@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768493021289,
+      "repository": "pkgjs/create-package-json",
+      "issueTitle": "bug: prompting when invoked programmatically",
+      "url": "https://github.com/pkgjs/create-package-json/issues/242",
+      "createdAt": "2026-01-15T16:03:41.289Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
