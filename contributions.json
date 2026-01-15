@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1768457424172,
+      "id": 1768457466517,
       "repository": "eclipse-dirigible/dirigible",
       "issueTitle": "[API] Controller execution fails under concurrent access when using `@Inject` / `@Injected`",
       "url": "https://github.com/eclipse-dirigible/dirigible/issues/5605",
-      "createdAt": "2026-01-15T06:10:24.172Z",
+      "createdAt": "2026-01-15T06:11:06.517Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
