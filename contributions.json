@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768568128311,
+      "repository": "DrizzleTime/Foxel",
+      "issueTitle": "多线程上传和多线程下载",
+      "url": "https://github.com/DrizzleTime/Foxel/issues/90",
+      "createdAt": "2026-01-16T12:55:28.311Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
