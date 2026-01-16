@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768583550631,
+      "repository": "NVIDIA-NeMo/Megatron-Bridge",
+      "issueTitle": "Bump cudnn 9.18 for MoE performance",
+      "url": "https://github.com/NVIDIA-NeMo/Megatron-Bridge/issues/1724",
+      "createdAt": "2026-01-16T17:12:30.631Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
