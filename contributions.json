@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768598691739,
+      "repository": "MrPrimate/ddb-importer",
+      "issueTitle": "D&D v4.0.x/2024 Known Issues",
+      "url": "https://github.com/MrPrimate/ddb-importer/issues/505",
+      "createdAt": "2026-01-16T21:24:51.739Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
