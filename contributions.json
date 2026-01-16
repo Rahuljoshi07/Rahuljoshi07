@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768593811431,
+      "repository": "JustOptimize/ShowHiddenChannels",
+      "issueTitle": "Error",
+      "url": "https://github.com/JustOptimize/ShowHiddenChannels/issues/254",
+      "createdAt": "2026-01-16T20:03:31.431Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
