@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768542802385,
+      "repository": "RobotWebTools/rclnodejs",
+      "issueTitle": "ASAR/Unpacked Directory Access Failure in Production Build",
+      "url": "https://github.com/RobotWebTools/rclnodejs/issues/1374",
+      "createdAt": "2026-01-16T05:53:22.385Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
