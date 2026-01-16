@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768582028821,
+      "repository": "eslint/eslint.org",
+      "issueTitle": "Bug: Playground ignores sourceType when using @typescript-eslint/parser",
+      "url": "https://github.com/eslint/eslint.org/issues/910",
+      "createdAt": "2026-01-16T16:47:08.821Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
