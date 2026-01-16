@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768563730458,
+      "repository": "duckduckgo/content-scope-scripts",
+      "issueTitle": "Unhandled promise rejection: TypeError: can't access property \"threshold\", chosenPolicy is undefined",
+      "url": "https://github.com/duckduckgo/content-scope-scripts/issues/2183",
+      "createdAt": "2026-01-16T11:42:10.458Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
