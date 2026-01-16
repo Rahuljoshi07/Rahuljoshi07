@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768603046145,
+      "repository": "spack/spack-packages",
+      "issueTitle": "Installation issue: zlib-ng",
+      "url": "https://github.com/spack/spack-packages/issues/3047",
+      "createdAt": "2026-01-16T22:37:26.145Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
