@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768601711664,
+      "repository": "Ouranosinc/miranda",
+      "issueTitle": "Make a distinct API module for all request-based functionality",
+      "url": "https://github.com/Ouranosinc/miranda/issues/137",
+      "createdAt": "2026-01-16T22:15:11.664Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. (Suggested by Rahul Joshi..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
