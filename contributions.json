@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768584502009,
+      "repository": "jmitchel3/django-qstash",
+      "issueTitle": "Couldn't Schedule a Task",
+      "url": "https://github.com/jmitchel3/django-qstash/issues/7",
+      "createdAt": "2026-01-16T17:28:22.009Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
