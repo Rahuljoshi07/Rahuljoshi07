@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768529403291,
+      "repository": "passagemath/passagemath",
+      "issueTitle": "fedora-44 build errors: fplll, linbox",
+      "url": "https://github.com/passagemath/passagemath/issues/1980",
+      "createdAt": "2026-01-16T02:10:03.291Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
