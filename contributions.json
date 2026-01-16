@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768602262042,
+      "id": 1768602296949,
       "repository": "speechanddebate/tabroom",
-      "issueTitle": "Feature Request: Add \"Shadow Judge\"",
-      "url": "https://github.com/speechanddebate/tabroom/issues/68",
-      "createdAt": "2026-01-16T22:24:22.042Z",
+      "issueTitle": "Bug: registration log doesn't convert date when converting time from UTC to local",
+      "url": "https://github.com/speechanddebate/tabroom/issues/72",
+      "createdAt": "2026-01-16T22:24:56.949Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
