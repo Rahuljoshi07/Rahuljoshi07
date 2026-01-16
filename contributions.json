@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768573591238,
+      "repository": "redis/redis-benchmarks-specification",
+      "issueTitle": "[BUG]: runner breaks when creating regression table",
+      "url": "https://github.com/redis/redis-benchmarks-specification/issues/339",
+      "createdAt": "2026-01-16T14:26:31.238Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
