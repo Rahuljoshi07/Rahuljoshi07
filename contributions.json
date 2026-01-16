@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768528016527,
+      "repository": "nextcloud/richdocuments",
+      "issueTitle": "[Bug]: Built-in CODE server and Nextcloud office : cannot open office files",
+      "url": "https://github.com/nextcloud/richdocuments/issues/5270",
+      "createdAt": "2026-01-16T01:46:56.527Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
