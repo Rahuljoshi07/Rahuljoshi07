@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768562677112,
+      "repository": "ocadotechnology/rapid-router",
+      "issueTitle": "Aggregate data from the `Attempt` table into the `TopScore` table",
+      "url": "https://github.com/ocadotechnology/rapid-router/issues/1865",
+      "createdAt": "2026-01-16T11:24:37.112Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
