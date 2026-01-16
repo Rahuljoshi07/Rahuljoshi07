@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768574804852,
+      "repository": "nextcloud/contacts",
+      "issueTitle": "Visibility of shared address books cannot be set",
+      "url": "https://github.com/nextcloud/contacts/issues/4999",
+      "createdAt": "2026-01-16T14:46:44.852Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
