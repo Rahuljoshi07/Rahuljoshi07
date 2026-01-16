@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768537895173,
+      "repository": "PaloAltoNetworks/pan-chainguard",
+      "issueTitle": "FIPS-CC mode - Import of CA certificate using non-standard RSA public exponent fails",
+      "url": "https://github.com/PaloAltoNetworks/pan-chainguard/issues/8",
+      "createdAt": "2026-01-16T04:31:35.173Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
