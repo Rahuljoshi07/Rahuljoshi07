@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768563951137,
+      "repository": "Grandzxw/TripleMixer",
+      "issueTitle": "Question about TripleMixer's mIoU performance on SemanticSTF in Table VIII",
+      "url": "https://github.com/Grandzxw/TripleMixer/issues/8",
+      "createdAt": "2026-01-16T11:45:51.137Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
