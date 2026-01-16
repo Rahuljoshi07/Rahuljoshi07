@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768558649392,
+      "repository": "kartoza/django-bims",
+      "issueTitle": "Scheduling species harvests with more than one parent",
+      "url": "https://github.com/kartoza/django-bims/issues/4919",
+      "createdAt": "2026-01-16T10:17:29.393Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
