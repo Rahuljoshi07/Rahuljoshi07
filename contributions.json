@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768600682679,
+      "repository": "RapidFireAI/rapidfireai",
+      "issueTitle": "[BUG] [RAG][v0.12.9rc1]Getting a \"Key error\" for IC-OP CLONE on RAG Notebooks (GSM8K, SCI-FACT)",
+      "url": "https://github.com/RapidFireAI/rapidfireai/issues/133",
+      "createdAt": "2026-01-16T21:58:02.679Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
