@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768551396695,
+      "repository": "k08045kk/CopyTabTitleUrl",
+      "issueTitle": "Chrome144 で拡張機能が動作していない",
+      "url": "https://github.com/k08045kk/CopyTabTitleUrl/issues/91",
+      "createdAt": "2026-01-16T08:16:36.695Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
