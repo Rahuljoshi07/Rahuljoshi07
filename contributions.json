@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768533702576,
+      "repository": "RapidFireAI/rapidfireai",
+      "issueTitle": "[BUG] [RAG][v0.12.9rc1]Getting a \"runtime error\" for end-to-end execution of RAG Notebooks : RAG-FIQA",
+      "url": "https://github.com/RapidFireAI/rapidfireai/issues/134",
+      "createdAt": "2026-01-16T03:21:42.576Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
