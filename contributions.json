@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768548572861,
+      "repository": "SAP/sqlalchemy-hana",
+      "issueTitle": "Connection to tables using PLACEHOLDERs",
+      "url": "https://github.com/SAP/sqlalchemy-hana/issues/509",
+      "createdAt": "2026-01-16T07:29:32.861Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
