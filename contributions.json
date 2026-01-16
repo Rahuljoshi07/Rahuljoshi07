@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768529267503,
+      "repository": "nextcloud/whiteboard",
+      "issueTitle": "Whiteboard preview not working",
+      "url": "https://github.com/nextcloud/whiteboard/issues/932",
+      "createdAt": "2026-01-16T02:07:47.503Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
