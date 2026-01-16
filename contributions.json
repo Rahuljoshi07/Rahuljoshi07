@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768546944393,
+      "repository": "ZhihaoZhu/Auto-GUI-Code-Generation",
+      "issueTitle": "Performance evaluation ",
+      "url": "https://github.com/ZhihaoZhu/Auto-GUI-Code-Generation/issues/8",
+      "createdAt": "2026-01-16T07:02:24.393Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
