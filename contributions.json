@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768568060597,
+      "repository": "ecmwf/eccodes-python",
+      "issueTitle": "Missing binary on Linux install via pypi in newer versions (2.39.0 - 2.40.0)",
+      "url": "https://github.com/ecmwf/eccodes-python/issues/121",
+      "createdAt": "2026-01-16T12:54:20.597Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
