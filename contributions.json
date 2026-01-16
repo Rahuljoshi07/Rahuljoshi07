@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768561626840,
+      "repository": "pergolafabio/Hikvision-Addons",
+      "issueTitle": "DS-KD8003-IME1(B)  / DS-KV6113  / DS-KV8113 ... Not reciving door ringing state.... since firmware 3.7.x",
+      "url": "https://github.com/pergolafabio/Hikvision-Addons/issues/260",
+      "createdAt": "2026-01-16T11:07:06.840Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
