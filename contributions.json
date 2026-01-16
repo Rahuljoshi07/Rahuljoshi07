@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768554088028,
+      "repository": "ircam-ismm/node-web-audio-api",
+      "issueTitle": "[Linux] Can't open libasound.so.2",
+      "url": "https://github.com/ircam-ismm/node-web-audio-api/issues/165",
+      "createdAt": "2026-01-16T09:01:28.028Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
