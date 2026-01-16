@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768551775644,
+      "repository": "beamme-py/beamme",
+      "issueTitle": "Improve performance of `create_beam_mesh_parametric_curve`",
+      "url": "https://github.com/beamme-py/beamme/issues/527",
+      "createdAt": "2026-01-16T08:22:55.644Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
