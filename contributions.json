@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768524585096,
+      "repository": "Authress/authress-sdk.js",
+      "issueTitle": "Throw an error when an invalid domain is specified as the AuthressAPI URL",
+      "url": "https://github.com/Authress/authress-sdk.js/issues/57",
+      "createdAt": "2026-01-16T00:49:45.096Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
