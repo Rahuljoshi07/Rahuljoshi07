@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768552127287,
+      "repository": "TheKing-OfTime/YandexMusicModClient",
+      "issueTitle": "Под Linux при разворачивании окна во весь экран пропатченный клиент Яндекс Музыки падает",
+      "url": "https://github.com/TheKing-OfTime/YandexMusicModClient/issues/223",
+      "createdAt": "2026-01-16T08:28:47.287Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
