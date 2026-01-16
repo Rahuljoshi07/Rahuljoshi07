@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768588645700,
+      "repository": "wagnerdelima/drf-social-oauth2",
+      "issueTitle": "Per-tenant OAuth 2.0 Settings | Django Multi-Tenant OAuth2 Credentials",
+      "url": "https://github.com/wagnerdelima/drf-social-oauth2/issues/252",
+      "createdAt": "2026-01-16T18:37:25.701Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
