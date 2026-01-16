@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768562190964,
+      "repository": "Zendure/Zendure-HA",
+      "issueTitle": "[Bug] battery discharging in smart charge",
+      "url": "https://github.com/Zendure/Zendure-HA/issues/1010",
+      "createdAt": "2026-01-16T11:16:30.964Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
