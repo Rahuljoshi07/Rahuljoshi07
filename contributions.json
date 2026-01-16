@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768523528512,
+      "repository": "TorBox-App/torbox-media-center",
+      "issueTitle": "Fuse permission issues",
+      "url": "https://github.com/TorBox-App/torbox-media-center/issues/13",
+      "createdAt": "2026-01-16T00:32:08.512Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
