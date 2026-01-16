@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768557331804,
+      "repository": "sencha/ext-gen",
+      "issueTitle": "npm install -g @sencha/ext-gen error",
+      "url": "https://github.com/sencha/ext-gen/issues/282",
+      "createdAt": "2026-01-16T09:55:31.804Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
