@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768597126386,
+      "repository": "newrelic/node-newrelic",
+      "issueTitle": "slowest query analytics get wrong number or unit point (microseconds and milliseconds) (?)",
+      "url": "https://github.com/newrelic/node-newrelic/issues/3652",
+      "createdAt": "2026-01-16T20:58:46.386Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
