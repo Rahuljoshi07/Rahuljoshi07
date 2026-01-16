@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768534000840,
+      "repository": "ROCm/TheRock",
+      "issueTitle": "[Issue] `amd-smi static` command is not enabled for Linux `gfx1151` see stuck issue on CI",
+      "url": "https://github.com/ROCm/TheRock/issues/2789",
+      "createdAt": "2026-01-16T03:26:40.840Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
