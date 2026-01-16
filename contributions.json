@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768542802385,
+      "id": 1768542831553,
       "repository": "RobotWebTools/rclnodejs",
       "issueTitle": "ASAR/Unpacked Directory Access Failure in Production Build",
       "url": "https://github.com/RobotWebTools/rclnodejs/issues/1374",
-      "createdAt": "2026-01-16T05:53:22.385Z",
+      "createdAt": "2026-01-16T05:53:51.553Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
