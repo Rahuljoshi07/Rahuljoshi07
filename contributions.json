@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768590159715,
+      "repository": "dvdl16/woocommerce_fusion",
+      "issueTitle": "[BUG] In WC Server Settings, explicitly state that inventory sync is 1-way only",
+      "url": "https://github.com/dvdl16/woocommerce_fusion/issues/226",
+      "createdAt": "2026-01-16T19:02:39.715Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
