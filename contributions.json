@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768542831553,
+      "id": 1768542869296,
       "repository": "RobotWebTools/rclnodejs",
       "issueTitle": "ASAR/Unpacked Directory Access Failure in Production Build",
       "url": "https://github.com/RobotWebTools/rclnodejs/issues/1374",
-      "createdAt": "2026-01-16T05:53:51.553Z",
+      "createdAt": "2026-01-16T05:54:29.296Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
