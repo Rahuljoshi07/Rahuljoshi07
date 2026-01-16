@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768546678301,
+      "repository": "RobotWebTools/rclnodejs",
+      "issueTitle": "Github actions failed on Windows",
+      "url": "https://github.com/RobotWebTools/rclnodejs/issues/1377",
+      "createdAt": "2026-01-16T06:57:58.301Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
