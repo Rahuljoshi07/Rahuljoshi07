@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768539009106,
+      "repository": "djlint/djLint",
+      "issueTitle": "[BUG] [Formatter] - Django 6.0 {% partialdef %} {%endpartialdef %} not aligning",
+      "url": "https://github.com/djlint/djLint/issues/1556",
+      "createdAt": "2026-01-16T04:50:09.107Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
