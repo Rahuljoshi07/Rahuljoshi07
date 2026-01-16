@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768588378619,
+      "repository": "SRGSSR/pillarbox-web",
+      "issueTitle": "Remove analytics and monitoring dependency on video.js",
+      "url": "https://github.com/SRGSSR/pillarbox-web/issues/301",
+      "createdAt": "2026-01-16T18:32:58.619Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
