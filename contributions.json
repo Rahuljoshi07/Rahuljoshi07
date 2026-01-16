@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768540711604,
+      "id": 1768540755172,
       "repository": "pixlcore/xyops",
-      "issueTitle": "[Feature Request]: Add grid/table export option",
-      "url": "https://github.com/pixlcore/xyops/issues/48",
-      "createdAt": "2026-01-16T05:18:31.604Z",
+      "issueTitle": "[Bug]: Disk I/O metrics are significantly inflated compared to iostat (approx. 5x discrepancy)",
+      "url": "https://github.com/pixlcore/xyops/issues/55",
+      "createdAt": "2026-01-16T05:19:15.172Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
