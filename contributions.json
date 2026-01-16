@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768545653401,
+      "repository": "Qetesh/miniflux-ai",
+      "issueTitle": "ERROR - generated an exception: object of type 'NoneType' has no len()",
+      "url": "https://github.com/Qetesh/miniflux-ai/issues/31",
+      "createdAt": "2026-01-16T06:40:53.401Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
