@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768588378619,
+      "id": 1768588409822,
       "repository": "SRGSSR/pillarbox-web",
-      "issueTitle": "Remove analytics and monitoring dependency on video.js",
-      "url": "https://github.com/SRGSSR/pillarbox-web/issues/301",
-      "createdAt": "2026-01-16T18:32:58.619Z",
+      "issueTitle": "video.js + macOS + Firefox bug",
+      "url": "https://github.com/SRGSSR/pillarbox-web/issues/352",
+      "createdAt": "2026-01-16T18:33:29.822Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
