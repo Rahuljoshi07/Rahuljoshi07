@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768602786677,
+      "repository": "sandialabs/slycat",
+      "issueTitle": "Timeseries wizard does not recognize existing remote connection",
+      "url": "https://github.com/sandialabs/slycat/issues/1351",
+      "createdAt": "2026-01-16T22:33:06.678Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
