@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768602956389,
+      "repository": "elastic/connectors",
+      "issueTitle": "Connectors integration steadily increases in memory consumption over time",
+      "url": "https://github.com/elastic/connectors/issues/3914",
+      "createdAt": "2026-01-16T22:35:56.389Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
