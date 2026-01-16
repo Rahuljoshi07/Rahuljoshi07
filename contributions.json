@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768553072600,
+      "id": 1768553129591,
       "repository": "mue/mue",
-      "issueTitle": "[Bug] customed search engine",
-      "url": "https://github.com/mue/mue/issues/1120",
-      "createdAt": "2026-01-16T08:44:32.600Z",
+      "issueTitle": "[Bug] 中英文字体无法对齐",
+      "url": "https://github.com/mue/mue/issues/1124",
+      "createdAt": "2026-01-16T08:45:29.591Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
