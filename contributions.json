@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768575043486,
+      "repository": "10up/maps-block-apple",
+      "issueTitle": "Saving credentials from block shows error, creds are saved.",
+      "url": "https://github.com/10up/maps-block-apple/issues/253",
+      "createdAt": "2026-01-16T14:50:43.486Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
