@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768693036401,
+      "repository": "jango-blockchained/advanced-homeassistant-mcp",
+      "issueTitle": "[BUG] Automation Creation fails due to mangled response format",
+      "url": "https://github.com/jango-blockchained/advanced-homeassistant-mcp/issues/38",
+      "createdAt": "2026-01-17T23:37:16.401Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
