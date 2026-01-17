@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768665828076,
+      "repository": "tomer-w/victron_mqtt",
+      "issueTitle": "[Bug]: Integration requires manual restart after GX device FW up/downgrade",
+      "url": "https://github.com/tomer-w/victron_mqtt/issues/61",
+      "createdAt": "2026-01-17T16:03:48.076Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
