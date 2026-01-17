@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768611392871,
+      "repository": "chrisguttandin/angular-prerender",
+      "issueTitle": "duplicate app state in prerendered page",
+      "url": "https://github.com/chrisguttandin/angular-prerender/issues/128",
+      "createdAt": "2026-01-17T00:56:32.871Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
