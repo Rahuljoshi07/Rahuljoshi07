@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768619199344,
+      "repository": "dylanpdx/talkmodachi",
+      "issueTitle": "Bug Alert: Generating speech stops working",
+      "url": "https://github.com/dylanpdx/talkmodachi/issues/4",
+      "createdAt": "2026-01-17T03:06:39.344Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
