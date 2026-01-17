@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1768621976880,
+      "id": 1768622010567,
       "repository": "pixlcore/xyops",
-      "issueTitle": "[Bug]: Lost WebSocket connection",
-      "url": "https://github.com/pixlcore/xyops/issues/50",
-      "createdAt": "2026-01-17T03:52:56.880Z",
+      "issueTitle": "[Bug]: Disk I/O metrics are significantly inflated compared to iostat (approx. 5x discrepancy)",
+      "url": "https://github.com/pixlcore/xyops/issues/55",
+      "createdAt": "2026-01-17T03:53:30.567Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
