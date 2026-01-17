@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768667205219,
+      "repository": "ComPlat/chemotion_ELN",
+      "issueTitle": "Input of CAS in create sample tab leads to crash",
+      "url": "https://github.com/ComPlat/chemotion_ELN/issues/2847",
+      "createdAt": "2026-01-17T16:26:45.219Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
