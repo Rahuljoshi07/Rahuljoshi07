@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768627333593,
+      "repository": "microsoft/webauthntest",
+      "issueTitle": "cbor.decodeFirstSync will failed and throw errors if there is extra data.",
+      "url": "https://github.com/microsoft/webauthntest/issues/20",
+      "createdAt": "2026-01-17T05:22:13.593Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
