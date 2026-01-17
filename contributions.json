@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768684671771,
+      "repository": "amiayweb/Hytale-F2P",
+      "issueTitle": "Error build [Linux]",
+      "url": "https://github.com/amiayweb/Hytale-F2P/issues/18",
+      "createdAt": "2026-01-17T21:17:51.771Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
