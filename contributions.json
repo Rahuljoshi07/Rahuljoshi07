@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768614524751,
+      "repository": "tensorlakeai/tensorlake",
+      "issueTitle": "Image builds fail on transient HTTP errors between image builder client and Server",
+      "url": "https://github.com/tensorlakeai/tensorlake/issues/498",
+      "createdAt": "2026-01-17T01:48:44.751Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
