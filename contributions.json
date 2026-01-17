@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768675524709,
+      "repository": "SecObserve/SecObserve",
+      "issueTitle": "After upgrade from 1.22 to 1.46.1 :: huey.immediate = True causing error on container startup",
+      "url": "https://github.com/SecObserve/SecObserve/issues/3836",
+      "createdAt": "2026-01-17T18:45:24.709Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
