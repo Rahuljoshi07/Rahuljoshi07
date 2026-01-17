@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768630063346,
+      "repository": "harmoninux/HiSH",
+      "issueTitle": "DNS lookup error",
+      "url": "https://github.com/harmoninux/HiSH/issues/18",
+      "createdAt": "2026-01-17T06:07:43.346Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
