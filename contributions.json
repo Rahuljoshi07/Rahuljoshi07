@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768621353331,
+      "repository": "RapidFireAI/rapidfireai",
+      "issueTitle": "[BUG] Trials switch from parallel to sequential execution",
+      "url": "https://github.com/RapidFireAI/rapidfireai/issues/132",
+      "createdAt": "2026-01-17T03:42:33.331Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
