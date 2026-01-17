@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1768667406116,
-      "repository": "RedHatInsights/insights-inventory-frontend",
-      "issueTitle": "ReferenceError: Cannot access uninitialized variable.",
-      "url": "https://github.com/RedHatInsights/insights-inventory-frontend/issues/2345",
-      "createdAt": "2026-01-17T16:30:06.116Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
