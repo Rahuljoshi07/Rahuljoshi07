@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768660830467,
+      "repository": "q5js/q5.js",
+      "issueTitle": "Mouse two button pressing bug",
+      "url": "https://github.com/q5js/q5.js/issues/142",
+      "createdAt": "2026-01-17T14:40:30.467Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
