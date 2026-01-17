@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768639591721,
+      "repository": "ComPlat/react-spectra-editor",
+      "issueTitle": "Chemotion – NMR Preview issue with certain zipped datasets",
+      "url": "https://github.com/ComPlat/react-spectra-editor/issues/252",
+      "createdAt": "2026-01-17T08:46:31.721Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
