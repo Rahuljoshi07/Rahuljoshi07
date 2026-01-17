@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768630903399,
+      "id": 1768630962892,
       "repository": "ai-on-browser/ai-on-browser.github.io",
       "issueTitle": "[Bug]: MathJax error",
       "url": "https://github.com/ai-on-browser/ai-on-browser.github.io/issues/957",
-      "createdAt": "2026-01-17T06:21:43.399Z",
+      "createdAt": "2026-01-17T06:22:42.892Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
