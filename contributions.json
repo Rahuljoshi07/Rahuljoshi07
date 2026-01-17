@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768673028276,
+      "repository": "ColdWindScholar/MIO-KITCHEN-SOURCE",
+      "issueTitle": "BUG : Problem extracting SUPER partition",
+      "url": "https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE/issues/198",
+      "createdAt": "2026-01-17T18:03:48.276Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
