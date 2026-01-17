@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768615847242,
+      "repository": "adamlui/chatgpt-widescreen",
+      "issueTitle": "Copy Button on Script Blocks Overlaps with Header Buttons",
+      "url": "https://github.com/adamlui/chatgpt-widescreen/issues/266",
+      "createdAt": "2026-01-17T02:10:47.242Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
