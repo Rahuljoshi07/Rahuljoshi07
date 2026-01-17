@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768663109350,
+      "repository": "MaaXYZ/MaaDebugger",
+      "issueTitle": "bug反馈：每次启动DBG控制win32都需要先调整截图方式为“DXGI_DesktopDup”连接一次窗口(后面要换其他截图方式再调回去)，否则无法截全指定窗口",
+      "url": "https://github.com/MaaXYZ/MaaDebugger/issues/146",
+      "createdAt": "2026-01-17T15:18:29.350Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
