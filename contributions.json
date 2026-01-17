@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768609769332,
+      "repository": "BEDOLAGA-DEV/remnawave-bedolaga-telegram-bot",
+      "issueTitle": "[FEAT, BUG] баг фиксы изменение .env прямо в боте",
+      "url": "https://github.com/BEDOLAGA-DEV/remnawave-bedolaga-telegram-bot/issues/2276",
+      "createdAt": "2026-01-17T00:29:29.332Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
