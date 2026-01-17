@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768653355684,
+      "repository": "mikakaraila/node-red-contrib-opcua",
+      "issueTitle": "Client error 0x801f0000 BadUserAccessDenied Version 0.2.342",
+      "url": "https://github.com/mikakaraila/node-red-contrib-opcua/issues/840",
+      "createdAt": "2026-01-17T12:35:55.684Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
