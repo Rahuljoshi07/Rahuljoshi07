@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768691671584,
+      "repository": "crlngn/crlngn-ui",
+      "issueTitle": "SWADE poor pictures in the inventory",
+      "url": "https://github.com/crlngn/crlngn-ui/issues/207",
+      "createdAt": "2026-01-17T23:14:31.584Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
