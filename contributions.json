@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768618916423,
+      "repository": "jacksonjude/USA-Election-Map",
+      "issueTitle": "2016 Presidential Map error Illinois in JJ maps",
+      "url": "https://github.com/jacksonjude/USA-Election-Map/issues/84",
+      "createdAt": "2026-01-17T03:01:56.423Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
