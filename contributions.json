@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768647275474,
+      "repository": "TheKing-OfTime/YandexMusicModClient",
+      "issueTitle": "хоткей на dislike + next не всегда срабатывает next, иногда только dislike",
+      "url": "https://github.com/TheKing-OfTime/YandexMusicModClient/issues/211",
+      "createdAt": "2026-01-17T10:54:35.474Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
