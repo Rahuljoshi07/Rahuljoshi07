@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768683374121,
+      "repository": "ulgens/django-blasphemy",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/ulgens/django-blasphemy/issues/694",
+      "createdAt": "2026-01-17T20:56:14.121Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
