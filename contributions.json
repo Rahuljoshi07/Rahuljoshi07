@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768658631906,
+      "repository": "jclgoodwin/bustimes.org",
+      "issueTitle": "API Suggestion",
+      "url": "https://github.com/jclgoodwin/bustimes.org/issues/385",
+      "createdAt": "2026-01-17T14:03:51.906Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
