@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768650539880,
+      "repository": "vcs-python/vcspull",
+      "issueTitle": "typing_extensions bug",
+      "url": "https://github.com/vcs-python/vcspull/issues/497",
+      "createdAt": "2026-01-17T11:48:59.880Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
