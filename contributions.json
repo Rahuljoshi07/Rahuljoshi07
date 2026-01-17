@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768613296688,
+      "repository": "petergridge/Irrigation-V5",
+      "issueTitle": "stop programs running concurrently option cause errors",
+      "url": "https://github.com/petergridge/Irrigation-V5/issues/243",
+      "createdAt": "2026-01-17T01:28:16.688Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
