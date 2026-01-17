@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768652066965,
+      "repository": "tokibito/django-ftpserver",
+      "issueTitle": "Example of sFTP",
+      "url": "https://github.com/tokibito/django-ftpserver/issues/18",
+      "createdAt": "2026-01-17T12:14:26.965Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
