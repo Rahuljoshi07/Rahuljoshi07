@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768732630095,
+      "repository": "remittor/zapret-openwrt",
+      "issueTitle": "[BUG] С включенным zapret не грузит главную страницу стим",
+      "url": "https://github.com/remittor/zapret-openwrt/issues/666",
+      "createdAt": "2026-01-18T10:37:10.095Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
