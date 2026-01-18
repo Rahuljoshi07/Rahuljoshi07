@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768713909191,
+      "repository": "RedBearAK/Toshy",
+      "issueTitle": "[BUG] Problem on PopOS 24.04 with latest cosmic",
+      "url": "https://github.com/RedBearAK/Toshy/issues/756",
+      "createdAt": "2026-01-18T05:25:09.191Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
