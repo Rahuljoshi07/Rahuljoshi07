@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768698588105,
+      "repository": "asherp/nostr-mail",
+      "issueTitle": "Camera bug",
+      "url": "https://github.com/asherp/nostr-mail/issues/8",
+      "createdAt": "2026-01-18T01:09:48.105Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
