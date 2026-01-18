@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768765241262,
+      "id": 1768765284611,
       "repository": "LibrariesHacked/catalogues-library",
       "issueTitle": "Look at Luci errors",
       "url": "https://github.com/LibrariesHacked/catalogues-library/issues/71",
-      "createdAt": "2026-01-18T19:40:41.262Z",
+      "createdAt": "2026-01-18T19:41:24.611Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
