@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768764748070,
+      "repository": "dagster-io/erk",
+      "issueTitle": "Objective: Ensure-Based CLI Error Handling",
+      "url": "https://github.com/dagster-io/erk/issues/5185",
+      "createdAt": "2026-01-18T19:32:28.070Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
