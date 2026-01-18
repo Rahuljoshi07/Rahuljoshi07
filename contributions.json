@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768734535902,
+      "repository": "justakazh/sicat",
+      "issueTitle": "TypeError: list indices must be integers or slices, not str",
+      "url": "https://github.com/justakazh/sicat/issues/11",
+      "createdAt": "2026-01-18T11:08:55.902Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
