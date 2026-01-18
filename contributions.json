@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768748160435,
+      "repository": "tokibito/django-ftpserver",
+      "issueTitle": "listdir is slow with large folder",
+      "url": "https://github.com/tokibito/django-ftpserver/issues/31",
+      "createdAt": "2026-01-18T14:56:00.435Z",
+      "type": "comment",
+      "content": "Consider caching with functools.lru_cache for expensive computations. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
