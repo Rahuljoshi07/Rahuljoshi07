@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768700522712,
+      "repository": "inventree/inventree-website",
+      "issueTitle": "Accessibility Contrast Issues & UX Design Improvements",
+      "url": "https://github.com/inventree/inventree-website/issues/247",
+      "createdAt": "2026-01-18T01:42:02.712Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
