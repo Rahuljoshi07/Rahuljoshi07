@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768765898194,
+      "repository": "deepnest-next/deepnest",
+      "issueTitle": ":bug: My deepnest Generates Only One Nest",
+      "url": "https://github.com/deepnest-next/deepnest/issues/168",
+      "createdAt": "2026-01-18T19:51:38.194Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
