@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768725763961,
+      "repository": "linear-b/gitstream",
+      "issueTitle": "GitStream assumes it is operating in a GitHub context",
+      "url": "https://github.com/linear-b/gitstream/issues/807",
+      "createdAt": "2026-01-18T08:42:43.961Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
