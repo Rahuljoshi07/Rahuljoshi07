@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768744650388,
-      "repository": "jjppof/goldensun_html5",
-      "issueTitle": "Combat freeze after selecting Garet's Djinn option",
-      "url": "https://github.com/jjppof/goldensun_html5/issues/546",
-      "createdAt": "2026-01-18T13:57:30.389Z",
+      "id": 1768744684373,
+      "repository": "tokibito/django-ftpserver",
+      "issueTitle": "listdir is slow with large folder",
+      "url": "https://github.com/tokibito/django-ftpserver/issues/31",
+      "createdAt": "2026-01-18T13:58:04.373Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider caching with functools.lru_cache for expensive computations. This suggestion is particularl..."
     }
   ],
   "stats": {
