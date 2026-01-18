@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768703715517,
+      "repository": "jjppof/goldensun_html5",
+      "issueTitle": "Combat freeze after selecting Garet's Djinn option",
+      "url": "https://github.com/jjppof/goldensun_html5/issues/546",
+      "createdAt": "2026-01-18T02:35:15.517Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
