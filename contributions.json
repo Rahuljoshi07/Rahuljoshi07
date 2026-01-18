@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768772426683,
+      "repository": "IUrreta/DatabaseEditor",
+      "issueTitle": "[BUG] F2/F3 drivers lose their contract",
+      "url": "https://github.com/IUrreta/DatabaseEditor/issues/522",
+      "createdAt": "2026-01-18T21:40:26.683Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
