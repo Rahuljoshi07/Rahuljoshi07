@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768694846342,
+      "repository": "boneylizard/Eloquent",
+      "issueTitle": "Fatal error on launch: No module named 'backend.app.forensic_linguistics_service'",
+      "url": "https://github.com/boneylizard/Eloquent/issues/1",
+      "createdAt": "2026-01-18T00:07:26.342Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
