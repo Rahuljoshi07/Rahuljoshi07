@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768716492432,
+      "repository": "tokibito/django-ftpserver",
+      "issueTitle": "listdir is slow with large folder",
+      "url": "https://github.com/tokibito/django-ftpserver/issues/31",
+      "createdAt": "2026-01-18T06:08:12.433Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions instead of traditional loops for better performance. This suggest..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
