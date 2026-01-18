@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768710437438,
+      "repository": "greynewell/mcpbr",
+      "issueTitle": "[Bug]: Results lost in crashed run",
+      "url": "https://github.com/greynewell/mcpbr/issues/2",
+      "createdAt": "2026-01-18T04:27:17.438Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
