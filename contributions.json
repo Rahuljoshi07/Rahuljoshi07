@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768753056455,
+      "repository": "CodingPirates/forenings_medlemmer",
+      "issueTitle": "[BUG] Manuel anonymisering af person fejler, hvis seneste login er inden for seneste 2 år.",
+      "url": "https://github.com/CodingPirates/forenings_medlemmer/issues/1333",
+      "createdAt": "2026-01-18T16:17:36.455Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
