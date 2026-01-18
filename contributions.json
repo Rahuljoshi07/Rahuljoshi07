@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768730552351,
+      "repository": "jjcremmers/PyFEM",
+      "issueTitle": "Bug in the NewtonRaphson NonLinear algorithm (Update of element cordinates)",
+      "url": "https://github.com/jjcremmers/PyFEM/issues/6",
+      "createdAt": "2026-01-18T10:02:32.351Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
