@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768694548725,
+      "repository": "iluvcapra/py-ptsl",
+      "issueTitle": "[BUG]",
+      "url": "https://github.com/iluvcapra/py-ptsl/issues/63",
+      "createdAt": "2026-01-18T00:02:28.725Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
