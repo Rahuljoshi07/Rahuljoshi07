@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768734590838,
+      "repository": "MUKAPP/mspring-theme",
+      "issueTitle": "强行覆盖会使超级表情添加气泡",
+      "url": "https://github.com/MUKAPP/mspring-theme/issues/107",
+      "createdAt": "2026-01-18T11:09:50.838Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
