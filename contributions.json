@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768745468830,
+      "repository": "ashita-ai/tessera",
+      "issueTitle": "Fix Any type hint in metrics.py update_gauge_metrics function",
+      "url": "https://github.com/ashita-ai/tessera/issues/261",
+      "createdAt": "2026-01-18T14:11:08.830Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
