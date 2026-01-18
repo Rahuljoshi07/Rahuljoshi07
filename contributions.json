@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768764099801,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Mark the props of the component as read-only.",
+      "url": "https://github.com/OWASP/Nest/issues/3405",
+      "createdAt": "2026-01-18T19:21:39.801Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
