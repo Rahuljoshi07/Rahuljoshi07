@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768697010789,
+      "repository": "nextcloud/files_retention",
+      "issueTitle": "Document that \"From date of\" with \"Creation\" means \"Upload\" when available",
+      "url": "https://github.com/nextcloud/files_retention/issues/759",
+      "createdAt": "2026-01-18T00:43:30.789Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
