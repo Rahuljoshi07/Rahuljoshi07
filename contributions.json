@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768771674726,
+      "repository": "barebaric/rayforge",
+      "issueTitle": "after upgrade rayforge 28.xxx rayforge don't start",
+      "url": "https://github.com/barebaric/rayforge/issues/125",
+      "createdAt": "2026-01-18T21:27:54.727Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
