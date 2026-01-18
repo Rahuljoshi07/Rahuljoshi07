@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768746693631,
+      "repository": "martis42/depend_on_what_you_use",
+      "issueTitle": "Python preprocessor is very slow",
+      "url": "https://github.com/martis42/depend_on_what_you_use/issues/350",
+      "createdAt": "2026-01-18T14:31:33.631Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
