@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768697312269,
-      "repository": "OWASP/Nest",
-      "issueTitle": "Fix: Show module as a section when there is only 1 module",
-      "url": "https://github.com/OWASP/Nest/issues/3083",
-      "createdAt": "2026-01-18T00:48:32.270Z",
+      "id": 1768697359175,
+      "repository": "Alfresco/alfresco-community-share",
+      "issueTitle": "\"Error loading items\" on Users page",
+      "url": "https://github.com/Alfresco/alfresco-community-share/issues/4",
+      "createdAt": "2026-01-18T00:49:19.175Z",
       "type": "comment",
-      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
