@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768725306217,
+      "repository": "edkreuk/FMD_FRAMEWORK",
+      "issueTitle": "Parallel processing issue for same entity.",
+      "url": "https://github.com/edkreuk/FMD_FRAMEWORK/issues/82",
+      "createdAt": "2026-01-18T08:35:06.217Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
