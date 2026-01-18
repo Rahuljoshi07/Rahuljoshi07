@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768761708634,
+      "repository": "michaelbeijer/Supervertaler",
+      "issueTitle": "[BUG] AI Settings: incorrect LLMs shown in brackets",
+      "url": "https://github.com/michaelbeijer/Supervertaler/issues/103",
+      "createdAt": "2026-01-18T18:41:48.634Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
