@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768762282436,
+      "repository": "joesaby/astro-mermaid",
+      "issueTitle": "Issue with publishing version 1.2.1 to npm",
+      "url": "https://github.com/joesaby/astro-mermaid/issues/36",
+      "createdAt": "2026-01-18T18:51:22.436Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
