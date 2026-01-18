@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768765241262,
+      "repository": "LibrariesHacked/catalogues-library",
+      "issueTitle": "Look at Luci errors",
+      "url": "https://github.com/LibrariesHacked/catalogues-library/issues/71",
+      "createdAt": "2026-01-18T19:40:41.262Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
