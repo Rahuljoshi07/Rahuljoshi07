@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1768749568917,
-      "repository": "RealDevSquad/website-www",
-      "issueTitle": "fix: infinite redirect loop for new signup page when user has incompleteUserDetails=true",
-      "url": "https://github.com/RealDevSquad/website-www/issues/1132",
-      "createdAt": "2026-01-18T15:19:28.917Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
