@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768755160582,
+      "repository": "G-Two/subarulink",
+      "issueTitle": "2024 Outback - KeyError: 'FRONT_TIRE' with version v0.7.9",
+      "url": "https://github.com/G-Two/subarulink/issues/92",
+      "createdAt": "2026-01-18T16:52:40.582Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
