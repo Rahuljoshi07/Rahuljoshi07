@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768725691558,
+      "repository": "Git-on-my-level/codex-autorunner",
+      "issueTitle": "Code Review: 48 High-Impact Security & Reliability Issues",
+      "url": "https://github.com/Git-on-my-level/codex-autorunner/issues/178",
+      "createdAt": "2026-01-18T08:41:31.558Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
