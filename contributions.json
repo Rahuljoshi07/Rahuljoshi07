@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768712916671,
+      "repository": "enthought/comtypes",
+      "issueTitle": "Adapting to Python 3.15+ `IntFlag` changes for negative members.",
+      "url": "https://github.com/enthought/comtypes/issues/894",
+      "createdAt": "2026-01-18T05:08:36.671Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
