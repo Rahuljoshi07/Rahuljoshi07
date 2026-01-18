@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768763336457,
+      "repository": "Community-PIO-CH32V/platform-ch32v",
+      "issueTitle": "Arduino Framework USB CDC/TinyUSB library include error",
+      "url": "https://github.com/Community-PIO-CH32V/platform-ch32v/issues/101",
+      "createdAt": "2026-01-18T19:08:56.457Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
