@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768712640045,
+      "repository": "DSPCalculator/dsp-calc",
+      "issueTitle": "[bug？feature？]采矿参数对\"添加现有产线“无效",
+      "url": "https://github.com/DSPCalculator/dsp-calc/issues/28",
+      "createdAt": "2026-01-18T05:04:00.045Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
