@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768737296947,
+      "repository": "we0091234/yolov8-plate",
+      "issueTitle": "TypeError: conv2d() received an invalid combination of arguments - got (Tensor, Parameter, NoneType, tuple, tuple, tuple, int), but expected one of:",
+      "url": "https://github.com/we0091234/yolov8-plate/issues/2",
+      "createdAt": "2026-01-18T11:54:56.947Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
