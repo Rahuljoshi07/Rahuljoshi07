@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768756309432,
+      "repository": "dokieli/dokieli",
+      "issueTitle": "Buttons disabled when dialog is open should be cleared when dialog is closed for other reasons (like switching modes)",
+      "url": "https://github.com/dokieli/dokieli/issues/527",
+      "createdAt": "2026-01-18T17:11:49.432Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
