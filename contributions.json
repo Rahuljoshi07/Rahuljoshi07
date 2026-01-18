@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768757705476,
+      "repository": "azothjs/azoth",
+      "issueTitle": "Get favicon working across browsers (Safari)",
+      "url": "https://github.com/azothjs/azoth/issues/1",
+      "createdAt": "2026-01-18T17:35:05.476Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
