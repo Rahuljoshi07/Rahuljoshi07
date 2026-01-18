@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768711755865,
+      "repository": "rx-modules/bolt-expressions",
+      "issueTitle": "Bug: Storing from data into a score without a scale is impossible",
+      "url": "https://github.com/rx-modules/bolt-expressions/issues/86",
+      "createdAt": "2026-01-18T04:49:15.865Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
