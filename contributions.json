@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768773341858,
+      "repository": "zwaldowski/semver-release-action",
+      "issueTitle": "Not helpful error message when using invalid bump value",
+      "url": "https://github.com/zwaldowski/semver-release-action/issues/19",
+      "createdAt": "2026-01-18T21:55:41.859Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
