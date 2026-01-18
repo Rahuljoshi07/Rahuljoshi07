@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768780080581,
+      "repository": "boriel-basic/zxbasic",
+      "issueTitle": "[Bug]: \"Code\" function behaves inconsistently with constant and non-constant parameter",
+      "url": "https://github.com/boriel-basic/zxbasic/issues/993",
+      "createdAt": "2026-01-18T23:48:00.581Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
