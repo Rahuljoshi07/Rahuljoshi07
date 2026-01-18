@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768734329172,
+      "id": 1768734365076,
       "repository": "MUKAPP/mspring-theme",
-      "issueTitle": "[功能请求]给昵称和群头衔加上发光效果",
-      "url": "https://github.com/MUKAPP/mspring-theme/issues/94",
-      "createdAt": "2026-01-18T11:05:29.172Z",
+      "issueTitle": "[Bug]: 使用主题后 设置->帮助 窗口会错误渲染在设置卡右下角",
+      "url": "https://github.com/MUKAPP/mspring-theme/issues/120",
+      "createdAt": "2026-01-18T11:06:05.076Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
