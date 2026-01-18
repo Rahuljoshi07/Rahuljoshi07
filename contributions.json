@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768708310215,
+      "repository": "2dos/DK64-Randomizer",
+      "issueTitle": "[Archipelago] Busy Barrel Barrage is sometimes erroneously in logic",
+      "url": "https://github.com/2dos/DK64-Randomizer/issues/3029",
+      "createdAt": "2026-01-18T03:51:50.215Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
