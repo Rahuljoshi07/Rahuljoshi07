@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768757818288,
+      "repository": "neogeny/TatSu",
+      "issueTitle": "Rule names can collide with Tatsu internals and raise SemanticError",
+      "url": "https://github.com/neogeny/TatSu/issues/141",
+      "createdAt": "2026-01-18T17:36:58.288Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
