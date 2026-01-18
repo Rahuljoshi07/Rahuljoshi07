@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768742419899,
+      "repository": "pmlmodelling/nctoolkit",
+      "issueTitle": "IndexError: List index out of range",
+      "url": "https://github.com/pmlmodelling/nctoolkit/issues/122",
+      "createdAt": "2026-01-18T13:20:19.899Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
