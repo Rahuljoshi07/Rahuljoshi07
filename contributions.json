@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768773909547,
+      "repository": "coding-kitties/investing-algorithm-framework",
+      "issueTitle": "backtest gives TypeError: Expected numeric dtype, got object instead.",
+      "url": "https://github.com/coding-kitties/investing-algorithm-framework/issues/351",
+      "createdAt": "2026-01-18T22:05:09.547Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
