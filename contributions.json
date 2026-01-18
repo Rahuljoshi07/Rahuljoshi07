@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768764379816,
+      "repository": "93Pd9s8Jt/atba",
+      "issueTitle": "[bug] stream from \"Web\" fails",
+      "url": "https://github.com/93Pd9s8Jt/atba/issues/61",
+      "createdAt": "2026-01-18T19:26:19.816Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
