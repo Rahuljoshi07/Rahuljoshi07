@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768759080542,
+      "repository": "donetick/frontend",
+      "issueTitle": "esbuild: npm error Error: Expected \"0.21.5\" but got \"0.18.20\"",
+      "url": "https://github.com/donetick/frontend/issues/42",
+      "createdAt": "2026-01-18T17:58:00.542Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
