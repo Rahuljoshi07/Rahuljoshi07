@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768771441127,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Move component definitions out of parent components to avoid unnecessary re-renders",
+      "url": "https://github.com/OWASP/Nest/issues/3411",
+      "createdAt": "2026-01-18T21:24:01.128Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
