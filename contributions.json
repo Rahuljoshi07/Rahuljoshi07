@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768769997433,
+      "repository": "Community-PIO-CH32V/platform-ch32v",
+      "issueTitle": "Regarding the issue that the lights running NeoPixel on the CH32V003 all turn white",
+      "url": "https://github.com/Community-PIO-CH32V/platform-ch32v/issues/102",
+      "createdAt": "2026-01-18T20:59:57.433Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
