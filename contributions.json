@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768716568837,
+      "repository": "aws-samples/aws-sdk-js-tests",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/aws-samples/aws-sdk-js-tests/issues/122",
+      "createdAt": "2026-01-18T06:09:28.838Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
