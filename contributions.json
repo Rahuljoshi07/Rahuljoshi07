@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768748535632,
+      "repository": "Kazuki-0147/Antigravity-Proxy",
+      "issueTitle": "issue: Midway cut-off although max_tokens is set at 32000",
+      "url": "https://github.com/Kazuki-0147/Antigravity-Proxy/issues/9",
+      "createdAt": "2026-01-18T15:02:15.632Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
