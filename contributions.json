@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768804910257,
+      "repository": "Tobi-De/cookiecutter-fastapi",
+      "issueTitle": "Add docker-compose in the docs examples for full setup",
+      "url": "https://github.com/Tobi-De/cookiecutter-fastapi/issues/6",
+      "createdAt": "2026-01-19T06:41:50.257Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
