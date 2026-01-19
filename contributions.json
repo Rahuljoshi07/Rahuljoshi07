@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768846350402,
+      "id": 1768846382015,
       "repository": "tldr-pages/tldr-node-client",
       "issueTitle": "Cache not getting updated",
       "url": "https://github.com/tldr-pages/tldr-node-client/issues/491",
-      "createdAt": "2026-01-19T18:12:30.402Z",
+      "createdAt": "2026-01-19T18:13:02.015Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
