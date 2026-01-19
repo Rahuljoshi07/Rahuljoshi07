@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768787179777,
+      "repository": "BeiDouMS/BeiDou-Server",
+      "issueTitle": "[Bug] 修改use_enable_solo_expeditions为true后，仍就无法开始扎昆前置任务",
+      "url": "https://github.com/BeiDouMS/BeiDou-Server/issues/499",
+      "createdAt": "2026-01-19T01:46:19.777Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
