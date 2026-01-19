@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768848574958,
+      "repository": "zadorlab/sella",
+      "issueTitle": "Any insights into using sella for cell vector optimization and its compatibility with external cell filters?",
+      "url": "https://github.com/zadorlab/sella/issues/61",
+      "createdAt": "2026-01-19T18:49:34.958Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
