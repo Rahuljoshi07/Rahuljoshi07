@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768841706326,
+      "repository": "ArnoldSmith86/virtualtabletop",
+      "issueTitle": "Validator and GET",
+      "url": "https://github.com/ArnoldSmith86/virtualtabletop/issues/2825",
+      "createdAt": "2026-01-19T16:55:06.326Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
