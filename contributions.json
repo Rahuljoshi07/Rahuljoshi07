@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768826071276,
+      "repository": "byteball/obyte-gui-wallet",
+      "issueTitle": "Error Message when upgrading from 3.0.0 to 3.0.1",
+      "url": "https://github.com/byteball/obyte-gui-wallet/issues/505",
+      "createdAt": "2026-01-19T12:34:31.276Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
