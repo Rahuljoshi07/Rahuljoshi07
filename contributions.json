@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768849603411,
+      "repository": "Spenhouet/confluence-markdown-exporter",
+      "issueTitle": "MP4 file is not downloaded",
+      "url": "https://github.com/Spenhouet/confluence-markdown-exporter/issues/127",
+      "createdAt": "2026-01-19T19:06:43.411Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
