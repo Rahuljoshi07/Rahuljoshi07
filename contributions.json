@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768837662685,
+      "repository": "open-edge-platform/scenescape",
+      "issueTitle": "[Bug - NOK] Object tracking degrades after adding 7th camera in SceneScape 2025.2 (Kubernetes, Helm deployment)",
+      "url": "https://github.com/open-edge-platform/scenescape/issues/888",
+      "createdAt": "2026-01-19T15:47:42.685Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
