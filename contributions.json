@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768822133986,
+      "repository": "palewire/savepagenow",
+      "issueTitle": "KeyError for 'content-location' and 'link' when trying to save non-HTML",
+      "url": "https://github.com/palewire/savepagenow/issues/65",
+      "createdAt": "2026-01-19T11:28:53.986Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
