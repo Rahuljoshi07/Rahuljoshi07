@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768805411554,
+      "id": 1768805445428,
       "repository": "phifogg/ioBroker.sainlogic",
-      "issueTitle": "Feature Request: Zeitpunkte der Min- und MaxWerte",
-      "url": "https://github.com/phifogg/ioBroker.sainlogic/issues/103",
-      "createdAt": "2026-01-19T06:50:11.554Z",
+      "issueTitle": "Default value type !== value type",
+      "url": "https://github.com/phifogg/ioBroker.sainlogic/issues/226",
+      "createdAt": "2026-01-19T06:50:45.428Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
