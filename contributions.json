@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768781417404,
+      "repository": "markmdev/meridian",
+      "issueTitle": "No issue, just question: .claude/hooks/session-reload.py",
+      "url": "https://github.com/markmdev/meridian/issues/3",
+      "createdAt": "2026-01-19T00:10:17.405Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
