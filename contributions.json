@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768803101517,
+      "repository": "flagos-ai/FlagGems",
+      "issueTitle": "flag_gems compilation environment error on ascend910b",
+      "url": "https://github.com/flagos-ai/FlagGems/issues/1460",
+      "createdAt": "2026-01-19T06:11:41.517Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
