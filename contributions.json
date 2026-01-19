@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768860969319,
+      "repository": "vicwomg/pikaraoke",
+      "issueTitle": "Issue: Queue playback fails when no player client is connected",
+      "url": "https://github.com/vicwomg/pikaraoke/issues/681",
+      "createdAt": "2026-01-19T22:16:09.319Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
