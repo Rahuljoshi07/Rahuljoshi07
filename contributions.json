@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768848763893,
+      "repository": "a-synchronous/rubico",
+      "issueTitle": "thunkify returns promise of thunk instead of async thunk",
+      "url": "https://github.com/a-synchronous/rubico/issues/298",
+      "createdAt": "2026-01-19T18:52:43.893Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
