@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768860416850,
+      "repository": "pegros/PEG_LIST",
+      "issueTitle": "Cannot save flexipage changes - Header Action Configuration has an invalid value.",
+      "url": "https://github.com/pegros/PEG_LIST/issues/88",
+      "createdAt": "2026-01-19T22:06:56.850Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
