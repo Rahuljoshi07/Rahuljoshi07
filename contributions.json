@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768812748535,
+      "repository": "Cloufield/gwaslab",
+      "issueTitle": "`plot_stacked_mqq` fails when GWAS has no genome-wide significant variants (`AttributeError: 'NoneType' object has no attribute 'empty'`)",
+      "url": "https://github.com/Cloufield/gwaslab/issues/198",
+      "createdAt": "2026-01-19T08:52:28.535Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
