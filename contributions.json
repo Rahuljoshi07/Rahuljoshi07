@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768821028341,
+      "id": 1768821062778,
       "repository": "Bellisario/node-snapdrop",
       "issueTitle": "[Bug] \"DOMException: Failed to execute 'setRemoteDescription' on 'RTCPeerConnection': Failed to set remote answer sdp: Called in wrong state: stable\"",
       "url": "https://github.com/Bellisario/node-snapdrop/issues/24",
-      "createdAt": "2026-01-19T11:10:28.341Z",
+      "createdAt": "2026-01-19T11:11:02.778Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
