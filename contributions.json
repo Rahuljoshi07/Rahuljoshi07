@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768797690029,
+      "repository": "rustfoundation/safety-critical-rust-coding-guidelines",
+      "issueTitle": "[Guidelines-Bot] The bot might be too eager, we should probably fix that.",
+      "url": "https://github.com/rustfoundation/safety-critical-rust-coding-guidelines/issues/362",
+      "createdAt": "2026-01-19T04:41:30.029Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
