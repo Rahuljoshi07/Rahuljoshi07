@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768803661149,
+      "repository": "Mahdisadjadi/arxivscraper",
+      "issueTitle": "Issue with date_from and date_until",
+      "url": "https://github.com/Mahdisadjadi/arxivscraper/issues/8",
+      "createdAt": "2026-01-19T06:21:01.149Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
