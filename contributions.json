@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768852718371,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Refactor: Mark props as Readonly in several frontend components",
+      "url": "https://github.com/OWASP/Nest/issues/3418",
+      "createdAt": "2026-01-19T19:58:38.371Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
