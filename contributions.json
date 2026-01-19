@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768864580238,
+      "repository": "commaai/qdl.js",
+      "issueTitle": "Interrupting during an operation can get the device into a bad state",
+      "url": "https://github.com/commaai/qdl.js/issues/79",
+      "createdAt": "2026-01-19T23:16:20.238Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
