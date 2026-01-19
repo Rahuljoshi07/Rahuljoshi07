@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768829556581,
+      "repository": "itsrenoria/robofuse",
+      "issueTitle": "The application is unable to fix \"hoster unavailable error\" and gets stuck trying to unrestrict those links continuously.",
+      "url": "https://github.com/itsrenoria/robofuse/issues/6",
+      "createdAt": "2026-01-19T13:32:36.581Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
