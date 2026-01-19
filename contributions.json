@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768786638032,
+      "repository": "intel/auto-round",
+      "issueTitle": "transformers UT test_convert_from_awq_cpu failed after removing ipex",
+      "url": "https://github.com/intel/auto-round/issues/1154",
+      "createdAt": "2026-01-19T01:37:18.032Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
