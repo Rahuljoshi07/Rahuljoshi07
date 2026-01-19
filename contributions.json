@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768849792315,
+      "repository": "jacebrowning/datafiles",
+      "issueTitle": "Heuristics when datafiles uses block scalar headers (aka | ) for string or direct (quoted)",
+      "url": "https://github.com/jacebrowning/datafiles/issues/400",
+      "createdAt": "2026-01-19T19:09:52.315Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
