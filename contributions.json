@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1768832024960,
-      "repository": "DataDog/dd-trace-js",
-      "issueTitle": "[BUG]: Installs of dd-trace@5.75.0 fail due to peer-dependency violations in @datadog/openfeature-node-server",
-      "url": "https://github.com/DataDog/dd-trace-js/issues/6986",
-      "createdAt": "2026-01-19T14:13:44.960Z",
-      "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
