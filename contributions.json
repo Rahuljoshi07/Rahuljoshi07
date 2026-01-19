@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768783498032,
+      "repository": "willmiao/ComfyUI-Lora-Manager",
+      "issueTitle": "Model Cache Corruption Can Break LoRA Manager",
+      "url": "https://github.com/willmiao/ComfyUI-Lora-Manager/issues/730",
+      "createdAt": "2026-01-19T00:44:58.032Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
