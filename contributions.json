@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768836121727,
+      "repository": "LeMaterial/lemat-genbench",
+      "issueTitle": "Git LFS quota issue",
+      "url": "https://github.com/LeMaterial/lemat-genbench/issues/82",
+      "createdAt": "2026-01-19T15:22:01.727Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
