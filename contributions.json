@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768843010575,
+      "repository": "oddbird/sassdoc-theme-herman",
+      "issueTitle": "font-specimen output triggers an internal scroll-bar on the iframe",
+      "url": "https://github.com/oddbird/sassdoc-theme-herman/issues/249",
+      "createdAt": "2026-01-19T17:16:50.575Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
