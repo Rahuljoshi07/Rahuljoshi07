@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768807163562,
+      "repository": "neetozone/neeto-editor",
+      "issueTitle": "[neeto-chat-frontend/production] TypeError: Cannot read properties of undefined (reading 'click')",
+      "url": "https://github.com/neetozone/neeto-editor/issues/1711",
+      "createdAt": "2026-01-19T07:19:23.562Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
