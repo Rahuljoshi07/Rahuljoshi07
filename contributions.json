@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768859501428,
+      "repository": "aurelia/new",
+      "issueTitle": "DevAliases cause waring/error to be shown in console",
+      "url": "https://github.com/aurelia/new/issues/99",
+      "createdAt": "2026-01-19T21:51:41.428Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
