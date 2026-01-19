@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768807472429,
+      "repository": "fastify/benchmarks",
+      "issueTitle": "Sveltekit Performance Benchmark Comparison",
+      "url": "https://github.com/fastify/benchmarks/issues/303",
+      "createdAt": "2026-01-19T07:24:32.429Z",
+      "type": "comment",
+      "content": "Debouncing or throttling might help with frequent event handlers. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
