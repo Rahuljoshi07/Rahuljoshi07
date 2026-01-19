@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768832754467,
+      "id": 1768832793513,
       "repository": "shreyashpatel5506/githubanalyzer",
       "issueTitle": "[Issue]: Some Element Visible",
       "url": "https://github.com/shreyashpatel5506/githubanalyzer/issues/41",
-      "createdAt": "2026-01-19T14:25:54.467Z",
+      "createdAt": "2026-01-19T14:26:33.513Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
