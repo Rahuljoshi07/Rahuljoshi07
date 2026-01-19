@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768803752891,
+      "repository": "easonwong-de/Adaptive-Tab-Bar-Colour",
+      "issueTitle": "Some area are not themed at Firefox's sidebar",
+      "url": "https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour/issues/192",
+      "createdAt": "2026-01-19T06:22:32.892Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
