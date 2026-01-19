@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768814341484,
+      "repository": "julian-alarcon/prospect-mail",
+      "issueTitle": "[Startup/Integration] Login after Logout completely broken",
+      "url": "https://github.com/julian-alarcon/prospect-mail/issues/260",
+      "createdAt": "2026-01-19T09:19:01.485Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
