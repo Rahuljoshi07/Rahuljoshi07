@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768806234819,
+      "repository": "kyma-project/busola",
+      "issueTitle": "UI bugs after latest UI5 bump",
+      "url": "https://github.com/kyma-project/busola/issues/4530",
+      "createdAt": "2026-01-19T07:03:54.819Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
