@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768858373898,
+      "id": 1768858410552,
       "repository": "website-scraper/website-scraper-puppeteer",
       "issueTitle": "Cookies are becoming invalid on subsequent requests",
       "url": "https://github.com/website-scraper/website-scraper-puppeteer/issues/115",
-      "createdAt": "2026-01-19T21:32:53.898Z",
+      "createdAt": "2026-01-19T21:33:30.552Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
