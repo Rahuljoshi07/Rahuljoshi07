@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768824383223,
+      "repository": "radioactive-labs/plutonium-core",
+      "issueTitle": "Crash in Uppy Component on Validation Errors for New Records",
+      "url": "https://github.com/radioactive-labs/plutonium-core/issues/50",
+      "createdAt": "2026-01-19T12:06:23.223Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
