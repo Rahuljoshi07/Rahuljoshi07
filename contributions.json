@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768819638696,
+      "repository": "olafjanssen/sitelen-sitelen-renderer",
+      "issueTitle": "error message \"illegal token: ellipse\" always appears",
+      "url": "https://github.com/olafjanssen/sitelen-sitelen-renderer/issues/38",
+      "createdAt": "2026-01-19T10:47:18.696Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
