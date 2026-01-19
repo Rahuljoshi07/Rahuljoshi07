@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768829639702,
+      "repository": "cubed-dev/cubed",
+      "issueTitle": "Unexpected slowdown upon xr.open_dataset for large task graphs",
+      "url": "https://github.com/cubed-dev/cubed/issues/863",
+      "createdAt": "2026-01-19T13:33:59.702Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
