@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768853412089,
+      "repository": "SthephanShinkufag/Dollchan-Extension-Tools",
+      "issueTitle": "[Bug] File attachment by URL - missing required cookies",
+      "url": "https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/issues/1516",
+      "createdAt": "2026-01-19T20:10:12.089Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
