@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768800927134,
+      "repository": "AlienMajik/pwnagotchi_plugins",
+      "issueTitle": "[Bug] Neurolyzer causing Bootloops",
+      "url": "https://github.com/AlienMajik/pwnagotchi_plugins/issues/22",
+      "createdAt": "2026-01-19T05:35:27.134Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
