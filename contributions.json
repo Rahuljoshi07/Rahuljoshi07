@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768857400139,
+      "repository": "mne-tools/mne-nirs",
+      "issueTitle": "issue with read_snirf_aux_data: loading aux data obtained with NIRx Aurora 2023.9",
+      "url": "https://github.com/mne-tools/mne-nirs/issues/630",
+      "createdAt": "2026-01-19T21:16:40.139Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
