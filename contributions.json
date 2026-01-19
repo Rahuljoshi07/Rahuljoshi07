@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1768812906397,
-      "repository": "hiero-ledger/hiero-sdk-js",
-      "issueTitle": "Transactions with start time in the distant future (i.e. 2125) are read incorrectly",
-      "url": "https://github.com/hiero-ledger/hiero-sdk-js/issues/3635",
-      "createdAt": "2026-01-19T08:55:06.398Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
