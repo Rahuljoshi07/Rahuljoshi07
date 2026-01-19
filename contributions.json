@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768828913449,
+      "repository": "bitcraze/crazyflie-clients-python",
+      "issueTitle": "LH calibration - Invisible text (dark theme)",
+      "url": "https://github.com/bitcraze/crazyflie-clients-python/issues/691",
+      "createdAt": "2026-01-19T13:21:53.449Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
