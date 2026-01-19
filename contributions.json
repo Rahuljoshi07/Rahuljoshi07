@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768844279211,
+      "repository": "RegioHelden/django-datawatch",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/RegioHelden/django-datawatch/issues/118",
+      "createdAt": "2026-01-19T17:37:59.211Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
