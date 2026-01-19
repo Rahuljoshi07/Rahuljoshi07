@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768786554261,
+      "repository": "GraphingLib/GraphingLib",
+      "issueTitle": "[BUG] colors, line_styles and line_widths cannot be a list of length 1 for a single line",
+      "url": "https://github.com/GraphingLib/GraphingLib/issues/583",
+      "createdAt": "2026-01-19T01:35:54.261Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
