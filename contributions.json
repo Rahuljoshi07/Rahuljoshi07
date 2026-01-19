@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768842743302,
+      "repository": "oracle/weblogic-deploy-tooling",
+      "issueTitle": "cannot delete JMS Module, JMS Server and Filestore together using the Update Domain Tool in online mode",
+      "url": "https://github.com/oracle/weblogic-deploy-tooling/issues/1664",
+      "createdAt": "2026-01-19T17:12:23.302Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
