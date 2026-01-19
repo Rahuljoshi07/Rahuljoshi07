@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768831754737,
+      "repository": "link-assistant/hive-mind",
+      "issueTitle": "No conversation found with session ID: 7b651dee-663f-49a1-9363-e7f4b82d9444",
+      "url": "https://github.com/link-assistant/hive-mind/issues/1139",
+      "createdAt": "2026-01-19T14:09:14.737Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
