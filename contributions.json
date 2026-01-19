@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768822440091,
+      "repository": "babalae/bettergi-scripts-list",
+      "issueTitle": "[Bug]: AutoHoeingOneDragon-国际服时区错乱",
+      "url": "https://github.com/babalae/bettergi-scripts-list/issues/2733",
+      "createdAt": "2026-01-19T11:34:00.091Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
