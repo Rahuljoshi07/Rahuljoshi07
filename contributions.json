@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768793653605,
+      "repository": "nodejs/nodejs-dist-indexer",
+      "issueTitle": "Add SWC ahd SQLite versions to the dist-indexer",
+      "url": "https://github.com/nodejs/nodejs-dist-indexer/issues/33",
+      "createdAt": "2026-01-19T03:34:13.605Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
