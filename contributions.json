@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768813108237,
+      "repository": "hovsg/HOV-SG",
+      "issueTitle": "An error occurred when running gen_hm3dsem_walks_from_poses.py based on the hm3dsem dataset.",
+      "url": "https://github.com/hovsg/HOV-SG/issues/38",
+      "createdAt": "2026-01-19T08:58:28.237Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
