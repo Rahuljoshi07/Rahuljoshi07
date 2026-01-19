@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768829970132,
+      "repository": "Rchardon/RebirthItemTracker",
+      "issueTitle": "run-time error when CWD is at root",
+      "url": "https://github.com/Rchardon/RebirthItemTracker/issues/21",
+      "createdAt": "2026-01-19T13:39:30.132Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
