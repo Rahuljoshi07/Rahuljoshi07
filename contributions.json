@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768838246912,
+      "repository": "threatsimgpt-AI/ThreatSimGPT",
+      "issueTitle": "[CI-CRITICAL] Standardize dependency management - conflicting pip vs Poetry usage",
+      "url": "https://github.com/threatsimgpt-AI/ThreatSimGPT/issues/76",
+      "createdAt": "2026-01-19T15:57:26.912Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
