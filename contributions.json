@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768812862565,
+      "repository": "opendatacube/datacube-ows",
+      "issueTitle": "Review Gunicorn worker type",
+      "url": "https://github.com/opendatacube/datacube-ows/issues/1062",
+      "createdAt": "2026-01-19T08:54:22.565Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
