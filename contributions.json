@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768820516633,
+      "repository": "confluentinc/confluent-kafka-python",
+      "issueTitle": "Missing error constants in the version 2.13.0",
+      "url": "https://github.com/confluentinc/confluent-kafka-python/issues/2168",
+      "createdAt": "2026-01-19T11:01:56.633Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
