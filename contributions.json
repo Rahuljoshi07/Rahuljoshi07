@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768822624823,
+      "repository": "GEMILUXVII/astrbot_plugin_jm_cosmos",
+      "issueTitle": "[BUG] 下载名称过长或带有特殊符号的本子会下载失败",
+      "url": "https://github.com/GEMILUXVII/astrbot_plugin_jm_cosmos/issues/54",
+      "createdAt": "2026-01-19T11:37:04.823Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
