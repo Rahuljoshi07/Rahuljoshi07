@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768798496009,
+      "repository": "technomancer702/nodecast-tv",
+      "issueTitle": "[BUG] running nodecast-tv from promox vm",
+      "url": "https://github.com/technomancer702/nodecast-tv/issues/57",
+      "createdAt": "2026-01-19T04:54:56.009Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
