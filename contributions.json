@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768871455975,
+      "repository": "nextcloud/jitsi",
+      "issueTitle": "Jitsi App does not available for NC 32 yet",
+      "url": "https://github.com/nextcloud/jitsi/issues/42",
+      "createdAt": "2026-01-20T01:10:55.975Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
