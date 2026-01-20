@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1768870064385,
+      "id": 1768870100033,
       "repository": "nextcloud/forms",
       "issueTitle": "Form can not be saved",
       "url": "https://github.com/nextcloud/forms/issues/3043",
-      "createdAt": "2026-01-20T00:47:44.385Z",
+      "createdAt": "2026-01-20T00:48:20.034Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
