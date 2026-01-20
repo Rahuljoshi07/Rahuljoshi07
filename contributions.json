@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768872401775,
+      "repository": "nextcloud/privacy",
+      "issueTitle": "[Bug]: Personal settings -> Privacy says that Administrators cannot read my files with master key",
+      "url": "https://github.com/nextcloud/privacy/issues/1240",
+      "createdAt": "2026-01-20T01:26:41.775Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
