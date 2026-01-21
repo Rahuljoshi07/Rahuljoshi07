@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768964883325,
+      "repository": "14790897/auto-read-liunxdo",
+      "issueTitle": "运行起来这样子，怎么解决？",
+      "url": "https://github.com/14790897/auto-read-liunxdo/issues/151",
+      "createdAt": "2026-01-21T03:08:03.325Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
