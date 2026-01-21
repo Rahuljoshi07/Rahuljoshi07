@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768971793800,
+      "repository": "VATSIM-UK/uk-controller-pack",
+      "issueTitle": "Fix EGPH/EGPF FAVAs when on Scottish",
+      "url": "https://github.com/VATSIM-UK/uk-controller-pack/issues/1331",
+      "createdAt": "2026-01-21T05:03:13.800Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
