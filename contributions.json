@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1768969325651,
+      "repository": "jenkins-infra/plugin-site",
+      "issueTitle": "Use links for cards in search results",
+      "url": "https://github.com/jenkins-infra/plugin-site/issues/2352",
+      "createdAt": "2026-01-21T04:22:05.651Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
