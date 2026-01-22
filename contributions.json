@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769047739835,
+      "repository": "amd/gaia",
+      "issueTitle": "Lemonade 9.1.4 cautionary upgrade",
+      "url": "https://github.com/amd/gaia/issues/193",
+      "createdAt": "2026-01-22T02:08:59.835Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
