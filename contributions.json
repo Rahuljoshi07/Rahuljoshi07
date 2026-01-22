@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769079036945,
+      "repository": "elpheria/rpc-websockets",
+      "issueTitle": "Any reason emit events on namespace level will be broadcasting instead of only to subscribers like on top level",
+      "url": "https://github.com/elpheria/rpc-websockets/issues/155",
+      "createdAt": "2026-01-22T10:50:36.945Z",
+      "type": "comment",
+      "content": "Adding TypeScript could improve code quality and maintainability. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
