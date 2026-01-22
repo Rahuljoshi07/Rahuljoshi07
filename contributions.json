@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769068950425,
+      "repository": "oceanbase/pyseekdb",
+      "issueTitle": "[Bug]: Failed to check whether table exist or not?",
+      "url": "https://github.com/oceanbase/pyseekdb/issues/128",
+      "createdAt": "2026-01-22T08:02:30.426Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
