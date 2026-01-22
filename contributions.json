@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769077348417,
+      "repository": "apache/echarts-www",
+      "issueTitle": "[Bug] Nav items spacing and alignment",
+      "url": "https://github.com/apache/echarts-www/issues/78",
+      "createdAt": "2026-01-22T10:22:28.417Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
