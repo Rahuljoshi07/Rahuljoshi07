@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769068726318,
+      "repository": "KnpLabs/server-side-renderer",
+      "issueTitle": "Incorrect default implementation of /app/scripts/postRender.js",
+      "url": "https://github.com/KnpLabs/server-side-renderer/issues/1027",
+      "createdAt": "2026-01-22T07:58:46.318Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
