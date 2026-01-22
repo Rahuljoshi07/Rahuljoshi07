@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769048646518,
+      "repository": "Azure/azure-iot-cli-extension",
+      "issueTitle": "[bug] az iot hub state export fails with KeyError: 'x509Thumbprint'",
+      "url": "https://github.com/Azure/azure-iot-cli-extension/issues/746",
+      "createdAt": "2026-01-22T02:24:06.518Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
