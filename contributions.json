@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769088720732,
+      "repository": "cuttle-cards/cuttle",
+      "issueTitle": "[DevEx]: Standardize testing approach for asserting API errors via pinia actions",
+      "url": "https://github.com/cuttle-cards/cuttle/issues/1321",
+      "createdAt": "2026-01-22T13:32:00.732Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
