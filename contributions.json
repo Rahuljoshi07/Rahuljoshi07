@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769065338351,
+      "repository": "cs50/python-cs50",
+      "issueTitle": "Determine why `foreign_keys` aren't actually enforced on macOS",
+      "url": "https://github.com/cs50/python-cs50/issues/194",
+      "createdAt": "2026-01-22T07:02:18.352Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
