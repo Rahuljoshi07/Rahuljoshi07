@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769057493876,
+      "repository": "jkjkil4/JAnim",
+      "issueTitle": "Flickering on dedicated GPU when `FrameEffect` is applied to something static",
+      "url": "https://github.com/jkjkil4/JAnim/issues/50",
+      "createdAt": "2026-01-22T04:51:33.877Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
