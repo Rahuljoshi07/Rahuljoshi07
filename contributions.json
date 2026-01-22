@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769072495323,
+      "repository": "adaptlearning/adapt-contrib-spoor",
+      "issueTitle": "`offlineStorage.clear` scope - only clears `cmi.suspend_data`?",
+      "url": "https://github.com/adaptlearning/adapt-contrib-spoor/issues/349",
+      "createdAt": "2026-01-22T09:01:35.323Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
