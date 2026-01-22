@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769084667589,
+      "repository": "opsmill/infrahub-sdk-python",
+      "issueTitle": "bug: Problems with typing related to generated protocols",
+      "url": "https://github.com/opsmill/infrahub-sdk-python/issues/697",
+      "createdAt": "2026-01-22T12:24:27.589Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
