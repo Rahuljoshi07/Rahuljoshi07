@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769048464181,
+      "repository": "cognizant-ai-lab/neuro-san-studio",
+      "issueTitle": "Fixed WARNING  ServedManifestConfigFilter:served_manifest_config_filter.py",
+      "url": "https://github.com/cognizant-ai-lab/neuro-san-studio/issues/544",
+      "createdAt": "2026-01-22T02:21:04.181Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
