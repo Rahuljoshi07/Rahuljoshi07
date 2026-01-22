@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769067588541,
+      "repository": "SAP/odata-library",
+      "issueTitle": "FAILED: Repository Linter Issue: rl-reuse_tool",
+      "url": "https://github.com/SAP/odata-library/issues/139",
+      "createdAt": "2026-01-22T07:39:48.541Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
