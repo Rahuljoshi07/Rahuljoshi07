@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769175166409,
+      "repository": "apragacz/django-rest-registration",
+      "issueTitle": "Fix type ignore issues",
+      "url": "https://github.com/apragacz/django-rest-registration/issues/212",
+      "createdAt": "2026-01-23T13:32:46.409Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
