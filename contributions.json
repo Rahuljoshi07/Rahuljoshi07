@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769141172958,
+      "repository": "martin-rizzo/ComfyUI-ZImagePowerNodes",
+      "issueTitle": "Bug: ValueError: invalid literal for int() with base 10: '15:65' in ⚡| Save Image node",
+      "url": "https://github.com/martin-rizzo/ComfyUI-ZImagePowerNodes/issues/1",
+      "createdAt": "2026-01-23T04:06:12.958Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
