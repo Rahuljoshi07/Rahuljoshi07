@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769176536505,
+      "repository": "falling-fruit/falling-fruit-web",
+      "issueTitle": "Scrolling the map is sometimes interrupted",
+      "url": "https://github.com/falling-fruit/falling-fruit-web/issues/949",
+      "createdAt": "2026-01-23T13:55:36.505Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
