@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769143893444,
+      "repository": "digitalpalidictionary/dpd-db",
+      "issueTitle": "Webapp: fix memory overload bug",
+      "url": "https://github.com/digitalpalidictionary/dpd-db/issues/202",
+      "createdAt": "2026-01-23T04:51:33.444Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
