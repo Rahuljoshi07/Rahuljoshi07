@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769136641845,
+      "repository": "SergeyMosin/Appointments",
+      "issueTitle": "Error message when trying to disable reminders",
+      "url": "https://github.com/SergeyMosin/Appointments/issues/645",
+      "createdAt": "2026-01-23T02:50:41.845Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
