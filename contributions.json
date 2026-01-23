@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769164470560,
+      "repository": "DjangoCRM/django-crm",
+      "issueTitle": "Create a test for adding and editing cities in the CRM",
+      "url": "https://github.com/DjangoCRM/django-crm/issues/348",
+      "createdAt": "2026-01-23T10:34:30.560Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
