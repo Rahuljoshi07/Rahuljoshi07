@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769159278530,
+      "repository": "nextcloud/forms",
+      "issueTitle": "Form with checkbox questions can't be submitted without 400 error",
+      "url": "https://github.com/nextcloud/forms/issues/3114",
+      "createdAt": "2026-01-23T09:07:58.530Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
