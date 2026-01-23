@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769148452115,
+      "repository": "highcharts/highcharts-angular",
+      "issueTitle": "Bug: Dumbbell not load properly with providePartialHighcharts",
+      "url": "https://github.com/highcharts/highcharts-angular/issues/417",
+      "createdAt": "2026-01-23T06:07:32.115Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
