@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769165050274,
+      "repository": "zowe/docs-site",
+      "issueTitle": "Issue with docs.zowe.org/stable/troubleshoot/cli/mustgather-cli",
+      "url": "https://github.com/zowe/docs-site/issues/4867",
+      "createdAt": "2026-01-23T10:44:10.274Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
