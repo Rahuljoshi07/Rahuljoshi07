@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769157014174,
+      "repository": "pfan123/Articles",
+      "issueTitle": "React 单个组件性能问题及思考",
+      "url": "https://github.com/pfan123/Articles/issues/142",
+      "createdAt": "2026-01-23T08:30:14.174Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
