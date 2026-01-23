@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769153848551,
+      "repository": "BrainPad/cliboa",
+      "issueTitle": "Bug Fix for HTTP adapter error handling",
+      "url": "https://github.com/BrainPad/cliboa/issues/577",
+      "createdAt": "2026-01-23T07:37:28.551Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
