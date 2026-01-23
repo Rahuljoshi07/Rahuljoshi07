@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769153612597,
+      "repository": "mosheng1/QuickClipboard",
+      "issueTitle": "[Bug] 0.2.0出现了的上下快捷键只能移动一次",
+      "url": "https://github.com/mosheng1/QuickClipboard/issues/243",
+      "createdAt": "2026-01-23T07:33:32.597Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
