@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769156068390,
+      "repository": "NSPC911/rovr",
+      "issueTitle": "BUG: images coming out of preview container",
+      "url": "https://github.com/NSPC911/rovr/issues/182",
+      "createdAt": "2026-01-23T08:14:28.390Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
