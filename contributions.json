@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769165885717,
+      "repository": "kuhn-ruess/cmdbsyncer",
+      "issueTitle": "Netbox import really slow after update from 3.8.1 to v3.8.3",
+      "url": "https://github.com/kuhn-ruess/cmdbsyncer/issues/63",
+      "createdAt": "2026-01-23T10:58:05.717Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
