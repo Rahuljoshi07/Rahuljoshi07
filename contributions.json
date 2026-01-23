@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769149776918,
+      "repository": "bigcat88/pillow_heif",
+      "issueTitle": "[Bug] Tests fail when built against libheif 1.21.0",
+      "url": "https://github.com/bigcat88/pillow_heif/issues/396",
+      "createdAt": "2026-01-23T06:29:36.918Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
