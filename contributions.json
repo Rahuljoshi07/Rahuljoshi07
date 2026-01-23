@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769139157755,
+      "repository": "rstackjs/prebundle",
+      "issueTitle": "Feature Request: Allow choosing to prefer esm entry or cjs entry",
+      "url": "https://github.com/rstackjs/prebundle/issues/14",
+      "createdAt": "2026-01-23T03:32:37.755Z",
+      "type": "comment",
+      "content": "Using a bundler like Webpack or Vite could improve performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
