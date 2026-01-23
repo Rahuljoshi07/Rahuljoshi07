@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769169973302,
+      "repository": "lincolnloop/django-layout",
+      "issueTitle": "Ensure `caplog` works in test suite",
+      "url": "https://github.com/lincolnloop/django-layout/issues/102",
+      "createdAt": "2026-01-23T12:06:13.302Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
