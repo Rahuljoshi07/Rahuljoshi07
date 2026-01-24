@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1769263820018,
+      "id": 1769263879379,
       "repository": "physicshub/physicshub.github.io",
       "issueTitle": "[Bug]: Ball in simulations lose power every render/bounce",
       "url": "https://github.com/physicshub/physicshub.github.io/issues/109",
-      "createdAt": "2026-01-24T14:10:20.018Z",
+      "createdAt": "2026-01-24T14:11:19.379Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
