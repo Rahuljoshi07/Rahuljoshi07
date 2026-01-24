@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769285579835,
+      "repository": "vigo/django-admin-list-filter",
+      "issueTitle": "[FEATURE] filter on unrelated model",
+      "url": "https://github.com/vigo/django-admin-list-filter/issues/20",
+      "createdAt": "2026-01-24T20:12:59.835Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. This suggestion is particularly relevant..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
