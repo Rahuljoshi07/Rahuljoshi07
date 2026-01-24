@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769290940259,
+      "repository": "Mtillmann/chaptertool",
+      "issueTitle": "Podcast:location doesn't work",
+      "url": "https://github.com/Mtillmann/chaptertool/issues/23",
+      "createdAt": "2026-01-24T21:42:20.259Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
