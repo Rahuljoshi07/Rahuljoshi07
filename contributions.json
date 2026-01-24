@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769223133162,
+      "repository": "silverwind/updates",
+      "issueTitle": "Raise error when config can not be parsed",
+      "url": "https://github.com/silverwind/updates/issues/89",
+      "createdAt": "2026-01-24T02:52:13.162Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
