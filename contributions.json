@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769267249893,
+      "repository": "acrotron/aye-chat",
+      "issueTitle": "[Bug]: When using Windows Installer there is no version number",
+      "url": "https://github.com/acrotron/aye-chat/issues/200",
+      "createdAt": "2026-01-24T15:07:29.893Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
