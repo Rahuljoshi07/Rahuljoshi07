@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769255963301,
+      "repository": "Zerogiven-OpenWRT-Packages/luci-app-podman",
+      "issueTitle": "cannot repair integration on OpenWrt SNAPSHOT (r32674-16422510b5)",
+      "url": "https://github.com/Zerogiven-OpenWRT-Packages/luci-app-podman/issues/6",
+      "createdAt": "2026-01-24T11:59:23.302Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
