@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769230458840,
+      "repository": "trendmicro-frontend/tonic-ui",
+      "issueTitle": "Add environment component and hook for handling window and document object in iframe or SSR environment",
+      "url": "https://github.com/trendmicro-frontend/tonic-ui/issues/425",
+      "createdAt": "2026-01-24T04:54:18.840Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
