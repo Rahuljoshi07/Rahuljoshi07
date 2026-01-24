@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769254943335,
+      "repository": "nicola02nb/BetterDiscord-Stuff",
+      "issueTitle": "[BUG] - ShowPing not work with new Discord update",
+      "url": "https://github.com/nicola02nb/BetterDiscord-Stuff/issues/34",
+      "createdAt": "2026-01-24T11:42:23.335Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
