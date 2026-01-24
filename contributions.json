@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769286245538,
+      "repository": "Kanda-Akihito-Kun/ccb",
+      "issueTitle": "开启扩展后无法获取B站的直播信息",
+      "url": "https://github.com/Kanda-Akihito-Kun/ccb/issues/11",
+      "createdAt": "2026-01-24T20:24:05.538Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
