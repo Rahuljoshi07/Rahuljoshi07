@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769242704277,
+      "repository": "shanselman/cert-inspector",
+      "issueTitle": "How do we fix this issue for folks that don't have npx?",
+      "url": "https://github.com/shanselman/cert-inspector/issues/5",
+      "createdAt": "2026-01-24T08:18:24.278Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
