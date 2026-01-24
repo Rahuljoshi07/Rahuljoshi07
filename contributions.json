@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769298849073,
+      "repository": "RealRaven2000/SmartTemplates",
+      "issueTitle": "Improvements for correcting \"Lastname, Firstname\"",
+      "url": "https://github.com/RealRaven2000/SmartTemplates/issues/305",
+      "createdAt": "2026-01-24T23:54:09.073Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
