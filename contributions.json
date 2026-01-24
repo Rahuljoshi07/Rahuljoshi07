@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769244236865,
+      "repository": "prem-k-r/MaterialYouNewTab",
+      "issueTitle": "[Bug]: Settings reset after closing Chrome",
+      "url": "https://github.com/prem-k-r/MaterialYouNewTab/issues/128",
+      "createdAt": "2026-01-24T08:43:56.865Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
