@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1769272287317,
-      "repository": "mue/mue",
-      "issueTitle": "A few general issues and some localization issues",
-      "url": "https://github.com/mue/mue/issues/1111",
-      "createdAt": "2026-01-24T16:31:27.317Z",
+      "id": 1769272323500,
+      "repository": "modflowpy/flopy",
+      "issueTitle": "bug: set_data() method leaves stress period data intact for periods not included in dictionary",
+      "url": "https://github.com/modflowpy/flopy/issues/2663",
+      "createdAt": "2026-01-24T16:32:03.500Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
