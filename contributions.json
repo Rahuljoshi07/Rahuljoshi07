@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1769254062416,
+      "id": 1769254122131,
       "repository": "nicola02nb/BetterDiscord-Stuff",
-      "issueTitle": "[BUG] - ShowPing not work with new Discord update",
-      "url": "https://github.com/nicola02nb/BetterDiscord-Stuff/issues/34",
-      "createdAt": "2026-01-24T11:27:42.417Z",
+      "issueTitle": "[BUG] - CompleteDiscordQuest crashing discord after new update",
+      "url": "https://github.com/nicola02nb/BetterDiscord-Stuff/issues/35",
+      "createdAt": "2026-01-24T11:28:42.131Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
