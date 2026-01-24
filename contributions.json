@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769226636933,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Make sure program admin list ordering is deterministic and predictable",
+      "url": "https://github.com/OWASP/Nest/issues/3504",
+      "createdAt": "2026-01-24T03:50:36.933Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
