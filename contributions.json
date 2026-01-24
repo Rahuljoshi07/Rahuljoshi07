@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769219841395,
+      "repository": "nextcloud/talk-desktop",
+      "issueTitle": "Login fails in Talk Desktop App when username contains umlauts (ä, ö, ü) – 401 Unauthorized",
+      "url": "https://github.com/nextcloud/talk-desktop/issues/1360",
+      "createdAt": "2026-01-24T01:57:21.395Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
