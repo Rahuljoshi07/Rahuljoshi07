@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1769245736874,
-      "repository": "ephes/kptncook",
-      "issueTitle": "Error on mealie sync",
-      "url": "https://github.com/ephes/kptncook/issues/36",
-      "createdAt": "2026-01-24T09:08:56.874Z",
+      "id": 1769245793599,
+      "repository": "iobroker-community-adapters/ioBroker.shelly",
+      "issueTitle": "[Bug]: Catch Block handling -  Error: DB closed at Redis.sendCommand",
+      "url": "https://github.com/iobroker-community-adapters/ioBroker.shelly/issues/1279",
+      "createdAt": "2026-01-24T09:09:53.599Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
