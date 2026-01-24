@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769216331747,
+      "repository": "nextcloud/forms",
+      "issueTitle": "Delete form only possible by super weird, click order",
+      "url": "https://github.com/nextcloud/forms/issues/3099",
+      "createdAt": "2026-01-24T00:58:51.747Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
