@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769293446606,
+      "repository": "NeptuneHub/AudioMuse-AI-MusicServer",
+      "issueTitle": "[Bug] Default admin:admin user is recreated after container update/recreate",
+      "url": "https://github.com/NeptuneHub/AudioMuse-AI-MusicServer/issues/13",
+      "createdAt": "2026-01-24T22:24:06.606Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
