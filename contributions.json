@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769220860469,
+      "repository": "speechanddebate/tabroom",
+      "issueTitle": "Bug: Tournament Settings Cloned When Not Desired",
+      "url": "https://github.com/speechanddebate/tabroom/issues/69",
+      "createdAt": "2026-01-24T02:14:20.469Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
