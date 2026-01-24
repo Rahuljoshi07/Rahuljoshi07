@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769283113908,
+      "repository": "prem-k-r/MaterialYouNewTab",
+      "issueTitle": "[Bug]: After creating a new tab in dark mode, it flashes briefly before turning black.",
+      "url": "https://github.com/prem-k-r/MaterialYouNewTab/issues/126",
+      "createdAt": "2026-01-24T19:31:53.908Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
