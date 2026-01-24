@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769268189974,
+      "repository": "Daveiano/weewx-wdc",
+      "issueTitle": "[BUG] No daily temperature data displayed in the DWD forecast table, shows \"NaN\" instead",
+      "url": "https://github.com/Daveiano/weewx-wdc/issues/294",
+      "createdAt": "2026-01-24T15:23:09.974Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
