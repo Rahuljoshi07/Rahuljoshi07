@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769294923277,
+      "repository": "physicshub/physicshub.github.io",
+      "issueTitle": "[Bug]: On Github Action, contributors page doesn't update because of max requests reached",
+      "url": "https://github.com/physicshub/physicshub.github.io/issues/151",
+      "createdAt": "2026-01-24T22:48:43.277Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
