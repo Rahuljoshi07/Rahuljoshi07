@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769242287659,
+      "repository": "nodejs/changelog-maker",
+      "issueTitle": "Make it work on Windows",
+      "url": "https://github.com/nodejs/changelog-maker/issues/63",
+      "createdAt": "2026-01-24T08:11:27.659Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
