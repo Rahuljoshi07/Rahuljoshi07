@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769341097579,
+      "repository": "e5sub/Text-Legend",
+      "issueTitle": "bug希望得到优化",
+      "url": "https://github.com/e5sub/Text-Legend/issues/3",
+      "createdAt": "2026-01-25T11:38:17.579Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
