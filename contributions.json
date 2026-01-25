@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769350961379,
+      "repository": "Class-Widgets/Class-Widgets",
+      "issueTitle": "[BUG]: UOS 上联网概率卡死",
+      "url": "https://github.com/Class-Widgets/Class-Widgets/issues/1034",
+      "createdAt": "2026-01-25T14:22:41.380Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
