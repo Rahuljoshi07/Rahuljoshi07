@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769380009712,
+      "repository": "steffest/DPaint-js",
+      "issueTitle": "Smudge tool dargens the colors",
+      "url": "https://github.com/steffest/DPaint-js/issues/50",
+      "createdAt": "2026-01-25T22:26:49.712Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
