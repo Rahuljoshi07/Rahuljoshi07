@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769344243184,
+      "repository": "hiall-fyi/tado_ce",
+      "issueTitle": "Climate entities not updating consistently after changes",
+      "url": "https://github.com/hiall-fyi/tado_ce/issues/44",
+      "createdAt": "2026-01-25T12:30:43.184Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
