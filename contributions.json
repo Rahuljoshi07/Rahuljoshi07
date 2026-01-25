@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769339109278,
+      "repository": "bkerler/mtkclient",
+      "issueTitle": "PLTools - [LIB]: Error on sending payload: mtkclient/mtkclient/payloads/mt6877_payload.bin",
+      "url": "https://github.com/bkerler/mtkclient/issues/24",
+      "createdAt": "2026-01-25T11:05:09.278Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
