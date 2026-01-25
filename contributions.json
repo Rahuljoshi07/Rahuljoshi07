@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769336794003,
+      "repository": "dubstar-04/Design",
+      "issueTitle": "Properties window: Boolean properties not supported",
+      "url": "https://github.com/dubstar-04/Design/issues/366",
+      "createdAt": "2026-01-25T10:26:34.003Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
