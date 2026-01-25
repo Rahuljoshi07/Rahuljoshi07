@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769327000777,
+      "repository": "Blue-B/WhisperSubTranslate",
+      "issueTitle": "V1.3.2 \"ptx compiled with unsupported toolchain\" error",
+      "url": "https://github.com/Blue-B/WhisperSubTranslate/issues/13",
+      "createdAt": "2026-01-25T07:43:20.777Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
