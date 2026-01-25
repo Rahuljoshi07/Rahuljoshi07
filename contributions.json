@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769316126596,
+      "repository": "plugwise/plugwise-beta",
+      "issueTitle": "[BUG]: Reminder, rebuild snapshots after 2026.2 (Core 160302)",
+      "url": "https://github.com/plugwise/plugwise-beta/issues/1007",
+      "createdAt": "2026-01-25T04:42:06.596Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
