@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769362240566,
+      "repository": "py-econometrics/pyfixest",
+      "issueTitle": "Pass `fixef_tol` parameter to `scipy` and `cupy` estimators",
+      "url": "https://github.com/py-econometrics/pyfixest/issues/1138",
+      "createdAt": "2026-01-25T17:30:40.566Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
