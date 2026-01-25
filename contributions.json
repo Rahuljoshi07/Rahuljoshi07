@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769333991323,
+      "repository": "AlphaGPU/leetgpu-challenges",
+      "issueTitle": "submit error",
+      "url": "https://github.com/AlphaGPU/leetgpu-challenges/issues/149",
+      "createdAt": "2026-01-25T09:39:51.324Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
