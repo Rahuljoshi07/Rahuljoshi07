@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769377632540,
+      "repository": "euan-forrester/save-file-converter",
+      "issueTitle": "MiSTer page doesn't show error message correctly for PS1 games",
+      "url": "https://github.com/euan-forrester/save-file-converter/issues/395",
+      "createdAt": "2026-01-25T21:47:12.540Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
