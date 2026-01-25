@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769306153514,
+      "repository": "kristerkari/stylelint-high-performance-animation",
+      "issueTitle": "Please publish to NPM (for Stylelint ≥ 16.13.0 compatibility)",
+      "url": "https://github.com/kristerkari/stylelint-high-performance-animation/issues/295",
+      "createdAt": "2026-01-25T01:55:53.514Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. (Suggested by..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
