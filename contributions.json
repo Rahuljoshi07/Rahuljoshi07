@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769332389824,
+      "repository": "amiayweb/Hytale-F2P",
+      "issueTitle": "[BUG] Game update deletes your sever configutrations mods etc",
+      "url": "https://github.com/amiayweb/Hytale-F2P/issues/137",
+      "createdAt": "2026-01-25T09:13:09.824Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
