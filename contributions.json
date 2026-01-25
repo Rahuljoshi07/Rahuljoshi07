@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769314769047,
+      "repository": "golanlevin/p5.plotSvg",
+      "issueTitle": "Outer non-scaling-stroke group makes it challenging to treat svg groups as plot layers",
+      "url": "https://github.com/golanlevin/p5.plotSvg/issues/21",
+      "createdAt": "2026-01-25T04:19:29.048Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
