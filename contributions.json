@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769374239009,
+      "repository": "afairgiant/MediKeep",
+      "issueTitle": "bug: metric unit system setting not applied in pdf/json data exports",
+      "url": "https://github.com/afairgiant/MediKeep/issues/414",
+      "createdAt": "2026-01-25T20:50:39.009Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
