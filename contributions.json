@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769325268026,
+      "repository": "digitaldemocracy2030/kouchou-ai",
+      "issueTitle": "レポート一覧取得時にslugフィールドの欠落によるValidationErrorが発生する",
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/740",
+      "createdAt": "2026-01-25T07:14:28.027Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
