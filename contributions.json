@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769332072524,
+      "repository": "kevinjohncutler/omnipose",
+      "issueTitle": "Omnipose Model Training - RuntimeError: running_mean should contain 2 elements, not 1",
+      "url": "https://github.com/kevinjohncutler/omnipose/issues/118",
+      "createdAt": "2026-01-25T09:07:52.524Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
