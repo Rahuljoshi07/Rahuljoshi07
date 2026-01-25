@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769299925006,
+      "repository": "kirillzhosul/gofra",
+      "issueTitle": "Introduce *no_return_value* type as replacement for void type",
+      "url": "https://github.com/kirillzhosul/gofra/issues/53",
+      "createdAt": "2026-01-25T00:12:05.006Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
