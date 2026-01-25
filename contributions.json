@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769337367400,
+      "repository": "figorr/meteocat",
+      "issueTitle": "[Bug] Integration does not load",
+      "url": "https://github.com/figorr/meteocat/issues/17",
+      "createdAt": "2026-01-25T10:36:07.400Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
