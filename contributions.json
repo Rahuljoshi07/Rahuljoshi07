@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769307431070,
+      "repository": "kristerkari/stylelint-high-performance-animation",
+      "issueTitle": "Low-performance styles (font-size, margin, padding, etc.) are not flagged in pseudo-classes (:hover, :focus)",
+      "url": "https://github.com/kristerkari/stylelint-high-performance-animation/issues/227",
+      "createdAt": "2026-01-25T02:17:11.070Z",
+      "type": "comment",
+      "content": "Consider using virtual scrolling for large lists to improve performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
