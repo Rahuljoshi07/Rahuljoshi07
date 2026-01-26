@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769468598298,
+      "repository": "Mongoose-Publishing/traveller-foundryvtt",
+      "issueTitle": "Gunnery On Starships - Question or Bug?",
+      "url": "https://github.com/Mongoose-Publishing/traveller-foundryvtt/issues/86",
+      "createdAt": "2026-01-26T23:03:18.298Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
