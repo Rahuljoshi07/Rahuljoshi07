@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769421067589,
+      "repository": "agentscope-ai/ReMe",
+      "issueTitle": "MCP tool schema validation error: array type must have items",
+      "url": "https://github.com/agentscope-ai/ReMe/issues/84",
+      "createdAt": "2026-01-26T09:51:07.589Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
