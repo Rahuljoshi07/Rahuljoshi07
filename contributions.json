@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769425392476,
+      "repository": "caidish/instrMCP",
+      "issueTitle": "Frontend-backend communication fails: \"no comm detected\" error, %mcp_status always inactive",
+      "url": "https://github.com/caidish/instrMCP/issues/9",
+      "createdAt": "2026-01-26T11:03:12.477Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
