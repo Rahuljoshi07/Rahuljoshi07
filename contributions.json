@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769467475624,
+      "repository": "BasisResearch/effectful",
+      "issueTitle": "LLM calls are broken when the context contains generic Tools",
+      "url": "https://github.com/BasisResearch/effectful/issues/505",
+      "createdAt": "2026-01-26T22:44:35.624Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
