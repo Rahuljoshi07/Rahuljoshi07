@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769460540339,
+      "repository": "pocketnetteam/pocketnet.gui",
+      "issueTitle": "Bug: After every update /opt/Bastyon/chrome-sandbox has wrong permissions (Linux)",
+      "url": "https://github.com/pocketnetteam/pocketnet.gui/issues/1515",
+      "createdAt": "2026-01-26T20:49:00.339Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
