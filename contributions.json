@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769404246022,
+      "repository": "browniebroke/django-codemod",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/browniebroke/django-codemod/issues/459",
+      "createdAt": "2026-01-26T05:10:46.022Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
