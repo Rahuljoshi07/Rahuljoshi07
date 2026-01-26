@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769423818829,
+      "repository": "kirakiray/ofa.js",
+      "issueTitle": "[Bug]: 条件元素内部的内容应在条件判断完成后才进行渲染",
+      "url": "https://github.com/kirakiray/ofa.js/issues/217",
+      "createdAt": "2026-01-26T10:36:58.830Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
