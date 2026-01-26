@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769445720376,
+      "repository": "modal-labs/pytest-markdown-docs",
+      "issueTitle": "bug? -m markdown-docs not respected",
+      "url": "https://github.com/modal-labs/pytest-markdown-docs/issues/53",
+      "createdAt": "2026-01-26T16:42:00.376Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
