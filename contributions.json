@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769423013172,
+      "repository": "madebyaris/advance-minimax-m2-cursor-rules",
+      "issueTitle": "too many Linter failed. Fix the errors and continue.",
+      "url": "https://github.com/madebyaris/advance-minimax-m2-cursor-rules/issues/9",
+      "createdAt": "2026-01-26T10:23:33.172Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
