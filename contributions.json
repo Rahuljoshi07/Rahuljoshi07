@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769469225390,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Fix 404 Flash on Mentorship Module Page",
+      "url": "https://github.com/OWASP/Nest/issues/3574",
+      "createdAt": "2026-01-26T23:13:45.390Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
