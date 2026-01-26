@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769409973027,
+      "repository": "ThalesGroup/fred",
+      "issueTitle": "Error 503 when i delete a ressource tag with large number of documents",
+      "url": "https://github.com/ThalesGroup/fred/issues/1032",
+      "createdAt": "2026-01-26T06:46:13.027Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
