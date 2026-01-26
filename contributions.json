@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769396181316,
+      "repository": "Fast-Editor/Lynkr",
+      "issueTitle": "Documentation clarification regarding \"Local LLMs\"",
+      "url": "https://github.com/Fast-Editor/Lynkr/issues/19",
+      "createdAt": "2026-01-26T02:56:21.317Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
