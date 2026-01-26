@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769447414371,
+      "repository": "pallets-eco/flask-security",
+      "issueTitle": "Support reauthentication/verify for social oauth",
+      "url": "https://github.com/pallets-eco/flask-security/issues/1165",
+      "createdAt": "2026-01-26T17:10:14.371Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
