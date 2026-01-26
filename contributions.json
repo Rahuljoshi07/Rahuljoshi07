@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769405508369,
+      "repository": "homeassistant-ai/ha-mcp",
+      "issueTitle": "[BUG] ha_list_integrations runs into \"Name or service not known\"",
+      "url": "https://github.com/homeassistant-ai/ha-mcp/issues/488",
+      "createdAt": "2026-01-26T05:31:48.369Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
