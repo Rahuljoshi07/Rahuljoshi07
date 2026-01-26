@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769420136652,
+      "repository": "deepinv/deepinv",
+      "issueTitle": "Replace assert-based user input validation with explicit exceptions (ValueError/TypeError/...)",
+      "url": "https://github.com/deepinv/deepinv/issues/1025",
+      "createdAt": "2026-01-26T09:35:36.652Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
