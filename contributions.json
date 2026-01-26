@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769419674159,
+      "repository": "qiniu/nodejs-sdk",
+      "issueTitle": "请不要把typescript放到dependencies里",
+      "url": "https://github.com/qiniu/nodejs-sdk/issues/444",
+      "createdAt": "2026-01-26T09:27:54.160Z",
+      "type": "comment",
+      "content": "Adding TypeScript could improve code quality and maintainability. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
