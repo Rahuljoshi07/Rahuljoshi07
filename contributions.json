@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769397081756,
+      "repository": "DrozmotiX/ioBroker.tado",
+      "issueTitle": "masterswitch doesn´t work anymore   tado.0.1538XXX.Home.masterswitch",
+      "url": "https://github.com/DrozmotiX/ioBroker.tado/issues/1107",
+      "createdAt": "2026-01-26T03:11:21.756Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
