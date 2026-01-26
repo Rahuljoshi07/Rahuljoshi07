@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769423728315,
+      "repository": "nextcloud/mail",
+      "issueTitle": "Case-sensitive address matching triggers \"Reply All\" incorrectly",
+      "url": "https://github.com/nextcloud/mail/issues/12274",
+      "createdAt": "2026-01-26T10:35:28.315Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
