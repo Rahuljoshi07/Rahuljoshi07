@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769392986522,
+      "repository": "nextcloud/quota_warning",
+      "issueTitle": "Quota warning mail sent to all users on full data storage disk",
+      "url": "https://github.com/nextcloud/quota_warning/issues/35",
+      "createdAt": "2026-01-26T02:03:06.522Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
