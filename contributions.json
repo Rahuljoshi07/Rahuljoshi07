@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1769426288038,
+      "id": 1769426323326,
       "repository": "DataDog/dd-trace-js",
       "issueTitle": "[BUG]: Prisma DBM propagation does not work correctly.",
       "url": "https://github.com/DataDog/dd-trace-js/issues/6063",
-      "createdAt": "2026-01-26T11:18:08.038Z",
+      "createdAt": "2026-01-26T11:18:43.326Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
