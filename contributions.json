@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1769426387285,
+      "id": 1769426445071,
       "repository": "nextcloud/mail",
-      "issueTitle": "Case-sensitive address matching triggers \"Reply All\" incorrectly",
-      "url": "https://github.com/nextcloud/mail/issues/12274",
-      "createdAt": "2026-01-26T11:19:47.285Z",
+      "issueTitle": "New email not shown in list, only when refreshing full page",
+      "url": "https://github.com/nextcloud/mail/issues/12163",
+      "createdAt": "2026-01-26T11:20:45.071Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
