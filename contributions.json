@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769450044721,
+      "repository": "IndEcol/pymrio",
+      "issueTitle": "Fossil Fuels liquids not mapped correctly in resource_type mapping (internal MRIO classification issue)",
+      "url": "https://github.com/IndEcol/pymrio/issues/171",
+      "createdAt": "2026-01-26T17:54:04.721Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
