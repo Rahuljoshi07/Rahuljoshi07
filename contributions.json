@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769448851350,
+      "repository": "masumsoft/cassandra-exporter",
+      "issueTitle": "Not able to import - Unhandled promise rejection (rejection id: 1): TypeError: value.get is not a function",
+      "url": "https://github.com/masumsoft/cassandra-exporter/issues/7",
+      "createdAt": "2026-01-26T17:34:11.351Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
