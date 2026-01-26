@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769435639893,
+      "repository": "mrrtmob/kiri-ocr",
+      "issueTitle": "AttributeError when loading OCR model - kiri-ocr version incompatibility",
+      "url": "https://github.com/mrrtmob/kiri-ocr/issues/9",
+      "createdAt": "2026-01-26T13:53:59.893Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
