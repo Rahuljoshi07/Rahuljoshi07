@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769426850056,
+      "repository": "cta-observatory/ctapipe",
+      "issueTitle": "shower dist histogram storage could lead to rounding errors",
+      "url": "https://github.com/cta-observatory/ctapipe/issues/2924",
+      "createdAt": "2026-01-26T11:27:30.056Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
