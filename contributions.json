@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769405231485,
+      "repository": "fayis672/epub_viewer",
+      "issueTitle": "Progress of EpubLocation is 0 when file is opened, but initialCfi was set",
+      "url": "https://github.com/fayis672/epub_viewer/issues/28",
+      "createdAt": "2026-01-26T05:27:11.485Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
