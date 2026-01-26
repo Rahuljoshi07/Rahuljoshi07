@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769396543137,
+      "repository": "davidamacey/OpenTranscribe",
+      "issueTitle": "[REFACTOR] Standardize and Clean Up Routing Implementation",
+      "url": "https://github.com/davidamacey/OpenTranscribe/issues/27",
+      "createdAt": "2026-01-26T03:02:23.138Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
