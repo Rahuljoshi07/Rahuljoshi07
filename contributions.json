@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769438480746,
+      "repository": "MrCrin/swiish",
+      "issueTitle": "Deleted user/card issues",
+      "url": "https://github.com/MrCrin/swiish/issues/22",
+      "createdAt": "2026-01-26T14:41:20.746Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
