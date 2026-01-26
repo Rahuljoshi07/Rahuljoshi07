@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769386122082,
+      "repository": "michaelbeijer/Supervertaler",
+      "issueTitle": "[BUG] Unable to use Prompt Manager: ⚠️ Error communicating with AI: Error code: 401",
+      "url": "https://github.com/michaelbeijer/Supervertaler/issues/107",
+      "createdAt": "2026-01-26T00:08:42.082Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
