@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769406240192,
+      "repository": "cerbos/express-jwt-cerbos",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/cerbos/express-jwt-cerbos/issues/16",
+      "createdAt": "2026-01-26T05:44:00.192Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
