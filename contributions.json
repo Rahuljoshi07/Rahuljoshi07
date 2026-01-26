@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769394813732,
+      "repository": "jquast/wcwidth",
+      "issueTitle": "Should Combining characters of Category 'Mc' be width 1?",
+      "url": "https://github.com/jquast/wcwidth/issues/155",
+      "createdAt": "2026-01-26T02:33:33.732Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
