@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1769391534611,
+      "id": 1769391568953,
       "repository": "fmhy/FMHY-SafeGuard",
-      "issueTitle": "[REQUEST] add samsam.lol as a SAFE site",
-      "url": "https://github.com/fmhy/FMHY-SafeGuard/issues/75",
-      "createdAt": "2026-01-26T01:38:54.612Z",
+      "issueTitle": "[BUG] Zlib fake sites listed in fmhy are not flagged by the extension",
+      "url": "https://github.com/fmhy/FMHY-SafeGuard/issues/74",
+      "createdAt": "2026-01-26T01:39:28.953Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
