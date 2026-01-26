@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769442544787,
+      "repository": "LibreOffice/mso-dumper",
+      "issueTitle": "vbadump overflow error",
+      "url": "https://github.com/LibreOffice/mso-dumper/issues/10",
+      "createdAt": "2026-01-26T15:49:04.787Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
