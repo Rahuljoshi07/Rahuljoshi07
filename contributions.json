@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769450134289,
+      "repository": "aws-neuron/aws-neuron-sdk",
+      "issueTitle": "Tensorizer error for custom model (OpenAI VPT)",
+      "url": "https://github.com/aws-neuron/aws-neuron-sdk/issues/1230",
+      "createdAt": "2026-01-26T17:55:34.289Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
