@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769408326535,
+      "repository": "MaaEnd/MaaEnd",
+      "issueTitle": "一直提示不支持当前控制器",
+      "url": "https://github.com/MaaEnd/MaaEnd/issues/84",
+      "createdAt": "2026-01-26T06:18:46.535Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
