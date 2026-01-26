@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769414055850,
+      "repository": "filipecorrea/react-image-hotspots",
+      "issueTitle": "Setup dependencies cooldown",
+      "url": "https://github.com/filipecorrea/react-image-hotspots/issues/477",
+      "createdAt": "2026-01-26T07:54:15.850Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
