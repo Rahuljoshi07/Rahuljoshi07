@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769443298308,
+      "repository": "NextCommunity/NextCommunity.github.io",
+      "issueTitle": "Fix pre-commit",
+      "url": "https://github.com/NextCommunity/NextCommunity.github.io/issues/243",
+      "createdAt": "2026-01-26T16:01:38.308Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
