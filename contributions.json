@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769478221490,
+      "repository": "PINTO0309/onnx2tf",
+      "issueTitle": "The input shape broadcasting error of the ADD operator and replace.json cannot resolve the issue",
+      "url": "https://github.com/PINTO0309/onnx2tf/issues/784",
+      "createdAt": "2026-01-27T01:43:41.490Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
