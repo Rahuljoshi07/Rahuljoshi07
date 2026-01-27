@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769496800598,
+      "repository": "layumi/University1652-Baseline",
+      "issueTitle": "UnboundLocalError: cannot access local variable 'outputs' where it is not associated with a value",
+      "url": "https://github.com/layumi/University1652-Baseline/issues/67",
+      "createdAt": "2026-01-27T06:53:20.598Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
