@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769531158566,
+      "repository": "MuckRock/squarelet",
+      "issueTitle": "Investigate mailchimp journey enrollment failure that leads to crash",
+      "url": "https://github.com/MuckRock/squarelet/issues/543",
+      "createdAt": "2026-01-27T16:25:58.566Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
