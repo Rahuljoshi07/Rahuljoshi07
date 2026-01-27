@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769482722413,
+      "repository": "DrizzleTime/Foxel",
+      "issueTitle": "上传和下载都添加默认分片并行传输可以提高速度",
+      "url": "https://github.com/DrizzleTime/Foxel/issues/94",
+      "createdAt": "2026-01-27T02:58:42.413Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
