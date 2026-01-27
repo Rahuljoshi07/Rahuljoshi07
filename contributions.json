@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1769506914842,
-      "repository": "SolidOS/solid-panes",
-      "issueTitle": "Uncaught TypeError: can't access property \"slice\", s is undefined",
-      "url": "https://github.com/SolidOS/solid-panes/issues/510",
-      "createdAt": "2026-01-27T09:41:54.842Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
