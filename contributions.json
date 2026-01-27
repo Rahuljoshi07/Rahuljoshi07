@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769528325021,
+      "repository": "anchore/vunnel",
+      "issueTitle": "alpine: consider the security-rejections data",
+      "url": "https://github.com/anchore/vunnel/issues/1012",
+      "createdAt": "2026-01-27T15:38:45.021Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
