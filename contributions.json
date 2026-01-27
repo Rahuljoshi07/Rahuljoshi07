@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769528717299,
+      "repository": "carbon-design-system/ibm-products",
+      "issueTitle": "[Interstitial screen] WC visual parity bug",
+      "url": "https://github.com/carbon-design-system/ibm-products/issues/8595",
+      "createdAt": "2026-01-27T15:45:17.299Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
