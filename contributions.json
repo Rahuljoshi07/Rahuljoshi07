@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769528198473,
+      "repository": "steveseguin/social_stream",
+      "issueTitle": "Issue with event duplication in Twitch webhook",
+      "url": "https://github.com/steveseguin/social_stream/issues/710",
+      "createdAt": "2026-01-27T15:36:38.473Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
