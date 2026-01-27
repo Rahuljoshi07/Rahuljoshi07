@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769508449594,
+      "repository": "wemake-services/django-modern-rest",
+      "issueTitle": "Thread-safety should be a default",
+      "url": "https://github.com/wemake-services/django-modern-rest/issues/55",
+      "createdAt": "2026-01-27T10:07:29.594Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
