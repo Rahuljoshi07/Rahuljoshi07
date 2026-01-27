@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769475941381,
+      "repository": "airbytehq/airbyte-agent-connectors",
+      "issueTitle": "LocalExecutor should be instantiated from an object, not a yaml file",
+      "url": "https://github.com/airbytehq/airbyte-agent-connectors/issues/500",
+      "createdAt": "2026-01-27T01:05:41.381Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
