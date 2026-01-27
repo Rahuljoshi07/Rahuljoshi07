@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1769475569542,
-      "repository": "nextcloud/forms",
-      "issueTitle": "Can't create form : Unknown column 'allow_edit_submissions' in 'field list'",
-      "url": "https://github.com/nextcloud/forms/issues/2954",
-      "createdAt": "2026-01-27T00:59:29.542Z",
-      "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
