@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769529513477,
+      "repository": "YadavAkhileshh/OpenPlayground",
+      "issueTitle": "[New Project]: Title: Human Error Simulation and Analysis Tool",
+      "url": "https://github.com/YadavAkhileshh/OpenPlayground/issues/1504",
+      "createdAt": "2026-01-27T15:58:33.478Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
