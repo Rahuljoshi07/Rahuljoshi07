@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769508105158,
+      "repository": "elliottech/lighter-python",
+      "issueTitle": "Error Spot_market_id 2048 since 1.0.2 that create order in the Perps Market",
+      "url": "https://github.com/elliottech/lighter-python/issues/106",
+      "createdAt": "2026-01-27T10:01:45.158Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
