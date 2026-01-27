@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769480514071,
+      "repository": "BowTiedDevil/degenbot",
+      "issueTitle": "Extract WETH error in the bot executor contract",
+      "url": "https://github.com/BowTiedDevil/degenbot/issues/18",
+      "createdAt": "2026-01-27T02:21:54.071Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
