@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769524038259,
+      "repository": "Ouranosinc/xclim",
+      "issueTitle": "Reference to xclim.core.utils.VARIABLES in errors and warnings",
+      "url": "https://github.com/Ouranosinc/xclim/issues/2317",
+      "createdAt": "2026-01-27T14:27:18.259Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
