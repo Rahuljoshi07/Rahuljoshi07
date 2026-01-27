@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1769535866886,
+      "id": 1769535911054,
       "repository": "jmjuanes/folio",
       "issueTitle": "Bug: Cursor not lined up",
       "url": "https://github.com/jmjuanes/folio/issues/40",
-      "createdAt": "2026-01-27T17:44:26.886Z",
+      "createdAt": "2026-01-27T17:45:11.054Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
