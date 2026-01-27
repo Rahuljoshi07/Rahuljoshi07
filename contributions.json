@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769531917092,
+      "repository": "The-AI-Alliance/gofannon",
+      "issueTitle": "[Bug]: Integration tests run on forks",
+      "url": "https://github.com/The-AI-Alliance/gofannon/issues/525",
+      "createdAt": "2026-01-27T16:38:37.092Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
