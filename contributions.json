@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769534120995,
+      "repository": "frappe/gameplan",
+      "issueTitle": "bug: enter on mention selection does not close the popup",
+      "url": "https://github.com/frappe/gameplan/issues/446",
+      "createdAt": "2026-01-27T17:15:20.996Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
