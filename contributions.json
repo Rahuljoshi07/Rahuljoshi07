@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769519743844,
+      "repository": "pharmpy/pharmpy",
+      "issueTitle": "Compartments renumbered in $PK and $ERROR but not in $DES",
+      "url": "https://github.com/pharmpy/pharmpy/issues/4293",
+      "createdAt": "2026-01-27T13:15:43.844Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
