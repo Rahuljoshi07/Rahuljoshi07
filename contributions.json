@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769495892217,
+      "repository": "plebbit/plebbit-js",
+      "issueTitle": "A centralized alternative design to mintpass (Telegram convo)",
+      "url": "https://github.com/plebbit/plebbit-js/issues/65",
+      "createdAt": "2026-01-27T06:38:12.217Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
