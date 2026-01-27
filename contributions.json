@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769508866839,
+      "repository": "mdn/fred",
+      "issueTitle": "Migrate away from \"@dependabot squash and merge\"",
+      "url": "https://github.com/mdn/fred/issues/1255",
+      "createdAt": "2026-01-27T10:14:26.839Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
