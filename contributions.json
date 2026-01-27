@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769540072086,
+      "repository": "udapi/udapi-python",
+      "issueTitle": "node.shift_after_node() does not update enhanced dependencies",
+      "url": "https://github.com/udapi/udapi-python/issues/95",
+      "createdAt": "2026-01-27T18:54:32.086Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
