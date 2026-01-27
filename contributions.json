@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769490249263,
+      "repository": "ETS2LA/Euro-Truck-Simulator-2-Lane-Assist",
+      "issueTitle": "[Bug]: Visualization Window Collapses to 18px Height When Using height: auto",
+      "url": "https://github.com/ETS2LA/Euro-Truck-Simulator-2-Lane-Assist/issues/460",
+      "createdAt": "2026-01-27T05:04:09.263Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
