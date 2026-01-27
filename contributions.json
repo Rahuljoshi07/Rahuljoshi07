@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769537224282,
+      "repository": "TomerFi/switcher_webapi",
+      "issueTitle": "Return proper error when trying to delete non existing schedule",
+      "url": "https://github.com/TomerFi/switcher_webapi/issues/723",
+      "createdAt": "2026-01-27T18:07:04.282Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
