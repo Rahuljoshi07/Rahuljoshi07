@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769520946668,
+      "repository": "saezlab/pypath",
+      "issueTitle": "expasy_enzyme_classes silently drops enzyme classes with non alphanumeric chars in description",
+      "url": "https://github.com/saezlab/pypath/issues/310",
+      "createdAt": "2026-01-27T13:35:46.668Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
