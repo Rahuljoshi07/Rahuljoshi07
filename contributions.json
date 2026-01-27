@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769518249134,
+      "repository": "dograh-hq/dograh",
+      "issueTitle": "[Bug]: fields added in Template Context Variable for a voice agent are lost/unavailable",
+      "url": "https://github.com/dograh-hq/dograh/issues/132",
+      "createdAt": "2026-01-27T12:50:49.134Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
