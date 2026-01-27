@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769501615369,
+      "repository": "athola/claude-night-market",
+      "issueTitle": "bug(sanctum): coverage reporting shows 0.00% despite passing tests",
+      "url": "https://github.com/athola/claude-night-market/issues/173",
+      "createdAt": "2026-01-27T08:13:35.369Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
