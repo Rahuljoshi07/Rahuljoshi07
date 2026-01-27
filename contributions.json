@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769520778283,
+      "repository": "cfsengineering/CEASIOMpy",
+      "issueTitle": "Negative CD",
+      "url": "https://github.com/cfsengineering/CEASIOMpy/issues/281",
+      "createdAt": "2026-01-27T13:32:58.283Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
