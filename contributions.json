@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769520166861,
+      "repository": "anam-org/metaxy",
+      "issueTitle": "[core] change `FQFieldKey.to_string` to use `:` as separator",
+      "url": "https://github.com/anam-org/metaxy/issues/543",
+      "createdAt": "2026-01-27T13:22:46.861Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
