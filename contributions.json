@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769515983693,
+      "repository": "BudEcosystem/bud-runtime",
+      "issueTitle": "FE::When Clicking on the tabs ,the icons are not seen as bold",
+      "url": "https://github.com/BudEcosystem/bud-runtime/issues/41",
+      "createdAt": "2026-01-27T12:13:03.693Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
