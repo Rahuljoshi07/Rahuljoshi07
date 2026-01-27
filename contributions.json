@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769490599993,
+      "repository": "MarketSquare/robotframework-browser",
+      "issueTitle": "Get Element Count shows incorrect error when count is not expected",
+      "url": "https://github.com/MarketSquare/robotframework-browser/issues/4644",
+      "createdAt": "2026-01-27T05:09:59.993Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
