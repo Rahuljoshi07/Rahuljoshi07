@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769497630449,
+      "repository": "TycheSoftwares/woocommerce-delivery-notes",
+      "issueTitle": "Blank page issue with Print link in a different browser when using \"+\" sign in email. ",
+      "url": "https://github.com/TycheSoftwares/woocommerce-delivery-notes/issues/415",
+      "createdAt": "2026-01-27T07:07:10.449Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
