@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769507148566,
+      "repository": "alfizari/Elden-Ring-Nightreign-Save-Editor",
+      "issueTitle": "Unknown Save Data Corruption Issue",
+      "url": "https://github.com/alfizari/Elden-Ring-Nightreign-Save-Editor/issues/65",
+      "createdAt": "2026-01-27T09:45:48.566Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
