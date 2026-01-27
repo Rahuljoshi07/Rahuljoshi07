@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769472378861,
+      "repository": "YapayZekaveTeknolojiAkademisi/Cemil-Slack-Bot",
+      "issueTitle": "(HIGH) Bug: /challenge command is accessible in Group DMs and causes \"stuck\" active state",
+      "url": "https://github.com/YapayZekaveTeknolojiAkademisi/Cemil-Slack-Bot/issues/8",
+      "createdAt": "2026-01-27T00:06:18.861Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
