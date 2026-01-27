@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1769531315717,
-      "repository": "mixpanel/mixpanel-js",
-      "issueTitle": "SecurityError appeared in versions 2.61.0 to 2.71.0 (Safari disabled cookies).",
-      "url": "https://github.com/mixpanel/mixpanel-js/issues/530",
-      "createdAt": "2026-01-27T16:28:35.717Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
