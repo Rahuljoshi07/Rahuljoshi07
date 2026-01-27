@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769534227318,
+      "repository": "descope/django-descope",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/descope/django-descope/issues/5",
+      "createdAt": "2026-01-27T17:17:07.318Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
