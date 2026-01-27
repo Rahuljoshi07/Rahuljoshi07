@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769526087012,
+      "repository": "ImperialCollegeLondon/pyrealm",
+      "issueTitle": "Incorrect calculation of stomatal conductance in Subdaily P Model",
+      "url": "https://github.com/ImperialCollegeLondon/pyrealm/issues/603",
+      "createdAt": "2026-01-27T15:01:27.012Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
