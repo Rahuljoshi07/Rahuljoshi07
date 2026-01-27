@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1769514100815,
+      "id": 1769514138356,
       "repository": "processing/p5.sound.js",
       "issueTitle": "[p5.js 2.0 Bug Report]: FFT.setInput(mic) is not a function.",
       "url": "https://github.com/processing/p5.sound.js/issues/71",
-      "createdAt": "2026-01-27T11:41:40.815Z",
+      "createdAt": "2026-01-27T11:42:18.356Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
