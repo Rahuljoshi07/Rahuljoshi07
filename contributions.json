@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769497243589,
+      "repository": "wukan1986/polars_ta",
+      "issueTitle": "cs_qcut的类型转换导致分组结果bug",
+      "url": "https://github.com/wukan1986/polars_ta/issues/15",
+      "createdAt": "2026-01-27T07:00:43.590Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
