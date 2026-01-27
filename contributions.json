@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769477355387,
+      "repository": "m3tac0de/home-assistant-sofabaton-x1s",
+      "issueTitle": "Cannot use app and integration at the same time",
+      "url": "https://github.com/m3tac0de/home-assistant-sofabaton-x1s/issues/190",
+      "createdAt": "2026-01-27T01:29:15.387Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
