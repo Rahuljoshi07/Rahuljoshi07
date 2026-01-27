@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769519824598,
+      "repository": "es-ude/elastic-ai.creator",
+      "issueTitle": "Problem with Linear Layer:  test_linear_layer_env5() fails",
+      "url": "https://github.com/es-ude/elastic-ai.creator/issues/738",
+      "createdAt": "2026-01-27T13:17:04.598Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
