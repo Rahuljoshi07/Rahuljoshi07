@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769503872359,
+      "repository": "scylladb/scylla-cluster-tests",
+      "issueTitle": "Add filter for \"raft_topology - error while handling the join response from the topology coordinator. The node will not join the cluster. Error: raft::request_aborted (Aborted while waiting for next tick on server: _ , latest applied entry: _)\"",
+      "url": "https://github.com/scylladb/scylla-cluster-tests/issues/13332",
+      "createdAt": "2026-01-27T08:51:12.359Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
