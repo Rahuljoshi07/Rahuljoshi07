@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769662135354,
+      "repository": "leoxiaoping/pbottleRPA",
+      "issueTitle": "windows11,运行demo脚本报错：Error: connect ECONNREFUSED 127.0.0.1:49888",
+      "url": "https://github.com/leoxiaoping/pbottleRPA/issues/1",
+      "createdAt": "2026-01-29T04:48:55.354Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
