@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769725699534,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Prefer optional chaining in organizations list (typescript:S6582)",
+      "url": "https://github.com/OWASP/Nest/issues/3635",
+      "createdAt": "2026-01-29T22:28:19.534Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
