@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769691109030,
+      "repository": "neetozone/neeto-editor",
+      "issueTitle": "Do not trim leading and trailing whitespace for signature in NeetoDesk",
+      "url": "https://github.com/neetozone/neeto-editor/issues/1710",
+      "createdAt": "2026-01-29T12:51:49.030Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
