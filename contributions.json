@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1769682941424,
+      "id": 1769682979771,
       "repository": "nextcloud/text",
       "issueTitle": "Escaping of square brackets breaks links of embedded attachments for external Markdown Editor",
       "url": "https://github.com/nextcloud/text/issues/4795",
-      "createdAt": "2026-01-29T10:35:41.424Z",
+      "createdAt": "2026-01-29T10:36:19.771Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
