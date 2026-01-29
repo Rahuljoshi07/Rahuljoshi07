@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1769704806386,
-      "repository": "ontech7/fastmemo-app",
-      "issueTitle": "The user should be able to set a passphrase for Cloud sync",
-      "url": "https://github.com/ontech7/fastmemo-app/issues/4",
-      "createdAt": "2026-01-29T16:40:06.386Z",
+      "id": 1769704863631,
+      "repository": "code-423n4/code423n4.com",
+      "issueTitle": "[BUG]: Trying to connect with Metamask prompts Rainbow instead",
+      "url": "https://github.com/code-423n4/code423n4.com/issues/15545",
+      "createdAt": "2026-01-29T16:41:03.631Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
