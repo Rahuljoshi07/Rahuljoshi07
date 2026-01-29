@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769662280988,
+      "repository": "babalae/bettergi-scripts-list",
+      "issueTitle": "[Bug]: 打开地脉花后不领取奖励（无法使用原粹树脂）",
+      "url": "https://github.com/babalae/bettergi-scripts-list/issues/2804",
+      "createdAt": "2026-01-29T04:51:20.988Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
