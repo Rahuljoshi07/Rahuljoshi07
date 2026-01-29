@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1769689192289,
-      "repository": "kuizuo/js-deobfuscator",
-      "issueTitle": "Uncaught Error: 代码初始化解析有误! SyntaxError: 'import' and 'export' may appear only with 'sourceType: \"module\"' (73662:0)",
-      "url": "https://github.com/kuizuo/js-deobfuscator/issues/14",
-      "createdAt": "2026-01-29T12:19:52.290Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
