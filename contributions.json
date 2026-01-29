@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769728093813,
+      "repository": "brain-score/language",
+      "issueTitle": "Severe slowdown in `scipy.stats.pearsonr` calls when using Dask (via result_caching)",
+      "url": "https://github.com/brain-score/language/issues/241",
+      "createdAt": "2026-01-29T23:08:13.813Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
