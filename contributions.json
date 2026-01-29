@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769649648428,
+      "repository": "DataDog/dd-trace-js",
+      "issueTitle": "[BUG]:  LLM Observability should not throw an unhandled exception if the agent is unavailable.",
+      "url": "https://github.com/DataDog/dd-trace-js/issues/7370",
+      "createdAt": "2026-01-29T01:20:48.428Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
