@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769709147227,
+      "repository": "sdl60660/letterboxd_recommendations",
+      "issueTitle": "Username not found",
+      "url": "https://github.com/sdl60660/letterboxd_recommendations/issues/47",
+      "createdAt": "2026-01-29T17:52:27.227Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
