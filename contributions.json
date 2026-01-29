@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1769716989060,
-      "repository": "HarperFast/harper",
-      "issueTitle": "Dependency Dashboard",
-      "url": "https://github.com/HarperFast/harper/issues/44",
-      "createdAt": "2026-01-29T20:03:09.060Z",
+      "id": 1769717047177,
+      "repository": "mozilla-releng/balrog",
+      "issueTitle": "TypeError: '<' not supported between instances of 'str' and 'int'",
+      "url": "https://github.com/mozilla-releng/balrog/issues/3441",
+      "createdAt": "2026-01-29T20:04:07.177Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
