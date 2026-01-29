@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1769692347368,
-      "repository": "nextcloud/user_migration",
-      "issueTitle": "[Bug]: `TypeConflictException` when running `occ user:import`",
-      "url": "https://github.com/nextcloud/user_migration/issues/1024",
-      "createdAt": "2026-01-29T13:12:27.368Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
