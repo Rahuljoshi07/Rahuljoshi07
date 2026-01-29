@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1769658341501,
+      "id": 1769658371703,
       "repository": "silverwind/updates",
       "issueTitle": "Raise error when config can not be parsed",
       "url": "https://github.com/silverwind/updates/issues/89",
-      "createdAt": "2026-01-29T03:45:41.501Z",
+      "createdAt": "2026-01-29T03:46:11.703Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
