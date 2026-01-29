@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769711190857,
+      "repository": "vvuk/eddy-ng",
+      "issueTitle": "Error after updating Klipper to 0.13.0-504",
+      "url": "https://github.com/vvuk/eddy-ng/issues/120",
+      "createdAt": "2026-01-29T18:26:30.857Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
