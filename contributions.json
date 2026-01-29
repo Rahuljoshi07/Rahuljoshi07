@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769695063273,
+      "repository": "cylc/cylc-ui",
+      "issueTitle": "Show expired task state totals in sidebar",
+      "url": "https://github.com/cylc/cylc-ui/issues/2448",
+      "createdAt": "2026-01-29T13:57:43.273Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
