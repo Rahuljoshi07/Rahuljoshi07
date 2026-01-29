@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769648386602,
+      "repository": "SuperMap/SuperMap-iEarth",
+      "issueTitle": "npm install error: authentication-sdk-2.0.34.tgz下载失败",
+      "url": "https://github.com/SuperMap/SuperMap-iEarth/issues/51",
+      "createdAt": "2026-01-29T00:59:46.602Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
