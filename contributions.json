@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769705544631,
+      "repository": "AllTheMods/All-the-Mons",
+      "issueTitle": "[Modpack Bug]: Easy DUP",
+      "url": "https://github.com/AllTheMods/All-the-Mons/issues/121",
+      "createdAt": "2026-01-29T16:52:24.631Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
