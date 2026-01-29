@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769651552064,
+      "repository": "bluesabre/menulibre",
+      "issueTitle": "UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe9 in position 31448: invalid continuation byte (problem with locale ?)",
+      "url": "https://github.com/bluesabre/menulibre/issues/201",
+      "createdAt": "2026-01-29T01:52:32.064Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
