@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769663954372,
+      "repository": "axtonliu/ai-roundtable",
+      "issueTitle": "[Bug]: cannot connect to chatgpt",
+      "url": "https://github.com/axtonliu/ai-roundtable/issues/1",
+      "createdAt": "2026-01-29T05:19:14.372Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
