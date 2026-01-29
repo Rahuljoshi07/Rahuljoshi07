@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769655792961,
+      "repository": "endojs/endo",
+      "issueTitle": "Arrays typed as `readonly` aren't Passable",
+      "url": "https://github.com/endojs/endo/issues/3060",
+      "createdAt": "2026-01-29T03:03:12.961Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
