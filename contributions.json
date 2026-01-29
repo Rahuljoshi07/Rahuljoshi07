@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769672758015,
+      "repository": "GEB-model/GEB",
+      "issueTitle": "GPD-POT analysis slow",
+      "url": "https://github.com/GEB-model/GEB/issues/461",
+      "createdAt": "2026-01-29T07:45:58.015Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
