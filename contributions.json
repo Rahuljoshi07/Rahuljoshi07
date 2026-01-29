@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769696589163,
+      "repository": "electron/mksnapshot",
+      "issueTitle": "SIGBUS error using mksnapshot on v22.0.0 and above",
+      "url": "https://github.com/electron/mksnapshot/issues/91",
+      "createdAt": "2026-01-29T14:23:09.163Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
