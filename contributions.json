@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769718335742,
+      "repository": "getpinga/tide",
+      "issueTitle": "Semi-outdated handling of API requests",
+      "url": "https://github.com/getpinga/tide/issues/46",
+      "createdAt": "2026-01-29T20:25:35.742Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
