@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769708116091,
+      "repository": "abhishekkumar177/College_Media",
+      "issueTitle": "🐛 Issue: Missing main.jsx / No Entry File Causing Deployment Failure",
+      "url": "https://github.com/abhishekkumar177/College_Media/issues/1000",
+      "createdAt": "2026-01-29T17:35:16.091Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
