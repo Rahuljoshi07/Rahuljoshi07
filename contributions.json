@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769732277578,
+      "repository": "agentmail-to/agentmail-python",
+      "issueTitle": "🔴  BUG: Missing contributor with SDK expertise (fix included)",
+      "url": "https://github.com/agentmail-to/agentmail-python/issues/6",
+      "createdAt": "2026-01-30T00:17:57.578Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
