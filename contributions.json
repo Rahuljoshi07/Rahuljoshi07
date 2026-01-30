@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769736376959,
+      "repository": "aws-deadline/deadline-cloud-for-3ds-max",
+      "issueTitle": "Bug: Existing Output File with Vray",
+      "url": "https://github.com/aws-deadline/deadline-cloud-for-3ds-max/issues/129",
+      "createdAt": "2026-01-30T01:26:16.959Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
