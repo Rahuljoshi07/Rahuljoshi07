@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769736746485,
+      "repository": "Kitware/trame-vtklocal",
+      "issueTitle": "Example vtk/actor_picker2.py seems broken \"JS Error => TypeError: t.observe is not a function\"",
+      "url": "https://github.com/Kitware/trame-vtklocal/issues/46",
+      "createdAt": "2026-01-30T01:32:26.485Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
