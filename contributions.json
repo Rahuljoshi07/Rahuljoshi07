@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769733228517,
+      "repository": "AcademySoftwareFoundation/OpenCue",
+      "issueTitle": "[rust/rqd] Processes in cache not found (linux)",
+      "url": "https://github.com/AcademySoftwareFoundation/OpenCue/issues/2159",
+      "createdAt": "2026-01-30T00:33:48.517Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
