@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769733434866,
+      "repository": "nextcloud/contacts",
+      "issueTitle": "Loads forever when clicking on 'Not grouped' with a lot of users.",
+      "url": "https://github.com/nextcloud/contacts/issues/4353",
+      "createdAt": "2026-01-30T00:37:14.866Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
