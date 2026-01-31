@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769874331831,
+      "repository": "diodiogod/TTS-Audio-Suite",
+      "issueTitle": "QwenEmotion model not available - cannot use text emotion. Ignoring use_emo_text=True",
+      "url": "https://github.com/diodiogod/TTS-Audio-Suite/issues/181",
+      "createdAt": "2026-01-31T15:45:31.831Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
