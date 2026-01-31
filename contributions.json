@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769872965605,
+      "repository": "ltgcgo/octavia",
+      "issueTitle": "Broken voice bitmap on QY and PSR",
+      "url": "https://github.com/ltgcgo/octavia/issues/73",
+      "createdAt": "2026-01-31T15:22:45.605Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
