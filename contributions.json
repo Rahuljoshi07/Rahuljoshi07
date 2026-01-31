@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769832428255,
+      "repository": "BrooksLabUCSC/flair",
+      "issueTitle": "Flair combine exiting without any error, status says completed but no output files generated",
+      "url": "https://github.com/BrooksLabUCSC/flair/issues/622",
+      "createdAt": "2026-01-31T04:07:08.255Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
