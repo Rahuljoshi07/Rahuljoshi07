@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769885191775,
+      "repository": "opensource-observer/oso",
+      "issueTitle": "fix: ensure oso sqlmesh-test uses trino when duckdb is not specified",
+      "url": "https://github.com/opensource-observer/oso/issues/6486",
+      "createdAt": "2026-01-31T18:46:31.775Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
