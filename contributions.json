@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1769821604571,
-      "repository": "nextcloud/impersonate",
-      "issueTitle": "Uncaught TypeError: Cannot read properties of undefined (reading 'setAttribute')",
-      "url": "https://github.com/nextcloud/impersonate/issues/481",
-      "createdAt": "2026-01-31T01:06:44.571Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
