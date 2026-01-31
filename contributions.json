@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769841916678,
+      "repository": "decolua/9router",
+      "issueTitle": "500 error when integrating with Claude Code",
+      "url": "https://github.com/decolua/9router/issues/24",
+      "createdAt": "2026-01-31T06:45:16.678Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
