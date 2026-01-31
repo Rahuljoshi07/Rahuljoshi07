@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769880783151,
+      "repository": "jens-maus/node-ical",
+      "issueTitle": "Throws UNTIL rule part MUST have the same value type as DTSTART",
+      "url": "https://github.com/jens-maus/node-ical/issues/435",
+      "createdAt": "2026-01-31T17:33:03.151Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
