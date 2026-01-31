@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769850997492,
+      "repository": "hoeci/sort-play",
+      "issueTitle": "Vibe & Flow Shuffle Web API unavailable error",
+      "url": "https://github.com/hoeci/sort-play/issues/91",
+      "createdAt": "2026-01-31T09:16:37.492Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
