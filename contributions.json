@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769841036172,
+      "repository": "e5sub/Text-Legend",
+      "issueTitle": "[BUG]装备颜色在夜间模式下全是白的",
+      "url": "https://github.com/e5sub/Text-Legend/issues/28",
+      "createdAt": "2026-01-31T06:30:36.172Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
