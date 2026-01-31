@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1769736746485,
-      "repository": "Kitware/trame-vtklocal",
-      "issueTitle": "Example vtk/actor_picker2.py seems broken \"JS Error => TypeError: t.observe is not a function\"",
-      "url": "https://github.com/Kitware/trame-vtklocal/issues/46",
-      "createdAt": "2026-01-30T01:32:26.485Z",
+      "id": 1769821059933,
+      "repository": "nextcloud/firstrunwizard",
+      "issueTitle": "after upgrading to a new major release, it should show directly the whats new page and not the video again",
+      "url": "https://github.com/nextcloud/firstrunwizard/issues/1673",
+      "createdAt": "2026-01-31T00:57:39.933Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
