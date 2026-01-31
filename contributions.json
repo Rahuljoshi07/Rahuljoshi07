@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1769821550453,
-      "repository": "pafvel/dragonbane",
-      "issueTitle": "Additional Core Module Settings & Overrides",
-      "url": "https://github.com/pafvel/dragonbane/issues/145",
-      "createdAt": "2026-01-31T01:05:50.453Z",
+      "id": 1769821604571,
+      "repository": "nextcloud/impersonate",
+      "issueTitle": "Uncaught TypeError: Cannot read properties of undefined (reading 'setAttribute')",
+      "url": "https://github.com/nextcloud/impersonate/issues/481",
+      "createdAt": "2026-01-31T01:06:44.571Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
