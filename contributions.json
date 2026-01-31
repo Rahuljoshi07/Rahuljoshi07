@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769859362068,
+      "repository": "getappmap/appmap-python",
+      "issueTitle": "Test Failures on Misago Project with AppMap Enabled",
+      "url": "https://github.com/getappmap/appmap-python/issues/252",
+      "createdAt": "2026-01-31T11:36:02.069Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
