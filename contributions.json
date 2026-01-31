@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769878135758,
+      "repository": "RF-Tar-Railt/satori-python",
+      "issueTitle": "[Bug]发送Audio.of()构造的音频对象时是1秒的空语音",
+      "url": "https://github.com/RF-Tar-Railt/satori-python/issues/11",
+      "createdAt": "2026-01-31T16:48:55.758Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
