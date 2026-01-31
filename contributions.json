@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1769862490454,
-      "repository": "orangewise/s3-files",
-      "issueTitle": "RangeError [ERR_INVALID_OPT_VALUE]: The value \"2246554069\" is invalid for option \"size\"",
-      "url": "https://github.com/orangewise/s3-files/issues/18",
-      "createdAt": "2026-01-31T12:28:10.455Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
