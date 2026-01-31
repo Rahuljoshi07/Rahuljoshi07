@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1769890290442,
-      "repository": "docmd-io/docmd",
-      "issueTitle": "[Feature]: Allow configuration of a base URL",
-      "url": "https://github.com/docmd-io/docmd/issues/43",
-      "createdAt": "2026-01-31T20:11:30.442Z",
+      "id": 1769890359629,
+      "repository": "ProjectEvergreen/greenwood",
+      "issueTitle": "`type` imports within the brackets breaks the build when importing Greenwood types",
+      "url": "https://github.com/ProjectEvergreen/greenwood/issues/1576",
+      "createdAt": "2026-01-31T20:12:39.629Z",
       "type": "comment",
-      "content": "Using a bundler like Webpack or Vite could improve performance. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
