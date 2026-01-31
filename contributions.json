@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769848378936,
+      "repository": "creesch/minecraft-web-chat",
+      "issueTitle": "Dont get pings on my username or chat filters",
+      "url": "https://github.com/creesch/minecraft-web-chat/issues/180",
+      "createdAt": "2026-01-31T08:32:58.936Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
