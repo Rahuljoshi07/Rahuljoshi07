@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769827503263,
+      "repository": "Fast-Editor/Lynkr",
+      "issueTitle": "Cleanup dependency builds for arm64, healthchecks and add github workflow tests for node v23 and v24",
+      "url": "https://github.com/Fast-Editor/Lynkr/issues/29",
+      "createdAt": "2026-01-31T02:45:03.263Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
