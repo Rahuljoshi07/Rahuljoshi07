@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769884497753,
+      "repository": "Foundryborne/daggerheart",
+      "issueTitle": "[v14] Rolltable delete button now adds.",
+      "url": "https://github.com/Foundryborne/daggerheart/issues/1613",
+      "createdAt": "2026-01-31T18:34:57.753Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
