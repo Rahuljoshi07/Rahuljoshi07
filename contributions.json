@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769864445458,
+      "repository": "Ascend/pytorch",
+      "issueTitle": "编译安装的时候报错：FileNotFoundError-v2r6/op_plugin_functions.yaml",
+      "url": "https://github.com/Ascend/pytorch/issues/106",
+      "createdAt": "2026-01-31T13:00:45.458Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
