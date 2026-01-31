@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769862604913,
+      "repository": "adapt-security/adapt-authoring",
+      "issueTitle": "Update all modules' peerDependencies",
+      "url": "https://github.com/adapt-security/adapt-authoring/issues/493",
+      "createdAt": "2026-01-31T12:30:04.913Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
