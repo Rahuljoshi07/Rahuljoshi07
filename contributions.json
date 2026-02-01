@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769955237613,
+      "repository": "he0119/nonebot-plugin-wordcloud",
+      "issueTitle": "Bug: TypeError: Connection.create_function() got an unexpected keyword argument 'deterministic'",
+      "url": "https://github.com/he0119/nonebot-plugin-wordcloud/issues/287",
+      "createdAt": "2026-02-01T14:13:57.613Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
