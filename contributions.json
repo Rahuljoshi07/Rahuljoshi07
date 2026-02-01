@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769904545616,
+      "repository": "firecat53/keepmenu",
+      "issueTitle": "Python 3.14: TypeError: cannot pickle 'weakref.ReferenceType' object",
+      "url": "https://github.com/firecat53/keepmenu/issues/181",
+      "createdAt": "2026-02-01T00:09:05.616Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
