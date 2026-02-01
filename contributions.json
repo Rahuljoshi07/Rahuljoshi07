@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769988603802,
+      "repository": "keyteki/keyteki",
+      "issueTitle": "\"Fidgit\" didn't play \"Seeker Missiles\", it was just discarded.",
+      "url": "https://github.com/keyteki/keyteki/issues/4827",
+      "createdAt": "2026-02-01T23:30:03.803Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
