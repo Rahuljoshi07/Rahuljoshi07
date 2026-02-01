@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769961688281,
+      "repository": "ramses-rf/ramses_cc",
+      "issueTitle": "evohome + 0.53.3: set mode etc. delay increased to 25 sec.",
+      "url": "https://github.com/ramses-rf/ramses_cc/issues/460",
+      "createdAt": "2026-02-01T16:01:28.281Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
