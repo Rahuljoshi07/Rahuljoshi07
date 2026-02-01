@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769961846748,
+      "repository": "sprksoft/smpp",
+      "issueTitle": "When you paste a non image link in the image input that can still be fetched it will say it succeeded",
+      "url": "https://github.com/sprksoft/smpp/issues/111",
+      "createdAt": "2026-02-01T16:04:06.748Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
