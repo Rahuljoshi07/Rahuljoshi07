@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769937644886,
+      "repository": "tenstorrent/tt-forge-onnx",
+      "issueTitle": "[On Nightly] [paddlepaddle] - Data Mismatch Issue for Mobilenet_v2",
+      "url": "https://github.com/tenstorrent/tt-forge-onnx/issues/3161",
+      "createdAt": "2026-02-01T09:20:44.886Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
