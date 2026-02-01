@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769915255656,
+      "repository": "fastify/aws-lambda-fastify",
+      "issueTitle": "decorateRequest is not thread safe",
+      "url": "https://github.com/fastify/aws-lambda-fastify/issues/254",
+      "createdAt": "2026-02-01T03:07:35.656Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
