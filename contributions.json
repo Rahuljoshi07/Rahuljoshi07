@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769919501980,
+      "repository": "alchemiststudiosDOTai/tunacode",
+      "issueTitle": "refactor: document or strengthen MessageTokenCache lifetime contract",
+      "url": "https://github.com/alchemiststudiosDOTai/tunacode/issues/344",
+      "createdAt": "2026-02-01T04:18:21.980Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
