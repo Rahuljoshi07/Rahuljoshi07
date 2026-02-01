@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769974365432,
+      "repository": "Quantco/metalearners",
+      "issueTitle": "Leakage in X-Learner in-sample prediction",
+      "url": "https://github.com/Quantco/metalearners/issues/80",
+      "createdAt": "2026-02-01T19:32:45.432Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
