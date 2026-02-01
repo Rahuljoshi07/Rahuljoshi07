@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1769929535472,
-      "repository": "bangumi/scripts",
-      "issueTitle": "(bug)和这个组件有冲突",
-      "url": "https://github.com/bangumi/scripts/issues/88",
-      "createdAt": "2026-02-01T07:05:35.472Z",
+      "id": 1769929583828,
+      "repository": "Ultraplot/UltraPlot",
+      "issueTitle": "Fix CI issue",
+      "url": "https://github.com/Ultraplot/UltraPlot/issues/524",
+      "createdAt": "2026-02-01T07:06:23.828Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
