@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769934634025,
+      "repository": "dsphper/lanhu-mcp",
+      "issueTitle": "[BUG] 无法识别 蓝湖分享链接里的 image_id 字段",
+      "url": "https://github.com/dsphper/lanhu-mcp/issues/19",
+      "createdAt": "2026-02-01T08:30:34.025Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
