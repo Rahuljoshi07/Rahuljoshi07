@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1769978851076,
-      "repository": "allenporter/flux-local",
-      "issueTitle": "Error building Fluxtomization when metadata.namespace is not present",
-      "url": "https://github.com/allenporter/flux-local/issues/1073",
-      "createdAt": "2026-02-01T20:47:31.076Z",
+      "id": 1769978908403,
+      "repository": "ext/semantic-release-lerna",
+      "issueTitle": "Error: packageConfigs.some is not a function",
+      "url": "https://github.com/ext/semantic-release-lerna/issues/237",
+      "createdAt": "2026-02-01T20:48:28.403Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
