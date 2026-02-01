@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769986720691,
+      "repository": "ligoj/ligoj",
+      "issueTitle": "Duplicate version is displayed in the table after update",
+      "url": "https://github.com/ligoj/ligoj/issues/75",
+      "createdAt": "2026-02-01T22:58:40.691Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
