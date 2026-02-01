@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769945211082,
+      "repository": "robx/pzprjs",
+      "issueTitle": "tentaisho checker fails when illegal position is fixed",
+      "url": "https://github.com/robx/pzprjs/issues/196",
+      "createdAt": "2026-02-01T11:26:51.082Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
