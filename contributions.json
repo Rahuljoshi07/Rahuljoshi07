@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769978851076,
+      "repository": "allenporter/flux-local",
+      "issueTitle": "Error building Fluxtomization when metadata.namespace is not present",
+      "url": "https://github.com/allenporter/flux-local/issues/1073",
+      "createdAt": "2026-02-01T20:47:31.076Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
