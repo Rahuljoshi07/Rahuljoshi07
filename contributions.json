@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769953461379,
+      "repository": "Renu-code123/ExpenseFlow",
+      "issueTitle": "Bug : Login / SignUp toggle is not working properly",
+      "url": "https://github.com/Renu-code123/ExpenseFlow/issues/496",
+      "createdAt": "2026-02-01T13:44:21.380Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
