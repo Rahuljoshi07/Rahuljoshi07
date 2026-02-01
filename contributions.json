@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1769956722753,
+      "id": 1769956748423,
       "repository": "toebes/ciphers",
-      "issueTitle": "Scoresheet: Analysis",
-      "url": "https://github.com/toebes/ciphers/issues/721",
-      "createdAt": "2026-02-01T14:38:42.753Z",
+      "issueTitle": "When only a logo is added to the custom header, the page number get messed up on the rest of the test.",
+      "url": "https://github.com/toebes/ciphers/issues/726",
+      "createdAt": "2026-02-01T14:39:08.424Z",
       "type": "comment",
-      "content": "Adding TypeScript could prevent type-related bugs and improve maintainability. (Suggested by Rahul J..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
