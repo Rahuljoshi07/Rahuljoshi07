@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769950992373,
+      "repository": "DjangoCRM/django-crm",
+      "issueTitle": "Adding the name of the duplicate city instance to the alternative names field in the original instance",
+      "url": "https://github.com/DjangoCRM/django-crm/issues/380",
+      "createdAt": "2026-02-01T13:03:12.373Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
