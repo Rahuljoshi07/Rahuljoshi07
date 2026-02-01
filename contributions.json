@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769972018500,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Refactor unspecific for a type check with new TypeError",
+      "url": "https://github.com/OWASP/Nest/issues/3726",
+      "createdAt": "2026-02-01T18:53:38.500Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
