@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769955821902,
+      "repository": "maziggy/bambuddy",
+      "issueTitle": "[Bug]: failed to upload file to printer - P2S",
+      "url": "https://github.com/maziggy/bambuddy/issues/218",
+      "createdAt": "2026-02-01T14:23:41.902Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
