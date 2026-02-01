@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769939328733,
+      "repository": "freifunkMUC/unifi_respondd",
+      "issueTitle": "0.0.8 cannot be installed due to cython bug",
+      "url": "https://github.com/freifunkMUC/unifi_respondd/issues/56",
+      "createdAt": "2026-02-01T09:48:48.733Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
