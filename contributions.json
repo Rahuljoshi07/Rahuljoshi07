@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769966406532,
+      "repository": "beaker-project/beaker",
+      "issueTitle": "[BUG] Fedora 43 won't install task files due to unsupported signatures",
+      "url": "https://github.com/beaker-project/beaker/issues/267",
+      "createdAt": "2026-02-01T17:20:06.532Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
