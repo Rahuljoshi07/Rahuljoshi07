@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769937752946,
+      "repository": "erez-c137/NetSpeedTray",
+      "issueTitle": "Weird display in 1.2.3",
+      "url": "https://github.com/erez-c137/NetSpeedTray/issues/96",
+      "createdAt": "2026-02-01T09:22:32.946Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
