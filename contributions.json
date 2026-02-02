@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770052391249,
+      "repository": "pulibrary/figgy",
+      "issueTitle": "Preservation should not upload a file to gcs if its checksum does not match characterization data",
+      "url": "https://github.com/pulibrary/figgy/issues/7025",
+      "createdAt": "2026-02-02T17:13:11.249Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
