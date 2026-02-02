@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770052706249,
+      "repository": "Zendure/Zendure-HA",
+      "issueTitle": "[Bug] SF2400 AC smart mode stays to 0 and won't discharge event if zendure manager is in smart mode",
+      "url": "https://github.com/Zendure/Zendure-HA/issues/1053",
+      "createdAt": "2026-02-02T17:18:26.249Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
