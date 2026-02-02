@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769994401021,
+      "repository": "fedora-infra/datagrepper",
+      "issueTitle": "[Docs] Improve discoverability of \"Charts & Graphs\" documentation",
+      "url": "https://github.com/fedora-infra/datagrepper/issues/562",
+      "createdAt": "2026-02-02T01:06:41.021Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
