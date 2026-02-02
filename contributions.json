@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770031822726,
+      "repository": "Signbank/Global-signbank",
+      "issueTitle": "App 'attachments' still in use?",
+      "url": "https://github.com/Signbank/Global-signbank/issues/1670",
+      "createdAt": "2026-02-02T11:30:22.727Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
