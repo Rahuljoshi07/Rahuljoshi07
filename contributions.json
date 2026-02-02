@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770039501249,
+      "id": 1770039554395,
       "repository": "arlac77/svelte-websocket-store",
-      "issueTitle": "Add function to manually reopen socket",
-      "url": "https://github.com/arlac77/svelte-websocket-store/issues/1013",
-      "createdAt": "2026-02-02T13:38:21.249Z",
+      "issueTitle": "ReferenceError: WebSocket is not defined",
+      "url": "https://github.com/arlac77/svelte-websocket-store/issues/648",
+      "createdAt": "2026-02-02T13:39:14.395Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
