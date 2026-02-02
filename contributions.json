@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770010151079,
+      "repository": "opendatacube/datacube-ows",
+      "issueTitle": "OWS responds 200 despite failing to fetch image",
+      "url": "https://github.com/opendatacube/datacube-ows/issues/1449",
+      "createdAt": "2026-02-02T05:29:11.079Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
