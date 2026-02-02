@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769991989259,
+      "repository": "alchemiststudiosDOTai/tunacode",
+      "issueTitle": "refactor: remove defensive check in estimate_tokens_from_length()",
+      "url": "https://github.com/alchemiststudiosDOTai/tunacode/issues/343",
+      "createdAt": "2026-02-02T00:26:29.259Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
