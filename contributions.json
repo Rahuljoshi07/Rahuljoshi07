@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769997287536,
+      "repository": "SynkraAI/aios-core",
+      "issueTitle": "Security: Add TOCTOU symlink checks in repair method",
+      "url": "https://github.com/SynkraAI/aios-core/issues/60",
+      "createdAt": "2026-02-02T01:54:47.536Z",
+      "type": "comment",
+      "content": "Consider implementing proper error boundaries for better error handling. This suggestion is particul..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
