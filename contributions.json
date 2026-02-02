@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770027539543,
+      "repository": "opensanctions/followthemoney",
+      "issueTitle": "OverflowError on Windows 11: csv.field_size_limit(sys.maxsize) causes import failure (followthemoney==4.5.1)",
+      "url": "https://github.com/opensanctions/followthemoney/issues/202",
+      "createdAt": "2026-02-02T10:18:59.543Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
