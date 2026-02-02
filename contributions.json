@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770022411888,
+      "repository": "ros2/rclpy",
+      "issueTitle": "Exception when awaiting `call_async()`",
+      "url": "https://github.com/ros2/rclpy/issues/1588",
+      "createdAt": "2026-02-02T08:53:31.888Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
