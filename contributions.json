@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1769998441574,
+      "repository": "minorua/Qgis2threejs",
+      "issueTitle": "Qt WebEngine View is not usable",
+      "url": "https://github.com/minorua/Qgis2threejs/issues/401",
+      "createdAt": "2026-02-02T02:14:01.574Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
