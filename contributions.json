@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770015189935,
+      "repository": "anam-org/metaxy",
+      "issueTitle": "[core] Lock file for external features",
+      "url": "https://github.com/anam-org/metaxy/issues/830",
+      "createdAt": "2026-02-02T06:53:09.935Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
