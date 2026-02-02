@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770049157683,
+      "repository": "astropy/pytest-arraydiff",
+      "issueTitle": "pytest-arraydiff giving problems when running pytests coverage module",
+      "url": "https://github.com/astropy/pytest-arraydiff/issues/20",
+      "createdAt": "2026-02-02T16:19:17.683Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
