@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770003374829,
+      "id": 1770003416478,
       "repository": "glin/reactable",
-      "issueTitle": "Can I stick certain rows on the top of reactable?",
-      "url": "https://github.com/glin/reactable/issues/368",
-      "createdAt": "2026-02-02T03:36:14.829Z",
+      "issueTitle": "`resizable = TRUE` removes the break in the underline between adjacent colGroups",
+      "url": "https://github.com/glin/reactable/issues/396",
+      "createdAt": "2026-02-02T03:36:56.478Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. This suggestion i..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
