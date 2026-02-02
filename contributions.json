@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770019571555,
+      "id": 1770019606285,
       "repository": "g0v/amis-moedict",
       "issueTitle": "Issue with audio quality ?",
       "url": "https://github.com/g0v/amis-moedict/issues/40",
-      "createdAt": "2026-02-02T08:06:11.555Z",
+      "createdAt": "2026-02-02T08:06:46.285Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
