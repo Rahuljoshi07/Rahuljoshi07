@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770042005784,
+      "repository": "jupyter-naas/abi",
+      "issueTitle": "Neptune Request too Big, fix adapters in lib abi",
+      "url": "https://github.com/jupyter-naas/abi/issues/683",
+      "createdAt": "2026-02-02T14:20:05.784Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
