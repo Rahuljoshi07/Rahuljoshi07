@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770029736138,
+      "repository": "DIAGNijmegen/rse-grand-challenge",
+      "issueTitle": "FlexibleImageWidget should have a null option ",
+      "url": "https://github.com/DIAGNijmegen/rse-grand-challenge/issues/3211",
+      "createdAt": "2026-02-02T10:55:36.138Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
