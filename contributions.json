@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770007899794,
+      "repository": "okTurtles/group-income",
+      "issueTitle": "Odd Heisenbug: very high memory usage",
+      "url": "https://github.com/okTurtles/group-income/issues/3022",
+      "createdAt": "2026-02-02T04:51:39.794Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
