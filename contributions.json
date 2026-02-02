@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770043177839,
+      "repository": "jordantete/OddsHarvester",
+      "issueTitle": "Error when scraping historic football league odds using --headless",
+      "url": "https://github.com/jordantete/OddsHarvester/issues/36",
+      "createdAt": "2026-02-02T14:39:37.839Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
