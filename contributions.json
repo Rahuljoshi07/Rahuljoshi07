@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770049157683,
-      "repository": "astropy/pytest-arraydiff",
-      "issueTitle": "pytest-arraydiff giving problems when running pytests coverage module",
-      "url": "https://github.com/astropy/pytest-arraydiff/issues/20",
-      "createdAt": "2026-02-02T16:19:17.683Z",
+      "id": 1770049185668,
+      "repository": "DataDog/dd-trace-js",
+      "issueTitle": "[BUG]: dd-trace memory issue with version >=v5.82.0",
+      "url": "https://github.com/DataDog/dd-trace-js/issues/7355",
+      "createdAt": "2026-02-02T16:19:45.668Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
