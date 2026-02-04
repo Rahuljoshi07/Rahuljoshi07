@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1770239457924,
-      "repository": "code-423n4/code423n4.com",
-      "issueTitle": "Abnormally high CPU usage from canvas element?",
-      "url": "https://github.com/code-423n4/code423n4.com/issues/8653",
-      "createdAt": "2026-02-04T21:10:57.924Z",
+      "id": 1770239523405,
+      "repository": "nextcloud/circles",
+      "issueTitle": "occ config:app:set circles limit_circle_creation not working with group",
+      "url": "https://github.com/nextcloud/circles/issues/2334",
+      "createdAt": "2026-02-04T21:12:03.405Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
