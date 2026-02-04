@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770232530401,
+      "repository": "elastic/elastic-otel-node",
+      "issueTitle": "[opentelemetry-node] avoid dep version ranges that lead to duplicate installed deps",
+      "url": "https://github.com/elastic/elastic-otel-node/issues/1306",
+      "createdAt": "2026-02-04T19:15:30.401Z",
+      "type": "comment",
+      "content": "Adding TypeScript could improve code quality and maintainability. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
