@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770227203058,
+      "repository": "pmxt-dev/pmxt",
+      "issueTitle": "Python SDK: resolution_date is not parsed in UnifiedMarket",
+      "url": "https://github.com/pmxt-dev/pmxt/issues/30",
+      "createdAt": "2026-02-04T17:46:43.058Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
