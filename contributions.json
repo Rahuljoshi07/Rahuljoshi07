@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770215898832,
+      "repository": "SthephanShinkufag/Dollchan-Extension-Tools",
+      "issueTitle": "[Bug] Многоуровневая группировка спеллов ломает их применение",
+      "url": "https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/issues/1512",
+      "createdAt": "2026-02-04T14:38:18.832Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
