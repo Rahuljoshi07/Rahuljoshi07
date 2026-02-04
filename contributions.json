@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770169243242,
+      "repository": "BridgeAR/safe-stable-stringify",
+      "issueTitle": "SyntaxError: The requested module 'safe-stable-stringify/index.js' does not provide an export named 'default'",
+      "url": "https://github.com/BridgeAR/safe-stable-stringify/issues/36",
+      "createdAt": "2026-02-04T01:40:43.242Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
