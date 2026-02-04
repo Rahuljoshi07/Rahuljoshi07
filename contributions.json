@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770221950917,
+      "repository": "root-project/jsroot",
+      "issueTitle": "TGraph axis limits not set properly",
+      "url": "https://github.com/root-project/jsroot/issues/379",
+      "createdAt": "2026-02-04T16:19:10.917Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
