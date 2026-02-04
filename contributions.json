@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770179081542,
+      "repository": "Kazi-Aidah/always-color-text",
+      "issueTitle": "Bug with Highlight Once Option",
+      "url": "https://github.com/Kazi-Aidah/always-color-text/issues/34",
+      "createdAt": "2026-02-04T04:24:41.542Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
