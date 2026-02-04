@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770198817957,
+      "repository": "Modernizr/grunt-modernizr",
+      "issueTitle": "Fatal error: Generate is not a function",
+      "url": "https://github.com/Modernizr/grunt-modernizr/issues/163",
+      "createdAt": "2026-02-04T09:53:37.957Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
