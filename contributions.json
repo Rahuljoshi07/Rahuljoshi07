@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770238645652,
+      "repository": "citation-style-language/csl-editor",
+      "issueTitle": "Error in CSL 1.0.2 Specification",
+      "url": "https://github.com/citation-style-language/csl-editor/issues/257",
+      "createdAt": "2026-02-04T20:57:25.652Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
