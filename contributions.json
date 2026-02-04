@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770192175441,
+      "repository": "jfrog/jfrog-azure-devops-extension",
+      "issueTitle": "Timeouts downloading jfrog-cli from Github API",
+      "url": "https://github.com/jfrog/jfrog-azure-devops-extension/issues/579",
+      "createdAt": "2026-02-04T08:02:55.441Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
