@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770175131295,
+      "repository": "jeancochrane/mellow-bike-map",
+      "issueTitle": "Searching some address pairs consistently fails with Leaflet.js bounds not valid error",
+      "url": "https://github.com/jeancochrane/mellow-bike-map/issues/82",
+      "createdAt": "2026-02-04T03:18:51.295Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
