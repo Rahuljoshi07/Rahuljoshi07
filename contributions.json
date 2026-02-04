@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770189698810,
+      "repository": "openSUSE/cepces",
+      "issueTitle": "list index out of range - ForestTrust",
+      "url": "https://github.com/openSUSE/cepces/issues/8",
+      "createdAt": "2026-02-04T07:21:38.810Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
