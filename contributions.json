@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770178733246,
+      "repository": "nigyta/dfast_core",
+      "issueTitle": "Issue in installation during MacOS",
+      "url": "https://github.com/nigyta/dfast_core/issues/57",
+      "createdAt": "2026-02-04T04:18:53.246Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
