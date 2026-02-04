@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770188913633,
+      "repository": "pixelfed/pixelfed-rn",
+      "issueTitle": "[Bug]: Notifications Settings Page is Completely Blank",
+      "url": "https://github.com/pixelfed/pixelfed-rn/issues/465",
+      "createdAt": "2026-02-04T07:08:33.633Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
