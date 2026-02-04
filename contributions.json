@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770215413039,
+      "repository": "makinacorpus/django_pyoidc",
+      "issueTitle": "Run e2e test in CI",
+      "url": "https://github.com/makinacorpus/django_pyoidc/issues/26",
+      "createdAt": "2026-02-04T14:30:13.039Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
