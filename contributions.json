@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770217723508,
+      "repository": "Clarifai/clarifai-nodejs-grpc",
+      "issueTitle": "Issue using in next.js 13",
+      "url": "https://github.com/Clarifai/clarifai-nodejs-grpc/issues/69",
+      "createdAt": "2026-02-04T15:08:43.508Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
