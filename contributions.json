@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770233339604,
+      "repository": "G-dH/advanced-alttab-window-switcher",
+      "issueTitle": "[BUG] Alt-Tab stops working after a while unless \"Show Favorite Apps...\" is enabled",
+      "url": "https://github.com/G-dH/advanced-alttab-window-switcher/issues/163",
+      "createdAt": "2026-02-04T19:28:59.604Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
