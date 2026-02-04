@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770193031420,
+      "repository": "duck-nukem/django-in-docker-starter",
+      "issueTitle": "The dockerfile is not working when having some extra libraries",
+      "url": "https://github.com/duck-nukem/django-in-docker-starter/issues/36",
+      "createdAt": "2026-02-04T08:17:11.420Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
