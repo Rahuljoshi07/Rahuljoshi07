@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770169104118,
+      "repository": "nextcloud/photos",
+      "issueTitle": "Media folders containing ampersand (&) in the folder name break timeline: `An error occurred`",
+      "url": "https://github.com/nextcloud/photos/issues/2545",
+      "createdAt": "2026-02-04T01:38:24.118Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
