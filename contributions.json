@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1770284929134,
+      "id": 1770284963309,
       "repository": "cap-js-community/event-queue",
-      "issueTitle": "Hook for `commitFailed`",
-      "url": "https://github.com/cap-js-community/event-queue/issues/294",
-      "createdAt": "2026-02-05T09:48:49.134Z",
+      "issueTitle": "Cleanup of finished events should also clean events which are not part of the configuration anymore",
+      "url": "https://github.com/cap-js-community/event-queue/issues/83",
+      "createdAt": "2026-02-05T09:49:23.309Z",
       "type": "comment",
       "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
