@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770290229359,
+      "repository": "grillazz/fastapi-sqlalchemy-asyncpg",
+      "issueTitle": "performance tests with locust to check how conn poll can improve perf",
+      "url": "https://github.com/grillazz/fastapi-sqlalchemy-asyncpg/issues/155",
+      "createdAt": "2026-02-05T11:17:09.359Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
