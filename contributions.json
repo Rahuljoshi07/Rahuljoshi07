@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770263523958,
+      "repository": "karanhudia/borg-ui",
+      "issueTitle": "Remote SSH repository locked (once again)",
+      "url": "https://github.com/karanhudia/borg-ui/issues/48",
+      "createdAt": "2026-02-05T03:52:03.958Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
