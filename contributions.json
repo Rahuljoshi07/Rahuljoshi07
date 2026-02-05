@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770300999955,
+      "repository": "agentic-community/mcp-gateway-registry",
+      "issueTitle": "Unable to test locally due to error",
+      "url": "https://github.com/agentic-community/mcp-gateway-registry/issues/438",
+      "createdAt": "2026-02-05T14:16:39.955Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
