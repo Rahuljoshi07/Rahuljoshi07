@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770260116314,
+      "repository": "wikitree/wikitree-dynamic-tree",
+      "issueTitle": "Printer friendly tree not showing people who appear twice",
+      "url": "https://github.com/wikitree/wikitree-dynamic-tree/issues/372",
+      "createdAt": "2026-02-05T02:55:16.314Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
