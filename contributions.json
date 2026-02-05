@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770328699168,
+      "repository": "Microchip-Vectorblox/VectorBlox-SDK",
+      "issueTitle": "[ISSUE]TypeError: '<' not supported between instances of 'NoneType' and 'int' in VectorBlox-SDK/python/vbx/vbx/generate /vnnx_tflite.py",
+      "url": "https://github.com/Microchip-Vectorblox/VectorBlox-SDK/issues/22",
+      "createdAt": "2026-02-05T21:58:19.168Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
