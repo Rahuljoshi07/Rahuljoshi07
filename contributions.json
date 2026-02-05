@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770334848468,
+      "repository": "tykeal/homeassistant-rental-control",
+      "issueTitle": "Always prompted that Keymaster is incompatible",
+      "url": "https://github.com/tykeal/homeassistant-rental-control/issues/331",
+      "createdAt": "2026-02-05T23:40:48.468Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
