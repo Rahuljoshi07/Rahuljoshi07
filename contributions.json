@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770271992247,
+      "repository": "SecObserve/SecObserve",
+      "issueTitle": "Bug: Application fails to load after long periods of inactivity (Authentication/Session Timeout)",
+      "url": "https://github.com/SecObserve/SecObserve/issues/3917",
+      "createdAt": "2026-02-05T06:13:12.248Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
