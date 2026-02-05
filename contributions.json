@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770313486730,
+      "repository": "tetherless-world/whyis",
+      "issueTitle": "json.decoder.JSONDecodeError when viewing an entity",
+      "url": "https://github.com/tetherless-world/whyis/issues/333",
+      "createdAt": "2026-02-05T17:44:46.730Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
