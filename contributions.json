@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770320491433,
+      "repository": "dubstar-04/Design",
+      "issueTitle": "BLOCK_RECORD not read from DXF",
+      "url": "https://github.com/dubstar-04/Design/issues/386",
+      "createdAt": "2026-02-05T19:41:31.433Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
