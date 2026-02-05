@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770277820211,
+      "repository": "Ye-Yu-Mo/FundVal-Live",
+      "issueTitle": "[已解决]同步关注和删除关注时异步bug",
+      "url": "https://github.com/Ye-Yu-Mo/FundVal-Live/issues/4",
+      "createdAt": "2026-02-05T07:50:20.211Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
