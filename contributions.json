@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770319586412,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Fix inconsistent branch pattern in CodeQL workflow (feature/* → feature/**)",
+      "url": "https://github.com/OWASP/Nest/issues/3785",
+      "createdAt": "2026-02-05T19:26:26.412Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
