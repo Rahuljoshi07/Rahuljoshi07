@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770261385638,
+      "repository": "quarkiverse/quarkus-chappie",
+      "issueTitle": "I can´t use chappie with quarkus version 3.27.0",
+      "url": "https://github.com/quarkiverse/quarkus-chappie/issues/154",
+      "createdAt": "2026-02-05T03:16:25.638Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
