@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770276755094,
+      "id": 1770276812181,
       "repository": "CKylinMC/UserJS",
-      "issueTitle": "[IDEA] 根据UID批量选中目标up",
-      "url": "https://github.com/CKylinMC/UserJS/issues/93",
-      "createdAt": "2026-02-05T07:32:35.094Z",
+      "issueTitle": "[Bug] bilbili关注管理器似乎单次最多取关101个",
+      "url": "https://github.com/CKylinMC/UserJS/issues/104",
+      "createdAt": "2026-02-05T07:33:32.181Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
