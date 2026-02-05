@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770259836483,
+      "repository": "ryan-d-williams/MMM-GoogleSheets",
+      "issueTitle": "Error loading sheet",
+      "url": "https://github.com/ryan-d-williams/MMM-GoogleSheets/issues/66",
+      "createdAt": "2026-02-05T02:50:36.483Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
