@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770302518073,
+      "repository": "SthephanShinkufag/Dollchan-Extension-Tools",
+      "issueTitle": "[Bug] 403 when posting on kohlchan.net",
+      "url": "https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/issues/1513",
+      "createdAt": "2026-02-05T14:41:58.073Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
