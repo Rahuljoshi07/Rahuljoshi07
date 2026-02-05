@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770278744252,
+      "repository": "modern-python/modern-di",
+      "issueTitle": "Make marker to pass type to kwargs",
+      "url": "https://github.com/modern-python/modern-di/issues/129",
+      "createdAt": "2026-02-05T08:05:44.252Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
