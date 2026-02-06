@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770384933373,
+      "repository": "DIAGNijmegen/rse-grand-challenge",
+      "issueTitle": "Image search query is slow",
+      "url": "https://github.com/DIAGNijmegen/rse-grand-challenge/issues/4539",
+      "createdAt": "2026-02-06T13:35:33.374Z",
+      "type": "comment",
+      "content": "Consider caching with functools.lru_cache for expensive computations. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
