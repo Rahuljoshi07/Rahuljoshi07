@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770385315886,
+      "repository": "wemake-services/django-modern-rest",
+      "issueTitle": "Design authentication and permissions",
+      "url": "https://github.com/wemake-services/django-modern-rest/issues/394",
+      "createdAt": "2026-02-06T13:41:55.886Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
