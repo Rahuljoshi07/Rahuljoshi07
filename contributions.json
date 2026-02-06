@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770389764777,
+      "repository": "GitGuardian/ggmcp",
+      "issueTitle": "Error sending message to file:///undefined: TypeError: fetch failed",
+      "url": "https://github.com/GitGuardian/ggmcp/issues/13",
+      "createdAt": "2026-02-06T14:56:04.777Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
