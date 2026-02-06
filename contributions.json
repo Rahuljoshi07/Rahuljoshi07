@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770382099831,
+      "id": 1770382145745,
       "repository": "apache/couchdb-nano",
       "issueTitle": "Bug when using a password with special chars in the url passed to nano",
       "url": "https://github.com/apache/couchdb-nano/issues/363",
-      "createdAt": "2026-02-06T12:48:19.831Z",
+      "createdAt": "2026-02-06T12:49:05.745Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
