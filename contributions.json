@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770371241955,
+      "repository": "tinyerp/odooly",
+      "issueTitle": "[Bug/Question] Abstract models no longer detected in v2.5.2 (Worked in v2.4.3)",
+      "url": "https://github.com/tinyerp/odooly/issues/49",
+      "createdAt": "2026-02-06T09:47:21.955Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
