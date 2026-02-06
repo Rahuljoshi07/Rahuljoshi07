@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770376521557,
+      "repository": "ibm-messaging/mq-mqi-nodejs",
+      "issueTitle": "MQRC_NOT_AUTHORIZED error when connecting using UserID & Password",
+      "url": "https://github.com/ibm-messaging/mq-mqi-nodejs/issues/199",
+      "createdAt": "2026-02-06T11:15:21.557Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
