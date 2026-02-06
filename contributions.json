@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770351852432,
+      "repository": "JLW-7/Milestone",
+      "issueTitle": "Auth & API instability causing ECONNRESET / 500 errors",
+      "url": "https://github.com/JLW-7/Milestone/issues/2",
+      "createdAt": "2026-02-06T04:24:12.432Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
