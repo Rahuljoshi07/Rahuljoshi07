@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770405418476,
+      "repository": "ranasl62/npm-sslcommerz",
+      "issueTitle": "(node:4416) UnhandledPromiseRejectionWarning: TypeError: SSLCommerzPayment is not a constructor",
+      "url": "https://github.com/ranasl62/npm-sslcommerz/issues/5",
+      "createdAt": "2026-02-06T19:16:58.476Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
