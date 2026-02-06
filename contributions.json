@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770407822851,
+      "repository": "ClanGenOfficial/clangen",
+      "issueTitle": "[UI] odd behavior when sorting cats by death",
+      "url": "https://github.com/ClanGenOfficial/clangen/issues/4115",
+      "createdAt": "2026-02-06T19:57:02.851Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
