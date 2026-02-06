@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770390035738,
+      "id": 1770390071119,
       "repository": "steve02081504/fount",
-      "issueTitle": "暂时禁用mdns注册",
-      "url": "https://github.com/steve02081504/fount/issues/155",
-      "createdAt": "2026-02-06T15:00:35.738Z",
+      "issueTitle": "Cannot access 'default' before initialization",
+      "url": "https://github.com/steve02081504/fount/issues/33",
+      "createdAt": "2026-02-06T15:01:11.119Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
