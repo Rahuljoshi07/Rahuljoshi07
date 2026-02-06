@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770355405599,
+      "repository": "earthians/marley",
+      "issueTitle": "Deleting templates records (Clinical Procedure, Observation, Lab Test) should not also delete the linked Item",
+      "url": "https://github.com/earthians/marley/issues/870",
+      "createdAt": "2026-02-06T05:23:25.599Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
