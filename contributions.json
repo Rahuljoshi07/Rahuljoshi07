@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770360013096,
+      "repository": "Nsanjayboruds/RIVETO",
+      "issueTitle": "[Bug]: Unable to log out",
+      "url": "https://github.com/Nsanjayboruds/RIVETO/issues/33",
+      "createdAt": "2026-02-06T06:40:13.096Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
