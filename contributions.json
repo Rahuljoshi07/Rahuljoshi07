@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770418017165,
+      "repository": "valeriangalliat/markdown-it-highlightjs",
+      "issueTitle": "Question: How to debug 'languageDefinition is not a function'",
+      "url": "https://github.com/valeriangalliat/markdown-it-highlightjs/issues/35",
+      "createdAt": "2026-02-06T22:46:57.165Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
