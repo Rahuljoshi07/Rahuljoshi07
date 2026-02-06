@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770346687083,
+      "repository": "wecode-ai/Wegent",
+      "issueTitle": "错误信息: Command failed with exit code 1 (exit code: 1) Error output: Check stderr output for details 执行类型:async execution",
+      "url": "https://github.com/wecode-ai/Wegent/issues/448",
+      "createdAt": "2026-02-06T02:58:07.083Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
