@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770407107913,
+      "repository": "enpasos/jax2onnx",
+      "issueTitle": "Channel attention (squeeze and excite) produces cryptic export with various extra operations",
+      "url": "https://github.com/enpasos/jax2onnx/issues/169",
+      "createdAt": "2026-02-06T19:45:07.914Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
