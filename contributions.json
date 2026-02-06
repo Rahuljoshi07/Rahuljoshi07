@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770415447978,
+      "repository": "DataDog/dd-trace-js",
+      "issueTitle": "[BUG]:  LLM Observability should not throw an unhandled exception if the agent is unavailable.",
+      "url": "https://github.com/DataDog/dd-trace-js/issues/7370",
+      "createdAt": "2026-02-06T22:04:07.978Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
