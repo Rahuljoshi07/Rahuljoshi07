@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770422021097,
+      "repository": "amol-/dukpy",
+      "issueTitle": "Issue with Clang 18.1.6 and higher versions",
+      "url": "https://github.com/amol-/dukpy/issues/82",
+      "createdAt": "2026-02-06T23:53:41.097Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
