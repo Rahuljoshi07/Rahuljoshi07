@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770357967628,
+      "repository": "elad-bar/ha-hpprinter",
+      "issueTitle": "ImportError on HA Core 2026.2.0b0: cannot import name ENABLE_CLEANUP_CLOSED",
+      "url": "https://github.com/elad-bar/ha-hpprinter/issues/208",
+      "createdAt": "2026-02-06T06:06:07.628Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
