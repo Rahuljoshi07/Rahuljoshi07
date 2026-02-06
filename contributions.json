@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770341604322,
+      "repository": "StarWarsFoundryVTT/StarWarsFFG",
+      "issueTitle": "Unable to add modifiers effects to Talents after initial creation after updating",
+      "url": "https://github.com/StarWarsFoundryVTT/StarWarsFFG/issues/2105",
+      "createdAt": "2026-02-06T01:33:24.322Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
