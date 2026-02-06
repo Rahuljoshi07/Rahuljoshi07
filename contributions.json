@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770374553671,
+      "repository": "srtab/daiv",
+      "issueTitle": "Multiple tasks being enqueue for same issue",
+      "url": "https://github.com/srtab/daiv/issues/780",
+      "createdAt": "2026-02-06T10:42:33.671Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
