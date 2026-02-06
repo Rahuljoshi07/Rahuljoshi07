@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770358803992,
+      "repository": "springreport/springreport",
+      "issueTitle": "【BUG】VUE3前端下钻报表返回上级报表时this.$parent.back is not a function",
+      "url": "https://github.com/springreport/springreport/issues/314",
+      "createdAt": "2026-02-06T06:20:03.992Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
