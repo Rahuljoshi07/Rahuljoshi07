@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770355853927,
+      "repository": "jni/skan",
+      "issueTitle": "Filter the skeleton / branches? find_main_branch fails",
+      "url": "https://github.com/jni/skan/issues/245",
+      "createdAt": "2026-02-06T05:30:53.927Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
