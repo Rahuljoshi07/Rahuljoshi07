@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770360013096,
+      "id": 1770360055150,
       "repository": "Nsanjayboruds/RIVETO",
       "issueTitle": "[Bug]: Unable to log out",
       "url": "https://github.com/Nsanjayboruds/RIVETO/issues/33",
-      "createdAt": "2026-02-06T06:40:13.096Z",
+      "createdAt": "2026-02-06T06:40:55.150Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
