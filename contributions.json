@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770370030470,
+      "repository": "bpmn-io/dmn-js",
+      "issueTitle": "Inferno development warning in DMN viewer production logs",
+      "url": "https://github.com/bpmn-io/dmn-js/issues/965",
+      "createdAt": "2026-02-06T09:27:10.470Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
