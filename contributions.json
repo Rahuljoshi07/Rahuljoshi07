@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770383163581,
+      "repository": "djlint/djLint",
+      "issueTitle": "[BUG] [Formatter] enabling preserve leading space indents jinja2-comments and jinja2 set commands wrong",
+      "url": "https://github.com/djlint/djLint/issues/1073",
+      "createdAt": "2026-02-06T13:06:03.581Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
