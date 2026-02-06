@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770351608883,
+      "repository": "pvcaptest/pvcaptest",
+      "issueTitle": "w_vel assertion errors in test_CapData with params-2.3.1, pandas-3.0, or numpy-2.4.1",
+      "url": "https://github.com/pvcaptest/pvcaptest/issues/131",
+      "createdAt": "2026-02-06T04:20:08.883Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
