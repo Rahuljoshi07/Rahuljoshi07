@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770370627117,
+      "repository": "Logical-Byte/endfield-essence-recognizer",
+      "issueTitle": "[BUG]窗口白屏无显示，快捷键识别功能正常运行",
+      "url": "https://github.com/Logical-Byte/endfield-essence-recognizer/issues/70",
+      "createdAt": "2026-02-06T09:37:07.117Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
