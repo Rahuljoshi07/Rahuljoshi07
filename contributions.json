@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770385188277,
+      "repository": "sunnoy/openclaw-plugin-wecom",
+      "issueTitle": "自定义 Skills 在 Sandbox 下不可用：需要使用 OpenClaw 修复分支（PR #7915 / Issue #6346）",
+      "url": "https://github.com/sunnoy/openclaw-plugin-wecom/issues/4",
+      "createdAt": "2026-02-06T13:39:48.277Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
