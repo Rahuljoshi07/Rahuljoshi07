@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770411967910,
+      "repository": "oldcordapp/OldcordV3",
+      "issueTitle": "Emojis endpoint cache is not invalidated",
+      "url": "https://github.com/oldcordapp/OldcordV3/issues/108",
+      "createdAt": "2026-02-06T21:06:07.910Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
