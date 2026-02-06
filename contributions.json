@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770409377685,
+      "repository": "opensource-observer/oso",
+      "issueTitle": "Query builder `where` should use `camelCase`",
+      "url": "https://github.com/opensource-observer/oso/issues/6560",
+      "createdAt": "2026-02-06T20:22:57.685Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
