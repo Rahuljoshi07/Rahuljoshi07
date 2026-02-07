@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770489186691,
+      "repository": "Azure-Samples/azure-nvidia-robotics-reference-architecture",
+      "issueTitle": "fix(ci): Prevent release-please double-run on release PR merge",
+      "url": "https://github.com/Azure-Samples/azure-nvidia-robotics-reference-architecture/issues/145",
+      "createdAt": "2026-02-07T18:33:06.691Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
