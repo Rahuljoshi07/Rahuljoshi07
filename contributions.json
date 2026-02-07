@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770430815047,
+      "repository": "Pr0zak/ProxBalance",
+      "issueTitle": "Installer issues and failing",
+      "url": "https://github.com/Pr0zak/ProxBalance/issues/20",
+      "createdAt": "2026-02-07T02:20:15.047Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
