@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770504031616,
+      "repository": "passagemath/passagemath",
+      "issueTitle": "passagemath-highs fails to build wheel on Windows x86_64: highs.lib: fatal error LNK1127: library is corrupt",
+      "url": "https://github.com/passagemath/passagemath/issues/2138",
+      "createdAt": "2026-02-07T22:40:31.616Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
