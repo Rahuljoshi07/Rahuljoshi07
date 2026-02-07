@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770428898905,
+      "repository": "onebeyond/rascal",
+      "issueTitle": "BUG: cannot borrow channels when inside worker threads",
+      "url": "https://github.com/onebeyond/rascal/issues/245",
+      "createdAt": "2026-02-07T01:48:18.905Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
