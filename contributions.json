@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770479557586,
+      "repository": "93Pd9s8Jt/atba",
+      "issueTitle": "latest 0.8.0 Universal package fails to install",
+      "url": "https://github.com/93Pd9s8Jt/atba/issues/63",
+      "createdAt": "2026-02-07T15:52:37.586Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
