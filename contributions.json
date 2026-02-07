@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770425028679,
+      "id": 1770425072122,
       "repository": "nextcloud/external",
-      "issueTitle": "Disable guests access",
-      "url": "https://github.com/nextcloud/external/issues/1016",
-      "createdAt": "2026-02-07T00:43:48.679Z",
+      "issueTitle": "Allow app urls like obsidian://",
+      "url": "https://github.com/nextcloud/external/issues/1008",
+      "createdAt": "2026-02-07T00:44:32.122Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
