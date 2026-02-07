@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770504430482,
+      "repository": "nextcloud/forms",
+      "issueTitle": "Options for how uploads are stored and linked to spreadsheet",
+      "url": "https://github.com/nextcloud/forms/issues/3162",
+      "createdAt": "2026-02-07T22:47:10.482Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. This suggestion i..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
