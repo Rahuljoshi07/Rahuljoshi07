@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770454189223,
+      "id": 1770454237814,
       "repository": "Nsanjayboruds/RIVETO",
       "issueTitle": "[Bug]: Filter element are not visible in mobile view",
       "url": "https://github.com/Nsanjayboruds/RIVETO/issues/38",
-      "createdAt": "2026-02-07T08:49:49.223Z",
+      "createdAt": "2026-02-07T08:50:37.814Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
