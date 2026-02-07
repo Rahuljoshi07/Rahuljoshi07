@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770456241106,
+      "repository": "P1pp89/ha-ai-automation-builder",
+      "issueTitle": "Blocking I/O warnings + wrong GitHub issue link in logs",
+      "url": "https://github.com/P1pp89/ha-ai-automation-builder/issues/10",
+      "createdAt": "2026-02-07T09:24:01.106Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
