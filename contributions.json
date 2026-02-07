@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770474568945,
+      "repository": "NPellet/visualizer",
+      "issueTitle": "variable redeclared using `const` or `let` in `<script>` of twig template",
+      "url": "https://github.com/NPellet/visualizer/issues/1195",
+      "createdAt": "2026-02-07T14:29:28.945Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
