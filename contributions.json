@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770497067046,
+      "repository": "ComfyAssets/ComfyUI_PromptManager",
+      "issueTitle": "[Bug] Metadata Analysis fails to parse PromptManager prompts",
+      "url": "https://github.com/ComfyAssets/ComfyUI_PromptManager/issues/75",
+      "createdAt": "2026-02-07T20:44:27.046Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
