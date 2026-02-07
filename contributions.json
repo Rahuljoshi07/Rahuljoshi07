@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770475953317,
+      "repository": "CodeGraphContext/CodeGraphContext",
+      "issueTitle": "Indexing is broken on OS X",
+      "url": "https://github.com/CodeGraphContext/CodeGraphContext/issues/576",
+      "createdAt": "2026-02-07T14:52:33.317Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
