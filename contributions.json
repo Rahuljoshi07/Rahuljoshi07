@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770430348670,
+      "repository": "FaserF/ha-db_infoscreen",
+      "issueTitle": "[Bug]: When editing an existing entry \"remove duplicates\" is not saved after removel",
+      "url": "https://github.com/FaserF/ha-db_infoscreen/issues/98",
+      "createdAt": "2026-02-07T02:12:28.671Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
