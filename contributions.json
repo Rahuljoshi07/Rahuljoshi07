@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770484350609,
+      "repository": "teilomillet/textpolicy",
+      "issueTitle": "perf: Amdahl v3 — training step optimization roadmap for real models",
+      "url": "https://github.com/teilomillet/textpolicy/issues/41",
+      "createdAt": "2026-02-07T17:12:30.609Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
