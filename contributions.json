@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770437028987,
+      "repository": "djangopackages/djangopackages",
+      "issueTitle": "[Proposal] Remove `Commit` Model due to Performance Bottleneck on Large Repositories",
+      "url": "https://github.com/djangopackages/djangopackages/issues/1520",
+      "createdAt": "2026-02-07T04:03:48.987Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. This suggestion is particularly relevant..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
