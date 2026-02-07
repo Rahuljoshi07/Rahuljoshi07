@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770449112613,
+      "repository": "modular/max-llm-book",
+      "issueTitle": "ValueError: Tensor type mismatch when loading HuggingFace weights into Max model",
+      "url": "https://github.com/modular/max-llm-book/issues/33",
+      "createdAt": "2026-02-07T07:25:12.613Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
