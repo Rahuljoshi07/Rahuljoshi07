@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770491063103,
-      "repository": "2M4U/2m4u",
-      "issueTitle": ".env.template is missing",
-      "url": "https://github.com/2M4U/2m4u/issues/9",
-      "createdAt": "2026-02-07T19:04:23.103Z",
+      "id": 1770491120880,
+      "repository": "ProjectEvergreen/greenwood",
+      "issueTitle": "`type` imports within the brackets breaks the build when importing Greenwood types",
+      "url": "https://github.com/ProjectEvergreen/greenwood/issues/1576",
+      "createdAt": "2026-02-07T19:05:20.880Z",
       "type": "comment",
-      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
