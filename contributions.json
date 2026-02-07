@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770474978810,
+      "repository": "MrAntares/roBrowserLegacy",
+      "issueTitle": "[BUG] Double Tap Not Working on mobile browser",
+      "url": "https://github.com/MrAntares/roBrowserLegacy/issues/870",
+      "createdAt": "2026-02-07T14:36:18.810Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
