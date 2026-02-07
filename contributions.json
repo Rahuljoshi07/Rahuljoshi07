@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770473896060,
+      "repository": "xqy2006/jsc2js",
+      "issueTitle": "Fatal error in , line 0. Check failed: index < size().",
+      "url": "https://github.com/xqy2006/jsc2js/issues/3",
+      "createdAt": "2026-02-07T14:18:16.060Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
