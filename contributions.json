@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770467661861,
+      "repository": "mliebelt/pgn-parser",
+      "issueTitle": "Migrate mocha tests to uvu",
+      "url": "https://github.com/mliebelt/pgn-parser/issues/488",
+      "createdAt": "2026-02-07T12:34:21.862Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
