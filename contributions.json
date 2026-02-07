@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770432728955,
+      "repository": "alltheplaces/alltheplaces",
+      "issueTitle": "Foodstuffs NZ spiders (paknsave_nz, new_world_nz) use old API",
+      "url": "https://github.com/alltheplaces/alltheplaces/issues/15081",
+      "createdAt": "2026-02-07T02:52:08.955Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
