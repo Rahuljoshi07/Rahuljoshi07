@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770431547934,
+      "repository": "spedas/pyspedas",
+      "issueTitle": "Add some PyHC integration tests in a separate directory",
+      "url": "https://github.com/spedas/pyspedas/issues/1301",
+      "createdAt": "2026-02-07T02:32:27.934Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
