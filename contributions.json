@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770451684792,
+      "repository": "lunDreame/ha-bestin",
+      "issueTitle": "4번 보일러가 일정한 간격으로 켜짐과 꺼짐 반복, 4번 조명의 오작동",
+      "url": "https://github.com/lunDreame/ha-bestin/issues/11",
+      "createdAt": "2026-02-07T08:08:04.792Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
