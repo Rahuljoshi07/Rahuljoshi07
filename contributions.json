@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770545483573,
+      "repository": "Cloufield/gwaslab",
+      "issueTitle": "Issue: Incorrect behavior about build version in log message even when specified that build is \"38\"",
+      "url": "https://github.com/Cloufield/gwaslab/issues/204",
+      "createdAt": "2026-02-08T10:11:23.573Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
