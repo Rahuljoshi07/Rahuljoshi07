@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770577649633,
+      "repository": "Goekdeniz-Guelmez/mlx-lm-lora",
+      "issueTitle": "Cannot calculate VJP error in DPO training",
+      "url": "https://github.com/Goekdeniz-Guelmez/mlx-lm-lora/issues/44",
+      "createdAt": "2026-02-08T19:07:29.633Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
