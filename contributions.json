@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770595011711,
+      "repository": "NotePlan/plugins",
+      "issueTitle": "Dashboard: Can't find tasks in Space",
+      "url": "https://github.com/NotePlan/plugins/issues/708",
+      "createdAt": "2026-02-08T23:56:51.711Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
