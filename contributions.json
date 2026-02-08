@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1770567717483,
-      "repository": "ENIACJushi/TouHouLittleMaidBE",
-      "issueTitle": "错误日志栏（魂符/相片无法释放女仆）：[Scripting][error]-InvalidActorError: Failed to call function 'getDynamicProperty' due to Entity being invalid (has the Entity been removed?). at timerEvent (src/maid/MaidManager.js:519) at dataDrivenEntityTrigger (src/events/EntityEvents.js:144) at (src/events/EntityEvents.js:235)",
-      "url": "https://github.com/ENIACJushi/TouHouLittleMaidBE/issues/16",
-      "createdAt": "2026-02-08T16:21:57.483Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
