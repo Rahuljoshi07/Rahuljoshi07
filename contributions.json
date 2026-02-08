@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770526802311,
+      "repository": "JHUISI/charm",
+      "issueTitle": "OverflowError when a G1 element and 512-bit large integer are multiplied",
+      "url": "https://github.com/JHUISI/charm/issues/292",
+      "createdAt": "2026-02-08T05:00:02.311Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
