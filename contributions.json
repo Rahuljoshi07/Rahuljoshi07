@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770548710823,
+      "repository": "AISecurityLab/hackagent",
+      "issueTitle": "AnythingLLM error",
+      "url": "https://github.com/AISecurityLab/hackagent/issues/201",
+      "createdAt": "2026-02-08T11:05:10.823Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
