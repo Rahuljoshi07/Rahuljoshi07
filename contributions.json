@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770587516900,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Incorrect Error Message for Duplicate Module Name",
+      "url": "https://github.com/OWASP/Nest/issues/3860",
+      "createdAt": "2026-02-08T21:51:56.900Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
