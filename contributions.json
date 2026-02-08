@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770592527277,
+      "repository": "kenvandine/gemini-desktop",
+      "issueTitle": "Debian 13 - GTK error, can't launch",
+      "url": "https://github.com/kenvandine/gemini-desktop/issues/10",
+      "createdAt": "2026-02-08T23:15:27.277Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
