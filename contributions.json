@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770582554158,
+      "repository": "nextcloud/contacts",
+      "issueTitle": "Exported contacts from nextcloud creates multiple lines of PRODID in same element, which fails during Import",
+      "url": "https://github.com/nextcloud/contacts/issues/4158",
+      "createdAt": "2026-02-08T20:29:14.158Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
