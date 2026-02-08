@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770576498897,
+      "repository": "lnbits/tpos",
+      "issueTitle": "[Bug] incorrect currency conversion upon currency change (Inventory Extension)",
+      "url": "https://github.com/lnbits/tpos/issues/192",
+      "createdAt": "2026-02-08T18:48:18.897Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
