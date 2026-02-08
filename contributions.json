@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770554829214,
+      "repository": "u-Sir/peek-pop",
+      "issueTitle": "Hover to preview stop working",
+      "url": "https://github.com/u-Sir/peek-pop/issues/63",
+      "createdAt": "2026-02-08T12:47:09.214Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
