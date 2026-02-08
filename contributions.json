@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770579679139,
+      "repository": "kcjengr/qtpyvcp",
+      "issueTitle": "ModuleNotFoundError: No module named 'imp'",
+      "url": "https://github.com/kcjengr/qtpyvcp/issues/158",
+      "createdAt": "2026-02-08T19:41:19.139Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
