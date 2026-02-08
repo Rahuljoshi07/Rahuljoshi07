@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770569398400,
+      "repository": "morvader/ExploratoryTestingChromeExtension",
+      "issueTitle": "Unable to save session as JSON or generate report after creating 2-4 bugs",
+      "url": "https://github.com/morvader/ExploratoryTestingChromeExtension/issues/14",
+      "createdAt": "2026-02-08T16:49:58.400Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
