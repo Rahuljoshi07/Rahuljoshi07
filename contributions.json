@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770509002414,
+      "repository": "melodypapa/py-armodel",
+      "issueTitle": "Fix V2 mypy errors - reduce from 4147 to < 3000",
+      "url": "https://github.com/melodypapa/py-armodel/issues/421",
+      "createdAt": "2026-02-08T00:03:22.414Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
