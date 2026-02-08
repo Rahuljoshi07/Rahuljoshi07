@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770567092392,
+      "repository": "YadavAkhileshh/OpenPlayground",
+      "issueTitle": "[New Project]: DebugDash - Interactive Code Debugging Simulator",
+      "url": "https://github.com/YadavAkhileshh/OpenPlayground/issues/2511",
+      "createdAt": "2026-02-08T16:11:32.392Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
