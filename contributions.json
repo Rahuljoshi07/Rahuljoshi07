@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770588941500,
+      "repository": "fantinodavide/Squad_Whitelister",
+      "issueTitle": "Issue: Search function of Permissions and Discord Roles",
+      "url": "https://github.com/fantinodavide/Squad_Whitelister/issues/25",
+      "createdAt": "2026-02-08T22:15:41.500Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
