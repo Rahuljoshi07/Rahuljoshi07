@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770563495537,
+      "repository": "kaanozhan/Frame",
+      "issueTitle": "While a project is getting bigger, structure.json is getting huge",
+      "url": "https://github.com/kaanozhan/Frame/issues/32",
+      "createdAt": "2026-02-08T15:11:35.537Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. (Suggested by..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
