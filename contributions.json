@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770578357216,
+      "repository": "w00tzenheimer/d810-ng",
+      "issueTitle": "z3最新库 会抛出异常 AttributeError: function 'Z3_solver_register_on_clause' not found",
+      "url": "https://github.com/w00tzenheimer/d810-ng/issues/8",
+      "createdAt": "2026-02-08T19:19:17.216Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
