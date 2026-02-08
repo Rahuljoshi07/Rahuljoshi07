@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770552987210,
+      "repository": "iobroker-community-adapters/ioBroker.shelly",
+      "issueTitle": "[Bug]: Shelly 1l Gen3 Switch State not working properly",
+      "url": "https://github.com/iobroker-community-adapters/ioBroker.shelly/issues/1318",
+      "createdAt": "2026-02-08T12:16:27.210Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
