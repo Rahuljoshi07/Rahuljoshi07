@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770559773252,
+      "repository": "icysaintdx/OpenCode-Config-Manager",
+      "issueTitle": "OCCM_v1.7.1-Windows-x64.exe，AttributeError: 'ComboBox' object has no attribute 'insertSeparator'",
+      "url": "https://github.com/icysaintdx/OpenCode-Config-Manager/issues/36",
+      "createdAt": "2026-02-08T14:09:33.252Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
