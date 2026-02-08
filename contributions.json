@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770524168625,
+      "repository": "pnnbao97/VieNeu-TTS",
+      "issueTitle": "Bug: lmdeploy 0.11.0 cannot be installed on Linux aarch64 (Apple Silicon / ARM)",
+      "url": "https://github.com/pnnbao97/VieNeu-TTS/issues/58",
+      "createdAt": "2026-02-08T04:16:08.625Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
