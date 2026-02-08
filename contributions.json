@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770510707727,
+      "repository": "jacobtender/marian-extension",
+      "issueTitle": "[BUG] audible missing series place",
+      "url": "https://github.com/jacobtender/marian-extension/issues/87",
+      "createdAt": "2026-02-08T00:31:47.727Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
