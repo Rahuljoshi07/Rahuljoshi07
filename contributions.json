@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770561718353,
+      "repository": "Rahix/FusedFilamentDesign",
+      "issueTitle": "Hole Wizard does not like non-construction External Geometry.",
+      "url": "https://github.com/Rahix/FusedFilamentDesign/issues/27",
+      "createdAt": "2026-02-08T14:41:58.353Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
