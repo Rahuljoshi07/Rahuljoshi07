@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770568434148,
+      "repository": "reader-dict/monolingual",
+      "issueTitle": "[FR] Incorrect pronunciation",
+      "url": "https://github.com/reader-dict/monolingual/issues/2627",
+      "createdAt": "2026-02-08T16:33:54.148Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
