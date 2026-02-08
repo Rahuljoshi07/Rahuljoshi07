@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770563883737,
+      "repository": "Genshin-bots/gsuid_core",
+      "issueTitle": "定时任务总是不能正常触发",
+      "url": "https://github.com/Genshin-bots/gsuid_core/issues/178",
+      "createdAt": "2026-02-08T15:18:03.737Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
