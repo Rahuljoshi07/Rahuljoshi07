@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770570666240,
+      "repository": "ibrahim-sisar/EduLite",
+      "issueTitle": "[BUG] Delete Slideshow — Not Actually Wired Up",
+      "url": "https://github.com/ibrahim-sisar/EduLite/issues/218",
+      "createdAt": "2026-02-08T17:11:06.240Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
