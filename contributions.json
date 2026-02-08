@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770564110875,
+      "repository": "coracoo/docker2compose",
+      "issueTitle": "极空间配置compose之后一直显示PermissionError: [Errno 1] Operation not permitted: '/bin/sh'",
+      "url": "https://github.com/coracoo/docker2compose/issues/25",
+      "createdAt": "2026-02-08T15:21:50.876Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
