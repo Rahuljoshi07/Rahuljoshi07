@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770571481821,
+      "repository": "teilomillet/textpolicy",
+      "issueTitle": "perf: generation decode is 99.9% of rollout — optimization targets",
+      "url": "https://github.com/teilomillet/textpolicy/issues/54",
+      "createdAt": "2026-02-08T17:24:41.821Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
