@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770562067479,
+      "repository": "danielcherubini/elegoo-homeassistant",
+      "issueTitle": "Error connecting to Centauri Carbon 2 Combo",
+      "url": "https://github.com/danielcherubini/elegoo-homeassistant/issues/329",
+      "createdAt": "2026-02-08T14:47:47.479Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
