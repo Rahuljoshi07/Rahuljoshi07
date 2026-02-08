@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770568696941,
+      "repository": "bmad-code-org/bmad-builder",
+      "issueTitle": "Two errors during v6.0.0-Beta.4 installation: prettier@^3.7.4 not found and missing fs-extra module",
+      "url": "https://github.com/bmad-code-org/bmad-builder/issues/6",
+      "createdAt": "2026-02-08T16:38:16.941Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
