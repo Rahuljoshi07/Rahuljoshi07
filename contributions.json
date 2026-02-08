@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770582229342,
+      "repository": "Etesam913/xp-newtab",
+      "issueTitle": "Youtube Player doesn't work anymore Error 153",
+      "url": "https://github.com/Etesam913/xp-newtab/issues/21",
+      "createdAt": "2026-02-08T20:23:49.342Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
