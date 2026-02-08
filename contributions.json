@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770576170886,
+      "id": 1770576227594,
       "repository": "avajs/eslint-plugin-ava",
       "issueTitle": "Prevent specifying error type in `t.notThrows()`",
       "url": "https://github.com/avajs/eslint-plugin-ava/issues/178",
-      "createdAt": "2026-02-08T18:42:50.886Z",
+      "createdAt": "2026-02-08T18:43:47.594Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
