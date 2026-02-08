@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770589439052,
+      "repository": "furlongm/patchman",
+      "issueTitle": "Fix deprecated packages",
+      "url": "https://github.com/furlongm/patchman/issues/751",
+      "createdAt": "2026-02-08T22:23:59.052Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
