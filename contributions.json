@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770548246710,
+      "repository": "kvanbiesen/bmw-cardata-ha",
+      "issueTitle": "[Bug]: Setup of multiple cars in two different accounts - connection issues",
+      "url": "https://github.com/kvanbiesen/bmw-cardata-ha/issues/190",
+      "createdAt": "2026-02-08T10:57:26.710Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
