@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770532716981,
+      "repository": "clinton-hall/nzbToMedia",
+      "issueTitle": "Bad API key causes UnboundLocalError",
+      "url": "https://github.com/clinton-hall/nzbToMedia/issues/2005",
+      "createdAt": "2026-02-08T06:38:36.981Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
