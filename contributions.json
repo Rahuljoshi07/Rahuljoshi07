@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770513574150,
+      "id": 1770513618419,
       "repository": "sunnoy/openclaw-plugin-wecom",
       "issueTitle": "Failed to parse request body as JSON {\"error\":\"Unexpected token '<', \\\"<xml><ToUs\\\"... is not valid JSON\",\"body\":\"<xml><ToUserName>",
       "url": "https://github.com/sunnoy/openclaw-plugin-wecom/issues/24",
-      "createdAt": "2026-02-08T01:19:34.150Z",
+      "createdAt": "2026-02-08T01:20:18.419Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
