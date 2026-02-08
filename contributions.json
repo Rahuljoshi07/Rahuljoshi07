@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770549845792,
+      "repository": "exelearning/exelearning",
+      "issueTitle": "iDevice icons are not displayed (SVG)",
+      "url": "https://github.com/exelearning/exelearning/issues/1248",
+      "createdAt": "2026-02-08T11:24:05.792Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
