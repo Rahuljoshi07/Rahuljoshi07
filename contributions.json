@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770539352727,
+      "repository": "kamilburda/batcher",
+      "issueTitle": "`gegl-gmic` filter causing custom action browser to crash",
+      "url": "https://github.com/kamilburda/batcher/issues/127",
+      "createdAt": "2026-02-08T08:29:12.727Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
