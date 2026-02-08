@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770574565769,
+      "repository": "btseytlin/hr-breaker",
+      "issueTitle": "Have errors on Python3.14",
+      "url": "https://github.com/btseytlin/hr-breaker/issues/3",
+      "createdAt": "2026-02-08T18:16:05.769Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
