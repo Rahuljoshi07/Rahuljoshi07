@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770576170886,
+      "repository": "avajs/eslint-plugin-ava",
+      "issueTitle": "Prevent specifying error type in `t.notThrows()`",
+      "url": "https://github.com/avajs/eslint-plugin-ava/issues/178",
+      "createdAt": "2026-02-08T18:42:50.886Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
