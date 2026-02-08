@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770579259913,
+      "repository": "sca075/mqtt_vacuum_camera",
+      "issueTitle": "timeout during startup",
+      "url": "https://github.com/sca075/mqtt_vacuum_camera/issues/411",
+      "createdAt": "2026-02-08T19:34:19.913Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
