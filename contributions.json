@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770514709280,
+      "repository": "xiyewuqiu/wxchat",
+      "issueTitle": "获取消息失败: Error: HTTP 500",
+      "url": "https://github.com/xiyewuqiu/wxchat/issues/1",
+      "createdAt": "2026-02-08T01:38:29.280Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
