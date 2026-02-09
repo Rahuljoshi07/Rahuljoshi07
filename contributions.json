@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770628177822,
+      "repository": "inmanta/inmanta-core",
+      "issueTitle": "Produce a cleaner error when the server's ssl key is encrypted",
+      "url": "https://github.com/inmanta/inmanta-core/issues/9836",
+      "createdAt": "2026-02-09T09:09:37.822Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
