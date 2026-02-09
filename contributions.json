@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770613829698,
+      "id": 1770613873171,
       "repository": "accius/openhamclock",
-      "issueTitle": "[FEATURE] Add a feature more than once to display different views simultaneously",
-      "url": "https://github.com/accius/openhamclock/issues/269",
-      "createdAt": "2026-02-09T05:10:29.698Z",
+      "issueTitle": "[BUG] WSJT-X ON/OFF Display button hangs over right edge of window",
+      "url": "https://github.com/accius/openhamclock/issues/198",
+      "createdAt": "2026-02-09T05:11:13.171Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
