@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770651512794,
-      "repository": "oscar-system/oscar-website",
-      "issueTitle": "Restore CI tests for the website content to catch e.g. syntax errors in Markdown, and exercise the Python scripts",
-      "url": "https://github.com/oscar-system/oscar-website/issues/514",
-      "createdAt": "2026-02-09T15:38:32.794Z",
+      "id": 1770651566072,
+      "repository": "davidhalter/parso",
+      "issueTitle": "KeyError: ReservedString(})",
+      "url": "https://github.com/davidhalter/parso/issues/207",
+      "createdAt": "2026-02-09T15:39:26.072Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
