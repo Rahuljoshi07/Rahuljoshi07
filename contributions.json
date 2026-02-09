@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770620602329,
+      "repository": "apache/cordova-docs",
+      "issueTitle": "Edit button points to `en/dev/` instead of `en/latest/`",
+      "url": "https://github.com/apache/cordova-docs/issues/1465",
+      "createdAt": "2026-02-09T07:03:22.329Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
