@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1770627696889,
-      "repository": "mozilla-extensions/remote-settings-devtools",
-      "issueTitle": "When polling server for changes manually, dev tools doesn't have/use the latest cache-bust value",
-      "url": "https://github.com/mozilla-extensions/remote-settings-devtools/issues/233",
-      "createdAt": "2026-02-09T09:01:36.890Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
