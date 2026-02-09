@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770652863023,
+      "repository": "opentok/opentok-node",
+      "issueTitle": "lodash-4.17.21.tgz: 1 vulnerabilities (highest severity is: 7.2) unreachable",
+      "url": "https://github.com/opentok/opentok-node/issues/377",
+      "createdAt": "2026-02-09T16:01:03.023Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
