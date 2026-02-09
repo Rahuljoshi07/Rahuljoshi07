@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1770639454852,
-      "repository": "CycloneDX/cyclonedx-node-npm",
-      "issueTitle": "[BUG] `--omit=dev` and `--omit=optional` flags don't exclude `devOptional` dependencies, causing misleading output",
-      "url": "https://github.com/CycloneDX/cyclonedx-node-npm/issues/1325",
-      "createdAt": "2026-02-09T12:17:34.853Z",
-      "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
