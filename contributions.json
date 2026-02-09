@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770634683215,
+      "repository": "Quantinuum/qnexus",
+      "issueTitle": "Contradicting error messages on where to set max_qubits/n_qubits when running emulation",
+      "url": "https://github.com/Quantinuum/qnexus/issues/289",
+      "createdAt": "2026-02-09T10:58:03.215Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
