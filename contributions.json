@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770613200157,
+      "repository": "bytedance/agentkit-samples",
+      "issueTitle": "realtime_voice should add more detailed documentation for how to deploy to cloud",
+      "url": "https://github.com/bytedance/agentkit-samples/issues/153",
+      "createdAt": "2026-02-09T05:00:00.157Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
