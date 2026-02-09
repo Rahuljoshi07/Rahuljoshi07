@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770595388027,
+      "repository": "gbtami/pychess-variants",
+      "issueTitle": "Bughouse game ended with Flag with lots of times on all the clocks",
+      "url": "https://github.com/gbtami/pychess-variants/issues/1802",
+      "createdAt": "2026-02-09T00:03:08.027Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
