@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770615797303,
+      "repository": "asqi-engineer/asqi-engineer",
+      "issueTitle": "Not passing in dataset config when required throws unclear error",
+      "url": "https://github.com/asqi-engineer/asqi-engineer/issues/337",
+      "createdAt": "2026-02-09T05:43:17.303Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
