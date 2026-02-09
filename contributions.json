@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770633056450,
+      "repository": "pyzo/pyzo",
+      "issueTitle": "*RuntimeError: Sending the packages timed out.* when use `tqdm` and `multiprocessing`",
+      "url": "https://github.com/pyzo/pyzo/issues/1244",
+      "createdAt": "2026-02-09T10:30:56.450Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
