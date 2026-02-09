@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770628376803,
+      "repository": "brucemcpherson/gas-fakes",
+      "issueTitle": "adc init shoulld take scopes required from manifest too",
+      "url": "https://github.com/brucemcpherson/gas-fakes/issues/132",
+      "createdAt": "2026-02-09T09:12:56.803Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
