@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770644708840,
+      "repository": "flagos-ai/vllm-plugin-FL",
+      "issueTitle": "[Bug] Torch conflict when using vllm-plugin-FL on BI-V150",
+      "url": "https://github.com/flagos-ai/vllm-plugin-FL/issues/27",
+      "createdAt": "2026-02-09T13:45:08.840Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
