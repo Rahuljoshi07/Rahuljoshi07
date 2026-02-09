@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770610730884,
+      "repository": "snakemake/snakefmt",
+      "issueTitle": "Update black version to 26 ?",
+      "url": "https://github.com/snakemake/snakefmt/issues/271",
+      "createdAt": "2026-02-09T04:18:50.884Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
