@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770615258628,
-      "repository": "steve02081504/fount",
-      "issueTitle": "暂时禁用mdns注册",
-      "url": "https://github.com/steve02081504/fount/issues/155",
-      "createdAt": "2026-02-09T05:34:18.628Z",
+      "id": 1770615299281,
+      "repository": "HCLonely/hexo-bilibili-bangumi",
+      "issueTitle": "[Bug]: 会导致bangumi页面的自定义font-matter失效，例如top_img，只会显示设置的默认top_img",
+      "url": "https://github.com/HCLonely/hexo-bilibili-bangumi/issues/683",
+      "createdAt": "2026-02-09T05:34:59.281Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
