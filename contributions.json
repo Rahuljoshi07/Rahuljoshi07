@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770607254117,
+      "id": 1770607286113,
       "repository": "SpaceCowMedia/commander-spellbook-backend",
       "issueTitle": "Single combo generation not enlisting new o\"of\" relationships",
       "url": "https://github.com/SpaceCowMedia/commander-spellbook-backend/issues/1028",
-      "createdAt": "2026-02-09T03:20:54.117Z",
+      "createdAt": "2026-02-09T03:21:26.113Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
     }
   ],
   "stats": {
