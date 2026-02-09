@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770628548364,
+      "repository": "jupyter-naas/abi",
+      "issueTitle": "Create module with default Agent, Integrations, Workflows, Pipelines with configuration in config.yaml and default LLM dependencies via naas-abi-cli",
+      "url": "https://github.com/jupyter-naas/abi/issues/746",
+      "createdAt": "2026-02-09T09:15:48.364Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
