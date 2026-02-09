@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770617360026,
-      "repository": "semantic-release/gitlab",
-      "issueTitle": "Support `CI_JOB_TOKEN` auth",
-      "url": "https://github.com/semantic-release/gitlab/issues/156",
-      "createdAt": "2026-02-09T06:09:20.026Z",
+      "id": 1770617398552,
+      "repository": "octokit/graphql-action",
+      "issueTitle": "[BUG]: Different result from a graphql postman request than from a github action/ github explorer graphql",
+      "url": "https://github.com/octokit/graphql-action/issues/276",
+      "createdAt": "2026-02-09T06:09:58.552Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
