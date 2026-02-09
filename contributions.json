@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770595416158,
+      "id": 1770595452752,
       "repository": "prettier/plugin-xml",
-      "issueTitle": "Feature request: Allow the first attribute to stay on the same line as the tag",
-      "url": "https://github.com/prettier/plugin-xml/issues/918",
-      "createdAt": "2026-02-09T00:03:36.158Z",
+      "issueTitle": "Bug: Double Apostrophe in <value> URI Formatting Issue",
+      "url": "https://github.com/prettier/plugin-xml/issues/838",
+      "createdAt": "2026-02-09T00:04:12.753Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
