@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770603958722,
+      "repository": "gannonh/kata-orchestrator",
+      "issueTitle": "UX: Clarify phase linkage messaging for milestone-scoped issues",
+      "url": "https://github.com/gannonh/kata-orchestrator/issues/86",
+      "createdAt": "2026-02-09T02:25:58.722Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
