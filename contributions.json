@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1770602056851,
-      "repository": "sunnoy/openclaw-plugin-wecom",
-      "issueTitle": "Failed to parse request body as JSON {\"error\":\"Unexpected token '<', \\\"<xml><ToUs\\\"... is not valid JSON\",\"body\":\"<xml><ToUserName>",
-      "url": "https://github.com/sunnoy/openclaw-plugin-wecom/issues/24",
-      "createdAt": "2026-02-09T01:54:16.851Z",
-      "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
