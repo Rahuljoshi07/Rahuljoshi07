@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770599634625,
+      "id": 1770599667867,
       "repository": "DataDog/dd-trace-js",
       "issueTitle": "[BUG]: dd-trace memory issue with version >=v5.82.0",
       "url": "https://github.com/DataDog/dd-trace-js/issues/7355",
-      "createdAt": "2026-02-09T01:13:54.625Z",
+      "createdAt": "2026-02-09T01:14:27.867Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
