@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1770646818556,
-      "repository": "ember-cli/ember-cli-deprecation-workflow",
-      "issueTitle": "deprecate-array-prototype-extensions: cannot silence deprecation warnings",
-      "url": "https://github.com/ember-cli/ember-cli-deprecation-workflow/issues/216",
-      "createdAt": "2026-02-09T14:20:18.556Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
