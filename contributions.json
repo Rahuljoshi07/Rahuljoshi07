@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770643139635,
+      "repository": "Wasted-Audio/hvcc",
+      "issueTitle": "Bug: diacritics in send/receive objects causes: struct.error: unpack requires a buffer of 4 bytes",
+      "url": "https://github.com/Wasted-Audio/hvcc/issues/344",
+      "createdAt": "2026-02-09T13:18:59.635Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
