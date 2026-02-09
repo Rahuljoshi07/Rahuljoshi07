@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770643879269,
+      "repository": "OpenMS/pyopenms-docs",
+      "issueTitle": "Get wrong MassTraceDetection results",
+      "url": "https://github.com/OpenMS/pyopenms-docs/issues/437",
+      "createdAt": "2026-02-09T13:31:19.269Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
