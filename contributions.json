@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770601046128,
+      "repository": "typeddjango/djangorestframework-stubs",
+      "issueTitle": "`JSONField` default and initial expect mappings, lists or other JSON primitives should also be valid",
+      "url": "https://github.com/typeddjango/djangorestframework-stubs/issues/902",
+      "createdAt": "2026-02-09T01:37:26.128Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
