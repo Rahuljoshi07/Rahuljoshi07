@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770631192329,
+      "repository": "rancher/rancher-ai-agent",
+      "issueTitle": "Improve error messages for LLM, AI Agent, and MCP failures",
+      "url": "https://github.com/rancher/rancher-ai-agent/issues/57",
+      "createdAt": "2026-02-09T09:59:52.329Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
