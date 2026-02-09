@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770651116593,
+      "repository": "taskcoach/taskcoach",
+      "issueTitle": "minor bug with typing date or time: \"0#\" replaced with \"1#\"",
+      "url": "https://github.com/taskcoach/taskcoach/issues/367",
+      "createdAt": "2026-02-09T15:31:56.593Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
