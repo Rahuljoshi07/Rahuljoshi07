@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770623736586,
+      "repository": "Deltares/ra2ce",
+      "issueTitle": "Binder environment does not seem to render correctly",
+      "url": "https://github.com/Deltares/ra2ce/issues/790",
+      "createdAt": "2026-02-09T07:55:36.586Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
