@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770629908937,
+      "repository": "niklas-heer/speed-comparison",
+      "issueTitle": "I/O should be excluded",
+      "url": "https://github.com/niklas-heer/speed-comparison/issues/259",
+      "createdAt": "2026-02-09T09:38:28.937Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
