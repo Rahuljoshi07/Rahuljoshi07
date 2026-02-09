@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770606590216,
+      "repository": "chaoss/augur",
+      "issueTitle": "KeyError: full_name in github repo move task",
+      "url": "https://github.com/chaoss/augur/issues/3621",
+      "createdAt": "2026-02-09T03:09:50.217Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
