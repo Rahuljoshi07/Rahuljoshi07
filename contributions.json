@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770651678509,
+      "repository": "latchbio/latch",
+      "issueTitle": "`latch_cli.services.launch.launch_v2.Execution.id` is typed as `str` and not `int`",
+      "url": "https://github.com/latchbio/latch/issues/561",
+      "createdAt": "2026-02-09T15:41:18.510Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
