@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770600062290,
+      "repository": "rakuri255/UltraSinger",
+      "issueTitle": "AttributeError: module 'whisperx' has no attribute 'asr'",
+      "url": "https://github.com/rakuri255/UltraSinger/issues/277",
+      "createdAt": "2026-02-09T01:21:02.290Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
