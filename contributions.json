@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770608424500,
+      "id": 1770608455100,
       "repository": "Nsanjayboruds/RIVETO",
       "issueTitle": "[Bug]: Discount badge and rating stars change on hover",
       "url": "https://github.com/Nsanjayboruds/RIVETO/issues/31",
-      "createdAt": "2026-02-09T03:40:24.500Z",
+      "createdAt": "2026-02-09T03:40:55.100Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
