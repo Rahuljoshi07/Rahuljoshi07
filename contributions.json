@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770624472226,
+      "repository": "minnelab/MAIA",
+      "issueTitle": "Pods terminated with OOM should restart automatically (JupyterHub/Kubeflow)",
+      "url": "https://github.com/minnelab/MAIA/issues/107",
+      "createdAt": "2026-02-09T08:07:52.226Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
