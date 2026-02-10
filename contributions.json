@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1770733541047,
-      "repository": "taskcluster/taskcluster",
-      "issueTitle": "References nginx logs with non-root issue",
-      "url": "https://github.com/taskcluster/taskcluster/issues/8270",
-      "createdAt": "2026-02-10T14:25:41.047Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
