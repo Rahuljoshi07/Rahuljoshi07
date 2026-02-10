@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770735746088,
+      "repository": "jeanropke/RDR2CollectorsMap",
+      "issueTitle": "Random Item 77 is bugged!",
+      "url": "https://github.com/jeanropke/RDR2CollectorsMap/issues/1297",
+      "createdAt": "2026-02-10T15:02:26.088Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
