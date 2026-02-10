@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770731657626,
+      "repository": "playcanvas/playcanvas-sync",
+      "issueTitle": "Security Feature Request - Disallow Uploading of pcconfig.json with API Key ",
+      "url": "https://github.com/playcanvas/playcanvas-sync/issues/24",
+      "createdAt": "2026-02-10T13:54:17.626Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
