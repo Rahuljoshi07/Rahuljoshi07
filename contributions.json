@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770701350567,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Performance: Critical N+1 queries in recent_releases, recent_issues, recent_milestones GraphQL queries",
+      "url": "https://github.com/OWASP/Nest/issues/3852",
+      "createdAt": "2026-02-10T05:29:10.567Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
