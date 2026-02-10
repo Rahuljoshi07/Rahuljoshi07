@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770707870141,
+      "repository": "vEnhance/von",
+      "issueTitle": "Ctrl-C in a fzf call vomits in terminal",
+      "url": "https://github.com/vEnhance/von/issues/24",
+      "createdAt": "2026-02-10T07:17:50.141Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
