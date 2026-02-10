@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770693377856,
+      "repository": "open-contracting/kingfisher-collect",
+      "issueTitle": "uganda_releases: Error responses with 200 HTTP response status",
+      "url": "https://github.com/open-contracting/kingfisher-collect/issues/1237",
+      "createdAt": "2026-02-10T03:16:17.856Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
