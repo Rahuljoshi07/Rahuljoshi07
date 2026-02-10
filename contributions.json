@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770728706779,
+      "repository": "KaufmannDigital/KaufmannDigital.GDPR.CookieConsent",
+      "issueTitle": "Clear Content-Cache of pages, wich are excluded from CookieConsent",
+      "url": "https://github.com/KaufmannDigital/KaufmannDigital.GDPR.CookieConsent/issues/56",
+      "createdAt": "2026-02-10T13:05:06.779Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
