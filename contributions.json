@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770717197186,
+      "repository": "ftl-mv-translation/mvinstaller",
+      "issueTitle": "403 Client Error: rate limit exceeded",
+      "url": "https://github.com/ftl-mv-translation/mvinstaller/issues/104",
+      "createdAt": "2026-02-10T09:53:17.186Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
