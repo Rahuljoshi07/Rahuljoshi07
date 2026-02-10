@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770728365446,
+      "repository": "ccnmtl/django-pagetree",
+      "issueTitle": "Intermittent slowness on \"Add child\" form",
+      "url": "https://github.com/ccnmtl/django-pagetree/issues/68",
+      "createdAt": "2026-02-10T12:59:25.446Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
