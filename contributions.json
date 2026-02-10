@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770705284636,
+      "repository": "langchain-ai/langsmith-sdk",
+      "issueTitle": "[TypeScript] CRITICAL BUG: AI message duplicated in traces when using Anthropic streaming with finalMessage()",
+      "url": "https://github.com/langchain-ai/langsmith-sdk/issues/2373",
+      "createdAt": "2026-02-10T06:34:44.637Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
