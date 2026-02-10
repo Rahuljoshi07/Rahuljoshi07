@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770708569122,
+      "repository": "closeio/ciso8601",
+      "issueTitle": "Support free-threaded Python builds",
+      "url": "https://github.com/closeio/ciso8601/issues/175",
+      "createdAt": "2026-02-10T07:29:29.122Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
