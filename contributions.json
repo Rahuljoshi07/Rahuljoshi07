@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770717485994,
-      "repository": "brucemcpherson/gas-fakes",
-      "issueTitle": "adc init shoulld take scopes required from manifest too",
-      "url": "https://github.com/brucemcpherson/gas-fakes/issues/132",
-      "createdAt": "2026-02-10T09:58:05.994Z",
+      "id": 1770717569709,
+      "repository": "osbuild/osbuild",
+      "issueTitle": "`TestUtilJsonComm.test_sendmsg_errors_with_size_on_EMSGSIZE` is flaky on ppc64le",
+      "url": "https://github.com/osbuild/osbuild/issues/2342",
+      "createdAt": "2026-02-10T09:59:29.709Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
