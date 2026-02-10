@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770714514787,
+      "repository": "dexmal/realtime-vla",
+      "issueTitle": "RuntimeError: Triton Error [CUDA]: an illegal memory access was encountered",
+      "url": "https://github.com/dexmal/realtime-vla/issues/23",
+      "createdAt": "2026-02-10T09:08:34.787Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
