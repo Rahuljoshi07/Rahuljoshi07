@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770687868012,
+      "repository": "nextcloud/photos",
+      "issueTitle": "NC 33 Failed to fetch faces list.",
+      "url": "https://github.com/nextcloud/photos/issues/3413",
+      "createdAt": "2026-02-10T01:44:28.012Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
