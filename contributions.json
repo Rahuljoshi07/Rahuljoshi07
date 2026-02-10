@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770733454583,
+      "repository": "trendmicro-frontend/tonic-ui",
+      "issueTitle": "Add environment component and hook for handling window and document object in iframe or SSR environment",
+      "url": "https://github.com/trendmicro-frontend/tonic-ui/issues/425",
+      "createdAt": "2026-02-10T14:24:14.583Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
