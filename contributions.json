@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770694502901,
+      "repository": "dexmal/realtime-vla",
+      "issueTitle": "Error when num_views > 3",
+      "url": "https://github.com/dexmal/realtime-vla/issues/21",
+      "createdAt": "2026-02-10T03:35:02.901Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
