@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770733507670,
-      "repository": "WeblateOrg/website",
-      "issueTitle": "Dependency Dashboard",
-      "url": "https://github.com/WeblateOrg/website/issues/1199",
-      "createdAt": "2026-02-10T14:25:07.670Z",
+      "id": 1770733541047,
+      "repository": "taskcluster/taskcluster",
+      "issueTitle": "References nginx logs with non-root issue",
+      "url": "https://github.com/taskcluster/taskcluster/issues/8270",
+      "createdAt": "2026-02-10T14:25:41.047Z",
       "type": "comment",
-      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
