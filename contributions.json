@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770697538329,
+      "repository": "accius/openhamclock",
+      "issueTitle": "[BUG] PSK Reporter data",
+      "url": "https://github.com/accius/openhamclock/issues/288",
+      "createdAt": "2026-02-10T04:25:38.330Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
