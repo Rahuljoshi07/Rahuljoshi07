@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770711751480,
+      "repository": "G-dH/vertical-workspaces",
+      "issueTitle": "[BUG] appdisplay.setgridpagenulling is not a function, pressing super is very slow",
+      "url": "https://github.com/G-dH/vertical-workspaces/issues/291",
+      "createdAt": "2026-02-10T08:22:31.480Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
