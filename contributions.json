@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770711361022,
+      "repository": "microsoft/semantic-link-labs",
+      "issueTitle": "directlake.get_direct_lake_source error \"SQL Endpoint not found\"",
+      "url": "https://github.com/microsoft/semantic-link-labs/issues/660",
+      "createdAt": "2026-02-10T08:16:01.022Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
