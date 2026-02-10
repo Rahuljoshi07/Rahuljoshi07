@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770708340000,
+      "repository": "jhd3197/ServerKit",
+      "issueTitle": "Firewall detection broken on Fedora/RHEL",
+      "url": "https://github.com/jhd3197/ServerKit/issues/12",
+      "createdAt": "2026-02-10T07:25:40.000Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
