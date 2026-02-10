@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770713893112,
+      "repository": "polarsignals/gh-actions-ps-profiling",
+      "issueTitle": "Document log location for debugging ",
+      "url": "https://github.com/polarsignals/gh-actions-ps-profiling/issues/6",
+      "createdAt": "2026-02-10T08:58:13.113Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
