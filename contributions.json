@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770694970604,
+      "repository": "john-bampton/john-bampton.github.io",
+      "issueTitle": "Super-Linter Errors found in YAML_PRETTIER",
+      "url": "https://github.com/john-bampton/john-bampton.github.io/issues/219",
+      "createdAt": "2026-02-10T03:42:50.604Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
