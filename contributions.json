@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770725205955,
+      "repository": "open-condo-software/condo",
+      "issueTitle": "Issues with locale (pt/pt)",
+      "url": "https://github.com/open-condo-software/condo/issues/7154",
+      "createdAt": "2026-02-10T12:06:45.955Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
