@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770721893199,
+      "repository": "aio-libs/aiomonitor",
+      "issueTitle": "ModuleNotFoundError: No module named 'fcntl'",
+      "url": "https://github.com/aio-libs/aiomonitor/issues/415",
+      "createdAt": "2026-02-10T11:11:33.199Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
