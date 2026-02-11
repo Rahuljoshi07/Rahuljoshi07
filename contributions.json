@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770773258066,
+      "repository": "jcmgray/quimb",
+      "issueTitle": "DMRG2 + MPO_ham_ising(..., cyclic=True) gives ~0 energy and almost-zero state norm",
+      "url": "https://github.com/jcmgray/quimb/issues/341",
+      "createdAt": "2026-02-11T01:27:38.066Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
