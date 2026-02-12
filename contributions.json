@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770882209956,
+      "repository": "Guardians-Stuff/Guardian",
+      "issueTitle": "Emoji imports",
+      "url": "https://github.com/Guardians-Stuff/Guardian/issues/45",
+      "createdAt": "2026-02-12T07:43:29.956Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
