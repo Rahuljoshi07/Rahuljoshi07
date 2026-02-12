@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770882059939,
+      "repository": "baidu/vLLM-Kunlun",
+      "issueTitle": "bug: DeepSeekV3.2跑不了",
+      "url": "https://github.com/baidu/vLLM-Kunlun/issues/181",
+      "createdAt": "2026-02-12T07:40:59.939Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
