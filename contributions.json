@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770877433352,
+      "repository": "csxark/Wealth-Vault",
+      "issueTitle": "[Bug]: Frontend Application Not Running Due to Error in Frontend Folder",
+      "url": "https://github.com/csxark/Wealth-Vault/issues/331",
+      "createdAt": "2026-02-12T06:23:53.352Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
