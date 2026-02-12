@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770859338568,
+      "repository": "zitadel/client-python",
+      "issueTitle": "Serialization of empty field can create API validation error",
+      "url": "https://github.com/zitadel/client-python/issues/99",
+      "createdAt": "2026-02-12T01:22:18.568Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
