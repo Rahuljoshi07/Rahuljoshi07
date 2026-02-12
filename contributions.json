@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770875206780,
-      "repository": "arteck/ioBroker.fullybrowser",
-      "issueTitle": "Please consider fixing issues detected by repository checker",
-      "url": "https://github.com/arteck/ioBroker.fullybrowser/issues/308",
-      "createdAt": "2026-02-12T05:46:46.781Z",
+      "id": 1770875289054,
+      "repository": "christoph2/pyxcp",
+      "issueTitle": "DaqToCsv fails with FileNotFoundError when running from Robot Framework (Working Directory issue)",
+      "url": "https://github.com/christoph2/pyxcp/issues/260",
+      "createdAt": "2026-02-12T05:48:09.054Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
