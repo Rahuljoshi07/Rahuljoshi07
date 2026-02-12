@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770890878004,
+      "repository": "Jey-Cee/ioBroker.deconz",
+      "issueTitle": "Please consider fixing issues detected by repository checker",
+      "url": "https://github.com/Jey-Cee/ioBroker.deconz/issues/435",
+      "createdAt": "2026-02-12T10:07:58.004Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
