@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770893661520,
+      "repository": "open-edge-platform/edge-ai-libraries",
+      "issueTitle": "Getting error when building docker from source for dlstreamer",
+      "url": "https://github.com/open-edge-platform/edge-ai-libraries/issues/1302",
+      "createdAt": "2026-02-12T10:54:21.520Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
