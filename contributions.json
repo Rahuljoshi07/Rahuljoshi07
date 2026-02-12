@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770890493726,
+      "repository": "markbeep/AudioBookRequest",
+      "issueTitle": "ABR often doesn't match Prowlarr when titles are simple",
+      "url": "https://github.com/markbeep/AudioBookRequest/issues/112",
+      "createdAt": "2026-02-12T10:01:33.726Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
