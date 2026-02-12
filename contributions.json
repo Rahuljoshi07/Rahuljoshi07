@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770881591911,
+      "repository": "deepgram-starters/flask-live-transcription",
+      "issueTitle": "cannot import name 'LiveOptions' from 'deepgram'",
+      "url": "https://github.com/deepgram-starters/flask-live-transcription/issues/51",
+      "createdAt": "2026-02-12T07:33:11.911Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
