@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770887550609,
+      "repository": "Sebobo/Shel.Neos.Schema",
+      "issueTitle": "Update cache schema to support MultiBackends",
+      "url": "https://github.com/Sebobo/Shel.Neos.Schema/issues/24",
+      "createdAt": "2026-02-12T09:12:30.609Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
