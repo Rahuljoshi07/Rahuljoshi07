@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771016746910,
+      "repository": "LibreSign/libresign",
+      "issueTitle": "Replace deprecated IConfig methods with IAppConfig and IUserConfig",
+      "url": "https://github.com/LibreSign/libresign/issues/6855",
+      "createdAt": "2026-02-13T21:05:46.910Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
