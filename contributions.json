@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771013570173,
-      "repository": "code-423n4/code423n4.com",
-      "issueTitle": "[BUG]:  Wardens Able to Submit Reports for Role-Specific Audits",
-      "url": "https://github.com/code-423n4/code423n4.com/issues/12333",
-      "createdAt": "2026-02-13T20:12:50.173Z",
+      "id": 1771013661372,
+      "repository": "LibreSign/libresign",
+      "issueTitle": "Replace deprecated IConfig methods with IAppConfig and IUserConfig",
+      "url": "https://github.com/LibreSign/libresign/issues/6855",
+      "createdAt": "2026-02-13T20:14:21.373Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
