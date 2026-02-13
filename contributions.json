@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770952390318,
+      "repository": "fideus-labs/ngff-zarr",
+      "issueTitle": "ValueError: The input appears to be an HCS (High Content Screening) plate structure, which contains multiple wells and images.",
+      "url": "https://github.com/fideus-labs/ngff-zarr/issues/348",
+      "createdAt": "2026-02-13T03:13:10.318Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
