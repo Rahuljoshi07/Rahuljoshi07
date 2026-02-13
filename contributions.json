@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770989465235,
+      "repository": "jkaberg/hass-byd-vehicle",
+      "issueTitle": "\"Service Error\" on any action",
+      "url": "https://github.com/jkaberg/hass-byd-vehicle/issues/27",
+      "createdAt": "2026-02-13T13:31:05.235Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
