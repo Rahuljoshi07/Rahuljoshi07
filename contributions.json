@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770978268054,
+      "repository": "scribeocr/scribe.js",
+      "issueTitle": "Getting error trying to use in Nest.js backend",
+      "url": "https://github.com/scribeocr/scribe.js/issues/52",
+      "createdAt": "2026-02-13T10:24:28.054Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
