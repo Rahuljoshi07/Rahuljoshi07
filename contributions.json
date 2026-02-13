@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770971566288,
+      "repository": "davep/braindrop",
+      "issueTitle": "Editing a Raindrop that is an uploaded file causes the file to be lost",
+      "url": "https://github.com/davep/braindrop/issues/123",
+      "createdAt": "2026-02-13T08:32:46.288Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
