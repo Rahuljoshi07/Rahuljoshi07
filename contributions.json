@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770972237250,
+      "repository": "accius/openhamclock",
+      "issueTitle": "[BUG] SOLAR Indices not consistent with left layer and top layer in DOCKABLE",
+      "url": "https://github.com/accius/openhamclock/issues/374",
+      "createdAt": "2026-02-13T08:43:57.250Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
