@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770997356594,
+      "repository": "LibreSign/libresign",
+      "issueTitle": "BUG \\SignEngine\\Pkcs12Handler::processSignature(): Argument #2 ($signature) must be of type ?string, false given,",
+      "url": "https://github.com/LibreSign/libresign/issues/6826",
+      "createdAt": "2026-02-13T15:42:36.594Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
