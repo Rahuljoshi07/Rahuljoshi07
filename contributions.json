@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770984740824,
+      "repository": "LorenzoLaCorte/internship-scraper",
+      "issueTitle": "Process is broken after LinkedInTooManyRetriesError",
+      "url": "https://github.com/LorenzoLaCorte/internship-scraper/issues/116",
+      "createdAt": "2026-02-13T12:12:20.824Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
