@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770946090324,
+      "repository": "LibreSign/libresign",
+      "issueTitle": "Enable identification documents flow: Does not work with email identification factor.",
+      "url": "https://github.com/LibreSign/libresign/issues/5260",
+      "createdAt": "2026-02-13T01:28:10.324Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
