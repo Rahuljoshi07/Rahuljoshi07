@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770966591752,
+      "repository": "furlongm/patchman",
+      "issueTitle": "Fix deprecated packages",
+      "url": "https://github.com/furlongm/patchman/issues/751",
+      "createdAt": "2026-02-13T07:09:51.752Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
