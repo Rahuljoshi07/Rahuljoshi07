@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770996361027,
+      "repository": "mongodb/django-mongodb-backend",
+      "issueTitle": "INTPYTHON-435: investigate speeding up Django's TransactionTestCase/TestCase",
+      "url": "https://github.com/mongodb/django-mongodb-backend/issues/181",
+      "createdAt": "2026-02-13T15:26:01.027Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
