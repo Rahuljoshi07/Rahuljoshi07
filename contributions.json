@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771002006821,
+      "repository": "Kaggle/kaggle-benchmarks",
+      "issueTitle": "Failed when saving task, and error neither pass nor fail when evaluate",
+      "url": "https://github.com/Kaggle/kaggle-benchmarks/issues/20",
+      "createdAt": "2026-02-13T17:00:06.821Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
