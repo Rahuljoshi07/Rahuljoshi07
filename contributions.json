@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770951050983,
+      "repository": "caelestia-dots/cli",
+      "issueTitle": "[BUG] Caelestia is overwriting gtk/qt5ct files and breaking dark mode on nixos",
+      "url": "https://github.com/caelestia-dots/cli/issues/78",
+      "createdAt": "2026-02-13T02:50:50.983Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
