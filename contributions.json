@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771019937487,
+      "repository": "PhilflowIO/dav-mcp",
+      "issueTitle": "Bug: update_todo, update_todo_raw, and delete_todo broken — wrong parameter name",
+      "url": "https://github.com/PhilflowIO/dav-mcp/issues/37",
+      "createdAt": "2026-02-13T21:58:57.488Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
