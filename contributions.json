@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771016059789,
+      "repository": "linuxmint/cinnamon-spices-applets",
+      "issueTitle": "Help is linked to some Chinese site",
+      "url": "https://github.com/linuxmint/cinnamon-spices-applets/issues/8308",
+      "createdAt": "2026-02-13T20:54:19.789Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
