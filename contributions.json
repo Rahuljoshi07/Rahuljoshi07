@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770986487303,
+      "repository": "JaredCE/serverless-openapi-documenter",
+      "issueTitle": "[BUG] TypeError generating OpenAPI with Request Schema Validators",
+      "url": "https://github.com/JaredCE/serverless-openapi-documenter/issues/245",
+      "createdAt": "2026-02-13T12:41:27.303Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
