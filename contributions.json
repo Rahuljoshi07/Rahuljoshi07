@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771009897915,
+      "repository": "miroapp/api-clients",
+      "issueTitle": "Miro Python Client - Picture model validation fails while calling .get_boards() - model specifies id field as [StrictFloat, StrictInt], but API returns id as string",
+      "url": "https://github.com/miroapp/api-clients/issues/452",
+      "createdAt": "2026-02-13T19:11:37.915Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
