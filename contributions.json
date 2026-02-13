@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771025534364,
+      "repository": "speechanddebate/tabroom",
+      "issueTitle": "Bug: code the codeless is still fudged",
+      "url": "https://github.com/speechanddebate/tabroom/issues/77",
+      "createdAt": "2026-02-13T23:32:14.364Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
