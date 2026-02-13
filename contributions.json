@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770958074964,
+      "repository": "giggio/node-chromedriver",
+      "issueTitle": "package.json config ignored",
+      "url": "https://github.com/giggio/node-chromedriver/issues/579",
+      "createdAt": "2026-02-13T04:47:54.964Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
