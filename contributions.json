@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771017944673,
-      "repository": "paralleldrive/aidd",
-      "issueTitle": "create-skill skill",
-      "url": "https://github.com/paralleldrive/aidd/issues/93",
-      "createdAt": "2026-02-13T21:25:44.673Z",
+      "id": 1771018026122,
+      "repository": "NVIDIA-NeMo/Megatron-Bridge",
+      "issueTitle": "Qwen3-Coder-Next HF->Megatron conversion fails: AutoMapping cannot infer `LinearCrossEntropyModule` for `output_layer.weight`",
+      "url": "https://github.com/NVIDIA-NeMo/Megatron-Bridge/issues/2375",
+      "createdAt": "2026-02-13T21:27:06.122Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
