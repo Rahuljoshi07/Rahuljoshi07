@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771004087593,
+      "repository": "oran-testing/ran-tester-ue",
+      "issueTitle": "Connect COTS UE to 7.2",
+      "url": "https://github.com/oran-testing/ran-tester-ue/issues/87",
+      "createdAt": "2026-02-13T17:34:47.593Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
