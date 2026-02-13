@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771002363850,
+      "repository": "KenT2/pipresents-gtk",
+      "issueTitle": "MPV Driver  System Error  \"Load failed due to timeout load position is:-1\"",
+      "url": "https://github.com/KenT2/pipresents-gtk/issues/3",
+      "createdAt": "2026-02-13T17:06:03.850Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
