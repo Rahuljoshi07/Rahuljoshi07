@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1770948868834,
-      "repository": "nextcloud/sharereview",
-      "issueTitle": "Bring the application into compliance with the Vue components used in recent versions of Nextcloud",
-      "url": "https://github.com/nextcloud/sharereview/issues/37",
-      "createdAt": "2026-02-13T02:14:28.834Z",
+      "id": 1770948928508,
+      "repository": "IDAS-Durham/JUNE",
+      "issueTitle": "Memory optimization: consider using Python array rather than list in some places",
+      "url": "https://github.com/IDAS-Durham/JUNE/issues/293",
+      "createdAt": "2026-02-13T02:15:28.508Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
