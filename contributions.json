@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770985842366,
+      "repository": "npm/statusboard",
+      "issueTitle": "[BUG] cygwin bash does not support CWD parameter",
+      "url": "https://github.com/npm/statusboard/issues/980",
+      "createdAt": "2026-02-13T12:30:42.366Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
