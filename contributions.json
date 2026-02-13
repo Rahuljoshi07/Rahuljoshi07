@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771005311015,
+      "repository": "nem-web/smart-attendance",
+      "issueTitle": "[BUG] Frontend Code Quality Issues",
+      "url": "https://github.com/nem-web/smart-attendance/issues/193",
+      "createdAt": "2026-02-13T17:55:11.015Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
