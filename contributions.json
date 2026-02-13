@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770984871209,
+      "repository": "sugarlabs/musicblocks",
+      "issueTitle": "[Bug] Debug console.log left in activity initialization",
+      "url": "https://github.com/sugarlabs/musicblocks/issues/5691",
+      "createdAt": "2026-02-13T12:14:31.209Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
