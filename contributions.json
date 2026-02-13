@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1771018767582,
-      "repository": "newrelic/newrelic-react-native-agent",
-      "issueTitle": "Upgrading patch version from 1.5.11 to 1.5.12 introduces a breaking change on iOS",
-      "url": "https://github.com/newrelic/newrelic-react-native-agent/issues/281",
-      "createdAt": "2026-02-13T21:39:27.582Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
