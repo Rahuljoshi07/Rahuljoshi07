@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771005106521,
+      "repository": "guardrails-ai/guardrails-api",
+      "issueTitle": "[bug/feat] Azure OpenAI support for proxy endpoint",
+      "url": "https://github.com/guardrails-ai/guardrails-api/issues/86",
+      "createdAt": "2026-02-13T17:51:46.521Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
