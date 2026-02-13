@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771018671950,
-      "repository": "2M4U/2m4u",
-      "issueTitle": ".env.template is missing",
-      "url": "https://github.com/2M4U/2m4u/issues/9",
-      "createdAt": "2026-02-13T21:37:51.950Z",
+      "id": 1771018767582,
+      "repository": "newrelic/newrelic-react-native-agent",
+      "issueTitle": "Upgrading patch version from 1.5.11 to 1.5.12 introduces a breaking change on iOS",
+      "url": "https://github.com/newrelic/newrelic-react-native-agent/issues/281",
+      "createdAt": "2026-02-13T21:39:27.582Z",
       "type": "comment",
-      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
