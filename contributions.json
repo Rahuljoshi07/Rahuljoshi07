@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770976969792,
+      "repository": "bbc/bug",
+      "issueTitle": "Merlin module doesn't build correctly",
+      "url": "https://github.com/bbc/bug/issues/199",
+      "createdAt": "2026-02-13T10:02:49.792Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
