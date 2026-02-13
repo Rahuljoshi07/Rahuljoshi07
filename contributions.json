@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1770954264514,
+      "repository": "nem-web/smart-attendance",
+      "issueTitle": "[BUG] : Not getting correct attendance percentage in students Subject",
+      "url": "https://github.com/nem-web/smart-attendance/issues/209",
+      "createdAt": "2026-02-13T03:44:24.514Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
