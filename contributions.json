@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1771014048152,
+      "id": 1771014092493,
       "repository": "gbook/nidb",
-      "issueTitle": "Pipeline data search, Last criteria [BUG]",
-      "url": "https://github.com/gbook/nidb/issues/126",
-      "createdAt": "2026-02-13T20:20:48.152Z",
+      "issueTitle": "[BUG] Crash on searches",
+      "url": "https://github.com/gbook/nidb/issues/133",
+      "createdAt": "2026-02-13T20:21:32.493Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
