@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771010703057,
+      "repository": "mikeckennedy/tallyman",
+      "issueTitle": "Unicode encoding error when using tallyman in Git Bash for Windows",
+      "url": "https://github.com/mikeckennedy/tallyman/issues/3",
+      "createdAt": "2026-02-13T19:25:03.057Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
