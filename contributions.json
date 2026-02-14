@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771107177054,
+      "repository": "EC-Earth/ece2cmor3",
+      "issueTitle": "The create ece2cmor3 environment process with mamba hangs",
+      "url": "https://github.com/EC-Earth/ece2cmor3/issues/862",
+      "createdAt": "2026-02-14T22:12:57.055Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
