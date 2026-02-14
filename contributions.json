@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771037685180,
+      "repository": "TryGhost/Ghost-CLI",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/TryGhost/Ghost-CLI/issues/1540",
+      "createdAt": "2026-02-14T02:54:45.180Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
