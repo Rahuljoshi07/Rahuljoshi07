@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1771106247299,
-      "repository": "semantic-release/npm",
-      "issueTitle": "Cryptic  semantic-release:git SyntaxError: \"undefined\" is not valid JSON messages + TypeError: error.errors is not iterable (cannot read property undefined)",
-      "url": "https://github.com/semantic-release/npm/issues/1051",
-      "createdAt": "2026-02-14T21:57:27.300Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
