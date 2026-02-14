@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771044933936,
+      "repository": "KaranUnique/CryptoHub",
+      "issueTitle": "[BUG] Home page Section Not Mobile Responsive",
+      "url": "https://github.com/KaranUnique/CryptoHub/issues/307",
+      "createdAt": "2026-02-14T04:55:33.936Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
