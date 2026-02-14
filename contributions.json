@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771053848861,
+      "repository": "PsiACE/bub",
+      "issueTitle": "telegram.error.BadRequest: Can't parse entities: unmatched end tag at byte offset 354, expected \"</i>\", found \"</code>\"",
+      "url": "https://github.com/PsiACE/bub/issues/54",
+      "createdAt": "2026-02-14T07:24:08.861Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
