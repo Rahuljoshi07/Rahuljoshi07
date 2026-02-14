@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771051579349,
+      "repository": "ai-on-browser/ai-on-browser.github.io",
+      "issueTitle": "[Bug]: MathJax error",
+      "url": "https://github.com/ai-on-browser/ai-on-browser.github.io/issues/957",
+      "createdAt": "2026-02-14T06:46:19.350Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
