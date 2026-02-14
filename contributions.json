@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771108548529,
+      "repository": "wheaney/breezy-desktop",
+      "issueTitle": "compile_issue_distrobox",
+      "url": "https://github.com/wheaney/breezy-desktop/issues/152",
+      "createdAt": "2026-02-14T22:35:48.529Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
