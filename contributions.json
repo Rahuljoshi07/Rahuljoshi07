@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771108842769,
+      "repository": "AToMPM/atompm",
+      "issueTitle": "Remove flakiness and re-enable test 11 (tests/11_collab_test.js)",
+      "url": "https://github.com/AToMPM/atompm/issues/173",
+      "createdAt": "2026-02-14T22:40:42.769Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
