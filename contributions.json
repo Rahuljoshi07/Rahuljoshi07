@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771032934352,
+      "repository": "sopelj/hass-ember-mug-component",
+      "issueTitle": "Bug: Unable to connect new mug, Stuck on \"Failed setup\"",
+      "url": "https://github.com/sopelj/hass-ember-mug-component/issues/77",
+      "createdAt": "2026-02-14T01:35:34.352Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
