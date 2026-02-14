@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771033126109,
+      "repository": "OmenApps/django-postgresql-dag",
+      "issueTitle": "Implement pre-CTE filtering",
+      "url": "https://github.com/OmenApps/django-postgresql-dag/issues/2",
+      "createdAt": "2026-02-14T01:38:46.109Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
