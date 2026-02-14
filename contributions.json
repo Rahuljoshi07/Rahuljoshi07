@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771112083468,
+      "repository": "adamchainz/django-auto-prefetch",
+      "issueTitle": "base_manager_name check fails since 1.5.1",
+      "url": "https://github.com/adamchainz/django-auto-prefetch/issues/235",
+      "createdAt": "2026-02-14T23:34:43.468Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
