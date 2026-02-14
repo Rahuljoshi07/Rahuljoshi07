@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771064166729,
+      "repository": "YidirK/Nikflix",
+      "issueTitle": "Controller issue",
+      "url": "https://github.com/YidirK/Nikflix/issues/87",
+      "createdAt": "2026-02-14T10:16:06.729Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
