@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771100607806,
+      "repository": "TIM-JYU/TIM",
+      "issueTitle": "Function saveCurrentScreenPar causes browser errors/exception when scrolling too fast",
+      "url": "https://github.com/TIM-JYU/TIM/issues/3961",
+      "createdAt": "2026-02-14T20:23:27.806Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
