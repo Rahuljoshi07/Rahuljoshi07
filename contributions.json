@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771032713036,
-      "repository": "andreiraduta11/bet-etf",
-      "issueTitle": "bugs",
-      "url": "https://github.com/andreiraduta11/bet-etf/issues/4",
-      "createdAt": "2026-02-14T01:31:53.036Z",
+      "id": 1771032742623,
+      "repository": "LibreSign/libresign",
+      "issueTitle": "BUG \\SignEngine\\Pkcs12Handler::processSignature(): Argument #2 ($signature) must be of type ?string, false given,",
+      "url": "https://github.com/LibreSign/libresign/issues/6826",
+      "createdAt": "2026-02-14T01:32:22.623Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
