@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771101608869,
+      "repository": "tukuaiai/tradecat",
+      "issueTitle": "[Bug] predict-service部署Polymarket时报错 Invalid request body",
+      "url": "https://github.com/tukuaiai/tradecat/issues/18",
+      "createdAt": "2026-02-14T20:40:08.869Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
