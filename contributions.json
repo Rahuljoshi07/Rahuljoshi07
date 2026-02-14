@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771097314034,
+      "id": 1771097376580,
       "repository": "pmxt-dev/pmxt",
-      "issueTitle": "[Examples] Advanced Trading and Portfolio Management",
-      "url": "https://github.com/pmxt-dev/pmxt/issues/17",
-      "createdAt": "2026-02-14T19:28:34.034Z",
+      "issueTitle": "Windows: spawn pmxt-ensure-server ENOENT when pmxt-core is local dependency",
+      "url": "https://github.com/pmxt-dev/pmxt/issues/29",
+      "createdAt": "2026-02-14T19:29:36.580Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
