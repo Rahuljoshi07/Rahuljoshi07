@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771047099119,
+      "repository": "higlass/higlass",
+      "issueTitle": "An error occurs when exporting as SVG or PNG with a 1D Heatmap track added",
+      "url": "https://github.com/higlass/higlass/issues/1290",
+      "createdAt": "2026-02-14T05:31:39.119Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
