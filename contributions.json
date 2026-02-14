@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771028571136,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Optimize Theme Toggle Behavior",
+      "url": "https://github.com/OWASP/Nest/issues/3935",
+      "createdAt": "2026-02-14T00:22:51.136Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
