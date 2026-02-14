@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771096095957,
+      "repository": "diplodoc-platform/diplodoc",
+      "issueTitle": "LunrJS | Проблема неверного цитирования результатов поиска на странице поиска по документации",
+      "url": "https://github.com/diplodoc-platform/diplodoc/issues/62",
+      "createdAt": "2026-02-14T19:08:15.957Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
