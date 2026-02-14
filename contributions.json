@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771029887052,
+      "id": 1771029958116,
       "repository": "LibreSign/libresign",
-      "issueTitle": "BUG \\SignEngine\\Pkcs12Handler::processSignature(): Argument #2 ($signature) must be of type ?string, false given,",
-      "url": "https://github.com/LibreSign/libresign/issues/6826",
-      "createdAt": "2026-02-14T00:44:47.053Z",
+      "issueTitle": "Replace deprecated IConfig methods with IAppConfig and IUserConfig",
+      "url": "https://github.com/LibreSign/libresign/issues/6855",
+      "createdAt": "2026-02-14T00:45:58.116Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
