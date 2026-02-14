@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771029824553,
-      "repository": "djust-org/djust",
-      "issueTitle": "VDOM diff breaks on {% if %} conditional blocks (DJE-053)",
-      "url": "https://github.com/djust-org/djust/issues/295",
-      "createdAt": "2026-02-14T00:43:44.553Z",
+      "id": 1771029887052,
+      "repository": "LibreSign/libresign",
+      "issueTitle": "BUG \\SignEngine\\Pkcs12Handler::processSignature(): Argument #2 ($signature) must be of type ?string, false given,",
+      "url": "https://github.com/LibreSign/libresign/issues/6826",
+      "createdAt": "2026-02-14T00:44:47.053Z",
       "type": "comment",
-      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
