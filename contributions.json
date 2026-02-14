@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771086860728,
+      "repository": "aliviahossain/Disease-prediction",
+      "issueTitle": "[BUG] Patient history is not working: It is not being recorded and shown as per need",
+      "url": "https://github.com/aliviahossain/Disease-prediction/issues/230",
+      "createdAt": "2026-02-14T16:34:20.728Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
