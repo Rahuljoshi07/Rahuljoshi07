@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771101702934,
+      "id": 1771101734268,
       "repository": "jfhbrook/pyee",
       "issueTitle": "calling remove_listener after remove_all_listeners silently hangs",
       "url": "https://github.com/jfhbrook/pyee/issues/194",
-      "createdAt": "2026-02-14T20:41:42.935Z",
+      "createdAt": "2026-02-14T20:42:14.268Z",
       "type": "comment",
-      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for nodejs..."
     }
   ],
   "stats": {
