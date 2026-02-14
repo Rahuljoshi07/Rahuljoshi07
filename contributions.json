@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771064595657,
+      "repository": "RedHatQE/openshift-python-wrapper",
+      "issueTitle": "Remove limit on displaying failed resource kinds in test error output",
+      "url": "https://github.com/RedHatQE/openshift-python-wrapper/issues/2636",
+      "createdAt": "2026-02-14T10:23:15.657Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
