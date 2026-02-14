@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771103630085,
+      "repository": "python-openapi/openapi-spec-validator",
+      "issueTitle": "Validation error for schema when JWT is enabled [litestar]",
+      "url": "https://github.com/python-openapi/openapi-spec-validator/issues/437",
+      "createdAt": "2026-02-14T21:13:50.085Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
