@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771084108371,
+      "repository": "zhovner/zaborona_help",
+      "issueTitle": "translate.yandex.net/api/ - 403 error",
+      "url": "https://github.com/zhovner/zaborona_help/issues/556",
+      "createdAt": "2026-02-14T15:48:28.371Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
