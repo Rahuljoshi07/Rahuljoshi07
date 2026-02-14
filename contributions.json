@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771080229225,
+      "repository": "DataDog/dd-trace-py",
+      "issueTitle": "[BUG]: LLMObs spans no longer grouped into traces",
+      "url": "https://github.com/DataDog/dd-trace-py/issues/15411",
+      "createdAt": "2026-02-14T14:43:49.226Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
