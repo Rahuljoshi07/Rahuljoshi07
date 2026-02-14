@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771108994435,
+      "repository": "Zertuk/incremental",
+      "issueTitle": "[Bug] [Display] Gears and money per second",
+      "url": "https://github.com/Zertuk/incremental/issues/14",
+      "createdAt": "2026-02-14T22:43:14.435Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
