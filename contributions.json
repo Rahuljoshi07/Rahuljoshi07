@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771078258844,
+      "repository": "Ciela-Institute/caustics",
+      "issueTitle": "NFW discontinuity in the convergence",
+      "url": "https://github.com/Ciela-Institute/caustics/issues/399",
+      "createdAt": "2026-02-14T14:10:58.844Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
