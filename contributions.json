@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1771039766990,
-      "repository": "OWASP/Nest",
-      "issueTitle": "Bug: is_project_leader can return false positives due to substring matching",
-      "url": "https://github.com/OWASP/Nest/issues/3931",
-      "createdAt": "2026-02-14T03:29:26.990Z",
-      "type": "comment",
-      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
