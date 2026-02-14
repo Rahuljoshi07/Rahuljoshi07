@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771099837235,
+      "repository": "Zendure/Zendure-HA",
+      "issueTitle": "[Bug] RuntimeError \"Cannot be called from within the event loop\" during HA startup / sensor update",
+      "url": "https://github.com/Zendure/Zendure-HA/issues/1093",
+      "createdAt": "2026-02-14T20:10:37.235Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
