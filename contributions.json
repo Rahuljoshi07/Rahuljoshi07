@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771047671627,
+      "repository": "vignesh07/openclaw-railway-template",
+      "issueTitle": "bug: gateway token missing in UI link, probeGateway undefined, misleading \"Channels\" terminology",
+      "url": "https://github.com/vignesh07/openclaw-railway-template/issues/108",
+      "createdAt": "2026-02-14T05:41:11.627Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
