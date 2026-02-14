@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771036494183,
+      "id": 1771036547032,
       "repository": "LibreSign/libresign",
       "issueTitle": "Replace deprecated IConfig methods with IAppConfig and IUserConfig",
       "url": "https://github.com/LibreSign/libresign/issues/6855",
-      "createdAt": "2026-02-14T02:34:54.183Z",
+      "createdAt": "2026-02-14T02:35:47.032Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
