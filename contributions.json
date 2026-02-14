@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771111503984,
+      "repository": "selivan/selivan.github.io",
+      "issueTitle": "2022/05/21/bash-debug",
+      "url": "https://github.com/selivan/selivan.github.io/issues/79",
+      "createdAt": "2026-02-14T23:25:03.984Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
