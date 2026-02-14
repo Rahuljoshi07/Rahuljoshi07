@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771048543716,
+      "repository": "pyinat/naturtag",
+      "issueTitle": "ImportError: PySide6/libpyside6.abi3.so.6.7: undefined symbol",
+      "url": "https://github.com/pyinat/naturtag/issues/400",
+      "createdAt": "2026-02-14T05:55:43.716Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
