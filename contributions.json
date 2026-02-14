@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771065139488,
+      "repository": "lucalista/shinestacker",
+      "issueTitle": "Error message when importing TIF files",
+      "url": "https://github.com/lucalista/shinestacker/issues/22",
+      "createdAt": "2026-02-14T10:32:19.488Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
