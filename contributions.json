@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771097125680,
+      "repository": "TA2k/ioBroker.mercedesme",
+      "issueTitle": "Please consider fixing issues detected by repository checker",
+      "url": "https://github.com/TA2k/ioBroker.mercedesme/issues/263",
+      "createdAt": "2026-02-14T19:25:25.680Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
