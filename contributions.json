@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771032541005,
+      "repository": "NodeJSmith/hassette",
+      "issueTitle": "websocket_service does not respect global log level argument",
+      "url": "https://github.com/NodeJSmith/hassette/issues/237",
+      "createdAt": "2026-02-14T01:29:01.005Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
