@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771030487232,
+      "repository": "homeassistant-ai/ha-mcp",
+      "issueTitle": "ha_restart reported a failure/error but did in fact restart the HA instance",
+      "url": "https://github.com/homeassistant-ai/ha-mcp/issues/612",
+      "createdAt": "2026-02-14T00:54:47.233Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
