@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771056646214,
+      "repository": "toluschr/BetterDiscord-Animated-Status",
+      "issueTitle": "FIX ERROR",
+      "url": "https://github.com/toluschr/BetterDiscord-Animated-Status/issues/205",
+      "createdAt": "2026-02-14T08:10:46.214Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
