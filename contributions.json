@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771072368448,
+      "repository": "mwarkentin/django-watchman",
+      "issueTitle": "The SELECT 1 statement does not work on oracle for _check_database checks",
+      "url": "https://github.com/mwarkentin/django-watchman/issues/202",
+      "createdAt": "2026-02-14T12:32:48.448Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
