@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771052186268,
+      "repository": "sr-857/AstraGuard-AI-Apertre-3.0",
+      "issueTitle": "Refactor: Improve error handling in `anomaly_detector.py`",
+      "url": "https://github.com/sr-857/AstraGuard-AI-Apertre-3.0/issues/90",
+      "createdAt": "2026-02-14T06:56:26.269Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
