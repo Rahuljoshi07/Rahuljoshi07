@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771165963913,
+      "repository": "brickhouse-tech/angular-simple-logger",
+      "issueTitle": "\"angular.module is not a function\" error when installing with JSPM",
+      "url": "https://github.com/brickhouse-tech/angular-simple-logger/issues/20",
+      "createdAt": "2026-02-15T14:32:43.913Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
