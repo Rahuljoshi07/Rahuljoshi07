@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771188566998,
+      "repository": "als-apg/osprey",
+      "issueTitle": "Enhancement: Osprey should report the error if a menu/submenu item does not work",
+      "url": "https://github.com/als-apg/osprey/issues/112",
+      "createdAt": "2026-02-15T20:49:26.998Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
