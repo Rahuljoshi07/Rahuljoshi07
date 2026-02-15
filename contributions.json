@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771182691369,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Improve Frontend Unit Test Coverage to 99%+",
+      "url": "https://github.com/OWASP/Nest/issues/3959",
+      "createdAt": "2026-02-15T19:11:31.369Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
