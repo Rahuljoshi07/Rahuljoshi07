@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771150271078,
+      "repository": "gf-data-tools/gf-resource-downloader",
+      "issueTitle": "HTTP Error 403: Forbidden",
+      "url": "https://github.com/gf-data-tools/gf-resource-downloader/issues/3",
+      "createdAt": "2026-02-15T10:11:11.079Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
