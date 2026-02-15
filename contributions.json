@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771194374296,
+      "repository": "iamtelescope/telescope",
+      "issueTitle": "Error creating source - NOT NULL constraint failed on `telescope_source.execute_query_on_open`",
+      "url": "https://github.com/iamtelescope/telescope/issues/91",
+      "createdAt": "2026-02-15T22:26:14.296Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
