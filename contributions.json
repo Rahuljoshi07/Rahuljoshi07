@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771139226302,
+      "id": 1771139264117,
       "repository": "UB-Mannheim/zotero-ocr",
-      "issueTitle": "Use JavaScript for PDF conversion and OCR",
-      "url": "https://github.com/UB-Mannheim/zotero-ocr/issues/80",
-      "createdAt": "2026-02-15T07:07:06.302Z",
+      "issueTitle": "OCR Fails for ZotMoov PDFs in Google Drive  (Error: \"PDF file is empty\")",
+      "url": "https://github.com/UB-Mannheim/zotero-ocr/issues/97",
+      "createdAt": "2026-02-15T07:07:44.117Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
