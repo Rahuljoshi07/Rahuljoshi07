@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771129822653,
+      "repository": "ynkdir/py-win32more",
+      "issueTitle": "asyncio event loop integration has a performance impact",
+      "url": "https://github.com/ynkdir/py-win32more/issues/159",
+      "createdAt": "2026-02-15T04:30:22.653Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
