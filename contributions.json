@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771131136030,
+      "repository": "scidsg/hushline",
+      "issueTitle": "Deployment using Docker should use a \"sidecar\" `restart: on-failure` container to run migrations",
+      "url": "https://github.com/scidsg/hushline/issues/548",
+      "createdAt": "2026-02-15T04:52:16.030Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
