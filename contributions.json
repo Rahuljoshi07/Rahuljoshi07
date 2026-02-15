@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771131275639,
+      "id": 1771131318078,
       "repository": "apache/cordova-js",
-      "issueTitle": "Run client-side JS through Babel",
-      "url": "https://github.com/apache/cordova-js/issues/206",
-      "createdAt": "2026-02-15T04:54:35.639Z",
+      "issueTitle": "Event listener function overloads are too brittle, error if evt is undefined",
+      "url": "https://github.com/apache/cordova-js/issues/244",
+      "createdAt": "2026-02-15T04:55:18.078Z",
       "type": "comment",
-      "content": "Using a bundler like Webpack or Vite could improve performance. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
