@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771174180170,
+      "repository": "openakita/openakita",
+      "issueTitle": "[BUG] MacOS 15.7.3 无法使用",
+      "url": "https://github.com/openakita/openakita/issues/5",
+      "createdAt": "2026-02-15T16:49:40.170Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
