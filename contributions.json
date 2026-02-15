@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771154163121,
+      "repository": "kolos26/GEOFS-LiverySelector",
+      "issueTitle": "737 200 crash bug",
+      "url": "https://github.com/kolos26/GEOFS-LiverySelector/issues/1272",
+      "createdAt": "2026-02-15T11:16:03.121Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
