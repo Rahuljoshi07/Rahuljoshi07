@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771155525628,
+      "repository": "zemlyansky/arima",
+      "issueTitle": "Issue with prediction. Model is not creating from beginning. It retrain the existing one.",
+      "url": "https://github.com/zemlyansky/arima/issues/11",
+      "createdAt": "2026-02-15T11:38:45.628Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
