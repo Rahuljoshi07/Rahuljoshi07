@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771144063711,
+      "repository": "albumentations-team/AlbumentationsX",
+      "issueTitle": "Float32 to uint8 conversion in batch processing causes quantization errors",
+      "url": "https://github.com/albumentations-team/AlbumentationsX/issues/152",
+      "createdAt": "2026-02-15T08:27:43.711Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
