@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771144852025,
+      "repository": "MrPrimate/tokenizer",
+      "issueTitle": "Token size issue",
+      "url": "https://github.com/MrPrimate/tokenizer/issues/219",
+      "createdAt": "2026-02-15T08:40:52.025Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
