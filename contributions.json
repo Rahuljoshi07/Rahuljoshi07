@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771185470147,
-      "repository": "testomatio/reporter",
-      "issueTitle": "[Feature request] Add suite timeline to report",
-      "url": "https://github.com/testomatio/reporter/issues/482",
-      "createdAt": "2026-02-15T19:57:50.147Z",
+      "id": 1771185538233,
+      "repository": "windkh/node-red-contrib-shelly",
+      "issueTitle": "Polling timeout logs: add a \"valid message only to next node only\" to avoid debug/term overflow",
+      "url": "https://github.com/windkh/node-red-contrib-shelly/issues/232",
+      "createdAt": "2026-02-15T19:58:58.233Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
