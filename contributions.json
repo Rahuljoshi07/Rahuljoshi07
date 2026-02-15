@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1771195345909,
-      "repository": "iamtelescope/telescope",
-      "issueTitle": "Error creating source - NOT NULL constraint failed on `telescope_source.execute_query_on_open`",
-      "url": "https://github.com/iamtelescope/telescope/issues/91",
-      "createdAt": "2026-02-15T22:42:25.910Z",
-      "type": "comment",
-      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
