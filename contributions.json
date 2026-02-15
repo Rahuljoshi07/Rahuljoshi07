@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771121192947,
+      "repository": "cybersecsi/RAUDI",
+      "issueTitle": "Module not found error if config does not exist in tools folder",
+      "url": "https://github.com/cybersecsi/RAUDI/issues/22",
+      "createdAt": "2026-02-15T02:06:32.948Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
