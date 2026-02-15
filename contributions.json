@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771170159598,
+      "repository": "PhangsTeam/pjpipe",
+      "issueTitle": "[BUG]: tweakreg runs in lv3 even when skip is True",
+      "url": "https://github.com/PhangsTeam/pjpipe/issues/122",
+      "createdAt": "2026-02-15T15:42:39.598Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
