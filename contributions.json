@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771164566573,
+      "repository": "ansulagrawal/react-big-schedule",
+      "issueTitle": "Cannot resize/adjust the event more than once",
+      "url": "https://github.com/ansulagrawal/react-big-schedule/issues/258",
+      "createdAt": "2026-02-15T14:09:26.574Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
