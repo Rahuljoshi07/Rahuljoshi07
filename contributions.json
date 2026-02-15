@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771198360444,
+      "repository": "cyruzzo/AboveVTT",
+      "issueTitle": "DDB API Error: https://tools.ietf.org/html/rfc9110#section-15.5.1",
+      "url": "https://github.com/cyruzzo/AboveVTT/issues/3925",
+      "createdAt": "2026-02-15T23:32:40.444Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
