@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771133475121,
+      "repository": "yaoliliu/FreeFuse",
+      "issueTitle": "3 steps too slow i think",
+      "url": "https://github.com/yaoliliu/FreeFuse/issues/4",
+      "createdAt": "2026-02-15T05:31:15.121Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
