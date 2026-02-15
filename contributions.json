@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771134114161,
+      "repository": "mchlnix/SMB3-Foundry",
+      "issueTitle": "\"Current Level Could Not Be Found in ROM. Attach it first..\" bug",
+      "url": "https://github.com/mchlnix/SMB3-Foundry/issues/198",
+      "createdAt": "2026-02-15T05:41:54.161Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
