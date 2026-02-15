@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771192103403,
+      "repository": "irreducible-representations/irrep",
+      "issueTitle": "Request to bring back '_correct_Ecut0 '  to handle VASP unfold error ' computed ncnt=*** != input nplane=*** ','",
+      "url": "https://github.com/irreducible-representations/irrep/issues/83",
+      "createdAt": "2026-02-15T21:48:23.403Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
