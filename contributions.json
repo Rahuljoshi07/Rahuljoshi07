@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771164895421,
+      "repository": "pmxt-dev/pmxt",
+      "issueTitle": "Windows: spawn pmxt-ensure-server ENOENT when pmxt-core is local dependency",
+      "url": "https://github.com/pmxt-dev/pmxt/issues/29",
+      "createdAt": "2026-02-15T14:14:55.421Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
