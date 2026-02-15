@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771131824582,
+      "repository": "bcmi/DreamCom-Image-Composition",
+      "issueTitle": "i have clone the model repository from hugging face. but it's still showing the error for model file. ",
+      "url": "https://github.com/bcmi/DreamCom-Image-Composition/issues/4",
+      "createdAt": "2026-02-15T05:03:44.583Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
