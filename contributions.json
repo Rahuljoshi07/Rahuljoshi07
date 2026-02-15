@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771171810949,
+      "repository": "CircuitVerse/cv-frontend-vue",
+      "issueTitle": "Replace Temporary `removeBugNodes` Function with Proper Solution",
+      "url": "https://github.com/CircuitVerse/cv-frontend-vue/issues/943",
+      "createdAt": "2026-02-15T16:10:10.950Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
