@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771161000964,
+      "id": 1771161035496,
       "repository": "EvHaus/youtube-hide-watched",
-      "issueTitle": "Video grid becomes misaligned when toggling watched videos",
-      "url": "https://github.com/EvHaus/youtube-hide-watched/issues/272",
-      "createdAt": "2026-02-15T13:10:00.964Z",
+      "issueTitle": "[Feature] Don't rely entirely on YouTube's red \"watched\" bar to determine watched status",
+      "url": "https://github.com/EvHaus/youtube-hide-watched/issues/399",
+      "createdAt": "2026-02-15T13:10:35.496Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
