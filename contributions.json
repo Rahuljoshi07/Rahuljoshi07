@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771134593405,
+      "id": 1771134622430,
       "repository": "caretive-ai/project-careti",
       "issueTitle": "작업도중 Error executing replace_in_file: User closed text editor, unable to edit file. 에러와 캐럿 로그인 버튼 노출",
       "url": "https://github.com/caretive-ai/project-careti/issues/23",
-      "createdAt": "2026-02-15T05:49:53.405Z",
+      "createdAt": "2026-02-15T05:50:22.430Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
