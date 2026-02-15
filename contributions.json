@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771117947990,
+      "repository": "davland7/rplayer",
+      "issueTitle": "`Uncaught TypeError: this.isIOS is not a function`",
+      "url": "https://github.com/davland7/rplayer/issues/44",
+      "createdAt": "2026-02-15T01:12:27.990Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
