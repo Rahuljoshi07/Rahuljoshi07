@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771161000964,
+      "repository": "EvHaus/youtube-hide-watched",
+      "issueTitle": "Video grid becomes misaligned when toggling watched videos",
+      "url": "https://github.com/EvHaus/youtube-hide-watched/issues/272",
+      "createdAt": "2026-02-15T13:10:00.964Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
