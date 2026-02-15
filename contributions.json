@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1771164644224,
-      "repository": "prompt-security/ps-fuzz",
-      "issueTitle": "Tried setting env variable to AZURE_OPENAI_API_KEY and run the fuzzer but it fails with filtered prompt error",
-      "url": "https://github.com/prompt-security/ps-fuzz/issues/66",
-      "createdAt": "2026-02-15T14:10:44.224Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
