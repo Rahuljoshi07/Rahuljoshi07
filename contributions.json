@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771120793408,
+      "repository": "AToMPM/atompm",
+      "issueTitle": "Remove flakiness and re-enable test 06 (tests/06_creating_dsl.js)",
+      "url": "https://github.com/AToMPM/atompm/issues/174",
+      "createdAt": "2026-02-15T01:59:53.408Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
