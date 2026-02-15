@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771195909118,
+      "repository": "fancyson-ai/sora-creator-tools",
+      "issueTitle": "Bug: Sora's n_frames is often inaccurate on Stitched videos",
+      "url": "https://github.com/fancyson-ai/sora-creator-tools/issues/79",
+      "createdAt": "2026-02-15T22:51:49.118Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
