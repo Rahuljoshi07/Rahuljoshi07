@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771116104364,
+      "repository": "decolua/9router",
+      "issueTitle": "[Bug] Gemini 3 Flash via Antigravity returns 400 \"Request contains an invalid argument\" in OpenAI compatibility mode",
+      "url": "https://github.com/decolua/9router/issues/93",
+      "createdAt": "2026-02-15T00:41:44.364Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
