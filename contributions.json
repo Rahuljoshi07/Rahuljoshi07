@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771184712647,
+      "id": 1771184776347,
       "repository": "DrozmotiX/ioBroker.wled",
-      "issueTitle": "Feature Request: Add and Delete Segments",
-      "url": "https://github.com/DrozmotiX/ioBroker.wled/issues/708",
-      "createdAt": "2026-02-15T19:45:12.647Z",
+      "issueTitle": "Iconsistencies in online/offline detection",
+      "url": "https://github.com/DrozmotiX/ioBroker.wled/issues/654",
+      "createdAt": "2026-02-15T19:46:16.347Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
