@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771154259807,
+      "repository": "strawberry-graphql/strawberry-django",
+      "issueTitle": "Optimizer tests break with django-polymorphic>=4.6.0",
+      "url": "https://github.com/strawberry-graphql/strawberry-django/issues/856",
+      "createdAt": "2026-02-15T11:17:39.807Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
