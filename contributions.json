@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771189672323,
+      "repository": "perfsonar/pscheduler",
+      "issueTitle": "Latencybg runs get a priority",
+      "url": "https://github.com/perfsonar/pscheduler/issues/1614",
+      "createdAt": "2026-02-15T21:07:52.324Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
