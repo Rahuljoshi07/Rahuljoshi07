@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771141577056,
+      "repository": "Jayanta2004/dev-card-showcase",
+      "issueTitle": "[Bug]: Projects not loading due to error",
+      "url": "https://github.com/Jayanta2004/dev-card-showcase/issues/3821",
+      "createdAt": "2026-02-15T07:46:17.056Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
