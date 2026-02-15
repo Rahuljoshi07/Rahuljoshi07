@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771125386892,
+      "repository": "mtkennerly/poetry-dynamic-versioning",
+      "issueTitle": "BUG: poetry-dynamic-versioning settings for poetry-pyinstaller-plugin",
+      "url": "https://github.com/mtkennerly/poetry-dynamic-versioning/issues/235",
+      "createdAt": "2026-02-15T03:16:26.892Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
