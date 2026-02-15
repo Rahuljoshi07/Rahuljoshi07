@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771167218259,
+      "repository": "danielcherubini/elegoo-homeassistant",
+      "issueTitle": "Spoolman Guide have errors",
+      "url": "https://github.com/danielcherubini/elegoo-homeassistant/issues/322",
+      "createdAt": "2026-02-15T14:53:38.259Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
