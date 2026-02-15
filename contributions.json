@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771174381549,
+      "repository": "phpmyadmin/website",
+      "issueTitle": "Phpmyadmin on demo server not updated since 2024-12-18",
+      "url": "https://github.com/phpmyadmin/website/issues/192",
+      "createdAt": "2026-02-15T16:53:01.549Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
