@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771159245870,
+      "repository": "jesus2099/konami-command",
+      "issueTitle": "Digital cover arts sometimes not hidden",
+      "url": "https://github.com/jesus2099/konami-command/issues/788",
+      "createdAt": "2026-02-15T12:40:45.870Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
