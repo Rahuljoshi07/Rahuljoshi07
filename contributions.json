@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771215935995,
+      "repository": "hnewcity/KiroaaS",
+      "issueTitle": "[Bug] Connection failed with \"nodename nor servname provided, or not known\" error in kiroaas v1.0.1",
+      "url": "https://github.com/hnewcity/KiroaaS/issues/1",
+      "createdAt": "2026-02-16T04:25:35.995Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
