@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771281614380,
-      "repository": "LibreSign/libresign",
-      "issueTitle": "BUG \\SignEngine\\Pkcs12Handler::processSignature(): Argument #2 ($signature) must be of type ?string, false given,",
-      "url": "https://github.com/LibreSign/libresign/issues/6826",
-      "createdAt": "2026-02-16T22:40:14.380Z",
+      "id": 1771281666089,
+      "repository": "catalystneuro/roiextractors",
+      "issueTitle": "CaImAn summary images bug",
+      "url": "https://github.com/catalystneuro/roiextractors/issues/456",
+      "createdAt": "2026-02-16T22:41:06.089Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
