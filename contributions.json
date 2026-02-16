@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771251743422,
+      "repository": "lnbits/nostrmarket",
+      "issueTitle": "[BUG] Shipping zones: only first zone published, product costs override to zero",
+      "url": "https://github.com/lnbits/nostrmarket/issues/118",
+      "createdAt": "2026-02-16T14:22:23.422Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
