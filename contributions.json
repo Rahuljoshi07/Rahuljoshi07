@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771261101291,
+      "repository": "nextcloud/mail",
+      "issueTitle": "Sync and Send NOT reusing connections for operations",
+      "url": "https://github.com/nextcloud/mail/issues/10039",
+      "createdAt": "2026-02-16T16:58:21.291Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
