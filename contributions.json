@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771276372271,
+      "repository": "mkorpela/pabot",
+      "issueTitle": "Pabot execution gets infinitely stuck",
+      "url": "https://github.com/mkorpela/pabot/issues/669",
+      "createdAt": "2026-02-16T21:12:52.271Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
