@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771234262306,
+      "repository": "ansys/pysystem-coupling",
+      "issueTitle": "pysyc error when adding MAPDL participant as session on Linux 25R2",
+      "url": "https://github.com/ansys/pysystem-coupling/issues/516",
+      "createdAt": "2026-02-16T09:31:02.306Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
