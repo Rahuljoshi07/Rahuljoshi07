@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1771241185433,
-      "repository": "eslint/json",
-      "issueTitle": "Bug: JSON v1.0.1 is not backward-compatible with ESLint v9.39.2",
-      "url": "https://github.com/eslint/json/issues/213",
-      "createdAt": "2026-02-16T11:26:25.434Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
