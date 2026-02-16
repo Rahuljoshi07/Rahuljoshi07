@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771222048334,
+      "repository": "UltiMafia/Ultimafia",
+      "issueTitle": "Fix verification emails landing in spam folders",
+      "url": "https://github.com/UltiMafia/Ultimafia/issues/2530",
+      "createdAt": "2026-02-16T06:07:28.335Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
