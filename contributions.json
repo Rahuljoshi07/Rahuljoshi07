@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771219984146,
+      "repository": "aboutcode-org/dejacode",
+      "issueTitle": "BUG: UI rendering issue with Admin add/change license form",
+      "url": "https://github.com/aboutcode-org/dejacode/issues/469",
+      "createdAt": "2026-02-16T05:33:04.146Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
