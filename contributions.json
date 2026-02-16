@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771218686911,
+      "repository": "hsahovic/poke-env",
+      "issueTitle": "Duplicate pokemon are not supported on same team",
+      "url": "https://github.com/hsahovic/poke-env/issues/770",
+      "createdAt": "2026-02-16T05:11:26.911Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
