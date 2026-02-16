@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771200852841,
+      "repository": "TigreGotico/phoonnx",
+      "issueTitle": "some piper voices not working: Protobuf parsing failed",
+      "url": "https://github.com/TigreGotico/phoonnx/issues/63",
+      "createdAt": "2026-02-16T00:14:12.841Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
