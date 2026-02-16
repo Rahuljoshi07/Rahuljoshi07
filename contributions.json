@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771220258920,
+      "repository": "joue-quroi/qrcode-reader",
+      "issueTitle": "Bug report on instagram, and multiple QRs",
+      "url": "https://github.com/joue-quroi/qrcode-reader/issues/8",
+      "createdAt": "2026-02-16T05:37:38.921Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
