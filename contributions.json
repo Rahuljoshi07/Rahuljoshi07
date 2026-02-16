@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771215803506,
+      "repository": "scidsg/hushline",
+      "issueTitle": "Proposal for feature flags",
+      "url": "https://github.com/scidsg/hushline/issues/636",
+      "createdAt": "2026-02-16T04:23:23.506Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
