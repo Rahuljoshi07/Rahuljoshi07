@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771263743603,
+      "repository": "snowflakedb/snowflake-connector-nodejs",
+      "issueTitle": "SNOW-1789882: Accept readonly arrays as Binds",
+      "url": "https://github.com/snowflakedb/snowflake-connector-nodejs/issues/949",
+      "createdAt": "2026-02-16T17:42:23.603Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
