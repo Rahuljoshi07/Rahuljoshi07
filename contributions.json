@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771203061265,
+      "repository": "nextcloud/files_mindmap",
+      "issueTitle": "InvalidSignatureException - Certificate is not valid",
+      "url": "https://github.com/nextcloud/files_mindmap/issues/216",
+      "createdAt": "2026-02-16T00:51:01.266Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
