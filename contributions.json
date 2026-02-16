@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771275912896,
+      "repository": "CivicActions/guidebook",
+      "issueTitle": "Fix Link Checker",
+      "url": "https://github.com/CivicActions/guidebook/issues/1620",
+      "createdAt": "2026-02-16T21:05:12.896Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
