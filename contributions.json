@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771230234769,
+      "repository": "KnpLabs/server-side-renderer",
+      "issueTitle": "Incorrect default implementation of /app/scripts/postRender.js",
+      "url": "https://github.com/KnpLabs/server-side-renderer/issues/1027",
+      "createdAt": "2026-02-16T08:23:54.769Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
