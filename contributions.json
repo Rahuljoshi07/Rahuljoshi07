@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771206289877,
+      "repository": "PINTO0309/onnx2tf",
+      "issueTitle": "vad model conversion shows the same error as previous fixed",
+      "url": "https://github.com/PINTO0309/onnx2tf/issues/782",
+      "createdAt": "2026-02-16T01:44:49.877Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
