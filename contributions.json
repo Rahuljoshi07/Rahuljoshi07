@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771228077580,
+      "repository": "FantasticFiasco/action-update-license-year",
+      "issueTitle": "cannot push with PAT",
+      "url": "https://github.com/FantasticFiasco/action-update-license-year/issues/710",
+      "createdAt": "2026-02-16T07:47:57.580Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
