@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771223096103,
+      "repository": "codebytere/codebytere.github.io",
+      "issueTitle": "History \"undefined\" bug",
+      "url": "https://github.com/codebytere/codebytere.github.io/issues/38",
+      "createdAt": "2026-02-16T06:24:56.103Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
