@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771271163651,
+      "repository": "bobmatnyc/mcp-vector-search",
+      "issueTitle": "TLS certificate bundle error: Python version mismatch (3.13 vs 3.12)",
+      "url": "https://github.com/bobmatnyc/mcp-vector-search/issues/96",
+      "createdAt": "2026-02-16T19:46:03.651Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
