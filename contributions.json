@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771270042154,
+      "repository": "lucasrcezimbra/ninja-api-key",
+      "issueTitle": "Support for specific hasher for API Keys (API_KEY_HASHERS)",
+      "url": "https://github.com/lucasrcezimbra/ninja-api-key/issues/39",
+      "createdAt": "2026-02-16T19:27:22.154Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
