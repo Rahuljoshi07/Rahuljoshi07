@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771223243367,
+      "repository": "manuel-serrano/hiphop",
+      "issueTitle": "Internal compiler error when constructing a `ReactiveMachine`",
+      "url": "https://github.com/manuel-serrano/hiphop/issues/14",
+      "createdAt": "2026-02-16T06:27:23.367Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
