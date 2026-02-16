@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771227831911,
+      "repository": "SECTL/SecRandom",
+      "issueTitle": "更新后错误弹出设置引导并覆盖了全部设置",
+      "url": "https://github.com/SECTL/SecRandom/issues/172",
+      "createdAt": "2026-02-16T07:43:51.911Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
