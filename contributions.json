@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771230362010,
+      "repository": "nextcloud/survey_client",
+      "issueTitle": "Broken since 14, due to the apps list it seems.",
+      "url": "https://github.com/nextcloud/survey_client/issues/101",
+      "createdAt": "2026-02-16T08:26:02.011Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
