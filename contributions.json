@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771268720736,
+      "repository": "aws-samples/amazon-ivs-broadcast-web-demo",
+      "issueTitle": "Fix vulnerabilities",
+      "url": "https://github.com/aws-samples/amazon-ivs-broadcast-web-demo/issues/57",
+      "createdAt": "2026-02-16T19:05:20.736Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
