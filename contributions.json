@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771246990356,
+      "id": 1771247040912,
       "repository": "epam/ai-dial-ci",
-      "issueTitle": "Docker image is not build when trivy disabled",
-      "url": "https://github.com/epam/ai-dial-ci/issues/412",
-      "createdAt": "2026-02-16T13:03:10.356Z",
+      "issueTitle": "Use docker-metadata action to extract container image labels (and tags?) instead of hardcode",
+      "url": "https://github.com/epam/ai-dial-ci/issues/397",
+      "createdAt": "2026-02-16T13:04:00.912Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
