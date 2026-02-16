@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771229819772,
+      "repository": "gkjohnson/three-bvh-csg",
+      "issueTitle": "Example that reproduces problems with missing triangles (for subtraction), and a possible fix",
+      "url": "https://github.com/gkjohnson/three-bvh-csg/issues/95",
+      "createdAt": "2026-02-16T08:16:59.772Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
