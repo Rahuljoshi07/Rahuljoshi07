@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771250970388,
+      "repository": "drlight17/mta-log-parser",
+      "issueTitle": "Subject not parsed from postfix log.",
+      "url": "https://github.com/drlight17/mta-log-parser/issues/25",
+      "createdAt": "2026-02-16T14:09:30.388Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
