@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771278811324,
+      "repository": "kitodo/kitodo-presentation",
+      "issueTitle": "[BUG] Error when moving Metadata records in Backend List",
+      "url": "https://github.com/kitodo/kitodo-presentation/issues/1715",
+      "createdAt": "2026-02-16T21:53:31.324Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
