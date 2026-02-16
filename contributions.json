@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771282993178,
+      "repository": "scidsg/hushline",
+      "issueTitle": "Configurable `gunicorn` args and config file should be able to be passed to the container",
+      "url": "https://github.com/scidsg/hushline/issues/549",
+      "createdAt": "2026-02-16T23:03:13.178Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
