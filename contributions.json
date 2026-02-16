@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771271708168,
+      "repository": "Airthings/airthings-ble",
+      "issueTitle": "Firmware Version Doesnt Update",
+      "url": "https://github.com/Airthings/airthings-ble/issues/52",
+      "createdAt": "2026-02-16T19:55:08.168Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
