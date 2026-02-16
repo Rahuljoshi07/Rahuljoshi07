@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771268364213,
+      "repository": "sphinx-contrib/typer",
+      "issueTitle": "When the same app is rendered using multiple themes the themes can step on each other.",
+      "url": "https://github.com/sphinx-contrib/typer/issues/32",
+      "createdAt": "2026-02-16T18:59:24.213Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
