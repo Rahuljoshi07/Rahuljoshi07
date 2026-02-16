@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771260471918,
+      "repository": "harung1993/dollardollar",
+      "issueTitle": "Adding a group expense before creating any accounts throws ugly error",
+      "url": "https://github.com/harung1993/dollardollar/issues/122",
+      "createdAt": "2026-02-16T16:47:51.918Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
