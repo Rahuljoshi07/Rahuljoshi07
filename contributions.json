@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771261569663,
+      "repository": "tillsteinbach/CarConnectivity-connector-seatcupra",
+      "issueTitle": "Seat door states no more available after latest update(s)",
+      "url": "https://github.com/tillsteinbach/CarConnectivity-connector-seatcupra/issues/76",
+      "createdAt": "2026-02-16T17:06:09.663Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
