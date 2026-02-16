@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771238393522,
+      "repository": "readthedocs/addons",
+      "issueTitle": "Link previews: class `.tooltip` collide with Bootstrap's tooltips",
+      "url": "https://github.com/readthedocs/addons/issues/666",
+      "createdAt": "2026-02-16T10:39:53.522Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
