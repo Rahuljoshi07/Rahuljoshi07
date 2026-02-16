@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771235044370,
+      "repository": "skills/getting-started-with-github-copilot",
+      "issueTitle": "[Bug] Codespace fails to pull Python 3.13 image",
+      "url": "https://github.com/skills/getting-started-with-github-copilot/issues/132",
+      "createdAt": "2026-02-16T09:44:04.370Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
