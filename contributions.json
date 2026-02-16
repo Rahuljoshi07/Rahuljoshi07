@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771270366646,
+      "id": 1771270404432,
       "repository": "monteslu/agentgate",
-      "issueTitle": "Agent detail: Invalid regex error from ALLOWED_URI_REGEXP in chat sanitizer",
-      "url": "https://github.com/monteslu/agentgate/issues/276",
-      "createdAt": "2026-02-16T19:32:46.646Z",
+      "issueTitle": "Agent detail: MCP sessions stuck on \"Loading sessions...\"",
+      "url": "https://github.com/monteslu/agentgate/issues/275",
+      "createdAt": "2026-02-16T19:33:24.432Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
     }
   ],
   "stats": {
