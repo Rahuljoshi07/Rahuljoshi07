@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771282351776,
+      "repository": "tomasfarias/airflow-dbt-python",
+      "issueTitle": "[Bug] s3_conn_id is not recognized",
+      "url": "https://github.com/tomasfarias/airflow-dbt-python/issues/140",
+      "createdAt": "2026-02-16T22:52:31.776Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
