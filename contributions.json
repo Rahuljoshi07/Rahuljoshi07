@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771298938377,
+      "repository": "markmdev/meridian",
+      "issueTitle": "Code guide cleared every upgrade",
+      "url": "https://github.com/markmdev/meridian/issues/5",
+      "createdAt": "2026-02-17T03:28:58.377Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
