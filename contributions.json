@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771296127426,
+      "repository": "BarbourSmith/Abundance",
+      "issueTitle": "Update error for missing import",
+      "url": "https://github.com/BarbourSmith/Abundance/issues/1488",
+      "createdAt": "2026-02-17T02:42:07.426Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
