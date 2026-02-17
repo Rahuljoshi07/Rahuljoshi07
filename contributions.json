@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771313521494,
+      "id": 1771313556682,
       "repository": "DeepanshKhurana/ode",
       "issueTitle": "[BUG] Sitemap Invisible to Search Engines + no robots.txt",
       "url": "https://github.com/DeepanshKhurana/ode/issues/7",
-      "createdAt": "2026-02-17T07:32:01.494Z",
+      "createdAt": "2026-02-17T07:32:36.682Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
