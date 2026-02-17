@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771330437102,
+      "repository": "AikidoSec/safe-chain",
+      "issueTitle": "[Bug]: Silent failure when wrapped binary is not installed",
+      "url": "https://github.com/AikidoSec/safe-chain/issues/309",
+      "createdAt": "2026-02-17T12:13:57.102Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
