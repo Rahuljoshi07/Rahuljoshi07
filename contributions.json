@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771292696080,
+      "repository": "romasku/tuya-zigbee-switch",
+      "issueTitle": "Issues with telink switch 4 gang (casenl_4g)",
+      "url": "https://github.com/romasku/tuya-zigbee-switch/issues/287",
+      "createdAt": "2026-02-17T01:44:56.080Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
