@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771319986358,
+      "repository": "JohanFalt/Foundry_WoD20",
+      "issueTitle": "Showing total value on attributes broken",
+      "url": "https://github.com/JohanFalt/Foundry_WoD20/issues/1336",
+      "createdAt": "2026-02-17T09:19:46.358Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
