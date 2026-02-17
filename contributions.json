@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1771325874859,
-      "repository": "FHIR/sql-on-fhir-v2",
-      "issueTitle": "Reference implementation: where clause does not validate boolean return type",
-      "url": "https://github.com/FHIR/sql-on-fhir-v2/issues/310",
-      "createdAt": "2026-02-17T10:57:54.859Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
