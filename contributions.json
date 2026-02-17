@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771331499861,
+      "repository": "BeiDouMS/BeiDou-Server",
+      "issueTitle": "[求助] 电脑超过26天不关机，导致客户端怪物不显示血条等BUG",
+      "url": "https://github.com/BeiDouMS/BeiDou-Server/issues/445",
+      "createdAt": "2026-02-17T12:31:39.861Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
