@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771312159310,
+      "repository": "dummylabs/thewatchman",
+      "issueTitle": "Error message: file is to large => check is skipped (duplicate of #265)",
+      "url": "https://github.com/dummylabs/thewatchman/issues/287",
+      "createdAt": "2026-02-17T07:09:19.310Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
