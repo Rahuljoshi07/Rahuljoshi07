@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771289453548,
+      "id": 1771289498817,
       "repository": "nextcloud/files_mindmap",
-      "issueTitle": "Nextcloud 32",
-      "url": "https://github.com/nextcloud/files_mindmap/issues/231",
-      "createdAt": "2026-02-17T00:50:53.548Z",
+      "issueTitle": "InvalidSignatureException - Certificate is not valid",
+      "url": "https://github.com/nextcloud/files_mindmap/issues/216",
+      "createdAt": "2026-02-17T00:51:38.817Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
