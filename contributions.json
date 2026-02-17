@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771314027816,
-      "repository": "medic/cht-core",
-      "issueTitle": "Support uploading attachments in `contact` forms",
-      "url": "https://github.com/medic/cht-core/issues/10509",
-      "createdAt": "2026-02-17T07:40:27.816Z",
+      "id": 1771314085635,
+      "repository": "pmxt-dev/pmxt",
+      "issueTitle": "fetch_markets() - how to ensure we are not drifting/reordering between calls?",
+      "url": "https://github.com/pmxt-dev/pmxt/issues/41",
+      "createdAt": "2026-02-17T07:41:25.635Z",
       "type": "comment",
-      "content": "Adding TypeScript could improve code quality and maintainability. (Suggested by Rahul Joshi)..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
