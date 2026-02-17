@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771332530658,
+      "repository": "hoel-bagard/opencv-stubs",
+      "issueTitle": "Class `cv2.BFMatcher` and its method `cv2.BFMatcher.create` have signature errors",
+      "url": "https://github.com/hoel-bagard/opencv-stubs/issues/8",
+      "createdAt": "2026-02-17T12:48:50.658Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
