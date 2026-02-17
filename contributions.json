@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771298483105,
-      "repository": "tschm/cradle",
-      "issueTitle": "Dependency Dashboard",
-      "url": "https://github.com/tschm/cradle/issues/75",
-      "createdAt": "2026-02-17T03:21:23.105Z",
+      "id": 1771298515978,
+      "repository": "accius/openhamclock",
+      "issueTitle": "[Development BUG] Port conflicts between OHC server and Vite server",
+      "url": "https://github.com/accius/openhamclock/issues/475",
+      "createdAt": "2026-02-17T03:21:55.978Z",
       "type": "comment",
-      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
