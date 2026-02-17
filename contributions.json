@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771320554767,
+      "repository": "CM000n/qss",
+      "issueTitle": "qss table not automatically created (logs don't show errors where it was failing)",
+      "url": "https://github.com/CM000n/qss/issues/175",
+      "createdAt": "2026-02-17T09:29:14.768Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
