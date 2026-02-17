@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771298142576,
+      "repository": "Deep-Learning-Profiling-Tools/triton-viz",
+      "issueTitle": "[BUG] `bmm_kernel` missing 3 required positional arguments",
+      "url": "https://github.com/Deep-Learning-Profiling-Tools/triton-viz/issues/133",
+      "createdAt": "2026-02-17T03:15:42.576Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
