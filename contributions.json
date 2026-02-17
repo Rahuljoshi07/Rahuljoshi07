@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771335504823,
+      "id": 1771335550444,
       "repository": "nem-web/smart-attendance",
       "issueTitle": "[BUG] : Migrate Schedule from Teacher object to dedicated Schema",
       "url": "https://github.com/nem-web/smart-attendance/issues/315",
-      "createdAt": "2026-02-17T13:38:24.823Z",
+      "createdAt": "2026-02-17T13:39:10.444Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
