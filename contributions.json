@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771299482572,
+      "repository": "somiibo/instagram-bot",
+      "issueTitle": "Error: Cannot find module 'registry-js'",
+      "url": "https://github.com/somiibo/instagram-bot/issues/1",
+      "createdAt": "2026-02-17T03:38:02.572Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
