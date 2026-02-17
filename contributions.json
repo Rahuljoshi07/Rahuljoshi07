@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771336765555,
+      "repository": "tasict/homebridge-roborock-vacuum",
+      "issueTitle": "Error adding new roborock",
+      "url": "https://github.com/tasict/homebridge-roborock-vacuum/issues/20",
+      "createdAt": "2026-02-17T13:59:25.555Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
