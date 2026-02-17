@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771287929456,
+      "repository": "livekit/python-sdks",
+      "issueTitle": "Python SDK support for per-participant E2EE",
+      "url": "https://github.com/livekit/python-sdks/issues/570",
+      "createdAt": "2026-02-17T00:25:29.456Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
