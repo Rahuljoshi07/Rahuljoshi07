@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771314693739,
+      "repository": "pharmpy/pharmpy",
+      "issueTitle": "BUG found in AMD PKPD",
+      "url": "https://github.com/pharmpy/pharmpy/issues/4297",
+      "createdAt": "2026-02-17T07:51:33.739Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
