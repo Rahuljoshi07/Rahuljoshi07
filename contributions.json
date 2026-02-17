@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771296439516,
+      "repository": "Dipanita45/HEALCONNECT",
+      "issueTitle": "Issue : Missing Loading States for Async Operations",
+      "url": "https://github.com/Dipanita45/HEALCONNECT/issues/476",
+      "createdAt": "2026-02-17T02:47:19.516Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
