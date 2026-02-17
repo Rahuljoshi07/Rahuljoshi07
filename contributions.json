@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771308253000,
+      "repository": "Saatvik-GT/xaytheon",
+      "issueTitle": "[BUG] Authentication fails if GitHub email is set to private",
+      "url": "https://github.com/Saatvik-GT/xaytheon/issues/585",
+      "createdAt": "2026-02-17T06:04:13.001Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
