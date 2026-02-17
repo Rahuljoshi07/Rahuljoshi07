@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771289911459,
+      "id": 1771289966544,
       "repository": "tivac/modular-css",
-      "issueTitle": "Warnings on unused @values",
-      "url": "https://github.com/tivac/modular-css/issues/461",
-      "createdAt": "2026-02-17T00:58:31.460Z",
+      "issueTitle": "Doesn't document verbose option in Processor API",
+      "url": "https://github.com/tivac/modular-css/issues/723",
+      "createdAt": "2026-02-17T00:59:26.544Z",
       "type": "comment",
-      "content": "Using a bundler like Webpack or Vite could improve performance. (Suggested by Rahul Joshi)..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
