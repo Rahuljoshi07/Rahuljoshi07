@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771290716921,
+      "repository": "BrokenSource/ShaderFlow",
+      "issueTitle": "Optimization idea: Scatter FFT values in a final array instead of big sparse bandpass matrix multiplication",
+      "url": "https://github.com/BrokenSource/ShaderFlow/issues/7",
+      "createdAt": "2026-02-17T01:11:56.921Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
