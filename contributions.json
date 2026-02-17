@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771327473489,
+      "repository": "databricks/databricks-sdk-py",
+      "issueTitle": "[ISSUE] - file upload to a volume from local laptop not working in sdk 0.82.0",
+      "url": "https://github.com/databricks/databricks-sdk-py/issues/1267",
+      "createdAt": "2026-02-17T11:24:33.490Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
