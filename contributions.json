@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771323085219,
+      "repository": "Gooichand/blockchain-evidence",
+      "issueTitle": "Code: Add ESLint & Prettier (AUD-04)",
+      "url": "https://github.com/Gooichand/blockchain-evidence/issues/218",
+      "createdAt": "2026-02-17T10:11:25.219Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
