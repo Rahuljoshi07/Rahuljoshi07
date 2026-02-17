@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771338136813,
+      "repository": "snowflakedb/snowflake-sqlalchemy",
+      "issueTitle": "SNOW-2331576: sqlalchemy.orm.exc.FlushError: NULL identity key for primary key column with when using Identity()",
+      "url": "https://github.com/snowflakedb/snowflake-sqlalchemy/issues/611",
+      "createdAt": "2026-02-17T14:22:16.813Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
