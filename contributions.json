@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771289911459,
+      "repository": "tivac/modular-css",
+      "issueTitle": "Warnings on unused @values",
+      "url": "https://github.com/tivac/modular-css/issues/461",
+      "createdAt": "2026-02-17T00:58:31.460Z",
+      "type": "comment",
+      "content": "Using a bundler like Webpack or Vite could improve performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
