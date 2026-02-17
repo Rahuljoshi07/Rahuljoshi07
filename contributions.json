@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771302895047,
+      "repository": "Vaskivskyi/ha-asusrouter",
+      "issueTitle": "Entity sensor.rt_ax86u_wired_upload from integration asusrouter has state class total_increasing",
+      "url": "https://github.com/Vaskivskyi/ha-asusrouter/issues/889",
+      "createdAt": "2026-02-17T04:34:55.047Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
