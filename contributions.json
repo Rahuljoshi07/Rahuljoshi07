@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771309330292,
+      "id": 1771309389210,
       "repository": "Nsanjayboruds/RIVETO",
       "issueTitle": "[Bug]: Light/Dark mode toggle not working",
       "url": "https://github.com/Nsanjayboruds/RIVETO/issues/32",
-      "createdAt": "2026-02-17T06:22:10.292Z",
+      "createdAt": "2026-02-17T06:23:09.210Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
