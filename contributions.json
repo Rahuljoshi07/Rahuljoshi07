@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771408544631,
+      "repository": "UMR-CNRM/EPyGrAM",
+      "issueTitle": "epygram fails to read MUSC \"single-point\" files",
+      "url": "https://github.com/UMR-CNRM/EPyGrAM/issues/83",
+      "createdAt": "2026-02-18T09:55:44.631Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
