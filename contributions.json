@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771424000112,
+      "repository": "fwcd/tree-sitter-kotlin",
+      "issueTitle": "Error invalid ELF header on AWS Lambda",
+      "url": "https://github.com/fwcd/tree-sitter-kotlin/issues/167",
+      "createdAt": "2026-02-18T14:13:20.112Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
