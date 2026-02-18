@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771417108743,
+      "repository": "axsaucedo/kaos",
+      "issueTitle": "bug: docker image tags being pushed in main build as hash not dev versions",
+      "url": "https://github.com/axsaucedo/kaos/issues/84",
+      "createdAt": "2026-02-18T12:18:28.743Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
