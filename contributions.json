@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771409332975,
+      "repository": "oyvhov/Tunet",
+      "issueTitle": "[Bug] Sonos pill - part 2",
+      "url": "https://github.com/oyvhov/Tunet/issues/50",
+      "createdAt": "2026-02-18T10:08:52.976Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
