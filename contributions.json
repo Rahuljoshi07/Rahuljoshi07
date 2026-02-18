@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771398065869,
+      "repository": "cgwire/zou",
+      "issueTitle": "Kitsu/Zou force delete fails with FK violation when shot has direct output_file.entity_id reference",
+      "url": "https://github.com/cgwire/zou/issues/1020",
+      "createdAt": "2026-02-18T07:01:05.870Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
