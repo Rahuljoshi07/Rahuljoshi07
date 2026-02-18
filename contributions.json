@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771405267883,
+      "repository": "red-hat-storage/ocs-ci",
+      "issueTitle": "[Bug]test_replacement_of_tainted_node Failed with AssertionError: Few pods failed to reach the desired running state",
+      "url": "https://github.com/red-hat-storage/ocs-ci/issues/13662",
+      "createdAt": "2026-02-18T09:01:07.883Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
