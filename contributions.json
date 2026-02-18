@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771410370525,
+      "repository": "suitenumerique/drive",
+      "issueTitle": "Impossible to open share modal on mobile",
+      "url": "https://github.com/suitenumerique/drive/issues/366",
+      "createdAt": "2026-02-18T10:26:10.525Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
