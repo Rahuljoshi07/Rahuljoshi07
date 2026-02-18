@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771394400200,
+      "id": 1771394467009,
       "repository": "fastify/under-pressure",
-      "issueTitle": "Custom function for process metrics",
-      "url": "https://github.com/fastify/under-pressure/issues/81",
-      "createdAt": "2026-02-18T06:00:00.200Z",
+      "issueTitle": "bug when setting custom error handler",
+      "url": "https://github.com/fastify/under-pressure/issues/206",
+      "createdAt": "2026-02-18T06:01:07.010Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
