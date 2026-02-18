@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771403501084,
+      "repository": "santanu-atta03/Intervyo",
+      "issueTitle": "Enhancement: Implement Centralized Input Validation and Error Handling",
+      "url": "https://github.com/santanu-atta03/Intervyo/issues/300",
+      "createdAt": "2026-02-18T08:31:41.084Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
