@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771391596294,
+      "repository": "accius/openhamclock",
+      "issueTitle": "[BUG] fetchSOTA and fetchPOTA hooks not running in edge",
+      "url": "https://github.com/accius/openhamclock/issues/503",
+      "createdAt": "2026-02-18T05:13:16.295Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
