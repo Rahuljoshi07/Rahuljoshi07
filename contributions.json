@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771415200591,
+      "repository": "05bit/peewee-async",
+      "issueTitle": "Using gather inside transaction may leads to errors",
+      "url": "https://github.com/05bit/peewee-async/issues/260",
+      "createdAt": "2026-02-18T11:46:40.591Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
