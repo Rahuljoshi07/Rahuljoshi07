@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771405614186,
+      "id": 1771405678850,
       "repository": "noobaa/noobaa-core",
-      "issueTitle": "NC | Maintenance and Short Refactoring Tasks",
-      "url": "https://github.com/noobaa/noobaa-core/issues/8264",
-      "createdAt": "2026-02-18T09:06:54.186Z",
+      "issueTitle": "NSFS | when FS is unavailable requests fail immediately with InternalError exhausting client attempts",
+      "url": "https://github.com/noobaa/noobaa-core/issues/8039",
+      "createdAt": "2026-02-18T09:07:58.850Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
