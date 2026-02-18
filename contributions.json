@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771384803269,
+      "id": 1771384874008,
       "repository": "accius/openhamclock",
-      "issueTitle": "[FEATURE] Add rig control for Flex radios using Flex API",
-      "url": "https://github.com/accius/openhamclock/issues/469",
-      "createdAt": "2026-02-18T03:20:03.269Z",
+      "issueTitle": "[BUG] Some RBN flags showing the wrong locator",
+      "url": "https://github.com/accius/openhamclock/issues/496",
+      "createdAt": "2026-02-18T03:21:14.008Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
