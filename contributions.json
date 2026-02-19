@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771502932944,
+      "repository": "Confuzu/CivitAI_Image_grabber",
+      "issueTitle": "[Issue]: Max API Page is 1000 / 50,000 images",
+      "url": "https://github.com/Confuzu/CivitAI_Image_grabber/issues/52",
+      "createdAt": "2026-02-19T12:08:52.944Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
