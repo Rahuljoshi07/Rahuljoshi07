@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771489163676,
+      "repository": "CERNDocumentServer/cds-rdm",
+      "issueTitle": "bug: LaTeX rendering not working properly for description",
+      "url": "https://github.com/CERNDocumentServer/cds-rdm/issues/695",
+      "createdAt": "2026-02-19T08:19:23.676Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
