@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771506155356,
+      "repository": "tenstorrent/tt-xla",
+      "issueTitle": "Shape rank conversion issue in ssd300_vgg16",
+      "url": "https://github.com/tenstorrent/tt-xla/issues/3379",
+      "createdAt": "2026-02-19T13:02:35.356Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
