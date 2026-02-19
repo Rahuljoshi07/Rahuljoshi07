@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771488513908,
+      "repository": "nem-web/smart-attendance",
+      "issueTitle": "[BUG] Problem in creating account as a student",
+      "url": "https://github.com/nem-web/smart-attendance/issues/380",
+      "createdAt": "2026-02-19T08:08:33.908Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
