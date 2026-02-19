@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771497030769,
+      "repository": "buiapp/reaktiv",
+      "issueTitle": "An effect unassigned to any reference is not getting garbage collected",
+      "url": "https://github.com/buiapp/reaktiv/issues/28",
+      "createdAt": "2026-02-19T10:30:30.769Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for angula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
