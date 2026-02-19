@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771484530858,
+      "repository": "ecosoft-frappe/erpnext_thailand",
+      "issueTitle": "Error when running Sales Tax Report and Purhcase Tax Report",
+      "url": "https://github.com/ecosoft-frappe/erpnext_thailand/issues/82",
+      "createdAt": "2026-02-19T07:02:10.859Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
