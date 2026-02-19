@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771512814260,
+      "repository": "PyES-software/PyES",
+      "issueTitle": "When the initial concentrations cannot be calculated a more meaningful error message should be displayed",
+      "url": "https://github.com/PyES-software/PyES/issues/40",
+      "createdAt": "2026-02-19T14:53:34.260Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
