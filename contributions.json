@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771533167707,
+      "repository": "HarperFast/harper",
+      "issueTitle": "`delete_transaction_log_before` needs to use RocksDB's purgeLogs",
+      "url": "https://github.com/HarperFast/harper/issues/158",
+      "createdAt": "2026-02-19T20:32:47.707Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
