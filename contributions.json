@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771467689410,
+      "repository": "XargonWan/Synthetic_Heart",
+      "issueTitle": "BUG: interface chat information is not saved in the database",
+      "url": "https://github.com/XargonWan/Synthetic_Heart/issues/258",
+      "createdAt": "2026-02-19T02:21:29.411Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
