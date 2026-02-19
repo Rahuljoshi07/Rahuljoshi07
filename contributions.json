@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771467962716,
+      "repository": "hoangsonww/AI-Agents-Orchestrator",
+      "issueTitle": "feat: Add workflow evaluation harness with benchmark datasets and quality scoring",
+      "url": "https://github.com/hoangsonww/AI-Agents-Orchestrator/issues/15",
+      "createdAt": "2026-02-19T02:26:02.716Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
