@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771466524724,
+      "repository": "nextcloud/tables",
+      "issueTitle": "File links no longer displayed correctly",
+      "url": "https://github.com/nextcloud/tables/issues/2332",
+      "createdAt": "2026-02-19T02:02:04.724Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
