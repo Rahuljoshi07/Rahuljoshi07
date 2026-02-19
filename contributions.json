@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771509271847,
-      "repository": "nextcloud/talk-desktop",
-      "issueTitle": "Monochrome systray icon broken",
-      "url": "https://github.com/nextcloud/talk-desktop/issues/1606",
-      "createdAt": "2026-02-19T13:54:31.847Z",
+      "id": 1771509343516,
+      "repository": "thexerteproject/xerteonlinetoolkits",
+      "issueTitle": "Security issues",
+      "url": "https://github.com/thexerteproject/xerteonlinetoolkits/issues/1519",
+      "createdAt": "2026-02-19T13:55:43.516Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
