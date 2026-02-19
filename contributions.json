@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771498518626,
+      "repository": "mirumee/ariadne-codegen",
+      "issueTitle": "RecursionError: maximum recursion depth exceeded while calling a Python object",
+      "url": "https://github.com/mirumee/ariadne-codegen/issues/251",
+      "createdAt": "2026-02-19T10:55:18.626Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
