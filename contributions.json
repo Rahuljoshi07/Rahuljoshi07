@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771506302977,
+      "repository": "mholzi/beatify",
+      "issueTitle": "test: Testdateien wiederherstellen / neu schreiben (aktuell 0 Tests)",
+      "url": "https://github.com/mholzi/beatify/issues/190",
+      "createdAt": "2026-02-19T13:05:02.977Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
