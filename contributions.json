@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771529644387,
+      "repository": "TobySuch/Shifter",
+      "issueTitle": "Upload file from CLI",
+      "url": "https://github.com/TobySuch/Shifter/issues/669",
+      "createdAt": "2026-02-19T19:34:04.387Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
