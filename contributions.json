@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771499511953,
+      "repository": "Autodesk/arnold-usd",
+      "issueTitle": "Indexed user data shouldn't author the \"idxs\" companion to USD",
+      "url": "https://github.com/Autodesk/arnold-usd/issues/2558",
+      "createdAt": "2026-02-19T11:11:51.953Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
