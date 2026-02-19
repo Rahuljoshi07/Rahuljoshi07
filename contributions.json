@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771534183763,
+      "repository": "TomerFi/auto-me-bot",
+      "issueTitle": "perf: move Probot initialization to module scope for cold-start optimization",
+      "url": "https://github.com/TomerFi/auto-me-bot/issues/820",
+      "createdAt": "2026-02-19T20:49:43.763Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
