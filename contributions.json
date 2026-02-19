@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771519001387,
+      "repository": "Sayshal/Calendaria",
+      "issueTitle": "[BUG] Randomized Weather Presets not within Active Climate Zone Seasonal Temperature Ranges",
+      "url": "https://github.com/Sayshal/Calendaria/issues/403",
+      "createdAt": "2026-02-19T16:36:41.387Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
