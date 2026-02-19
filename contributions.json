@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771483025511,
+      "repository": "gambitph/Stackable",
+      "issueTitle": "Columns Block - column justify broken when allow column wrapping is enabled",
+      "url": "https://github.com/gambitph/Stackable/issues/3680",
+      "createdAt": "2026-02-19T06:37:05.511Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
