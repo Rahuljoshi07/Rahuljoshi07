@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771549153729,
+      "repository": "secureblue/secureblue",
+      "issueTitle": "[BUG] Unintended behavior found in secureblue iot greenboot",
+      "url": "https://github.com/secureblue/secureblue/issues/1942",
+      "createdAt": "2026-02-20T00:59:13.729Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
