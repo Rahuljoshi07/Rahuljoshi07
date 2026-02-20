@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771564697780,
+      "repository": "Blizzard/heroprotocol",
+      "issueTitle": "TypeError in `python -m heroprotocol --initdata --json ...`",
+      "url": "https://github.com/Blizzard/heroprotocol/issues/91",
+      "createdAt": "2026-02-20T05:18:17.780Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
