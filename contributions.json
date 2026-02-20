@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771556923931,
+      "repository": "USFrameTeam/Unknown-Server-Framework",
+      "issueTitle": "管理员创建领地不扣费",
+      "url": "https://github.com/USFrameTeam/Unknown-Server-Framework/issues/89",
+      "createdAt": "2026-02-20T03:08:43.931Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
