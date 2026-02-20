@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771589934946,
+      "repository": "DeerMaximum/Technische-Alternative-CoE",
+      "issueTitle": "add integration, this Messages appers: %key:common::config_flow::error::cannot_connect%",
+      "url": "https://github.com/DeerMaximum/Technische-Alternative-CoE/issues/83",
+      "createdAt": "2026-02-20T12:18:54.946Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
