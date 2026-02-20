@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771576455181,
+      "repository": "spack/spack-packages",
+      "issueTitle": "Installation issue: `glib@2.82` configure error due to missing `gobject-introspection`",
+      "url": "https://github.com/spack/spack-packages/issues/381",
+      "createdAt": "2026-02-20T08:34:15.181Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
