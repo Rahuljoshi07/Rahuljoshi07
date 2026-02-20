@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771608069354,
+      "repository": "celbridge-org/celbridge",
+      "issueTitle": "Crash after changing system theme",
+      "url": "https://github.com/celbridge-org/celbridge/issues/635",
+      "createdAt": "2026-02-20T17:21:09.354Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
