@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771616321015,
-      "repository": "remittor/zapret-openwrt",
-      "issueTitle": "[FEATURE] Возврат TPWS модуля (пакета) в новые сборки Zapret(v1)",
-      "url": "https://github.com/remittor/zapret-openwrt/issues/728",
-      "createdAt": "2026-02-20T19:38:41.015Z",
+      "id": 1771616389867,
+      "repository": "npm/npm-packlist",
+      "issueTitle": "[BUG] Package tarballs are included by default",
+      "url": "https://github.com/npm/npm-packlist/issues/174",
+      "createdAt": "2026-02-20T19:39:49.867Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
