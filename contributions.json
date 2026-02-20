@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771553156240,
+      "id": 1771553206214,
       "repository": "avifenesh/agentsys",
       "issueTitle": "feat: task-discoverer should skip issues that already have an open PR",
       "url": "https://github.com/avifenesh/agentsys/issues/236",
-      "createdAt": "2026-02-20T02:05:56.240Z",
+      "createdAt": "2026-02-20T02:06:46.214Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
