@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771549040197,
+      "repository": "nextcloud/forms",
+      "issueTitle": "Unable to link results to sheets",
+      "url": "https://github.com/nextcloud/forms/issues/3175",
+      "createdAt": "2026-02-20T00:57:20.197Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
