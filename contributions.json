@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771583536701,
+      "repository": "beatrizsmerino/vue-todolist",
+      "issueTitle": "fix(prettier): add config files to `prettier:fix` script",
+      "url": "https://github.com/beatrizsmerino/vue-todolist/issues/993",
+      "createdAt": "2026-02-20T10:32:16.701Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
