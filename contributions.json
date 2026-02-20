@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771578603413,
+      "repository": "lava-sh/yaml-rs",
+      "issueTitle": "Incorrect conversion of a large integer to a float",
+      "url": "https://github.com/lava-sh/yaml-rs/issues/68",
+      "createdAt": "2026-02-20T09:10:03.414Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
