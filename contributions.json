@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771572954903,
+      "repository": "FaserF/ha-db_infoscreen",
+      "issueTitle": "[Bug]: With KVV I only get 1-3 (max) entries",
+      "url": "https://github.com/FaserF/ha-db_infoscreen/issues/101",
+      "createdAt": "2026-02-20T07:35:54.903Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
