@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771601040588,
+      "repository": "digitalfabrik/opendrift-leeway-webgui",
+      "issueTitle": "Plotting fails du to axis limits",
+      "url": "https://github.com/digitalfabrik/opendrift-leeway-webgui/issues/109",
+      "createdAt": "2026-02-20T15:24:00.588Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
