@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1771610362411,
-      "repository": "okta/okta-signin-widget",
-      "issueTitle": "Intermittent ERR_HTTP2_PROTOCOL_ERROR causing \"Failed to fetch\" across multiple IDX endpoints in Sign-In Widget",
-      "url": "https://github.com/okta/okta-signin-widget/issues/3963",
-      "createdAt": "2026-02-20T17:59:22.411Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
