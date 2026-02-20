@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771623872675,
+      "repository": "box/box-ui-elements",
+      "issueTitle": "[Uploader] Unable to re-add an individual file that has been cancelled.",
+      "url": "https://github.com/box/box-ui-elements/issues/4395",
+      "createdAt": "2026-02-20T21:44:32.675Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
