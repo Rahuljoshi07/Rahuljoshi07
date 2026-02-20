@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771590990200,
+      "repository": "specklesystems/speckle-blender",
+      "issueTitle": "3.2 issue : attempted relative import beyond top-level package",
+      "url": "https://github.com/specklesystems/speckle-blender/issues/270",
+      "createdAt": "2026-02-20T12:36:30.200Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
