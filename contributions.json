@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771605556570,
+      "repository": "mikemccand/luceneutil",
+      "issueTitle": "Use the Cohere metadata (title, text, URL) to help debugging/understanding vector search",
+      "url": "https://github.com/mikemccand/luceneutil/issues/534",
+      "createdAt": "2026-02-20T16:39:16.570Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
