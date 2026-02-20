@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771568134897,
+      "repository": "Rishabh-Bajpai/Chanakya-Local-Friend",
+      "issueTitle": "[Bug]: Python dependencies broken",
+      "url": "https://github.com/Rishabh-Bajpai/Chanakya-Local-Friend/issues/22",
+      "createdAt": "2026-02-20T06:15:34.897Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
