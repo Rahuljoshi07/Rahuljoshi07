@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771641363155,
+      "repository": "sidequery/sidemantic",
+      "issueTitle": "time_comparison over YTD ratio/derived metrics fails when base metric depends on cumulative metrics",
+      "url": "https://github.com/sidequery/sidemantic/issues/77",
+      "createdAt": "2026-02-21T02:36:03.155Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
