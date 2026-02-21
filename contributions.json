@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771645756993,
+      "repository": "Gooichand/blockchain-evidence",
+      "issueTitle": "Refresh Users button in Admin panel fails with \"Error loading requests\"",
+      "url": "https://github.com/Gooichand/blockchain-evidence/issues/247",
+      "createdAt": "2026-02-21T03:49:16.993Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
