@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771685851924,
+      "repository": "pierreb-devkit/Node",
+      "issueTitle": "refactor(errors): harden responses.error/getMessage contract and prevent internal error leakage",
+      "url": "https://github.com/pierreb-devkit/Node/issues/3139",
+      "createdAt": "2026-02-21T14:57:31.924Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
