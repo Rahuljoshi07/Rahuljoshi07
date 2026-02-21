@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771633256184,
+      "repository": "Lexonight1/thermalright-trcc-linux",
+      "issueTitle": "[BUG] No send to GUI - Trofeo Vision",
+      "url": "https://github.com/Lexonight1/thermalright-trcc-linux/issues/34",
+      "createdAt": "2026-02-21T00:20:56.184Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
