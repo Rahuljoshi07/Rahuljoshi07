@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771696116495,
+      "repository": "Nikhilrsingh/car-transport-service",
+      "issueTitle": "[Bug]: Statistics counters on Enquiry page showing \"NaN\"",
+      "url": "https://github.com/Nikhilrsingh/car-transport-service/issues/1058",
+      "createdAt": "2026-02-21T17:48:36.495Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
