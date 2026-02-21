@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771643174705,
+      "repository": "earthians/marley",
+      "issueTitle": "When Show Title in Link Fields is checked for the Patient Doctype, Get Items From Healthcare Services fails in invoicing",
+      "url": "https://github.com/earthians/marley/issues/919",
+      "createdAt": "2026-02-21T03:06:14.705Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
