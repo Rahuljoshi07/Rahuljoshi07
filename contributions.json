@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771691422715,
+      "repository": "stanus74/home-assistant-saj-h2-modbus",
+      "issueTitle": "[Bug] - controlling passive mode broken since around v2.8.0",
+      "url": "https://github.com/stanus74/home-assistant-saj-h2-modbus/issues/157",
+      "createdAt": "2026-02-21T16:30:22.715Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
