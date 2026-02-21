@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771697487579,
+      "repository": "cpburnz/python-pathspec",
+      "issueTitle": "Pathspec fails to match directories if they don't end with a slash",
+      "url": "https://github.com/cpburnz/python-pathspec/issues/89",
+      "createdAt": "2026-02-21T18:11:27.579Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
