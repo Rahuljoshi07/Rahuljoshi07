@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771680187951,
+      "repository": "gmlarumbe/tree-sitter-systemverilog",
+      "issueTitle": "Parsing error in expression with method calls within part select",
+      "url": "https://github.com/gmlarumbe/tree-sitter-systemverilog/issues/35",
+      "createdAt": "2026-02-21T13:23:07.951Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
