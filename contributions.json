@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771642486658,
+      "repository": "khanlab/snakebids",
+      "issueTitle": "Validate and reject `None` values in filter configurations",
+      "url": "https://github.com/khanlab/snakebids/issues/514",
+      "createdAt": "2026-02-21T02:54:46.658Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
