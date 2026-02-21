@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771666172292,
+      "repository": "celbridge-org/celbridge",
+      "issueTitle": "Opening Celbridge v.0.2.4 for the first time opens and upgrades the last project without prompting the User",
+      "url": "https://github.com/celbridge-org/celbridge/issues/623",
+      "createdAt": "2026-02-21T09:29:32.292Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
