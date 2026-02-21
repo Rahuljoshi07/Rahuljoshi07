@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771696390061,
+      "repository": "hvlads/django-ckeditor-5",
+      "issueTitle": "Image upload does not work with CSRF_COOKIE_HTTPONLY=True",
+      "url": "https://github.com/hvlads/django-ckeditor-5/issues/310",
+      "createdAt": "2026-02-21T17:53:10.061Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
