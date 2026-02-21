@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771678796526,
+      "repository": "ndokter/dsmr_parser",
+      "issueTitle": "UnicodeDecodeError: 'ascii' codec can't decode byte 0xff in position 140: ordinal not in range(128)",
+      "url": "https://github.com/ndokter/dsmr_parser/issues/80",
+      "createdAt": "2026-02-21T12:59:56.527Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
