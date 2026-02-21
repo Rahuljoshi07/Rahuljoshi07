@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771671846860,
+      "repository": "okorach/sonar-tools",
+      "issueTitle": "`sonar-findings-sync` only considers the first 10K issues of the target project when the project is on SonarCloud",
+      "url": "https://github.com/okorach/sonar-tools/issues/2269",
+      "createdAt": "2026-02-21T11:04:06.861Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
