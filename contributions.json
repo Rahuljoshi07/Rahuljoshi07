@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771655059900,
+      "repository": "Video-Reason/VBVR-EvalKit",
+      "issueTitle": "[bug]  Solution may affect accuracy",
+      "url": "https://github.com/Video-Reason/VBVR-EvalKit/issues/179",
+      "createdAt": "2026-02-21T06:24:19.901Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
