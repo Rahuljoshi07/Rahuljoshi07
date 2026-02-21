@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771645427628,
+      "repository": "djust-org/djust",
+      "issueTitle": "djust.T003 check fires false positives for templates using {% include %} for non-LiveView content (SVG sprites, modals)",
+      "url": "https://github.com/djust-org/djust/issues/331",
+      "createdAt": "2026-02-21T03:43:47.629Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
