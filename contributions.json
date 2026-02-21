@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771697145526,
+      "repository": "weizhenye/ASS",
+      "issueTitle": "Cannot see a 1 line with 2 dots in the ass player",
+      "url": "https://github.com/weizhenye/ASS/issues/55",
+      "createdAt": "2026-02-21T18:05:45.526Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
