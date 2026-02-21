@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771675428103,
+      "repository": "versun/RSSBox",
+      "issueTitle": "[Bug]: database is locked",
+      "url": "https://github.com/versun/RSSBox/issues/147",
+      "createdAt": "2026-02-21T12:03:48.103Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
