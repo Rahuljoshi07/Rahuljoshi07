@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771687795287,
+      "repository": "chris48s/v8r",
+      "issueTitle": "Replace mocha and c8 with native node test runner",
+      "url": "https://github.com/chris48s/v8r/issues/503",
+      "createdAt": "2026-02-21T15:29:55.287Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
