@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771637873771,
+      "repository": "djust-org/djust",
+      "issueTitle": "LiveViewConsumer.handle_mount() should call _ensure_tenant() before mount()",
+      "url": "https://github.com/djust-org/djust/issues/342",
+      "createdAt": "2026-02-21T01:37:53.771Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
