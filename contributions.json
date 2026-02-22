@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771756835632,
+      "repository": "Haohao-end/LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents",
+      "issueTitle": "Fix Host Header Poisoning by Avoiding Forwarding Unvalidated $host in Nginx Proxy Configuration",
+      "url": "https://github.com/Haohao-end/LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents/issues/67",
+      "createdAt": "2026-02-22T10:40:35.632Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
