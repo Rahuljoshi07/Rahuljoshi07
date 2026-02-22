@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771737124995,
+      "repository": "cylc/cylc-ui",
+      "issueTitle": "aotf: consider allowing the list of configured commands to be modified",
+      "url": "https://github.com/cylc/cylc-ui/issues/2483",
+      "createdAt": "2026-02-22T05:12:04.995Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
