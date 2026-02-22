@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771755939922,
+      "repository": "jt196/vanilla-cookbook",
+      "issueTitle": "Search is still a bit janky",
+      "url": "https://github.com/jt196/vanilla-cookbook/issues/355",
+      "createdAt": "2026-02-22T10:25:39.922Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
