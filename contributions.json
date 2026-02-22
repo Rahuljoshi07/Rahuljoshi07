@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771767988257,
+      "repository": "surenkov/django-pydantic-field",
+      "issueTitle": "Examine the possible ways to integrate with `drf-spectacular`",
+      "url": "https://github.com/surenkov/django-pydantic-field/issues/44",
+      "createdAt": "2026-02-22T13:46:28.257Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
