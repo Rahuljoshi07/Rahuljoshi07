@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771755159641,
+      "repository": "playcanvas/pcui-graph",
+      "issueTitle": "\"Uncaught TypeError\" occurred if calling the constructor with \"options\" object containing no \"defaultStyles\" property.",
+      "url": "https://github.com/playcanvas/pcui-graph/issues/95",
+      "createdAt": "2026-02-22T10:12:39.641Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
