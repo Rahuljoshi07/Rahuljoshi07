@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771744367068,
+      "id": 1771744436205,
       "repository": "zylos-ai/zylos-core",
-      "issueTitle": "activity-monitor: Skip Claude startup if not logged in",
-      "url": "https://github.com/zylos-ai/zylos-core/issues/23",
-      "createdAt": "2026-02-22T07:12:47.068Z",
+      "issueTitle": "Activity Monitor: fix startupGrace bypass, add exponential backoff and exit logging",
+      "url": "https://github.com/zylos-ai/zylos-core/issues/131",
+      "createdAt": "2026-02-22T07:13:56.206Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
     }
   ],
   "stats": {
