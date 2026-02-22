@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771749777702,
+      "repository": "physicshub/physicshub.github.io",
+      "issueTitle": "[Bug]: In BallAcceleration ball is laggy and it goes in spurts",
+      "url": "https://github.com/physicshub/physicshub.github.io/issues/195",
+      "createdAt": "2026-02-22T08:42:57.702Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
