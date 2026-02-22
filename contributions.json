@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771726750961,
+      "repository": "jgraph/drawio-nextcloud",
+      "issueTitle": "Unable to be used on Nextcloud 33",
+      "url": "https://github.com/jgraph/drawio-nextcloud/issues/120",
+      "createdAt": "2026-02-22T02:19:10.961Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
