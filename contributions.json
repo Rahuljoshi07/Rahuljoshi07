@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771737536444,
+      "repository": "UEWBot/dipvis",
+      "issueTitle": "Non-standard games in WDD aren't all skipped when adding player background",
+      "url": "https://github.com/UEWBot/dipvis/issues/32",
+      "createdAt": "2026-02-22T05:18:56.444Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
