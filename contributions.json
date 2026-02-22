@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771724490917,
-      "repository": "primefaces-extensions/primefaces-extensions",
-      "issueTitle": "Migrate to PrimeFaces CDK",
-      "url": "https://github.com/primefaces-extensions/primefaces-extensions/issues/2193",
-      "createdAt": "2026-02-22T01:41:30.917Z",
+      "id": 1771724546318,
+      "repository": "okTurtles/group-income",
+      "issueTitle": "Odd Heisenbug: very high memory usage",
+      "url": "https://github.com/okTurtles/group-income/issues/3022",
+      "createdAt": "2026-02-22T01:42:26.318Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
