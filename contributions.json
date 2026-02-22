@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771732923785,
+      "repository": "modelscope/sirchmunk",
+      "issueTitle": "bug: 配置保存覆盖 API 密钥为 *** & 重启服务数据清空",
+      "url": "https://github.com/modelscope/sirchmunk/issues/56",
+      "createdAt": "2026-02-22T04:02:03.785Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
