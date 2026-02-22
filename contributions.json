@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771737239559,
+      "repository": "MarcSkovMadsen/holoviz-mcp",
+      "issueTitle": "Installation error",
+      "url": "https://github.com/MarcSkovMadsen/holoviz-mcp/issues/146",
+      "createdAt": "2026-02-22T05:13:59.559Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
