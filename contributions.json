@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771750733149,
+      "repository": "physicshub/physicshub.github.io",
+      "issueTitle": "[Bug]: In BallAcceleration ball is laggy and it goes in spurts",
+      "url": "https://github.com/physicshub/physicshub.github.io/issues/195",
+      "createdAt": "2026-02-22T08:58:53.149Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
