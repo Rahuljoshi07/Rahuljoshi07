@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771732296142,
+      "repository": "larajax/larajax",
+      "issueTitle": "Bug: data-bs-toggle on <a> elements silently prevents data-request AJAX from firing",
+      "url": "https://github.com/larajax/larajax/issues/6",
+      "createdAt": "2026-02-22T03:51:36.142Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
