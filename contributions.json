@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771741896446,
-      "repository": "zylos-ai/zylos-core",
-      "issueTitle": "Activity Monitor: fix startupGrace bypass, add exponential backoff and exit logging",
-      "url": "https://github.com/zylos-ai/zylos-core/issues/131",
-      "createdAt": "2026-02-22T06:31:36.446Z",
+      "id": 1771741922988,
+      "repository": "dasher-project/dasher-web",
+      "issueTitle": "speechSynthesis.speak() without user activation is no longer allowed",
+      "url": "https://github.com/dasher-project/dasher-web/issues/102",
+      "createdAt": "2026-02-22T06:32:02.988Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
