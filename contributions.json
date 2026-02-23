@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771860249182,
+      "repository": "joyfulhouse/eg4_web_monitor",
+      "issueTitle": "Beta 34 Modbus Read Errors",
+      "url": "https://github.com/joyfulhouse/eg4_web_monitor/issues/165",
+      "createdAt": "2026-02-23T15:24:09.183Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
