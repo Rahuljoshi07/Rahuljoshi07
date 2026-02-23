@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771858027466,
+      "repository": "Pure-Web-Foundation/pure-ds",
+      "issueTitle": "Text size does not respond to browser font size preference",
+      "url": "https://github.com/Pure-Web-Foundation/pure-ds/issues/9",
+      "createdAt": "2026-02-23T14:47:07.466Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
