@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771823644684,
+      "repository": "hotosm/tasking-manager",
+      "issueTitle": "[BUG] Missing star indicator next to the user name and unable to filter users by status",
+      "url": "https://github.com/hotosm/tasking-manager/issues/7053",
+      "createdAt": "2026-02-23T05:14:04.684Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
