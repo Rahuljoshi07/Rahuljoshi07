@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771822033279,
+      "repository": "SREGym/SREGym",
+      "issueTitle": "Agent can still see chaos namespaces -- proxy no longer working",
+      "url": "https://github.com/SREGym/SREGym/issues/579",
+      "createdAt": "2026-02-23T04:47:13.280Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
