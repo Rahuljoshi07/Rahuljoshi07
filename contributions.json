@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771849993793,
+      "repository": "LivelyKernel/lively.next",
+      "issueTitle": "install uses deprecated node --no-experimental-fetch",
+      "url": "https://github.com/LivelyKernel/lively.next/issues/1778",
+      "createdAt": "2026-02-23T12:33:13.793Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. (Suggested by..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
