@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771814173699,
+      "repository": "autogame-17/evolver",
+      "issueTitle": "[Bug] openclaw upgrade clears evolver skill directory",
+      "url": "https://github.com/autogame-17/evolver/issues/89",
+      "createdAt": "2026-02-23T02:36:13.699Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
