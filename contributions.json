@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771849522735,
+      "repository": "iobroker-community-adapters/ioBroker.chromecast",
+      "issueTitle": "bug: TypeError \"Cannot read properties of null (reading 'socket')\" when device goes to standby",
+      "url": "https://github.com/iobroker-community-adapters/ioBroker.chromecast/issues/474",
+      "createdAt": "2026-02-23T12:25:22.735Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
