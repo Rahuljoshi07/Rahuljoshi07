@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771851092475,
+      "repository": "kai687/sphinxawesome-theme",
+      "issueTitle": "Copy button moves when scrolling in parsed literals",
+      "url": "https://github.com/kai687/sphinxawesome-theme/issues/2160",
+      "createdAt": "2026-02-23T12:51:32.475Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
