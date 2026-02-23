@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771835304005,
+      "repository": "OCSInventory-NG/OCSInventory-ocsreports",
+      "issueTitle": "[BUG] Cve, the exact string is never matched for minor version",
+      "url": "https://github.com/OCSInventory-NG/OCSInventory-ocsreports/issues/1681",
+      "createdAt": "2026-02-23T08:28:24.005Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
