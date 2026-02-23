@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771856288809,
+      "repository": "ApiLogicServer/ApiLogicServer-src",
+      "issueTitle": "genai-create-app created empty app.js",
+      "url": "https://github.com/ApiLogicServer/ApiLogicServer-src/issues/108",
+      "createdAt": "2026-02-23T14:18:08.809Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask,..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
