@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771856854728,
+      "repository": "roi007leaf/pf2e-visioner",
+      "issueTitle": "Apply Changes Button Doesn't Take Into Account Sneak Start and End Cover",
+      "url": "https://github.com/roi007leaf/pf2e-visioner/issues/266",
+      "createdAt": "2026-02-23T14:27:34.728Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
