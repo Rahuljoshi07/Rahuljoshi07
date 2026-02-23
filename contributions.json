@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771848645063,
+      "repository": "XMOJ-Script-dev/XMOJ-Script",
+      "issueTitle": "[Bug] 复制题解应包括图片链接",
+      "url": "https://github.com/XMOJ-Script-dev/XMOJ-Script/issues/448",
+      "createdAt": "2026-02-23T12:10:45.063Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
