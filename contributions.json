@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771845722801,
+      "repository": "adapt-security/adapt-authoring",
+      "issueTitle": "Course preview image cannot be deleted",
+      "url": "https://github.com/adapt-security/adapt-authoring/issues/648",
+      "createdAt": "2026-02-23T11:22:02.801Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
