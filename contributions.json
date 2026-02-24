@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771918656642,
+      "repository": "moo-man/WFRP4e-FoundryVTT",
+      "issueTitle": "[WFRP4e System] End Round script from Fear condition does not called for muliple actors in combat",
+      "url": "https://github.com/moo-man/WFRP4e-FoundryVTT/issues/2717",
+      "createdAt": "2026-02-24T07:37:36.642Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
