@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771923823779,
+      "repository": "IntelPython/dpnp",
+      "issueTitle": "indexing bug: wrong in-place updates for 4D arrays with paired integer indices",
+      "url": "https://github.com/IntelPython/dpnp/issues/2783",
+      "createdAt": "2026-02-24T09:03:43.779Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
