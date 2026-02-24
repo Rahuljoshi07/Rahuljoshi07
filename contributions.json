@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771976636987,
+      "repository": "scidsg/hushline",
+      "issueTitle": "Extra fields should not exist in numbered fields like `field_1`, `field_2`, etc.",
+      "url": "https://github.com/scidsg/hushline/issues/559",
+      "createdAt": "2026-02-24T23:43:56.987Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
