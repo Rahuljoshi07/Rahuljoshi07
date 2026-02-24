@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771900349534,
+      "repository": "scidsg/hushline",
+      "issueTitle": "Authentication logic could permit inactive/deleted users to continue using their account",
+      "url": "https://github.com/scidsg/hushline/issues/571",
+      "createdAt": "2026-02-24T02:32:29.534Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
