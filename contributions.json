@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771965196158,
+      "repository": "mediacloud/web-search",
+      "issueTitle": "Input for converting a source into an Alternative Domain loses focus after each input",
+      "url": "https://github.com/mediacloud/web-search/issues/1268",
+      "createdAt": "2026-02-24T20:33:16.158Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
