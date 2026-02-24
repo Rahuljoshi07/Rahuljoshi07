@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771951288063,
+      "repository": "kedro-org/kedro-viz",
+      "issueTitle": "React component makes failed request to `/api/version` when embedded",
+      "url": "https://github.com/kedro-org/kedro-viz/issues/2378",
+      "createdAt": "2026-02-24T16:41:28.063Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
