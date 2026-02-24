@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771938430273,
+      "repository": "chadbyte/claude-relay",
+      "issueTitle": "bug: /context token count calculation is inaccurate",
+      "url": "https://github.com/chadbyte/claude-relay/issues/137",
+      "createdAt": "2026-02-24T13:07:10.273Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
