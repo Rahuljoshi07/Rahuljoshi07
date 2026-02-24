@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771901825991,
+      "repository": "atlassian/atlassian-mcp-server",
+      "issueTitle": "CORS error since 18th/19th of February 2026",
+      "url": "https://github.com/atlassian/atlassian-mcp-server/issues/74",
+      "createdAt": "2026-02-24T02:57:05.991Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
