@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771944790176,
-      "repository": "elastic/apm-agent-nodejs",
-      "issueTitle": "AWS Lambda support does not work with `nodejs24.x` Lambda runtime",
-      "url": "https://github.com/elastic/apm-agent-nodejs/issues/4972",
-      "createdAt": "2026-02-24T14:53:10.176Z",
+      "id": 1771944855331,
+      "repository": "ys-j/YoutubeLiveChatFlusher",
+      "issueTitle": "文字サイズ（行数）指定が「0行」になってしまう",
+      "url": "https://github.com/ys-j/YoutubeLiveChatFlusher/issues/47",
+      "createdAt": "2026-02-24T14:54:15.332Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
