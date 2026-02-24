@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771938195779,
+      "repository": "angelabera/ShareBite",
+      "issueTitle": "[BUG] Alert message of \"Failed to connect to database\" not visible in light mode in Listing Page",
+      "url": "https://github.com/angelabera/ShareBite/issues/591",
+      "createdAt": "2026-02-24T13:03:15.779Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
