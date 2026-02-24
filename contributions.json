@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771942062684,
+      "repository": "ROCm/TheRock",
+      "issueTitle": "[issue] Build failure: cannot import name 'setup' from 'setuptools'",
+      "url": "https://github.com/ROCm/TheRock/issues/3513",
+      "createdAt": "2026-02-24T14:07:42.684Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
