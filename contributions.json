@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771928329203,
-      "repository": "nsacyber/HIRS",
-      "issueTitle": "Fix JavaDocs Generation Error",
-      "url": "https://github.com/nsacyber/HIRS/issues/1101",
-      "createdAt": "2026-02-24T10:18:49.203Z",
+      "id": 1771928395916,
+      "repository": "langchain-ai/langchain-snowflake",
+      "issueTitle": "[BUG] API errors are silently swallowed and returned as `AIMessage.content` instead of being raised as exceptions",
+      "url": "https://github.com/langchain-ai/langchain-snowflake/issues/45",
+      "createdAt": "2026-02-24T10:19:55.916Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
