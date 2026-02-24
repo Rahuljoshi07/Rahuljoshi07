@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771933517098,
+      "repository": "gregzaal/HDR-Merge-Master",
+      "issueTitle": "ZeroDivisionError",
+      "url": "https://github.com/gregzaal/HDR-Merge-Master/issues/10",
+      "createdAt": "2026-02-24T11:45:17.098Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
