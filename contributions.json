@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771966586353,
+      "repository": "iobroker-community-adapters/ioBroker.shelly",
+      "issueTitle": "[SENTRY] Error: Connection is closed.",
+      "url": "https://github.com/iobroker-community-adapters/ioBroker.shelly/issues/1360",
+      "createdAt": "2026-02-24T20:56:26.353Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
