@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771970631376,
+      "repository": "djust-org/djust",
+      "issueTitle": "Follow-up: propagate in_tag_context through elif chains in attribute values",
+      "url": "https://github.com/djust-org/djust/issues/382",
+      "createdAt": "2026-02-24T22:03:51.376Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
