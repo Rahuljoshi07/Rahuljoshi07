@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771972490387,
+      "repository": "USEPA/pyaqsapi",
+      "issueTitle": "pyaqsapi generating incorrect bdate parameter in bystate.monitors function, and runs slower than RAQSAPI",
+      "url": "https://github.com/USEPA/pyaqsapi/issues/27",
+      "createdAt": "2026-02-24T22:34:50.387Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
