@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771904584871,
+      "repository": "the-hideout/tarkov-dev",
+      "issueTitle": "Remote Control feature no longer working",
+      "url": "https://github.com/the-hideout/tarkov-dev/issues/1235",
+      "createdAt": "2026-02-24T03:43:04.871Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
