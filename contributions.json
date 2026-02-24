@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771933450805,
+      "repository": "opensource-observer/oso",
+      "issueTitle": "Investigate why `feature-flags` did not apply for `queries`",
+      "url": "https://github.com/opensource-observer/oso/issues/6720",
+      "createdAt": "2026-02-24T11:44:10.805Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
