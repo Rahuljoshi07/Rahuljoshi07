@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771898761368,
+      "repository": "Azure-Samples/functions-markdown-agent",
+      "issueTitle": "Timer trigger not registered and tool discovery fails on Flex Consumption due to path resolution issues",
+      "url": "https://github.com/Azure-Samples/functions-markdown-agent/issues/3",
+      "createdAt": "2026-02-24T02:06:01.368Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
