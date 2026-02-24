@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771969037545,
+      "repository": "npm/git",
+      "issueTitle": "[BUG] Cannot install git package without HEAD ref",
+      "url": "https://github.com/npm/git/issues/116",
+      "createdAt": "2026-02-24T21:37:17.545Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
