@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771955417878,
+      "repository": "NVIDIA-AI-Blueprints/3d-object-generation",
+      "issueTitle": "[BUG]: TRELLIS_READY LLM service not ready yet...",
+      "url": "https://github.com/NVIDIA-AI-Blueprints/3d-object-generation/issues/29",
+      "createdAt": "2026-02-24T17:50:17.878Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
