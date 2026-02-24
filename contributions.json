@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771975590910,
+      "repository": "Confuzu/CivitAI-Model-grabber",
+      "issueTitle": "[Bug] Model names conflict - download skipped",
+      "url": "https://github.com/Confuzu/CivitAI-Model-grabber/issues/29",
+      "createdAt": "2026-02-24T23:26:30.910Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
