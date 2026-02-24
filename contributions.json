@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771917591179,
+      "repository": "mother-of-all-self-hosting/mash-playbook",
+      "issueTitle": "Mumble not working with MASH - SSL Certificate Error",
+      "url": "https://github.com/mother-of-all-self-hosting/mash-playbook/issues/1974",
+      "createdAt": "2026-02-24T07:19:51.180Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
