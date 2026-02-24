@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771920971840,
+      "repository": "Lihu-PR/File-Rocket",
+      "issueTitle": "[Bug] OpenWrt Docker 内网环境下内存流式传输模式不可用",
+      "url": "https://github.com/Lihu-PR/File-Rocket/issues/2",
+      "createdAt": "2026-02-24T08:16:11.840Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
