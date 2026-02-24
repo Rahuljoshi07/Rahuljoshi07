@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771915678999,
+      "repository": "aws-neuron/nkipy",
+      "issueTitle": "Spike sometimes crash on delete",
+      "url": "https://github.com/aws-neuron/nkipy/issues/23",
+      "createdAt": "2026-02-24T06:47:59.000Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
