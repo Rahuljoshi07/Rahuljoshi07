@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1771949093786,
+      "id": 1771949143916,
       "repository": "hoeci/sort-play",
-      "issueTitle": "Podcast playlist isn't working",
-      "url": "https://github.com/hoeci/sort-play/issues/100",
-      "createdAt": "2026-02-24T16:04:53.786Z",
+      "issueTitle": "Exclude From Playlist Bug?",
+      "url": "https://github.com/hoeci/sort-play/issues/109",
+      "createdAt": "2026-02-24T16:05:43.916Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
