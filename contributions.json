@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771931076670,
+      "repository": "canonical/pgbouncer-k8s-operator",
+      "issueTitle": "Units degrades into a perpetual error state with no Pebble plan",
+      "url": "https://github.com/canonical/pgbouncer-k8s-operator/issues/667",
+      "createdAt": "2026-02-24T11:04:36.670Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
