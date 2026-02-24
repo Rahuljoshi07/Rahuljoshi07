@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771897823173,
+      "repository": "typeddjango/djangorestframework-stubs",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/typeddjango/djangorestframework-stubs/issues/868",
+      "createdAt": "2026-02-24T01:50:23.173Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
