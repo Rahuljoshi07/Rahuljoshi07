@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771909122177,
+      "repository": "SoumyaMishra-7/WalletWise",
+      "issueTitle": "Multi-Part File Size Limiting & Error Handling (Backend)",
+      "url": "https://github.com/SoumyaMishra-7/WalletWise/issues/289",
+      "createdAt": "2026-02-24T04:58:42.178Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
