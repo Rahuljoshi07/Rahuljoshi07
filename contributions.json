@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771897684670,
+      "repository": "nextcloud/richdocuments",
+      "issueTitle": "[Bug]: after Nextcloud 33 Update -> Colabora Office & .md files could not opened from encrypted team folders",
+      "url": "https://github.com/nextcloud/richdocuments/issues/5430",
+      "createdAt": "2026-02-24T01:48:04.670Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
