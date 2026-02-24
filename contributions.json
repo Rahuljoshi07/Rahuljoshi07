@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771925268992,
+      "repository": "kubewarden/docs",
+      "issueTitle": "Documentation improvements as per CNCF recommendations",
+      "url": "https://github.com/kubewarden/docs/issues/477",
+      "createdAt": "2026-02-24T09:27:48.992Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
