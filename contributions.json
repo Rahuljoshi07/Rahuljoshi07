@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771962749086,
+      "repository": "AlanBaade/LatentForcing",
+      "issueTitle": "Bug: Undefined variable 'm' in DenoiserCoT.forward",
+      "url": "https://github.com/AlanBaade/LatentForcing/issues/1",
+      "createdAt": "2026-02-24T19:52:29.086Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
