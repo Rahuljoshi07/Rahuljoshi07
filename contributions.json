@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771952135658,
+      "repository": "elastic/apm-agent-nodejs",
+      "issueTitle": "AWS Lambda support does not work with `nodejs24.x` Lambda runtime",
+      "url": "https://github.com/elastic/apm-agent-nodejs/issues/4972",
+      "createdAt": "2026-02-24T16:55:35.658Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
