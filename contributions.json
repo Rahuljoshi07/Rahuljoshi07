@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771918125694,
+      "repository": "gustaveroussy/sopa",
+      "issueTitle": "[Bug] pkg_resources",
+      "url": "https://github.com/gustaveroussy/sopa/issues/387",
+      "createdAt": "2026-02-24T07:28:45.694Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
