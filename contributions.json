@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771921359755,
+      "repository": "wamich/personal-vocabulary",
+      "issueTitle": "旧数据有没有办法迁移呢",
+      "url": "https://github.com/wamich/personal-vocabulary/issues/5",
+      "createdAt": "2026-02-24T08:22:39.755Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
