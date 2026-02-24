@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771927944982,
+      "repository": "C2DH/journal-of-digital-history",
+      "issueTitle": "[Fix] Fix the height of the iframes in the outputs",
+      "url": "https://github.com/C2DH/journal-of-digital-history/issues/956",
+      "createdAt": "2026-02-24T10:12:24.982Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
