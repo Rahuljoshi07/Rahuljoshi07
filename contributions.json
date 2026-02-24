@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771943201004,
+      "repository": "bcmi/DreamCom-Image-Composition",
+      "issueTitle": "Couldn't connect to the Hub: 401 Client Error",
+      "url": "https://github.com/bcmi/DreamCom-Image-Composition/issues/5",
+      "createdAt": "2026-02-24T14:26:41.004Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
