@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771899781675,
+      "repository": "academy-agents/academy",
+      "issueTitle": "ActionResponse validation failure results in hang not error",
+      "url": "https://github.com/academy-agents/academy/issues/337",
+      "createdAt": "2026-02-24T02:23:01.675Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
