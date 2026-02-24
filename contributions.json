@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771907016539,
+      "repository": "snowflakedb/ArcticInference",
+      "issueTitle": "RPC timeout error after 5 min hang with speculative config arctic-suffix=True",
+      "url": "https://github.com/snowflakedb/ArcticInference/issues/250",
+      "createdAt": "2026-02-24T04:23:36.539Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
