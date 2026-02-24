@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771941693536,
+      "repository": "macxq/foxess-ha",
+      "issueTitle": "Bug Report: FoxESS Integration - random_user_agent Package Installation Failure",
+      "url": "https://github.com/macxq/foxess-ha/issues/341",
+      "createdAt": "2026-02-24T14:01:33.536Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
