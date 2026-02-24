@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771904119385,
+      "repository": "P1sec/MCC_MNC",
+      "issueTitle": "parse_wikipedia_tables.py - running into AssertionError",
+      "url": "https://github.com/P1sec/MCC_MNC/issues/5",
+      "createdAt": "2026-02-24T03:35:19.385Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
