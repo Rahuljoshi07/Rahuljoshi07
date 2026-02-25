@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771989588528,
+      "repository": "nexi-lab/nexus",
+      "issueTitle": "/api/v2/operations returns 500: record_store attribute mismatch",
+      "url": "https://github.com/nexi-lab/nexus/issues/2589",
+      "createdAt": "2026-02-25T03:19:48.528Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
