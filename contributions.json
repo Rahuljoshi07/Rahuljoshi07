@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772033937800,
+      "repository": "pocketpaw/pocketpaw",
+      "issueTitle": "File permission checks fail because chmod(0o600) does not enforce POSIX-style permissions on NTFS",
+      "url": "https://github.com/pocketpaw/pocketpaw/issues/279",
+      "createdAt": "2026-02-25T15:38:57.800Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
