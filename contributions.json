@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771983230969,
+      "repository": "kubeflow/sdk",
+      "issueTitle": "Built an MCP Server for Kubeflow SDK",
+      "url": "https://github.com/kubeflow/sdk/issues/238",
+      "createdAt": "2026-02-25T01:33:50.969Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
