@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772017871192,
+      "repository": "angelabera/ShareBite",
+      "issueTitle": "[BUG] Dark mode background inconsistency due to missing variable override",
+      "url": "https://github.com/angelabera/ShareBite/issues/601",
+      "createdAt": "2026-02-25T11:11:11.192Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
