@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771985649529,
+      "repository": "OWASP/Nest",
+      "issueTitle": "bug: Chapter.bulk_save() skips location data generation due to save() side effects",
+      "url": "https://github.com/OWASP/Nest/issues/4063",
+      "createdAt": "2026-02-25T02:14:09.529Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
