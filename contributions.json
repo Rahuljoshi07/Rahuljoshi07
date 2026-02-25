@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771991464494,
+      "repository": "gensecaihq/Wazuh-MCP-Server",
+      "issueTitle": "Multiple MCP tools incorrectly target Manager API (port 55000) instead of Indexer for data queries (404 errors)",
+      "url": "https://github.com/gensecaihq/Wazuh-MCP-Server/issues/68",
+      "createdAt": "2026-02-25T03:51:04.494Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
