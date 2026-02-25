@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771995458273,
+      "repository": "endomorphosis/ipfs_datasets_py",
+      "issueTitle": "🚨 [HIGH] Workflow Alert: .github/workflows/cli-error-monitoring-unified.yml",
+      "url": "https://github.com/endomorphosis/ipfs_datasets_py/issues/1030",
+      "createdAt": "2026-02-25T04:57:38.273Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
