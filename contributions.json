@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772003020060,
+      "repository": "toon-format/spec",
+      "issueTitle": "[RFC]: Add a keyed array format (e.g. Record<string, object>)",
+      "url": "https://github.com/toon-format/spec/issues/32",
+      "createdAt": "2026-02-25T07:03:40.060Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
