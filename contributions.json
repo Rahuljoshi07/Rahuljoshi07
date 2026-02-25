@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772028583828,
+      "repository": "avniproject/avni-client",
+      "issueTitle": "Weird behaiviour on clicking \"Previous/Back\" button of the device",
+      "url": "https://github.com/avniproject/avni-client/issues/1842",
+      "createdAt": "2026-02-25T14:09:43.828Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
