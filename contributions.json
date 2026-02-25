@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772010714232,
+      "repository": "Guepard-Corp/qwery-core",
+      "issueTitle": "🐛 [BUG] - Long to-dos are failing to persist when updated",
+      "url": "https://github.com/Guepard-Corp/qwery-core/issues/157",
+      "createdAt": "2026-02-25T09:11:54.232Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
