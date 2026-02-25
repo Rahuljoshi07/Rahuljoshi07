@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772010259326,
+      "repository": "nextcloud/forms",
+      "issueTitle": "cannot add form in rows",
+      "url": "https://github.com/nextcloud/forms/issues/3179",
+      "createdAt": "2026-02-25T09:04:19.326Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
