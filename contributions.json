@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772033230995,
+      "id": 1772033262787,
       "repository": "ethibox/ethibox",
-      "issueTitle": "Accès admin / configuration",
-      "url": "https://github.com/ethibox/ethibox/issues/111",
-      "createdAt": "2026-02-25T15:27:10.995Z",
+      "issueTitle": "ethibox throwing error duplicate key for email",
+      "url": "https://github.com/ethibox/ethibox/issues/114",
+      "createdAt": "2026-02-25T15:27:42.788Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
