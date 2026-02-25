@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771994422188,
+      "repository": "hkjarral/Asterisk-AI-Voice-Agent",
+      "issueTitle": "GPU: Run UI-path Local AI model matrix (STT/TTS) and fix remaining load failures",
+      "url": "https://github.com/hkjarral/Asterisk-AI-Voice-Agent/issues/243",
+      "createdAt": "2026-02-25T04:40:22.188Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
