@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772018687232,
+      "repository": "grommunio/grommunio-web",
+      "issueTitle": "Error 502 Bad Gateway",
+      "url": "https://github.com/grommunio/grommunio-web/issues/59",
+      "createdAt": "2026-02-25T11:24:47.232Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
