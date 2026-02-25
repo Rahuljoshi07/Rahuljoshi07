@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772006741163,
+      "repository": "gardenlinux/gardenlinux",
+      "issueTitle": "package-linux auto-backport: Make sure PRs with a version_suffix set to not trigger a package release build",
+      "url": "https://github.com/gardenlinux/gardenlinux/issues/2837",
+      "createdAt": "2026-02-25T08:05:41.163Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
