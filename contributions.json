@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1771978442610,
+      "repository": "The-AI-Alliance/deep-research-agent-for-applications",
+      "issueTitle": "[BUG] Eliminate the need for the `--provider` flag and editing the config YAML file",
+      "url": "https://github.com/The-AI-Alliance/deep-research-agent-for-applications/issues/39",
+      "createdAt": "2026-02-25T00:14:02.610Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
