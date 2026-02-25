@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772038283274,
+      "repository": "planetlabs/maps",
+      "issueTitle": "Higher level context values are not available in nested components",
+      "url": "https://github.com/planetlabs/maps/issues/765",
+      "createdAt": "2026-02-25T16:51:23.275Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
