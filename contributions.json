@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772018257358,
+      "repository": "IBM/node-sdk-core",
+      "issueTitle": "Dependence on tough-cookie@4.1 pulls in deprecated `punycode` module",
+      "url": "https://github.com/IBM/node-sdk-core/issues/294",
+      "createdAt": "2026-02-25T11:17:37.358Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
