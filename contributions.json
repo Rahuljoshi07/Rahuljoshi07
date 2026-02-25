@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772020152585,
+      "repository": "RaspberryPiFoundation/editor-ui",
+      "issueTitle": "Broken default styles in editor web component",
+      "url": "https://github.com/RaspberryPiFoundation/editor-ui/issues/1174",
+      "createdAt": "2026-02-25T11:49:12.586Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
