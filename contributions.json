@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772000765410,
+      "repository": "xarray-contrib/xarray-spatial",
+      "issueTitle": "classify.quantile: boolean fancy indexing on dask creates unknown chunks",
+      "url": "https://github.com/xarray-contrib/xarray-spatial/issues/884",
+      "createdAt": "2026-02-25T06:26:05.410Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
