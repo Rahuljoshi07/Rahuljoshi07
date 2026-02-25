@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772008061146,
+      "repository": "AllTheMods/ATM-10",
+      "issueTitle": "[Modpack Bug]: Sunken City Keeps Spawning Filled With Stone",
+      "url": "https://github.com/AllTheMods/ATM-10/issues/3873",
+      "createdAt": "2026-02-25T08:27:41.146Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
