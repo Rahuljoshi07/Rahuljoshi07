@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772024270696,
-      "repository": "zapier/zapier-platform",
-      "issueTitle": "[Bug]: zapier-platform-schema uses insecure lodash",
-      "url": "https://github.com/zapier/zapier-platform/issues/1232",
-      "createdAt": "2026-02-25T12:57:50.696Z",
+      "id": 1772024319611,
+      "repository": "bitshares/beet",
+      "issueTitle": "Bitshares proposals fail to broadcast due to package dependency issue",
+      "url": "https://github.com/bitshares/beet/issues/293",
+      "createdAt": "2026-02-25T12:58:39.611Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
