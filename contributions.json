@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772033262787,
+      "id": 1772033309712,
       "repository": "ethibox/ethibox",
       "issueTitle": "ethibox throwing error duplicate key for email",
       "url": "https://github.com/ethibox/ethibox/issues/114",
-      "createdAt": "2026-02-25T15:27:42.788Z",
+      "createdAt": "2026-02-25T15:28:29.712Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
