@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772082152790,
+      "repository": "mtgjson/mtgjson-website",
+      "issueTitle": "Maybe \"tokens\" is misplaced inside \"relatedCards\" at AllPrintings",
+      "url": "https://github.com/mtgjson/mtgjson-website/issues/670",
+      "createdAt": "2026-02-26T05:02:32.791Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
