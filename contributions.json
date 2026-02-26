@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772099890825,
+      "repository": "rancher/rancher-ai-agent",
+      "issueTitle": "[BUG] KeyError: 'namespace' in should_interrupt causing WebSocket disconnection during tool execution",
+      "url": "https://github.com/rancher/rancher-ai-agent/issues/118",
+      "createdAt": "2026-02-26T09:58:10.825Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
