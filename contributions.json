@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772112099142,
+      "repository": "sympy/sympy_benchmarks",
+      "issueTitle": "What time we expect for slow benchmark ?",
+      "url": "https://github.com/sympy/sympy_benchmarks/issues/111",
+      "createdAt": "2026-02-26T13:21:39.142Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
