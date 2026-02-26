@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772098202379,
+      "repository": "UiPath/uipath-python",
+      "issueTitle": "Eval results missing details and agent output",
+      "url": "https://github.com/UiPath/uipath-python/issues/1369",
+      "createdAt": "2026-02-26T09:30:02.379Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
