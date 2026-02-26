@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772102437688,
+      "repository": "iobroker-community-adapters/ioBroker.broadlink2",
+      "issueTitle": "Tree structure must be changed. States may not have leafs!",
+      "url": "https://github.com/iobroker-community-adapters/ioBroker.broadlink2/issues/100",
+      "createdAt": "2026-02-26T10:40:37.688Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
