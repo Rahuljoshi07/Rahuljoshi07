@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772101334924,
+      "repository": "Weisl/simple_collider",
+      "issueTitle": "Crash - when using 'Use Loose Islands' on certain assets.",
+      "url": "https://github.com/Weisl/simple_collider/issues/571",
+      "createdAt": "2026-02-26T10:22:14.924Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
