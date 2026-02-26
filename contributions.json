@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772106188147,
+      "repository": "okorach/sonar-tools",
+      "issueTitle": "`sonar-findings-export` with `--useFindings` does not export issue file",
+      "url": "https://github.com/okorach/sonar-tools/issues/2281",
+      "createdAt": "2026-02-26T11:43:08.148Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
