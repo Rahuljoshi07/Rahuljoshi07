@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772113351449,
+      "repository": "jezweb/claude-skills",
+      "issueTitle": "project-health: improvements from MCP monorepo audit",
+      "url": "https://github.com/jezweb/claude-skills/issues/48",
+      "createdAt": "2026-02-26T13:42:31.449Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
