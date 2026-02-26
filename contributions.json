@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772073013917,
+      "repository": "rokicool/gsd-opencode",
+      "issueTitle": "Pause after UAT before launching debug to be able to switch models",
+      "url": "https://github.com/rokicool/gsd-opencode/issues/43",
+      "createdAt": "2026-02-26T02:30:13.917Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
