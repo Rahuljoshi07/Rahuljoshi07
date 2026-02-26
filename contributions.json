@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772106365614,
+      "repository": "open5e/open5e-api",
+      "issueTitle": "[BUG] Leading slashes in `v2/image` `\"file_url\"`",
+      "url": "https://github.com/open5e/open5e-api/issues/885",
+      "createdAt": "2026-02-26T11:46:05.614Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
