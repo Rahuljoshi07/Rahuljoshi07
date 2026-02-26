@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772114110821,
+      "repository": "ImYanXiao/Elaina-MultiDevice",
+      "issueTitle": "downloader-sfile.js",
+      "url": "https://github.com/ImYanXiao/Elaina-MultiDevice/issues/178",
+      "createdAt": "2026-02-26T13:55:10.821Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
