@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772107042829,
+      "repository": "Renu-code123/ExpenseFlow",
+      "issueTitle": "UI & Functionality Improvement: Fix Layout and Button Issues on Asset Inventory Page",
+      "url": "https://github.com/Renu-code123/ExpenseFlow/issues/693",
+      "createdAt": "2026-02-26T11:57:22.829Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
