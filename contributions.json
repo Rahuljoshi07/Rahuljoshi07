@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772108829479,
+      "repository": "Linuxfabrik/monitoring-plugins",
+      "issueTitle": "ntp-systemd-timesyncd: TypeError: ''=' not supported between instances of 'int' and 'str'",
+      "url": "https://github.com/Linuxfabrik/monitoring-plugins/issues/1011",
+      "createdAt": "2026-02-26T12:27:09.479Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
