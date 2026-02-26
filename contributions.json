@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772097032573,
-      "repository": "MemTensor/MemOS-Cloud-OpenClaw-Plugin",
-      "issueTitle": "[Feature/Bug] Tool Memory: How to write tool memories via /add/message API?",
-      "url": "https://github.com/MemTensor/MemOS-Cloud-OpenClaw-Plugin/issues/11",
-      "createdAt": "2026-02-26T09:10:32.573Z",
+      "id": 1772097103950,
+      "repository": "OpenHands/software-agent-sdk",
+      "issueTitle": "bug(sdk): Subagent spawn fails with Pydantic `ValidationError`: Duplicate class definition for `BrowserCloseTabActionWithRiskWithSummary`",
+      "url": "https://github.com/OpenHands/software-agent-sdk/issues/2199",
+      "createdAt": "2026-02-26T09:11:43.950Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
