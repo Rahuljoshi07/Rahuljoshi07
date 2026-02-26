@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772083866085,
+      "repository": "canonical/kratos-operator",
+      "issueTitle": "Kratos charm fails to update DB writer endpoint after Postgres primary failover",
+      "url": "https://github.com/canonical/kratos-operator/issues/606",
+      "createdAt": "2026-02-26T05:31:06.085Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
