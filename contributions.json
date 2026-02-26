@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772108375169,
+      "repository": "stfc/PSyclone",
+      "issueTitle": "Value Range Check is broken for DSL (at least gocean)",
+      "url": "https://github.com/stfc/PSyclone/issues/3252",
+      "createdAt": "2026-02-26T12:19:35.169Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
