@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772084933985,
-      "repository": "carbon-design-system/ibm-products",
-      "issueTitle": "Dependency Dashboard",
-      "url": "https://github.com/carbon-design-system/ibm-products/issues/7198",
-      "createdAt": "2026-02-26T05:48:53.985Z",
+      "id": 1772085005124,
+      "repository": "ytti/oxidized-web",
+      "issueTitle": "Querying `/node/stats?format=json` does not properly serialize the node stats",
+      "url": "https://github.com/ytti/oxidized-web/issues/222",
+      "createdAt": "2026-02-26T05:50:05.124Z",
       "type": "comment",
-      "content": "Adding TypeScript could improve code quality and maintainability. This suggestion is particularly re..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
