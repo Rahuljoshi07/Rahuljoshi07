@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772097032573,
+      "repository": "MemTensor/MemOS-Cloud-OpenClaw-Plugin",
+      "issueTitle": "[Feature/Bug] Tool Memory: How to write tool memories via /add/message API?",
+      "url": "https://github.com/MemTensor/MemOS-Cloud-OpenClaw-Plugin/issues/11",
+      "createdAt": "2026-02-26T09:10:32.573Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
