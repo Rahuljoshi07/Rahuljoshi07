@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772100650864,
+      "repository": "root-project/jsroot",
+      "issueTitle": "TTree's uint64/int64 branches not displayed by JSROOT",
+      "url": "https://github.com/root-project/jsroot/issues/397",
+      "createdAt": "2026-02-26T10:10:50.864Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
