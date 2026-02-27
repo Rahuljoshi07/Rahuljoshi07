@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772180014959,
+      "repository": "frappe/lending",
+      "issueTitle": "Migration fails on tabLoan Product ALTER TABLE — Truncated incorrect INTEGER value: ' '",
+      "url": "https://github.com/frappe/lending/issues/1120",
+      "createdAt": "2026-02-27T08:13:34.959Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
