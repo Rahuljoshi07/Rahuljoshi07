@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772177566119,
+      "repository": "nowledge-co/community",
+      "issueTitle": "[Bug] Local LLM (Qwen3-4B) always reports 'not found in local cache' despite successful download",
+      "url": "https://github.com/nowledge-co/community/issues/81",
+      "createdAt": "2026-02-27T07:32:46.119Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
