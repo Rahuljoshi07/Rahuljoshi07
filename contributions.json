@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772168568572,
+      "repository": "scidsg/hushline",
+      "issueTitle": "Feasibility Study: Python 3.13 Upgrade Readiness",
+      "url": "https://github.com/scidsg/hushline/issues/1426",
+      "createdAt": "2026-02-27T05:02:48.572Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
