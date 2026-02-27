@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772157478640,
+      "repository": "diplodoc-platform/diplodoc",
+      "issueTitle": "Саджест из поиска ведёт к неправильному заголовку",
+      "url": "https://github.com/diplodoc-platform/diplodoc/issues/63",
+      "createdAt": "2026-02-27T01:57:58.640Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
