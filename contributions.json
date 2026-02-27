@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772179381199,
+      "repository": "Saatvik-GT/xaytheon",
+      "issueTitle": "[FEATURE] Implement a centralized frontend error handling system",
+      "url": "https://github.com/Saatvik-GT/xaytheon/issues/622",
+      "createdAt": "2026-02-27T08:03:01.199Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
