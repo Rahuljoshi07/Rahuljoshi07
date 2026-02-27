@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772154749030,
+      "repository": "mit-han-lab/fastrl",
+      "issueTitle": "Significant Performance Degradation with Speculative Decoding on H20 GPUs",
+      "url": "https://github.com/mit-han-lab/fastrl/issues/7",
+      "createdAt": "2026-02-27T01:12:29.030Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
