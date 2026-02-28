@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772241155400,
+      "repository": "IsaacCheng9/fairsplit",
+      "issueTitle": "Fix the total amount the user owes/is owed for optimised debts",
+      "url": "https://github.com/IsaacCheng9/fairsplit/issues/80",
+      "createdAt": "2026-02-28T01:12:35.400Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
