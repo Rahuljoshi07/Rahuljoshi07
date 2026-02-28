@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772264342491,
+      "id": 1772264406687,
       "repository": "MoegirlPediaInterfaceAdmins/MoegirlPediaInterfaceCodes",
-      "issueTitle": "HotCat无法在MoeSkin使用",
-      "url": "https://github.com/MoegirlPediaInterfaceAdmins/MoegirlPediaInterfaceCodes/issues/773",
-      "createdAt": "2026-02-28T07:39:02.491Z",
+      "issueTitle": "用户标识重绘需要合并",
+      "url": "https://github.com/MoegirlPediaInterfaceAdmins/MoegirlPediaInterfaceCodes/issues/816",
+      "createdAt": "2026-02-28T07:40:06.687Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
