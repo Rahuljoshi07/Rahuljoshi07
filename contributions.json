@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772295273320,
+      "repository": "nem-web/smart-attendance",
+      "issueTitle": "[BUG] Attendance threshold values failing to save/update",
+      "url": "https://github.com/nem-web/smart-attendance/issues/434",
+      "createdAt": "2026-02-28T16:14:33.320Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
