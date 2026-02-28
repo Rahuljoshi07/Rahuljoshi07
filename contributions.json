@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772260067521,
+      "repository": "Cambotz/PKsinew",
+      "issueTitle": "Circular import error and other dependency issues with Python3 installed by Homebrew package manager",
+      "url": "https://github.com/Cambotz/PKsinew/issues/4",
+      "createdAt": "2026-02-28T06:27:47.521Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
