@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772297764828,
+      "repository": "jasmine/jasmine-ajax",
+      "issueTitle": "Parsing response based on responseType",
+      "url": "https://github.com/jasmine/jasmine-ajax/issues/175",
+      "createdAt": "2026-02-28T16:56:04.828Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
