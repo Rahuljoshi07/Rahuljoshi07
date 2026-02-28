@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772294059701,
+      "repository": "TheScienceMuseum/collectionsonline",
+      "issueTitle": "AP people records missing place born",
+      "url": "https://github.com/TheScienceMuseum/collectionsonline/issues/1919",
+      "createdAt": "2026-02-28T15:54:19.701Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
