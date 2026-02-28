@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772290052936,
+      "repository": "erlef/setup-beam",
+      "issueTitle": "Tag release so Windows 25 is available",
+      "url": "https://github.com/erlef/setup-beam/issues/402",
+      "createdAt": "2026-02-28T14:47:32.936Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
