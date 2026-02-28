@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772264287343,
+      "repository": "MuLabPKU/TransMLA",
+      "issueTitle": "No performance difference with vLLM: qwen2.5-7b vs qwen2.5-7b-MLA",
+      "url": "https://github.com/MuLabPKU/TransMLA/issues/34",
+      "createdAt": "2026-02-28T07:38:07.343Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
