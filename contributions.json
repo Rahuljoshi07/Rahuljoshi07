@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772274434241,
+      "repository": "TimurKady/django-fast-treenode",
+      "issueTitle": "Docs promise \"dynamic loading as nodes are expanded\" but shipped JS has no AJAX, real behavior only in code comment..",
+      "url": "https://github.com/TimurKady/django-fast-treenode/issues/33",
+      "createdAt": "2026-02-28T10:27:14.242Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
