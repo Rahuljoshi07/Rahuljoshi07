@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772275477191,
+      "repository": "vinlyx/mgzip",
+      "issueTitle": "error: Error -3 while decompressing data: invalid stored block lengths",
+      "url": "https://github.com/vinlyx/mgzip/issues/17",
+      "createdAt": "2026-02-28T10:44:37.191Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
