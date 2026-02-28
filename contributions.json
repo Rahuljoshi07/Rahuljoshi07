@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772280312888,
+      "repository": "strawberry-graphql/strawberry-django",
+      "issueTitle": "Optimizer does not work correctly for types retrieved via 1:1 and n:1 relationships.",
+      "url": "https://github.com/strawberry-graphql/strawberry-django/issues/869",
+      "createdAt": "2026-02-28T12:05:12.888Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
