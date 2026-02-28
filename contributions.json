@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772306481697,
+      "repository": "pyinat/naturtag",
+      "issueTitle": "HierarchicalSubject tag does not include common name kingdom",
+      "url": "https://github.com/pyinat/naturtag/issues/487",
+      "createdAt": "2026-02-28T19:21:21.697Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
