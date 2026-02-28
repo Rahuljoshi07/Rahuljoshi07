@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772311407328,
+      "repository": "openfoodfacts/open-prices",
+      "issueTitle": "Create new product : Image doesn't appear to make it to OFF",
+      "url": "https://github.com/openfoodfacts/open-prices/issues/1237",
+      "createdAt": "2026-02-28T20:43:27.328Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
