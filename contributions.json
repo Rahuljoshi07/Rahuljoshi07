@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772243426851,
+      "repository": "webxos/macroslow",
+      "issueTitle": "FOUNDATIONS OF MACROSLOW FOR FLASH USB DRIVES",
+      "url": "https://github.com/webxos/macroslow/issues/22",
+      "createdAt": "2026-02-28T01:50:26.851Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. (Suggested by Rahul Joshi..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
