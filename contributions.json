@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772292568118,
+      "repository": "babalae/bettergi-scripts-list",
+      "issueTitle": "[Bug]: AAA狗粮批发不会捡东西",
+      "url": "https://github.com/babalae/bettergi-scripts-list/issues/2939",
+      "createdAt": "2026-02-28T15:29:28.118Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
