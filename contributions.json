@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772311956010,
+      "repository": "TerraFirmaGreg-Team/Modpack-Modern",
+      "issueTitle": "[💥]: After 2 to 4 days of playing solo, the world no longer opens. I've tried several worlds, but they all give an error; it stays on the login screen and doesn't load. If I press any key, Windows crashes the game and gives an error.",
+      "url": "https://github.com/TerraFirmaGreg-Team/Modpack-Modern/issues/3185",
+      "createdAt": "2026-02-28T20:52:36.010Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
