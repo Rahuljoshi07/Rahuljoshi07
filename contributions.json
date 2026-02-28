@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772293897840,
+      "repository": "allenporter/flux-local",
+      "issueTitle": "Issue when trying to run flux-local  diff on helm-charts from private Gitlab repo",
+      "url": "https://github.com/allenporter/flux-local/issues/1070",
+      "createdAt": "2026-02-28T15:51:37.840Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
