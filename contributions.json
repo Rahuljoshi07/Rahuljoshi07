@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772245548384,
+      "repository": "agentscope-ai/CoPaw",
+      "issueTitle": "[Bug]: 当发生故障后，钉钉频道无法使用",
+      "url": "https://github.com/agentscope-ai/CoPaw/issues/39",
+      "createdAt": "2026-02-28T02:25:48.384Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
