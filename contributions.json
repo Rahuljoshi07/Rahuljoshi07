@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772245722850,
+      "repository": "AllTheMods/Gravitas2",
+      "issueTitle": "just a spell error",
+      "url": "https://github.com/AllTheMods/Gravitas2/issues/584",
+      "createdAt": "2026-02-28T02:28:42.850Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
