@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772296590702,
+      "repository": "jyutjyucom/Jyutjyu",
+      "issueTitle": "[ENTRY-ERROR] 问号",
+      "url": "https://github.com/jyutjyucom/Jyutjyu/issues/12",
+      "createdAt": "2026-02-28T16:36:30.702Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
