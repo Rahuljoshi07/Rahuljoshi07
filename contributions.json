@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772255955348,
+      "repository": "agentscope-ai/CoPaw",
+      "issueTitle": "[Bug]: 让其查看网页会自动下载浏览器，然后整个系统就会崩溃，无法进入",
+      "url": "https://github.com/agentscope-ai/CoPaw/issues/60",
+      "createdAt": "2026-02-28T05:19:15.348Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
