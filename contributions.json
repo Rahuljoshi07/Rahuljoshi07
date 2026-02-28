@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772291285614,
+      "repository": "spine-tools/Spine-Toolbox",
+      "issueTitle": "Import and export descriptions",
+      "url": "https://github.com/spine-tools/Spine-Toolbox/issues/1892",
+      "createdAt": "2026-02-28T15:08:05.614Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
