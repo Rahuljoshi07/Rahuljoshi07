@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772304909848,
+      "repository": "iobroker-community-adapters/ioBroker.spotify-premium",
+      "issueTitle": "Keine Autorisierung mehr möglich - \"http://\" is not alowed to add by Redirect URIs",
+      "url": "https://github.com/iobroker-community-adapters/ioBroker.spotify-premium/issues/431",
+      "createdAt": "2026-02-28T18:55:09.848Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
