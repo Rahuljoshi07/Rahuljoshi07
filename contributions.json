@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772284074452,
+      "repository": "Jules-Bens-Aa/JB2A_DnD5e",
+      "issueTitle": "Error: EPERM: operation not permitted, lstat",
+      "url": "https://github.com/Jules-Bens-Aa/JB2A_DnD5e/issues/25",
+      "createdAt": "2026-02-28T13:07:54.452Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
