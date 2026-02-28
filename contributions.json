@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772279293155,
+      "repository": "strawberry-graphql/strawberry-django",
+      "issueTitle": "Optimizer does not work correctly for types retrieved via 1:1 and n:1 relationships.",
+      "url": "https://github.com/strawberry-graphql/strawberry-django/issues/869",
+      "createdAt": "2026-02-28T11:48:13.155Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
