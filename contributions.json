@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772250347438,
+      "repository": "nem-web/smart-attendance",
+      "issueTitle": "Add Rate Limiting to OTP Verification Endpoints to Prevent Brute Force Attacks",
+      "url": "https://github.com/nem-web/smart-attendance/issues/472",
+      "createdAt": "2026-02-28T03:45:47.438Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
