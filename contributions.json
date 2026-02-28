@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772240696599,
+      "repository": "aria-tools/ARIA-tools",
+      "issueTitle": "[BUG] rejection of good NISAR GUNW data",
+      "url": "https://github.com/aria-tools/ARIA-tools/issues/484",
+      "createdAt": "2026-02-28T01:04:56.599Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
