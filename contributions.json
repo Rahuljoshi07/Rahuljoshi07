@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772256558745,
-      "repository": "sdetweil/MMM-Config",
-      "issueTitle": "multiple module instance count is incorrect if some already had value and some don't",
-      "url": "https://github.com/sdetweil/MMM-Config/issues/68",
-      "createdAt": "2026-02-28T05:29:18.745Z",
+      "id": 1772256623216,
+      "repository": "nem-web/smart-attendance",
+      "issueTitle": "Add Rate Limiting to OTP Verification Endpoints to Prevent Brute Force Attacks",
+      "url": "https://github.com/nem-web/smart-attendance/issues/472",
+      "createdAt": "2026-02-28T05:30:23.216Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
