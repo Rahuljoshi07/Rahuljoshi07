@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772300423444,
-      "repository": "elpheria/rpc-websockets",
-      "issueTitle": "Why do errors thrown generate a -32601?",
-      "url": "https://github.com/elpheria/rpc-websockets/issues/177",
-      "createdAt": "2026-02-28T17:40:23.444Z",
+      "id": 1772300491342,
+      "repository": "iobroker-community-adapters/ioBroker.broadlink2",
+      "issueTitle": "Please consider fixing issues detected by repository checker",
+      "url": "https://github.com/iobroker-community-adapters/ioBroker.broadlink2/issues/485",
+      "createdAt": "2026-02-28T17:41:31.342Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
