@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772307669136,
+      "repository": "mhdzumair/MediaFusion",
+      "issueTitle": "Docker self-host - Mediafusion version 5.0.1 & 5.1.0 - ERROR:  relation \"alembic_version\" does not exist at character 25",
+      "url": "https://github.com/mhdzumair/MediaFusion/issues/631",
+      "createdAt": "2026-02-28T19:41:09.136Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
