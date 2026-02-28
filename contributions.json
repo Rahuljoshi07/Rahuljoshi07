@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772305721684,
+      "repository": "meshcore-dev/meshcore-ha",
+      "issueTitle": "Is it Better to Delete Added Contacts from the Discovered Contacts File?",
+      "url": "https://github.com/meshcore-dev/meshcore-ha/issues/107",
+      "createdAt": "2026-02-28T19:08:41.684Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
