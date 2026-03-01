@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772395632426,
+      "repository": "rpy2/rpy2",
+      "issueTitle": "Crashing when trying to import robjects - Win11",
+      "url": "https://github.com/rpy2/rpy2/issues/1212",
+      "createdAt": "2026-03-01T20:07:12.426Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
