@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772357250955,
+      "repository": "2Abendsegler/GClh",
+      "issueTitle": "[Search Map] GClh header is built with a delay",
+      "url": "https://github.com/2Abendsegler/GClh/issues/2993",
+      "createdAt": "2026-03-01T09:27:30.955Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
