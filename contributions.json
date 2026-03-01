@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1772382223843,
+      "id": 1772382281789,
       "repository": "nem-web/smart-attendance",
-      "issueTitle": "[BUG] Attendance ignores selected date and saves as current date",
-      "url": "https://github.com/nem-web/smart-attendance/issues/424",
-      "createdAt": "2026-03-01T16:23:43.843Z",
+      "issueTitle": "[BUG] Attendance threshold values failing to save/update",
+      "url": "https://github.com/nem-web/smart-attendance/issues/434",
+      "createdAt": "2026-03-01T16:24:41.789Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
