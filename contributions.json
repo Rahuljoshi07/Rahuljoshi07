@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772371645439,
+      "repository": "mksglu/claude-context-mode",
+      "issueTitle": "Windows support",
+      "url": "https://github.com/mksglu/claude-context-mode/issues/15",
+      "createdAt": "2026-03-01T13:27:25.439Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
