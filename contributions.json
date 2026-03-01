@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772337678327,
+      "repository": "flcdrg/VsShowMissing",
+      "issueTitle": "Not working for SQL Server Integration Services project.",
+      "url": "https://github.com/flcdrg/VsShowMissing/issues/446",
+      "createdAt": "2026-03-01T04:01:18.327Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
