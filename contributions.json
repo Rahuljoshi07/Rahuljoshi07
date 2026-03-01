@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772375174520,
+      "repository": "nem-web/smart-attendance",
+      "issueTitle": "[BUG] Attendance ignores selected date and saves as current date",
+      "url": "https://github.com/nem-web/smart-attendance/issues/424",
+      "createdAt": "2026-03-01T14:26:14.520Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
