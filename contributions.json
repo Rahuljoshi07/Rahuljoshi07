@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772325730650,
+      "repository": "rpy2/rpy2",
+      "issueTitle": "test_rmagic.py applies a mark to a fixture function",
+      "url": "https://github.com/rpy2/rpy2/issues/1218",
+      "createdAt": "2026-03-01T00:42:10.650Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
