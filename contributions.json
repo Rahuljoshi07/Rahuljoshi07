@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772327529870,
+      "repository": "jvanderberg/kicad_jlcimport",
+      "issueTitle": "Bug: C34376141, C41384467",
+      "url": "https://github.com/jvanderberg/kicad_jlcimport/issues/57",
+      "createdAt": "2026-03-01T01:12:09.870Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
