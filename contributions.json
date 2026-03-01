@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772385566918,
+      "repository": "furlongm/patchman",
+      "issueTitle": "Kernel detection logic if debian backports repo enabled has changed",
+      "url": "https://github.com/furlongm/patchman/issues/772",
+      "createdAt": "2026-03-01T17:19:26.918Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
