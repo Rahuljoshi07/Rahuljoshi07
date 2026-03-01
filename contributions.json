@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772364702082,
+      "repository": "LucaFontanot/dbd-map-overlay",
+      "issueTitle": "Bug: Image position is wrong when multiple monitors with different sizes",
+      "url": "https://github.com/LucaFontanot/dbd-map-overlay/issues/32",
+      "createdAt": "2026-03-01T11:31:42.083Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
