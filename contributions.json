@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772378960801,
+      "repository": "fastify/fast-uri",
+      "issueTitle": "bug: normalizeIPv6 does not normalize correct when double colon is already added",
+      "url": "https://github.com/fastify/fast-uri/issues/89",
+      "createdAt": "2026-03-01T15:29:20.801Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
