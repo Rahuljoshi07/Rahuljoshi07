@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772371226724,
+      "id": 1772371261144,
       "repository": "KaranUnique/CryptoHub",
-      "issueTitle": "[UI/UX] Improve empty states and loading indicators across pages",
-      "url": "https://github.com/KaranUnique/CryptoHub/issues/232",
-      "createdAt": "2026-03-01T13:20:26.724Z",
+      "issueTitle": "[BUG] Navbar.jsx has 3 unused declarations — useContext, useEffect, and setScrolled",
+      "url": "https://github.com/KaranUnique/CryptoHub/issues/372",
+      "createdAt": "2026-03-01T13:21:01.144Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
