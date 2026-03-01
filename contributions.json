@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772374218283,
+      "repository": "spiermar/d3-flame-graph",
+      "issueTitle": "when zooming in, there should be no need to mark all nodes as hidden",
+      "url": "https://github.com/spiermar/d3-flame-graph/issues/117",
+      "createdAt": "2026-03-01T14:10:18.283Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
