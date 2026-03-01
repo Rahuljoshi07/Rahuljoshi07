@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772333175919,
+      "repository": "Blb3D/filaops",
+      "issueTitle": "[FEAT] product_id: int is required on every order line, with no way to add a raw material/filament line.",
+      "url": "https://github.com/Blb3D/filaops/issues/362",
+      "createdAt": "2026-03-01T02:46:15.919Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
