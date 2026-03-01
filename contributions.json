@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772382183534,
-      "repository": "WesternFriend/westernfriend.org",
-      "issueTitle": "Disable honeypot",
-      "url": "https://github.com/WesternFriend/westernfriend.org/issues/1167",
-      "createdAt": "2026-03-01T16:23:03.534Z",
+      "id": 1772382223843,
+      "repository": "nem-web/smart-attendance",
+      "issueTitle": "[BUG] Attendance ignores selected date and saves as current date",
+      "url": "https://github.com/nem-web/smart-attendance/issues/424",
+      "createdAt": "2026-03-01T16:23:43.843Z",
       "type": "comment",
-      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
