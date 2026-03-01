@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772337603714,
+      "repository": "flcdrg/VsShowMissing",
+      "issueTitle": ".vspscc file still showing up as not included in project",
+      "url": "https://github.com/flcdrg/VsShowMissing/issues/220",
+      "createdAt": "2026-03-01T04:00:03.714Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
