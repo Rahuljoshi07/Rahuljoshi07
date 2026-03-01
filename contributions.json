@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772394546013,
-      "repository": "2M4U/2m4u",
-      "issueTitle": "Possible fixes for update.js",
-      "url": "https://github.com/2M4U/2m4u/issues/6",
-      "createdAt": "2026-03-01T19:49:06.013Z",
+      "id": 1772394618015,
+      "repository": "grimmdude/MidiPlayerJS",
+      "issueTitle": "[Feature Request / Bug] Super large MIDI's make browser tab run out of memory",
+      "url": "https://github.com/grimmdude/MidiPlayerJS/issues/100",
+      "createdAt": "2026-03-01T19:50:18.015Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
