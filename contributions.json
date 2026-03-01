@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772334541432,
-      "repository": "spiermar/d3-flame-graph",
-      "issueTitle": "Fix deprecated global event usage in tooltip.js",
-      "url": "https://github.com/spiermar/d3-flame-graph/issues/237",
-      "createdAt": "2026-03-01T03:09:01.432Z",
+      "id": 1772334606246,
+      "repository": "fastify/aws-lambda-fastify",
+      "issueTitle": "decorateRequest is not thread safe",
+      "url": "https://github.com/fastify/aws-lambda-fastify/issues/254",
+      "createdAt": "2026-03-01T03:10:06.246Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
     }
   ],
   "stats": {
