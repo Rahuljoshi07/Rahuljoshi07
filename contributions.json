@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772407482865,
+      "repository": "hiphop9/Warp2025",
+      "issueTitle": "[BUG] FixSelectMenuWidthExpansion",
+      "url": "https://github.com/hiphop9/Warp2025/issues/36",
+      "createdAt": "2026-03-01T23:24:42.865Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
