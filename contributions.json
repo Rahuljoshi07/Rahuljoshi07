@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772360537776,
+      "repository": "gizmax/Sandcastle",
+      "issueTitle": "[Veritas Auto-Scan] 5 exposures detected (2 critical)",
+      "url": "https://github.com/gizmax/Sandcastle/issues/175",
+      "createdAt": "2026-03-01T10:22:17.776Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for react ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
