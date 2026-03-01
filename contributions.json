@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772381072359,
+      "repository": "nextcloud/contacts",
+      "issueTitle": "Unable to add new contact",
+      "url": "https://github.com/nextcloud/contacts/issues/5150",
+      "createdAt": "2026-03-01T16:04:32.359Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
