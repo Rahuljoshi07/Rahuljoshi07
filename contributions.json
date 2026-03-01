@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772362362830,
+      "repository": "wojtmic/prefixer",
+      "issueTitle": "[BUG] Fallout 4 info yields an error",
+      "url": "https://github.com/wojtmic/prefixer/issues/10",
+      "createdAt": "2026-03-01T10:52:42.830Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
