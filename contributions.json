@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772331338638,
+      "repository": "agentuity/sdk",
+      "issueTitle": "Data channel connections fail with SDP m-line ordering error",
+      "url": "https://github.com/agentuity/sdk/issues/1080",
+      "createdAt": "2026-03-01T02:15:38.638Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
