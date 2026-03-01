@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772383510137,
+      "repository": "digitalfabrik/opendrift-leeway-webgui",
+      "issueTitle": "Add sea currents and wind tiles to visualization",
+      "url": "https://github.com/digitalfabrik/opendrift-leeway-webgui/issues/107",
+      "createdAt": "2026-03-01T16:45:10.137Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
