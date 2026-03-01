@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772395428898,
+      "repository": "grimmdude/MidiPlayerJS",
+      "issueTitle": "[Feature Request / Bug] Super large MIDI's make browser tab run out of memory",
+      "url": "https://github.com/grimmdude/MidiPlayerJS/issues/100",
+      "createdAt": "2026-03-01T20:03:48.898Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
