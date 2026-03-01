@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772349736724,
+      "repository": "Blb3D/filaops",
+      "issueTitle": "ux: PRO-only features should show \"PRO feature\" message instead of appearing broken",
+      "url": "https://github.com/Blb3D/filaops/issues/367",
+      "createdAt": "2026-03-01T07:22:16.724Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
