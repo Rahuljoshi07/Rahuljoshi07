@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772473294522,
+      "repository": "shskjw/astrbot_plugin_shoubanhua",
+      "issueTitle": "[Bug] 使用自定义触发词（bnn）时无法触发强力模式",
+      "url": "https://github.com/shskjw/astrbot_plugin_shoubanhua/issues/37",
+      "createdAt": "2026-03-02T17:41:34.522Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
