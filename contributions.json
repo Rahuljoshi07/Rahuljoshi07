@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772417903788,
+      "repository": "YingfanWang/PaCMAP",
+      "issueTitle": "ValueError: could not broadcast input array from shape (0,) into shape (60,) Run `reticulate::py_last_error()` for details.",
+      "url": "https://github.com/YingfanWang/PaCMAP/issues/136",
+      "createdAt": "2026-03-02T02:18:23.788Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
