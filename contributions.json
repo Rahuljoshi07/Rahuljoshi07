@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772475984341,
-      "repository": "iobroker-community-adapters/ioBroker.device-watcher",
-      "issueTitle": "[Enhancement] Einige Adapter haben Besonderheiten",
-      "url": "https://github.com/iobroker-community-adapters/ioBroker.device-watcher/issues/598",
-      "createdAt": "2026-03-02T18:26:24.341Z",
+      "id": 1772476040237,
+      "repository": "hytopiagg/sdk",
+      "issueTitle": "Model URI path corruption: extra character in path (e.g. \"body\" → \"bodyy\", \"granite\" → \"grranite\")",
+      "url": "https://github.com/hytopiagg/sdk/issues/34",
+      "createdAt": "2026-03-02T18:27:20.237Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
