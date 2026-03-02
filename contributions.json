@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772475596171,
+      "repository": "scidsg/hushline",
+      "issueTitle": "[Feasibility Study] I2P Network Support for Hush Line Server",
+      "url": "https://github.com/scidsg/hushline/issues/1489",
+      "createdAt": "2026-03-02T18:19:56.171Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
