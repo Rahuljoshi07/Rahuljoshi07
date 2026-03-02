@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1772419103855,
+      "id": 1772419138097,
       "repository": "renovatebot/pep440",
       "issueTitle": "satisfies with local version identifies incorrectly returning true",
       "url": "https://github.com/renovatebot/pep440/issues/764",
-      "createdAt": "2026-03-02T02:38:23.855Z",
+      "createdAt": "2026-03-02T02:38:58.097Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
