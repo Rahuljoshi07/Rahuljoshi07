@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772466984530,
+      "repository": "Penty-d/qq-farm-bot-ui",
+      "issueTitle": "#BUG 更新后多次出现无响应，连接超时，500等错误",
+      "url": "https://github.com/Penty-d/qq-farm-bot-ui/issues/109",
+      "createdAt": "2026-03-02T15:56:24.530Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
