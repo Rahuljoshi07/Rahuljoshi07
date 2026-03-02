@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772474452769,
+      "repository": "pyvisa/pyvisa-py",
+      "issueTitle": "Raspberry Pi issues with write_raw()",
+      "url": "https://github.com/pyvisa/pyvisa-py/issues/432",
+      "createdAt": "2026-03-02T18:00:52.769Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
