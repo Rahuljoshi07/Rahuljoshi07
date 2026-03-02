@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772446520868,
+      "repository": "pollen-robotics/reachy-mini-desktop-app",
+      "issueTitle": "Handle existing \"simulated\" daemon when starting simulation",
+      "url": "https://github.com/pollen-robotics/reachy-mini-desktop-app/issues/158",
+      "createdAt": "2026-03-02T10:15:20.868Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
