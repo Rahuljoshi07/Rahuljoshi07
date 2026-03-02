@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772456448169,
+      "repository": "Dioptas/Dioptas",
+      "issueTitle": "Issue with `|` in typing with Python3.9",
+      "url": "https://github.com/Dioptas/Dioptas/issues/209",
+      "createdAt": "2026-03-02T13:00:48.169Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
