@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1772476040237,
-      "repository": "hytopiagg/sdk",
-      "issueTitle": "Model URI path corruption: extra character in path (e.g. \"body\" → \"bodyy\", \"granite\" → \"grranite\")",
-      "url": "https://github.com/hytopiagg/sdk/issues/34",
-      "createdAt": "2026-03-02T18:27:20.237Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
