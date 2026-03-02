@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772453698043,
+      "repository": "EuroEval/EuroEval",
+      "issueTitle": "[BUG] litellm.LoggingWorker emits ERROR-level TimeoutError after each batch when FULL_LOG=1",
+      "url": "https://github.com/EuroEval/EuroEval/issues/1589",
+      "createdAt": "2026-03-02T12:14:58.043Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
