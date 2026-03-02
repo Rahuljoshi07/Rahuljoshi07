@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772489016675,
+      "repository": "link-assistant/hive-mind",
+      "issueTitle": "Add `--auto-accept-invite` option for solve command, that should work similar to `/accept_invites`, but it should try to accept only the invite for specific repository/organization, not more",
+      "url": "https://github.com/link-assistant/hive-mind/issues/1373",
+      "createdAt": "2026-03-02T22:03:36.675Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
