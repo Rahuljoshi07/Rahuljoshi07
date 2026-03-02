@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772413550718,
+      "repository": "mlx-graphs/mlx-graphs",
+      "issueTitle": "Benchmarks on M1 Max",
+      "url": "https://github.com/mlx-graphs/mlx-graphs/issues/92",
+      "createdAt": "2026-03-02T01:05:50.718Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
