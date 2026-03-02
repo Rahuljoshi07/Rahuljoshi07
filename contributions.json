@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772469142763,
+      "repository": "noobaa/noobaa-core",
+      "issueTitle": "Symbolic and hard links problem",
+      "url": "https://github.com/noobaa/noobaa-core/issues/6468",
+      "createdAt": "2026-03-02T16:32:22.763Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
