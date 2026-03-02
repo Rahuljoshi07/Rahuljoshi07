@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772459310317,
+      "repository": "NETWAYS/ansible-collection-icinga",
+      "issueTitle": "Validation of icingaweb2 ressource entries could be more expansive",
+      "url": "https://github.com/NETWAYS/ansible-collection-icinga/issues/423",
+      "createdAt": "2026-03-02T13:48:30.317Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
