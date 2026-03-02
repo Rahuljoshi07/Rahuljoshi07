@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772465847627,
+      "repository": "labd/wagtail-2fa",
+      "issueTitle": "Does not work with Wagtail 6 and 7.",
+      "url": "https://github.com/labd/wagtail-2fa/issues/231",
+      "createdAt": "2026-03-02T15:37:27.627Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
