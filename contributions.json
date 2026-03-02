@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772490759746,
+      "repository": "ClickDevTech/CELERITY-panel",
+      "issueTitle": "Vultr error",
+      "url": "https://github.com/ClickDevTech/CELERITY-panel/issues/8",
+      "createdAt": "2026-03-02T22:32:39.746Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
