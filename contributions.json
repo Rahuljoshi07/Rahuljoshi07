@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772438273980,
+      "repository": "Nodemana/ActualBudget-UpBank-TransactionImporter",
+      "issueTitle": "Very Occasional Duplicate Transactions Imported",
+      "url": "https://github.com/Nodemana/ActualBudget-UpBank-TransactionImporter/issues/6",
+      "createdAt": "2026-03-02T07:57:53.980Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
