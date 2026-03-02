@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772417680193,
+      "repository": "4v3ngR/pluto_tv_scraper",
+      "issueTitle": "I had an issue where the *. m3u8 would only fill 1kb.",
+      "url": "https://github.com/4v3ngR/pluto_tv_scraper/issues/19",
+      "createdAt": "2026-03-02T02:14:40.193Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
