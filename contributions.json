@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772412889218,
+      "repository": "steven-jianhao-li/zotero-AI-Butler",
+      "issueTitle": "[BUG] - Kimi-k2.5模型无法使用“AI”总结功能",
+      "url": "https://github.com/steven-jianhao-li/zotero-AI-Butler/issues/222",
+      "createdAt": "2026-03-02T00:54:49.218Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
