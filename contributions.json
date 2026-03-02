@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772481186909,
+      "repository": "pypa/gh-action-pip-audit",
+      "issueTitle": "FileNotFoundError: [WinError 2] The system cannot find the file specified",
+      "url": "https://github.com/pypa/gh-action-pip-audit/issues/55",
+      "createdAt": "2026-03-02T19:53:06.909Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
