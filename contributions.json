@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772413864580,
+      "repository": "steven-jianhao-li/zotero-AI-Butler",
+      "issueTitle": "[BUG] - 不管提交哪篇pdf 返回结果都不变了",
+      "url": "https://github.com/steven-jianhao-li/zotero-AI-Butler/issues/218",
+      "createdAt": "2026-03-02T01:11:04.580Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
