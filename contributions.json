@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772445244540,
+      "repository": "mantoni/beads-ui",
+      "issueTitle": "Issue/epic list columns overlap with long project-prefixed IDs",
+      "url": "https://github.com/mantoni/beads-ui/issues/57",
+      "createdAt": "2026-03-02T09:54:04.540Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
