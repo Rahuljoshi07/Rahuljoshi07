@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772433975080,
+      "repository": "jgraph/drawio-nextcloud",
+      "issueTitle": "Bug Report: drawio 4.0.3 crashes on Nextcloud 33 (Call to undefined method OC_Util::getVersionString)",
+      "url": "https://github.com/jgraph/drawio-nextcloud/issues/123",
+      "createdAt": "2026-03-02T06:46:15.080Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
