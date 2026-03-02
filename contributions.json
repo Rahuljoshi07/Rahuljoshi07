@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772467977369,
+      "repository": "nix-community/buildbot-nix",
+      "issueTitle": "buildbot-gitea: build error",
+      "url": "https://github.com/nix-community/buildbot-nix/issues/586",
+      "createdAt": "2026-03-02T16:12:57.369Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
