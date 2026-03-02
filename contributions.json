@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772423121318,
+      "id": 1772423166119,
       "repository": "renovatebot/pep440",
-      "issueTitle": "satisfies with local version identifies incorrectly returning true",
-      "url": "https://github.com/renovatebot/pep440/issues/764",
-      "createdAt": "2026-03-02T03:45:21.318Z",
+      "issueTitle": "Remove strange string exports",
+      "url": "https://github.com/renovatebot/pep440/issues/133",
+      "createdAt": "2026-03-02T03:46:06.120Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
