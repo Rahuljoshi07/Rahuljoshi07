@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772445479768,
+      "id": 1772445517622,
       "repository": "g3w-suite/g3w-client",
-      "issueTitle": "Layer group management on TOC",
-      "url": "https://github.com/g3w-suite/g3w-client/issues/884",
-      "createdAt": "2026-03-02T09:57:59.768Z",
+      "issueTitle": "Default `false` value not retrieved when adding a new entity",
+      "url": "https://github.com/g3w-suite/g3w-client/issues/876",
+      "createdAt": "2026-03-02T09:58:37.622Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
