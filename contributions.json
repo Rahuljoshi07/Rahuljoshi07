@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772531269153,
+      "repository": "SageTendo/mal-stremio-addon",
+      "issueTitle": "Watch history not updating in Stremio",
+      "url": "https://github.com/SageTendo/mal-stremio-addon/issues/127",
+      "createdAt": "2026-03-03T09:47:49.153Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
