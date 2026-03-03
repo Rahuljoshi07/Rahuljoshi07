@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772531121677,
+      "repository": "third-culture-software/bhima",
+      "issueTitle": "Realized profit report may be broken",
+      "url": "https://github.com/third-culture-software/bhima/issues/8595",
+      "createdAt": "2026-03-03T09:45:21.677Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
