@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772513907689,
+      "id": 1772513949317,
       "repository": "ancsemi/Haven",
       "issueTitle": "Issue - Image Upload Bug, DM Encryption Issue",
       "url": "https://github.com/ancsemi/Haven/issues/115",
-      "createdAt": "2026-03-03T04:58:27.689Z",
+      "createdAt": "2026-03-03T04:59:09.317Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
