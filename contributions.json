@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772546368982,
+      "repository": "revolut-engineering/revolut-checkout",
+      "issueTitle": "BUG: full_name not returned",
+      "url": "https://github.com/revolut-engineering/revolut-checkout/issues/80",
+      "createdAt": "2026-03-03T13:59:28.982Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
