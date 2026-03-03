@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772527609631,
+      "repository": "CESGA-Quantum-Spain/cunqa",
+      "issueTitle": "Maestro fails with parametric gates",
+      "url": "https://github.com/CESGA-Quantum-Spain/cunqa/issues/497",
+      "createdAt": "2026-03-03T08:46:49.631Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
