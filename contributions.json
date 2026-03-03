@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772541594084,
+      "repository": "amchii/tg-signer",
+      "issueTitle": "首次使用签到报错 AttributeError: 'NoneType' object has no attribute 'id'",
+      "url": "https://github.com/amchii/tg-signer/issues/109",
+      "createdAt": "2026-03-03T12:39:54.084Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
