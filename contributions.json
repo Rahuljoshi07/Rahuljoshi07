@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772541048562,
+      "repository": "nextcloud/calendar-js",
+      "issueTitle": "Implement CSVParser",
+      "url": "https://github.com/nextcloud/calendar-js/issues/103",
+      "createdAt": "2026-03-03T12:30:48.562Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
