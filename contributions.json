@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772537087855,
+      "id": 1772537153152,
       "repository": "schorfES/node-lintspaces",
-      "issueTitle": "[EditorConfig] \"insert_final_newline = false\" doesn't produce warnings in files that contain final newlines.",
-      "url": "https://github.com/schorfES/node-lintspaces/issues/49",
-      "createdAt": "2026-03-03T11:24:47.855Z",
+      "issueTitle": "Inconsistent indentation checking",
+      "url": "https://github.com/schorfES/node-lintspaces/issues/297",
+      "createdAt": "2026-03-03T11:25:53.152Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
     }
   ],
   "stats": {
