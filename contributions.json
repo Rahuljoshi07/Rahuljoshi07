@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772497750213,
+      "repository": "p-stream/p-stream-desktop",
+      "issueTitle": "[Bug] Alt-tabbing focuses the minimize, maximize/restore or close buttons",
+      "url": "https://github.com/p-stream/p-stream-desktop/issues/30",
+      "createdAt": "2026-03-03T00:29:10.213Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
