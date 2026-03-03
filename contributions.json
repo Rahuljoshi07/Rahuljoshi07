@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772511692744,
+      "repository": "meilisearch/strapi-plugin-meilisearch",
+      "issueTitle": "[v0.14.0] Duplicate entries and undefined IDs in Meilisearch when using Draft & Publish in Strapi v5",
+      "url": "https://github.com/meilisearch/strapi-plugin-meilisearch/issues/1100",
+      "createdAt": "2026-03-03T04:21:32.744Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
