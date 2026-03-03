@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772500256672,
+      "repository": "marksweb/django-nh3",
+      "issueTitle": "Django 5.2 support",
+      "url": "https://github.com/marksweb/django-nh3/issues/78",
+      "createdAt": "2026-03-03T01:10:56.672Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
