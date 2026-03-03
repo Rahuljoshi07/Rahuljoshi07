@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772546815281,
+      "repository": "DIAGNijmegen/rse-grand-challenge",
+      "issueTitle": "`biom` and `panimg` virtualenvs should use uv lockfile for installs",
+      "url": "https://github.com/DIAGNijmegen/rse-grand-challenge/issues/4535",
+      "createdAt": "2026-03-03T14:06:55.281Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
