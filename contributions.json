@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772548039065,
+      "repository": "FL550/dwd_weather",
+      "issueTitle": "Unexpected error fetching DWD Weather Coordinator",
+      "url": "https://github.com/FL550/dwd_weather/issues/238",
+      "createdAt": "2026-03-03T14:27:19.065Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
