@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772501155830,
-      "repository": "nextcloud/mail",
-      "issueTitle": "Pin tags in the sidebar",
-      "url": "https://github.com/nextcloud/mail/issues/11074",
-      "createdAt": "2026-03-03T01:25:55.830Z",
+      "id": 1772501190656,
+      "repository": "nextcloud/maps",
+      "issueTitle": "[Bug]: Call to undefined method OC\\\\DB\\\\QueryBuilder\\\\QueryBuilder::execute() in TracksService.php",
+      "url": "https://github.com/nextcloud/maps/issues/1521",
+      "createdAt": "2026-03-03T01:26:30.656Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
