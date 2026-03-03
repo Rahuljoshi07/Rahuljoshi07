@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772498337144,
+      "repository": "mesa/mesa-llm",
+      "issueTitle": "bug: ReWOOReasoning.aplan() uses sync generate_obs() instead of async",
+      "url": "https://github.com/mesa/mesa-llm/issues/132",
+      "createdAt": "2026-03-03T00:38:57.144Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
