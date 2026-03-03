@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772534230078,
+      "repository": "wagtail/guide",
+      "issueTitle": "guide llms.txt improvements",
+      "url": "https://github.com/wagtail/guide/issues/414",
+      "createdAt": "2026-03-03T10:37:10.078Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
