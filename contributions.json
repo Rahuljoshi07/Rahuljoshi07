@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772525511516,
+      "repository": "Jasons-impart/Create-Delight-Remake",
+      "issueTitle": "Mouse Tweaks 鼠标滚轮特性在 Quark 板条箱上的表现劣化",
+      "url": "https://github.com/Jasons-impart/Create-Delight-Remake/issues/1476",
+      "createdAt": "2026-03-03T08:11:51.516Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
