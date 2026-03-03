@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772548546594,
+      "repository": "snazzybean/roommind",
+      "issueTitle": "TRVs with only temperature control are not working as intended",
+      "url": "https://github.com/snazzybean/roommind/issues/30",
+      "createdAt": "2026-03-03T14:35:46.594Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
