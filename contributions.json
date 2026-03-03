@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772538760072,
+      "repository": "xtremexq/StremioSubMaker",
+      "issueTitle": "Rate limit even with Gold member acc on opensubtitle",
+      "url": "https://github.com/xtremexq/StremioSubMaker/issues/85",
+      "createdAt": "2026-03-03T11:52:40.072Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
