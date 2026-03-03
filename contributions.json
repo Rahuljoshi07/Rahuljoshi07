@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772508616756,
+      "repository": "rockcarver/frodo-cli",
+      "issueTitle": "Import changing modified date on scripts/policysets/resource types without making changes",
+      "url": "https://github.com/rockcarver/frodo-cli/issues/519",
+      "createdAt": "2026-03-03T03:30:16.756Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
