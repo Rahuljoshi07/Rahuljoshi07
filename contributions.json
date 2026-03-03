@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772550139337,
+      "repository": "QuangquyNguyenvo/Sameko-Dev-CPP",
+      "issueTitle": "[BUG] Random \"RTE\" (Runtime Error) when using the \"Run All\" feature for Test Cases",
+      "url": "https://github.com/QuangquyNguyenvo/Sameko-Dev-CPP/issues/27",
+      "createdAt": "2026-03-03T15:02:19.337Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
