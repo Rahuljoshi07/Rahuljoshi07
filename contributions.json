@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772552925116,
+      "repository": "microlinkhq/html-get",
+      "issueTitle": "[Detail Bug] Prerender: response missing statusCode/redirects when both prerender and fetch fail",
+      "url": "https://github.com/microlinkhq/html-get/issues/237",
+      "createdAt": "2026-03-03T15:48:45.116Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
