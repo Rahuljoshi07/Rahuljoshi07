@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772510529589,
+      "repository": "hackforla/food-oasis",
+      "issueTitle": "BUG: Org edit screen - long and lat error message blocking validation, should explain what the reason for the error is",
+      "url": "https://github.com/hackforla/food-oasis/issues/2691",
+      "createdAt": "2026-03-03T04:02:09.589Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
