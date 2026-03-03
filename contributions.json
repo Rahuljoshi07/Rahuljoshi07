@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772503458558,
+      "repository": "cenodude/CrossWatch",
+      "issueTitle": "[bug] /api/config redaction and UI save can overwrite secrets",
+      "url": "https://github.com/cenodude/CrossWatch/issues/122",
+      "createdAt": "2026-03-03T02:04:18.559Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
