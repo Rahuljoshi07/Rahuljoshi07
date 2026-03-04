@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772632251122,
+      "id": 1772632327788,
       "repository": "physicshub/physicshub.github.io",
       "issueTitle": "[Bug]: Ball in BouncingBall, BallAcceleration and Test sim isn't showed",
       "url": "https://github.com/physicshub/physicshub.github.io/issues/194",
-      "createdAt": "2026-03-04T13:50:51.122Z",
+      "createdAt": "2026-03-04T13:52:07.788Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
