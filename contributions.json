@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772611524724,
+      "repository": "Chouffy/home_assistant_tgtg",
+      "issueTitle": "[bug] TgtgLoginError 403 Captcha",
+      "url": "https://github.com/Chouffy/home_assistant_tgtg/issues/187",
+      "createdAt": "2026-03-04T08:05:24.724Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
