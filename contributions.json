@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772650516434,
+      "id": 1772650553822,
       "repository": "Guardians-Stuff/Guardian",
       "issueTitle": "Revert everything to Typescript",
       "url": "https://github.com/Guardians-Stuff/Guardian/issues/49",
-      "createdAt": "2026-03-04T18:55:16.434Z",
+      "createdAt": "2026-03-04T18:55:53.822Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
