@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772646442949,
+      "repository": "deimos-deimos/comfy_api_simplified",
+      "issueTitle": "ValueError: Node 'Empty Latent Image' not found.",
+      "url": "https://github.com/deimos-deimos/comfy_api_simplified/issues/10",
+      "createdAt": "2026-03-04T17:47:22.950Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
