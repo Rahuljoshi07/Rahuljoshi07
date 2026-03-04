@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772641750346,
+      "repository": "SteveSteve24/MediCzuwacz",
+      "issueTitle": "AttributeError when \"Wizyta dodatkowa\" is shown instead of doctor name",
+      "url": "https://github.com/SteveSteve24/MediCzuwacz/issues/14",
+      "createdAt": "2026-03-04T16:29:10.346Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
