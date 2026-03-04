@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772597033331,
+      "repository": "pierreb-devkit/Node",
+      "issueTitle": "chore(pull-request skill): forward stack-related review comments as upstream issues",
+      "url": "https://github.com/pierreb-devkit/Node/issues/3180",
+      "createdAt": "2026-03-04T04:03:53.331Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
