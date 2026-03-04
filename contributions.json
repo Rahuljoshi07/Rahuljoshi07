@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772609534885,
+      "repository": "gem/oq-engine",
+      "issueTitle": "Save memory in tiling calculations",
+      "url": "https://github.com/gem/oq-engine/issues/11139",
+      "createdAt": "2026-03-04T07:32:14.885Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
