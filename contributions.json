@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772649324884,
+      "repository": "openakita/openakita",
+      "issueTitle": "Bug: rpm_limit configuration has no effect (always treated as 0)",
+      "url": "https://github.com/openakita/openakita/issues/57",
+      "createdAt": "2026-03-04T18:35:24.884Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
