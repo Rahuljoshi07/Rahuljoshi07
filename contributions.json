@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772593595022,
+      "repository": "nextcloud/appstore",
+      "issueTitle": "Add EUPL-1.2 to accepted licence identifiers",
+      "url": "https://github.com/nextcloud/appstore/issues/1710",
+      "createdAt": "2026-03-04T03:06:35.022Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
