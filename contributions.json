@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772634093249,
+      "repository": "vaadin/web-components",
+      "issueTitle": "[dialog] incorrect text colors when using mixed color schemes",
+      "url": "https://github.com/vaadin/web-components/issues/11244",
+      "createdAt": "2026-03-04T14:21:33.249Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
