@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772713078503,
+      "repository": "airbus/discrete-optimization",
+      "issueTitle": "Add a test for discrete_optimization/rcpsp_multiskill/solvers/multimode_transposition.py",
+      "url": "https://github.com/airbus/discrete-optimization/issues/16",
+      "createdAt": "2026-03-05T12:17:58.503Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
