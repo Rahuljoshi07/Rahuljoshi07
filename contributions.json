@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772683439134,
+      "repository": "pierreb-devkit/Node",
+      "issueTitle": "chore(pull-request skill): forward stack-related review comments as upstream issues",
+      "url": "https://github.com/pierreb-devkit/Node/issues/3180",
+      "createdAt": "2026-03-05T04:03:59.134Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
