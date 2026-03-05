@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772697757142,
+      "repository": "CAMeL-Lab/camel_tools",
+      "issueTitle": "[BUG] BERTUnfactoredDisambiguator.pretrained() clips text when special character � exists",
+      "url": "https://github.com/CAMeL-Lab/camel_tools/issues/159",
+      "createdAt": "2026-03-05T08:02:37.142Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
