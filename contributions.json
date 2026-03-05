@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772684567381,
+      "repository": "bouob/tickets_hunter",
+      "issueTitle": "[BUG] 拓元-会點進不足目标張数的場次  无法成功输入票数  而是反覆輸入驗證碼並嘗試送出",
+      "url": "https://github.com/bouob/tickets_hunter/issues/255",
+      "createdAt": "2026-03-05T04:22:47.381Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
