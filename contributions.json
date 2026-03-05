@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772715369846,
+      "repository": "apiaddicts/openapi2postman",
+      "issueTitle": "bug: review the security issues",
+      "url": "https://github.com/apiaddicts/openapi2postman/issues/112",
+      "createdAt": "2026-03-05T12:56:09.846Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
