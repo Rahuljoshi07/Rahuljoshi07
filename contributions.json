@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772726326493,
+      "repository": "djust-org/djust",
+      "issueTitle": "Exception swallowing in event handlers: Python exceptions are silently caught and reported as DJE-053 instead of surfacing the real error",
+      "url": "https://github.com/djust-org/djust/issues/413",
+      "createdAt": "2026-03-05T15:58:46.494Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
