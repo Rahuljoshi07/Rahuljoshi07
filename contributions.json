@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772680023635,
+      "repository": "nextcloud/appstore",
+      "issueTitle": "Add EUPL-1.2 to accepted licence identifiers",
+      "url": "https://github.com/nextcloud/appstore/issues/1710",
+      "createdAt": "2026-03-05T03:07:03.635Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
