@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772692727071,
+      "id": 1772692801113,
       "repository": "JdeRobot/VisualCircuit",
       "issueTitle": "Facing dependency issues when trying to setup the frontend",
       "url": "https://github.com/JdeRobot/VisualCircuit/issues/403",
-      "createdAt": "2026-03-05T06:38:47.071Z",
+      "createdAt": "2026-03-05T06:40:01.113Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
