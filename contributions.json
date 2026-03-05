@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772717053011,
+      "repository": "samzilverberg/cordova-mixpanel-plugin",
+      "issueTitle": "Issue with ionic v3 - cordova iOS - App crashes as soon as Mixpanel is invoked",
+      "url": "https://github.com/samzilverberg/cordova-mixpanel-plugin/issues/125",
+      "createdAt": "2026-03-05T13:24:13.011Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
