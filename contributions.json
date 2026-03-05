@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772719028340,
-      "repository": "tile-ai/TileOPs",
-      "issueTitle": "[META][CI] CI stability and performance overhaul — target 90% time reduction",
-      "url": "https://github.com/tile-ai/TileOPs/issues/358",
-      "createdAt": "2026-03-05T13:57:08.340Z",
+      "id": 1772719093087,
+      "repository": "spacetelescope/jdaviz",
+      "issueTitle": "[BUG] blinking after batch_load doesn't work",
+      "url": "https://github.com/spacetelescope/jdaviz/issues/3940",
+      "createdAt": "2026-03-05T13:58:13.087Z",
       "type": "comment",
-      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
