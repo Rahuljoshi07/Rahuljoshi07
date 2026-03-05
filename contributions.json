@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772685347637,
+      "repository": "RobotWebTools/rclnodejs",
+      "issueTitle": "Fix CHECK_OP_AND_THROW_ERROR_IF_NOT_TRUE error",
+      "url": "https://github.com/RobotWebTools/rclnodejs/issues/1405",
+      "createdAt": "2026-03-05T04:35:47.637Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
