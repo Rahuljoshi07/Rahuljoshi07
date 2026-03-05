@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772711878399,
-      "repository": "OWASP/cornucopia",
-      "issueTitle": "Bug: Unclosed file handles (resource leak) in convert_asvs.py create_level_summary()",
-      "url": "https://github.com/OWASP/cornucopia/issues/2491",
-      "createdAt": "2026-03-05T11:57:58.399Z",
+      "id": 1772711932736,
+      "repository": "kyma-project/busola",
+      "issueTitle": "Error in console: 'Unable to cast value to a number' in Pizza details",
+      "url": "https://github.com/kyma-project/busola/issues/4559",
+      "createdAt": "2026-03-05T11:58:52.736Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
