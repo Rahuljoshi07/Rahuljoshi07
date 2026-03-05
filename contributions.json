@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772724400596,
+      "repository": "reginacas/sense-ui",
+      "issueTitle": "SenseUI not loading",
+      "url": "https://github.com/reginacas/sense-ui/issues/152",
+      "createdAt": "2026-03-05T15:26:40.596Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
