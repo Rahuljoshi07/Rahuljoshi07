@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772723366250,
+      "repository": "geopython/pygeoapi",
+      "issueTitle": "Linked Data Support (LD) in pygeoapi",
+      "url": "https://github.com/geopython/pygeoapi/issues/2176",
+      "createdAt": "2026-03-05T15:09:26.250Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
