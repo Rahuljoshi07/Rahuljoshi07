@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772784920663,
+      "repository": "openakita/openakita",
+      "issueTitle": "[BUG] Ubuntu24.04 系统安装后运行openakita,后端可执行文件不存在: /home/ls/.openakita/venv/bin/python",
+      "url": "https://github.com/openakita/openakita/issues/69",
+      "createdAt": "2026-03-06T08:15:20.663Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
