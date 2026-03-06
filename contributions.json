@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772782970418,
+      "repository": "zylos-ai/zylos-core",
+      "issueTitle": "Bootstrap: support setup-token auth flow (CLAUDE_CODE_OAUTH_TOKEN not activated)",
+      "url": "https://github.com/zylos-ai/zylos-core/issues/255",
+      "createdAt": "2026-03-06T07:42:50.418Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
