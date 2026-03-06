@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772765655847,
+      "repository": "ancsemi/Haven",
+      "issueTitle": "Potential Decryption Issue?",
+      "url": "https://github.com/ancsemi/Haven/issues/66",
+      "createdAt": "2026-03-06T02:54:15.847Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
