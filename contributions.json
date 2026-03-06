@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772794283576,
+      "repository": "iobroker-community-adapters/ioBroker.epson_stylus_px830",
+      "issueTitle": "Please consider fixing issues detected by repository checker",
+      "url": "https://github.com/iobroker-community-adapters/ioBroker.epson_stylus_px830/issues/280",
+      "createdAt": "2026-03-06T10:51:23.576Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
