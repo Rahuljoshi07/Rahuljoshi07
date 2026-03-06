@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772793920273,
+      "repository": "chemelli74/aiovodafone",
+      "issueTitle": "KeyError: 'wifi_network_onoff_guest_5g' when guest 5GHz network is not configured",
+      "url": "https://github.com/chemelli74/aiovodafone/issues/397",
+      "createdAt": "2026-03-06T10:45:20.273Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
