@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772777411500,
+      "repository": "pinpoint-apm/pinpoint-node-agent",
+      "issueTitle": "URI",
+      "url": "https://github.com/pinpoint-apm/pinpoint-node-agent/issues/403",
+      "createdAt": "2026-03-06T06:10:11.500Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. (Suggested by..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
