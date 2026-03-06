@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772780435585,
+      "repository": "nexi-lab/nexus",
+      "issueTitle": "fix(events): event ordering guarantee with sequence-based delivery",
+      "url": "https://github.com/nexi-lab/nexus/issues/2755",
+      "createdAt": "2026-03-06T07:00:35.585Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
