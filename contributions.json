@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772772123330,
+      "repository": "qingchencloud/clawpanel",
+      "issueTitle": "[Bug] 已经手动安装过的，还需要初始化识别不到",
+      "url": "https://github.com/qingchencloud/clawpanel/issues/3",
+      "createdAt": "2026-03-06T04:42:03.330Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
