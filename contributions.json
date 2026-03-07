@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772869411184,
+      "repository": "dataelement/Clawith",
+      "issueTitle": "Failed to call qwen-max model when executing task",
+      "url": "https://github.com/dataelement/Clawith/issues/8",
+      "createdAt": "2026-03-07T07:43:31.184Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
