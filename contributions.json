@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772869856374,
+      "repository": "ivLis-Studio/ivLyrics",
+      "issueTitle": "[BUG] Cover art background dosent cover the right bottom area",
+      "url": "https://github.com/ivLis-Studio/ivLyrics/issues/61",
+      "createdAt": "2026-03-07T07:50:56.374Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
