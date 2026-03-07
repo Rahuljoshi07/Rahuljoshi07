@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772848202215,
+      "repository": "nextcloud/tables",
+      "issueTitle": "Can add a line. Value for column NAME exceeds maximum length of -1",
+      "url": "https://github.com/nextcloud/tables/issues/2366",
+      "createdAt": "2026-03-07T01:50:02.215Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
