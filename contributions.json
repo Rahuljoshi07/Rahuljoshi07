@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772859126708,
+      "repository": "Lexonight1/thermalright-trcc-linux",
+      "issueTitle": "[BUG] Resume Custom theme - overlay symptom",
+      "url": "https://github.com/Lexonight1/thermalright-trcc-linux/issues/58",
+      "createdAt": "2026-03-07T04:52:06.708Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
