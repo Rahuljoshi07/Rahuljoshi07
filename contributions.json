@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1772946736287,
+      "id": 1772946803754,
       "repository": "ancsemi/Haven",
       "issueTitle": "[Bug] Emoji management has no scrollbar",
       "url": "https://github.com/ancsemi/Haven/issues/130",
-      "createdAt": "2026-03-08T05:12:16.287Z",
+      "createdAt": "2026-03-08T05:13:23.754Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
