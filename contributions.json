@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772953572958,
+      "repository": "Myyura/the_kai_project",
+      "issueTitle": "[格式审阅] 2026-03-07 — 93 errors, 183 warnings (共 884 文件)",
+      "url": "https://github.com/Myyura/the_kai_project/issues/109",
+      "createdAt": "2026-03-08T07:06:12.958Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
