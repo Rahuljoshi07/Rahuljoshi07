@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772972392342,
+      "repository": "Nitya-003/CropChain",
+      "issueTitle": "Broken Reconciliation Script and Redundant and Conflicting Security Middleware",
+      "url": "https://github.com/Nitya-003/CropChain/issues/152",
+      "createdAt": "2026-03-08T12:19:52.342Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
