@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772985037578,
+      "repository": "ShipSoft/FairShip",
+      "issueTitle": "TimeDet not centred if dimensions adjusted in geometry_config",
+      "url": "https://github.com/ShipSoft/FairShip/issues/439",
+      "createdAt": "2026-03-08T15:50:37.578Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
