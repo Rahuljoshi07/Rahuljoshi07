@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772997754547,
+      "repository": "CleoMenezesJr/MosaicWM",
+      "issueTitle": "[Bug]: Edge tiling on one half causes issues with mosaic tiling on the other half of workspace",
+      "url": "https://github.com/CleoMenezesJr/MosaicWM/issues/50",
+      "createdAt": "2026-03-08T19:22:34.547Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
