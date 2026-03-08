@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772967819441,
+      "repository": "ebibibi/claude-code-discord-bridge",
+      "issueTitle": "Git pull clobbers paths in `pre-start.sh`",
+      "url": "https://github.com/ebibibi/claude-code-discord-bridge/issues/273",
+      "createdAt": "2026-03-08T11:03:39.441Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
