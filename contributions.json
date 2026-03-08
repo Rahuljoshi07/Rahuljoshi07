@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772953457155,
+      "repository": "pocketpaw/pocketpaw",
+      "issueTitle": "File browser returns empty list when directory contains many hidden files",
+      "url": "https://github.com/pocketpaw/pocketpaw/issues/496",
+      "createdAt": "2026-03-08T07:04:17.155Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
