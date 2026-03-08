@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773012906384,
+      "repository": "homelab-00/TranscriptionSuite",
+      "issueTitle": "v1.1.2 crashes immediately with SIGILL after recent system updates — v1.1.1 works",
+      "url": "https://github.com/homelab-00/TranscriptionSuite/issues/22",
+      "createdAt": "2026-03-08T23:35:06.384Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
