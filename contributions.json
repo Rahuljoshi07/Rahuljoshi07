@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1772953321588,
-      "repository": "SignalK/signalk-to-nmea0183",
-      "issueTitle": "wrong time in generated GLL sentence (local time instead of UTC)",
-      "url": "https://github.com/SignalK/signalk-to-nmea0183/issues/96",
-      "createdAt": "2026-03-08T07:02:01.588Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
