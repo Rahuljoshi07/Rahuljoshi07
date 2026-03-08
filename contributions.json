@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772932447298,
+      "repository": "Aivis-Project/AivisSpeech-Engine",
+      "issueTitle": "メモ機能 - AivisSpeech Bug, but not VOICEVOX Bug",
+      "url": "https://github.com/Aivis-Project/AivisSpeech-Engine/issues/34",
+      "createdAt": "2026-03-08T01:14:07.298Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
