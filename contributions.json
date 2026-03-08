@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772934425973,
+      "repository": "Comfy-Org/workflow_templates",
+      "issueTitle": "[Template Bug]: Flux1 Krea Prompt execution failed (followed guide and place all files in the right place)",
+      "url": "https://github.com/Comfy-Org/workflow_templates/issues/631",
+      "createdAt": "2026-03-08T01:47:05.973Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
