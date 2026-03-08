@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772968786815,
+      "repository": "jsonresume/jsonresume.org",
+      "issueTitle": "[Bug]: Consultant-Polished theme does not work with the resumed CLI",
+      "url": "https://github.com/jsonresume/jsonresume.org/issues/261",
+      "createdAt": "2026-03-08T11:19:46.815Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
