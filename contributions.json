@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772976736648,
+      "repository": "cenodude/CrossWatch",
+      "issueTitle": "[bug] Excessive scheduler start/stop logs",
+      "url": "https://github.com/cenodude/CrossWatch/issues/132",
+      "createdAt": "2026-03-08T13:32:16.648Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
