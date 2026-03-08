@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772942086473,
+      "repository": "autoclaw-cc/xiaohongshu-skills",
+      "issueTitle": "[Bug]: SKILL.md 中 os 字段使用 macos 导致 OpenClaw 把所有技能被标记为 blocked",
+      "url": "https://github.com/autoclaw-cc/xiaohongshu-skills/issues/21",
+      "createdAt": "2026-03-08T03:54:46.473Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
