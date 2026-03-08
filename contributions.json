@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1772993233560,
+      "repository": "nem-web/smart-attendance",
+      "issueTitle": "[FEATURE] Replace Trivial Face Embeddings with Deep-Learning Model",
+      "url": "https://github.com/nem-web/smart-attendance/issues/494",
+      "createdAt": "2026-03-08T18:07:13.560Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
