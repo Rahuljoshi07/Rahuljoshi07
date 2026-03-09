@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773087468347,
+      "repository": "MozillaSecurity/bugmon",
+      "issueTitle": "Don't update bug if it's changed since fetching",
+      "url": "https://github.com/MozillaSecurity/bugmon/issues/64",
+      "createdAt": "2026-03-09T20:17:48.347Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
