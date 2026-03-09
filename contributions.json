@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773089630494,
+      "repository": "dwomble/EDMC-NeutronDancer",
+      "issueTitle": "Cooldown popup not working on Linux",
+      "url": "https://github.com/dwomble/EDMC-NeutronDancer/issues/25",
+      "createdAt": "2026-03-09T20:53:50.494Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
