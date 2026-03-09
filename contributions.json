@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773063649012,
+      "repository": "SpaceCowMedia/commander-spellbook-backend",
+      "issueTitle": "Improve Efficiency of Variant Generation",
+      "url": "https://github.com/SpaceCowMedia/commander-spellbook-backend/issues/900",
+      "createdAt": "2026-03-09T13:40:49.013Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. This suggestion is particularly relevant..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
