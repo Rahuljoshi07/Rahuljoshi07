@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773065290867,
+      "repository": "kyuz0/amd-strix-halo-vllm-toolboxes",
+      "issueTitle": "start-vllm bug and performance issue",
+      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/issues/19",
+      "createdAt": "2026-03-09T14:08:10.867Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
