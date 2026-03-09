@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773019209488,
+      "repository": "michaelbeijer/Supervertaler",
+      "issueTitle": "[BUG] \"Ollama is not running\"",
+      "url": "https://github.com/michaelbeijer/Supervertaler/issues/177",
+      "createdAt": "2026-03-09T01:20:09.488Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
