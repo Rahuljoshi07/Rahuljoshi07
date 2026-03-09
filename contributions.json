@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773082317581,
-      "repository": "NASA-AMMOS/MMGIS",
-      "issueTitle": "[Quality of Life]: Create a Demo/Testing Mission that exposes every feature",
-      "url": "https://github.com/NASA-AMMOS/MMGIS/issues/885",
-      "createdAt": "2026-03-09T18:51:57.581Z",
+      "id": 1773082362412,
+      "repository": "digidem/comapeo-core",
+      "issueTitle": "Ensure kCreateWithDocId calls aren't overriding existing docs",
+      "url": "https://github.com/digidem/comapeo-core/issues/1234",
+      "createdAt": "2026-03-09T18:52:42.413Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
