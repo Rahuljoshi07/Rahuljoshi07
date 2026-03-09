@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773027587280,
+      "repository": "pyapp-kit/ndv",
+      "issueTitle": "bug: `np.ones()` not visible on vispy",
+      "url": "https://github.com/pyapp-kit/ndv/issues/242",
+      "createdAt": "2026-03-09T03:39:47.280Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
