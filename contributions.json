@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773068482155,
+      "id": 1773068531825,
       "repository": "elastic/apm-agent-nodejs",
       "issueTitle": "AWS Lambda support does not work with `nodejs24.x` Lambda runtime",
       "url": "https://github.com/elastic/apm-agent-nodejs/issues/4972",
-      "createdAt": "2026-03-09T15:01:22.155Z",
+      "createdAt": "2026-03-09T15:02:11.825Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
     }
   ],
   "stats": {
