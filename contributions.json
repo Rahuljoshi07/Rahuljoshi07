@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773053892383,
+      "repository": "tarsil/saffier",
+      "issueTitle": "About automatically adding the id field as the primary key.",
+      "url": "https://github.com/tarsil/saffier/issues/123",
+      "createdAt": "2026-03-09T10:58:12.383Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
