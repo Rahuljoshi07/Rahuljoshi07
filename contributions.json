@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773043954238,
+      "repository": "DeKaN/ha-boneco",
+      "issueTitle": "Error when trying to add integration",
+      "url": "https://github.com/DeKaN/ha-boneco/issues/15",
+      "createdAt": "2026-03-09T08:12:34.238Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
