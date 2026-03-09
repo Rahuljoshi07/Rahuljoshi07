@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773071241627,
+      "repository": "detrohutt/babel-plugin-import-graphql",
+      "issueTitle": "Jest: TypeError [ERR_INVALID_ARG_TYPE]: The \"path\" argument must be of type string. Received undefined",
+      "url": "https://github.com/detrohutt/babel-plugin-import-graphql/issues/89",
+      "createdAt": "2026-03-09T15:47:21.627Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
