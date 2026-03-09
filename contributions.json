@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773041618097,
+      "repository": "nlbwqmz/wj-markdown-editor",
+      "issueTitle": "[Bugs] 2.13.2版本的搜索跳转功能不可用",
+      "url": "https://github.com/nlbwqmz/wj-markdown-editor/issues/30",
+      "createdAt": "2026-03-09T07:33:38.097Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
