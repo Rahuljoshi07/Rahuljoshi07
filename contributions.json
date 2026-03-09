@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773073850693,
+      "repository": "dbt-labs/docs.getdbt.com",
+      "issueTitle": "[Core] Docs Changes Needed from dbt-core Issue #12080",
+      "url": "https://github.com/dbt-labs/docs.getdbt.com/issues/8734",
+      "createdAt": "2026-03-09T16:30:50.693Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
