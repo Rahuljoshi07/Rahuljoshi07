@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773086992369,
+      "repository": "NVIDIA-NeMo/DataDesigner",
+      "issueTitle": "configure_logging() called before DataDesigner() is silently overwritten",
+      "url": "https://github.com/NVIDIA-NeMo/DataDesigner/issues/388",
+      "createdAt": "2026-03-09T20:09:52.369Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
