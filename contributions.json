@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773079927403,
+      "repository": "frappe/wiki",
+      "issueTitle": "[Broken Links Report] All third-party links are incorrectly flagged as broken",
+      "url": "https://github.com/frappe/wiki/issues/575",
+      "createdAt": "2026-03-09T18:12:07.403Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
