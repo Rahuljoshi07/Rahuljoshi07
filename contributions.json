@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773064556930,
+      "repository": "hw-native-sys/pypto",
+      "issueTitle": "[Bug] matmulacc 64x64x64 output does not match golden — all 4096 elements mismatched",
+      "url": "https://github.com/hw-native-sys/pypto/issues/411",
+      "createdAt": "2026-03-09T13:55:56.931Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
