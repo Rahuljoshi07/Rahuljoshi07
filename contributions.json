@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773087606755,
+      "repository": "physicshub/physicshub.github.io",
+      "issueTitle": "[Bug]: Ball in ball simulations and ParabolicMotion is loosing power (again)",
+      "url": "https://github.com/physicshub/physicshub.github.io/issues/226",
+      "createdAt": "2026-03-09T20:20:06.755Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
