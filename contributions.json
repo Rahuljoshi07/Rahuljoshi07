@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773019476581,
+      "repository": "mdn/fred",
+      "issueTitle": "Post-launch build workflow improvements",
+      "url": "https://github.com/mdn/fred/issues/575",
+      "createdAt": "2026-03-09T01:24:36.582Z",
+      "type": "comment",
+      "content": "Adding TypeScript could prevent type-related bugs and improve maintainability. (Suggested by Rahul J..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
