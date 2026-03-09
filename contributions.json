@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773028524599,
+      "repository": "moo-man/WFRP4e-FoundryVTT",
+      "issueTitle": "[High Elf Bundle] High elf player guide Foundry module issue",
+      "url": "https://github.com/moo-man/WFRP4e-FoundryVTT/issues/2734",
+      "createdAt": "2026-03-09T03:55:24.600Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
