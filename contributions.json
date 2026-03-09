@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773089093603,
+      "repository": "airqo-platform/AirQo-api",
+      "issueTitle": "device_categories.all_categories returns individual characters instead of full strings on GET /api/v2/devices/readings/map",
+      "url": "https://github.com/airqo-platform/AirQo-api/issues/6189",
+      "createdAt": "2026-03-09T20:44:53.603Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
