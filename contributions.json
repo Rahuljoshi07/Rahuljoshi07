@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773019746868,
+      "repository": "glromeo/esbuild-sass-plugin",
+      "issueTitle": "WARNING: Error logging while running loader",
+      "url": "https://github.com/glromeo/esbuild-sass-plugin/issues/187",
+      "createdAt": "2026-03-09T01:29:06.868Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
