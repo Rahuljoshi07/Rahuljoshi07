@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773086075409,
+      "repository": "jlab-sensing/ENTS-backend",
+      "issueTitle": "ci: GitHub Actions fail on fork PRs due to missing AWS credentials and .env secrets",
+      "url": "https://github.com/jlab-sensing/ENTS-backend/issues/681",
+      "createdAt": "2026-03-09T19:54:35.409Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
