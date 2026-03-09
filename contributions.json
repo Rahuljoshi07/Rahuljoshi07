@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773071892640,
+      "id": 1773071927485,
       "repository": "GrottoCenter/grottocenter-api",
       "issueTitle": "Performance: Pre-compute and cache all entrances for map heatmap endpoint",
       "url": "https://github.com/GrottoCenter/grottocenter-api/issues/1473",
-      "createdAt": "2026-03-09T15:58:12.640Z",
+      "createdAt": "2026-03-09T15:58:47.485Z",
       "type": "comment",
-      "content": "Consider using virtual scrolling for large lists to improve performance. This suggestion is particul..."
+      "content": "Debouncing or throttling might help with frequent event handlers. This suggestion is particularly re..."
     }
   ],
   "stats": {
