@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773024952621,
+      "repository": "intel/auto-round",
+      "issueTitle": "[Bug]: Qwen3.5 series model fail infer for gguf format",
+      "url": "https://github.com/intel/auto-round/issues/1513",
+      "createdAt": "2026-03-09T02:55:52.621Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
