@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773026633743,
+      "repository": "oceanbase/powermem",
+      "issueTitle": "[Bug]: OpenAI embedder provider config missing validation_alias",
+      "url": "https://github.com/oceanbase/powermem/issues/297",
+      "createdAt": "2026-03-09T03:23:53.743Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
