@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773025682146,
+      "repository": "cyruzzo/AboveVTT",
+      "issueTitle": "Exported scene is in original, rather than current, folder",
+      "url": "https://github.com/cyruzzo/AboveVTT/issues/4008",
+      "createdAt": "2026-03-09T03:08:02.146Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
