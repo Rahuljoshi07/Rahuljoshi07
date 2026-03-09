@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773055333946,
+      "repository": "ansys/actions",
+      "issueTitle": "doc-deploy-stable fails if the first published version is a pre-release",
+      "url": "https://github.com/ansys/actions/issues/1192",
+      "createdAt": "2026-03-09T11:22:13.947Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
