@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773060489631,
+      "repository": "PGScatalog/PGS_Catalog",
+      "issueTitle": "Flagging scores that are partitioned (e.g. not full genome-wide)",
+      "url": "https://github.com/PGScatalog/PGS_Catalog/issues/472",
+      "createdAt": "2026-03-09T12:48:09.631Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
