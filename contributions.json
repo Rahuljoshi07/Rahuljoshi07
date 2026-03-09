@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773041357613,
+      "repository": "ROCm/TheRock",
+      "issueTitle": "[Issue]:  amd-llvm project isn't marked as exporting openmp",
+      "url": "https://github.com/ROCm/TheRock/issues/3839",
+      "createdAt": "2026-03-09T07:29:17.613Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
