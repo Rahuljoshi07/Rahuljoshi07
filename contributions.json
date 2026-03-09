@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1773037266465,
-      "repository": "databricks/databricks-sql-python",
-      "issueTitle": "Session is not set in object if connection fails, which raises 'AttributeError' on __del__",
-      "url": "https://github.com/databricks/databricks-sql-python/issues/746",
-      "createdAt": "2026-03-09T06:21:06.465Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
