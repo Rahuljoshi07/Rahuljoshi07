@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773045008161,
+      "repository": "canonical/postgresql-k8s-operator",
+      "issueTitle": "handle pgBackRest archive timeout (exit code 82) in check_stanza",
+      "url": "https://github.com/canonical/postgresql-k8s-operator/issues/1302",
+      "createdAt": "2026-03-09T08:30:08.161Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
