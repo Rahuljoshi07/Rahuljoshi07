@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773076426418,
+      "repository": "paralleldrive/aidd",
+      "issueTitle": "feat(aidd create): Add `--prompt=\"<your prompt>\"` to scaffold generator",
+      "url": "https://github.com/paralleldrive/aidd/issues/132",
+      "createdAt": "2026-03-09T17:13:46.418Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
