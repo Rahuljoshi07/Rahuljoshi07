@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773021747882,
+      "repository": "nextcloud/mail",
+      "issueTitle": "Deep links for message IDs",
+      "url": "https://github.com/nextcloud/mail/issues/2269",
+      "createdAt": "2026-03-09T02:02:27.882Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
