@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773059752801,
+      "repository": "cenobites/flask-jsonrpc",
+      "issueTitle": "Feature request: better return type documentation in API browser",
+      "url": "https://github.com/cenobites/flask-jsonrpc/issues/737",
+      "createdAt": "2026-03-09T12:35:52.802Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
