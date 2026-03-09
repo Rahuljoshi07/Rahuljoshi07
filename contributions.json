@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773048524311,
+      "repository": "x-extends/xe-utils",
+      "issueTitle": "不再支持具名导入了吗",
+      "url": "https://github.com/x-extends/xe-utils/issues/78",
+      "createdAt": "2026-03-09T09:28:44.311Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
