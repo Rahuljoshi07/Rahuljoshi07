@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773041948185,
+      "repository": "equinor/fmu-dataio",
+      "issueTitle": "Support surfaces with nan values",
+      "url": "https://github.com/equinor/fmu-dataio/issues/1601",
+      "createdAt": "2026-03-09T07:39:08.185Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
