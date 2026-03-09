@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773053035269,
+      "repository": "elisa-tech/BASIL",
+      "issueTitle": "[BUG] Work items not cloned in New Software Component Version creation",
+      "url": "https://github.com/elisa-tech/BASIL/issues/228",
+      "createdAt": "2026-03-09T10:43:55.269Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
