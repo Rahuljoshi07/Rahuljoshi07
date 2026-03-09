@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773040993457,
+      "repository": "alibosworth/pakon-planar-raw-converter",
+      "issueTitle": "Work around negfix8 issue which breaks parallel processing",
+      "url": "https://github.com/alibosworth/pakon-planar-raw-converter/issues/19",
+      "createdAt": "2026-03-09T07:23:13.457Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
