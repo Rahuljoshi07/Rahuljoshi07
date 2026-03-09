@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773052471267,
+      "repository": "brian-team/brian2genn",
+      "issueTitle": "Bug: network_run  profile handling checks stale parameter instead of resolved value",
+      "url": "https://github.com/brian-team/brian2genn/issues/167",
+      "createdAt": "2026-03-09T10:34:31.267Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
