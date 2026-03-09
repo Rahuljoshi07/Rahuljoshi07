@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773025308249,
-      "repository": "scidsg/hushline",
-      "issueTitle": "Remove Temporary Legacy Public Record Listings",
-      "url": "https://github.com/scidsg/hushline/issues/1517",
-      "createdAt": "2026-03-09T03:01:48.249Z",
+      "id": 1773025357193,
+      "repository": "rstackjs/rspack-dev-server",
+      "issueTitle": "Modifying files with only types doesn't trigger rebuild. No errors thrown by fork-ts-checker-webpack-plugin.",
+      "url": "https://github.com/rstackjs/rspack-dev-server/issues/15",
+      "createdAt": "2026-03-09T03:02:37.193Z",
       "type": "comment",
-      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
