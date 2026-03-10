@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773104088502,
+      "repository": "nextcloud/forms",
+      "issueTitle": "[Bug] Apostrophe in question labels displayed as &#039; in the form HTML page",
+      "url": "https://github.com/nextcloud/forms/issues/3213",
+      "createdAt": "2026-03-10T00:54:48.502Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
