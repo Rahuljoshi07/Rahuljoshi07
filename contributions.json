@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773128099832,
+      "repository": "canonical/traefik-k8s-operator",
+      "issueTitle": "Remove beta track from Traefik",
+      "url": "https://github.com/canonical/traefik-k8s-operator/issues/606",
+      "createdAt": "2026-03-10T07:34:59.833Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
