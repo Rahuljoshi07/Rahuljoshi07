@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773107725920,
+      "repository": "kagenti/kagenti",
+      "issueTitle": ":bug: auth-target-aud Keycloak client scope is never created breaking agent-to-tool communication on fresh clusters",
+      "url": "https://github.com/kagenti/kagenti/issues/882",
+      "createdAt": "2026-03-10T01:55:25.920Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
