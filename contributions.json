@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773104762994,
+      "repository": "TheScienceMuseum/collectionsonline",
+      "issueTitle": "Check for index regression on image caption",
+      "url": "https://github.com/TheScienceMuseum/collectionsonline/issues/2046",
+      "createdAt": "2026-03-10T01:06:02.994Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
