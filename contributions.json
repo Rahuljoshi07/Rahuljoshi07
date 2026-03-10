@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773102727141,
+      "repository": "archesproject/arches",
+      "issueTitle": "Loading images sometimes fails with server error",
+      "url": "https://github.com/archesproject/arches/issues/12636",
+      "createdAt": "2026-03-10T00:32:07.141Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
