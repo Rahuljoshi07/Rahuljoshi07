@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773114576202,
+      "repository": "hw-native-sys/pypto",
+      "issueTitle": "auto_incore scope not fully lowered: compute tensor ops leak into orchestration after chunk loop interchange",
+      "url": "https://github.com/hw-native-sys/pypto/issues/425",
+      "createdAt": "2026-03-10T03:49:36.202Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
