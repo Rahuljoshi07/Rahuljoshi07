@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773155147945,
+      "repository": "rysweet/amplihack",
+      "issueTitle": "default-workflow step 4 is not rerun-safe when branch/worktree already exists",
+      "url": "https://github.com/rysweet/amplihack/issues/3023",
+      "createdAt": "2026-03-10T15:05:47.945Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
