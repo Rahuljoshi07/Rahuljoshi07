@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773130182481,
+      "repository": "sailpoint-oss/python-sdk",
+      "issueTitle": "[Bug] Calling ManagedClustersApi->get_managed_clusters throws pydantic exception",
+      "url": "https://github.com/sailpoint-oss/python-sdk/issues/115",
+      "createdAt": "2026-03-10T08:09:42.481Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
