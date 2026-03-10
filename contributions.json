@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773133080066,
+      "repository": "Ascend/pytorch",
+      "issueTitle": "DataLoader加载数据集时遇到：AttributeError: '_MultiProcessingDataLoaderIter' object has no attribute '_in_order'",
+      "url": "https://github.com/Ascend/pytorch/issues/103",
+      "createdAt": "2026-03-10T08:58:00.066Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
