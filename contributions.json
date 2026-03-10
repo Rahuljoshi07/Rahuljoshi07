@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773129304144,
+      "repository": "nu-radio/NuRadioMC",
+      "issueTitle": "T03 Effective Volume Calculation Error",
+      "url": "https://github.com/nu-radio/NuRadioMC/issues/1065",
+      "createdAt": "2026-03-10T07:55:04.144Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
