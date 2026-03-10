@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773144090525,
+      "repository": "medic/cht-core",
+      "issueTitle": "Rate limiter can block requests with valid credentials that are unrelated to auth failures",
+      "url": "https://github.com/medic/cht-core/issues/10705",
+      "createdAt": "2026-03-10T12:01:30.525Z",
+      "type": "comment",
+      "content": "Adding TypeScript could improve code quality and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
