@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773150626268,
-      "repository": "wemake-services/django-modern-rest",
-      "issueTitle": "Big refactoring of `openapi/`",
-      "url": "https://github.com/wemake-services/django-modern-rest/issues/569",
-      "createdAt": "2026-03-10T13:50:26.268Z",
+      "id": 1773150660010,
+      "repository": "celbridge-org/celbridge",
+      "issueTitle": "cannot delete directory that contains sub-directories - but can delete non-empty directories",
+      "url": "https://github.com/celbridge-org/celbridge/issues/653",
+      "createdAt": "2026-03-10T13:51:00.010Z",
       "type": "comment",
-      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
