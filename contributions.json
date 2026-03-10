@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773159135224,
+      "repository": "openzim/gutenberg",
+      "issueTitle": "Book ePub are not always sufficiently compressed",
+      "url": "https://github.com/openzim/gutenberg/issues/376",
+      "createdAt": "2026-03-10T16:12:15.224Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
