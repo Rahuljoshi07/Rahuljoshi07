@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773136681889,
+      "repository": "vaadin/web-components",
+      "issueTitle": "[split-layout] content is visible outside split container",
+      "url": "https://github.com/vaadin/web-components/issues/10627",
+      "createdAt": "2026-03-10T09:58:01.889Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
