@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773121504136,
+      "repository": "dataelement/Clawith",
+      "issueTitle": "[Bug/Enhancement] Improve error handling for read-only filesystem on macOS local installation",
+      "url": "https://github.com/dataelement/Clawith/issues/22",
+      "createdAt": "2026-03-10T05:45:04.136Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
