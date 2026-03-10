@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773102066784,
+      "repository": "paralleldrive/aidd",
+      "issueTitle": "fix: post-merge follow-ups from PR #133 (aidd-churn)",
+      "url": "https://github.com/paralleldrive/aidd/issues/136",
+      "createdAt": "2026-03-10T00:21:06.785Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
