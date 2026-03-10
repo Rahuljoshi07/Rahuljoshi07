@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773101286536,
+      "repository": "evanp/ap",
+      "issueTitle": "Error getting inbox when there's a fake Follow activity in the box",
+      "url": "https://github.com/evanp/ap/issues/85",
+      "createdAt": "2026-03-10T00:08:06.536Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
