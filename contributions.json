@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773109559161,
+      "repository": "vpython/glowscript",
+      "issueTitle": "3d rendering Issue:",
+      "url": "https://github.com/vpython/glowscript/issues/182",
+      "createdAt": "2026-03-10T02:25:59.161Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
