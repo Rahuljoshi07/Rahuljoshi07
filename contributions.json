@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773138979741,
+      "repository": "shaarkys/com.xiaomi-miio",
+      "issueTitle": "Xiaomi Air Purifer Pro bugs",
+      "url": "https://github.com/shaarkys/com.xiaomi-miio/issues/308",
+      "createdAt": "2026-03-10T10:36:19.741Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
