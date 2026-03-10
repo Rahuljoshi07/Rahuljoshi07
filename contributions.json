@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773144697407,
+      "repository": "xuiltul/animaworks",
+      "issueTitle": "fix: Mode S session resume loses assistant text response — SDK transport SIGTERM race",
+      "url": "https://github.com/xuiltul/animaworks/issues/39",
+      "createdAt": "2026-03-10T12:11:37.407Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
