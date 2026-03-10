@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773102320363,
+      "repository": "snakemake/snakemake-workflow-catalog",
+      "issueTitle": "share links currently do not work with `usage=` or `wf=` short hands",
+      "url": "https://github.com/snakemake/snakemake-workflow-catalog/issues/66",
+      "createdAt": "2026-03-10T00:25:20.363Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
