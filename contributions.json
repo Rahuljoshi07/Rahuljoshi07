@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773110641713,
+      "repository": "matorral-project/matorral",
+      "issueTitle": "Remove \"View\" option from epic and milestone menus in listings",
+      "url": "https://github.com/matorral-project/matorral/issues/161",
+      "createdAt": "2026-03-10T02:44:01.713Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
