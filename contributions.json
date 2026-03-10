@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773110865652,
+      "repository": "qqaatw/JciHitachiHA",
+      "issueTitle": "ImportError: cannot import name 'SUPPORT_BRIGHTNESS'",
+      "url": "https://github.com/qqaatw/JciHitachiHA/issues/118",
+      "createdAt": "2026-03-10T02:47:45.653Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
