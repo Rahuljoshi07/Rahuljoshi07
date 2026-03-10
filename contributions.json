@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773113530120,
+      "repository": "hongquan/CoBang",
+      "issueTitle": "Add support for SAE Wifi Auth Type (and maybe catch the ValueError)",
+      "url": "https://github.com/hongquan/CoBang/issues/140",
+      "createdAt": "2026-03-10T03:32:10.120Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
