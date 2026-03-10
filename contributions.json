@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773136363016,
+      "repository": "ParadoxAlarmInterface/pai",
+      "issueTitle": "EVOHD+ Wrong System Power Values",
+      "url": "https://github.com/ParadoxAlarmInterface/pai/issues/545",
+      "createdAt": "2026-03-10T09:52:43.016Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
