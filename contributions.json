@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773150626268,
+      "repository": "wemake-services/django-modern-rest",
+      "issueTitle": "Big refactoring of `openapi/`",
+      "url": "https://github.com/wemake-services/django-modern-rest/issues/569",
+      "createdAt": "2026-03-10T13:50:26.268Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
