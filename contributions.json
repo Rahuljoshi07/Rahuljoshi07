@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773125897874,
+      "repository": "macaron-software/software-factory",
+      "issueTitle": "make run fails on Apple Silicon: Dockerfile hardcodes amd64 Docker repo/package and breaks platform-factory build",
+      "url": "https://github.com/macaron-software/software-factory/issues/4",
+      "createdAt": "2026-03-10T06:58:17.874Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
