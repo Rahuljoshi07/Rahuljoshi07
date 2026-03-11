@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773242961890,
+      "repository": "tenstorrent/tt-exalens",
+      "issueTitle": "[Bug Report] Using tt-exalens version 0.3.9 for Quasar testing on emulation causes errors on bringup",
+      "url": "https://github.com/tenstorrent/tt-exalens/issues/932",
+      "createdAt": "2026-03-11T15:29:21.890Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
