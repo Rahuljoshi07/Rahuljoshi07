@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773224464577,
+      "repository": "interledger/rfcs",
+      "issueTitle": "Confusion between transferId and Request ID in BTP error codes?",
+      "url": "https://github.com/interledger/rfcs/issues/591",
+      "createdAt": "2026-03-11T10:21:04.577Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
