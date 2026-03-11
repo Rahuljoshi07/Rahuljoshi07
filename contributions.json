@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773250603816,
+      "repository": "djdevil/person-tracker-card",
+      "issueTitle": "Potential Bug: Time and Distance both report the same value in mins",
+      "url": "https://github.com/djdevil/person-tracker-card/issues/24",
+      "createdAt": "2026-03-11T17:36:43.816Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
