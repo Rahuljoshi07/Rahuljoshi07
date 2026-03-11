@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773246956763,
+      "repository": "DataTalksClub/course-management-platform",
+      "issueTitle": "[Score Issue] Public links were submitted but score was not recorded",
+      "url": "https://github.com/DataTalksClub/course-management-platform/issues/155",
+      "createdAt": "2026-03-11T16:35:56.763Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
