@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773262623934,
+      "repository": "aralroca/next-translate-plugin",
+      "issueTitle": "Translations do not work on the first render of Client component when used in Layout",
+      "url": "https://github.com/aralroca/next-translate-plugin/issues/75",
+      "createdAt": "2026-03-11T20:57:03.935Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
