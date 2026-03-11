@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773192679035,
+      "repository": "ruaan-deysel/ha-unraid",
+      "issueTitle": "[Bug]: Unraid integration cannot add multiple servers if SMBIOS UUID is identical (common AMI BIOS placeholder UUID)",
+      "url": "https://github.com/ruaan-deysel/ha-unraid/issues/166",
+      "createdAt": "2026-03-11T01:31:19.035Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
