@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773220192096,
+      "id": 1773220258477,
       "repository": "zylos-ai/zylos-core",
-      "issueTitle": "feat: zylos-sync — browser ↔ Zylos agent instance connection",
-      "url": "https://github.com/zylos-ai/zylos-core/issues/243",
-      "createdAt": "2026-03-11T09:09:52.096Z",
+      "issueTitle": "perf: Computer control (open/fill forms) significantly slower than OpenClaw",
+      "url": "https://github.com/zylos-ai/zylos-core/issues/300",
+      "createdAt": "2026-03-11T09:10:58.477Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
     }
   ],
   "stats": {
