@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773261280935,
+      "repository": "gobii-ai/gobii-platform",
+      "issueTitle": "Inline images (cid: attachments) fail to render in outbound emails",
+      "url": "https://github.com/gobii-ai/gobii-platform/issues/560",
+      "createdAt": "2026-03-11T20:34:40.935Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
