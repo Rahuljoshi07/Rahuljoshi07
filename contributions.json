@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773225237685,
+      "repository": "wemake-services/django-modern-rest",
+      "issueTitle": "Swap `xmltodict` to `xmltodict_rs`",
+      "url": "https://github.com/wemake-services/django-modern-rest/issues/611",
+      "createdAt": "2026-03-11T10:33:57.685Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
