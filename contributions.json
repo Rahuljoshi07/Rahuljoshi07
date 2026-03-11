@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773261668577,
+      "repository": "hummingbot/condor",
+      "issueTitle": "Pool info - Add to gateway button does not do any action",
+      "url": "https://github.com/hummingbot/condor/issues/42",
+      "createdAt": "2026-03-11T20:41:08.577Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
