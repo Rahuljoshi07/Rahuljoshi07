@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773201746588,
+      "repository": "lando/drupal",
+      "issueTitle": "S3FS module + Image style support ",
+      "url": "https://github.com/lando/drupal/issues/28",
+      "createdAt": "2026-03-11T04:02:26.588Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
