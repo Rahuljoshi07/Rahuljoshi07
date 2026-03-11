@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773255761981,
+      "repository": "wellenvogel/avnav",
+      "issueTitle": "AvNav updater gets interrupted 20260304",
+      "url": "https://github.com/wellenvogel/avnav/issues/553",
+      "createdAt": "2026-03-11T19:02:41.981Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
