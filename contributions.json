@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773272801201,
+      "id": 1773272867138,
       "repository": "gbroeckling/padspanHA",
-      "issueTitle": "Improve support of Shelly BLE relays as scanners",
-      "url": "https://github.com/gbroeckling/padspanHA/issues/9",
-      "createdAt": "2026-03-11T23:46:41.201Z",
+      "issueTitle": "Home Assistant Area Entities of Devices are show as unavailable",
+      "url": "https://github.com/gbroeckling/padspanHA/issues/16",
+      "createdAt": "2026-03-11T23:47:47.138Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. (Suggested by R..."
     }
   ],
   "stats": {
