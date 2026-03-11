@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773217444572,
+      "repository": "cloudsecnetwork/phishintel",
+      "issueTitle": "Docker Install Issue",
+      "url": "https://github.com/cloudsecnetwork/phishintel/issues/30",
+      "createdAt": "2026-03-11T08:24:04.572Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
