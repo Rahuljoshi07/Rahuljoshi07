@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773238551425,
+      "repository": "BlenderKit/BlenderKit",
+      "issueTitle": "Blender 5.1.0 Blenderkit bad bug on Extension",
+      "url": "https://github.com/BlenderKit/BlenderKit/issues/1893",
+      "createdAt": "2026-03-11T14:15:51.426Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
