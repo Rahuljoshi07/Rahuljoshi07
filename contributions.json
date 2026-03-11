@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773242515312,
+      "repository": "Comfy-Org/workflow_templates",
+      "issueTitle": "[Template Bug]: Missing video",
+      "url": "https://github.com/Comfy-Org/workflow_templates/issues/642",
+      "createdAt": "2026-03-11T15:21:55.312Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
