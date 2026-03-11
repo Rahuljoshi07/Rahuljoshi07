@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773228535193,
+      "repository": "decentraland/unity-explorer",
+      "issueTitle": "Cysharp.Threading.Tasks.UnityWebRequestException: Failed to transmit data",
+      "url": "https://github.com/decentraland/unity-explorer/issues/7493",
+      "createdAt": "2026-03-11T11:28:55.193Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
