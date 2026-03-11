@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773265746438,
+      "repository": "reginacas/sense-ui",
+      "issueTitle": "Autocomplete logic bug",
+      "url": "https://github.com/reginacas/sense-ui/issues/94",
+      "createdAt": "2026-03-11T21:49:06.439Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
