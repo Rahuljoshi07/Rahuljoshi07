@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773264249636,
+      "repository": "phonopy/phonopy",
+      "issueTitle": "Fatal error in launcher",
+      "url": "https://github.com/phonopy/phonopy/issues/404",
+      "createdAt": "2026-03-11T21:24:09.637Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
