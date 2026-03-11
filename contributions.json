@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773249805060,
+      "repository": "openmsi/openmsistream",
+      "issueTitle": "404 Error on GirderUploadStreamProcessor",
+      "url": "https://github.com/openmsi/openmsistream/issues/91",
+      "createdAt": "2026-03-11T17:23:25.060Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
