@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773197579764,
+      "repository": "Comfy-Org/Nvidia_RTX_Nodes_ComfyUI",
+      "issueTitle": "nvvfx.NvVFXError: NvVFX_Load failed: The effect has not been properly initialized (code -12)",
+      "url": "https://github.com/Comfy-Org/Nvidia_RTX_Nodes_ComfyUI/issues/4",
+      "createdAt": "2026-03-11T02:52:59.764Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
