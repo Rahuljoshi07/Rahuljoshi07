@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773204203702,
+      "repository": "lastsunday/job-hunting",
+      "issueTitle": "恢复数据量较大的数据库备份文件时报错",
+      "url": "https://github.com/lastsunday/job-hunting/issues/200",
+      "createdAt": "2026-03-11T04:43:23.702Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
