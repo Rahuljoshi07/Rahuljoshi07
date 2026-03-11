@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773272979427,
+      "repository": "mlcommons/storage",
+      "issueTitle": "retinanet runs forever without generating I/O",
+      "url": "https://github.com/mlcommons/storage/issues/258",
+      "createdAt": "2026-03-11T23:49:39.427Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
