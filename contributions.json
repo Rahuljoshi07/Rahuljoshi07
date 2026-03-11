@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773251108667,
+      "repository": "martin-rizzo/ComfyUI-ZImagePowerNodes",
+      "issueTitle": "Frontend crash (TypeError: Cannot read properties of null (reading 'length')) when using ZSamplerTurbo node",
+      "url": "https://github.com/martin-rizzo/ComfyUI-ZImagePowerNodes/issues/7",
+      "createdAt": "2026-03-11T17:45:08.667Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
