@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773215463510,
+      "repository": "awslabs/cli-agent-orchestrator",
+      "issueTitle": "Claude Code inbox delivery can get stuck in PENDING due to stale PROCESSING status detection",
+      "url": "https://github.com/awslabs/cli-agent-orchestrator/issues/104",
+      "createdAt": "2026-03-11T07:51:03.510Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
