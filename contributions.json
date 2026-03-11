@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1773270511628,
-      "repository": "ROCm/TheRock",
-      "issueTitle": "[Issue]Pytorch `nightly` Build Fails on Windows: Invalid Application of `sizeof` ,`alignof` to Incomplete Type 'torch::jit::RewritePatternDescr' and 'torch::jit::tensorexpr::CodeGen::BufferArg'",
-      "url": "https://github.com/ROCm/TheRock/issues/3603",
-      "createdAt": "2026-03-11T23:08:31.628Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
