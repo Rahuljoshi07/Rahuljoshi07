@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773240001048,
+      "repository": "williamhobbs/hefty",
+      "issueTitle": "Consider adding something in docs about possible firewall/certificate issues",
+      "url": "https://github.com/williamhobbs/hefty/issues/20",
+      "createdAt": "2026-03-11T14:40:01.048Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
