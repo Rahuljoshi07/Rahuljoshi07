@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773244099533,
+      "repository": "shaarkys/com.xiaomi-miio",
+      "issueTitle": "Xiaomi Air Purifer Pro bugs",
+      "url": "https://github.com/shaarkys/com.xiaomi-miio/issues/308",
+      "createdAt": "2026-03-11T15:48:19.533Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. (Suggested by R..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
