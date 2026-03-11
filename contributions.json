@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773233158762,
+      "repository": "code4romania/redirectioneaza",
+      "issueTitle": "Validation does not work for ANAF intelligent PDF",
+      "url": "https://github.com/code4romania/redirectioneaza/issues/651",
+      "createdAt": "2026-03-11T12:45:58.762Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
