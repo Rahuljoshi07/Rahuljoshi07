@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773214281012,
+      "repository": "awslabs/graphrag-toolkit",
+      "issueTitle": "[BUG][LEXICAL-GRAPH] suppressed exceptions in the data loaders",
+      "url": "https://github.com/awslabs/graphrag-toolkit/issues/135",
+      "createdAt": "2026-03-11T07:31:21.013Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
