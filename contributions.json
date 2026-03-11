@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773261770665,
+      "repository": "foundryvtt/dnd5e",
+      "issueTitle": "[Bug] Activity Chat Pills",
+      "url": "https://github.com/foundryvtt/dnd5e/issues/6826",
+      "createdAt": "2026-03-11T20:42:50.665Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
