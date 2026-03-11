@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773271147186,
+      "repository": "toolforge/video2commons",
+      "issueTitle": "[Bug]: YouTube upload dysfunctional: \"Sign in to confirm you’re not a bot\"",
+      "url": "https://github.com/toolforge/video2commons/issues/320",
+      "createdAt": "2026-03-11T23:19:07.186Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
