@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773239088393,
-      "repository": "zoedolan/Vybn",
-      "issueTitle": "Branch hygiene: 2,752 branches, 269 shelved, most stale",
-      "url": "https://github.com/zoedolan/Vybn/issues/2484",
-      "createdAt": "2026-03-11T14:24:48.393Z",
+      "id": 1773239148659,
+      "repository": "x-extends/xe-utils",
+      "issueTitle": "merge 合并嵌套对象会修改原对象问题",
+      "url": "https://github.com/x-extends/xe-utils/issues/79",
+      "createdAt": "2026-03-11T14:25:48.659Z",
       "type": "comment",
-      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
