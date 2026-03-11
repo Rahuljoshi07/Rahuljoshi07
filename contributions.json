@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773210027630,
+      "repository": "immortalwrt/luci",
+      "issueTitle": "OpenVPN 客户端无法访问Internet",
+      "url": "https://github.com/immortalwrt/luci/issues/650",
+      "createdAt": "2026-03-11T06:20:27.630Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
