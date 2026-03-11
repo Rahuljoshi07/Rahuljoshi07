@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773256334382,
+      "repository": "elastic/elastic-otel-node",
+      "issueTitle": "consider adding @fastify/otel instrumentation",
+      "url": "https://github.com/elastic/elastic-otel-node/issues/1386",
+      "createdAt": "2026-03-11T19:12:14.382Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
