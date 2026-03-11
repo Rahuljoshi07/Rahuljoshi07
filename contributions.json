@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773220192096,
+      "repository": "zylos-ai/zylos-core",
+      "issueTitle": "feat: zylos-sync — browser ↔ Zylos agent instance connection",
+      "url": "https://github.com/zylos-ai/zylos-core/issues/243",
+      "createdAt": "2026-03-11T09:09:52.096Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
