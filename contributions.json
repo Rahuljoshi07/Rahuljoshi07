@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773278361003,
+      "repository": "gbroeckling/padspanHA",
+      "issueTitle": "Home Assistant Area Entities of Devices are show as unavailable",
+      "url": "https://github.com/gbroeckling/padspanHA/issues/16",
+      "createdAt": "2026-03-12T01:19:21.003Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. (Suggested by R..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
