@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773280401451,
+      "id": 1773280438895,
       "repository": "nextcloud/text",
       "issueTitle": "Link options: preview/text options visible for inline links",
       "url": "https://github.com/nextcloud/text/issues/8331",
-      "createdAt": "2026-03-12T01:53:21.451Z",
+      "createdAt": "2026-03-12T01:53:58.896Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
