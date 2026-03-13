@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773395636819,
+      "id": 1773395668223,
       "repository": "dudanov/python-pyftms",
-      "issueTitle": "EOFError: Unexpected end of stream. ",
-      "url": "https://github.com/dudanov/python-pyftms/issues/17",
-      "createdAt": "2026-03-13T09:53:56.819Z",
+      "issueTitle": "Error adding new device (object has no attribute '_cli')",
+      "url": "https://github.com/dudanov/python-pyftms/issues/57",
+      "createdAt": "2026-03-13T09:54:28.223Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "This could be a mutable default argument issue. Consider using None as default. (Suggested by Rahul ..."
     }
   ],
   "stats": {
