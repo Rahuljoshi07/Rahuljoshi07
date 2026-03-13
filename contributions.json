@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773398208242,
+      "repository": "oqc-community/qat",
+      "issueTitle": "Cannot use directional CX tket pass on its own",
+      "url": "https://github.com/oqc-community/qat/issues/126",
+      "createdAt": "2026-03-13T10:36:48.243Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
