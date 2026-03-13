@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773401326792,
+      "repository": "typesense/typesense-instantsearch-adapter",
+      "issueTitle": "A way to convert Instantsearch state to Typesense payload",
+      "url": "https://github.com/typesense/typesense-instantsearch-adapter/issues/226",
+      "createdAt": "2026-03-13T11:28:46.793Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
