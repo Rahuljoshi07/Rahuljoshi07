@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773391696160,
+      "repository": "babalae/bettergi-scripts-list",
+      "issueTitle": "[问题反馈]: 自动委托地图追踪偏差",
+      "url": "https://github.com/babalae/bettergi-scripts-list/issues/2976",
+      "createdAt": "2026-03-13T08:48:16.160Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
