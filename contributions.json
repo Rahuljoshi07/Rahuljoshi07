@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773363753092,
+      "repository": "snakemake/snakefmt",
+      "issueTitle": "Cannot parse for target version Python 3.13: 1:0: else:",
+      "url": "https://github.com/snakemake/snakefmt/issues/272",
+      "createdAt": "2026-03-13T01:02:33.092Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
