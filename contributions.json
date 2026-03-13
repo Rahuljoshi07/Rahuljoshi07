@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773369771763,
+      "repository": "decolua/9router",
+      "issueTitle": "Tracking: AI SDK Compatibility - Response Format, Streaming, and Accept Header Issues",
+      "url": "https://github.com/decolua/9router/issues/289",
+      "createdAt": "2026-03-13T02:42:51.763Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
