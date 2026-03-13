@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773378822144,
-      "repository": "2M4U/2m4u",
-      "issueTitle": ".env.template is missing",
-      "url": "https://github.com/2M4U/2m4u/issues/9",
-      "createdAt": "2026-03-13T05:13:42.144Z",
+      "id": 1773378894733,
+      "repository": "optuna/optuna-integration",
+      "issueTitle": "_get_constraint_funcs has lambda closure bug causing all constraints to evaluate to same value",
+      "url": "https://github.com/optuna/optuna-integration/issues/267",
+      "createdAt": "2026-03-13T05:14:54.733Z",
       "type": "comment",
-      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
