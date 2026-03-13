@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773373423447,
-      "repository": "mountain-pass/addressr",
-      "issueTitle": "Autocomplete does not return correct suburb/locality for many searches",
-      "url": "https://github.com/mountain-pass/addressr/issues/403",
-      "createdAt": "2026-03-13T03:43:43.447Z",
+      "id": 1773373477059,
+      "repository": "bahmutov/cy-grep",
+      "issueTitle": "Issue with bahmutov/cy-grep Plugin and Cypress v14.2.0+ on AWS Cloud (can be reproduced locally)",
+      "url": "https://github.com/bahmutov/cy-grep/issues/170",
+      "createdAt": "2026-03-13T03:44:37.059Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. (Suggested by Rahul Joshi)..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
