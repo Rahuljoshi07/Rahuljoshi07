@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773384556118,
+      "repository": "rysweet/amplihack",
+      "issueTitle": "Fix: agent_framework auto-install fails - meta-package pulls 20+ sub-packages",
+      "url": "https://github.com/rysweet/amplihack/issues/3105",
+      "createdAt": "2026-03-13T06:49:16.118Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
