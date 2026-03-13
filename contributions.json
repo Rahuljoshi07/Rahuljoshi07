@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773365486115,
+      "repository": "robotpy/mostrobotpy",
+      "issueTitle": "Performance profiling needed for Command framework",
+      "url": "https://github.com/robotpy/mostrobotpy/issues/224",
+      "createdAt": "2026-03-13T01:31:26.115Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
