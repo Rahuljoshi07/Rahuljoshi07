@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773389803804,
-      "repository": "RobotWebTools/rclnodejs",
-      "issueTitle": "ES Module Migration Plan for rclnodejs",
-      "url": "https://github.com/RobotWebTools/rclnodejs/issues/1358",
-      "createdAt": "2026-03-13T08:16:43.804Z",
+      "id": 1773389868674,
+      "repository": "bobwhitelock/dotfiles",
+      "issueTitle": "Debug why Vim has started being slow when initially load markdown files",
+      "url": "https://github.com/bobwhitelock/dotfiles/issues/55",
+      "createdAt": "2026-03-13T08:17:48.674Z",
       "type": "comment",
-      "content": "Using a bundler like Webpack or Vite could improve performance. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
