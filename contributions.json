@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773365156856,
+      "repository": "ietf-tools/purple",
+      "issueTitle": "Cluster 430: Queue page shows 6 docs, Cluster page shows 5 docs",
+      "url": "https://github.com/ietf-tools/purple/issues/981",
+      "createdAt": "2026-03-13T01:25:56.856Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
