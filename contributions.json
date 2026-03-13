@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773392918134,
+      "repository": "CZ-NIC/run-or-raise",
+      "issueTitle": "Weird bug when all windows are hidden: The last hidden window can't be raised",
+      "url": "https://github.com/CZ-NIC/run-or-raise/issues/96",
+      "createdAt": "2026-03-13T09:08:38.134Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
