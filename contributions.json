@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773382561489,
+      "repository": "kernelkit/infix",
+      "issueTitle": "ntp: client_stratum_selection: Fails to select lowest stratum sometimes",
+      "url": "https://github.com/kernelkit/infix/issues/1361",
+      "createdAt": "2026-03-13T06:16:01.489Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
