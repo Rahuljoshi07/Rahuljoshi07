@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773383459189,
+      "repository": "brewmarsh/meraki-homeassistant",
+      "issueTitle": "🚨 Staging Smoke Test Failed",
+      "url": "https://github.com/brewmarsh/meraki-homeassistant/issues/2636",
+      "createdAt": "2026-03-13T06:30:59.189Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
