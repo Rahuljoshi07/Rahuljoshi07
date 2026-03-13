@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773379441865,
+      "repository": "jfilak/sapcli",
+      "issueTitle": "No testable objects found should not result in an error return code",
+      "url": "https://github.com/jfilak/sapcli/issues/24",
+      "createdAt": "2026-03-13T05:24:01.865Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
