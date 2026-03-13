@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773394512977,
+      "repository": "Schmakus/ioBroker.lightcontrol",
+      "issueTitle": "Please consider fixing issues detected by repository checker",
+      "url": "https://github.com/Schmakus/ioBroker.lightcontrol/issues/288",
+      "createdAt": "2026-03-13T09:35:12.977Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
