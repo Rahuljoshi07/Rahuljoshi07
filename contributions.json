@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773372337804,
+      "repository": "Synaptic-Labs-AI/PACT-Plugin",
+      "issueTitle": "Monitor pact-memory save verification performance at scale",
+      "url": "https://github.com/Synaptic-Labs-AI/PACT-Plugin/issues/256",
+      "createdAt": "2026-03-13T03:25:37.804Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
