@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773450600486,
+      "repository": "github-community-projects/evergreen",
+      "issueTitle": "EXEMPT_ECOSYSTEMS accepts invalid ecosystem names without validation",
+      "url": "https://github.com/github-community-projects/evergreen/issues/489",
+      "createdAt": "2026-03-14T01:10:00.486Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
