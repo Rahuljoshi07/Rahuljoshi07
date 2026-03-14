@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773480719689,
+      "repository": "ForgeRock/fr-config-manager",
+      "issueTitle": "More detailed error messages when using fr-config-push",
+      "url": "https://github.com/ForgeRock/fr-config-manager/issues/338",
+      "createdAt": "2026-03-14T09:31:59.689Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
