@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773478146697,
+      "repository": "fawney19/Aether",
+      "issueTitle": "503 {\"error\":{\"type\":\"provider_error\",\"message\":\"没有可用的 Provider 支持模型 claude-opus-4-6      的流式请求\"}}",
+      "url": "https://github.com/fawney19/Aether/issues/223",
+      "createdAt": "2026-03-14T08:49:06.697Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
