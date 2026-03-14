@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773454394062,
+      "repository": "rfdearborn/dbt-docs-to-notion",
+      "issueTitle": "Error: The version '3.7' with architecture 'x64' was not found for Ubuntu 24.04.",
+      "url": "https://github.com/rfdearborn/dbt-docs-to-notion/issues/26",
+      "createdAt": "2026-03-14T02:13:14.062Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
