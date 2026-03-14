@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773481841712,
+      "repository": "TiBillet/Lespass",
+      "issueTitle": "FAIRE-FESTIVAL la selection de plusieurs filtres ne fonctionne pas selon damien",
+      "url": "https://github.com/TiBillet/Lespass/issues/363",
+      "createdAt": "2026-03-14T09:50:41.712Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
