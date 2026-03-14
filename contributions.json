@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773458954623,
+      "repository": "nextcloud/whiteboard",
+      "issueTitle": "Add note about AI generated content to diagram generation",
+      "url": "https://github.com/nextcloud/whiteboard/issues/861",
+      "createdAt": "2026-03-14T03:29:14.623Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
