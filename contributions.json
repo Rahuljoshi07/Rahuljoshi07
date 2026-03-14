@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773467461446,
+      "repository": "promptdriven/pdd",
+      "issueTitle": "Sync issue with generating tests for Vishal's code file",
+      "url": "https://github.com/promptdriven/pdd/issues/628",
+      "createdAt": "2026-03-14T05:51:01.446Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
