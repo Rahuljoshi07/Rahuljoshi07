@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773481159059,
+      "id": 1773481217235,
       "repository": "minukodu/ioBroker.minuvis",
       "issueTitle": "Please consider fixing issues detected by repository checker",
       "url": "https://github.com/minukodu/ioBroker.minuvis/issues/119",
-      "createdAt": "2026-03-14T09:39:19.059Z",
+      "createdAt": "2026-03-14T09:40:17.235Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
