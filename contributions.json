@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1773566390160,
-      "repository": "wemake-services/django-modern-rest",
-      "issueTitle": "SSE tests fail with 422 when `DEBUG=False` in `django_test_app`",
-      "url": "https://github.com/wemake-services/django-modern-rest/issues/654",
-      "createdAt": "2026-03-15T09:19:50.160Z",
-      "type": "comment",
-      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
