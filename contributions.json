@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773552613868,
+      "repository": "jneilliii/OctoPrint-WindowsInstaller",
+      "issueTitle": "installing second instance doesn't pick up initial install path",
+      "url": "https://github.com/jneilliii/OctoPrint-WindowsInstaller/issues/7",
+      "createdAt": "2026-03-15T05:30:13.868Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
