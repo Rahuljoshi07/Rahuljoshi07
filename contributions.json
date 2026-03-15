@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773578399947,
+      "repository": "django-cms/djangocms-text",
+      "issueTitle": "Using HTMLField(configuration=...) leads to AttributeError: 'TEXT_EDITOR_SETTINGS'",
+      "url": "https://github.com/django-cms/djangocms-text/issues/136",
+      "createdAt": "2026-03-15T12:39:59.947Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
