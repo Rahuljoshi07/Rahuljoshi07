@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773575683717,
+      "repository": "strawberry-graphql/strawberry-django",
+      "issueTitle": "New Federation resolve_reference ignores scalar mappings",
+      "url": "https://github.com/strawberry-graphql/strawberry-django/issues/884",
+      "createdAt": "2026-03-15T11:54:43.717Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
