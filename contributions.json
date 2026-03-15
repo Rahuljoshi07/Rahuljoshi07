@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773603543940,
+      "repository": "strictdoc-project/strictdoc",
+      "issueTitle": "Bug: Gcov coverage report's link to source code is broken",
+      "url": "https://github.com/strictdoc-project/strictdoc/issues/2717",
+      "createdAt": "2026-03-15T19:39:03.940Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
