@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773543889061,
+      "repository": "dataelement/Clawith",
+      "issueTitle": "[Bug] Source deployment: agents.agent_type column missing — schema only patched in Docker entrypoint",
+      "url": "https://github.com/dataelement/Clawith/issues/84",
+      "createdAt": "2026-03-15T03:04:49.061Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
