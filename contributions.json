@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773544319591,
+      "repository": "cenodude/CrossWatch",
+      "issueTitle": "[bug] Manual editor watchlist entry can duplicate on sync due to TMDb/IMDb key mismatch",
+      "url": "https://github.com/cenodude/CrossWatch/issues/147",
+      "createdAt": "2026-03-15T03:11:59.591Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
