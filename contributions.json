@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773583596336,
+      "repository": "Swival/swival",
+      "issueTitle": "[Compatibility] Gemini provider via litellm sometimes returns empty choices and 500 for gemini-3-flash-preview",
+      "url": "https://github.com/Swival/swival/issues/6",
+      "createdAt": "2026-03-15T14:06:36.336Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
