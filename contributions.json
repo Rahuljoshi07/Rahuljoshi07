@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773572049845,
+      "repository": "springfall2008/batpred",
+      "issueTitle": "Error: Failure to fetch history for predbat.compare_tariff_current",
+      "url": "https://github.com/springfall2008/batpred/issues/3568",
+      "createdAt": "2026-03-15T10:54:09.845Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
