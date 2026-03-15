@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773543889061,
-      "repository": "dataelement/Clawith",
-      "issueTitle": "[Bug] Source deployment: agents.agent_type column missing — schema only patched in Docker entrypoint",
-      "url": "https://github.com/dataelement/Clawith/issues/84",
-      "createdAt": "2026-03-15T03:04:49.061Z",
+      "id": 1773543951509,
+      "repository": "archesproject/arches",
+      "issueTitle": "Loading images sometimes fails with server error",
+      "url": "https://github.com/archesproject/arches/issues/12636",
+      "createdAt": "2026-03-15T03:05:51.510Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
     }
   ],
   "stats": {
