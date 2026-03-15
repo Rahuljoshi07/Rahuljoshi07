@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773552350456,
+      "repository": "RoboStack/ros-humble",
+      "issueTitle": "Setting IGN_GAZEBO_SYSTEM_PLUGIN_PATH to $CONDA_PREFIX/lib is required for  ur_simulation_gz to work fine",
+      "url": "https://github.com/RoboStack/ros-humble/issues/347",
+      "createdAt": "2026-03-15T05:25:50.456Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
