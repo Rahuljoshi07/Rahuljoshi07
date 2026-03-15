@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773585289740,
+      "repository": "travisghansen/hass-opnsense",
+      "issueTitle": "[Bug]: NAT control switch malfunction",
+      "url": "https://github.com/travisghansen/hass-opnsense/issues/481",
+      "createdAt": "2026-03-15T14:34:49.740Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
