@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773600684222,
+      "repository": "svrnm/DemoMonkey",
+      "issueTitle": "Unknown Configuration 0114187d-c42b-48bc-8e21-7b9dc05714e4",
+      "url": "https://github.com/svrnm/DemoMonkey/issues/278",
+      "createdAt": "2026-03-15T18:51:24.222Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
