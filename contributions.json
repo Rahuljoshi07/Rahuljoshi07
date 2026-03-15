@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773539799760,
+      "repository": "microsoft/agent-governance-toolkit",
+      "issueTitle": "fix(agent-hypervisor): bound RingBreachDetector._breach_history",
+      "url": "https://github.com/microsoft/agent-governance-toolkit/issues/247",
+      "createdAt": "2026-03-15T01:56:39.760Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
