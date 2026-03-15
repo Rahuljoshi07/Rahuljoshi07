@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773578560294,
+      "repository": "periodo/periodo-client",
+      "issueTitle": "PeriodO Client not accepting all the changes made to an existing authority",
+      "url": "https://github.com/periodo/periodo-client/issues/323",
+      "createdAt": "2026-03-15T12:42:40.294Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
