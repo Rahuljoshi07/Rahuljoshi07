@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773599830120,
+      "repository": "iobroker-community-adapters/ioBroker.openknx",
+      "issueTitle": "Failed to write to DPT 251.600 (RGBW) - incorrect telegrams are sent",
+      "url": "https://github.com/iobroker-community-adapters/ioBroker.openknx/issues/606",
+      "createdAt": "2026-03-15T18:37:10.120Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
