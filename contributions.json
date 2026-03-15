@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773568294478,
+      "repository": "wemake-services/django-modern-rest",
+      "issueTitle": "SSE tests fail with 422 when `DEBUG=False` in `django_test_app`",
+      "url": "https://github.com/wemake-services/django-modern-rest/issues/654",
+      "createdAt": "2026-03-15T09:51:34.478Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
