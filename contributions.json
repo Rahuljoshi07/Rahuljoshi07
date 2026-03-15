@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773588355799,
+      "repository": "Arvincreator/project-golem",
+      "issueTitle": "dashboard 自動更新後，會無限循環進入設定介面，無法進入dashboard ，",
+      "url": "https://github.com/Arvincreator/project-golem/issues/143",
+      "createdAt": "2026-03-15T15:25:55.799Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
