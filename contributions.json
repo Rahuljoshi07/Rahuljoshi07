@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773574512502,
+      "repository": "DjangoCRM/django-crm",
+      "issueTitle": "TheFile model's __str__ method should always return only the file name",
+      "url": "https://github.com/DjangoCRM/django-crm/issues/407",
+      "createdAt": "2026-03-15T11:35:12.502Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. This suggestion is particularly relevant..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
