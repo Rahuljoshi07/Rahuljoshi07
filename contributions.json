@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773542314425,
+      "repository": "Rello/audioplayer",
+      "issueTitle": "[BUG] Error: Call to undefined method OC\\DB\\QueryBuilder\\QueryBuilder::execute() in nextcloud/apps/audioplayer/lib/Db/DbMapper.php:613",
+      "url": "https://github.com/Rello/audioplayer/issues/657",
+      "createdAt": "2026-03-15T02:38:34.425Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
