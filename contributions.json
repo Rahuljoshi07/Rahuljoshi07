@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773541048054,
+      "id": 1773541114042,
       "repository": "jatinkrmalik/LLMFeeder",
       "issueTitle": "Does not capture entire page.",
       "url": "https://github.com/jatinkrmalik/LLMFeeder/issues/91",
-      "createdAt": "2026-03-15T02:17:28.054Z",
+      "createdAt": "2026-03-15T02:18:34.042Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
