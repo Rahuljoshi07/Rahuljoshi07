@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773597745972,
+      "repository": "phivk/trialogue",
+      "issueTitle": "Error using Trialogue Story Format",
+      "url": "https://github.com/phivk/trialogue/issues/47",
+      "createdAt": "2026-03-15T18:02:25.972Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
