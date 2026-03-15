@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773591822777,
+      "repository": "spideystreet/clix",
+      "issueTitle": "Bookmarks can return stale results when X rotates the web GraphQL queryId/flags",
+      "url": "https://github.com/spideystreet/clix/issues/38",
+      "createdAt": "2026-03-15T16:23:42.777Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
