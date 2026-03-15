@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773588926444,
+      "repository": "spideystreet/clix",
+      "issueTitle": "Bookmarks can return stale results when X rotates the web GraphQL queryId/flags",
+      "url": "https://github.com/spideystreet/clix/issues/38",
+      "createdAt": "2026-03-15T15:35:26.444Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
