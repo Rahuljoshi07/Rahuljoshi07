@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773550723152,
+      "repository": "pfsensible/core",
+      "issueTitle": "pfsense_dhcp_static does not normalize hardware addresses in static entries causing duplicate entries",
+      "url": "https://github.com/pfsensible/core/issues/244",
+      "createdAt": "2026-03-15T04:58:43.152Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
