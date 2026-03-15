@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773538472718,
+      "repository": "nextcloud/photos",
+      "issueTitle": "[Bug]: Video playback fails (503) on publicly shared albums - null user ID in DAV URL",
+      "url": "https://github.com/nextcloud/photos/issues/3442",
+      "createdAt": "2026-03-15T01:34:32.718Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
