@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773577938961,
+      "id": 1773577996128,
       "repository": "AnInsomniacy/motrix-next",
-      "issueTitle": "[Build] Intel Mac (x64) unofficial build for v3.2.1",
-      "url": "https://github.com/AnInsomniacy/motrix-next/issues/46",
-      "createdAt": "2026-03-15T12:32:18.961Z",
+      "issueTitle": "[BUG]: 正在下载中，升级软件，导致已完成下载记录全部丢失。",
+      "url": "https://github.com/AnInsomniacy/motrix-next/issues/47",
+      "createdAt": "2026-03-15T12:33:16.129Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
