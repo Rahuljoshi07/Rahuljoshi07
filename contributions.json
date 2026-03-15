@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773602058619,
+      "repository": "TeamShiksha/openlogo",
+      "issueTitle": "`0.8.0` fix: createLogo page bugs and access page without auth",
+      "url": "https://github.com/TeamShiksha/openlogo/issues/978",
+      "createdAt": "2026-03-15T19:14:18.619Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
