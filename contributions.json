@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773695225375,
+      "repository": "liliMozi/openhanako",
+      "issueTitle": "[Bug] AI Agent 在思考 / 操作 / 执行时，切换会话会导致输入框 Loading 消失，并无法点击发送",
+      "url": "https://github.com/liliMozi/openhanako/issues/9",
+      "createdAt": "2026-03-16T21:07:05.375Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
