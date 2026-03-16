@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773699906049,
+      "repository": "lukso-network/docs",
+      "issueTitle": "[DOC] Replace the need to use isomorphic-fetch by cross-fetch",
+      "url": "https://github.com/lukso-network/docs/issues/1065",
+      "createdAt": "2026-03-16T22:25:06.049Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
