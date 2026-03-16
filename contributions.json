@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1773655957964,
-      "repository": "pmeier/pytest-results-action",
-      "issueTitle": "TypeError: Cannot read properties of undefined (reading 'split')",
-      "url": "https://github.com/pmeier/pytest-results-action/issues/30",
-      "createdAt": "2026-03-16T10:12:37.964Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
