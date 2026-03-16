@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773697773706,
+      "repository": "kijai/ComfyUI-Hunyuan3DWrapper",
+      "issueTitle": "Build Error: custom_rasterizer fails to compile on Windows with PyTorch 2.9.1+cu130 (error C2872: \"std\": ambiguous symbol)",
+      "url": "https://github.com/kijai/ComfyUI-Hunyuan3DWrapper/issues/204",
+      "createdAt": "2026-03-16T21:49:33.706Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
