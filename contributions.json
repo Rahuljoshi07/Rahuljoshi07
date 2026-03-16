@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1773683806382,
-      "repository": "auth0/node-jwks-rsa",
-      "issueTitle": "Introduction of jose v6 seems to have introduced an esm requirement for this library",
-      "url": "https://github.com/auth0/node-jwks-rsa/issues/493",
-      "createdAt": "2026-03-16T17:56:46.382Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
