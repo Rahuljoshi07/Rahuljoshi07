@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773681253689,
+      "repository": "OsaSoft/youtube-better-subscriptions",
+      "issueTitle": "[BUG] Existing hide shorts functionality does not detect all instances of shorts shelves, and breaks extension for videos below shorts shelf",
+      "url": "https://github.com/OsaSoft/youtube-better-subscriptions/issues/206",
+      "createdAt": "2026-03-16T17:14:13.689Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
