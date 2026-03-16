@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773637123491,
+      "repository": "tuonglab/dandelion",
+      "issueTitle": "pyarrow import error in check_contigs()",
+      "url": "https://github.com/tuonglab/dandelion/issues/628",
+      "createdAt": "2026-03-16T04:58:43.491Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
