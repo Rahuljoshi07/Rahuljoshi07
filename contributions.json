@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773670046109,
+      "repository": "3dg1luk43/ha_washdata",
+      "issueTitle": "[BUG] Unknown cycle does not get processed properly",
+      "url": "https://github.com/3dg1luk43/ha_washdata/issues/168",
+      "createdAt": "2026-03-16T14:07:26.109Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
