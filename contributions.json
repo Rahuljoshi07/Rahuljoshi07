@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773671206436,
-      "repository": "ilastik/ilastik",
-      "issueTitle": "Multicut: segmentation faults possible during block-wise watershed",
-      "url": "https://github.com/ilastik/ilastik/issues/3153",
-      "createdAt": "2026-03-16T14:26:46.436Z",
+      "id": 1773671266736,
+      "repository": "code-423n4/code423n4.com",
+      "issueTitle": "Abnormally high CPU usage from canvas element?",
+      "url": "https://github.com/code-423n4/code423n4.com/issues/8653",
+      "createdAt": "2026-03-16T14:27:46.737Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
