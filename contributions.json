@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773646022616,
+      "repository": "ivLis-Studio/ivLyrics",
+      "issueTitle": "[BUG] Laggy Lyric Interpolation/Timing",
+      "url": "https://github.com/ivLis-Studio/ivLyrics/issues/68",
+      "createdAt": "2026-03-16T07:27:02.616Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
