@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773690372835,
+      "id": 1773690444811,
       "repository": "gbroeckling/padspanHA",
-      "issueTitle": "Home Assistant Area Entities of Devices are shown as unavailable",
-      "url": "https://github.com/gbroeckling/padspanHA/issues/16",
-      "createdAt": "2026-03-16T19:46:12.835Z",
+      "issueTitle": "Error in logs \"Unexpected error fetching PadSpan HA Presence data Traceback\"",
+      "url": "https://github.com/gbroeckling/padspanHA/issues/17",
+      "createdAt": "2026-03-16T19:47:24.811Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. (Suggested by R..."
     }
   ],
   "stats": {
