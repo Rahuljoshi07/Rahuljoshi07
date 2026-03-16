@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773686615780,
+      "repository": "metarhia/metacom",
+      "issueTitle": "Make server application adapters for fastify",
+      "url": "https://github.com/metarhia/metacom/issues/530",
+      "createdAt": "2026-03-16T18:43:35.781Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
