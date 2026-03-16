@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773635805348,
+      "repository": "bluesky/ophyd-async",
+      "issueTitle": "AravisDetector tried to connect to invalid channels when writer_suffix=TIFF_SUFFIX",
+      "url": "https://github.com/bluesky/ophyd-async/issues/1213",
+      "createdAt": "2026-03-16T04:36:45.348Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
