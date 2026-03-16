@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773628699988,
+      "repository": "okTurtles/group-income",
+      "issueTitle": "Heisenbug in group-chat-message.spec.js",
+      "url": "https://github.com/okTurtles/group-income/issues/3052",
+      "createdAt": "2026-03-16T02:38:19.988Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
