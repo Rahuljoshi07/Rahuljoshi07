@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773624650273,
+      "repository": "jasonacox/pypowerwall",
+      "issueTitle": "Powerwall Firmware 25.10 - Unable to use TEDAPI",
+      "url": "https://github.com/jasonacox/pypowerwall/issues/165",
+      "createdAt": "2026-03-16T01:30:50.273Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
