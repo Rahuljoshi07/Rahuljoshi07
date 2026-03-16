@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773693020525,
+      "repository": "accius/openhamclock",
+      "issueTitle": "[BUG] Classic layout is clipping the header",
+      "url": "https://github.com/accius/openhamclock/issues/745",
+      "createdAt": "2026-03-16T20:30:20.525Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
