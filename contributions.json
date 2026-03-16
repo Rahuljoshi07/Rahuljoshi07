@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773673468346,
+      "repository": "vava-nessa/free-coding-models",
+      "issueTitle": "Patch OpenClaw to allow all NVIDIA models from free-coding-models",
+      "url": "https://github.com/vava-nessa/free-coding-models/issues/35",
+      "createdAt": "2026-03-16T15:04:28.346Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
