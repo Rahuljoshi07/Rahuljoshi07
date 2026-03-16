@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773670165536,
+      "repository": "PegaProx/project-pegaprox",
+      "issueTitle": "[Bug] ESXi Migration - no progress  0%",
+      "url": "https://github.com/PegaProx/project-pegaprox/issues/132",
+      "createdAt": "2026-03-16T14:09:25.537Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
