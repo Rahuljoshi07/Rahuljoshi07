@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773678669921,
+      "repository": "nearform/node-test-github-reporter",
+      "issueTitle": "Use different emojis for failure and error",
+      "url": "https://github.com/nearform/node-test-github-reporter/issues/65",
+      "createdAt": "2026-03-16T16:31:09.921Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
