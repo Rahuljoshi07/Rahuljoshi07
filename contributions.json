@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1773628199579,
-      "repository": "rysweet/amplihack",
-      "issueTitle": "Urgently fix issues #3170, #3158, and #3120 in amplihack. Recent changes broke the recipe runner and dev-orchestrator system for sessions running outside the amplihack repo. The fixes must work when runtime assets come from ~/.amplihack, not only when running inside the source checkout. Implement the required changes, create the workflow-managed issue/worktree/branch/PR, and validate very carefully from outside the amplihack repo. External validation is mandatory: use outside-in QA style validation against a separate temporary repo/context and verify orchestration helpers resolve from ~/.amplihack or AMPLIHACK_HOME runtime roots. Review overlapping local staged changes in this branch and incorporate relevant ones if they help the fix, but finish through the default-workflow process with reviews and a PR.",
-      "url": "https://github.com/rysweet/amplihack/issues/3177",
-      "createdAt": "2026-03-16T02:29:59.579Z",
+      "id": 1773628268021,
+      "repository": "brewmarsh/meraki-homeassistant",
+      "issueTitle": "[Jules]: fix IPSK card error on duplicate name",
+      "url": "https://github.com/brewmarsh/meraki-homeassistant/issues/2652",
+      "createdAt": "2026-03-16T02:31:08.021Z",
       "type": "comment",
       "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
