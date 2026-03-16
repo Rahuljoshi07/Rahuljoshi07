@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773645933147,
+      "repository": "Tadreeb-LMS/tadreeblms",
+      "issueTitle": "Bug – Multiple Teachers Can Be Selected While Creating a Course",
+      "url": "https://github.com/Tadreeb-LMS/tadreeblms/issues/318",
+      "createdAt": "2026-03-16T07:25:33.147Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
