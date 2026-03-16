@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773661810827,
+      "repository": "derisk-ai/OpenDerisk",
+      "issueTitle": "[Bug] [Module Name] An error occurred during the execution of the startup command.",
+      "url": "https://github.com/derisk-ai/OpenDerisk/issues/59",
+      "createdAt": "2026-03-16T11:50:10.827Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
