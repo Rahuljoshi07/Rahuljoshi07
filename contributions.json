@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773649858319,
+      "repository": "nextcloud/notifications",
+      "issueTitle": "Web push activity notifications have low contrast when using dark mode on desktop",
+      "url": "https://github.com/nextcloud/notifications/issues/2839",
+      "createdAt": "2026-03-16T08:30:58.319Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
