@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773663772906,
+      "repository": "Tadreeb-LMS/tadreeblms",
+      "issueTitle": "Bug – Landing Page Returns 404 and Redirects to Dashboard Even When Enabled",
+      "url": "https://github.com/Tadreeb-LMS/tadreeblms/issues/286",
+      "createdAt": "2026-03-16T12:22:52.906Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
