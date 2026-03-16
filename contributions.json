@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773677395887,
+      "repository": "tikoci/restraml",
+      "issueTitle": "RouterOS 7.23beta2: /app YAML schema validation failures",
+      "url": "https://github.com/tikoci/restraml/issues/48",
+      "createdAt": "2026-03-16T16:09:55.887Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
