@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773639476784,
+      "repository": "ambicuity/New-Grad-Jobs",
+      "issueTitle": "bug: reconcile README generation with update-jobs workflow staging policy",
+      "url": "https://github.com/ambicuity/New-Grad-Jobs/issues/156",
+      "createdAt": "2026-03-16T05:37:56.784Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
