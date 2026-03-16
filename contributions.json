@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773631714966,
+      "repository": "AllTheMods/All-the-Mons",
+      "issueTitle": "[Modpack Bug]: Mushroom Fields Enderman and Mushroom Creeper not spawning",
+      "url": "https://github.com/AllTheMods/All-the-Mons/issues/371",
+      "createdAt": "2026-03-16T03:28:34.966Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
