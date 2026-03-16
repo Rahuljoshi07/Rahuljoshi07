@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773647728550,
+      "repository": "countbot-ai/CountBot",
+      "issueTitle": "[BUG] ubuntu上飞书渠道 发给机器人要发好几次服务器才能收得到。",
+      "url": "https://github.com/countbot-ai/CountBot/issues/45",
+      "createdAt": "2026-03-16T07:55:28.550Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
