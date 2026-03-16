@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773631155841,
+      "repository": "oceanbase/powermem",
+      "issueTitle": "[Enhancement]: When some fields in UserProfile are NULL, the dashboard displays inconsistency",
+      "url": "https://github.com/oceanbase/powermem/issues/350",
+      "createdAt": "2026-03-16T03:19:15.841Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
