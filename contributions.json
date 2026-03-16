@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773641277806,
+      "repository": "hiero-ledger/hiero-sdk-js",
+      "issueTitle": "[Bug Report]: TransactionReceiptQuery with setIncludeChildren(true) returns empty children array for ATOMICBATCH transactions",
+      "url": "https://github.com/hiero-ledger/hiero-sdk-js/issues/3859",
+      "createdAt": "2026-03-16T06:07:57.806Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
