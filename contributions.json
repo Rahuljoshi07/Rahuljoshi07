@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773654395365,
+      "repository": "ai-forever/langchain-gigachat",
+      "issueTitle": "Bug: langchain-gigachat strips critical JSON Schema fields, breaking tool calling",
+      "url": "https://github.com/ai-forever/langchain-gigachat/issues/55",
+      "createdAt": "2026-03-16T09:46:35.365Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
