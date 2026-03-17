@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773740324194,
+      "repository": "LeDat98/NexusRAG",
+      "issueTitle": "[Bug] Backend FastAPI bị block Event Loop (treo toàn bộ ứng dụng) khi Upload và Process tài liệu",
+      "url": "https://github.com/LeDat98/NexusRAG/issues/6",
+      "createdAt": "2026-03-17T09:38:44.194Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
