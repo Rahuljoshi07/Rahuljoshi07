@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773763134150,
+      "repository": "epam/ai-dial-adapter-vertexai",
+      "issueTitle": "Gemini: disable thinking configuration for Gemini 2.5 Flash Image",
+      "url": "https://github.com/epam/ai-dial-adapter-vertexai/issues/407",
+      "createdAt": "2026-03-17T15:58:54.150Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
