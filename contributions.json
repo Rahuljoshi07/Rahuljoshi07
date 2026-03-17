@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773735371278,
+      "repository": "coralnet/coralnet",
+      "issueTitle": "Possible for a labelset to have two of the same label",
+      "url": "https://github.com/coralnet/coralnet/issues/550",
+      "createdAt": "2026-03-17T08:16:11.278Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
