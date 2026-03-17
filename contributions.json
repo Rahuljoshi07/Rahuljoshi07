@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773720059304,
+      "repository": "thumbor/libthumbor",
+      "issueTitle": "Bug if 0x0 is used with filters",
+      "url": "https://github.com/thumbor/libthumbor/issues/60",
+      "createdAt": "2026-03-17T04:00:59.304Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
