@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773706789025,
+      "repository": "Moonfin-Client/Smart-TV",
+      "issueTitle": "[Jellyseerr] Section can't show hungarian characters",
+      "url": "https://github.com/Moonfin-Client/Smart-TV/issues/116",
+      "createdAt": "2026-03-17T00:19:49.025Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
