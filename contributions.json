@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773723720182,
+      "repository": "Bladestar2105/IPTV-Manager",
+      "issueTitle": "Edited Channels not copied to new user",
+      "url": "https://github.com/Bladestar2105/IPTV-Manager/issues/455",
+      "createdAt": "2026-03-17T05:02:00.183Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
