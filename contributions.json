@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773772368916,
+      "repository": "superseva/mutant-year-zero",
+      "issueTitle": "Bug : Translation of tab titles or attributes",
+      "url": "https://github.com/superseva/mutant-year-zero/issues/143",
+      "createdAt": "2026-03-17T18:32:48.916Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
