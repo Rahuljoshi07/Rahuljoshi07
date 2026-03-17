@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773768602510,
+      "repository": "WebOfTrust/keripy",
+      "issueTitle": "Multicommand 2.01 is still breaking unit tests whose maintainer suggests its a pytest problem not a multicommand bug",
+      "url": "https://github.com/WebOfTrust/keripy/issues/1332",
+      "createdAt": "2026-03-17T17:30:02.510Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
