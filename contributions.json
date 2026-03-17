@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773766966394,
+      "repository": "Coneja-Chibi/TunnelVision",
+      "issueTitle": "\"Auto-hide summarized messages\" setting bugged",
+      "url": "https://github.com/Coneja-Chibi/TunnelVision/issues/3",
+      "createdAt": "2026-03-17T17:02:46.394Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
