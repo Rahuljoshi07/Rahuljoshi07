@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773774013563,
+      "repository": "gemini3d/pygemini",
+      "issueTitle": "[Bug]: cumulative_trapezoid",
+      "url": "https://github.com/gemini3d/pygemini/issues/27",
+      "createdAt": "2026-03-17T19:00:13.563Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
