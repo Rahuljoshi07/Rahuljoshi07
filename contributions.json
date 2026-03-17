@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773743196510,
+      "repository": "mohammadasim98/scenetok",
+      "issueTitle": "Inference on RE10K fails with `IndexError: list index out of range` in `dataset_re10k.py`",
+      "url": "https://github.com/mohammadasim98/scenetok/issues/1",
+      "createdAt": "2026-03-17T10:26:36.510Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
