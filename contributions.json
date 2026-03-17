@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773742273534,
+      "repository": "svrnm/DemoMonkey",
+      "issueTitle": "Unknown Configuration 0114187d-c42b-48bc-8e21-7b9dc05714e4",
+      "url": "https://github.com/svrnm/DemoMonkey/issues/278",
+      "createdAt": "2026-03-17T10:11:13.534Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
