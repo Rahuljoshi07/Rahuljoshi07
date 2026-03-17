@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773761011199,
+      "repository": "cap-js/change-tracking",
+      "issueTitle": "Formatting of Decimal Fields as Integer in Change Log Table",
+      "url": "https://github.com/cap-js/change-tracking/issues/137",
+      "createdAt": "2026-03-17T15:23:31.199Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
