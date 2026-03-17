@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773756425634,
+      "repository": "accius/openhamclock",
+      "issueTitle": "[BUG] commit 2eccf55e041512fd54c2a989a9293f4d9e48b81b lost ?",
+      "url": "https://github.com/accius/openhamclock/issues/765",
+      "createdAt": "2026-03-17T14:07:05.634Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
