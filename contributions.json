@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773733688491,
+      "repository": "GuyAzria/home-organizer",
+      "issueTitle": "organizer-panel.js: Possible paste/merge bug in getSafeIcon(val)",
+      "url": "https://github.com/GuyAzria/home-organizer/issues/2",
+      "createdAt": "2026-03-17T07:48:08.491Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
