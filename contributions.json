@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773758378430,
+      "repository": "ThePansmith/Monifactory",
+      "issueTitle": "[Bug]: 0.13.3 Server pack crashing on start",
+      "url": "https://github.com/ThePansmith/Monifactory/issues/2526",
+      "createdAt": "2026-03-17T14:39:38.430Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
