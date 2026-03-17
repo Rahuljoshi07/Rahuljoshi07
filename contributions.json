@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773755709291,
+      "repository": "oOo0oOo/lean-lsp-mcp",
+      "issueTitle": "Bug in `lean_multi_attempt`: tactics always return empty goal lists to agent",
+      "url": "https://github.com/oOo0oOo/lean-lsp-mcp/issues/169",
+      "createdAt": "2026-03-17T13:55:09.291Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
