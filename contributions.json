@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773736574976,
+      "repository": "ThomazPom/Moz-Ext-UltimaDark",
+      "issueTitle": "Made an already dark themed site into light themed",
+      "url": "https://github.com/ThomazPom/Moz-Ext-UltimaDark/issues/198",
+      "createdAt": "2026-03-17T08:36:14.976Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
