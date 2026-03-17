@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773731127284,
+      "repository": "ymx10086/ResearchClaw",
+      "issueTitle": "[Bug]: Fail to setup",
+      "url": "https://github.com/ymx10086/ResearchClaw/issues/1",
+      "createdAt": "2026-03-17T07:05:27.284Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
