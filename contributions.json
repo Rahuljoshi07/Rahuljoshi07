@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773726450710,
+      "repository": "sean2077/jsonpath-python",
+      "issueTitle": "Issues with Filtering with an Array of Strings",
+      "url": "https://github.com/sean2077/jsonpath-python/issues/20",
+      "createdAt": "2026-03-17T05:47:30.710Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
