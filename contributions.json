@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773767210473,
+      "repository": "periodo/periodo-client",
+      "issueTitle": "Disallow importing partial datasets from the server",
+      "url": "https://github.com/periodo/periodo-client/issues/297",
+      "createdAt": "2026-03-17T17:06:50.473Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
