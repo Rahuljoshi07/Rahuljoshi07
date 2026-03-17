@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773763957377,
+      "repository": "EYBlockchain/starlight",
+      "issueTitle": "Contract error for public returns",
+      "url": "https://github.com/EYBlockchain/starlight/issues/476",
+      "createdAt": "2026-03-17T16:12:37.377Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
