@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773768288638,
+      "id": 1773768326412,
       "repository": "cap-js/change-tracking",
       "issueTitle": "Formatting of Decimal Fields as Integer in Change Log Table",
       "url": "https://github.com/cap-js/change-tracking/issues/137",
-      "createdAt": "2026-03-17T17:24:48.638Z",
+      "createdAt": "2026-03-17T17:25:26.412Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
