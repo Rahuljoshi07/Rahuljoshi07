@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773757741271,
+      "repository": "danielBingham/communities",
+      "issueTitle": "Cancelling the creation of a subgroup should return you to the Group page, subgroup view",
+      "url": "https://github.com/danielBingham/communities/issues/444",
+      "createdAt": "2026-03-17T14:29:01.271Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
