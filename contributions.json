@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773772272851,
+      "repository": "googleads/google-ads-mcp",
+      "issueTitle": "search tool description is excessively large (>300k chars), causing truncation errors in MCP clients",
+      "url": "https://github.com/googleads/google-ads-mcp/issues/15",
+      "createdAt": "2026-03-17T18:31:12.851Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
