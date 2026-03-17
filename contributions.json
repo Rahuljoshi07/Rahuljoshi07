@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773752569533,
-      "repository": "cylc/cylc-ui",
-      "issueTitle": "possible memory leak",
-      "url": "https://github.com/cylc/cylc-ui/issues/2446",
-      "createdAt": "2026-03-17T13:02:49.533Z",
+      "id": 1773752618219,
+      "repository": "nextcloud/tasks",
+      "issueTitle": "Don't show completed tasks as crossed-out / struck through",
+      "url": "https://github.com/nextcloud/tasks/issues/3084",
+      "createdAt": "2026-03-17T13:03:38.219Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
