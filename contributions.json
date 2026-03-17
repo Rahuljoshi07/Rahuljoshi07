@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1773753367975,
+      "id": 1773753401506,
       "repository": "ErickXavier/no-js",
       "issueTitle": "[bug] Memory leak in each/foreach directives: child contexts not disposed before innerHTML reset",
       "url": "https://github.com/ErickXavier/no-js/issues/3",
-      "createdAt": "2026-03-17T13:16:07.975Z",
+      "createdAt": "2026-03-17T13:16:41.507Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
