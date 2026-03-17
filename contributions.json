@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773710712111,
+      "repository": "acamposuribe/p5.brush",
+      "issueTitle": "p5.brush can apparently become confused by multiple p5 instances",
+      "url": "https://github.com/acamposuribe/p5.brush/issues/39",
+      "createdAt": "2026-03-17T01:25:12.111Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
