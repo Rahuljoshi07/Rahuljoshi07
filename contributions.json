@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773709668951,
+      "repository": "ivLis-Studio/ivLyrics",
+      "issueTitle": "[BUG] Missing translation on Panel Lyrics",
+      "url": "https://github.com/ivLis-Studio/ivLyrics/issues/69",
+      "createdAt": "2026-03-17T01:07:48.951Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
