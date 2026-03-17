@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773740921510,
-      "repository": "1024pix/pix",
-      "issueTitle": "Dependency Dashboard",
-      "url": "https://github.com/1024pix/pix/issues/5637",
-      "createdAt": "2026-03-17T09:48:41.510Z",
+      "id": 1773740954089,
+      "repository": "diplodoc-platform/diplodoc",
+      "issueTitle": "Поиск (lunr) перестаёт работать после простоя страницы до перезагрузки",
+      "url": "https://github.com/diplodoc-platform/diplodoc/issues/64",
+      "createdAt": "2026-03-17T09:49:14.090Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
