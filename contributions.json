@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773757828230,
+      "repository": "dyvenia/viadot",
+      "issueTitle": "Investigate and optimize memory handling during large file uploads to Redshift Spectrum",
+      "url": "https://github.com/dyvenia/viadot/issues/1210",
+      "createdAt": "2026-03-17T14:30:28.230Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
