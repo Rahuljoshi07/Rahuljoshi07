@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773740003989,
+      "repository": "OWASP-ASI/finbot-ctf",
+      "issueTitle": "Bug_077 — FRAUD-FLAG-017: flag_invoice_for_review accepts None as recommended_action",
+      "url": "https://github.com/OWASP-ASI/finbot-ctf/issues/188",
+      "createdAt": "2026-03-17T09:33:23.989Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
