@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773762716061,
+      "repository": "nextcloud/text",
+      "issueTitle": "Menu bar not available - Read only file cannot be closed in iOS",
+      "url": "https://github.com/nextcloud/text/issues/8343",
+      "createdAt": "2026-03-17T15:51:56.061Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
