@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773764804634,
+      "repository": "daydreamlive/scope",
+      "issueTitle": "Cannot connect to Scope remote inference",
+      "url": "https://github.com/daydreamlive/scope/issues/704",
+      "createdAt": "2026-03-17T16:26:44.634Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
