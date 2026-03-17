@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773743581678,
+      "repository": "RegioHelden/django-temporalio",
+      "issueTitle": "Activity does not recover after DB outage without worker restart",
+      "url": "https://github.com/RegioHelden/django-temporalio/issues/101",
+      "createdAt": "2026-03-17T10:33:01.679Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
