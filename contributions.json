@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773724855998,
+      "repository": "promptdriven/pdd",
+      "issueTitle": "pdd bug: analysis should trace proposed fix forward to the user's symptom",
+      "url": "https://github.com/promptdriven/pdd/issues/699",
+      "createdAt": "2026-03-17T05:20:55.998Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
