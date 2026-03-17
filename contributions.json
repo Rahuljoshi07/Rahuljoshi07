@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773750085976,
+      "repository": "gwmod/nlmod",
+      "issueTitle": "Xarray error when using nlmod.dims.get_modellayers_screens",
+      "url": "https://github.com/gwmod/nlmod/issues/546",
+      "createdAt": "2026-03-17T12:21:25.976Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
