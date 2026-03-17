@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773752519493,
-      "repository": "RockinChaos/AniSchedule",
-      "issueTitle": "Extend Dub Schedule Fetching to Next 4 Weeks",
-      "url": "https://github.com/RockinChaos/AniSchedule/issues/4",
-      "createdAt": "2026-03-17T13:01:59.493Z",
+      "id": 1773752569533,
+      "repository": "cylc/cylc-ui",
+      "issueTitle": "possible memory leak",
+      "url": "https://github.com/cylc/cylc-ui/issues/2446",
+      "createdAt": "2026-03-17T13:02:49.533Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
