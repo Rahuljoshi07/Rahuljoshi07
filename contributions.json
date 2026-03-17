@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773766590285,
+      "repository": "cbrnr/mnelab",
+      "issueTitle": "Crash when plotting ICs computed without montage",
+      "url": "https://github.com/cbrnr/mnelab/issues/116",
+      "createdAt": "2026-03-17T16:56:30.286Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
