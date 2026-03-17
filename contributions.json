@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773748828418,
+      "repository": "ai-twinkle/Eval",
+      "issueTitle": "bug: pip install mathruler 缺少傳遞依賴（sympy、pylatexenc）",
+      "url": "https://github.com/ai-twinkle/Eval/issues/35",
+      "createdAt": "2026-03-17T12:00:28.418Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
