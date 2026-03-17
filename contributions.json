@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773717982604,
+      "repository": "open-contracting/kingfisher-collect",
+      "issueTitle": "zambia: returns error 500 (2026-03)",
+      "url": "https://github.com/open-contracting/kingfisher-collect/issues/1161",
+      "createdAt": "2026-03-17T03:26:22.604Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
