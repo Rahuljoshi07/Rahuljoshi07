@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773784494586,
+      "repository": "aws/aws-parallelcluster",
+      "issueTitle": "[Terraform] Image creation fails after 1 hour",
+      "url": "https://github.com/aws/aws-parallelcluster/issues/6894",
+      "createdAt": "2026-03-17T21:54:54.586Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
