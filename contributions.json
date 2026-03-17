@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773771851675,
+      "repository": "Esri/storymap-cascade",
+      "issueTitle": "Issue hosting code on my AWS machine instance",
+      "url": "https://github.com/Esri/storymap-cascade/issues/18",
+      "createdAt": "2026-03-17T18:24:11.675Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
