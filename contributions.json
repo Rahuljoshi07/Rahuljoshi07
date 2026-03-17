@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773754648785,
+      "repository": "ROCm/TheRock",
+      "issueTitle": "[Issue]  Windows Pytorch nightly (2.12) test failures with `Segmentation fault` while running `TestNN::test_CTCLoss_critical_target_len` - gfx110x, gfx1151",
+      "url": "https://github.com/ROCm/TheRock/issues/3987",
+      "createdAt": "2026-03-17T13:37:28.785Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
