@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773761497341,
+      "repository": "BHTOM-Team/bhtom2",
+      "issueTitle": "Last mag sets nan",
+      "url": "https://github.com/BHTOM-Team/bhtom2/issues/332",
+      "createdAt": "2026-03-17T15:31:37.341Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
