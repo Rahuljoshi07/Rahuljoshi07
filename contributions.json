@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773780764821,
+      "repository": "danielBingham/communities",
+      "issueTitle": "Clicking through from a mobile/desktop notification should mark the notification as read",
+      "url": "https://github.com/danielBingham/communities/issues/429",
+      "createdAt": "2026-03-17T20:52:44.822Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
