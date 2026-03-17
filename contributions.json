@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773782508451,
+      "repository": "simonmichael/hledger_site",
+      "issueTitle": "^J's break copy-pasting of multi-line command examples into terminal",
+      "url": "https://github.com/simonmichael/hledger_site/issues/121",
+      "createdAt": "2026-03-17T21:21:48.451Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
