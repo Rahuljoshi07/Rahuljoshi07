@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773855916851,
+      "repository": "mantoni/beads-ui",
+      "issueTitle": "feat: add 'Push to Jira' action for individual issues",
+      "url": "https://github.com/mantoni/beads-ui/issues/65",
+      "createdAt": "2026-03-18T17:45:16.851Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
