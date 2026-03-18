@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773833468670,
-      "repository": "sepivip/SeekerClaw",
-      "issueTitle": "Reliability: missed task recovery on restart",
-      "url": "https://github.com/sepivip/SeekerClaw/issues/254",
-      "createdAt": "2026-03-18T11:31:08.670Z",
+      "id": 1773833523480,
+      "repository": "bpmn-io/form-js",
+      "issueTitle": "Increment breaks when too many decimals are used in number fields",
+      "url": "https://github.com/bpmn-io/form-js/issues/1021",
+      "createdAt": "2026-03-18T11:32:03.481Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
