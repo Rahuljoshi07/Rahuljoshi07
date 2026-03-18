@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773866397187,
+      "repository": "sherifconteh-collab/ai-grc-platform",
+      "issueTitle": "[Bug] Fix .exe",
+      "url": "https://github.com/sherifconteh-collab/ai-grc-platform/issues/69",
+      "createdAt": "2026-03-18T20:39:57.187Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
