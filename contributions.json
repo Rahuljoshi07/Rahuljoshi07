@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773848189958,
+      "repository": "adobe/aio-cli",
+      "issueTitle": "aio app dev handles not mapped inputs a $INPUT_NAME",
+      "url": "https://github.com/adobe/aio-cli/issues/750",
+      "createdAt": "2026-03-18T15:36:29.958Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
