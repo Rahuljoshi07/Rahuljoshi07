@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773873134863,
+      "repository": "bartfeenstra/betty",
+      "issueTitle": "Confirm that tests do not make real HTTP requests",
+      "url": "https://github.com/bartfeenstra/betty/issues/3966",
+      "createdAt": "2026-03-18T22:32:14.863Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
