@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773834103851,
+      "repository": "spoo-me/spoo",
+      "issueTitle": "[BUG] link to statistics page always displays 404",
+      "url": "https://github.com/spoo-me/spoo/issues/99",
+      "createdAt": "2026-03-18T11:41:43.851Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
