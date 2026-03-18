@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773839354865,
+      "repository": "Open-EO/openeo-geopyspark-driver",
+      "issueTitle": "load_stac from own job results does HTTP in dry run; flaky test_load_stac_from_unsigned_partial_job_results_basic as a result",
+      "url": "https://github.com/Open-EO/openeo-geopyspark-driver/issues/1602",
+      "createdAt": "2026-03-18T13:09:14.865Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
