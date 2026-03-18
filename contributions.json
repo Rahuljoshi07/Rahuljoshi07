@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773835001002,
+      "repository": "lingkuma/LingKuma",
+      "issueTitle": "BUG: Low-frequency word interface fails to load word translations and sentences。",
+      "url": "https://github.com/lingkuma/LingKuma/issues/10",
+      "createdAt": "2026-03-18T11:56:41.002Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
