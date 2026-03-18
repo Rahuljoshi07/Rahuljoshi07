@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773826556007,
+      "repository": "itential/itential-mcp",
+      "issueTitle": "fix: describe_instance and run_action have str type annotation mismatch with default=None",
+      "url": "https://github.com/itential/itential-mcp/issues/335",
+      "createdAt": "2026-03-18T09:35:56.007Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
