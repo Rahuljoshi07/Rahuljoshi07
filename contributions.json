@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773801419286,
+      "repository": "nvidia-cosmos/cosmos-rl",
+      "issueTitle": "[Bug] loss NaN for qwen32b when act_offload enabled",
+      "url": "https://github.com/nvidia-cosmos/cosmos-rl/issues/317",
+      "createdAt": "2026-03-18T02:36:59.286Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
