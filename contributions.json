@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773855817788,
+      "repository": "mantoni/beads-ui",
+      "issueTitle": "feat: add 'Pull from Jira' action to refresh workspace issues",
+      "url": "https://github.com/mantoni/beads-ui/issues/66",
+      "createdAt": "2026-03-18T17:43:37.788Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
