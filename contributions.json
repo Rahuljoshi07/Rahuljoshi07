@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773872941236,
+      "repository": "Mr-VincentW/PhotoShow",
+      "issueTitle": "[BUG] 4.88.0 Do not works for legacy version of chrome",
+      "url": "https://github.com/Mr-VincentW/PhotoShow/issues/328",
+      "createdAt": "2026-03-18T22:29:01.236Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
