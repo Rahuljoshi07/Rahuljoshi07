@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773804742004,
+      "repository": "antgroup/echomimic_v3",
+      "issueTitle": "TypeError: BlockContext.__init__() got an unexpected keyword argument 'theme'",
+      "url": "https://github.com/antgroup/echomimic_v3/issues/60",
+      "createdAt": "2026-03-18T03:32:22.004Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
