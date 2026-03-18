@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1773826556007,
+      "id": 1773826596403,
       "repository": "itential/itential-mcp",
-      "issueTitle": "fix: describe_instance and run_action have str type annotation mismatch with default=None",
-      "url": "https://github.com/itential/itential-mcp/issues/335",
-      "createdAt": "2026-03-18T09:35:56.007Z",
+      "issueTitle": "fix: render_template returns coroutine instead of rendered output due to missing await",
+      "url": "https://github.com/itential/itential-mcp/issues/336",
+      "createdAt": "2026-03-18T09:36:36.403Z",
       "type": "comment",
       "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
     }
