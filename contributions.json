@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773817938185,
+      "repository": "pegasystems/react-sdk",
+      "issueTitle": "Mashup API error response data is missing",
+      "url": "https://github.com/pegasystems/react-sdk/issues/541",
+      "createdAt": "2026-03-18T07:12:18.185Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
