@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773864447764,
+      "repository": "pytest-dev/pyfakefs",
+      "issueTitle": "Test failures with \"RuntimeError: dictionary changed size during iteration\"",
+      "url": "https://github.com/pytest-dev/pyfakefs/issues/1191",
+      "createdAt": "2026-03-18T20:07:27.764Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
