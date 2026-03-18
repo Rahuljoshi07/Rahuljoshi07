@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773828248037,
+      "repository": "NextCommunity/NextCommunity.github.io",
+      "issueTitle": "Windows error - npm error notsup Unsupported platform for lightningcss-linux-x64-gnu@1.32.0: wanted {\"os\":\"linux\",\"cpu\":\"x64\"} (current: {\"os\":\"win32\",\"cpu\":\"x64\"})",
+      "url": "https://github.com/NextCommunity/NextCommunity.github.io/issues/347",
+      "createdAt": "2026-03-18T10:04:08.037Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
