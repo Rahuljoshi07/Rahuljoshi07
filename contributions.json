@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773859411920,
+      "repository": "cheeseman-lab/brieflow",
+      "issueTitle": "[BUG] Base order",
+      "url": "https://github.com/cheeseman-lab/brieflow/issues/204",
+      "createdAt": "2026-03-18T18:43:31.920Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
