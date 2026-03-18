@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773838189572,
+      "repository": "speed-highlight/core",
+      "issueTitle": "[BUG] First line of INI does not highlight keys correctly",
+      "url": "https://github.com/speed-highlight/core/issues/66",
+      "createdAt": "2026-03-18T12:49:49.572Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
