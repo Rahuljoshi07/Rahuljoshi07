@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773861342125,
+      "repository": "mlcommons/storage",
+      "issueTitle": "Resolve dedupe granularity issue in KVCache",
+      "url": "https://github.com/mlcommons/storage/issues/272",
+      "createdAt": "2026-03-18T19:15:42.125Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
