@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773829438188,
+      "repository": "lobehub/lobe-editor",
+      "issueTitle": "[Bug] 工具栏代码块失效",
+      "url": "https://github.com/lobehub/lobe-editor/issues/120",
+      "createdAt": "2026-03-18T10:23:58.189Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
