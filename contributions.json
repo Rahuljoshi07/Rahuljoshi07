@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773833102939,
+      "repository": "speakeasy-api/speakeasy",
+      "issueTitle": "False positive circular-reference-invalid on external $ref schemas since v1.709.2",
+      "url": "https://github.com/speakeasy-api/speakeasy/issues/1979",
+      "createdAt": "2026-03-18T11:25:02.940Z",
+      "type": "comment",
+      "content": "Adding TypeScript could improve code quality and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
