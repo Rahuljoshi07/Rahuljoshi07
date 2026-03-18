@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773860181179,
+      "repository": "emvaized/circle-mouse-gestures",
+      "issueTitle": "Issues with new \"Execute JavaScript\" option on settings page",
+      "url": "https://github.com/emvaized/circle-mouse-gestures/issues/52",
+      "createdAt": "2026-03-18T18:56:21.179Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
