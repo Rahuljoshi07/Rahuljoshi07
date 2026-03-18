@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773836498909,
+      "repository": "genome-spy/genome-spy",
+      "issueTitle": "Sample summarization is broken with categorical `x` scales.",
+      "url": "https://github.com/genome-spy/genome-spy/issues/167",
+      "createdAt": "2026-03-18T12:21:38.909Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
