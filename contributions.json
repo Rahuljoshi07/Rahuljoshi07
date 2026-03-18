@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773802393900,
+      "repository": "sagemath/sagecell",
+      "issueTitle": "npm run build errors during SageMathCell server installation on Ubuntu",
+      "url": "https://github.com/sagemath/sagecell/issues/583",
+      "createdAt": "2026-03-18T02:53:13.900Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
