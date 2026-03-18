@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773859622955,
+      "repository": "goto-bus-stop/wikibattle",
+      "issueTitle": "Article Names from Top 5000 should be validated",
+      "url": "https://github.com/goto-bus-stop/wikibattle/issues/276",
+      "createdAt": "2026-03-18T18:47:02.955Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
