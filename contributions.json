@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773864610077,
+      "repository": "aruttkamp/ioBroker.rct",
+      "issueTitle": "Please consider fixing issues detected by repository checker",
+      "url": "https://github.com/aruttkamp/ioBroker.rct/issues/283",
+      "createdAt": "2026-03-18T20:10:10.078Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
