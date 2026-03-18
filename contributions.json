@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773843195401,
+      "repository": "kaanozhan/Frame",
+      "issueTitle": "Error encountered when clicking link in terminal for `localhost` dev server preview",
+      "url": "https://github.com/kaanozhan/Frame/issues/28",
+      "createdAt": "2026-03-18T14:13:15.401Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
