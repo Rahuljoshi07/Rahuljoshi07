@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773818720315,
+      "id": 1773818762248,
       "repository": "TA2k/ioBroker.vw-connect",
-      "issueTitle": "Please consider fixing issues detected by repository checker",
-      "url": "https://github.com/TA2k/ioBroker.vw-connect/issues/384",
-      "createdAt": "2026-03-18T07:25:20.315Z",
+      "issueTitle": "Parkingposition (vw-connect.0.XXX.position.address.*) not updated",
+      "url": "https://github.com/TA2k/ioBroker.vw-connect/issues/397",
+      "createdAt": "2026-03-18T07:26:02.248Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "You might want to add error handling and input validation. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
