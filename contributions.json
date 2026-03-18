@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773793035759,
+      "repository": "greyhaven-ai/autocontext",
+      "issueTitle": "Level 12 — Stateful Debugging: root cause analysis with red herrings and investigative sequences",
+      "url": "https://github.com/greyhaven-ai/autocontext/issues/380",
+      "createdAt": "2026-03-18T00:17:15.759Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
