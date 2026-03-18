@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773845855143,
+      "repository": "cwapi3d/cwapi3dpython",
+      "issueTitle": "Contact facet normal vector problem",
+      "url": "https://github.com/cwapi3d/cwapi3dpython/issues/338",
+      "createdAt": "2026-03-18T14:57:35.143Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
