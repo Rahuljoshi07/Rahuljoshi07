@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773816647286,
+      "repository": "sgl-project/genai-bench",
+      "issueTitle": "[Bug] Outlier throughput values skew aggregated metrics",
+      "url": "https://github.com/sgl-project/genai-bench/issues/201",
+      "createdAt": "2026-03-18T06:50:47.286Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
