@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773799336925,
+      "repository": "stoefln/node-native-ocr",
+      "issueTitle": "D:\\...\\Anaconda\\Library\\include\\gif_lib.h(286): error C2734: 'GifAsciiTable8x8': 'const' object must be initialized if not 'extern' (compiling source file D:\\code\\repeato-studio\\node_modules\\node-native-ocr\\leptonica\\src\\libversions.c) [D:\\code\\repeato-studio\\node_modules\\node-native-ocr\\leptonica\\build\\src\\leptonica.vcxproj]",
+      "url": "https://github.com/stoefln/node-native-ocr/issues/10",
+      "createdAt": "2026-03-18T02:02:16.925Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
