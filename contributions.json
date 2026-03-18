@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773876276741,
+      "repository": "haidaraM/ansible-playbook-grapher",
+      "issueTitle": "[Bug report] Can't find installed collections",
+      "url": "https://github.com/haidaraM/ansible-playbook-grapher/issues/235",
+      "createdAt": "2026-03-18T23:24:36.741Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
