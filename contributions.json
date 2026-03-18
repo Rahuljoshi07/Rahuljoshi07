@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773869202570,
+      "repository": "gbroeckling/padspanHA",
+      "issueTitle": "Error in logs \"Unexpected error fetching PadSpan HA Presence data Traceback\"",
+      "url": "https://github.com/gbroeckling/padspanHA/issues/17",
+      "createdAt": "2026-03-18T21:26:42.571Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
