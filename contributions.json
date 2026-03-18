@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773803194121,
+      "repository": "MCERQUA/OpenVoiceUI",
+      "issueTitle": "bug: subagent results never delivered to voice UI — HTTP stream closes too early",
+      "url": "https://github.com/MCERQUA/OpenVoiceUI/issues/168",
+      "createdAt": "2026-03-18T03:06:34.121Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
