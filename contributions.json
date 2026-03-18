@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773833988503,
+      "repository": "zaproxy/action-baseline",
+      "issueTitle": "Error when reading the rules file: /home/runner/work/<repo>/<repo>/owasp-zap-ignore.conf",
+      "url": "https://github.com/zaproxy/action-baseline/issues/125",
+      "createdAt": "2026-03-18T11:39:48.503Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
