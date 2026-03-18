@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773823430858,
+      "repository": "wemake-services/django-modern-rest",
+      "issueTitle": "Deploy example application somewhere",
+      "url": "https://github.com/wemake-services/django-modern-rest/issues/691",
+      "createdAt": "2026-03-18T08:43:50.858Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
