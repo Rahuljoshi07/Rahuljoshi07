@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773800012281,
+      "repository": "vmware/ansible-vsphere-gos-validation",
+      "issueTitle": "[New Feature] Refine variables naming convention to avoid conflict",
+      "url": "https://github.com/vmware/ansible-vsphere-gos-validation/issues/298",
+      "createdAt": "2026-03-18T02:13:32.281Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
