@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773860031423,
+      "repository": "WaterplanAI/agentic-config",
+      "issueTitle": "FIX: playwright video recording only captures one tab, not all tabs in browser",
+      "url": "https://github.com/WaterplanAI/agentic-config/issues/37",
+      "createdAt": "2026-03-18T18:53:51.423Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
