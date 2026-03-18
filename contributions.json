@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773857567771,
+      "repository": "NatLabRockies/sup3r",
+      "issueTitle": "Persistent wind speed interpolation issue when using MPI-ESM1-2-HR data as input",
+      "url": "https://github.com/NatLabRockies/sup3r/issues/294",
+      "createdAt": "2026-03-18T18:12:47.772Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
