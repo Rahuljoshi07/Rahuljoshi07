@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773806677869,
+      "id": 1773806709624,
       "repository": "pierreb-devkit/Vue",
       "issueTitle": "fix(billing): use console.error instead of console.log for errors in store",
       "url": "https://github.com/pierreb-devkit/Vue/issues/3732",
-      "createdAt": "2026-03-18T04:04:37.869Z",
+      "createdAt": "2026-03-18T04:05:09.624Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
