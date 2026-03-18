@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773853417896,
+      "repository": "primer/eslint-plugin-primer-react",
+      "issueTitle": "use-styled-react-import: Fixer ignores type keyword",
+      "url": "https://github.com/primer/eslint-plugin-primer-react/issues/416",
+      "createdAt": "2026-03-18T17:03:37.896Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
