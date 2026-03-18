@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773807242935,
+      "repository": "m4heshd/better-sqlite3-multiple-ciphers",
+      "issueTitle": "Performance issues with Node v22 and v24",
+      "url": "https://github.com/m4heshd/better-sqlite3-multiple-ciphers/issues/126",
+      "createdAt": "2026-03-18T04:14:02.935Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
