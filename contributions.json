@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773840642516,
+      "id": 1773840684629,
       "repository": "GEOLYTIX/xyz",
       "issueTitle": "Single locale dropdown",
       "url": "https://github.com/GEOLYTIX/xyz/issues/2716",
-      "createdAt": "2026-03-18T13:30:42.516Z",
+      "createdAt": "2026-03-18T13:31:24.629Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
