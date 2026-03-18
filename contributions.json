@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773834913397,
+      "repository": "vituum/vituum",
+      "issueTitle": "Lenis Smooth Scroll - Vittum + Twig Template Bug",
+      "url": "https://github.com/vituum/vituum/issues/57",
+      "createdAt": "2026-03-18T11:55:13.397Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
