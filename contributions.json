@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773795158207,
+      "repository": "BNETDocs/bnetdocs-web",
+      "issueTitle": "Inconsistency with non-breaking spaces",
+      "url": "https://github.com/BNETDocs/bnetdocs-web/issues/103",
+      "createdAt": "2026-03-18T00:52:38.207Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
