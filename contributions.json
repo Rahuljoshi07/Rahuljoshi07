@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773955585854,
+      "repository": "sepivip/SeekerClaw",
+      "issueTitle": "Reliability: missed task recovery on restart",
+      "url": "https://github.com/sepivip/SeekerClaw/issues/254",
+      "createdAt": "2026-03-19T21:26:25.854Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
