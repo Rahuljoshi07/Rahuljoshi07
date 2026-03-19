@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773885121863,
+      "repository": "inc2734/snow-monkey-blocks",
+      "issueTitle": "【項目】「各項目の最後の要素を下に揃える」が有効なとき、エディター上で子ブロック間の余白が正しくなくなる",
+      "url": "https://github.com/inc2734/snow-monkey-blocks/issues/869",
+      "createdAt": "2026-03-19T01:52:01.863Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
