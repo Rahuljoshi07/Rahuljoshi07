@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773943701616,
+      "repository": "RapidFireAI/rapidfireai",
+      "issueTitle": "[BUG] [RAG] Error when cloning with changed chunk_size",
+      "url": "https://github.com/RapidFireAI/rapidfireai/issues/189",
+      "createdAt": "2026-03-19T18:08:21.616Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
