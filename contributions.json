@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773936872312,
-      "repository": "sdetweil/MMM-Config",
-      "issueTitle": "multiple module instance count is incorrect if some already had value and some don't",
-      "url": "https://github.com/sdetweil/MMM-Config/issues/68",
-      "createdAt": "2026-03-19T16:14:32.313Z",
+      "id": 1773936912741,
+      "repository": "cozy-labs/cozy-desktop",
+      "issueTitle": "Allow packaging with Electron 34+",
+      "url": "https://github.com/cozy-labs/cozy-desktop/issues/2391",
+      "createdAt": "2026-03-19T16:15:12.741Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
