@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773910651729,
+      "repository": "red-hat-storage/ocs-ci",
+      "issueTitle": "[Bug]: test_bucket_delete_with_objects[S3] is failing on IBM Power",
+      "url": "https://github.com/red-hat-storage/ocs-ci/issues/14089",
+      "createdAt": "2026-03-19T08:57:31.729Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
