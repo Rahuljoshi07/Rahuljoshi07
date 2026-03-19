@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773953811080,
+      "repository": "AdobeDocs/commerce-php",
+      "issueTitle": "Error while using code from docs",
+      "url": "https://github.com/AdobeDocs/commerce-php/issues/389",
+      "createdAt": "2026-03-19T20:56:51.080Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
