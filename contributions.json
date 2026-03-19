@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773940235897,
+      "repository": "75lb/renamer",
+      "issueTitle": "Error with files starting with \".\" (dot)",
+      "url": "https://github.com/75lb/renamer/issues/61",
+      "createdAt": "2026-03-19T17:10:35.897Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
