@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773893190013,
+      "repository": "aqlaboratory/openfold-3",
+      "issueTitle": "[BUG] planar sp2 C=C bond giving a 3D geometry",
+      "url": "https://github.com/aqlaboratory/openfold-3/issues/136",
+      "createdAt": "2026-03-19T04:06:30.013Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
