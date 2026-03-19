@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773924200055,
+      "repository": "PyMoDAQ/PyMoDAQ",
+      "issueTitle": "[BUG] Wrong labeling in continuous saving in daq_viewer/move",
+      "url": "https://github.com/PyMoDAQ/PyMoDAQ/issues/947",
+      "createdAt": "2026-03-19T12:43:20.055Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
