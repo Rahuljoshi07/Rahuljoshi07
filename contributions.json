@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773911022562,
+      "repository": "pierreb-devkit/Node",
+      "issueTitle": "fix(core): graceful shutdown hangs when server fails to start",
+      "url": "https://github.com/pierreb-devkit/Node/issues/3278",
+      "createdAt": "2026-03-19T09:03:42.562Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
