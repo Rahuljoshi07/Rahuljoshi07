@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773925083697,
+      "repository": "tetsuo-ai/AgenC",
+      "issueTitle": "agenc-coordination: surface protocol errors before Anchor account-loading failures on negative paths",
+      "url": "https://github.com/tetsuo-ai/AgenC/issues/1503",
+      "createdAt": "2026-03-19T12:58:03.697Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
