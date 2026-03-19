@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773907326075,
+      "repository": "mafintosh/streamx",
+      "issueTitle": "Writable stream closed prematurely error with gulp 5 and Node.js 20",
+      "url": "https://github.com/mafintosh/streamx/issues/115",
+      "createdAt": "2026-03-19T08:02:06.075Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
