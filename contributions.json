@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773909316232,
+      "id": 1773909350780,
       "repository": "elpheria/rpc-websockets",
-      "issueTitle": "Any reason emit events on namespace level will be broadcasting instead of only to subscribers like on top level",
-      "url": "https://github.com/elpheria/rpc-websockets/issues/155",
-      "createdAt": "2026-03-19T08:35:16.232Z",
+      "issueTitle": "Why do errors thrown generate a -32601?",
+      "url": "https://github.com/elpheria/rpc-websockets/issues/177",
+      "createdAt": "2026-03-19T08:35:50.780Z",
       "type": "comment",
-      "content": "Adding TypeScript could improve code quality and maintainability. This suggestion is particularly re..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
