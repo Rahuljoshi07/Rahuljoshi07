@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773898647489,
+      "repository": "educates/educates-training-platform",
+      "issueTitle": "The page_number is missing in analytics events.",
+      "url": "https://github.com/educates/educates-training-platform/issues/972",
+      "createdAt": "2026-03-19T05:37:27.489Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
