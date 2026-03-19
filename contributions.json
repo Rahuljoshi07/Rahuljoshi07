@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773950378927,
+      "repository": "chopratejas/headroom",
+      "issueTitle": "[BUG] Headroom crashes when decoding Open AI data when used with Codex GUI",
+      "url": "https://github.com/chopratejas/headroom/issues/45",
+      "createdAt": "2026-03-19T19:59:38.927Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
