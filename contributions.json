@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773935967974,
+      "repository": "bmad-code-org/bmad-method-test-architecture-enterprise",
+      "issueTitle": "Config paths broken after bmad update config process",
+      "url": "https://github.com/bmad-code-org/bmad-method-test-architecture-enterprise/issues/55",
+      "createdAt": "2026-03-19T15:59:27.974Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
