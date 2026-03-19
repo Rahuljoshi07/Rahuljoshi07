@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773914776451,
+      "repository": "yaalalabs/agent-kernel",
+      "issueTitle": "[BUG] LLM errors produce garbled CLI output — missing/inconsistent error handling across runners",
+      "url": "https://github.com/yaalalabs/agent-kernel/issues/247",
+      "createdAt": "2026-03-19T10:06:16.452Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
