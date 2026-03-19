@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773937030352,
+      "repository": "clerk/clerk-sdk-python",
+      "issueTitle": "`clerk.users.count` with arguments can be very slow for large number of users",
+      "url": "https://github.com/clerk/clerk-sdk-python/issues/176",
+      "createdAt": "2026-03-19T16:17:10.352Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
