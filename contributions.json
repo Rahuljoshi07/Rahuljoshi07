@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773898963363,
+      "repository": "evinism/lambda-explorer",
+      "issueTitle": "Issue with Demorgan Definition of AND",
+      "url": "https://github.com/evinism/lambda-explorer/issues/125",
+      "createdAt": "2026-03-19T05:42:43.363Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
