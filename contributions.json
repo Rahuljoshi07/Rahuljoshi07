@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773886785688,
+      "repository": "shuzhao-li-lab/asari",
+      "issueTitle": "ValueError: max() arg is an empty sequence",
+      "url": "https://github.com/shuzhao-li-lab/asari/issues/85",
+      "createdAt": "2026-03-19T02:19:45.689Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
