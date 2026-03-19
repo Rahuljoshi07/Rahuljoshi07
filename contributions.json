@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1773962964855,
-      "repository": "loopbackio/loopback-connector-postgresql",
-      "issueTitle": "Please stop setting .Promise to avoid \"passing a custom promise client/pool deprecated\"",
-      "url": "https://github.com/loopbackio/loopback-connector-postgresql/issues/847",
-      "createdAt": "2026-03-19T23:29:24.855Z",
-      "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
