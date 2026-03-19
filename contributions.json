@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773909274705,
+      "repository": "elpheria/rpc-websockets",
+      "issueTitle": "Why do errors thrown generate a -32601?",
+      "url": "https://github.com/elpheria/rpc-websockets/issues/177",
+      "createdAt": "2026-03-19T08:34:34.705Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
