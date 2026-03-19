@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773962333527,
+      "repository": "liliMozi/openhanako",
+      "issueTitle": "[Bug] 思考过程中 Agent 名称/头像与回复界面不一致",
+      "url": "https://github.com/liliMozi/openhanako/issues/103",
+      "createdAt": "2026-03-19T23:18:53.527Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
