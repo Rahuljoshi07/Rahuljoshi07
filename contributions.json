@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773914057436,
+      "repository": "tenstorrent/tt-xla",
+      "issueTitle": "Skip unnecessary tensor copies from ShardTensor",
+      "url": "https://github.com/tenstorrent/tt-xla/issues/3811",
+      "createdAt": "2026-03-19T09:54:17.436Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
