@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773895236187,
+      "repository": "n0rt0nthec4t/homebridge-nest-accfactory",
+      "issueTitle": "Nest Protect (Wired) Motion Sensor No Longer Reporting via Google API",
+      "url": "https://github.com/n0rt0nthec4t/homebridge-nest-accfactory/issues/321",
+      "createdAt": "2026-03-19T04:40:36.187Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
