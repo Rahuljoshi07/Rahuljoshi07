@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773930881152,
+      "repository": "Codeinwp/templates-patterns-collection",
+      "issueTitle": "The latests version of php-stubs fails the PHPStan test",
+      "url": "https://github.com/Codeinwp/templates-patterns-collection/issues/339",
+      "createdAt": "2026-03-19T14:34:41.152Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
