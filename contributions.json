@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773903542618,
+      "repository": "OCA/search-engine",
+      "issueTitle": "connector_typesense: KeyError: 'errors' when adding items to index with errors",
+      "url": "https://github.com/OCA/search-engine/issues/220",
+      "createdAt": "2026-03-19T06:59:02.618Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
