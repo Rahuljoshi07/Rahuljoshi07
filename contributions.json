@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773950847959,
+      "repository": "nkarasiak/dzetsaka",
+      "issueTitle": "[Bug] QGIS crashes instantly on macOS (arm64) in v5.0.3 – QDialog opened from background thread during dependency install",
+      "url": "https://github.com/nkarasiak/dzetsaka/issues/48",
+      "createdAt": "2026-03-19T20:07:27.959Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
