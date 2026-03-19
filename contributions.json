@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773901339896,
+      "repository": "kiwix/kiwix-js-pwa",
+      "issueTitle": "stack exchange recipes have simple issues in displaying external links",
+      "url": "https://github.com/kiwix/kiwix-js-pwa/issues/776",
+      "createdAt": "2026-03-19T06:22:19.896Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
