@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773946500160,
+      "repository": "asklokesh/loki-mode",
+      "issueTitle": "dashboard: cost calculation float precision loss for large amounts",
+      "url": "https://github.com/asklokesh/loki-mode/issues/111",
+      "createdAt": "2026-03-19T18:55:00.161Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
