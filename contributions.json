@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773943701616,
+      "id": 1773943754229,
       "repository": "RapidFireAI/rapidfireai",
-      "issueTitle": "[BUG] [RAG] Error when cloning with changed chunk_size",
-      "url": "https://github.com/RapidFireAI/rapidfireai/issues/189",
-      "createdAt": "2026-03-19T18:08:21.616Z",
+      "issueTitle": "[BUG] [RAG][v0.15.0rc4][RUN_EVALS] Prompt_manager_K value not displayed in ic-ops panel for clones on gsk8k notebook",
+      "url": "https://github.com/RapidFireAI/rapidfireai/issues/191",
+      "createdAt": "2026-03-19T18:09:14.229Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
