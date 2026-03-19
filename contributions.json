@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773946637135,
+      "repository": "Hawksight-AI/semantica",
+      "issueTitle": "[BUG] Silent failure in graph restoration due to serialization key mismatch",
+      "url": "https://github.com/Hawksight-AI/semantica/issues/392",
+      "createdAt": "2026-03-19T18:57:17.135Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
