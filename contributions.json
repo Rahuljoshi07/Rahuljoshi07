@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773919788868,
+      "repository": "microsoft/aitour26-WRK542-prototype-agents-with-the-ai-toolkit-and-model-context-protocol",
+      "issueTitle": "MCP server fails intermittently when launched via debugpy, but works when run directly",
+      "url": "https://github.com/microsoft/aitour26-WRK542-prototype-agents-with-the-ai-toolkit-and-model-context-protocol/issues/31",
+      "createdAt": "2026-03-19T11:29:48.868Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
