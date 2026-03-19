@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773904957088,
+      "repository": "spacetx/starfish",
+      "issueTitle": "missing notebooks to python scripts validation in Github Actions workflow",
+      "url": "https://github.com/spacetx/starfish/issues/2201",
+      "createdAt": "2026-03-19T07:22:37.088Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
