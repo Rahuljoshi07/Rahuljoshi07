@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773895081908,
+      "repository": "langchain-ai/langchain-experimental",
+      "issueTitle": "[Bug/Proposal] Inability to Determine the Breakpoint between s1 and s2 due to Current Windowing Logic",
+      "url": "https://github.com/langchain-ai/langchain-experimental/issues/73",
+      "createdAt": "2026-03-19T04:38:01.908Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
