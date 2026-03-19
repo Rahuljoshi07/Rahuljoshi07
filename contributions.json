@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773921675124,
+      "repository": "pulp/pulp-cli",
+      "issueTitle": "[PULP-1360] pulp content upload --directory --use-temp-repository fails to call signing service",
+      "url": "https://github.com/pulp/pulp-cli/issues/1198",
+      "createdAt": "2026-03-19T12:01:15.124Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
