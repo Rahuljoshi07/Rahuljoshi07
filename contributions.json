@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773882965129,
+      "id": 1773883003059,
       "repository": "nextcloud/forms",
-      "issueTitle": "Can't create form : Unknown column 'allow_edit_submissions' in 'field list'",
-      "url": "https://github.com/nextcloud/forms/issues/2954",
-      "createdAt": "2026-03-19T01:16:05.129Z",
+      "issueTitle": "[a11y] connect question heading, description with question input",
+      "url": "https://github.com/nextcloud/forms/issues/3172",
+      "createdAt": "2026-03-19T01:16:43.059Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
