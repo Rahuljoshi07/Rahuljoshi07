@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773884625639,
+      "repository": "Overwatch-1-Emulator/ow1-emulator",
+      "issueTitle": "Sombra Passive still applys if youre holding hack.",
+      "url": "https://github.com/Overwatch-1-Emulator/ow1-emulator/issues/1587",
+      "createdAt": "2026-03-19T01:43:45.639Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
