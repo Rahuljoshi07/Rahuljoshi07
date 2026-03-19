@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773912487045,
+      "repository": "atviriduomenys/spinta",
+      "issueTitle": "TypeError: Unknown type JSON() during SQL inspect for MySQL",
+      "url": "https://github.com/atviriduomenys/spinta/issues/1701",
+      "createdAt": "2026-03-19T09:28:07.045Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
