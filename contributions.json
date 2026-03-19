@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1773962919325,
+      "id": 1773962964855,
       "repository": "loopbackio/loopback-connector-postgresql",
-      "issueTitle": "Dependency Dashboard",
-      "url": "https://github.com/loopbackio/loopback-connector-postgresql/issues/517",
-      "createdAt": "2026-03-19T23:28:39.325Z",
+      "issueTitle": "Please stop setting .Promise to avoid \"passing a custom promise client/pool deprecated\"",
+      "url": "https://github.com/loopbackio/loopback-connector-postgresql/issues/847",
+      "createdAt": "2026-03-19T23:29:24.855Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
