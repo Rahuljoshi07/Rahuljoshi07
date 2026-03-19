@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773917084337,
+      "repository": "DASDAE/dascore",
+      "issueTitle": "Aggregation fails on monotonic array dims when sibling coords share the reduced dimension",
+      "url": "https://github.com/DASDAE/dascore/issues/635",
+      "createdAt": "2026-03-19T10:44:44.338Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
