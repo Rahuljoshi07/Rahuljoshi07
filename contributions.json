@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773938572499,
+      "repository": "bbc/bug",
+      "issueTitle": "Routing Icons not working (on bmd-videohub)",
+      "url": "https://github.com/bbc/bug/issues/219",
+      "createdAt": "2026-03-19T16:42:52.500Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
