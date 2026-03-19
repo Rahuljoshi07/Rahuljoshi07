@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773913716762,
+      "repository": "G1OJS/PyFT8",
+      "issueTitle": "Improve decoder performance",
+      "url": "https://github.com/G1OJS/PyFT8/issues/75",
+      "createdAt": "2026-03-19T09:48:36.762Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
