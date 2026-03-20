@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1774025307167,
-      "repository": "dvsu/sps30",
-      "issueTitle": "Issue with i2c setup",
-      "url": "https://github.com/dvsu/sps30/issues/4",
-      "createdAt": "2026-03-20T16:48:27.167Z",
+      "id": 1774025362701,
+      "repository": "AdguardTeam/Scriptlets",
+      "issueTitle": "Fix 'href-sanitizer' — does not work with Google tracking URLs",
+      "url": "https://github.com/AdguardTeam/Scriptlets/issues/475",
+      "createdAt": "2026-03-20T16:49:22.701Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
