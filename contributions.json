@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774020681586,
+      "repository": "NodeSecure/cli",
+      "issueTitle": "errors when running auto command without argument",
+      "url": "https://github.com/NodeSecure/cli/issues/673",
+      "createdAt": "2026-03-20T15:31:21.586Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
