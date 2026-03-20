@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774010681734,
+      "repository": "MrAntares/roBrowserLegacy",
+      "issueTitle": "[BUG] Sign Out Bug",
+      "url": "https://github.com/MrAntares/roBrowserLegacy/issues/920",
+      "createdAt": "2026-03-20T12:44:41.734Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
