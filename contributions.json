@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1774024567877,
-      "repository": "NemoVonNirgend/NemoPresetExt",
-      "issueTitle": "Bug: Nemolore appears to initialize and function even with Nemolore toggle option in suite settings disabled.",
-      "url": "https://github.com/NemoVonNirgend/NemoPresetExt/issues/8",
-      "createdAt": "2026-03-20T16:36:07.877Z",
+      "id": 1774024623442,
+      "repository": "agntcy/observe",
+      "issueTitle": "[Bug]: Traces with \"end session\" operations are instrumented after all SLIM operations are finished",
+      "url": "https://github.com/agntcy/observe/issues/91",
+      "createdAt": "2026-03-20T16:37:03.442Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
