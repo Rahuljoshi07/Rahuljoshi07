@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1773984546148,
-      "repository": "evinism/lambda-explorer",
-      "issueTitle": "The tool does not recognize `λn. n` as eta-equivalent to the Church 1 (`λfn. f n`).",
-      "url": "https://github.com/evinism/lambda-explorer/issues/40",
-      "createdAt": "2026-03-20T05:29:06.148Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
