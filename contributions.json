@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773975945092,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Prevent false project leader detection caused by substring matching",
+      "url": "https://github.com/OWASP/Nest/issues/4283",
+      "createdAt": "2026-03-20T03:05:45.092Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
