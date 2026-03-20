@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774011665802,
+      "repository": "Skatteetaten/saf-t",
+      "issueTitle": "Error in the SAFT version 1.2 xml file",
+      "url": "https://github.com/Skatteetaten/saf-t/issues/86",
+      "createdAt": "2026-03-20T13:01:05.802Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
