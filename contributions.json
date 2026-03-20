@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773990303795,
+      "repository": "StarWarsFoundryVTT/StarWarsFFG",
+      "issueTitle": "Talents obtained from specializations cannot be edited on sheet - but edit button is shown anyway",
+      "url": "https://github.com/StarWarsFoundryVTT/StarWarsFFG/issues/2143",
+      "createdAt": "2026-03-20T07:05:03.795Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
