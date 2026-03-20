@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1774027441927,
-      "repository": "nextcloud/files_antivirus",
-      "issueTitle": "[Bug]: files_antivirus 6.2.0 causes LockedException with Collectives 4.1.0 on NC 32 - pages cannot be deleted/renamed",
-      "url": "https://github.com/nextcloud/files_antivirus/issues/540",
-      "createdAt": "2026-03-20T17:24:01.927Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
