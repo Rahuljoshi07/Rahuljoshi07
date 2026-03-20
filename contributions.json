@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774034364163,
+      "repository": "agillis/esphome-modular-lvgl-buttons",
+      "issueTitle": "Failure validating expected a dictionary error",
+      "url": "https://github.com/agillis/esphome-modular-lvgl-buttons/issues/64",
+      "createdAt": "2026-03-20T19:19:24.163Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
