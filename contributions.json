@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1773997095999,
-      "repository": "wcm-io-frontend/aem-clientlib-generator",
-      "issueTitle": "clientlib is unable to update the files/resources from dist to ui.apps. Throwing new errors everytime. Note that it is working fine on Mac but on windows only throwing errors.",
-      "url": "https://github.com/wcm-io-frontend/aem-clientlib-generator/issues/47",
-      "createdAt": "2026-03-20T08:58:15.999Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
