@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774041013731,
+      "repository": "SitecorePowerShell/Console",
+      "issueTitle": "Add structured error format for JSON remoting responses",
+      "url": "https://github.com/SitecorePowerShell/Console/issues/1425",
+      "createdAt": "2026-03-20T21:10:13.731Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
