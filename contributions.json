@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773993642758,
+      "repository": "asyncapi/spec-json-schemas",
+      "issueTitle": "fix: missing '#' in JSON references in examples/3.0.0/operation.json",
+      "url": "https://github.com/asyncapi/spec-json-schemas/issues/619",
+      "createdAt": "2026-03-20T08:00:42.758Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
