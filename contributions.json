@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773991837792,
+      "repository": "canonical/checkbox",
+      "issueTitle": "References to MANIACS should be purged",
+      "url": "https://github.com/canonical/checkbox/issues/2404",
+      "createdAt": "2026-03-20T07:30:37.792Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
