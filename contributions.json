@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1773999198735,
+      "id": 1773999242195,
       "repository": "eurostat/gridviz",
       "issueTitle": "multiple zoom events + mousemove = jolt",
       "url": "https://github.com/eurostat/gridviz/issues/161",
-      "createdAt": "2026-03-20T09:33:18.735Z",
+      "createdAt": "2026-03-20T09:34:02.195Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
