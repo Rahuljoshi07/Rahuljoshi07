@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774007212491,
+      "repository": "geosolutions-it/MapStore2",
+      "issueTitle": "Cannot delete SampleExtension",
+      "url": "https://github.com/geosolutions-it/MapStore2/issues/12080",
+      "createdAt": "2026-03-20T11:46:52.491Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
