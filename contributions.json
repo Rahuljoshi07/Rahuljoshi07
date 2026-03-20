@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773992033922,
+      "repository": "mikakaraila/node-red-contrib-opcua",
+      "issueTitle": "Errors with multiple clients",
+      "url": "https://github.com/mikakaraila/node-red-contrib-opcua/issues/866",
+      "createdAt": "2026-03-20T07:33:53.922Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
