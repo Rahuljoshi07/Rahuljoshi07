@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774011099576,
+      "repository": "Redocly/repo-file-sync-action",
+      "issueTitle": "octokit error on `onSecondaryRateLimit`",
+      "url": "https://github.com/Redocly/repo-file-sync-action/issues/139",
+      "createdAt": "2026-03-20T12:51:39.576Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
