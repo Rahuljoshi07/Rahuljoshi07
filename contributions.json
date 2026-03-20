@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773974132966,
+      "repository": "openyida/openyida",
+      "issueTitle": "chore: logout 写空字符串而非删除 cookies.json，导致后续 JSON.parse 异常",
+      "url": "https://github.com/openyida/openyida/issues/181",
+      "createdAt": "2026-03-20T02:35:32.966Z",
+      "type": "comment",
+      "content": "Adding TypeScript could improve code quality and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
