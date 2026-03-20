@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774002334795,
+      "repository": "coder/balatrobot",
+      "issueTitle": "feat!(lua): improve the error message with suggested actions",
+      "url": "https://github.com/coder/balatrobot/issues/148",
+      "createdAt": "2026-03-20T10:25:34.795Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
