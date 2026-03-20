@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773989106295,
+      "repository": "NemoVonNirgend/NemoPresetExt",
+      "issueTitle": "Bug: Nemolore appears to initialize and function even with Nemolore toggle option in suite settings disabled.",
+      "url": "https://github.com/NemoVonNirgend/NemoPresetExt/issues/8",
+      "createdAt": "2026-03-20T06:45:06.295Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
