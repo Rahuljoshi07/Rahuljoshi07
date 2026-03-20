@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773997418872,
+      "repository": "ICTU/quality-time",
+      "issueTitle": "Improve front-end performance of Quality-time on different platforms.",
+      "url": "https://github.com/ICTU/quality-time/issues/12754",
+      "createdAt": "2026-03-20T09:03:38.873Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
