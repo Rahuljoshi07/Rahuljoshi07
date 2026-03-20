@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773985797970,
+      "repository": "yezhuoyang/ScaLERQEC",
+      "issueTitle": "Bug in Symbolic calculation",
+      "url": "https://github.com/yezhuoyang/ScaLERQEC/issues/12",
+      "createdAt": "2026-03-20T05:49:57.970Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
