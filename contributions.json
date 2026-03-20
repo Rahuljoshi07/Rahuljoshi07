@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774005817089,
+      "repository": "binarynonsense/comic-book-reader",
+      "issueTitle": "[BUG] [WORKER] error on image #4: EBUSY: resource busy or locked, unlink 'C:\\Users\\lukas\\OneDrive\\Documentos\\#MANGA\\#Ferramentas\\ACBR CBZ para PDF\\ACBR_Windows\\acbr-tmp\\acbr-tmp-bUrjk5\\004.webp' Couldn't convert the file, an error ocurred",
+      "url": "https://github.com/binarynonsense/comic-book-reader/issues/277",
+      "createdAt": "2026-03-20T11:23:37.089Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
