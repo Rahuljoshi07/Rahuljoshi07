@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774001404099,
+      "repository": "MTrab/landroid_cloud",
+      "issueTitle": "KR136E -  rainsensor_triggered - false",
+      "url": "https://github.com/MTrab/landroid_cloud/issues/908",
+      "createdAt": "2026-03-20T10:10:04.099Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
