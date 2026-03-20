@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773980069406,
+      "repository": "tsinghua-fib-lab/AgentSociety",
+      "issueTitle": "Failed to start the simulation with customized map",
+      "url": "https://github.com/tsinghua-fib-lab/AgentSociety/issues/71",
+      "createdAt": "2026-03-20T04:14:29.406Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
