@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774040758588,
+      "repository": "dogtoshi-sz/Trenchy-Tools-pumpfun-bundler-launcher-react-dashboard",
+      "issueTitle": "Crosschain mixer having issues",
+      "url": "https://github.com/dogtoshi-sz/Trenchy-Tools-pumpfun-bundler-launcher-react-dashboard/issues/2",
+      "createdAt": "2026-03-20T21:05:58.588Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
