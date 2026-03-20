@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1774041827149,
-      "repository": "uhop/stream-chain",
-      "issueTitle": "Cannot upgrade due to TS1183: An implementation cannot be declared in ambient contexts.",
-      "url": "https://github.com/uhop/stream-chain/issues/32",
-      "createdAt": "2026-03-20T21:23:47.149Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
