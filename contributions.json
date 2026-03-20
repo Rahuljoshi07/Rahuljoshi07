@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774018443305,
+      "repository": "11ty/eleventy-import",
+      "issueTitle": "TypeError when import from Ghost via RSS",
+      "url": "https://github.com/11ty/eleventy-import/issues/18",
+      "createdAt": "2026-03-20T14:54:03.305Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
