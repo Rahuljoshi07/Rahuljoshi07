@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774006083838,
+      "repository": "torchbox/wagtail-grapple",
+      "issueTitle": "bitnami public catalog is disabled",
+      "url": "https://github.com/torchbox/wagtail-grapple/issues/427",
+      "createdAt": "2026-03-20T11:28:03.838Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
