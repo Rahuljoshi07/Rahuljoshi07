@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1774044968789,
+      "id": 1774045009291,
       "repository": "gbroeckling/padspanHA",
       "issueTitle": "Improve support of Shelly BLE relays as scanners",
       "url": "https://github.com/gbroeckling/padspanHA/issues/9",
-      "createdAt": "2026-03-20T22:16:08.790Z",
+      "createdAt": "2026-03-20T22:16:49.291Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. (Suggested by R..."
     }
   ],
   "stats": {
