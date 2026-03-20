@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773983103250,
+      "repository": "kawayiYokami/astrbot_plugin_angel_heart",
+      "issueTitle": "[Bug] secretary_decision里没有persona_name字段",
+      "url": "https://github.com/kawayiYokami/astrbot_plugin_angel_heart/issues/23",
+      "createdAt": "2026-03-20T05:05:03.250Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
