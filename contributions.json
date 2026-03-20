@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1773989973234,
-      "repository": "winstonjs/winston-mongodb",
-      "issueTitle": "[Bug]: Metadata breaking change from Array to Object",
-      "url": "https://github.com/winstonjs/winston-mongodb/issues/311",
-      "createdAt": "2026-03-20T06:59:33.234Z",
+      "id": 1773990025331,
+      "repository": "yaacov/node-modbus-serial",
+      "issueTitle": "`no-serial-port` actually requires `serialport`",
+      "url": "https://github.com/yaacov/node-modbus-serial/issues/589",
+      "createdAt": "2026-03-20T07:00:25.331Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
