@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774045624668,
+      "repository": "cenodude/CrossWatch",
+      "issueTitle": "[bug] Users other than myself not scrobbling",
+      "url": "https://github.com/cenodude/CrossWatch/issues/168",
+      "createdAt": "2026-03-20T22:27:04.668Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
