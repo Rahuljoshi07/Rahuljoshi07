@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773979391911,
+      "repository": "ietf-tools/datatracker",
+      "issueTitle": "Proposer gets slides approval link but it's not usable",
+      "url": "https://github.com/ietf-tools/datatracker/issues/10577",
+      "createdAt": "2026-03-20T04:03:11.911Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
