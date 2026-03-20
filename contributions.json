@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774009783361,
+      "repository": "ClanGenOfficial/clangen",
+      "issueTitle": "[UI] eye colors not displaying correctly again",
+      "url": "https://github.com/ClanGenOfficial/clangen/issues/4585",
+      "createdAt": "2026-03-20T12:29:43.361Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
