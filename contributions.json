@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773971895583,
+      "repository": "rsnemmen/BCES",
+      "issueTitle": "line 249 UnboundLocalError: local variable 'am' referenced before assignment",
+      "url": "https://github.com/rsnemmen/BCES/issues/9",
+      "createdAt": "2026-03-20T01:58:15.583Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
