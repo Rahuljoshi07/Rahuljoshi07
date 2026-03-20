@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774039238445,
+      "repository": "JaylyDev/ScriptAPI",
+      "issueTitle": "Update Script to 1.21.80 and all works.",
+      "url": "https://github.com/JaylyDev/ScriptAPI/issues/386",
+      "createdAt": "2026-03-20T20:40:38.445Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
