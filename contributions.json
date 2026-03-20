@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773975260669,
+      "repository": "L-1124/QQMusicApi",
+      "issueTitle": "[BUG]: 部分歌曲已经无法下载了",
+      "url": "https://github.com/L-1124/QQMusicApi/issues/225",
+      "createdAt": "2026-03-20T02:54:20.669Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
