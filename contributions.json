@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773982768734,
+      "repository": "xuanyustudio/LocalMiniDrama",
+      "issueTitle": "[Bug] 火山引擎 - 分镜生成报错",
+      "url": "https://github.com/xuanyustudio/LocalMiniDrama/issues/6",
+      "createdAt": "2026-03-20T04:59:28.734Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
