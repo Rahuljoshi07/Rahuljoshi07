@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773969978033,
+      "repository": "julia-actions/cache",
+      "issueTitle": "Remove pidfiles from cache",
+      "url": "https://github.com/julia-actions/cache/issues/179",
+      "createdAt": "2026-03-20T01:26:18.033Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
