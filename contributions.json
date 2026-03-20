@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774002152696,
+      "repository": "IBM/ado",
+      "issueTitle": "bug(core): ado accepts binary variables with arbitrary values",
+      "url": "https://github.com/IBM/ado/issues/715",
+      "createdAt": "2026-03-20T10:22:32.696Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
