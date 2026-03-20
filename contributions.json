@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1773991741350,
+      "repository": "kawayiYokami/astrbot_plugin_angel_heart",
+      "issueTitle": "用于检索重排的提供商 功能似乎有Bug",
+      "url": "https://github.com/kawayiYokami/astrbot_plugin_angel_heart/issues/21",
+      "createdAt": "2026-03-20T07:29:01.350Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
