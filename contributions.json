@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1774042200426,
-      "repository": "vEnhance/otis-web",
-      "issueTitle": "Setting to change timestamps to be in local time zone",
-      "url": "https://github.com/vEnhance/otis-web/issues/274",
-      "createdAt": "2026-03-20T21:30:00.426Z",
+      "id": 1774042234507,
+      "repository": "uhop/stream-chain",
+      "issueTitle": "Cannot upgrade due to TS1183: An implementation cannot be declared in ambient contexts.",
+      "url": "https://github.com/uhop/stream-chain/issues/32",
+      "createdAt": "2026-03-20T21:30:34.507Z",
       "type": "comment",
-      "content": "Adding type hints would improve code readability and IDE support. This suggestion is particularly re..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
