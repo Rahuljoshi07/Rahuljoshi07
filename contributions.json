@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774102251624,
+      "repository": "FaserF/ha-db_infoscreen",
+      "issueTitle": "[Bug]: The text sensor next_departures_text needs to be more configurable",
+      "url": "https://github.com/FaserF/ha-db_infoscreen/issues/109",
+      "createdAt": "2026-03-21T14:10:51.624Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
