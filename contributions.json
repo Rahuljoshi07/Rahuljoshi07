@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774115219600,
+      "repository": "ncatbot/NcatBot",
+      "issueTitle": "[BUG] 登陆时扫码登录的 QQ 和填写的 bot_uin 不一致时行为不明确",
+      "url": "https://github.com/ncatbot/NcatBot/issues/5",
+      "createdAt": "2026-03-21T17:46:59.601Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
