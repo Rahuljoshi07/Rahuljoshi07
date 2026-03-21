@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774086987707,
+      "repository": "springfall2008/batpred",
+      "issueTitle": "GatewayMQTT: telemetry/control validation bugs",
+      "url": "https://github.com/springfall2008/batpred/issues/3613",
+      "createdAt": "2026-03-21T09:56:27.707Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
