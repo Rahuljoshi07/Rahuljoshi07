@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774123367779,
+      "repository": "ThomazPom/Moz-Ext-UltimaDark",
+      "issueTitle": "Youtube player darkned controls",
+      "url": "https://github.com/ThomazPom/Moz-Ext-UltimaDark/issues/196",
+      "createdAt": "2026-03-21T20:02:47.779Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
