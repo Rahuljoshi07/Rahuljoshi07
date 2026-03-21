@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774075749681,
+      "repository": "Steve-Tech/YAFI",
+      "issueTitle": "[FW13 11th Gen] `OSError: [WinError -2147024846] The request is not supported`",
+      "url": "https://github.com/Steve-Tech/YAFI/issues/1",
+      "createdAt": "2026-03-21T06:49:09.681Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
