@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774094757345,
+      "repository": "LetMeR00t/TA-thehive-cortex",
+      "issueTitle": "[BUG] CA Bundle outdated, New Let's Encrypt E7 and E8 certs verification fails.",
+      "url": "https://github.com/LetMeR00t/TA-thehive-cortex/issues/114",
+      "createdAt": "2026-03-21T12:05:57.345Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
