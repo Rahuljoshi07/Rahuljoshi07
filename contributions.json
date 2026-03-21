@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774074507465,
+      "repository": "pie-project/pie",
+      "issueTitle": "Bug: Server accepts connections before model is ready (WASM panics)",
+      "url": "https://github.com/pie-project/pie/issues/268",
+      "createdAt": "2026-03-21T06:28:27.465Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
