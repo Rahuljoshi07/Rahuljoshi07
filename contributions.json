@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774112647889,
+      "repository": "qqq-wisc/wisq",
+      "issueTitle": "KeyError in phased_graph.py during SCMR mode mapping (KeyError: 8)",
+      "url": "https://github.com/qqq-wisc/wisq/issues/23",
+      "createdAt": "2026-03-21T17:04:07.889Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
