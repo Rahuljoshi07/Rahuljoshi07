@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1774132505190,
-      "repository": "ember-cli/eslint-plugin-ember",
-      "issueTitle": "no-deeply-nested-dependent-keys-with-each: false positive",
-      "url": "https://github.com/ember-cli/eslint-plugin-ember/issues/981",
-      "createdAt": "2026-03-21T22:35:05.190Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
