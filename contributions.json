@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774093908202,
+      "repository": "Project-N-E-K-O/N.E.K.O",
+      "issueTitle": "[Bug Report]: docker compose 启动失败",
+      "url": "https://github.com/Project-N-E-K-O/N.E.K.O/issues/504",
+      "createdAt": "2026-03-21T11:51:48.202Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
