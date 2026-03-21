@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1774118687938,
-      "repository": "wemake-services/django-modern-rest",
-      "issueTitle": "limit_to_content_types on global ResponseSpec raises ResponseSchemaError (422) when error handler returns different content type than negotiated renderer.",
-      "url": "https://github.com/wemake-services/django-modern-rest/issues/701",
-      "createdAt": "2026-03-21T18:44:47.938Z",
-      "type": "comment",
-      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
