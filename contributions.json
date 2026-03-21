@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774079470766,
+      "repository": "martinarva/dynamic_energy_cost",
+      "issueTitle": "[🐛Bug]: Quarterly Costs are NOT accurate.",
+      "url": "https://github.com/martinarva/dynamic_energy_cost/issues/205",
+      "createdAt": "2026-03-21T07:51:10.767Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
