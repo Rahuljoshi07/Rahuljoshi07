@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774105122576,
+      "repository": "ramses-rf/ramses_cc",
+      "issueTitle": "new packetlog setting: flush blocking IO",
+      "url": "https://github.com/ramses-rf/ramses_cc/issues/546",
+      "createdAt": "2026-03-21T14:58:42.576Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
