@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774085330791,
+      "repository": "martinarva/dynamic_energy_cost",
+      "issueTitle": "Wrong value for average energy cost calculation attribute",
+      "url": "https://github.com/martinarva/dynamic_energy_cost/issues/136",
+      "createdAt": "2026-03-21T09:28:50.791Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
