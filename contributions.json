@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774091283155,
+      "repository": "impratikjaiswal/asn1Play",
+      "issueTitle": "Unable to Parse: SubjectPublicKeyInfo; Json to Der",
+      "url": "https://github.com/impratikjaiswal/asn1Play/issues/16",
+      "createdAt": "2026-03-21T11:08:03.155Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
