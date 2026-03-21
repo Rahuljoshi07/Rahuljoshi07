@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774131453750,
+      "repository": "NPC-Worldwide/npcsh",
+      "issueTitle": "[BUG] Critical NameError in Memory Context, Configuration Persistence Issue, and /sql Quote Vulnerability",
+      "url": "https://github.com/NPC-Worldwide/npcsh/issues/37",
+      "createdAt": "2026-03-21T22:17:33.750Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
