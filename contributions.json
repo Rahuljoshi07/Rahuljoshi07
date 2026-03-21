@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1774068818205,
+      "id": 1774068851162,
       "repository": "KudoAI/bravegpt",
-      "issueTitle": "Support more search engines and even merge with duckduckgpt?",
-      "url": "https://github.com/KudoAI/bravegpt/issues/18",
-      "createdAt": "2026-03-21T04:53:38.205Z",
+      "issueTitle": "Streaming Mode in Edge results in `STATUS_ACCESS_VIOLATION` error",
+      "url": "https://github.com/KudoAI/bravegpt/issues/48",
+      "createdAt": "2026-03-21T04:54:11.162Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
