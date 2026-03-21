@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774077715558,
+      "repository": "jjang-ai/vmlx",
+      "issueTitle": "[bug] `--enable-block-disk-cache` crashes with Metal assertion on bfloat16 tensor serialization",
+      "url": "https://github.com/jjang-ai/vmlx/issues/7",
+      "createdAt": "2026-03-21T07:21:55.559Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
