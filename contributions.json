@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1774118616667,
-      "repository": "simonmichael/hledger_site",
-      "issueTitle": "literal blocks can make TOC links unclickable",
-      "url": "https://github.com/simonmichael/hledger_site/issues/64",
-      "createdAt": "2026-03-21T18:43:36.667Z",
+      "id": 1774118687938,
+      "repository": "wemake-services/django-modern-rest",
+      "issueTitle": "limit_to_content_types on global ResponseSpec raises ResponseSchemaError (422) when error handler returns different content type than negotiated renderer.",
+      "url": "https://github.com/wemake-services/django-modern-rest/issues/701",
+      "createdAt": "2026-03-21T18:44:47.938Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
     }
   ],
   "stats": {
