@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774074272714,
+      "repository": "Jasons-impart/Create-Delight-Remake",
+      "issueTitle": "服务端运行时单tick超过60s导致自动停止",
+      "url": "https://github.com/Jasons-impart/Create-Delight-Remake/issues/1436",
+      "createdAt": "2026-03-21T06:24:32.715Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
