@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774082304849,
+      "repository": "GUI-for-Cores/Plugin-Hub",
+      "issueTitle": "代理守卫插件逻辑存在“死循环写入” Bug",
+      "url": "https://github.com/GUI-for-Cores/Plugin-Hub/issues/94",
+      "createdAt": "2026-03-21T08:38:24.849Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
