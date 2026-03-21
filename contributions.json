@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774055358056,
+      "repository": "openyida/openyida",
+      "issueTitle": "create-process 命令缺少复用已有表单的能力，导致失败后每次都创建新表单",
+      "url": "https://github.com/openyida/openyida/issues/201",
+      "createdAt": "2026-03-21T01:09:18.056Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
