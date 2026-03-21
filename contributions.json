@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774135030285,
+      "repository": "nodevault/node-vault",
+      "issueTitle": "How to unseal a vault that is already initialized?",
+      "url": "https://github.com/nodevault/node-vault/issues/211",
+      "createdAt": "2026-03-21T23:17:10.285Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
