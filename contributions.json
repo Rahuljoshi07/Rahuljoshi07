@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1774106637406,
+      "id": 1774106680753,
       "repository": "cracker0dks/whiteboard",
       "issueTitle": "Uniapp webview control reports an error when loading whiteboard，on the Android version of the app",
       "url": "https://github.com/cracker0dks/whiteboard/issues/206",
-      "createdAt": "2026-03-21T15:23:57.406Z",
+      "createdAt": "2026-03-21T15:24:40.753Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
