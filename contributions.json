@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774141902818,
+      "repository": "nextcloud/forms",
+      "issueTitle": "Form can be submitted before the file finished uploading",
+      "url": "https://github.com/nextcloud/forms/issues/3230",
+      "createdAt": "2026-03-22T01:11:42.818Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
