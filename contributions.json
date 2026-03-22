@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774191486121,
+      "repository": "sepivip/SeekerClaw",
+      "issueTitle": "Feature: Network Resilience — mobile-aware error recovery",
+      "url": "https://github.com/sepivip/SeekerClaw/issues/280",
+      "createdAt": "2026-03-22T14:58:06.121Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
