@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774223754599,
+      "repository": "NVIDIA/tilus",
+      "issueTitle": "ModuleNotFoundError: No module named 'tilus.ir.layout.ops'",
+      "url": "https://github.com/NVIDIA/tilus/issues/94",
+      "createdAt": "2026-03-22T23:55:54.599Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
