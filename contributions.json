@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774143193583,
+      "repository": "gallantlab/pycortex",
+      "issueTitle": "Weird holes for visualization (possible issue with xfm)",
+      "url": "https://github.com/gallantlab/pycortex/issues/567",
+      "createdAt": "2026-03-22T01:33:13.583Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
