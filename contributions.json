@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774191657850,
+      "repository": "deidril/pf2-pdf-en-import",
+      "issueTitle": "Error in console relating to this module when opening foundry",
+      "url": "https://github.com/deidril/pf2-pdf-en-import/issues/104",
+      "createdAt": "2026-03-22T15:00:57.850Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
