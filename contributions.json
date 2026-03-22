@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774187642538,
+      "repository": "babalae/bettergi-scripts-list",
+      "issueTitle": "[Bug]: 简短描述你遇到的问题",
+      "url": "https://github.com/babalae/bettergi-scripts-list/issues/3021",
+      "createdAt": "2026-03-22T13:54:02.538Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
