@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774172593052,
+      "repository": "SceneCOT/scenecot",
+      "issueTitle": "[Reproducibility] Missing dependencies and configuration issues prevent experiment reproduction",
+      "url": "https://github.com/SceneCOT/scenecot/issues/1",
+      "createdAt": "2026-03-22T09:43:13.052Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
