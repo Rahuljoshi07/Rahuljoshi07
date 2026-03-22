@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774198110898,
+      "repository": "microsoft/apm",
+      "issueTitle": "Bug: script runner misidentifies 'codex' in model names as the codex runtime binary",
+      "url": "https://github.com/microsoft/apm/issues/396",
+      "createdAt": "2026-03-22T16:48:30.898Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
