@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774218582449,
+      "repository": "rrgeorge/EncounterLog",
+      "issueTitle": "TypeError",
+      "url": "https://github.com/rrgeorge/EncounterLog/issues/5",
+      "createdAt": "2026-03-22T22:29:42.450Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
