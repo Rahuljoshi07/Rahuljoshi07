@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774189293761,
+      "repository": "qiauil/torchfsm",
+      "issueTitle": "Fix the incorrect plot size",
+      "url": "https://github.com/qiauil/torchfsm/issues/9",
+      "createdAt": "2026-03-22T14:21:33.761Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
