@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774188129437,
+      "repository": "eunomia-bpf/bpf-benchmark",
+      "issueTitle": "[BUG]FileNotFoundError: [Errno 2] No such file or directory: 'ubpf jit'",
+      "url": "https://github.com/eunomia-bpf/bpf-benchmark/issues/1",
+      "createdAt": "2026-03-22T14:02:09.437Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
