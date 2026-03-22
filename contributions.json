@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774215650877,
+      "repository": "speakeasy-api/speakeasy",
+      "issueTitle": "False positive circular-reference-invalid on external $ref schemas since v1.709.2",
+      "url": "https://github.com/speakeasy-api/speakeasy/issues/1979",
+      "createdAt": "2026-03-22T21:40:50.877Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
