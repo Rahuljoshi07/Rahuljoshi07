@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774158401100,
+      "repository": "Jasons-impart/Create-Delight-Remake",
+      "issueTitle": "[BUG v0.4.8.3]使用压缩机真空处理时会使产物消失",
+      "url": "https://github.com/Jasons-impart/Create-Delight-Remake/issues/1528",
+      "createdAt": "2026-03-22T05:46:41.100Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
