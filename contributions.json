@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774174568762,
+      "repository": "2Abendsegler/GClh",
+      "issueTitle": "[Search / Results] Filtersets not available on new resultpage",
+      "url": "https://github.com/2Abendsegler/GClh/issues/2055",
+      "createdAt": "2026-03-22T10:16:08.762Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
