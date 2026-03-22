@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774221978534,
+      "repository": "jaimetur/PhotoMigrator",
+      "issueTitle": "[BUG]: Issue migrating Content from Nextcloud Photos",
+      "url": "https://github.com/jaimetur/PhotoMigrator/issues/1073",
+      "createdAt": "2026-03-22T23:26:18.534Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
