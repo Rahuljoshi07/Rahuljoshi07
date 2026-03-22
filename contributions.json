@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774223113609,
+      "repository": "demmings/gsSQL",
+      "issueTitle": "Implicit SELF JOIN syntax not supported.",
+      "url": "https://github.com/demmings/gsSQL/issues/67",
+      "createdAt": "2026-03-22T23:45:13.609Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
