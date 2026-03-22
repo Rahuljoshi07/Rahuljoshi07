@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774187973556,
+      "repository": "iedr/goodfirstissues",
+      "issueTitle": "Bug: I don't see my Open-Source project that contains the label `good first issue`",
+      "url": "https://github.com/iedr/goodfirstissues/issues/99",
+      "createdAt": "2026-03-22T13:59:33.556Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
