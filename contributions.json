@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774168697242,
+      "repository": "openyida/openyida",
+      "issueTitle": "bug: lib/connector/ 下所有子命令因 require 路径错误无法执行",
+      "url": "https://github.com/openyida/openyida/issues/214",
+      "createdAt": "2026-03-22T08:38:17.242Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
