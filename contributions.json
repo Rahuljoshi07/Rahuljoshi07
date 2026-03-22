@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774153338439,
+      "repository": "EyeOdin/Pigment.O",
+      "issueTitle": "Read_Color() silently fails when Harmony is enabled",
+      "url": "https://github.com/EyeOdin/Pigment.O/issues/35",
+      "createdAt": "2026-03-22T04:22:18.439Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
