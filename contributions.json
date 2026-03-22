@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774172394924,
+      "repository": "EFForg/badger-sett",
+      "issueTitle": "Scanner fails to visit the next site when something goes wrong extracting data from PB's options page",
+      "url": "https://github.com/EFForg/badger-sett/issues/99",
+      "createdAt": "2026-03-22T09:39:54.924Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
