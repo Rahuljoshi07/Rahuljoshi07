@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774184192599,
+      "repository": "phpmyadmin/website",
+      "issueTitle": "Dark mode",
+      "url": "https://github.com/phpmyadmin/website/issues/190",
+      "createdAt": "2026-03-22T12:56:32.599Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
