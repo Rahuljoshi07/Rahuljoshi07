@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1774141956221,
+      "id": 1774141993290,
       "repository": "gbroeckling/padspanHA",
-      "issueTitle": "Unable to calibrate with iPhones/Apple Watches",
-      "url": "https://github.com/gbroeckling/padspanHA/issues/6",
-      "createdAt": "2026-03-22T01:12:36.221Z",
+      "issueTitle": "Improve support of Shelly BLE relays as scanners",
+      "url": "https://github.com/gbroeckling/padspanHA/issues/9",
+      "createdAt": "2026-03-22T01:13:13.290Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. (Suggested by R..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
