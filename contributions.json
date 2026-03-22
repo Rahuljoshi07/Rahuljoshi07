@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774144050138,
+      "repository": "pnnbao97/VieNeu-TTS",
+      "issueTitle": "When TTS encounters “...”, it does not pause and reads straight through.",
+      "url": "https://github.com/pnnbao97/VieNeu-TTS/issues/112",
+      "createdAt": "2026-03-22T01:47:30.139Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
