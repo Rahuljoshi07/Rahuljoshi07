@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774195816086,
+      "repository": "exaile/exaile",
+      "issueTitle": "Possible Bug: Volume Increases Beyond 100% (Seemingly) At Random During Playback",
+      "url": "https://github.com/exaile/exaile/issues/1005",
+      "createdAt": "2026-03-22T16:10:16.086Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
