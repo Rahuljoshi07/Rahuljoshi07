@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774138360215,
+      "repository": "stevezau/plex_generate_vid_previews",
+      "issueTitle": "Settings and Webhooks pages are slow to load in Docker/k8s deployments",
+      "url": "https://github.com/stevezau/plex_generate_vid_previews/issues/187",
+      "createdAt": "2026-03-22T00:12:40.216Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
