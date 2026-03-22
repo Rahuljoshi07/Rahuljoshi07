@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774213679550,
+      "repository": "HarrisonKramer/optiland",
+      "issueTitle": "MTF: MTF data seemingly not correct for off-axis field points, diffraction limit data not scaled with max_freq, unable to find a way to choose field point for MTF plot",
+      "url": "https://github.com/HarrisonKramer/optiland/issues/525",
+      "createdAt": "2026-03-22T21:07:59.550Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
