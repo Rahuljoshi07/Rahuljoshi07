@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774172074236,
+      "repository": "inception-project/inception-external-recommender",
+      "issueTitle": "Error with running the Adapters via INCEpTION",
+      "url": "https://github.com/inception-project/inception-external-recommender/issues/34",
+      "createdAt": "2026-03-22T09:34:34.236Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
