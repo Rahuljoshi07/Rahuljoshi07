@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774219153045,
+      "repository": "Kometa-Team/Quickstart",
+      "issueTitle": "[Bug]: Setting Default Collection Order to Ratings either Desc or Asc causes error",
+      "url": "https://github.com/Kometa-Team/Quickstart/issues/1147",
+      "createdAt": "2026-03-22T22:39:13.045Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
