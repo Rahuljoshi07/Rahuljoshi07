@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774220081457,
+      "repository": "mikey0000/Mammotion-HA",
+      "issueTitle": "[BUG] refreshToken invalid and 504 errors after extended use - v0.4.44",
+      "url": "https://github.com/mikey0000/Mammotion-HA/issues/565",
+      "createdAt": "2026-03-22T22:54:41.458Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
