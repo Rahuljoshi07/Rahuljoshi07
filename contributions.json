@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774173730567,
+      "repository": "stylelint/eslint-config-stylelint",
+      "issueTitle": "Add `curly: ['error', 'multi']` rule",
+      "url": "https://github.com/stylelint/eslint-config-stylelint/issues/346",
+      "createdAt": "2026-03-22T10:02:10.568Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
