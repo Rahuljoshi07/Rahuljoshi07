@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774296109043,
+      "repository": "aziontech/azion-console-kit",
+      "issueTitle": "fix: Your Settings page bugs and premature prefetch on first login",
+      "url": "https://github.com/aziontech/azion-console-kit/issues/3358",
+      "createdAt": "2026-03-23T20:01:49.043Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
