@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774229609752,
+      "repository": "Open-Wine-Components/umu-protonfixes",
+      "issueTitle": "Winetricks error: `pgrep` not found in environment",
+      "url": "https://github.com/Open-Wine-Components/umu-protonfixes/issues/507",
+      "createdAt": "2026-03-23T01:33:29.752Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
