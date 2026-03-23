@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774224401110,
+      "repository": "axonops/axonops-workbench",
+      "issueTitle": "[bug]: macos title bar and window controls reverse while running Workbench",
+      "url": "https://github.com/axonops/axonops-workbench/issues/1067",
+      "createdAt": "2026-03-23T00:06:41.110Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
