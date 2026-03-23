@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774275874089,
+      "repository": "mistralai/client-python",
+      "issueTitle": "[BUG MODEL]: Magistral models ignore `tool_choice=\"required\"` and return text instead of tool calls",
+      "url": "https://github.com/mistralai/client-python/issues/419",
+      "createdAt": "2026-03-23T14:24:34.089Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
