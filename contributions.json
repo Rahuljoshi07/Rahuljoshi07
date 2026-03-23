@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774308904321,
+      "repository": "camUrban/PteraSoftware",
+      "issueTitle": "Parallelize Biot-Savart kernels",
+      "url": "https://github.com/camUrban/PteraSoftware/issues/140",
+      "createdAt": "2026-03-23T23:35:04.321Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
