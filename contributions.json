@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774300283163,
+      "repository": "OsaSoft/youtube-better-subscriptions",
+      "issueTitle": "No longer working after update",
+      "url": "https://github.com/OsaSoft/youtube-better-subscriptions/issues/250",
+      "createdAt": "2026-03-23T21:11:23.164Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
