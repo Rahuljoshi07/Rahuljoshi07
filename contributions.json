@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774300925484,
+      "repository": "iwpnd/pyle38",
+      "issueTitle": "Why native redis-py connection pool is not supported? Severe performance bottlenecks in high-concurrency low-latency production scenarios",
+      "url": "https://github.com/iwpnd/pyle38/issues/620",
+      "createdAt": "2026-03-23T21:22:05.484Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
