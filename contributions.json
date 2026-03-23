@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774272747995,
+      "repository": "Aqu1tain/stremio-horizon",
+      "issueTitle": "fix: player description centered instead of right-aligned",
+      "url": "https://github.com/Aqu1tain/stremio-horizon/issues/29",
+      "createdAt": "2026-03-23T13:32:27.995Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
