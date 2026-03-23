@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774286805608,
+      "repository": "IBM/ado",
+      "issueTitle": "bug:  DiscoverySpace.matchingEntities can use a partially populated SQLSampleStore._entities after DiscoverSpace.sampledEntities",
+      "url": "https://github.com/IBM/ado/issues/733",
+      "createdAt": "2026-03-23T17:26:45.609Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
