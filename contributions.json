@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774248010167,
+      "repository": "flh155/qq-farm-bot",
+      "issueTitle": "日志打印异常",
+      "url": "https://github.com/flh155/qq-farm-bot/issues/6",
+      "createdAt": "2026-03-23T06:40:10.167Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
