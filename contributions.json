@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774298292418,
+      "repository": "coldfix/certbot-dns-netcup",
+      "issueTitle": "Docker: certbot: error: unrecognized arguments: --dns-netcup-zone-name abc.de",
+      "url": "https://github.com/coldfix/certbot-dns-netcup/issues/46",
+      "createdAt": "2026-03-23T20:38:12.418Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
