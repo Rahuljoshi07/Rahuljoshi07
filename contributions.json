@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774271670244,
+      "repository": "saleor/saleor-docs",
+      "issueTitle": "Saleor App Template Error (t is not a function)",
+      "url": "https://github.com/saleor/saleor-docs/issues/1750",
+      "createdAt": "2026-03-23T13:14:30.244Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
