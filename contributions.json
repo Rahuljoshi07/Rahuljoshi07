@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774241743451,
+      "repository": "opthub-org/pytorch-bsf",
+      "issueTitle": "macでインストールできない",
+      "url": "https://github.com/opthub-org/pytorch-bsf/issues/223",
+      "createdAt": "2026-03-23T04:55:43.451Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
