@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774265662053,
+      "repository": "NVIDIA-NeMo/Megatron-Bridge",
+      "issueTitle": "Training job fails to terminate cleanly after completion (Qwen3 30B) for B200 and H100",
+      "url": "https://github.com/NVIDIA-NeMo/Megatron-Bridge/issues/1656",
+      "createdAt": "2026-03-23T11:34:22.053Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
