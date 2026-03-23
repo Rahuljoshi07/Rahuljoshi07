@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774244053652,
+      "repository": "langgenius/dify-official-plugins",
+      "issueTitle": "Automatic Summary does not work with OCI Generative AI \"error_type\":\"InvokeError\",\"message\":\"[models] Error: can only concatenate str (not \\\"dict\\\") to str\"",
+      "url": "https://github.com/langgenius/dify-official-plugins/issues/2664",
+      "createdAt": "2026-03-23T05:34:13.652Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
