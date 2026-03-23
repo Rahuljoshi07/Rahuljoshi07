@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774273391880,
+      "repository": "Spr-Aachen/Twilight",
+      "issueTitle": "[Bug]: 首屏加载时间过长",
+      "url": "https://github.com/Spr-Aachen/Twilight/issues/90",
+      "createdAt": "2026-03-23T13:43:11.880Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
