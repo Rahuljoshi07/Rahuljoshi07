@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774296866621,
+      "repository": "gbroeckling/padspanHA",
+      "issueTitle": "Unable to calibrate with iPhones/Apple Watches",
+      "url": "https://github.com/gbroeckling/padspanHA/issues/6",
+      "createdAt": "2026-03-23T20:14:26.621Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
