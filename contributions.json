@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774235049866,
+      "repository": "barebaric/rayforge",
+      "issueTitle": "Title: GRBL (Network) with FluidNC (MKS DLC32 V2.1) connects over WebSocket but homing and jobs do not run",
+      "url": "https://github.com/barebaric/rayforge/issues/165",
+      "createdAt": "2026-03-23T03:04:09.866Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
