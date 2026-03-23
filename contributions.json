@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774276647469,
+      "repository": "plone/diazo",
+      "issueTitle": "diazorun: \"TypeError: a bytes-like object is required, not 'str'\"",
+      "url": "https://github.com/plone/diazo/issues/79",
+      "createdAt": "2026-03-23T14:37:27.469Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
