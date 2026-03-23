@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774259396323,
+      "repository": "microsoft/AzureTRE",
+      "issueTitle": "Azure Machine Learning deployment fails with error <ValidationError: \"{} is not of type 'string'\">",
+      "url": "https://github.com/microsoft/AzureTRE/issues/4873",
+      "createdAt": "2026-03-23T09:49:56.323Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
