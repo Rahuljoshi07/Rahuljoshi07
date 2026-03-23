@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774276924202,
+      "repository": "gvwilson/sdxjs",
+      "issueTitle": "Section 6.4, asBinary",
+      "url": "https://github.com/gvwilson/sdxjs/issues/55",
+      "createdAt": "2026-03-23T14:42:04.202Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
