@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774268476478,
+      "repository": "core-stack-org/core-stack-backend",
+      "issueTitle": "Temperature and Humidity (Coarse Field Level @5km)",
+      "url": "https://github.com/core-stack-org/core-stack-backend/issues/230",
+      "createdAt": "2026-03-23T12:21:16.478Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
