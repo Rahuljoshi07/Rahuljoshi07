@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774287111214,
+      "repository": "voxel51/fiftyone-plugins",
+      "issueTitle": "Dashboard Plugin: Update on view change causes filters to reset immediately",
+      "url": "https://github.com/voxel51/fiftyone-plugins/issues/300",
+      "createdAt": "2026-03-23T17:31:51.214Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
