@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774270421264,
+      "repository": "LerianStudio/ring",
+      "issueTitle": "fix: JSON field naming using snake_case instead of camelCase in 3 files",
+      "url": "https://github.com/LerianStudio/ring/issues/278",
+      "createdAt": "2026-03-23T12:53:41.264Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
