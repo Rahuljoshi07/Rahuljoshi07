@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774266940149,
+      "repository": "ImpedanCEI/Wakis",
+      "issueTitle": "[Question] Slow CPU computations (even with MKL)",
+      "url": "https://github.com/ImpedanCEI/Wakis/issues/66",
+      "createdAt": "2026-03-23T11:55:40.149Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
