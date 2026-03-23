@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774228407945,
+      "repository": "derhuerst/db-rest",
+      "issueTitle": "Timezone issue for journey advices in UK",
+      "url": "https://github.com/derhuerst/db-rest/issues/54",
+      "createdAt": "2026-03-23T01:13:27.945Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
