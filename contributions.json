@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774255252454,
+      "repository": "mweibel/connect-session-sequelize",
+      "issueTitle": "Server-side req.session.cookie expiration data not updating?",
+      "url": "https://github.com/mweibel/connect-session-sequelize/issues/170",
+      "createdAt": "2026-03-23T08:40:52.454Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
