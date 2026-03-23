@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774287821899,
+      "repository": "mateonunez/fastify-orama",
+      "issueTitle": "Plugins are not restored from the persisted database",
+      "url": "https://github.com/mateonunez/fastify-orama/issues/201",
+      "createdAt": "2026-03-23T17:43:41.899Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
