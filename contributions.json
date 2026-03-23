@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774287571676,
+      "repository": "aws-deadline/deadline-cloud-for-after-effects",
+      "issueTitle": "Video render fails with \"Could not read from source\" error",
+      "url": "https://github.com/aws-deadline/deadline-cloud-for-after-effects/issues/286",
+      "createdAt": "2026-03-23T17:39:31.676Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
