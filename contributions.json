@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774236860407,
+      "repository": "ROCm/iris",
+      "issueTitle": "Port cache modifiers, other, and volatile to DeviceContext and Gluon APIs",
+      "url": "https://github.com/ROCm/iris/issues/470",
+      "createdAt": "2026-03-23T03:34:20.407Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
