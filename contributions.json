@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774241340313,
+      "repository": "TranHuuDat2004/anime.tv",
+      "issueTitle": "[Bug] Cannot embed Google Drive video in iframe when src is dynamically set via JavaScript (404 or CSP error)",
+      "url": "https://github.com/TranHuuDat2004/anime.tv/issues/1",
+      "createdAt": "2026-03-23T04:49:00.314Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
