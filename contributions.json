@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774305315167,
+      "repository": "adobe/da-live",
+      "issueTitle": "da-assets cleanup: split the monolith function and fix some bugs",
+      "url": "https://github.com/adobe/da-live/issues/842",
+      "createdAt": "2026-03-23T22:35:15.167Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
