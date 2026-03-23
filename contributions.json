@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774266329470,
+      "repository": "cables-gl/cables",
+      "issueTitle": "create op with space in beginning no error, but also no button",
+      "url": "https://github.com/cables-gl/cables/issues/8141",
+      "createdAt": "2026-03-23T11:45:29.470Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
