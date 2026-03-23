@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774252025759,
+      "repository": "edictum-ai/edictum-console",
+      "issueTitle": "Security Sweep 2026-03-21: 8 new findings (1 medium, 3 medium/low, confirmed 9 baseline items fixed)",
+      "url": "https://github.com/edictum-ai/edictum-console/issues/73",
+      "createdAt": "2026-03-23T07:47:05.759Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
