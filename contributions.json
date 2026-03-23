@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774248628163,
+      "repository": "wokaikaixinxin/ai4rs",
+      "issueTitle": "ImportError: libQt5Core-195a14c9.so.5.15.18: cannot open shared object file: No such file or directory",
+      "url": "https://github.com/wokaikaixinxin/ai4rs/issues/7",
+      "createdAt": "2026-03-23T06:50:28.163Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
