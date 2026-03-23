@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774282227312,
+      "repository": "axonops/axonops-workbench",
+      "issueTitle": "[feat]: RightClick - Use a Progress Bar and better info on error for CQL statments being executed",
+      "url": "https://github.com/axonops/axonops-workbench/issues/827",
+      "createdAt": "2026-03-23T16:10:27.312Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
