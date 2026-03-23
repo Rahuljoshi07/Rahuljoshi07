@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774239659039,
+      "repository": "GenAI-Security-Project/finbot-ctf",
+      "issueTitle": "Bug_104_MUST_FIX: Test Case PAY-PROC-009: process_payment silently accepts payment_reference=None and writes literal \"None\" into invoice notes",
+      "url": "https://github.com/GenAI-Security-Project/finbot-ctf/issues/287",
+      "createdAt": "2026-03-23T04:20:59.039Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
