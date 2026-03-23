@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774265302173,
+      "repository": "axisrow/tg_content_factory",
+      "issueTitle": "bug: кнопка \"Обновить фильтры\" работает очень долго, отсутствует debug-логирование",
+      "url": "https://github.com/axisrow/tg_content_factory/issues/197",
+      "createdAt": "2026-03-23T11:28:22.173Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
