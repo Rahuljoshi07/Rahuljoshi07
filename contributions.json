@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774307582422,
+      "repository": "ProjectSidewalk/SidewalkWebpage",
+      "issueTitle": "Fix raw labels not being included in Shapefile/GeoPackage output for /v3/api/labelClusters",
+      "url": "https://github.com/ProjectSidewalk/SidewalkWebpage/issues/4157",
+      "createdAt": "2026-03-23T23:13:02.422Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
