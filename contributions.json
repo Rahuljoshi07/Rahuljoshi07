@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774258098662,
+      "repository": "Trusera/ai-bom",
+      "issueTitle": "Add Python Type Hints to the `sbom_generator` module",
+      "url": "https://github.com/Trusera/ai-bom/issues/61",
+      "createdAt": "2026-03-23T09:28:18.663Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
