@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774251936246,
+      "repository": "helmholtz-analytics/heat",
+      "issueTitle": "matmul: modify split 10 case to avoid possible memory issues",
+      "url": "https://github.com/helmholtz-analytics/heat/issues/360",
+      "createdAt": "2026-03-23T07:45:36.246Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
