@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774247230803,
+      "repository": "dovecot/documentation",
+      "issueTitle": "Error in docs for Dovecot Dict Protocol",
+      "url": "https://github.com/dovecot/documentation/issues/1464",
+      "createdAt": "2026-03-23T06:27:10.803Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
