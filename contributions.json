@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774296955523,
+      "repository": "nodejs/remark-preset-lint-node",
+      "issueTitle": "[Discussion] About special rules for nodejs.org's md files check",
+      "url": "https://github.com/nodejs/remark-preset-lint-node/issues/195",
+      "createdAt": "2026-03-23T20:15:55.523Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
