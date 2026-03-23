@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774307126986,
+      "repository": "openfoodfacts/open-prices",
+      "issueTitle": "Locations: manage OSM changes (e.g. a shop changes brand)",
+      "url": "https://github.com/openfoodfacts/open-prices/issues/1018",
+      "createdAt": "2026-03-23T23:05:26.986Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
