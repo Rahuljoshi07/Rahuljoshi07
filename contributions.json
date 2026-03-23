@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774230934730,
+      "repository": "snootched/cb-lcars",
+      "issueTitle": "The Sliders are mapped incorrectly if min value is other than 0 on multimeter card",
+      "url": "https://github.com/snootched/cb-lcars/issues/55",
+      "createdAt": "2026-03-23T01:55:34.730Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
