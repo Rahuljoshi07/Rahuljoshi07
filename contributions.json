@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774291551608,
+      "repository": "circuitpython/web-editor",
+      "issueTitle": "Cannot Save code.py Edits on Adafruit Qualia ESP32-S3 for TTL RGB-666 Displays",
+      "url": "https://github.com/circuitpython/web-editor/issues/460",
+      "createdAt": "2026-03-23T18:45:51.608Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
