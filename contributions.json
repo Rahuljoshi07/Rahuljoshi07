@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774334371386,
+      "repository": "rishikeshsreehari/npsnav",
+      "issueTitle": "[Bug] View All button on home shows even if there are no extra itemd",
+      "url": "https://github.com/rishikeshsreehari/npsnav/issues/49",
+      "createdAt": "2026-03-24T06:39:31.386Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
