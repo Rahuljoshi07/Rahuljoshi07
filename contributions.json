@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774350656761,
+      "repository": "Terralego/django-geostore",
+      "issueTitle": "Define Layer min and max zoom in columns, not in JSON settings",
+      "url": "https://github.com/Terralego/django-geostore/issues/122",
+      "createdAt": "2026-03-24T11:10:56.761Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
