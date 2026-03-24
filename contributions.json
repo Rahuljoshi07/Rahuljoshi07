@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1774344965736,
-      "repository": "codingjoe/joeflow",
-      "issueTitle": "Usage in App is not working because of namespace issues",
-      "url": "https://github.com/codingjoe/joeflow/issues/89",
-      "createdAt": "2026-03-24T09:36:05.736Z",
+      "id": 1774345001258,
+      "repository": "ClusterLabs/hawk",
+      "issueTitle": "500 Internal Server Error:cib/live/agents/ocf%253Aheartbeat%253Aapache",
+      "url": "https://github.com/ClusterLabs/hawk/issues/247",
+      "createdAt": "2026-03-24T09:36:41.258Z",
       "type": "comment",
-      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
