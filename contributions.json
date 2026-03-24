@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774326363435,
+      "repository": "goastian/midori-desktop",
+      "issueTitle": "[Bug]:  NOT OPEN",
+      "url": "https://github.com/goastian/midori-desktop/issues/148",
+      "createdAt": "2026-03-24T04:26:03.435Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
