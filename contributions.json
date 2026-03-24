@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774367663637,
+      "repository": "vanillaes/csv",
+      "issueTitle": "Bug with single column csv text not ending a trailing line break",
+      "url": "https://github.com/vanillaes/csv/issues/24",
+      "createdAt": "2026-03-24T15:54:23.637Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
