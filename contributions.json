@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774314033105,
+      "repository": "ansible-collections/community.openwrt",
+      "issueTitle": "\"Wait for connection\" does not succeed",
+      "url": "https://github.com/ansible-collections/community.openwrt/issues/196",
+      "createdAt": "2026-03-24T01:00:33.105Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
