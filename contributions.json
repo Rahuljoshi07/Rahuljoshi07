@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774339022192,
+      "repository": "rquiroga7/Como_voto",
+      "issueTitle": "[Bug] No se cuentan las abstenciones",
+      "url": "https://github.com/rquiroga7/Como_voto/issues/14",
+      "createdAt": "2026-03-24T07:57:02.192Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
