@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774367189185,
+      "repository": "cap-js/attachments",
+      "issueTitle": "[Version: 3.8.0] DELETE request on Attachments causes persistent-queue to exhaust S3 connection pool, breaking subsequent requests",
+      "url": "https://github.com/cap-js/attachments/issues/407",
+      "createdAt": "2026-03-24T15:46:29.185Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
