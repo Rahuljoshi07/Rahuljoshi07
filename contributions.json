@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774379615647,
+      "repository": "1j01/tracky-mouse",
+      "issueTitle": "Falsely detecting eyes as closed when looking downward",
+      "url": "https://github.com/1j01/tracky-mouse/issues/123",
+      "createdAt": "2026-03-24T19:13:35.647Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
