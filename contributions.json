@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774374504303,
+      "repository": "InfotelGLPI/mydashboard",
+      "issueTitle": "`db:update` causes MySQL error: Duplicate entry '0' in table `glpi_plugin_mydashboard_preferences`",
+      "url": "https://github.com/InfotelGLPI/mydashboard/issues/160",
+      "createdAt": "2026-03-24T17:48:24.303Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
