@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774344965736,
+      "repository": "codingjoe/joeflow",
+      "issueTitle": "Usage in App is not working because of namespace issues",
+      "url": "https://github.com/codingjoe/joeflow/issues/89",
+      "createdAt": "2026-03-24T09:36:05.736Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
