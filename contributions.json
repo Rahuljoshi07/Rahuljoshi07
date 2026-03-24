@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1774349312145,
-      "repository": "auth0/auth0-deploy-cli",
-      "issueTitle": "[Bug]: clientGrants import is order-sensitive and only succeeds when YAML matches GET /api/v2/client-grants order",
-      "url": "https://github.com/auth0/auth0-deploy-cli/issues/1329",
-      "createdAt": "2026-03-24T10:48:32.145Z",
+      "id": 1774349356247,
+      "repository": "AdaCore/e3-core",
+      "issueTitle": "anod source packaging should discard all svn/git local modifications",
+      "url": "https://github.com/AdaCore/e3-core/issues/10",
+      "createdAt": "2026-03-24T10:49:16.247Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
