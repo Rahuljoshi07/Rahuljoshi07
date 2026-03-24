@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774346477324,
+      "repository": "gergelyszabo94/csgo-trader-extension",
+      "issueTitle": "adjusted/normalized float in inventory",
+      "url": "https://github.com/gergelyszabo94/csgo-trader-extension/issues/584",
+      "createdAt": "2026-03-24T10:01:17.324Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
