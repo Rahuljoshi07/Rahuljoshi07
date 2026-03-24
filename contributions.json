@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774369689792,
+      "repository": "meerk40t/meerk40t",
+      "issueTitle": "[Bug]: Serial Port Select broken",
+      "url": "https://github.com/meerk40t/meerk40t/issues/3211",
+      "createdAt": "2026-03-24T16:28:09.792Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
