@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774382754333,
+      "repository": "Bobsilvio/ha-claude",
+      "issueTitle": "[Bug]: Supervisor Errors",
+      "url": "https://github.com/Bobsilvio/ha-claude/issues/33",
+      "createdAt": "2026-03-24T20:05:54.333Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
