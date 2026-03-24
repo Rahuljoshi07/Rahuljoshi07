@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774340789263,
+      "repository": "tenstorrent/tt-xla",
+      "issueTitle": "pcc drop in centernet/pytorch-Dla1x_Coco model",
+      "url": "https://github.com/tenstorrent/tt-xla/issues/3886",
+      "createdAt": "2026-03-24T08:26:29.263Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
