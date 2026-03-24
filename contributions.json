@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774382198450,
+      "repository": "glomatico/votify",
+      "issueTitle": "ValueError: Unable to find ogg header",
+      "url": "https://github.com/glomatico/votify/issues/40",
+      "createdAt": "2026-03-24T19:56:38.450Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
