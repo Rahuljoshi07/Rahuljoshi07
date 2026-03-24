@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774334190342,
+      "repository": "Azure/azure-cli-extensions",
+      "issueTitle": "CI: Linter/style checks pick up unrelated files due to missing git fetch and no merge-base",
+      "url": "https://github.com/Azure/azure-cli-extensions/issues/9714",
+      "createdAt": "2026-03-24T06:36:30.342Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
