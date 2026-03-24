@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774357911255,
+      "repository": "kurrent-io/KurrentDB-Client-NodeJS",
+      "issueTitle": "`type` attribute on command errors is \"Object\"",
+      "url": "https://github.com/kurrent-io/KurrentDB-Client-NodeJS/issues/462",
+      "createdAt": "2026-03-24T13:11:51.255Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
