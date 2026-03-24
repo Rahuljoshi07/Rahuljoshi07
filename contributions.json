@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774329177470,
+      "repository": "JavaScriptSolidServer/JavaScriptSolidServer",
+      "issueTitle": "bug: remove preferences/typeIndex from pod creation — CSS does not create these",
+      "url": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/215",
+      "createdAt": "2026-03-24T05:12:57.470Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
