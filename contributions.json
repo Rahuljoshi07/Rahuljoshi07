@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774344805542,
+      "repository": "ex-em/EVUI",
+      "issueTitle": "[fix] [3.4] Axis > maxWidth 를 부여 안할 경우, label 끼리 겹치는 현상 발생",
+      "url": "https://github.com/ex-em/EVUI/issues/2177",
+      "createdAt": "2026-03-24T09:33:25.542Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
