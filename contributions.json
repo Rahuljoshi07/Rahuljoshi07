@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1774375658835,
-      "repository": "strands-agents/samples",
-      "issueTitle": "Invalid JSON in custom-tools-with-strands-agents.ipynb",
-      "url": "https://github.com/strands-agents/samples/issues/235",
-      "createdAt": "2026-03-24T18:07:38.835Z",
+      "id": 1774375698474,
+      "repository": "NVIDIA-NeMo/Megatron-Bridge",
+      "issueTitle": "[bug] TP>1 + CUDA graph  leaves training hanging after evaluation",
+      "url": "https://github.com/NVIDIA-NeMo/Megatron-Bridge/issues/2955",
+      "createdAt": "2026-03-24T18:08:18.475Z",
       "type": "comment",
-      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
