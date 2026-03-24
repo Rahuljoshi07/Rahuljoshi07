@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774315587423,
+      "repository": "freaktechnik/advanced-github-notifier",
+      "issueTitle": "Better the main icon",
+      "url": "https://github.com/freaktechnik/advanced-github-notifier/issues/366",
+      "createdAt": "2026-03-24T01:26:27.423Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
