@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774384684524,
+      "repository": "tenstorrent/tt-lang",
+      "issueTitle": "[ttl] Matmul K-accumulation via DST for improved performance",
+      "url": "https://github.com/tenstorrent/tt-lang/issues/421",
+      "createdAt": "2026-03-24T20:38:04.524Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
