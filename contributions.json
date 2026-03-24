@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774378088325,
+      "repository": "EmilHvitfeldt/quarto-revealjs-editable",
+      "issueTitle": "Add defensive null checks for global variables",
+      "url": "https://github.com/EmilHvitfeldt/quarto-revealjs-editable/issues/83",
+      "createdAt": "2026-03-24T18:48:08.325Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
