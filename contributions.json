@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774384912173,
+      "repository": "AllTheMods/ATM-10",
+      "issueTitle": "[Modpack Bug]: Automatic reforging of witch hats when they are generated can rapidly overwhelm storage systems",
+      "url": "https://github.com/AllTheMods/ATM-10/issues/3986",
+      "createdAt": "2026-03-24T20:41:52.173Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
