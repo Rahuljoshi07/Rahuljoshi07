@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774382666801,
+      "repository": "AdguardTeam/FiltersCompiler",
+      "issueTitle": "Implement protection against user error during filter generation",
+      "url": "https://github.com/AdguardTeam/FiltersCompiler/issues/177",
+      "createdAt": "2026-03-24T20:04:26.801Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
