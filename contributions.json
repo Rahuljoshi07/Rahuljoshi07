@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774314468813,
+      "repository": "drisspg/transformer_nuggets",
+      "issueTitle": "HeadDim slice bug: https://github.com/pytorch/pytorch/issues/163314",
+      "url": "https://github.com/drisspg/transformer_nuggets/issues/62",
+      "createdAt": "2026-03-24T01:07:48.813Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
