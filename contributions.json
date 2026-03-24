@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774338302366,
+      "repository": "gastown-publish/gasclaw",
+      "issueTitle": "fix: bootstrap should write workspace AGENTS.md with team roster",
+      "url": "https://github.com/gastown-publish/gasclaw/issues/340",
+      "createdAt": "2026-03-24T07:45:02.366Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
