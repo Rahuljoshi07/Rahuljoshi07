@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1774365496257,
+      "id": 1774365539781,
       "repository": "GenomiqueENS/toulligQC",
       "issueTitle": "Issue with fastq extractor when basecalled with Dorado: ValueError: dictionary update sequence element #0 has length 1; 2 is required",
       "url": "https://github.com/GenomiqueENS/toulligQC/issues/34",
-      "createdAt": "2026-03-24T15:18:16.258Z",
+      "createdAt": "2026-03-24T15:18:59.781Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
