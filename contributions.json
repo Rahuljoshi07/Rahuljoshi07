@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774354088248,
+      "repository": "NodeSecure/cli",
+      "issueTitle": "[Server workspace] /report UT fail only IN CI",
+      "url": "https://github.com/NodeSecure/cli/issues/608",
+      "createdAt": "2026-03-24T12:08:08.248Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
