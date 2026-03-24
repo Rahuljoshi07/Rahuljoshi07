@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774316416015,
+      "repository": "transistorsoft/capacitor-background-geolocation",
+      "issueTitle": "[Bug]: Android use proguard-android-optimize.txt? (Capacitor 8 + Android 16)",
+      "url": "https://github.com/transistorsoft/capacitor-background-geolocation/issues/385",
+      "createdAt": "2026-03-24T01:40:16.015Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
