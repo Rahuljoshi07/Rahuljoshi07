@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774326063968,
+      "repository": "mbillow/ha-chargepoint",
+      "issueTitle": "type error bug",
+      "url": "https://github.com/mbillow/ha-chargepoint/issues/72",
+      "createdAt": "2026-03-24T04:21:03.968Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
