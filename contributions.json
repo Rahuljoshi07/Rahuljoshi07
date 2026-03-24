@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774385276433,
+      "repository": "algopian/chromeclaw",
+      "issueTitle": "Error: 403 status code when using Ollama with qwen model",
+      "url": "https://github.com/algopian/chromeclaw/issues/1",
+      "createdAt": "2026-03-24T20:47:56.434Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
