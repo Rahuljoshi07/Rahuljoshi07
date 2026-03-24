@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774374665406,
+      "repository": "IMNMV/ClaudeR",
+      "issueTitle": "Trouble connecting Claude Desktop to remote RStudio server",
+      "url": "https://github.com/IMNMV/ClaudeR/issues/9",
+      "createdAt": "2026-03-24T17:51:05.406Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
