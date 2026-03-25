@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774432363118,
+      "repository": "eclipse-theia/vscode-builtin-extensions",
+      "issueTitle": "Built-in's in solid version are being unintentionally published as preview",
+      "url": "https://github.com/eclipse-theia/vscode-builtin-extensions/issues/105",
+      "createdAt": "2026-03-25T09:52:43.118Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
