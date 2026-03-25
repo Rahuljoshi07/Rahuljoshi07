@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774423838948,
+      "repository": "lelit/pglast",
+      "issueTitle": "Incorrect query is parsed without any errors",
+      "url": "https://github.com/lelit/pglast/issues/157",
+      "createdAt": "2026-03-25T07:30:38.948Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
