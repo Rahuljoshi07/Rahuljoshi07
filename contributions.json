@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774408040518,
+      "repository": "damacus/robovac",
+      "issueTitle": "Start and Pause commands on 15C (T2110) and 15C Max (T2128) not working correctly",
+      "url": "https://github.com/damacus/robovac/issues/303",
+      "createdAt": "2026-03-25T03:07:20.518Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
