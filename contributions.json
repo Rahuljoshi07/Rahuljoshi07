@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774447769306,
+      "repository": "NarkAgni/rudra",
+      "issueTitle": "Bug com a search do GNOME",
+      "url": "https://github.com/NarkAgni/rudra/issues/11",
+      "createdAt": "2026-03-25T14:09:29.306Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
