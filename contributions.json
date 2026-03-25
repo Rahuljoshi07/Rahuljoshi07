@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774445726221,
+      "repository": "CarnetApp/CarnetNextcloud",
+      "issueTitle": "bug! /appinfo/app.php is not supported anymore, use \\OCP\\AppFramework\\Bootstrap\\IBootstrap on the application class instead. Nextcloud 32.0.3",
+      "url": "https://github.com/CarnetApp/CarnetNextcloud/issues/234",
+      "createdAt": "2026-03-25T13:35:26.221Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
