@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774421387649,
+      "repository": "django-cms/djangocms-picture",
+      "issueTitle": "Update french translations from transifex",
+      "url": "https://github.com/django-cms/djangocms-picture/issues/119",
+      "createdAt": "2026-03-25T06:49:47.649Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
