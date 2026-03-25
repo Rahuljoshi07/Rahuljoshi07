@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774454510796,
+      "repository": "datacite/bracco",
+      "issueTitle": "The numbers shown on graphs in the info tab in Fabrica are incorrect",
+      "url": "https://github.com/datacite/bracco/issues/936",
+      "createdAt": "2026-03-25T16:01:50.796Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
