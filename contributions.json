@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774405879445,
+      "repository": "opendatacube/datacube-ows",
+      "issueTitle": "RuntimeWarning: invalid value encountered in multiply",
+      "url": "https://github.com/opendatacube/datacube-ows/issues/1376",
+      "createdAt": "2026-03-25T02:31:19.445Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
