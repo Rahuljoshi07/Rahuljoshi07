@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774430173389,
+      "repository": "OpenAEC-Foundation/open-pdf-studio",
+      "issueTitle": "Bug: Neither the AppImage nor the Snap work on Fedora 43 KDE",
+      "url": "https://github.com/OpenAEC-Foundation/open-pdf-studio/issues/183",
+      "createdAt": "2026-03-25T09:16:13.389Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
