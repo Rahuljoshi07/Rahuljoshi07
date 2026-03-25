@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774410234158,
+      "repository": "duriantaco/skylos",
+      "issueTitle": "Skylos command logs a silenced(?) error, but continues the work",
+      "url": "https://github.com/duriantaco/skylos/issues/120",
+      "createdAt": "2026-03-25T03:43:54.158Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
