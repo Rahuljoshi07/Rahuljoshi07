@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774445999916,
+      "repository": "brianpetro/smart-context-obsidian",
+      "issueTitle": "Smart Context 2.0.4 startup issues: compressed Excalidraw warning, bge-micro-v2 fp16 404, and intermittent embedding_models crash",
+      "url": "https://github.com/brianpetro/smart-context-obsidian/issues/9",
+      "createdAt": "2026-03-25T13:39:59.916Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
