@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1774473989614,
-      "repository": "Ryan-Millard/Img2Num",
-      "issueTitle": "Bug Fix: memory leak and silent failure in loadImageToUint8Array",
-      "url": "https://github.com/Ryan-Millard/Img2Num/issues/96",
-      "createdAt": "2026-03-25T21:26:29.614Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
