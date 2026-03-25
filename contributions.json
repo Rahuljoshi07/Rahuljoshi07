@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774410566787,
+      "repository": "frappe/lending",
+      "issueTitle": "Loan Repayment Schedule payment_date field shows same date for all monthly cycles",
+      "url": "https://github.com/frappe/lending/issues/1055",
+      "createdAt": "2026-03-25T03:49:26.787Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
