@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774453830542,
+      "repository": "neuro-galaxy/temporaldata",
+      "issueTitle": "Incorrect \"auto\" domain in `RegularTimeSeries`",
+      "url": "https://github.com/neuro-galaxy/temporaldata/issues/98",
+      "createdAt": "2026-03-25T15:50:30.542Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
