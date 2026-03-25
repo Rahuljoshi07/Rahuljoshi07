@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774454364161,
+      "repository": "physicshub/physicshub.github.io",
+      "issueTitle": "[Bug]: language select doesn't have a state and it default to English on reload",
+      "url": "https://github.com/physicshub/physicshub.github.io/issues/240",
+      "createdAt": "2026-03-25T15:59:24.161Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
