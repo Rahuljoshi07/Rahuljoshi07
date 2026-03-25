@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774464220715,
+      "repository": "JdeRobot/PerceptionMetrics",
+      "issueTitle": "[Bug] The max_detections_per_image field in mannual model config is being ignored.",
+      "url": "https://github.com/JdeRobot/PerceptionMetrics/issues/497",
+      "createdAt": "2026-03-25T18:43:40.715Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
