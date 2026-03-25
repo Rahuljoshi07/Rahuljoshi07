@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774459079940,
+      "repository": "opensearch-project/alerting-dashboards-plugin",
+      "issueTitle": "[BUG] Acknowledge button does not work in alerts detail flyout",
+      "url": "https://github.com/opensearch-project/alerting-dashboards-plugin/issues/1391",
+      "createdAt": "2026-03-25T17:17:59.940Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
