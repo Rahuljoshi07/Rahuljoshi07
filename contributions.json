@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774450495959,
+      "repository": "gardenlinux/gardenlinux",
+      "issueTitle": "Manual clean up of S3 bucket",
+      "url": "https://github.com/gardenlinux/gardenlinux/issues/4372",
+      "createdAt": "2026-03-25T14:54:55.959Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
