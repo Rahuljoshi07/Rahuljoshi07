@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774460091888,
+      "repository": "JnyJny/busylight",
+      "issueTitle": "A \"tiny\" bug - when using rainbow",
+      "url": "https://github.com/JnyJny/busylight/issues/680",
+      "createdAt": "2026-03-25T17:34:51.888Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
