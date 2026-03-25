@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774438475774,
+      "repository": "zylos-ai/zylos-core",
+      "issueTitle": "Issue C2: Add runtime_work regression and integration tests",
+      "url": "https://github.com/zylos-ai/zylos-core/issues/398",
+      "createdAt": "2026-03-25T11:34:35.774Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
