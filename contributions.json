@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1774445547351,
-      "repository": "eclipse-thingweb/playground",
-      "issueTitle": "UI/UX improvements",
-      "url": "https://github.com/eclipse-thingweb/playground/issues/687",
-      "createdAt": "2026-03-25T13:32:27.351Z",
+      "id": 1774445605875,
+      "repository": "CarnetApp/CarnetNextcloud",
+      "issueTitle": "bug! /appinfo/app.php is not supported anymore, use \\OCP\\AppFramework\\Bootstrap\\IBootstrap on the application class instead. Nextcloud 32.0.3",
+      "url": "https://github.com/CarnetApp/CarnetNextcloud/issues/234",
+      "createdAt": "2026-03-25T13:33:25.875Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. This suggestion i..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
