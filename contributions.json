@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774461387307,
+      "repository": "uhop/stream-chain",
+      "issueTitle": "Cannot upgrade due to TS1183: An implementation cannot be declared in ambient contexts.",
+      "url": "https://github.com/uhop/stream-chain/issues/32",
+      "createdAt": "2026-03-25T17:56:27.307Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
