@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774409760093,
+      "repository": "pinpoint-apm/pinpoint-node-agent",
+      "issueTitle": "Fix github-token received is empty. Skipping writing a comment in the PR.",
+      "url": "https://github.com/pinpoint-apm/pinpoint-node-agent/issues/402",
+      "createdAt": "2026-03-25T03:36:00.093Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. (Suggested by..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
