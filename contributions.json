@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774432903827,
+      "repository": "NoDeskAI/nodeskclaw",
+      "issueTitle": "[Bug] docker-compose 部署后，无法添加docker集群",
+      "url": "https://github.com/NoDeskAI/nodeskclaw/issues/84",
+      "createdAt": "2026-03-25T10:01:43.827Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
