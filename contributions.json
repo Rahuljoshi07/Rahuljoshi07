@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774426183645,
+      "repository": "rivet-dev/secure-exec",
+      "issueTitle": "problems installing/executing unless using specific node versions.",
+      "url": "https://github.com/rivet-dev/secure-exec/issues/11",
+      "createdAt": "2026-03-25T08:09:43.645Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
