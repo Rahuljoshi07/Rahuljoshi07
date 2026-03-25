@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774402873761,
+      "repository": "claudegel/sinope-130",
+      "issueTitle": "[BUG]: Issue in setting accessory type - line 5910 of climate.py - th6250wf",
+      "url": "https://github.com/claudegel/sinope-130/issues/471",
+      "createdAt": "2026-03-25T01:41:13.761Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
