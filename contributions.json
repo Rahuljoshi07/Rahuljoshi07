@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774444682256,
+      "repository": "oweitman/ioBroker.squeezeboxrpc",
+      "issueTitle": "Please consider fixing issues detected by repository checker",
+      "url": "https://github.com/oweitman/ioBroker.squeezeboxrpc/issues/233",
+      "createdAt": "2026-03-25T13:18:02.256Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
