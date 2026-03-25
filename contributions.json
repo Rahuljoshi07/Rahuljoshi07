@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774479143523,
+      "repository": "transmute-app/transmute",
+      "issueTitle": "Missing client-side API key name length validation",
+      "url": "https://github.com/transmute-app/transmute/issues/70",
+      "createdAt": "2026-03-25T22:52:23.523Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
