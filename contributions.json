@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774464657665,
+      "repository": "terreng/simple-web-server",
+      "issueTitle": "Cert Key too small, Error: EE certificate key too weak",
+      "url": "https://github.com/terreng/simple-web-server/issues/286",
+      "createdAt": "2026-03-25T18:50:57.665Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
