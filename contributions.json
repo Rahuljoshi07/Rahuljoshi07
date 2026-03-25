@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1774407462529,
-      "repository": "grosenberger/easypqp",
-      "issueTitle": "RuntimeError from versions .37 - .42",
-      "url": "https://github.com/grosenberger/easypqp/issues/109",
-      "createdAt": "2026-03-25T02:57:42.529Z",
+      "id": 1774407519394,
+      "repository": "adobe/helix-importer",
+      "issueTitle": "Big image \"data:\" src breaks import",
+      "url": "https://github.com/adobe/helix-importer/issues/581",
+      "createdAt": "2026-03-25T02:58:39.394Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
