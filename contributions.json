@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774402006160,
+      "repository": "gpt-cmdr/ras-commander",
+      "issueTitle": "Error with method update_restart_settings inside RasUnsteady class",
+      "url": "https://github.com/gpt-cmdr/ras-commander/issues/17",
+      "createdAt": "2026-03-25T01:26:46.160Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
