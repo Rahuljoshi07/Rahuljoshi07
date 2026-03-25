@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774474960529,
+      "repository": "rohankishore/Aura-Text",
+      "issueTitle": "[BUG] Auto add created filename when saving",
+      "url": "https://github.com/rohankishore/Aura-Text/issues/152",
+      "createdAt": "2026-03-25T21:42:40.529Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
