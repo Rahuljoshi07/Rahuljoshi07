@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774468570305,
+      "repository": "aspain/git-sweaty",
+      "issueTitle": "Garmin authentication failed with a transient error",
+      "url": "https://github.com/aspain/git-sweaty/issues/31",
+      "createdAt": "2026-03-25T19:56:10.305Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
