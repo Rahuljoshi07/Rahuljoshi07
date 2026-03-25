@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774419626271,
+      "repository": "reactjs/te.react.dev",
+      "issueTitle": "[Bug]: Minor typos and formatting issues in some translated pages",
+      "url": "https://github.com/reactjs/te.react.dev/issues/164",
+      "createdAt": "2026-03-25T06:20:26.271Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
