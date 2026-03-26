@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774494882141,
+      "repository": "UKGovernmentBEIS/inspect_evals",
+      "issueTitle": "[Bug] Tests are failing due to out-of-date OpenAI Package",
+      "url": "https://github.com/UKGovernmentBEIS/inspect_evals/issues/1321",
+      "createdAt": "2026-03-26T03:14:42.141Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
