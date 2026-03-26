@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774490781776,
+      "repository": "chan-fun/freezeauto",
+      "issueTitle": "Bug: Cannot detect 2FA when Discord passkey is enabled (Timeout)",
+      "url": "https://github.com/chan-fun/freezeauto/issues/1",
+      "createdAt": "2026-03-26T02:06:21.776Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
