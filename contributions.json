@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774553192331,
+      "repository": "BCDA-APS/apstools",
+      "issueTitle": "TetrAMM triggering",
+      "url": "https://github.com/BCDA-APS/apstools/issues/1023",
+      "createdAt": "2026-03-26T19:26:32.331Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
