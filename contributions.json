@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1774498535853,
+      "id": 1774498571385,
       "repository": "ArnaudBuchholz/ui5-test-runner",
-      "issueTitle": "disable npm script when triggering installation",
-      "url": "https://github.com/ArnaudBuchholz/ui5-test-runner/issues/164",
-      "createdAt": "2026-03-26T04:15:35.853Z",
+      "issueTitle": "Cannot pass complex npm script to --start Flag",
+      "url": "https://github.com/ArnaudBuchholz/ui5-test-runner/issues/169",
+      "createdAt": "2026-03-26T04:16:11.386Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
