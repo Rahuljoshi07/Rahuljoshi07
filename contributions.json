@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774504432167,
+      "repository": "SACGF/variantgrid",
+      "issueTitle": "Can't retry failed sample page cached generated graph",
+      "url": "https://github.com/SACGF/variantgrid/issues/1491",
+      "createdAt": "2026-03-26T05:53:52.167Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
