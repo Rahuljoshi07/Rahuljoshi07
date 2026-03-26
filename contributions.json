@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774550002404,
+      "repository": "louwrentius/fio-plot",
+      "issueTitle": "ModuleNotFoundError: No module named 'pkg_resources' starting with python 3.12",
+      "url": "https://github.com/louwrentius/fio-plot/issues/162",
+      "createdAt": "2026-03-26T18:33:22.404Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
