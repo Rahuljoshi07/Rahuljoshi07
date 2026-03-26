@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774504941428,
+      "repository": "red-hat-storage/ocs-ci",
+      "issueTitle": "[Bug]:  Inconsistently  test test_cluster_before_configuration Failed with error unable to upgrade connection: container not found (\"my-container\")",
+      "url": "https://github.com/red-hat-storage/ocs-ci/issues/13691",
+      "createdAt": "2026-03-26T06:02:21.428Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
