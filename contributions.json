@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774510730566,
+      "repository": "dwyl/hapi-auth-jwt2",
+      "issueTitle": "Bug in v11.0.0",
+      "url": "https://github.com/dwyl/hapi-auth-jwt2/issues/511",
+      "createdAt": "2026-03-26T07:38:50.566Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
