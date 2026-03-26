@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774526077415,
+      "repository": "lvgl/lv_font_conv",
+      "issueTitle": "Error: designator order for field '_lv_font_t::static_bitmap'",
+      "url": "https://github.com/lvgl/lv_font_conv/issues/142",
+      "createdAt": "2026-03-26T11:54:37.416Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
