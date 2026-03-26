@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774552372233,
+      "repository": "gasparschott/obsidian-continuous-mode",
+      "issueTitle": "Bug: Incorrect Z to A sorting for files starting with an underscore (_)",
+      "url": "https://github.com/gasparschott/obsidian-continuous-mode/issues/39",
+      "createdAt": "2026-03-26T19:12:52.233Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
