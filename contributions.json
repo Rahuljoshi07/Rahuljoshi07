@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774502659291,
+      "repository": "ultroned/xray-react",
+      "issueTitle": "Add support of React 19+ (no _debugSource)",
+      "url": "https://github.com/ultroned/xray-react/issues/18",
+      "createdAt": "2026-03-26T05:24:19.291Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
