@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774499971750,
+      "repository": "MohdYahyaMahmodi/talkomatic-classic",
+      "issueTitle": "Concurrent Issues on Talkomatic Classic",
+      "url": "https://github.com/MohdYahyaMahmodi/talkomatic-classic/issues/68",
+      "createdAt": "2026-03-26T04:39:31.750Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
