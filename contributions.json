@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774503902293,
+      "repository": "Jey-Cee/ioBroker.deconz",
+      "issueTitle": "[Bug]: Web socket issue with the latest decon beta deconz-2.32.2",
+      "url": "https://github.com/Jey-Cee/ioBroker.deconz/issues/446",
+      "createdAt": "2026-03-26T05:45:02.293Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
