@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774532933592,
+      "repository": "jelmerdejong/flask-app-blueprint",
+      "issueTitle": "Security: private vulnerability reported (CVE-2025-61134 RESERVED)",
+      "url": "https://github.com/jelmerdejong/flask-app-blueprint/issues/83",
+      "createdAt": "2026-03-26T13:48:53.592Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
