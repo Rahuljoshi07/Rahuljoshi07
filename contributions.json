@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774552769812,
+      "repository": "hapijs/lab",
+      "issueTitle": "Test debugging opens a separate readonly file",
+      "url": "https://github.com/hapijs/lab/issues/1084",
+      "createdAt": "2026-03-26T19:19:29.812Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
