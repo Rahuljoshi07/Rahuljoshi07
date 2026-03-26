@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774540487430,
+      "repository": "ioBroker/ioBroker.discovery",
+      "issueTitle": "Please consider fixing issues detected by repository checker",
+      "url": "https://github.com/ioBroker/ioBroker.discovery/issues/371",
+      "createdAt": "2026-03-26T15:54:47.430Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
