@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774498176778,
+      "repository": "meltano/sdk",
+      "issueTitle": "feat: IgnorableAPIError to compliment RetriableAPIError and FatalAPIError",
+      "url": "https://github.com/meltano/sdk/issues/1689",
+      "createdAt": "2026-03-26T04:09:36.778Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
