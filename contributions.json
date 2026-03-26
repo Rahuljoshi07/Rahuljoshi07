@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1774487044550,
-      "repository": "nextcloud/contacts",
-      "issueTitle": "Export randomly escapes commas, and converts spaces into (escaped) commas.",
-      "url": "https://github.com/nextcloud/contacts/issues/3985",
-      "createdAt": "2026-03-26T01:04:04.550Z",
+      "id": 1774487112354,
+      "repository": "NatLibFi/Finto-data",
+      "issueTitle": "Terossa väärin enkoodattuja ääkkösiä",
+      "url": "https://github.com/NatLibFi/Finto-data/issues/932",
+      "createdAt": "2026-03-26T01:05:12.354Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
