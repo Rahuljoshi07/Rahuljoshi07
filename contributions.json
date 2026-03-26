@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1774566861068,
-      "repository": "TryGhost/SDK",
-      "issueTitle": "Dependency Dashboard",
-      "url": "https://github.com/TryGhost/SDK/issues/404",
-      "createdAt": "2026-03-26T23:14:21.068Z",
+      "id": 1774566905274,
+      "repository": "SignalK/signalk-node-red",
+      "issueTitle": "Bug: RED.httpNode mounted on httpAdminRoot instead of RED.httpAdmin",
+      "url": "https://github.com/SignalK/signalk-node-red/issues/64",
+      "createdAt": "2026-03-26T23:15:05.274Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
