@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774484420275,
+      "repository": "Blb3D/filaops",
+      "issueTitle": "bug: inventory adjustment GL entries 1000x too high for materials with purchase_factor",
+      "url": "https://github.com/Blb3D/filaops/issues/467",
+      "createdAt": "2026-03-26T00:20:20.276Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
