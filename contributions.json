@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774542092138,
+      "repository": "castacks/AirStack",
+      "issueTitle": "Add docs for takeoff_landing_planner specifically",
+      "url": "https://github.com/castacks/AirStack/issues/254",
+      "createdAt": "2026-03-26T16:21:32.138Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
