@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1774526606343,
-      "repository": "intrafind/ihub-apps",
-      "issueTitle": "[BUG] XSS vulnerability: dangerouslySetInnerHTML without sanitization in UnifiedPage",
-      "url": "https://github.com/intrafind/ihub-apps/issues/1172",
-      "createdAt": "2026-03-26T12:03:26.343Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
