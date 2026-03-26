@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774494390961,
+      "repository": "pinpoint-apm/pinpoint-node-agent",
+      "issueTitle": "Document pinpoint-config.json format changes in v1.4",
+      "url": "https://github.com/pinpoint-apm/pinpoint-node-agent/issues/478",
+      "createdAt": "2026-03-26T03:06:30.961Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. (Suggested by..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
