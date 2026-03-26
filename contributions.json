@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774539664359,
+      "repository": "houyanchao/AITimeline",
+      "issueTitle": "是不是出bug了？我的保存的历史提示词怎么都没了？",
+      "url": "https://github.com/houyanchao/AITimeline/issues/39",
+      "createdAt": "2026-03-26T15:41:04.359Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
