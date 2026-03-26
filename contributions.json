@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774498681808,
+      "repository": "sillsdev/ptx2pdf",
+      "issueTitle": "Changing interface language leaves an extra window open",
+      "url": "https://github.com/sillsdev/ptx2pdf/issues/1118",
+      "createdAt": "2026-03-26T04:18:01.808Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
