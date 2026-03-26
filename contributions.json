@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1774552126638,
-      "repository": "Adventech/sabbath-school-lessons",
-      "issueTitle": "Bible Preview Issue",
-      "url": "https://github.com/Adventech/sabbath-school-lessons/issues/3721",
-      "createdAt": "2026-03-26T19:08:46.638Z",
+      "id": 1774552209290,
+      "repository": "intel/torch-xpu-ops",
+      "issueTitle": "[distributed] test_c10d_spawn_nccl.py ValueError: input tensor must be the same size as output size times world size",
+      "url": "https://github.com/intel/torch-xpu-ops/issues/2738",
+      "createdAt": "2026-03-26T19:10:09.290Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
