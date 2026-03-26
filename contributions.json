@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774555636401,
+      "repository": "NotePlan/plugins",
+      "issueTitle": "Overdue Task Processing: scheduling to another day doesn't mark them as scheduled",
+      "url": "https://github.com/NotePlan/plugins/issues/741",
+      "createdAt": "2026-03-26T20:07:16.401Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
