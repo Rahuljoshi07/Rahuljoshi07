@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774559730384,
+      "repository": "fmhy/FMHY-SafeGuard",
+      "issueTitle": "[BUG] Breaks 4get.ca image viewer",
+      "url": "https://github.com/fmhy/FMHY-SafeGuard/issues/82",
+      "createdAt": "2026-03-26T21:15:30.384Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
