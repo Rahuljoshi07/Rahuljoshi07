@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774497280417,
+      "repository": "nipafx/nipafx.dev",
+      "issueTitle": "Fix caching issues of stubs and snippets",
+      "url": "https://github.com/nipafx/nipafx.dev/issues/127",
+      "createdAt": "2026-03-26T03:54:40.417Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
