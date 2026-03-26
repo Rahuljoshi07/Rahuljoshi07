@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774488489387,
+      "repository": "mraza007/echovault",
+      "issueTitle": "Unicode encoding error on Windows: 'charmap' codec can't encode non-ASCII characters",
+      "url": "https://github.com/mraza007/echovault/issues/7",
+      "createdAt": "2026-03-26T01:28:09.388Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
