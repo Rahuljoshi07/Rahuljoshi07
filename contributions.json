@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774498337301,
+      "repository": "quant-king299/EasyXT",
+      "issueTitle": "运行报错[ERROR] Failed to import: No module named 'easyxt_backtest.core.backtest_core'",
+      "url": "https://github.com/quant-king299/EasyXT/issues/16",
+      "createdAt": "2026-03-26T04:12:17.301Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
