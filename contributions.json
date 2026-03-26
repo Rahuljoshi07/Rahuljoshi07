@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1774516011151,
-      "repository": "Ascend/pytorch",
-      "issueTitle": "执行deepseekv3.2-exp模型量化报错：torch_npu.memory: [ERROR] [269128] Get a block from the existing pool failed. Try to free cached blocks and reallocate. This error log can be ignored.",
-      "url": "https://github.com/Ascend/pytorch/issues/108",
-      "createdAt": "2026-03-26T09:06:51.151Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
