@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774575456104,
+      "repository": "AI-Shell-Team/aish",
+      "issueTitle": "[Bug] Emoji显示问题",
+      "url": "https://github.com/AI-Shell-Team/aish/issues/37",
+      "createdAt": "2026-03-27T01:37:36.105Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
