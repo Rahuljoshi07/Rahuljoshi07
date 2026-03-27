@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774588189058,
+      "repository": "mbillow/ha-chargepoint",
+      "issueTitle": "Energy value briefly drops to zero while still plugged in. ",
+      "url": "https://github.com/mbillow/ha-chargepoint/issues/55",
+      "createdAt": "2026-03-27T05:09:49.058Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
