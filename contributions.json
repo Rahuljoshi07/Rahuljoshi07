@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774606646533,
+      "repository": "alexeev-prog/nadzoring",
+      "issueTitle": "I can't install the library using pip.",
+      "url": "https://github.com/alexeev-prog/nadzoring/issues/69",
+      "createdAt": "2026-03-27T10:17:26.533Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
