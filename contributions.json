@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774624524370,
+      "repository": "awslabs/seed-farmer",
+      "issueTitle": "[BUG] seed-farmer 7.0.14: --update-seedkit Triggers AccessDenied for EnableKeyRotation on AWS::KMS::Key",
+      "url": "https://github.com/awslabs/seed-farmer/issues/956",
+      "createdAt": "2026-03-27T15:15:24.370Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
