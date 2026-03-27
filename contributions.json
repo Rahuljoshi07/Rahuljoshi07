@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774643028511,
+      "repository": "adamspd/django-appointment",
+      "issueTitle": "django cms plugin",
+      "url": "https://github.com/adamspd/django-appointment/issues/213",
+      "createdAt": "2026-03-27T20:23:48.511Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
