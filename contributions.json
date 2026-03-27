@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774650328534,
+      "repository": "ClickHouse/clickhouse-connect",
+      "issueTitle": "Feature Request / Bug: Use timezone from parameter type hint (instead of server_tz) when formatting tz-aware datetimes",
+      "url": "https://github.com/ClickHouse/clickhouse-connect/issues/697",
+      "createdAt": "2026-03-27T22:25:28.534Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
