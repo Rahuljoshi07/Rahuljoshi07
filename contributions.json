@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774626382652,
+      "repository": "compas-dev/compas_xr",
+      "issueTitle": "Successfully installed the package, but the GH components report errors.",
+      "url": "https://github.com/compas-dev/compas_xr/issues/13",
+      "createdAt": "2026-03-27T15:46:22.652Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
