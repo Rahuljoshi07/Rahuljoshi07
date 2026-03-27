@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774603254830,
+      "repository": "mahmoodlab/TRIDENT",
+      "issueTitle": "[Bug] Dependency conflict when coverting .vsi to .tiff using the Converter.",
+      "url": "https://github.com/mahmoodlab/TRIDENT/issues/180",
+      "createdAt": "2026-03-27T09:20:54.830Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
