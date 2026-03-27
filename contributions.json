@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774629396033,
+      "repository": "madduccino/coding.space",
+      "issueTitle": "Bug: Projects for selected category/level do not show when navigating back from untutorials",
+      "url": "https://github.com/madduccino/coding.space/issues/206",
+      "createdAt": "2026-03-27T16:36:36.033Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
