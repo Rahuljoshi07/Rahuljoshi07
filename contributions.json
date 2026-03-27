@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774634406561,
+      "repository": "TheTom/turboquant_plus",
+      "issueTitle": "Review spiritbuun's CUDA fork for portable optimizations",
+      "url": "https://github.com/TheTom/turboquant_plus/issues/40",
+      "createdAt": "2026-03-27T18:00:06.562Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
