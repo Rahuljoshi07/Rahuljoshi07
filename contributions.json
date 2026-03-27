@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774584895588,
+      "repository": "IBMa/equal-access",
+      "issueTitle": "[BUG]: CVE-2020-11023",
+      "url": "https://github.com/IBMa/equal-access/issues/2501",
+      "createdAt": "2026-03-27T04:14:55.589Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
