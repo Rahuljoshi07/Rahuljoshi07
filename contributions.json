@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774647367121,
+      "repository": "noblox/noblox.js",
+      "issueTitle": "[BUG] Migrate off of legacy asset upload APIs",
+      "url": "https://github.com/noblox/noblox.js/issues/887",
+      "createdAt": "2026-03-27T21:36:07.121Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
