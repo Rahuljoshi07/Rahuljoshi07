@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774597657944,
+      "repository": "BodenmillerGroup/steinbock",
+      "issueTitle": "Some problem when running ilastik fix（KeyError: 'Patient1_s0_a1_ac_ilastik_x593_y590_w500_h500'）",
+      "url": "https://github.com/BodenmillerGroup/steinbock/issues/283",
+      "createdAt": "2026-03-27T07:47:37.944Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
