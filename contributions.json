@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774628126031,
+      "repository": "generative-computing/mellea",
+      "issueTitle": "fix: decompose pipeline KeyError when constraint strings don't exactly match between stages",
+      "url": "https://github.com/generative-computing/mellea/issues/755",
+      "createdAt": "2026-03-27T16:15:26.031Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
