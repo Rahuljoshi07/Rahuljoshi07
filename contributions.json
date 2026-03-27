@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774614819999,
+      "repository": "liliMozi/openhanako",
+      "issueTitle": "[Bug] unknown报错，输出停止",
+      "url": "https://github.com/liliMozi/openhanako/issues/265",
+      "createdAt": "2026-03-27T12:33:39.999Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
