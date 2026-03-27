@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774643120386,
+      "repository": "MrVauxs/pf2e-jb2a-macros",
+      "issueTitle": "[Bug] Animation macros that create an emanation or aura do not increase in size",
+      "url": "https://github.com/MrVauxs/pf2e-jb2a-macros/issues/157",
+      "createdAt": "2026-03-27T20:25:20.386Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
