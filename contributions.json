@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774629834640,
+      "repository": "aws-solutions-library-samples/guidance-for-claude-code-with-amazon-bedrock",
+      "issueTitle": "[Bugs, Solved] Can't build Windows binaries",
+      "url": "https://github.com/aws-solutions-library-samples/guidance-for-claude-code-with-amazon-bedrock/issues/168",
+      "createdAt": "2026-03-27T16:43:54.640Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
