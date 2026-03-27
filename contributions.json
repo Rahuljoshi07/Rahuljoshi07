@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1774628506593,
+      "id": 1774628574115,
       "repository": "git-kick/ioBroker.e3dc-rscp",
-      "issueTitle": "Use standard roles",
-      "url": "https://github.com/git-kick/ioBroker.e3dc-rscp/issues/59",
-      "createdAt": "2026-03-27T16:21:46.594Z",
+      "issueTitle": "RangeError (Sentry E3DC-RSCP-28)",
+      "url": "https://github.com/git-kick/ioBroker.e3dc-rscp/issues/205",
+      "createdAt": "2026-03-27T16:22:54.115Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
