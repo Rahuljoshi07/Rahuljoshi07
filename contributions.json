@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774619603165,
+      "repository": "citation-js/citation-js",
+      "issueTitle": "Typescript error from importing plugins",
+      "url": "https://github.com/citation-js/citation-js/issues/251",
+      "createdAt": "2026-03-27T13:53:23.165Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
