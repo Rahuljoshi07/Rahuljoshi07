@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1774589896745,
+      "id": 1774589938694,
       "repository": "RobotWebTools/rclnodejs",
-      "issueTitle": "Pump typescript to 6.0.2",
-      "url": "https://github.com/RobotWebTools/rclnodejs/issues/1454",
-      "createdAt": "2026-03-27T05:38:16.745Z",
+      "issueTitle": "Regression: High-frequency subscription (~10Hz) slow in rclnodejs 1.8.1 (worked in 0.21.4)",
+      "url": "https://github.com/RobotWebTools/rclnodejs/issues/1394",
+      "createdAt": "2026-03-27T05:38:58.694Z",
       "type": "comment",
-      "content": "Adding TypeScript could prevent type-related bugs and improve maintainability. This suggestion is pa..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
