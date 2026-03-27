@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774623692198,
+      "repository": "cal-itp/benefits",
+      "issueTitle": "Release fix for nonexistent `TransitProcessorConfig`",
+      "url": "https://github.com/cal-itp/benefits/issues/3594",
+      "createdAt": "2026-03-27T15:01:32.198Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
