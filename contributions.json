@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774604758036,
+      "repository": "elpheria/rpc-websockets",
+      "issueTitle": "Client constructor missing dataPack parameter despite documentation claiming support",
+      "url": "https://github.com/elpheria/rpc-websockets/issues/183",
+      "createdAt": "2026-03-27T09:45:58.036Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
