@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1774621135038,
+      "id": 1774621193612,
       "repository": "Linesmerrill/police-cad",
       "issueTitle": "deactivation error",
       "url": "https://github.com/Linesmerrill/police-cad/issues/864",
-      "createdAt": "2026-03-27T14:18:55.038Z",
+      "createdAt": "2026-03-27T14:19:53.612Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
