@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774641344333,
+      "repository": "deepgram/deepgram-python-sdk",
+      "issueTitle": "[Bug]: TTS: SpeakV1Text() type is broken in v6.1.0",
+      "url": "https://github.com/deepgram/deepgram-python-sdk/issues/679",
+      "createdAt": "2026-03-27T19:55:44.333Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
