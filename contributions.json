@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774578778809,
+      "repository": "ancsemi/Haven",
+      "issueTitle": "Can't use emojis in channel names",
+      "url": "https://github.com/ancsemi/Haven/issues/205",
+      "createdAt": "2026-03-27T02:32:58.810Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
