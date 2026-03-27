@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774630953884,
+      "repository": "duckduckgo/privacy-configuration",
+      "issueTitle": "Use FeatureState instead of StateToggle for object variant state fields across all schemas",
+      "url": "https://github.com/duckduckgo/privacy-configuration/issues/4835",
+      "createdAt": "2026-03-27T17:02:33.884Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
