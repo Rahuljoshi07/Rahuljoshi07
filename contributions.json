@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774579478803,
+      "repository": "aws/aws-cdk-rfcs",
+      "issueTitle": "Hotswap Improvements",
+      "url": "https://github.com/aws/aws-cdk-rfcs/issues/886",
+      "createdAt": "2026-03-27T02:44:38.803Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
