@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774607700495,
+      "repository": "eole-nlp/eole",
+      "issueTitle": "`id_tokenization` detection only checks the last transform, causing TypeError with `huggingface_tokenize`",
+      "url": "https://github.com/eole-nlp/eole/issues/362",
+      "createdAt": "2026-03-27T10:35:00.495Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
