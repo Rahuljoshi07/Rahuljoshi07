@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774626975377,
+      "repository": "bug400/pyilper",
+      "issueTitle": "Report on a small Bug in the Terminal App which prevents cursor positioning on column 27",
+      "url": "https://github.com/bug400/pyilper/issues/12",
+      "createdAt": "2026-03-27T15:56:15.377Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
