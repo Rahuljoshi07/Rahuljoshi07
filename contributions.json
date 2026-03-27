@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774605765729,
+      "repository": "cyberfabric/cyber-pilot",
+      "issueTitle": "fix all major / high sonar issues",
+      "url": "https://github.com/cyberfabric/cyber-pilot/issues/124",
+      "createdAt": "2026-03-27T10:02:45.729Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
