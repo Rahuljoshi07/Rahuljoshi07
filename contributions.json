@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774629262988,
+      "repository": "geosolutions-it/MapStore2",
+      "issueTitle": "Persistent login prompt in mobile mode by directly accessing a private map",
+      "url": "https://github.com/geosolutions-it/MapStore2/issues/11960",
+      "createdAt": "2026-03-27T16:34:22.988Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
