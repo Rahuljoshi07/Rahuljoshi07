@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774571438242,
+      "repository": "Spring3/twitch-auto-points",
+      "issueTitle": "[Bug (Firefox Version)] - Collected popints do not show on the icon",
+      "url": "https://github.com/Spring3/twitch-auto-points/issues/24",
+      "createdAt": "2026-03-27T00:30:38.242Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
