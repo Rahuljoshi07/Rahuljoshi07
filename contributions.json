@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774651188142,
+      "repository": "johschmitz/blender-driving-scenario-creator",
+      "issueTitle": "RuntimeError: Error: Python: TypeError: DSC_OT_road_xxxx.__init__() takes 1 positional argument but 2 were given [Solved?]",
+      "url": "https://github.com/johschmitz/blender-driving-scenario-creator/issues/55",
+      "createdAt": "2026-03-27T22:39:48.142Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
