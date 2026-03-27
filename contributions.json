@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1774609666894,
-      "repository": "pierreb-devkit/Node",
-      "issueTitle": "fix(analytics): 5 failing tests in analytics module",
-      "url": "https://github.com/pierreb-devkit/Node/issues/3340",
-      "createdAt": "2026-03-27T11:07:46.894Z",
+      "id": 1774609735833,
+      "repository": "nextcloud/assistant",
+      "issueTitle": "NC33: text2image_stablediffusion2 ExApp is enabled and polling tasks, but Assistant does not register any image generation provider",
+      "url": "https://github.com/nextcloud/assistant/issues/489",
+      "createdAt": "2026-03-27T11:08:55.833Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
