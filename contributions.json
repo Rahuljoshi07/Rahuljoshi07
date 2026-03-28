@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774660813039,
+      "repository": "nextcloud/forms",
+      "issueTitle": "User can't edit their submitted forms",
+      "url": "https://github.com/nextcloud/forms/issues/3243",
+      "createdAt": "2026-03-28T01:20:13.039Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
