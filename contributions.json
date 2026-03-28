@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774658158945,
+      "repository": "Blb3D/filaops",
+      "issueTitle": "fix: price levels admin page depends on PRO routes — needs Core-native API",
+      "url": "https://github.com/Blb3D/filaops/issues/476",
+      "createdAt": "2026-03-28T00:35:58.945Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for react ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
