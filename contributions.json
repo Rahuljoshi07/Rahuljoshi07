@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774659232568,
+      "repository": "nextcloud/collectives",
+      "issueTitle": "Optimize performance of the pages loading by stopping using filesystem always",
+      "url": "https://github.com/nextcloud/collectives/issues/2380",
+      "createdAt": "2026-03-28T00:53:52.568Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
