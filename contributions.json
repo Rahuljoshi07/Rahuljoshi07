@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774662190149,
+      "repository": "scikit-build/cmake-python-distributions",
+      "issueTitle": "[BUG] Cannot find the `cmake` module in a wheel build venv when the `cmake` executable is installed in another venv",
+      "url": "https://github.com/scikit-build/cmake-python-distributions/issues/586",
+      "createdAt": "2026-03-28T01:43:10.150Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
