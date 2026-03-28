@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774660734847,
+      "repository": "enjalot/latent-scope",
+      "issueTitle": "Issues with hugging face Emoji in embedding models name",
+      "url": "https://github.com/enjalot/latent-scope/issues/97",
+      "createdAt": "2026-03-28T01:18:54.847Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
