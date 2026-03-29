@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774777847327,
+      "repository": "phil65/agentpool",
+      "issueTitle": "CodexAgent missing PartStartEvent/PartEndEvent breaks AG-UI text streaming",
+      "url": "https://github.com/phil65/agentpool/issues/28",
+      "createdAt": "2026-03-29T09:50:47.328Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
