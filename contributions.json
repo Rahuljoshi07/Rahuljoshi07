@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774773584556,
+      "repository": "cabotage/cabotage-app",
+      "issueTitle": "Compact Mode Menu Hidden",
+      "url": "https://github.com/cabotage/cabotage-app/issues/321",
+      "createdAt": "2026-03-29T08:39:44.556Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
