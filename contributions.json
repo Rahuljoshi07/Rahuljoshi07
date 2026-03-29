@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774751628099,
+      "repository": "AllenInstitute/bmtk",
+      "issueTitle": "OverflowError when setting negative synaptic weight PointNet",
+      "url": "https://github.com/AllenInstitute/bmtk/issues/439",
+      "createdAt": "2026-03-29T02:33:48.099Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
