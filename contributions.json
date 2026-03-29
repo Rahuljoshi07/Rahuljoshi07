@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774754111882,
+      "repository": "bartei/rotary-controller-python",
+      "issueTitle": "Bug: CoordBar uses Fraction(n, d) with non-integers and later assumes a Fraction when it may be a float.",
+      "url": "https://github.com/bartei/rotary-controller-python/issues/41",
+      "createdAt": "2026-03-29T03:15:11.882Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
