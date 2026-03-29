@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774748856857,
+      "repository": "bobmatnyc/claude-mpm",
+      "issueTitle": "Monitor agent: session watchdog, auto-postmortem, context management",
+      "url": "https://github.com/bobmatnyc/claude-mpm/issues/361",
+      "createdAt": "2026-03-29T01:47:36.857Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
