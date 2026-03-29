@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774766717622,
+      "repository": "WJZ-P/gemini-skill",
+      "issueTitle": "Error calling tool: MCP error -32001: Request timed out",
+      "url": "https://github.com/WJZ-P/gemini-skill/issues/3",
+      "createdAt": "2026-03-29T06:45:17.622Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
