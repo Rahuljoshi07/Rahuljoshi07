@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774821392137,
+      "repository": "scientific-python/MeeseeksDev",
+      "issueTitle": "Usage statistics page is broken",
+      "url": "https://github.com/scientific-python/MeeseeksDev/issues/133",
+      "createdAt": "2026-03-29T21:56:32.138Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
