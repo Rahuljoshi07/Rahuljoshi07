@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774889609374,
+      "repository": "LD4P/sinopia_editor",
+      "issueTitle": "AdminMetadata, Nested Property Delete Bug",
+      "url": "https://github.com/LD4P/sinopia_editor/issues/4053",
+      "createdAt": "2026-03-30T16:53:29.375Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
