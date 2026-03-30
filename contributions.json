@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774863210042,
+      "repository": "asterics/Asterics-AAC",
+      "issueTitle": "Issue with accessing \"input settings\"",
+      "url": "https://github.com/asterics/Asterics-AAC/issues/779",
+      "createdAt": "2026-03-30T09:33:30.042Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
