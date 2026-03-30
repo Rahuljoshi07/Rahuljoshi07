@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774856002912,
+      "repository": "chernistry/bernstein",
+      "issueTitle": "[ci-fix] CI failing on main — run 23732776209",
+      "url": "https://github.com/chernistry/bernstein/issues/187",
+      "createdAt": "2026-03-30T07:33:22.912Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
