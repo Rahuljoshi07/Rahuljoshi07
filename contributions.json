@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774838614286,
+      "repository": "activescott/serverless-aws-static-file-handler",
+      "issueTitle": "Unicode support",
+      "url": "https://github.com/activescott/serverless-aws-static-file-handler/issues/206",
+      "createdAt": "2026-03-30T02:43:34.286Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
