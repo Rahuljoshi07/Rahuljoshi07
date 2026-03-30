@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774882090620,
+      "repository": "suitenumerique/drive",
+      "issueTitle": "When hard deleting item from the trashbin the interface does not refresh",
+      "url": "https://github.com/suitenumerique/drive/issues/603",
+      "createdAt": "2026-03-30T14:48:10.620Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
