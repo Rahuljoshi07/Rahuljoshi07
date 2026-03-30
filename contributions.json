@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774878778831,
+      "repository": "linkml/linkml-map",
+      "issueTitle": "`dynamic_object.py` does not handle key-based (vs identifier-based) classes",
+      "url": "https://github.com/linkml/linkml-map/issues/169",
+      "createdAt": "2026-03-30T13:52:58.831Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
