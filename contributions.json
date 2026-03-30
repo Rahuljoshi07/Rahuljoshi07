@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774875335730,
+      "repository": "ambient-innovation/django-dynamic-admin",
+      "issueTitle": "Support for ChoiceField and choices",
+      "url": "https://github.com/ambient-innovation/django-dynamic-admin/issues/6",
+      "createdAt": "2026-03-30T12:55:35.730Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
