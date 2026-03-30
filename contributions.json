@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774896712590,
+      "repository": "AresSC2/ares-sc2",
+      "issueTitle": "bug: can_place_structure does not handle creep tumors",
+      "url": "https://github.com/AresSC2/ares-sc2/issues/277",
+      "createdAt": "2026-03-30T18:51:52.590Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
