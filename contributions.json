@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774888727742,
+      "repository": "waltsims/k-wave-python",
+      "issueTitle": "[BUG] Numerical instabilities when medium.alpha_coeff is close to 1",
+      "url": "https://github.com/waltsims/k-wave-python/issues/664",
+      "createdAt": "2026-03-30T16:38:47.742Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
