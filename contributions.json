@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1774859779576,
-      "repository": "apache/cordova-js",
-      "issueTitle": "Event listener function overloads are too brittle, error if evt is undefined",
-      "url": "https://github.com/apache/cordova-js/issues/244",
-      "createdAt": "2026-03-30T08:36:19.577Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
