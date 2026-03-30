@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774843431250,
+      "repository": "pierreb-devkit/Node",
+      "issueTitle": "fix(billing): requireQuota uses dot separator which is rejected by SAFE_KEY_RE",
+      "url": "https://github.com/pierreb-devkit/Node/issues/3350",
+      "createdAt": "2026-03-30T04:03:51.250Z",
+      "type": "comment",
+      "content": "Adding TypeScript could improve code quality and maintainability. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
