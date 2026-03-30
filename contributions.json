@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774860417060,
+      "repository": "openzim/zimfarm",
+      "issueTitle": "Add details about `most_recent_task` in the `GET /tasks` endpoint",
+      "url": "https://github.com/openzim/zimfarm/issues/885",
+      "createdAt": "2026-03-30T08:46:57.060Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
