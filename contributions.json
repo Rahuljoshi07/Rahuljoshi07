@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774883084299,
+      "repository": "americanexpress/fetchye",
+      "issueTitle": "Aborted requests get console logged as errors",
+      "url": "https://github.com/americanexpress/fetchye/issues/107",
+      "createdAt": "2026-03-30T15:04:44.299Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
