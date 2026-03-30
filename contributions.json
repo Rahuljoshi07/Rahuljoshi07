@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774880819190,
+      "repository": "alexdlaird/amazon-orders",
+      "issueTitle": "product_link attribute returns null/empty for order items",
+      "url": "https://github.com/alexdlaird/amazon-orders/issues/68",
+      "createdAt": "2026-03-30T14:26:59.190Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
