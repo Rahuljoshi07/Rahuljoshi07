@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774883746358,
+      "repository": "OpenHands/software-agent-sdk",
+      "issueTitle": "Decouple eval image assembly from SDK Dockerfile internals",
+      "url": "https://github.com/OpenHands/software-agent-sdk/issues/2585",
+      "createdAt": "2026-03-30T15:15:46.358Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
