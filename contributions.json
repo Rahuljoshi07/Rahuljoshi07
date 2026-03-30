@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774895012441,
+      "repository": "MartinxMax/BloodCat",
+      "issueTitle": "The execution speed is very slow",
+      "url": "https://github.com/MartinxMax/BloodCat/issues/9",
+      "createdAt": "2026-03-30T18:23:32.441Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
