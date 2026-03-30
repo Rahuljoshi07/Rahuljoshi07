@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774860538658,
+      "repository": "uncivilised-game/uncivilised-game-base",
+      "issueTitle": "Units disappearing/vanishing without explanation",
+      "url": "https://github.com/uncivilised-game/uncivilised-game-base/issues/139",
+      "createdAt": "2026-03-30T08:48:58.658Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
