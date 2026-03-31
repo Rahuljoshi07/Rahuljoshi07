@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774926699536,
+      "repository": "TouhouGleaners/danmaku-sender",
+      "issueTitle": "[BUG] 未登录与登录时 默认的用户头像大小不一致",
+      "url": "https://github.com/TouhouGleaners/danmaku-sender/issues/222",
+      "createdAt": "2026-03-31T03:11:39.536Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
