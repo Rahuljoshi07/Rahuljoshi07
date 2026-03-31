@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774941427753,
+      "repository": "jd-opensource/JoySafeter",
+      "issueTitle": "[BUG]",
+      "url": "https://github.com/jd-opensource/JoySafeter/issues/109",
+      "createdAt": "2026-03-31T07:17:07.753Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
