@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1774963514921,
+      "id": 1774963553215,
       "repository": "kaanozhan/Frame",
       "issueTitle": "Error encountered when clicking link in terminal for `localhost` dev server preview",
       "url": "https://github.com/kaanozhan/Frame/issues/28",
-      "createdAt": "2026-03-31T13:25:14.921Z",
+      "createdAt": "2026-03-31T13:25:53.215Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. (Suggested by R..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
     }
   ],
   "stats": {
