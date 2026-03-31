@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774964316337,
+      "repository": "Tiledesk/tiledesk-server",
+      "issueTitle": "tiledesk-voice-twilio-connector Auto-subscribe failed: RELATIVE_URL is not defined",
+      "url": "https://github.com/Tiledesk/tiledesk-server/issues/114",
+      "createdAt": "2026-03-31T13:38:36.338Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
