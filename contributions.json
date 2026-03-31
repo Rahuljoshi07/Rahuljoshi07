@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774959418966,
+      "repository": "kroshu/kuka_robot_descriptions",
+      "issueTitle": "LBR iiwa dynamics missing from URDF",
+      "url": "https://github.com/kroshu/kuka_robot_descriptions/issues/99",
+      "createdAt": "2026-03-31T12:16:58.966Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
