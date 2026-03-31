@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774939132802,
+      "repository": "derisk-ai/OpenDerisk",
+      "issueTitle": "[Bug] [Module Name] Bug title NotImplementedError: pydantic 1.x is not supported, please upgrade to 2.x.",
+      "url": "https://github.com/derisk-ai/OpenDerisk/issues/38",
+      "createdAt": "2026-03-31T06:38:52.802Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
