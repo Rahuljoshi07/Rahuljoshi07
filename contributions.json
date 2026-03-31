@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774967432482,
+      "repository": "opsmill/infrahub-sdk-python",
+      "issueTitle": "bug: Object file validation requires mandatory attributes even when a profile provides them",
+      "url": "https://github.com/opsmill/infrahub-sdk-python/issues/908",
+      "createdAt": "2026-03-31T14:30:32.482Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
