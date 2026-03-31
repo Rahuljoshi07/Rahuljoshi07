@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774948296217,
+      "repository": "Arvincreator/project-golem",
+      "issueTitle": "Error under Linux container of ChromeOS",
+      "url": "https://github.com/Arvincreator/project-golem/issues/212",
+      "createdAt": "2026-03-31T09:11:36.217Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
