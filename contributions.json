@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774940040275,
+      "repository": "ecmwf/anemoi-inference",
+      "issueTitle": "`KeyError: 'local_time'` when running inference on a different system than training",
+      "url": "https://github.com/ecmwf/anemoi-inference/issues/469",
+      "createdAt": "2026-03-31T06:54:00.275Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
