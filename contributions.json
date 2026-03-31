@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774919254519,
+      "repository": "KudoAI/duckduckgpt",
+      "issueTitle": "not working",
+      "url": "https://github.com/KudoAI/duckduckgpt/issues/44",
+      "createdAt": "2026-03-31T01:07:34.520Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
