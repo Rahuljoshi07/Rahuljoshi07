@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774968631580,
+      "repository": "Freegle/iznik-nuxt3",
+      "issueTitle": "bug: Fixed footer hidden behind virtual keyboard on iPad",
+      "url": "https://github.com/Freegle/iznik-nuxt3/issues/126",
+      "createdAt": "2026-03-31T14:50:31.580Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
