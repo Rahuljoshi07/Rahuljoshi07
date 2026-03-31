@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1774920094611,
+      "id": 1774920137803,
       "repository": "adamlui/chatgpt-auto-continue",
-      "issueTitle": "Script breaks when in ChatGPT 4o with canvas ",
-      "url": "https://github.com/adamlui/chatgpt-auto-continue/issues/68",
-      "createdAt": "2026-03-31T01:21:34.611Z",
+      "issueTitle": "ChatGPT 4o更新后失效",
+      "url": "https://github.com/adamlui/chatgpt-auto-continue/issues/38",
+      "createdAt": "2026-03-31T01:22:17.804Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
