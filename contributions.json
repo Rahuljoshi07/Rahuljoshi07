@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774936330848,
+      "repository": "pytest-dev/pyfakefs",
+      "issueTitle": "Pathlib relative_to issue on python 3.13+",
+      "url": "https://github.com/pytest-dev/pyfakefs/issues/1279",
+      "createdAt": "2026-03-31T05:52:10.848Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
