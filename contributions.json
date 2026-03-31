@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774939035917,
+      "repository": "littlebearapps/untether",
+      "issueTitle": "investigation: orphaned workerd processes from Bash tool children are upstream Claude Code bug",
+      "url": "https://github.com/littlebearapps/untether/issues/257",
+      "createdAt": "2026-03-31T06:37:15.917Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
