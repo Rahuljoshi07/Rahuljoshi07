@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774962267667,
+      "repository": "demoiselle/example",
+      "issueTitle": "ToDo é mantido no backend mesmo após ação de remoção",
+      "url": "https://github.com/demoiselle/example/issues/3",
+      "createdAt": "2026-03-31T13:04:27.667Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
