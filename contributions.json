@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774927456947,
+      "repository": "garrettfoster13/sccmhunter",
+      "issueTitle": "sessionhunter has lingering debug print statement",
+      "url": "https://github.com/garrettfoster13/sccmhunter/issues/113",
+      "createdAt": "2026-03-31T03:24:16.947Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
