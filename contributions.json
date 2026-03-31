@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774957612780,
+      "repository": "FaserF/ha-db_infoscreen",
+      "issueTitle": "[Bug]: Duplicates removal does not work (with KVV at least), more generic idea for solution",
+      "url": "https://github.com/FaserF/ha-db_infoscreen/issues/116",
+      "createdAt": "2026-03-31T11:46:52.780Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
