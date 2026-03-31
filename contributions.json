@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774950379899,
+      "repository": "nextcloud/collectives",
+      "issueTitle": "Collectives data is no longer present in Files",
+      "url": "https://github.com/nextcloud/collectives/issues/2388",
+      "createdAt": "2026-03-31T09:46:19.899Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
