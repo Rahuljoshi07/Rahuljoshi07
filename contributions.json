@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1774932970813,
+      "id": 1774933012940,
       "repository": "rivet-dev/secure-exec",
-      "issueTitle": "[BUG] Bun module exports are returned as undefined",
-      "url": "https://github.com/rivet-dev/secure-exec/issues/61",
-      "createdAt": "2026-03-31T04:56:10.813Z",
+      "issueTitle": "Conformance: Error code properties (ERR_*) missing from polyfill errors",
+      "url": "https://github.com/rivet-dev/secure-exec/issues/28",
+      "createdAt": "2026-03-31T04:56:52.940Z",
       "type": "comment",
       "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
     }
