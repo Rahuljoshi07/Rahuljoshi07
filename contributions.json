@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1774930310848,
+      "repository": "rysweet/amplihack",
+      "issueTitle": "smart-orchestrator appears hung at launch-parallel-round-1 while child workstreams are active",
+      "url": "https://github.com/rysweet/amplihack/issues/3931",
+      "createdAt": "2026-03-31T04:11:50.848Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
