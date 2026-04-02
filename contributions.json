@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1775125204710,
-      "repository": "ansible-community/awx-tui",
-      "issueTitle": "[Bug]: awx-tui crashes due to `StylesheetError: unable to read CSS file '/usr/lib/python3.13/site-packages/awx_tui/app.tcss'`",
-      "url": "https://github.com/ansible-community/awx-tui/issues/22",
-      "createdAt": "2026-04-02T10:20:04.710Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
