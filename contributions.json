@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775117048404,
+      "repository": "WorldCereal/worldcereal-classification",
+      "issueTitle": "Fix the all-0 quality_score_lc for map-based datasets",
+      "url": "https://github.com/WorldCereal/worldcereal-classification/issues/604",
+      "createdAt": "2026-04-02T08:04:08.404Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
