@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775138472805,
-      "repository": "w3c/browser-specs",
-      "issueTitle": "Add new spec: TC39 legacy RegExp features",
-      "url": "https://github.com/w3c/browser-specs/issues/2358",
-      "createdAt": "2026-04-02T14:01:12.806Z",
+      "id": 1775138524340,
+      "repository": "sony/nmos-js",
+      "issueTitle": "TypeError when trying to connect transporttype rtp.mcast sender to receiver.",
+      "url": "https://github.com/sony/nmos-js/issues/124",
+      "createdAt": "2026-04-02T14:02:04.340Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
