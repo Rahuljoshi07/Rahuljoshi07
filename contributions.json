@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775127311754,
+      "repository": "asyncapi/markdown-template",
+      "issueTitle": "[BUG] <description> Not compatible with the latest Async/generator's latest version",
+      "url": "https://github.com/asyncapi/markdown-template/issues/626",
+      "createdAt": "2026-04-02T10:55:11.754Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
