@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1775129543870,
-      "repository": "WebThingsIO/virtual-things-adapter",
-      "issueTitle": "Don't call handleDeviceAdded() on startup",
-      "url": "https://github.com/WebThingsIO/virtual-things-adapter/issues/66",
-      "createdAt": "2026-04-02T11:32:23.870Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
