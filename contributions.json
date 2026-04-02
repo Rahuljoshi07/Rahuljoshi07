@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775109572427,
+      "repository": "pixaroma/ComfyUI-Pixaroma",
+      "issueTitle": "RMBG bug",
+      "url": "https://github.com/pixaroma/ComfyUI-Pixaroma/issues/1",
+      "createdAt": "2026-04-02T05:59:32.427Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
