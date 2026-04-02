@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775116003164,
+      "repository": "jens-maus/node-ical",
+      "issueTitle": "node-ical 0.25.6: Crash parsing VTIMEZONE with DTSTART year 0001 (RangeError \"Cannot parse: 1-01-15T12:00:00Z\")",
+      "url": "https://github.com/jens-maus/node-ical/issues/495",
+      "createdAt": "2026-04-02T07:46:43.164Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
