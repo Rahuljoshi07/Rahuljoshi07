@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775106771140,
+      "repository": "johnzfitch/claude-cowork-linux",
+      "issueTitle": "Lauch failure with Uncaught Exception: TypeError: xe.systemPreferences.setUserDefault is not a function",
+      "url": "https://github.com/johnzfitch/claude-cowork-linux/issues/66",
+      "createdAt": "2026-04-02T05:12:51.140Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
