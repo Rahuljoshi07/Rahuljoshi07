@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775102744488,
-      "repository": "mricon/b4",
-      "issueTitle": "b4 prep --edit-cover throws ValueError",
-      "url": "https://github.com/mricon/b4/issues/74",
-      "createdAt": "2026-04-02T04:05:44.488Z",
+      "id": 1775102803595,
+      "repository": "thedatumorg/TSB-AD",
+      "issueTitle": "Performance degradation caused by normalization",
+      "url": "https://github.com/thedatumorg/TSB-AD/issues/48",
+      "createdAt": "2026-04-02T04:06:43.595Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
