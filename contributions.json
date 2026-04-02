@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775138151418,
+      "repository": "nextcloud/talk-desktop",
+      "issueTitle": "Remove native notifications when they are not actual anymore (e.g. the message has been read)",
+      "url": "https://github.com/nextcloud/talk-desktop/issues/1140",
+      "createdAt": "2026-04-02T13:55:51.418Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
