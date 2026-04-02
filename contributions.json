@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775099301610,
+      "repository": "sonic-net/sonic-utilities",
+      "issueTitle": "Security Issues in SONiC (sonic-utilities) code",
+      "url": "https://github.com/sonic-net/sonic-utilities/issues/4352",
+      "createdAt": "2026-04-02T03:08:21.610Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
