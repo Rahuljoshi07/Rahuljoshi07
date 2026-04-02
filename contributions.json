@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775130813486,
+      "id": 1775130854025,
       "repository": "ansulagrawal/react-big-schedule",
       "issueTitle": "Cannot resize/adjust the event more than once",
       "url": "https://github.com/ansulagrawal/react-big-schedule/issues/258",
-      "createdAt": "2026-04-02T11:53:33.486Z",
+      "createdAt": "2026-04-02T11:54:14.025Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
