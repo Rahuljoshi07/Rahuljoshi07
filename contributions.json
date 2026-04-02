@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775134220359,
+      "repository": "arthurlockman/gatool-ui",
+      "issueTitle": "FTC local server unavailable/inaccessible",
+      "url": "https://github.com/arthurlockman/gatool-ui/issues/639",
+      "createdAt": "2026-04-02T12:50:20.359Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
