@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775118477432,
+      "repository": "TerryZ/v-region",
+      "issueTitle": "更改数据源后--行政区数据未更新成功",
+      "url": "https://github.com/TerryZ/v-region/issues/88",
+      "createdAt": "2026-04-02T08:27:57.432Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
