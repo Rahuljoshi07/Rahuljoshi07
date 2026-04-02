@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775124151174,
+      "repository": "asyncapi/html-template",
+      "issueTitle": "[Docs Bug 🐞 report]: README uses wrong environment variable for skipping Chromium download",
+      "url": "https://github.com/asyncapi/html-template/issues/794",
+      "createdAt": "2026-04-02T10:02:31.174Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
