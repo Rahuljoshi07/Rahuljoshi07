@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775112283840,
+      "id": 1775112349036,
       "repository": "CennoxX/spotify-ai-blocker",
       "issueTitle": "Script error while trying to add AI slop factory via Tamper Monkey script",
       "url": "https://github.com/CennoxX/spotify-ai-blocker/issues/131",
-      "createdAt": "2026-04-02T06:44:43.840Z",
+      "createdAt": "2026-04-02T06:45:49.036Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
