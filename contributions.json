@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775195250832,
+      "repository": "golles/ha-kamstrup_403",
+      "issueTitle": "Blocking operation in config_flow",
+      "url": "https://github.com/golles/ha-kamstrup_403/issues/149",
+      "createdAt": "2026-04-03T05:47:30.833Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
