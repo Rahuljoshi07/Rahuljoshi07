@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775202181371,
+      "repository": "hassio-addons/app-node-red",
+      "issueTitle": "There is a bug after update21.0.3?",
+      "url": "https://github.com/hassio-addons/app-node-red/issues/2193",
+      "createdAt": "2026-04-03T07:43:01.371Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
