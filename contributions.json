@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775229848920,
+      "repository": "bennymeg/Fabrication-Toolkit",
+      "issueTitle": "[Bug]: Wrong rotation applied to EasyEDA footprints - transformations.csv patterns match dimension-based names",
+      "url": "https://github.com/bennymeg/Fabrication-Toolkit/issues/231",
+      "createdAt": "2026-04-03T15:24:08.920Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
