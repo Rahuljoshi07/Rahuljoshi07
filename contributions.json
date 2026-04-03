@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775194659678,
+      "repository": "Kpa-clawbot/CoreScope",
+      "issueTitle": "Bug: Customizer v2 shows all packet type colors as black (#000000)",
+      "url": "https://github.com/Kpa-clawbot/CoreScope/issues/514",
+      "createdAt": "2026-04-03T05:37:39.678Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
