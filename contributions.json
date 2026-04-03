@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775235070763,
+      "repository": "octo-technology/VIO",
+      "issueTitle": "[edge_orchestrator] Take a decision on how enum should be written",
+      "url": "https://github.com/octo-technology/VIO/issues/106",
+      "createdAt": "2026-04-03T16:51:10.763Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
