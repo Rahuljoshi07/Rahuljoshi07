@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775194970621,
+      "id": 1775195004219,
       "repository": "pinpoint-apm/pinpoint-node-agent",
-      "issueTitle": "AgentStatsMonitor construction arguments",
-      "url": "https://github.com/pinpoint-apm/pinpoint-node-agent/issues/359",
-      "createdAt": "2026-04-03T05:42:50.621Z",
+      "issueTitle": "util.types.isNativeError deprecated",
+      "url": "https://github.com/pinpoint-apm/pinpoint-node-agent/issues/417",
+      "createdAt": "2026-04-03T05:43:24.219Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
