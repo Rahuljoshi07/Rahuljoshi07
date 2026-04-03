@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775194490660,
+      "repository": "zapier/zapier-platform",
+      "issueTitle": "[Bug]: Documentation uses incorrect Content-Type header for oAuth authorization flow.",
+      "url": "https://github.com/zapier/zapier-platform/issues/1269",
+      "createdAt": "2026-04-03T05:34:50.660Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
