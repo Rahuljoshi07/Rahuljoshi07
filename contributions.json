@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775233599797,
+      "repository": "python-discord/site",
+      "issueTitle": "Bugged 'More' Dropdown in Mobile View for Navbar",
+      "url": "https://github.com/python-discord/site/issues/1591",
+      "createdAt": "2026-04-03T16:26:39.797Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
