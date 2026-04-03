@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775231911978,
+      "repository": "rockcarver/frodo-cli",
+      "issueTitle": "frodo config-manager pull cps should be csp (transposed letters)",
+      "url": "https://github.com/rockcarver/frodo-cli/issues/576",
+      "createdAt": "2026-04-03T15:58:31.978Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
