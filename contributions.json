@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775213883427,
+      "repository": "iammm0/secbot",
+      "issueTitle": "为什么运行exe提示安装ImportError: 需安装 langchain-openai: pip install langchain-openai，安装成功后还是提示报错",
+      "url": "https://github.com/iammm0/secbot/issues/1",
+      "createdAt": "2026-04-03T10:58:03.427Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
