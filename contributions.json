@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775223220579,
+      "repository": "rollbar/pyrollbar",
+      "issueTitle": "Add ellipsis when shortening dicts in locals",
+      "url": "https://github.com/rollbar/pyrollbar/issues/490",
+      "createdAt": "2026-04-03T13:33:40.579Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
