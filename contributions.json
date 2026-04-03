@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775181048519,
+      "repository": "learning-unlimited/ESP-Website",
+      "issueTitle": "[Bug]: \"What other programs have the students attended?\" throws an exception",
+      "url": "https://github.com/learning-unlimited/ESP-Website/issues/5431",
+      "createdAt": "2026-04-03T01:50:48.519Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
