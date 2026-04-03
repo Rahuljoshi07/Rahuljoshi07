@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775242105877,
+      "repository": "cenodude/CrossWatch",
+      "issueTitle": "[bug] Plex watch history not updating",
+      "url": "https://github.com/cenodude/CrossWatch/issues/190",
+      "createdAt": "2026-04-03T18:48:25.877Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
