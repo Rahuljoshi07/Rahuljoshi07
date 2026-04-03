@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775229737702,
+      "repository": "yandex-cloud/yandex-ai-studio-sdk",
+      "issueTitle": "Зависание при использовании асинхронности",
+      "url": "https://github.com/yandex-cloud/yandex-ai-studio-sdk/issues/150",
+      "createdAt": "2026-04-03T15:22:17.702Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
