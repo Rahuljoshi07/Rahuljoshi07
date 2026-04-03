@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775259970905,
+      "id": 1775260026174,
       "repository": "jsturtevant/rally",
-      "issueTitle": "Support multiple teams (--team flag currently ignored)",
-      "url": "https://github.com/jsturtevant/rally/issues/415",
-      "createdAt": "2026-04-03T23:46:10.906Z",
+      "issueTitle": "Flaky Windows CI: UI component tests have intermittent timing failures",
+      "url": "https://github.com/jsturtevant/rally/issues/424",
+      "createdAt": "2026-04-03T23:47:06.174Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
