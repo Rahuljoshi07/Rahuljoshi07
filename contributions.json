@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775244391375,
+      "repository": "RaSan147/pyrobox",
+      "issueTitle": "[BUG] User Panel, kicking admin cleans all his permission",
+      "url": "https://github.com/RaSan147/pyrobox/issues/106",
+      "createdAt": "2026-04-03T19:26:31.375Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
