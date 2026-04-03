@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775195429789,
+      "repository": "wemake-services/django-modern-rest",
+      "issueTitle": "Add `exclude_semantic_responses` set to disable collection of some semantic responses",
+      "url": "https://github.com/wemake-services/django-modern-rest/issues/786",
+      "createdAt": "2026-04-03T05:50:29.790Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
