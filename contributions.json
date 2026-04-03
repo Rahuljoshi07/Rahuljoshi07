@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775196367144,
+      "repository": "epiral/bb-sites",
+      "issueTitle": "[Bug] bb-browser 无法使用已安装扩展的现有 Chrome，必须启动新 Chrome 实例",
+      "url": "https://github.com/epiral/bb-sites/issues/38",
+      "createdAt": "2026-04-03T06:06:07.144Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
