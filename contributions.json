@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775217684323,
+      "repository": "crnormand/gurps",
+      "issueTitle": "V1.0.0 GCS Actor sheet Legality Class",
+      "url": "https://github.com/crnormand/gurps/issues/2614",
+      "createdAt": "2026-04-03T12:01:24.323Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
