@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775225178749,
+      "repository": "sibson/vncdotool",
+      "issueTitle": "1.1.0 causes multiprocessing workers to hang on exit",
+      "url": "https://github.com/sibson/vncdotool/issues/255",
+      "createdAt": "2026-04-03T14:06:18.749Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
