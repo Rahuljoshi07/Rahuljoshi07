@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775216416324,
+      "repository": "Lexonight1/thermalright-trcc-linux",
+      "issueTitle": "[BUG]  When i restart app after install, resolution my Trofeo AIO is incorrect",
+      "url": "https://github.com/Lexonight1/thermalright-trcc-linux/issues/92",
+      "createdAt": "2026-04-03T11:40:16.324Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
