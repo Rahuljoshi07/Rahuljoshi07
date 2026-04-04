@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775269010976,
+      "repository": "carrotwaxr/stash-plugins",
+      "issueTitle": "bug 'str' object has no attribute 'get'",
+      "url": "https://github.com/carrotwaxr/stash-plugins/issues/117",
+      "createdAt": "2026-04-04T02:16:50.976Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
