@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775271753666,
+      "repository": "Mattwmaster58/playwright_stealth",
+      "issueTitle": "AttributeError: 'coroutine' object has no attribute 'add_init_script'",
+      "url": "https://github.com/Mattwmaster58/playwright_stealth/issues/29",
+      "createdAt": "2026-04-04T03:02:33.666Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
