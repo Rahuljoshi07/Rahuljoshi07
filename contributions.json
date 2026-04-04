@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775345820065,
+      "id": 1775345865691,
       "repository": "ansulagrawal/react-big-schedule",
-      "issueTitle": "Date-only events render incorrectly in Month view",
-      "url": "https://github.com/ansulagrawal/react-big-schedule/issues/233",
-      "createdAt": "2026-04-04T23:37:00.065Z",
+      "issueTitle": "Cannot resize/adjust the event more than once",
+      "url": "https://github.com/ansulagrawal/react-big-schedule/issues/258",
+      "createdAt": "2026-04-04T23:37:45.691Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
