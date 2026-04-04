@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775291402683,
+      "repository": "BottlecapDave/HomeAssistant-OctopusEnergy",
+      "issueTitle": "Odd calculation on KWH sensors created from WJ",
+      "url": "https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy/issues/1689",
+      "createdAt": "2026-04-04T08:30:02.684Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
