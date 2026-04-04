@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775278831137,
+      "repository": "es-ude/elastic-ai.creator",
+      "issueTitle": "Can not run integration test for simulating with cocotb on macos arm64",
+      "url": "https://github.com/es-ude/elastic-ai.creator/issues/736",
+      "createdAt": "2026-04-04T05:00:31.137Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
