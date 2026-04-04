@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775316482200,
+      "id": 1775316510148,
       "repository": "Mozzo1000/booklogr",
-      "issueTitle": "Desktop app",
-      "url": "https://github.com/Mozzo1000/booklogr/issues/82",
-      "createdAt": "2026-04-04T15:28:02.200Z",
+      "issueTitle": "can't access property \"status\", e.response is undefined",
+      "url": "https://github.com/Mozzo1000/booklogr/issues/59",
+      "createdAt": "2026-04-04T15:28:30.148Z",
       "type": "comment",
-      "content": "Using a bundler like Webpack or Vite could improve performance. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
