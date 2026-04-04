@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775341816186,
+      "repository": "jasonacox/pypowerwall-server",
+      "issueTitle": "TEDAPI + Cloud Control not supported in single gateway mode",
+      "url": "https://github.com/jasonacox/pypowerwall-server/issues/22",
+      "createdAt": "2026-04-04T22:30:16.186Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
