@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775294101438,
+      "repository": "tryethernal/ethernal",
+      "issueTitle": "Tweet pipeline failed: Unexpected error (line 66)",
+      "url": "https://github.com/tryethernal/ethernal/issues/969",
+      "createdAt": "2026-04-04T09:15:01.438Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
