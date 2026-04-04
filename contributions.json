@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775296668138,
+      "repository": "csu-hmc/opty",
+      "issueTitle": "Resetting the obj, obj_grad, and bounds may not work, double check",
+      "url": "https://github.com/csu-hmc/opty/issues/418",
+      "createdAt": "2026-04-04T09:57:48.138Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
