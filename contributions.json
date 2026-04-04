@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775287003608,
+      "repository": "deepnest-next/deepnest",
+      "issueTitle": ":bug: <title>conversion error ERR-Mwv6FI8M on DXF import",
+      "url": "https://github.com/deepnest-next/deepnest/issues/176",
+      "createdAt": "2026-04-04T07:16:43.608Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
