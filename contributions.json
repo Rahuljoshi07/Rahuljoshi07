@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775308171862,
+      "repository": "competitive-verifier/competitive-verifier",
+      "issueTitle": "optimization of `oj-resolve`",
+      "url": "https://github.com/competitive-verifier/competitive-verifier/issues/223",
+      "createdAt": "2026-04-04T13:09:31.862Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
