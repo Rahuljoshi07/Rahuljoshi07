@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775265149991,
+      "repository": "ai-ar-research/Lemur-program-verification",
+      "issueTitle": "Error while running 117.c",
+      "url": "https://github.com/ai-ar-research/Lemur-program-verification/issues/3",
+      "createdAt": "2026-04-04T01:12:29.991Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
