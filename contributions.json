@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775325805960,
+      "repository": "Baskerville42/outage-data-ua",
+      "issueTitle": "Дані Київської області застарілі",
+      "url": "https://github.com/Baskerville42/outage-data-ua/issues/10",
+      "createdAt": "2026-04-04T18:03:25.960Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
