@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1775346841301,
+      "id": 1775346877027,
       "repository": "Hulupeep/Specflow",
-      "issueTitle": "Pre-flight simulation: 9 edge cases found in hooks and setup scripts",
-      "url": "https://github.com/Hulupeep/Specflow/issues/39",
-      "createdAt": "2026-04-04T23:54:01.301Z",
+      "issueTitle": "Specflow trusts test existence, not test execution — journey tests can violate their own invariants",
+      "url": "https://github.com/Hulupeep/Specflow/issues/44",
+      "createdAt": "2026-04-04T23:54:37.027Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
