@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775283596963,
+      "repository": "calcuis/gguf",
+      "issueTitle": "TypeError: only 0-dimensional arrays can be converted to Python scalars",
+      "url": "https://github.com/calcuis/gguf/issues/57",
+      "createdAt": "2026-04-04T06:19:56.963Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
