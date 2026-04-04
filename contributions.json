@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775316926149,
+      "repository": "pacemaker82/Compact-Power-Card",
+      "issueTitle": "TypeError: css/html is not a function - Card broken after HA 2026.4.x update (lit compatibility)",
+      "url": "https://github.com/pacemaker82/Compact-Power-Card/issues/66",
+      "createdAt": "2026-04-04T15:35:26.149Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
