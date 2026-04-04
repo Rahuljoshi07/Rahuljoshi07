@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775330160977,
+      "repository": "stefangabos/Zebra_Datepicker",
+      "issueTitle": "set_date not working when format is set to 'd M y H:i:s'",
+      "url": "https://github.com/stefangabos/Zebra_Datepicker/issues/129",
+      "createdAt": "2026-04-04T19:16:00.977Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
