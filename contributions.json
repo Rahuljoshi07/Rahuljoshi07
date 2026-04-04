@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775275601117,
+      "repository": "langchain-ai/langchain-pinecone",
+      "issueTitle": "langchain-pinecone Installation fails on Python 3.12+ — simsimd<4.0.0,>=3.6.3 requirement cannot be satisfied",
+      "url": "https://github.com/langchain-ai/langchain-pinecone/issues/94",
+      "createdAt": "2026-04-04T04:06:41.117Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
