@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775290370242,
+      "repository": "RF-Tar-Railt/nonebot-plugin-uninfo",
+      "issueTitle": "[Bug] 在使用milky的特定api后调用Uninfo报错",
+      "url": "https://github.com/RF-Tar-Railt/nonebot-plugin-uninfo/issues/34",
+      "createdAt": "2026-04-04T08:12:50.242Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
