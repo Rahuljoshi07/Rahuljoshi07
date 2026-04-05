@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775431314224,
+      "repository": "ashita-ai/tessera",
+      "issueTitle": "Add tests: soft-deleted assets return 404 from contract history and diff endpoints",
+      "url": "https://github.com/ashita-ai/tessera/issues/446",
+      "createdAt": "2026-04-05T23:21:54.224Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
