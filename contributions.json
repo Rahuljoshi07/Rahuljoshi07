@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775431826856,
+      "repository": "jurialmunkey/plugin.video.themoviedb.helper",
+      "issueTitle": "TMDBHelper not playing anything",
+      "url": "https://github.com/jurialmunkey/plugin.video.themoviedb.helper/issues/1786",
+      "createdAt": "2026-04-05T23:30:26.856Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
