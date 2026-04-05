@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775406710958,
+      "repository": "HabiRabbu/Musicseerr",
+      "issueTitle": "Connection to Last.fm not working even when authorized",
+      "url": "https://github.com/HabiRabbu/Musicseerr/issues/8",
+      "createdAt": "2026-04-05T16:31:50.958Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
