@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775415468446,
+      "repository": "OAI/Arazzo-Specification",
+      "issueTitle": "Question/Issue: Define or clarify how to pass inputs to external workflow or step Action Objects( onSuccess, onFailure)",
+      "url": "https://github.com/OAI/Arazzo-Specification/issues/459",
+      "createdAt": "2026-04-05T18:57:48.446Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
