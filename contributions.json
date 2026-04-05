@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775395670593,
+      "repository": "liamcottle/reticulum-meshchat",
+      "issueTitle": "An Error",
+      "url": "https://github.com/liamcottle/reticulum-meshchat/issues/138",
+      "createdAt": "2026-04-05T13:27:50.594Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
