@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775385999435,
+      "repository": "Dokuly-PLM/dokuly",
+      "issueTitle": "Database bug, causing odd migrations",
+      "url": "https://github.com/Dokuly-PLM/dokuly/issues/339",
+      "createdAt": "2026-04-05T10:46:39.435Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
