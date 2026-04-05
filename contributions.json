@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775374184044,
+      "repository": "wills106/homeassistant-solax-modbus",
+      "issueTitle": "[Bug]: ZCS 6000HP -  Select entities return \"unknown\" on Core 2026.4.x",
+      "url": "https://github.com/wills106/homeassistant-solax-modbus/issues/1936",
+      "createdAt": "2026-04-05T07:29:44.045Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
