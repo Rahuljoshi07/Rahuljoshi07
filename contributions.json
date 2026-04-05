@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775394471100,
+      "repository": "MillenniumDawn/Millennium-Dawn",
+      "issueTitle": "[CRASH] Game crashes while loading savegame",
+      "url": "https://github.com/MillenniumDawn/Millennium-Dawn/issues/980",
+      "createdAt": "2026-04-05T13:07:51.100Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
