@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775411005343,
+      "repository": "anechunaev/notion-electron",
+      "issueTitle": "Right Clicking on Typos Does Not Bring Up Corrected Version",
+      "url": "https://github.com/anechunaev/notion-electron/issues/86",
+      "createdAt": "2026-04-05T17:43:25.343Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
