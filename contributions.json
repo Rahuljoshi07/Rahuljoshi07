@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775399066669,
+      "repository": "deidril/pf2-pdf-en-import",
+      "issueTitle": "Paizo modules Shadows at Sundown PZO9561E not working.",
+      "url": "https://github.com/deidril/pf2-pdf-en-import/issues/105",
+      "createdAt": "2026-04-05T14:24:26.669Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
