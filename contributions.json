@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775393686727,
+      "repository": "Tadreeb-LMS/tadreeblms",
+      "issueTitle": "Course Creation Flow Breaks at Lesson Step Due to Syntax Error",
+      "url": "https://github.com/Tadreeb-LMS/tadreeblms/issues/439",
+      "createdAt": "2026-04-05T12:54:46.728Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
