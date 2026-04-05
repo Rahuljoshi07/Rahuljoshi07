@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775404643593,
+      "repository": "rwth-i6/returnn",
+      "issueTitle": "RuntimeError: CUDA error: an illegal memory access was encountered",
+      "url": "https://github.com/rwth-i6/returnn/issues/1816",
+      "createdAt": "2026-04-05T15:57:23.593Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
