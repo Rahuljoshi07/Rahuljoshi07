@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775429818208,
+      "repository": "zekefarwell/josm-strava-heatmap",
+      "issueTitle": "Heatmaps now giving 403 error",
+      "url": "https://github.com/zekefarwell/josm-strava-heatmap/issues/19",
+      "createdAt": "2026-04-05T22:56:58.208Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
