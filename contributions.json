@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775427274387,
+      "repository": "AllTheMods/All-the-Mons",
+      "issueTitle": "[Modpack Bug]: No Eggant in Botany",
+      "url": "https://github.com/AllTheMods/All-the-Mons/issues/263",
+      "createdAt": "2026-04-05T22:14:34.387Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
