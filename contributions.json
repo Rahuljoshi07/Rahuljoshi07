@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775367114494,
+      "repository": "internetarchive/wayback-machine-webextension",
+      "issueTitle": "Save Page Now yields misleading (and usually delayed) error and “Please try again in ~10 min” advice when target returns HTTP 429",
+      "url": "https://github.com/internetarchive/wayback-machine-webextension/issues/1110",
+      "createdAt": "2026-04-05T05:31:54.494Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
