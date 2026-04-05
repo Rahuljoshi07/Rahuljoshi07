@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775406940594,
+      "repository": "yash-pouranik/urBackend",
+      "issueTitle": "Follow-up: Social Auth remaining issues from PR #81",
+      "url": "https://github.com/yash-pouranik/urBackend/issues/82",
+      "createdAt": "2026-04-05T16:35:40.594Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
