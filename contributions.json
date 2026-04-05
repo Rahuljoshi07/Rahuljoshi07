@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775411454979,
+      "repository": "bowtie-json-schema/bowtie",
+      "issueTitle": "bowtie trend crashes with unhandled traceback on network transport errors",
+      "url": "https://github.com/bowtie-json-schema/bowtie/issues/2485",
+      "createdAt": "2026-04-05T17:50:54.979Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
