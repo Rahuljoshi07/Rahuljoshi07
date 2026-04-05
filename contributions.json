@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775363788152,
+      "repository": "ziatdinovmax/SciLink",
+      "issueTitle": "Web UI file uploader treats sequential uploads as series",
+      "url": "https://github.com/ziatdinovmax/SciLink/issues/114",
+      "createdAt": "2026-04-05T04:36:28.152Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
