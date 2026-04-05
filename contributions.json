@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775356081750,
+      "repository": "Sayshal/Calendaria",
+      "issueTitle": "[BUG] Changes to a Zone Climate's Weather tab are not saving",
+      "url": "https://github.com/Sayshal/Calendaria/issues/576",
+      "createdAt": "2026-04-05T02:28:01.750Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
