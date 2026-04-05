@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775377040533,
+      "repository": "farling42/FVTT-Autocomplete-Inline-Properties",
+      "issueTitle": "[Bug] 3.1.0 (or earlier) seems to loose custom dataMode between field register and autocomplete render",
+      "url": "https://github.com/farling42/FVTT-Autocomplete-Inline-Properties/issues/748",
+      "createdAt": "2026-04-05T08:17:20.533Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
