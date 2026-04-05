@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775371178244,
+      "repository": "nowledge-co/community",
+      "issueTitle": "LiteLLM double-prefixes OpenRouter model IDs, causing silent 400 errors",
+      "url": "https://github.com/nowledge-co/community/issues/159",
+      "createdAt": "2026-04-05T06:39:38.244Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
