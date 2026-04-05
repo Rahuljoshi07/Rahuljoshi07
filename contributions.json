@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775368147874,
+      "repository": "kdeyev/eyeonwater",
+      "issueTitle": "Bug: EyeOnWater spikes / negative water usage even with Statistics sensor",
+      "url": "https://github.com/kdeyev/eyeonwater/issues/150",
+      "createdAt": "2026-04-05T05:49:07.874Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
