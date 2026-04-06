@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775482869164,
+      "id": 1775482896037,
       "repository": "kaanozhan/Frame",
-      "issueTitle": "Error encountered when clicking link in terminal for `localhost` dev server preview",
-      "url": "https://github.com/kaanozhan/Frame/issues/28",
-      "createdAt": "2026-04-06T13:41:09.164Z",
+      "issueTitle": "Error: Render frame was disposed before WebFrameMain could be accessed",
+      "url": "https://github.com/kaanozhan/Frame/issues/17",
+      "createdAt": "2026-04-06T13:41:36.037Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. (Suggested by R..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
