@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1775449391877,
-      "repository": "topmonks/hlidac-shopu",
-      "issueTitle": "Kosik.cz - extension does not show (content.js:18368 Could not find product info TypeError: Cannot read properties of null (reading 'textContent'))",
-      "url": "https://github.com/topmonks/hlidac-shopu/issues/3529",
-      "createdAt": "2026-04-06T04:23:11.877Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
