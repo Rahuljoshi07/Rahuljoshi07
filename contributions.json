@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775509585695,
-      "repository": "microsoft/scitt-ccf-ledger",
-      "issueTitle": "CCF's JSON adapter exceptions are not correctly logged",
-      "url": "https://github.com/microsoft/scitt-ccf-ledger/issues/113",
-      "createdAt": "2026-04-06T21:06:25.695Z",
+      "id": 1775509619604,
+      "repository": "iobroker-community-adapters/ioBroker.ical",
+      "issueTitle": "Trigger-Parameter \"check\" liest ics-Datei neu ein statt nur auszuwerten",
+      "url": "https://github.com/iobroker-community-adapters/ioBroker.ical/issues/597",
+      "createdAt": "2026-04-06T21:06:59.604Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
