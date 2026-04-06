@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775465330421,
+      "repository": "GPT-AGI/Clawd-Code",
+      "issueTitle": "SyntaxErrors in repl.py crash CLI at import + API keys stored with Base64 (not encryption)",
+      "url": "https://github.com/GPT-AGI/Clawd-Code/issues/8",
+      "createdAt": "2026-04-06T08:48:50.421Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
