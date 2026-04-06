@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775513706151,
+      "repository": "adamchainz/django-read-only",
+      "issueTitle": "Move to SQL level protection",
+      "url": "https://github.com/adamchainz/django-read-only/issues/20",
+      "createdAt": "2026-04-06T22:15:06.151Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
