@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775503319612,
+      "repository": "cisco-ai-defense/mcp-scanner",
+      "issueTitle": "feat: Add lint command for MCP schema quality validation",
+      "url": "https://github.com/cisco-ai-defense/mcp-scanner/issues/113",
+      "createdAt": "2026-04-06T19:21:59.612Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
