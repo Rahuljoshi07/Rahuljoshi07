@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775498655435,
+      "repository": "NationalSecurityAgency/skills-client",
+      "issueTitle": "Upgrade libs",
+      "url": "https://github.com/NationalSecurityAgency/skills-client/issues/258",
+      "createdAt": "2026-04-06T18:04:15.435Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
