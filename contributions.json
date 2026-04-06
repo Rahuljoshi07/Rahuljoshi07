@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775512580335,
+      "repository": "sandflow/ttconv",
+      "issueTitle": "Consider not emitting a span element for anonymous spans",
+      "url": "https://github.com/sandflow/ttconv/issues/191",
+      "createdAt": "2026-04-06T21:56:20.335Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
