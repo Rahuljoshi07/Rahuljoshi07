@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775502409092,
+      "repository": "RapidFireAI/rapidfireai",
+      "issueTitle": "[BUG] [RAG][v0.15.0rc4][RUN_EVALS] Prompt_manager_K value not displayed in ic-ops panel for clones on gsk8k notebook",
+      "url": "https://github.com/RapidFireAI/rapidfireai/issues/191",
+      "createdAt": "2026-04-06T19:06:49.092Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
