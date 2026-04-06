@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775479579481,
+      "repository": "keycloak/keycloak-js",
+      "issueTitle": "POST logout() gets error 'invalid parameter id_token_hint' from server, when the user already has been unauthenticated",
+      "url": "https://github.com/keycloak/keycloak-js/issues/287",
+      "createdAt": "2026-04-06T12:46:19.481Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
