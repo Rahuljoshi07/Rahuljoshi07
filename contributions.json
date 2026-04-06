@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775490013604,
+      "repository": "Trustroots/trustroots",
+      "issueTitle": "better error message for signups with username with _",
+      "url": "https://github.com/Trustroots/trustroots/issues/2723",
+      "createdAt": "2026-04-06T15:40:13.604Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
