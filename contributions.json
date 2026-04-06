@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775508097654,
+      "repository": "lapo-luchini/asn1js",
+      "issueTitle": "Failed to parse the key pair protected data format; the data was parsed as a certificate, but it should have been the key pair protected data format.",
+      "url": "https://github.com/lapo-luchini/asn1js/issues/111",
+      "createdAt": "2026-04-06T20:41:37.654Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. (Suggested by..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
