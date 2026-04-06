@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775472617881,
+      "repository": "auth0/auth0-deploy-cli",
+      "issueTitle": "New client not added to connection's enabled_clients when created in the same deploy",
+      "url": "https://github.com/auth0/auth0-deploy-cli/issues/1349",
+      "createdAt": "2026-04-06T10:50:17.881Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
