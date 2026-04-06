@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775515159383,
+      "repository": "iMicknl/python-sagemcom-api",
+      "issueTitle": "TalkTalk Wi-Fi Hub (F@ST 5364) firmware SG4K100208: Device/DeviceInfo container blocked, leaf fallback works; Device/Hosts/Hosts works; DSL rates + throughput paths confirmed; request-level errors can mask per-action success",
+      "url": "https://github.com/iMicknl/python-sagemcom-api/issues/453",
+      "createdAt": "2026-04-06T22:39:19.383Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
