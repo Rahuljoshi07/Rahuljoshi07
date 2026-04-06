@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775475882819,
+      "repository": "langchain-ai/langchain-aws",
+      "issueTitle": "[Enhancement]: Snake case response metadata in ChatBedrockConverse for consistency",
+      "url": "https://github.com/langchain-ai/langchain-aws/issues/975",
+      "createdAt": "2026-04-06T11:44:42.819Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
