@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775494879917,
+      "repository": "marin-community/marin",
+      "issueTitle": "[CW/R2] Tensorstore `Malformed StorageGeneration`",
+      "url": "https://github.com/marin-community/marin/issues/4373",
+      "createdAt": "2026-04-06T17:01:19.917Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
