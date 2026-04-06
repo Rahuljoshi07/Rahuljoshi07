@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775439433439,
+      "repository": "elvezjp/SDD",
+      "issueTitle": "[Security] Low: CLI のスタックトレース出力を --debug フラグで制御",
+      "url": "https://github.com/elvezjp/SDD/issues/48",
+      "createdAt": "2026-04-06T01:37:13.439Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
