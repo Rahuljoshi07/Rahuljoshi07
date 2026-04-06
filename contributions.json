@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775475981263,
+      "repository": "truenas/apps",
+      "issueTitle": "[Bug Report]: Nextcloud not Updating from 33.0.0.16 (2.3.10) to 33.0.2.2 (2.3.16)",
+      "url": "https://github.com/truenas/apps/issues/4765",
+      "createdAt": "2026-04-06T11:46:21.263Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
