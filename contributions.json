@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775463377283,
+      "repository": "bluenazgul/unifi-device-card",
+      "issueTitle": "Bug Fixes: My updated version to handle the way my DMP and switches worked",
+      "url": "https://github.com/bluenazgul/unifi-device-card/issues/2",
+      "createdAt": "2026-04-06T08:16:17.283Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
