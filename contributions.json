@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775472026249,
+      "repository": "steveyeow/Feynman",
+      "issueTitle": "UI Bug: Chat formatting breaks when mixing RTL (Arabic) and LTR (English) text",
+      "url": "https://github.com/steveyeow/Feynman/issues/4",
+      "createdAt": "2026-04-06T10:40:26.249Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
