@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775455612680,
+      "repository": "barneyonline/ha-enphase-energy",
+      "issueTitle": "[Bug]: Heat pump power missing or stale while heat pump is running",
+      "url": "https://github.com/barneyonline/ha-enphase-energy/issues/443",
+      "createdAt": "2026-04-06T06:06:52.680Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
