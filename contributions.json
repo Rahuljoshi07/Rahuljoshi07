@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775504832164,
+      "repository": "alexjsmac/soundscape-generator",
+      "issueTitle": "Issue: Scraper not limited by license",
+      "url": "https://github.com/alexjsmac/soundscape-generator/issues/95",
+      "createdAt": "2026-04-06T19:47:12.164Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
