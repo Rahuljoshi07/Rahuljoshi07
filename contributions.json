@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775503887441,
+      "id": 1775503928122,
       "repository": "UltiMafia/Ultimafia",
       "issueTitle": "Deck Improvements and Fixes",
       "url": "https://github.com/UltiMafia/Ultimafia/issues/2308",
-      "createdAt": "2026-04-06T19:31:27.441Z",
+      "createdAt": "2026-04-06T19:32:08.122Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
