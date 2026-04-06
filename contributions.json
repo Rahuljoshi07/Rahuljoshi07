@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775458015207,
+      "repository": "peviitor-ro/search-engine",
+      "issueTitle": "[Sentry] TypeError: remote?.join is not a function [ID:99952563]",
+      "url": "https://github.com/peviitor-ro/search-engine/issues/1070",
+      "createdAt": "2026-04-06T06:46:55.207Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
