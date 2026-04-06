@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775468240432,
+      "repository": "XCQ0607/lxserver",
+      "issueTitle": "[Bug] IOS切后台就卡住，就像vcd卡住那样，比如说音乐唱到“爱”字，切后台就一直“爱爱爱爱……”",
+      "url": "https://github.com/XCQ0607/lxserver/issues/73",
+      "createdAt": "2026-04-06T09:37:20.432Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
