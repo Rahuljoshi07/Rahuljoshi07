@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775510285994,
+      "repository": "adamchainz/django-rich",
+      "issueTitle": "Use pritty traces for all logs",
+      "url": "https://github.com/adamchainz/django-rich/issues/278",
+      "createdAt": "2026-04-06T21:18:05.994Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
