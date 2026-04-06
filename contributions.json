@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775486955394,
+      "repository": "ether/ep_comments_page",
+      "issueTitle": "Error: io is not defined",
+      "url": "https://github.com/ether/ep_comments_page/issues/339",
+      "createdAt": "2026-04-06T14:49:15.395Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
