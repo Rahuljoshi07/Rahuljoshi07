@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775502593607,
+      "repository": "mossdef-org/luci-app-adblock-fast",
+      "issueTitle": "luci-app-adblock-fast: luci website hangs while block lists are being processed",
+      "url": "https://github.com/mossdef-org/luci-app-adblock-fast/issues/9",
+      "createdAt": "2026-04-06T19:09:53.607Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. (Suggested by..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
