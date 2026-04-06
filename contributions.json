@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775437905913,
+      "repository": "miketheman/pytest-socket",
+      "issueTitle": "Should SocketBlockedError etc also inherit from OSError?",
+      "url": "https://github.com/miketheman/pytest-socket/issues/454",
+      "createdAt": "2026-04-06T01:11:45.913Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
