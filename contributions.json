@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775507248115,
+      "id": 1775507286937,
       "repository": "gbroeckling/padspanHA",
-      "issueTitle": "Extremely glitchy rendering on Edge/Firefox on macOS",
-      "url": "https://github.com/gbroeckling/padspanHA/issues/25",
-      "createdAt": "2026-04-06T20:27:28.115Z",
+      "issueTitle": "Shelly devices don't show up at scanner calibration again",
+      "url": "https://github.com/gbroeckling/padspanHA/issues/28",
+      "createdAt": "2026-04-06T20:28:06.937Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. (Suggested by R..."
     }
   ],
   "stats": {
