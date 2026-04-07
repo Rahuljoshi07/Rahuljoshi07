@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1775542714363,
-      "repository": "peviitor-ro/search-engine",
-      "issueTitle": "[Sentry] TypeError: Cannot read properties of undefined (reading 'length') [ID:99952558]",
-      "url": "https://github.com/peviitor-ro/search-engine/issues/1067",
-      "createdAt": "2026-04-07T06:18:34.364Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
