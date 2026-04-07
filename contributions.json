@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775600285185,
+      "repository": "punch-mission/punchbowl",
+      "issueTitle": "Uncertainty handling in data merging",
+      "url": "https://github.com/punch-mission/punchbowl/issues/861",
+      "createdAt": "2026-04-07T22:18:05.185Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
