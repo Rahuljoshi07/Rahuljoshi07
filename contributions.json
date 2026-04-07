@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775550157305,
+      "repository": "AntonsMindstorms/PUPRemote",
+      "issueTitle": "LMS-ESP32 v2.0 + BluePad32 \\Breaks Motor Position Control on Spike Hub",
+      "url": "https://github.com/AntonsMindstorms/PUPRemote/issues/22",
+      "createdAt": "2026-04-07T08:22:37.305Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
