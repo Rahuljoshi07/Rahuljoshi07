@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775570891214,
+      "repository": "Daylily-Informatics/daylily-ephemeral-cluster",
+      "issueTitle": "Remove `.pem` file locality dependency and move to ssm for all terminal nonsense\n<!-- This issue will be created in repo Daylily-Informatics/daylily-ephemeral-cluster (https://github.com/Daylily-Informatics/daylily-ephemeral-cluster). Changing this line has no effect. -->",
+      "url": "https://github.com/Daylily-Informatics/daylily-ephemeral-cluster/issues/216",
+      "createdAt": "2026-04-07T14:08:11.214Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
