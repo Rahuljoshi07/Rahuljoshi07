@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775532135051,
+      "repository": "christoph2/pyxcp",
+      "issueTitle": "After pyxcp packages this script as an exe by pyinstaller, the following error occurs when running it. How to solve it?",
+      "url": "https://github.com/christoph2/pyxcp/issues/203",
+      "createdAt": "2026-04-07T03:22:15.052Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
