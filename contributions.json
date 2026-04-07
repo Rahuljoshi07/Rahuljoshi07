@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775567395431,
+      "repository": "americanexpress/fetchye",
+      "issueTitle": "Aborted requests get console logged as errors",
+      "url": "https://github.com/americanexpress/fetchye/issues/107",
+      "createdAt": "2026-04-07T13:09:55.431Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
