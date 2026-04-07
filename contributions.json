@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775552869146,
+      "repository": "nirgit/simple-xml-to-json",
+      "issueTitle": "Bug: reproduce an error received from the simple-xml-to-json for esm projects for default imports",
+      "url": "https://github.com/nirgit/simple-xml-to-json/issues/71",
+      "createdAt": "2026-04-07T09:07:49.146Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
