@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775587369597,
+      "repository": "llvm/llvm-zorg",
+      "issueTitle": "[BazelBot] Gracefully fail when we error out on merging",
+      "url": "https://github.com/llvm/llvm-zorg/issues/821",
+      "createdAt": "2026-04-07T18:42:49.597Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
