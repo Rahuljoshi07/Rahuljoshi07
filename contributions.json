@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775568557683,
+      "repository": "SpartanLabsXyz/simmer-sdk",
+      "issueTitle": "[Bug] Sell orders rejected with \"not enough balance/allowance\" despite confirmed on-chain balance",
+      "url": "https://github.com/SpartanLabsXyz/simmer-sdk/issues/12",
+      "createdAt": "2026-04-07T13:29:17.683Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
