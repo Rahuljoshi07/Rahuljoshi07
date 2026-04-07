@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775522771919,
+      "repository": "nextcloud/assistant",
+      "issueTitle": "NC33: text2image_stablediffusion2 ExApp is enabled and polling tasks, but Assistant does not register any image generation provider",
+      "url": "https://github.com/nextcloud/assistant/issues/489",
+      "createdAt": "2026-04-07T00:46:11.919Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
