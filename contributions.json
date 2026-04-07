@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775585262760,
+      "repository": "Scottcjn/Rustchain",
+      "issueTitle": "security: p2p full-state sync accepts unsigned state injection",
+      "url": "https://github.com/Scottcjn/Rustchain/issues/2154",
+      "createdAt": "2026-04-07T18:07:42.760Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
