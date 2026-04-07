@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775585171034,
+      "repository": "O-X-L/ansible-webui",
+      "issueTitle": "Problem: pexpect/ptyprocess Bad file descriptor with Python 3.13",
+      "url": "https://github.com/O-X-L/ansible-webui/issues/52",
+      "createdAt": "2026-04-07T18:06:11.034Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
