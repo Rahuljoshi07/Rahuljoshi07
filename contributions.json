@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775598971904,
+      "repository": "djlint/djLint",
+      "issueTitle": "Help: the formatter always puts the description tag on two lines",
+      "url": "https://github.com/djlint/djLint/issues/1833",
+      "createdAt": "2026-04-07T21:56:11.904Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
