@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775584646042,
+      "repository": "ramses-rf/ramses_cc",
+      "issueTitle": "HA Integration Quality Scale TODO",
+      "url": "https://github.com/ramses-rf/ramses_cc/issues/594",
+      "createdAt": "2026-04-07T17:57:26.042Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
