@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1775576740395,
-      "repository": "owncloud/files_antivirus",
-      "issueTitle": "Error: Using $this when not in object context in /var/owncloud/apps-external/files_antivirus/lib/Cron/Task.php:110",
-      "url": "https://github.com/owncloud/files_antivirus/issues/555",
-      "createdAt": "2026-04-07T15:45:40.395Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
