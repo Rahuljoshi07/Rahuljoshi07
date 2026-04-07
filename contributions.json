@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775561277737,
+      "repository": "kamilburda/batcher",
+      "issueTitle": "Image Convert RGB operation causing errors when trying to open Batch Convert",
+      "url": "https://github.com/kamilburda/batcher/issues/133",
+      "createdAt": "2026-04-07T11:27:57.737Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
