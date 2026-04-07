@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775601330359,
+      "repository": "microsoft/netperf",
+      "issueTitle": "eBPF for Windows Performance Test Failed",
+      "url": "https://github.com/microsoft/netperf/issues/823",
+      "createdAt": "2026-04-07T22:35:30.359Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
