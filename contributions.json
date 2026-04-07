@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775581785996,
+      "repository": "qgisred/QGISRed",
+      "issueTitle": "I can't register the pressures observed on the pressure gauge – QgisRed",
+      "url": "https://github.com/qgisred/QGISRed/issues/145",
+      "createdAt": "2026-04-07T17:09:45.996Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
