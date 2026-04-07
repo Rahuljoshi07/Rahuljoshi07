@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775582717131,
+      "repository": "adamchainz/django-linear-migrations",
+      "issueTitle": "Make rebase-migration handle chains of migrations",
+      "url": "https://github.com/adamchainz/django-linear-migrations/issues/27",
+      "createdAt": "2026-04-07T17:25:17.132Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
