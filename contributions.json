@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775548463262,
+      "repository": "UltiMafia/Ultimafia",
+      "issueTitle": "Deck Improvements and Fixes",
+      "url": "https://github.com/UltiMafia/Ultimafia/issues/2308",
+      "createdAt": "2026-04-07T07:54:23.262Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
