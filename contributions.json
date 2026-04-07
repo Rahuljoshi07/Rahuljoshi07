@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775557473812,
+      "repository": "adobe/spacecat-audit-worker",
+      "issueTitle": "Jobs incorrectly cancelled on transient database errors during entitlement checks",
+      "url": "https://github.com/adobe/spacecat-audit-worker/issues/2318",
+      "createdAt": "2026-04-07T10:24:33.812Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
