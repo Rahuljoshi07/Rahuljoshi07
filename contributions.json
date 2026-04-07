@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775546635748,
+      "repository": "Geocld/XStreaming",
+      "issueTitle": "Elite 2 controller input is not recognized - MacOS Tahoe 26.0.1(WIP)",
+      "url": "https://github.com/Geocld/XStreaming/issues/106",
+      "createdAt": "2026-04-07T07:23:55.748Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
