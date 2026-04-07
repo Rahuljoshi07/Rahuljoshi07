@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775574034078,
+      "repository": "whitphx/streamlit-webrtc-example",
+      "issueTitle": "Oh no. Error running app. If this keeps happening, please contact support.:https://webrtc.streamlit.app/",
+      "url": "https://github.com/whitphx/streamlit-webrtc-example/issues/256",
+      "createdAt": "2026-04-07T15:00:34.078Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
