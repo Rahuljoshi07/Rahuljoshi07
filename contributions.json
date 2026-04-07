@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775578958680,
+      "repository": "ArnaudBuchholz/ui5-test-runner",
+      "issueTitle": "env not passed to start command",
+      "url": "https://github.com/ArnaudBuchholz/ui5-test-runner/issues/171",
+      "createdAt": "2026-04-07T16:22:38.680Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
