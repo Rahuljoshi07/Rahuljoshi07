@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775539132077,
+      "repository": "StarWarsFoundryVTT/StarWarsFFG",
+      "issueTitle": "Careers and Specialization do not turn Skills into Career Skills on Forge",
+      "url": "https://github.com/StarWarsFoundryVTT/StarWarsFFG/issues/2164",
+      "createdAt": "2026-04-07T05:18:52.077Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
