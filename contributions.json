@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775565741772,
+      "repository": "Shasnow/StarRailAssistant",
+      "issueTitle": "[BUG] 货币战争结束后不会退出到大世界，导致后续切换账号功能无法使用",
+      "url": "https://github.com/Shasnow/StarRailAssistant/issues/173",
+      "createdAt": "2026-04-07T12:42:21.772Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
