@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775567090030,
+      "id": 1775567129181,
       "repository": "samvera-labs/ramp",
-      "issueTitle": "[BUG] 2x playback speed not visible on Samsung Galaxy Fold (unfolded)",
-      "url": "https://github.com/samvera-labs/ramp/issues/698",
-      "createdAt": "2026-04-07T13:04:50.030Z",
+      "issueTitle": "When media cannot be played, error message in media player should be keyboard accessible",
+      "url": "https://github.com/samvera-labs/ramp/issues/660",
+      "createdAt": "2026-04-07T13:05:29.181Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
