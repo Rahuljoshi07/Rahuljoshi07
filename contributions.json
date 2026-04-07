@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775570217554,
-      "repository": "DataDog/dd-trace-js",
-      "issueTitle": "Memory leak in Next.js plugin: WeakMap in #requestsBySpanId retains IncomingMessage objects",
-      "url": "https://github.com/DataDog/dd-trace-js/issues/7876",
-      "createdAt": "2026-04-07T13:56:57.554Z",
+      "id": 1775570253923,
+      "repository": "vaadin/web-components",
+      "issueTitle": "Vaadin Grid fill remaining space with empty column",
+      "url": "https://github.com/vaadin/web-components/issues/7413",
+      "createdAt": "2026-04-07T13:57:33.923Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
