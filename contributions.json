@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775590208422,
+      "repository": "Linuxfabrik/monitoring-plugins",
+      "issueTitle": "veeam-status: fails after Veeam update from v12 to v13",
+      "url": "https://github.com/Linuxfabrik/monitoring-plugins/issues/1001",
+      "createdAt": "2026-04-07T19:30:08.422Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
