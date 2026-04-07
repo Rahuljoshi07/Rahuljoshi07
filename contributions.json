@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775590753443,
+      "repository": "broadinstitute/seqr-loading-pipelines",
+      "issueTitle": "Pipeline job ValidateCallsetTask failing with file already exists error",
+      "url": "https://github.com/broadinstitute/seqr-loading-pipelines/issues/1201",
+      "createdAt": "2026-04-07T19:39:13.443Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
