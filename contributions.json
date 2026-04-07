@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775559473412,
-      "repository": "gethugothemes/hugo-modules",
-      "issueTitle": "Cookie consent component GDPR",
-      "url": "https://github.com/gethugothemes/hugo-modules/issues/82",
-      "createdAt": "2026-04-07T10:57:53.412Z",
+      "id": 1775559514472,
+      "repository": "DataDog/dd-trace-js",
+      "issueTitle": "Memory leak in Next.js plugin: WeakMap in #requestsBySpanId retains IncomingMessage objects",
+      "url": "https://github.com/DataDog/dd-trace-js/issues/7876",
+      "createdAt": "2026-04-07T10:58:34.472Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
