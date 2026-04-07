@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775574271671,
+      "repository": "mlcommons/storage",
+      "issueTitle": "pip3 install -e . fails with tomllib.TOMLDecodeError",
+      "url": "https://github.com/mlcommons/storage/issues/314",
+      "createdAt": "2026-04-07T15:04:31.671Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
