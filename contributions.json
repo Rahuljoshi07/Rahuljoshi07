@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775567129181,
+      "id": 1775567163117,
       "repository": "samvera-labs/ramp",
-      "issueTitle": "When media cannot be played, error message in media player should be keyboard accessible",
-      "url": "https://github.com/samvera-labs/ramp/issues/660",
-      "createdAt": "2026-04-07T13:05:29.181Z",
+      "issueTitle": "[BUG] 2x playback speed not visible on Samsung Galaxy Fold (unfolded)",
+      "url": "https://github.com/samvera-labs/ramp/issues/698",
+      "createdAt": "2026-04-07T13:06:03.117Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
