@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775598344374,
+      "repository": "petercorke/machinevision-toolbox-python",
+      "issueTitle": "CentralCamera: project_point gives an error when distortion was defined",
+      "url": "https://github.com/petercorke/machinevision-toolbox-python/issues/14",
+      "createdAt": "2026-04-07T21:45:44.374Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
