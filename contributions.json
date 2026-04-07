@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775575911627,
+      "repository": "HKUSTDial/flash-sparse-attention",
+      "issueTitle": "[PERFORMANCE] Top‑k windowed mask generation dominates end‑to‑end latency for large sequences",
+      "url": "https://github.com/HKUSTDial/flash-sparse-attention/issues/196",
+      "createdAt": "2026-04-07T15:31:51.627Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
