@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775560137093,
+      "repository": "brucemcpherson/gas-fakes",
+      "issueTitle": "timestamps are too noisy -",
+      "url": "https://github.com/brucemcpherson/gas-fakes/issues/127",
+      "createdAt": "2026-04-07T11:08:57.093Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
