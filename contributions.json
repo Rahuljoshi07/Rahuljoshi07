@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775541790745,
+      "repository": "xuanyustudio/LocalMiniDrama",
+      "issueTitle": "[Bug] 火山引擎 - 分镜生成报错",
+      "url": "https://github.com/xuanyustudio/LocalMiniDrama/issues/6",
+      "createdAt": "2026-04-07T06:03:10.745Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
