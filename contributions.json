@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775582618155,
+      "repository": "VIAME/VIAME",
+      "issueTitle": "Filter extract chips pipeline not writing images",
+      "url": "https://github.com/VIAME/VIAME/issues/231",
+      "createdAt": "2026-04-07T17:23:38.155Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
