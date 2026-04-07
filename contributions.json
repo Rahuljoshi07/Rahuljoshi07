@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775549731766,
+      "repository": "hermetoproject/hermeto",
+      "issueTitle": "bug(gomod): git fetch --tags fails when source tree contains symlinked submodule paths",
+      "url": "https://github.com/hermetoproject/hermeto/issues/1503",
+      "createdAt": "2026-04-07T08:15:31.766Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
