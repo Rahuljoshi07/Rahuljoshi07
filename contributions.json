@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775560067048,
+      "repository": "snowflakedb/snowflake-connector-nodejs",
+      "issueTitle": "SNOW-889843: Feature Request: support direct read from SF in Apache Arrow format",
+      "url": "https://github.com/snowflakedb/snowflake-connector-nodejs/issues/613",
+      "createdAt": "2026-04-07T11:07:47.048Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
