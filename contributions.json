@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775599370470,
+      "repository": "Metron-Project/metron",
+      "issueTitle": "Invalid UPCs in the DB seem to follow a consistent pattern",
+      "url": "https://github.com/Metron-Project/metron/issues/491",
+      "createdAt": "2026-04-07T22:02:50.470Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
