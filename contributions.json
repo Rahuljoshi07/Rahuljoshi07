@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775521782397,
-      "repository": "nextcloud/calendar-js",
-      "issueTitle": "Wrong ics for Europe/Dublin",
-      "url": "https://github.com/nextcloud/calendar-js/issues/675",
-      "createdAt": "2026-04-07T00:29:42.397Z",
+      "id": 1775521808073,
+      "repository": "nextcloud/cdav-library",
+      "issueTitle": "Make requests cancellable",
+      "url": "https://github.com/nextcloud/cdav-library/issues/264",
+      "createdAt": "2026-04-07T00:30:08.073Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
