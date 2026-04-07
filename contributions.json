@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775596759150,
+      "repository": "peterjc/flake8-black",
+      "issueTitle": "Relative paths for --black-config setting",
+      "url": "https://github.com/peterjc/flake8-black/issues/13",
+      "createdAt": "2026-04-07T21:19:19.150Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
