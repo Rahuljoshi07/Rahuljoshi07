@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775587633804,
+      "repository": "Forgotten-Adventures/FA-Nexus",
+      "issueTitle": "Validation Errors when placing any Asset",
+      "url": "https://github.com/Forgotten-Adventures/FA-Nexus/issues/45",
+      "createdAt": "2026-04-07T18:47:13.805Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
