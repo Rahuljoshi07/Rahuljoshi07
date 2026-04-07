@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775549850081,
+      "repository": "hw-native-sys/pypto",
+      "issueTitle": "[Bug] Handshake failure on Ascend910B3 during core initialization",
+      "url": "https://github.com/hw-native-sys/pypto/issues/884",
+      "createdAt": "2026-04-07T08:17:30.081Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
