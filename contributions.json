@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1775570085735,
-      "repository": "DataDog/dd-trace-js",
-      "issueTitle": "Memory leak in Next.js plugin: WeakMap in #requestsBySpanId retains IncomingMessage objects",
-      "url": "https://github.com/DataDog/dd-trace-js/issues/7876",
-      "createdAt": "2026-04-07T13:54:45.735Z",
-      "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
