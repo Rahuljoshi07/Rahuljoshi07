@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775561150474,
+      "repository": "hackforla/website",
+      "issueTitle": "Skills Issue: Developer: Danielle Aras",
+      "url": "https://github.com/hackforla/website/issues/6948",
+      "createdAt": "2026-04-07T11:25:50.474Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
