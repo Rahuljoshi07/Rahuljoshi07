@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775688236983,
+      "repository": "Hugo0/wordle",
+      "issueTitle": "🤖 Automated OSS Review Feedback",
+      "url": "https://github.com/Hugo0/wordle/issues/186",
+      "createdAt": "2026-04-08T22:43:56.983Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for vue pr..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
