@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775682987635,
+      "repository": "mue/mue",
+      "issueTitle": "[Bug] Default search engine not being used correctly",
+      "url": "https://github.com/mue/mue/issues/1152",
+      "createdAt": "2026-04-08T21:16:27.635Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
