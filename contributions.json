@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775635041239,
+      "repository": "progressivis/progressivis",
+      "issueTitle": "The time predictor should use the median time, not the mean time, to deal gracefully with issues like hibernating a machine",
+      "url": "https://github.com/progressivis/progressivis/issues/12",
+      "createdAt": "2026-04-08T07:57:21.239Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
