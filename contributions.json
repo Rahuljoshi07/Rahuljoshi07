@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775629699925,
+      "repository": "carbon-design-system/ibm-products",
+      "issueTitle": "[BUG]: tsdown migration has broken `useDatagrid` and probably many other things",
+      "url": "https://github.com/carbon-design-system/ibm-products/issues/9224",
+      "createdAt": "2026-04-08T06:28:19.925Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
