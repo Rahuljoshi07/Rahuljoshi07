@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775681453873,
+      "repository": "React-Automation-Studio/React-Automation-Studio",
+      "issueTitle": "pvServer: When ADMIN_DATABASE_REPLICA_SET_NAME is not defined, open_mongo_db_client attemps to use the repliace set name None",
+      "url": "https://github.com/React-Automation-Studio/React-Automation-Studio/issues/120",
+      "createdAt": "2026-04-08T20:50:53.873Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
