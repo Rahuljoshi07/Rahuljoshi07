@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775691707805,
+      "repository": "allenai/beaker-gantry",
+      "issueTitle": "Better error messages for post-setup commands",
+      "url": "https://github.com/allenai/beaker-gantry/issues/181",
+      "createdAt": "2026-04-08T23:41:47.805Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
