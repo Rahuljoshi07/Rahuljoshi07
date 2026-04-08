@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775651597694,
+      "repository": "Thorinair/Stardew-Profits",
+      "issueTitle": "Prediction model behaving weirdly",
+      "url": "https://github.com/Thorinair/Stardew-Profits/issues/99",
+      "createdAt": "2026-04-08T12:33:17.694Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
