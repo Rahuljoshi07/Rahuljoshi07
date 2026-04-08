@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775679034277,
+      "repository": "CoderofTheWest/openclaw-plugin-continuity",
+      "issueTitle": "Continuity retrieval/intent broken due to before_agent_start event shape; fix by using event.prompt + preserve newlines; reduce noisy ERROR logs",
+      "url": "https://github.com/CoderofTheWest/openclaw-plugin-continuity/issues/8",
+      "createdAt": "2026-04-08T20:10:34.277Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
