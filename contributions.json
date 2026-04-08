@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775646001971,
+      "repository": "kernelci/kernelci-core",
+      "issueTitle": "rootfs: trixie mips64el/mipsel fails to build",
+      "url": "https://github.com/kernelci/kernelci-core/issues/3054",
+      "createdAt": "2026-04-08T11:00:01.971Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
