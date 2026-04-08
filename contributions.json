@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775610930360,
+      "repository": "openvax/topiary",
+      "issueTitle": "ValueError: Invalid contig name 'chr1' for reference 'GRCh38",
+      "url": "https://github.com/openvax/topiary/issues/89",
+      "createdAt": "2026-04-08T01:15:30.360Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
