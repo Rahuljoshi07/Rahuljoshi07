@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775665552965,
+      "repository": "mediawiki-utilities/python-mwxml",
+      "issueTitle": "\"AttributeError: Can't pickle local object 'map.<locals>.process_path'",
+      "url": "https://github.com/mediawiki-utilities/python-mwxml/issues/20",
+      "createdAt": "2026-04-08T16:25:52.965Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
