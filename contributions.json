@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775668249666,
+      "repository": "ldotlopez/ha-historical-sensor",
+      "issueTitle": "2025.11: RuntimeError: Detected code that doesn't specify mean_type when calling async_import_statistics.",
+      "url": "https://github.com/ldotlopez/ha-historical-sensor/issues/16",
+      "createdAt": "2026-04-08T17:10:49.666Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
