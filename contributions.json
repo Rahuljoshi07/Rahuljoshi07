@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775652431581,
+      "repository": "hw-native-sys/pypto",
+      "issueTitle": "[Pass Bug] InterchangeChunkLoops creates nested InCore scopes from nested chunked parallel loops",
+      "url": "https://github.com/hw-native-sys/pypto/issues/911",
+      "createdAt": "2026-04-08T12:47:11.581Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
