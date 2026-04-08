@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775682674614,
+      "id": 1775682706834,
       "repository": "apache/cordova-js",
       "issueTitle": "Event listener function overloads are too brittle, error if evt is undefined",
       "url": "https://github.com/apache/cordova-js/issues/244",
-      "createdAt": "2026-04-08T21:11:14.614Z",
+      "createdAt": "2026-04-08T21:11:46.834Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
