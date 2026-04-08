@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775635168203,
-      "repository": "digitalfabrik/lunes-cms",
-      "issueTitle": "Images in word list and exercises load very slowly",
-      "url": "https://github.com/digitalfabrik/lunes-cms/issues/704",
-      "createdAt": "2026-04-08T07:59:28.203Z",
+      "id": 1775635203614,
+      "repository": "gramps-project/gramps-web-api",
+      "issueTitle": "Review changes in Gramps 5.2",
+      "url": "https://github.com/gramps-project/gramps-web-api/issues/496",
+      "createdAt": "2026-04-08T08:00:03.614Z",
       "type": "comment",
-      "content": "Consider caching with functools.lru_cache for expensive computations. This suggestion is particularl..."
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
     }
   ],
   "stats": {
