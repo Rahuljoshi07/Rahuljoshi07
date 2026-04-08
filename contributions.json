@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775671337880,
+      "repository": "StraboSpot/StraboField",
+      "issueTitle": "Unable to select a strat column interval after saving",
+      "url": "https://github.com/StraboSpot/StraboField/issues/864",
+      "createdAt": "2026-04-08T18:02:17.880Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
