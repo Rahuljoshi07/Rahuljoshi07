@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775648952066,
+      "repository": "Alban1911/Rose",
+      "issueTitle": "This is an issue since 1.2 that when I switch accounts while rose is still active in tray, it goes back default league, that I had to close and reopen rose just to make it work again",
+      "url": "https://github.com/Alban1911/Rose/issues/9",
+      "createdAt": "2026-04-08T11:49:12.066Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
