@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775610660344,
+      "repository": "rokicool/gsd-opencode",
+      "issueTitle": "[BUG] Could not read package version, using 1.0.0",
+      "url": "https://github.com/rokicool/gsd-opencode/issues/93",
+      "createdAt": "2026-04-08T01:11:00.344Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
