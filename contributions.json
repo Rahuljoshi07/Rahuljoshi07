@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775634120761,
+      "repository": "ramses-rf/ramses_rf",
+      "issueTitle": "Ramses RF 0.56.2 integration stopped working",
+      "url": "https://github.com/ramses-rf/ramses_rf/issues/569",
+      "createdAt": "2026-04-08T07:42:00.762Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
