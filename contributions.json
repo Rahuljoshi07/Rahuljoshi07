@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775666019035,
-      "repository": "vinsdragonis/Project-Nexus",
-      "issueTitle": "Page redirection problems",
-      "url": "https://github.com/vinsdragonis/Project-Nexus/issues/116",
-      "createdAt": "2026-04-08T16:33:39.035Z",
+      "id": 1775666070980,
+      "repository": "vakovalskii/codedash",
+      "issueTitle": "Leaderboard sync fails: Worker returns HTTP 500 (error 1101)",
+      "url": "https://github.com/vakovalskii/codedash/issues/140",
+      "createdAt": "2026-04-08T16:34:30.980Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
