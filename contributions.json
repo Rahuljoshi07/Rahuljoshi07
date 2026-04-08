@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775673427409,
+      "repository": "Infocatcher/AkelPad_scripts",
+      "issueTitle": "[measuresConverter.js] unable to update with -preferFXExchangeRate=false (request error)",
+      "url": "https://github.com/Infocatcher/AkelPad_scripts/issues/12",
+      "createdAt": "2026-04-08T18:37:07.409Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
