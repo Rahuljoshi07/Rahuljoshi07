@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775643776196,
-      "repository": "link-assistant/hive-mind",
-      "issueTitle": "Problems with https://github.com/xlabtg/teleton-agent/pull/170",
-      "url": "https://github.com/link-assistant/hive-mind/issues/1549",
-      "createdAt": "2026-04-08T10:22:56.196Z",
+      "id": 1775643842947,
+      "repository": "ydb-platform/ydb-python-sdk",
+      "issueTitle": "bug: Task exception was never retrieved (BadSession: Session not found)",
+      "url": "https://github.com/ydb-platform/ydb-python-sdk/issues/569",
+      "createdAt": "2026-04-08T10:24:02.947Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
