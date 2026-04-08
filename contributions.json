@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775644402998,
+      "repository": "IINemo/lm-polygraph",
+      "issueTitle": "Bug: Incorrect Semantic Weight Scaling (/2) in Kernel Language Entropy (KLE) Leading to Severe Distortion of KLE Results",
+      "url": "https://github.com/IINemo/lm-polygraph/issues/442",
+      "createdAt": "2026-04-08T10:33:22.998Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
