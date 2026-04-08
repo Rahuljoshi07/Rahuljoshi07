@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775673093615,
+      "repository": "microsoft/applicationinsights-react-js",
+      "issueTitle": "[BUG] Type 'ReactPlugin' is not assignable to type 'ITelemetryPlugin'",
+      "url": "https://github.com/microsoft/applicationinsights-react-js/issues/95",
+      "createdAt": "2026-04-08T18:31:33.615Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
