@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775684511338,
+      "repository": "jupyter-ai-contrib/jupyter-server-documents",
+      "issueTitle": "Data duplication when re-connecting",
+      "url": "https://github.com/jupyter-ai-contrib/jupyter-server-documents/issues/210",
+      "createdAt": "2026-04-08T21:41:51.338Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
