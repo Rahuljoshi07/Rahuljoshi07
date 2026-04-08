@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775680844283,
+      "repository": "aws-solutions/aws-control-tower-customizations",
+      "issueTitle": "Dependency conflict: virtualenv pinned version incompatible with CodeBuild image's pipenv",
+      "url": "https://github.com/aws-solutions/aws-control-tower-customizations/issues/222",
+      "createdAt": "2026-04-08T20:40:44.283Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
