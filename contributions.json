@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775666709340,
+      "repository": "cap-js/change-tracking",
+      "issueTitle": "Changes are not correctly logged for \"one to many Composition\"",
+      "url": "https://github.com/cap-js/change-tracking/issues/238",
+      "createdAt": "2026-04-08T16:45:09.340Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
