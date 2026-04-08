@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775688391592,
+      "repository": "qualcomm/ai-hub-models",
+      "issueTitle": "[BUG] File bug report[SA8775 ADP][Qwen2.5-1.5B-Instruct] QNN context binary compile fails: Conv2d op validation failure (“BQ is not supported”)",
+      "url": "https://github.com/qualcomm/ai-hub-models/issues/280",
+      "createdAt": "2026-04-08T22:46:31.592Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
