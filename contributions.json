@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775608283009,
+      "repository": "aaronwmorris/indi-allsky",
+      "issueTitle": "Auto Gain issue on ASI224mc",
+      "url": "https://github.com/aaronwmorris/indi-allsky/issues/2843",
+      "createdAt": "2026-04-08T00:31:23.009Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
