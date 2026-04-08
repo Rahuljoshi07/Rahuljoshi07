@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775684703738,
+      "repository": "nextcloud/text",
+      "issueTitle": "Dashboard \"welcome and useful\" widget shows Readme.md content but URLs unclickable",
+      "url": "https://github.com/nextcloud/text/issues/8442",
+      "createdAt": "2026-04-08T21:45:03.738Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
