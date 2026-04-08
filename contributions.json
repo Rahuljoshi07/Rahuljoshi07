@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775646308945,
+      "repository": "tsukumijima/KonomiTV",
+      "issueTitle": "Intel第9世代CPU使用時にQSVEncCが利用できなくなった",
+      "url": "https://github.com/tsukumijima/KonomiTV/issues/216",
+      "createdAt": "2026-04-08T11:05:08.945Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
