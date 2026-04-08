@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775683197444,
+      "repository": "livekit/python-sdks",
+      "issueTitle": "H264-specific issue when subscribing to a WHIP ingress video track from Python.",
+      "url": "https://github.com/livekit/python-sdks/issues/592",
+      "createdAt": "2026-04-08T21:19:57.444Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
