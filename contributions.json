@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775676195288,
+      "repository": "microsoft/simplechat",
+      "issueTitle": "Optimize Hybrid Search for performance",
+      "url": "https://github.com/microsoft/simplechat/issues/822",
+      "createdAt": "2026-04-08T19:23:15.288Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
