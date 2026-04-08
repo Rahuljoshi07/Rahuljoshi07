@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775647476981,
+      "id": 1775647513998,
       "repository": "ether/ep_mathjax",
-      "issueTitle": "Can we get the improvement on maths equation support(ep_mathjax plugin) in etherpad-lite?",
-      "url": "https://github.com/ether/ep_mathjax/issues/4",
-      "createdAt": "2026-04-08T11:24:36.981Z",
+      "issueTitle": "Various bugs",
+      "url": "https://github.com/ether/ep_mathjax/issues/9",
+      "createdAt": "2026-04-08T11:25:13.998Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
