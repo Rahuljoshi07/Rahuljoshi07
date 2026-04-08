@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775643926991,
+      "repository": "AtelierSoude/OpenRepairPlatform",
+      "issueTitle": "FileNotFoundError: [Errno 2] No such file or directory: '/srv/media/media/avatar/RGB.jpg'",
+      "url": "https://github.com/AtelierSoude/OpenRepairPlatform/issues/337",
+      "createdAt": "2026-04-08T10:25:26.992Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
