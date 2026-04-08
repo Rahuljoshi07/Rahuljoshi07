@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775613005899,
+      "id": 1775613040567,
       "repository": "nextcloud/talk-desktop",
       "issueTitle": "[Meta] Issues on Wayland prevents Electron upgrade from 38.1.2",
       "url": "https://github.com/nextcloud/talk-desktop/issues/1640",
-      "createdAt": "2026-04-08T01:50:05.899Z",
+      "createdAt": "2026-04-08T01:50:40.567Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
