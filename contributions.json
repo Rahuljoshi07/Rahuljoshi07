@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775615657064,
+      "repository": "oy-snowwwww/claude-agent-viz",
+      "issueTitle": "Critical: Arbitrary file write via path traversal in PUT /api/master/project",
+      "url": "https://github.com/oy-snowwwww/claude-agent-viz/issues/2",
+      "createdAt": "2026-04-08T02:34:17.064Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
