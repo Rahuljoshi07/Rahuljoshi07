@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1775623770105,
-      "repository": "GoogleCloudPlatform/cloud-profiler-python",
-      "issueTitle": "Python 3.12 `xgboost.core.XGBoostError: Invalid Parameter format for nthread expect int but value='-1'` when `DMatrix` used with `import googlecloudprofiler`.",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-profiler-python/issues/144",
-      "createdAt": "2026-04-08T04:49:30.105Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
