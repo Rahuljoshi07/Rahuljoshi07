@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1775655765679,
-      "repository": "sbender9/signalk-anchoralarm-plugin",
-      "issueTitle": "Bug - Continual SignalK rebooting due to trying to print debug statement with null variable.",
-      "url": "https://github.com/sbender9/signalk-anchoralarm-plugin/issues/69",
-      "createdAt": "2026-04-08T13:42:45.679Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
