@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775669127298,
+      "repository": "FlatAssembler/PicoBlaze_Simulator_in_JS",
+      "issueTitle": "JavaScript responds incorrectly to the server returning `500 Internal Server Error` error",
+      "url": "https://github.com/FlatAssembler/PicoBlaze_Simulator_in_JS/issues/36",
+      "createdAt": "2026-04-08T17:25:27.298Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
