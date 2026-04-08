@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775652737326,
+      "repository": "hw-native-sys/pypto",
+      "issueTitle": "[Feature] Add span information to INTERNAL_CHECK / InternalError for better error source location",
+      "url": "https://github.com/hw-native-sys/pypto/issues/477",
+      "createdAt": "2026-04-08T12:52:17.326Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
