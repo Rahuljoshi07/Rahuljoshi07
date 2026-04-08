@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775657555283,
+      "repository": "babalae/bettergi-scripts-list",
+      "issueTitle": "[Bug]: 千星奇域每周成就经验刷取腳本報錯",
+      "url": "https://github.com/babalae/bettergi-scripts-list/issues/3089",
+      "createdAt": "2026-04-08T14:12:35.283Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
