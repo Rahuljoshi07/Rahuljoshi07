@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775624171694,
+      "repository": "python-social-auth/social-core",
+      "issueTitle": "VERIFY_X509_STRICT leads to Auth error \"certificate verify failed: Basic Constraints of CA cert not marked critical\"",
+      "url": "https://github.com/python-social-auth/social-core/issues/1567",
+      "createdAt": "2026-04-08T04:56:11.694Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
