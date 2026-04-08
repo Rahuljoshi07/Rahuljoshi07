@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775649927244,
+      "repository": "babalae/bettergi-scripts-list",
+      "issueTitle": "[Bug]: 采矿路线为什么唯独禁止铁块，说是“not planned”？觉得踏鞴砂2天不到3个很多吗？",
+      "url": "https://github.com/babalae/bettergi-scripts-list/issues/3010",
+      "createdAt": "2026-04-08T12:05:27.244Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
