@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775650665098,
+      "repository": "jentic/jentic-mini",
+      "issueTitle": "Credential edit form hides save button for OAuth/Pipedream credentials",
+      "url": "https://github.com/jentic/jentic-mini/issues/159",
+      "createdAt": "2026-04-08T12:17:45.098Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
