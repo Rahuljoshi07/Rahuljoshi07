@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775623375365,
+      "repository": "qbreader/website",
+      "issueTitle": "Fix handling of empty strings in `random_tossup` and `random_bonus`",
+      "url": "https://github.com/qbreader/website/issues/483",
+      "createdAt": "2026-04-08T04:42:55.365Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
