@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775635168203,
+      "repository": "digitalfabrik/lunes-cms",
+      "issueTitle": "Images in word list and exercises load very slowly",
+      "url": "https://github.com/digitalfabrik/lunes-cms/issues/704",
+      "createdAt": "2026-04-08T07:59:28.203Z",
+      "type": "comment",
+      "content": "Consider caching with functools.lru_cache for expensive computations. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
