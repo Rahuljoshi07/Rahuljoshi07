@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1775680165821,
-      "repository": "vllm-project/vllm-metal",
-      "issueTitle": "[Bug] VLM text-only inference crashes EngineCore with `TypeError: Model.__call__() missing 2 required positional arguments: 'pixel_values' and 'mask'`",
-      "url": "https://github.com/vllm-project/vllm-metal/issues/244",
-      "createdAt": "2026-04-08T20:29:25.821Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
