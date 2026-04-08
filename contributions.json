@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775691451573,
+      "repository": "barneyonline/ha-enphase-energy",
+      "issueTitle": "EV Charger power sensor lags significantly due to lifetime_energy_window method",
+      "url": "https://github.com/barneyonline/ha-enphase-energy/issues/493",
+      "createdAt": "2026-04-08T23:37:31.573Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
