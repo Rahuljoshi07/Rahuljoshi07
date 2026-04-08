@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775643776196,
+      "repository": "link-assistant/hive-mind",
+      "issueTitle": "Problems with https://github.com/xlabtg/teleton-agent/pull/170",
+      "url": "https://github.com/link-assistant/hive-mind/issues/1549",
+      "createdAt": "2026-04-08T10:22:56.196Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
