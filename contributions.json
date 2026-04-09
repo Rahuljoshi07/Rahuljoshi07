@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775699187433,
+      "repository": "cocktailpeanutlabs/fooocus",
+      "issueTitle": "moc os x bug not install",
+      "url": "https://github.com/cocktailpeanutlabs/fooocus/issues/3",
+      "createdAt": "2026-04-09T01:46:27.433Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
