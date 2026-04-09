@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775718093566,
+      "repository": "plone/volto",
+      "issueTitle": "Content without categorization behavior causes errors in view on multilingual sites",
+      "url": "https://github.com/plone/volto/issues/7309",
+      "createdAt": "2026-04-09T07:01:33.566Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
