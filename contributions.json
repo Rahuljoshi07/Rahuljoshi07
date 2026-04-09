@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775716228749,
+      "repository": "reactjs/ko.react.dev",
+      "issueTitle": "[Bug]: useActionState 페이지에서 클라이언트 사이드 에러 발생 및 내용이 최신 React 19 문서와 동기화되지 않음",
+      "url": "https://github.com/reactjs/ko.react.dev/issues/1491",
+      "createdAt": "2026-04-09T06:30:28.749Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
