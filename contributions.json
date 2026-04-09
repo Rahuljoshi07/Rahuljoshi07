@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775740750668,
+      "id": 1775740785241,
       "repository": "Joanium/Joanium",
-      "issueTitle": "[Bug]: Inbuilt MCP fails to boot",
-      "url": "https://github.com/Joanium/Joanium/issues/22",
-      "createdAt": "2026-04-09T13:19:10.668Z",
+      "issueTitle": "[Bug]: Add support for thinking output",
+      "url": "https://github.com/Joanium/Joanium/issues/23",
+      "createdAt": "2026-04-09T13:19:45.241Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
