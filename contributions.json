@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775738119466,
+      "repository": "asus-linux-drivers/asus-dialpad-driver",
+      "issueTitle": "[Bug]: active window detection fails on Ubuntu GNOME Wayland; DialPad input works but KDE KWin path is used",
+      "url": "https://github.com/asus-linux-drivers/asus-dialpad-driver/issues/28",
+      "createdAt": "2026-04-09T12:35:19.466Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
