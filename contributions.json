@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775718421889,
+      "repository": "red-hat-storage/ocs-ci",
+      "issueTitle": "PVC UI tests intermittent failure due to StaleElementReferenceException",
+      "url": "https://github.com/red-hat-storage/ocs-ci/issues/14856",
+      "createdAt": "2026-04-09T07:07:01.889Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
