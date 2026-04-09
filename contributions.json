@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1775744995270,
+      "id": 1775745037868,
       "repository": "nextcloud/contacts",
-      "issueTitle": "Duplication of contact when inviting guest user for Files",
-      "url": "https://github.com/nextcloud/contacts/issues/5246",
-      "createdAt": "2026-04-09T14:29:55.270Z",
+      "issueTitle": "Drag & Drop assignment of Contacts only works reliably when marking the contact first.",
+      "url": "https://github.com/nextcloud/contacts/issues/5244",
+      "createdAt": "2026-04-09T14:30:37.868Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
