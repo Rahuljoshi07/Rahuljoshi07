@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775707919698,
+      "repository": "locomanip-duet/RoboDuet",
+      "issueTitle": "Issue with wo_two_stage and use_rot6d Parameters Configuration",
+      "url": "https://github.com/locomanip-duet/RoboDuet/issues/6",
+      "createdAt": "2026-04-09T04:11:59.698Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
