@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775716774344,
+      "repository": "pierreb-devkit/Node",
+      "issueTitle": "Use logger instead of console.error in stack modules",
+      "url": "https://github.com/pierreb-devkit/Node/issues/3434",
+      "createdAt": "2026-04-09T06:39:34.344Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
