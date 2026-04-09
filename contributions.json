@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775712860234,
+      "repository": "elesiuta/picosnitch",
+      "issueTitle": "BPF.support_kfunc error while running",
+      "url": "https://github.com/elesiuta/picosnitch/issues/42",
+      "createdAt": "2026-04-09T05:34:20.234Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
