@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775757906100,
+      "repository": "DataJunction/dj",
+      "issueTitle": "Fix display bug for auto-registered source nodes in UI",
+      "url": "https://github.com/DataJunction/dj/issues/1977",
+      "createdAt": "2026-04-09T18:05:06.100Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
