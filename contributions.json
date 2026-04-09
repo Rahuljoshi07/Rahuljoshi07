@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775719000291,
+      "repository": "infinispan/js-client",
+      "issueTitle": "Update Infinispan Simple Tutorial",
+      "url": "https://github.com/infinispan/js-client/issues/102",
+      "createdAt": "2026-04-09T07:16:40.291Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
