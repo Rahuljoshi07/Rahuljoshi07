@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775744841590,
+      "repository": "srp33/CodeBuddy",
+      "issueTitle": "Teaching assistants see a button to export (and/or import), but they don't actually have permission to do it?",
+      "url": "https://github.com/srp33/CodeBuddy/issues/416",
+      "createdAt": "2026-04-09T14:27:21.590Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
