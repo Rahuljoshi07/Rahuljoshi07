@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775721451321,
+      "repository": "LMCache/LMCache-Ascend",
+      "issueTitle": "[BUG]EngineCore failed to start with aclrtHostRegister error (errcode: 507899)",
+      "url": "https://github.com/LMCache/LMCache-Ascend/issues/197",
+      "createdAt": "2026-04-09T07:57:31.321Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
