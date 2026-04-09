@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775745711363,
+      "repository": "seriaati/hoyo-buddy",
+      "issueTitle": "Traveling Mimo errors still suggest to use /mimo to configure",
+      "url": "https://github.com/seriaati/hoyo-buddy/issues/589",
+      "createdAt": "2026-04-09T14:41:51.363Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
