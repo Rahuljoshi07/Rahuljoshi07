@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775700796926,
+      "repository": "microsoft/fabric-rti-mcp",
+      "issueTitle": "Bug: servertimeout in client_request_properties crashes with TypeError",
+      "url": "https://github.com/microsoft/fabric-rti-mcp/issues/137",
+      "createdAt": "2026-04-09T02:13:16.926Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
