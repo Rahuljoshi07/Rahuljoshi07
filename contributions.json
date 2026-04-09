@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775713776422,
+      "repository": "zhiyu1998/rconsole-plugin",
+      "issueTitle": "[Bug]:现在要怎么更新R插件",
+      "url": "https://github.com/zhiyu1998/rconsole-plugin/issues/142",
+      "createdAt": "2026-04-09T05:49:36.422Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
