@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775751626057,
+      "repository": "filestack/filestack-react",
+      "issueTitle": "Vite fails to resolve errors with 6.0.0",
+      "url": "https://github.com/filestack/filestack-react/issues/157",
+      "createdAt": "2026-04-09T16:20:26.057Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
