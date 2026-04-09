@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775697212698,
+      "repository": "robertmuth/Cwerg",
+      "issueTitle": "add basic tailcall optimization",
+      "url": "https://github.com/robertmuth/Cwerg/issues/2",
+      "createdAt": "2026-04-09T01:13:32.698Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
