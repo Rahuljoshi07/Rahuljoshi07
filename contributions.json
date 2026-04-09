@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775759852344,
+      "repository": "langchain-ai/langsmith-sdk",
+      "issueTitle": "BUG: Experiment snapshots always show pre-update example outputs after update_example()",
+      "url": "https://github.com/langchain-ai/langsmith-sdk/issues/2430",
+      "createdAt": "2026-04-09T18:37:32.344Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
