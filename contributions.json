@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775753784582,
+      "repository": "G4brym/django-cf",
+      "issueTitle": "Wagtail v6.2 migration error",
+      "url": "https://github.com/G4brym/django-cf/issues/3",
+      "createdAt": "2026-04-09T16:56:24.582Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
