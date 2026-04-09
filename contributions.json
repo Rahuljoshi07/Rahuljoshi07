@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775774290350,
+      "repository": "openyak/openyak",
+      "issueTitle": "custom endpoint Isnt getting saved and giving error",
+      "url": "https://github.com/openyak/openyak/issues/10",
+      "createdAt": "2026-04-09T22:38:10.350Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
