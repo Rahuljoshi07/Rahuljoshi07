@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775725808236,
+      "repository": "open-edge-platform/physical-ai-studio",
+      "issueTitle": "[Bug]: Inference loop error: cannot convert float NaN to integer",
+      "url": "https://github.com/open-edge-platform/physical-ai-studio/issues/452",
+      "createdAt": "2026-04-09T09:10:08.236Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
