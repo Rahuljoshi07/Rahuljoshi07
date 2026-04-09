@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775734835442,
+      "repository": "xenoncolt/AutoQuestComplete",
+      "issueTitle": "not really an issue, just to inform",
+      "url": "https://github.com/xenoncolt/AutoQuestComplete/issues/11",
+      "createdAt": "2026-04-09T11:40:35.442Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
