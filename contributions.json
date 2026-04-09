@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775732563118,
+      "repository": "infinispan/js-client",
+      "issueTitle": "Replace test server scripts with Docker Compose",
+      "url": "https://github.com/infinispan/js-client/issues/138",
+      "createdAt": "2026-04-09T11:02:43.118Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. This suggestion i..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
