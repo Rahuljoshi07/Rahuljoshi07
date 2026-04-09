@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775728470488,
+      "repository": "mjeanroy/rollup-plugin-license",
+      "issueTitle": "an error has occurred when a package license is not array",
+      "url": "https://github.com/mjeanroy/rollup-plugin-license/issues/2107",
+      "createdAt": "2026-04-09T09:54:30.488Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
