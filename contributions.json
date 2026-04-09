@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775699853215,
+      "repository": "lawrencehook/remove-youtube-suggestions",
+      "issueTitle": "Add warning about bug when used with PocketTube",
+      "url": "https://github.com/lawrencehook/remove-youtube-suggestions/issues/203",
+      "createdAt": "2026-04-09T01:57:33.215Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
