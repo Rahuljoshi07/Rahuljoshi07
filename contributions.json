@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775767067888,
+      "repository": "pymmcore-plus/pymmcore-plus",
+      "issueTitle": "`pymmcore-plus` acquisitions throw OOM error when using `acquire-zarr` v0.7.0 and compression",
+      "url": "https://github.com/pymmcore-plus/pymmcore-plus/issues/611",
+      "createdAt": "2026-04-09T20:37:47.889Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
