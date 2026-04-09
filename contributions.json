@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775717821526,
+      "repository": "bpmn-io/bpmn-js-token-simulation",
+      "issueTitle": "Keyboard navigation through context pad is not deterministic",
+      "url": "https://github.com/bpmn-io/bpmn-js-token-simulation/issues/254",
+      "createdAt": "2026-04-09T06:57:01.526Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
