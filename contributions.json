@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1775719320513,
-      "repository": "microlinkhq/react-json-view",
-      "issueTitle": "ReferenceError: document is not defined when importing the package in Next.js (SSR / RSC)",
-      "url": "https://github.com/microlinkhq/react-json-view/issues/149",
-      "createdAt": "2026-04-09T07:22:00.513Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
