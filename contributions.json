@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775734660960,
+      "repository": "neoxr/neoxr-bot",
+      "issueTitle": "[BUG]",
+      "url": "https://github.com/neoxr/neoxr-bot/issues/182",
+      "createdAt": "2026-04-09T11:37:40.960Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
