@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775779131419,
+      "repository": "southoz/dArkOSRE-R36",
+      "issueTitle": "Y3506_V05_20251215 2551 2601 - Black Screen on retroarch exit",
+      "url": "https://github.com/southoz/dArkOSRE-R36/issues/103",
+      "createdAt": "2026-04-09T23:58:51.419Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
