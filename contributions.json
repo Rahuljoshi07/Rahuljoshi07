@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775749972457,
+      "repository": "jentic/jentic-mini",
+      "issueTitle": "refactor: rename _client_ip to client_ip (public API)",
+      "url": "https://github.com/jentic/jentic-mini/issues/200",
+      "createdAt": "2026-04-09T15:52:52.457Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
