@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775720272118,
+      "repository": "boschresearch/pylife",
+      "issueTitle": "Implement basic goodman meanstress transformation in Cython",
+      "url": "https://github.com/boschresearch/pylife/issues/232",
+      "createdAt": "2026-04-09T07:37:52.118Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
