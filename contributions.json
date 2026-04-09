@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775747654711,
+      "repository": "nanoporetech/pomoxis",
+      "issueTitle": "Issues with split_fastx command using pomoxis assem_assembly",
+      "url": "https://github.com/nanoporetech/pomoxis/issues/52",
+      "createdAt": "2026-04-09T15:14:14.711Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
