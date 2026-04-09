@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775758097738,
+      "repository": "2Abendsegler/GClh",
+      "issueTitle": "[Global] User menu does not work in browser Safari",
+      "url": "https://github.com/2Abendsegler/GClh/issues/2416",
+      "createdAt": "2026-04-09T18:08:17.738Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
