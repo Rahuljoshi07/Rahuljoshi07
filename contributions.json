@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775741738254,
+      "repository": "TeamWertarbyte/mdi-material-ui",
+      "issueTitle": "More efficient imports",
+      "url": "https://github.com/TeamWertarbyte/mdi-material-ui/issues/53",
+      "createdAt": "2026-04-09T13:35:38.254Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
