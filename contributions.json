@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775731478006,
+      "repository": "SUSE/suse-migration-services",
+      "issueTitle": "Issue in \"After the Migration\"",
+      "url": "https://github.com/SUSE/suse-migration-services/issues/265",
+      "createdAt": "2026-04-09T10:44:38.006Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
