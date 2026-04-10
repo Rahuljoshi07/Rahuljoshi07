@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775836247103,
+      "repository": "digitalfox/pydici",
+      "issueTitle": "not able to serve static files giving get request 404",
+      "url": "https://github.com/digitalfox/pydici/issues/211",
+      "createdAt": "2026-04-10T15:50:47.103Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
