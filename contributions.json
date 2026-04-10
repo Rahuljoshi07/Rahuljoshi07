@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775799971453,
+      "repository": "eNkru/freelook",
+      "issueTitle": "Error AADSTS90023",
+      "url": "https://github.com/eNkru/freelook/issues/71",
+      "createdAt": "2026-04-10T05:46:11.453Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
