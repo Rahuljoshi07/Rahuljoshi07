@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775833442552,
+      "repository": "calkit/calkit",
+      "issueTitle": "Julia startup files should be handled properly",
+      "url": "https://github.com/calkit/calkit/issues/807",
+      "createdAt": "2026-04-10T15:04:02.552Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
