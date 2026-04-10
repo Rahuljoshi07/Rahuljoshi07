@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775802513663,
+      "repository": "tomcounsell/ai",
+      "issueTitle": "bug: _cli_show_status summary miscounts — leaked loop variable at agent_session_queue.py:3715",
+      "url": "https://github.com/tomcounsell/ai/issues/869",
+      "createdAt": "2026-04-10T06:28:33.663Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
