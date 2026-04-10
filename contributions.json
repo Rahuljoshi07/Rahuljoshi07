@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775820576246,
+      "repository": "marado/TalkerNode",
+      "issueTitle": ".dig not allowing to make connections",
+      "url": "https://github.com/marado/TalkerNode/issues/145",
+      "createdAt": "2026-04-10T11:29:36.246Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
