@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775826353595,
+      "repository": "MazzaWill/neo4j-python-pandas-py2neo-v3",
+      "issueTitle": "json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+      "url": "https://github.com/MazzaWill/neo4j-python-pandas-py2neo-v3/issues/21",
+      "createdAt": "2026-04-10T13:05:53.595Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
