@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775830116001,
+      "repository": "lincc-frameworks/nested-pandas",
+      "issueTitle": "Investigate `_SeriesFromNest` missing metadata with specific environments",
+      "url": "https://github.com/lincc-frameworks/nested-pandas/issues/437",
+      "createdAt": "2026-04-10T14:08:36.001Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
