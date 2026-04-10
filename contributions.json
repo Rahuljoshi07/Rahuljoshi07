@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1775793899952,
-      "repository": "apache/cordova-cli",
-      "issueTitle": "SystemError [ERR_FS_CP_EINVAL]: Invalid src or dest: cp returned EINVAL during command cordova platform add android",
-      "url": "https://github.com/apache/cordova-cli/issues/661",
-      "createdAt": "2026-04-10T04:04:59.952Z",
-      "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
