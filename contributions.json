@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775865568096,
+      "repository": "petermcd/monzo-api",
+      "issueTitle": "[BUG] Source tarball builds incorrectly",
+      "url": "https://github.com/petermcd/monzo-api/issues/78",
+      "createdAt": "2026-04-10T23:59:28.096Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
