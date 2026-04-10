@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775813059456,
+      "repository": "canonical/postgresql-operator",
+      "issueTitle": "Deployment guide using Terraform is not working - for 14 and 16",
+      "url": "https://github.com/canonical/postgresql-operator/issues/1606",
+      "createdAt": "2026-04-10T09:24:19.456Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
