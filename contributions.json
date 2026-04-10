@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775815455164,
+      "repository": "NicoIIT/ha-ble-adv",
+      "issueTitle": "ESP32 2102 not working with FanLamp Pro phone app (but worked using device remote)",
+      "url": "https://github.com/NicoIIT/ha-ble-adv/issues/218",
+      "createdAt": "2026-04-10T10:04:15.164Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
