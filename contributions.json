@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775843405188,
+      "repository": "NVIDIA/nvalchemi-toolkit-ops",
+      "issueTitle": "🐛[BUG]: retain_graph=True fails with warp_custom_op backward: \"no autograd formula was registered\"",
+      "url": "https://github.com/NVIDIA/nvalchemi-toolkit-ops/issues/63",
+      "createdAt": "2026-04-10T17:50:05.188Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
