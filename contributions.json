@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775787281186,
+      "repository": "strands-agents/agent-sop",
+      "issueTitle": "Security scan results for agent-sop: 2 issues found",
+      "url": "https://github.com/strands-agents/agent-sop/issues/57",
+      "createdAt": "2026-04-10T02:14:41.186Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
