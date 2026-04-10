@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775788859100,
+      "repository": "yedp123/ComfyUI-Yedp-Action-Director",
+      "issueTitle": "LFS budget issue?",
+      "url": "https://github.com/yedp123/ComfyUI-Yedp-Action-Director/issues/16",
+      "createdAt": "2026-04-10T02:40:59.100Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
