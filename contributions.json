@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775822560001,
+      "repository": "DevSnicket/eunice",
+      "issueTitle": "unknown C# issue in static local function",
+      "url": "https://github.com/DevSnicket/eunice/issues/180",
+      "createdAt": "2026-04-10T12:02:40.001Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
