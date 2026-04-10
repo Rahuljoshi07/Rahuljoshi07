@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775846092167,
+      "repository": "homelab-00/TranscriptionSuite",
+      "issueTitle": "RuntimeError: [metal::malloc] Attempting to allocate 88974537792 bytes which is greater than the maximum allowed buffer size of 20100448256 bytes.",
+      "url": "https://github.com/homelab-00/TranscriptionSuite/issues/66",
+      "createdAt": "2026-04-10T18:34:52.167Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
