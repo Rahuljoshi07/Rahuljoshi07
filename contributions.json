@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775793486475,
+      "repository": "AMD-AGI/GEAK",
+      "issueTitle": "Unit test harness generation not pass timeout strict",
+      "url": "https://github.com/AMD-AGI/GEAK/issues/123",
+      "createdAt": "2026-04-10T03:58:06.475Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
