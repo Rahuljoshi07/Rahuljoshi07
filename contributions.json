@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775818187131,
+      "repository": "RaspberryPiFoundation/editor-ui",
+      "issueTitle": "CORS issue with badge images",
+      "url": "https://github.com/RaspberryPiFoundation/editor-ui/issues/1424",
+      "createdAt": "2026-04-10T10:49:47.131Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
