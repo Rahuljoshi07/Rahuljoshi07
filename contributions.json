@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775844733014,
+      "repository": "afermg/cp_measure",
+      "issueTitle": "Measurements slow down as number of masks increases",
+      "url": "https://github.com/afermg/cp_measure/issues/6",
+      "createdAt": "2026-04-10T18:12:13.014Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
