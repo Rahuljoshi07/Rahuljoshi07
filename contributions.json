@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775830326818,
+      "repository": "slyapustin/django-classified",
+      "issueTitle": "Deactivate outdated items",
+      "url": "https://github.com/slyapustin/django-classified/issues/15",
+      "createdAt": "2026-04-10T14:12:06.818Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
