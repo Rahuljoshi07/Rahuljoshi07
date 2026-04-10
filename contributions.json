@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775797806307,
+      "repository": "microsoft/multilspy",
+      "issueTitle": "Kotlin hover tests flaky: KLS NullPointerException when Gradle classpath resolution fails in CI",
+      "url": "https://github.com/microsoft/multilspy/issues/134",
+      "createdAt": "2026-04-10T05:10:06.307Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
