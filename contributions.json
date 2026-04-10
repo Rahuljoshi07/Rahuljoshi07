@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775831148568,
+      "repository": "tomcounsell/ai",
+      "issueTitle": "Email bridge: add email as a secondary inbox/outbox transport alongside Telegram",
+      "url": "https://github.com/tomcounsell/ai/issues/847",
+      "createdAt": "2026-04-10T14:25:48.568Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
