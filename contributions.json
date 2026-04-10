@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775848706915,
+      "repository": "Arize-ai/openinference",
+      "issueTitle": "[bug] openinference-instrumentation-agno: arun_stream drops output.value when stream closes after final RunOutput",
+      "url": "https://github.com/Arize-ai/openinference/issues/2976",
+      "createdAt": "2026-04-10T19:18:26.916Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
