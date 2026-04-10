@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775797200457,
+      "repository": "LainsNL/OutlookRegister",
+      "issueTitle": "patchright操作按压多次后仍需按压检测 最后提示[Error: IP] - 加载超时或因触发机器人检测导致按压次数达到最大仍未通过。",
+      "url": "https://github.com/LainsNL/OutlookRegister/issues/21",
+      "createdAt": "2026-04-10T05:00:00.457Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
