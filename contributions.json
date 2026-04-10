@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775798642162,
+      "repository": "muyouzhi6/astrbot_plugin_gitee_aiimg",
+      "issueTitle": "[bug] ai edit/自拍的时候 gemini_native 鉴权不匹配",
+      "url": "https://github.com/muyouzhi6/astrbot_plugin_gitee_aiimg/issues/25",
+      "createdAt": "2026-04-10T05:24:02.162Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
