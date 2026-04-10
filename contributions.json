@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1775782450343,
+      "id": 1775782483398,
       "repository": "demmings/gsSQL",
-      "issueTitle": "Date comparison not valid  when NON DATE characters are in column.",
-      "url": "https://github.com/demmings/gsSQL/issues/58",
-      "createdAt": "2026-04-10T00:54:10.343Z",
+      "issueTitle": "Calculation using two AGGREGATE functions FAILS.",
+      "url": "https://github.com/demmings/gsSQL/issues/62",
+      "createdAt": "2026-04-10T00:54:43.398Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
