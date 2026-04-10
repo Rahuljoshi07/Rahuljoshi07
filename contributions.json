@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1775816459216,
-      "repository": "raindropio/mobile",
-      "issueTitle": "[Bug] VC 8968937 crashes, with an `IllegalStateException`, when `keyevent KEYCODE_BACK` is `input` during bookmark addition.",
-      "url": "https://github.com/raindropio/mobile/issues/58",
-      "createdAt": "2026-04-10T10:20:59.216Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
