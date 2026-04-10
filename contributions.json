@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775853664523,
+      "repository": "Horace-Maxwell/horosa-skill",
+      "issueTitle": "[Bug] 特定日期触发 /nongli/time 模块越界崩溃 (begin 1, end 3, length 1)",
+      "url": "https://github.com/Horace-Maxwell/horosa-skill/issues/3",
+      "createdAt": "2026-04-10T20:41:04.523Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
