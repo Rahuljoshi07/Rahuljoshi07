@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775814097323,
+      "repository": "Aohzan/hass-prixcarburant",
+      "issueTitle": "Price variation of -0,0000000000000007 €/l",
+      "url": "https://github.com/Aohzan/hass-prixcarburant/issues/159",
+      "createdAt": "2026-04-10T09:41:37.323Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
