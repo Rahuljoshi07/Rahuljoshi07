@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775859565509,
+      "repository": "jedie/django-reversion-compare",
+      "issueTitle": "Unclear warning \"Fields/entries marked with * are not under reversion control. It may be that not all marked information are correct.\"",
+      "url": "https://github.com/jedie/django-reversion-compare/issues/259",
+      "createdAt": "2026-04-10T22:19:25.509Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
