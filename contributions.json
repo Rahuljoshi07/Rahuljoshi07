@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775817844049,
+      "repository": "TiBillet/Lespass",
+      "issueTitle": "Filtre par date tableau comptable des ventes ne fonctionne pas",
+      "url": "https://github.com/TiBillet/Lespass/issues/384",
+      "createdAt": "2026-04-10T10:44:04.049Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
