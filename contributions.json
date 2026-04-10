@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775836778060,
+      "repository": "taurgis/has-marstek-local-api",
+      "issueTitle": "Bug: total grid input and output sensors never change",
+      "url": "https://github.com/taurgis/has-marstek-local-api/issues/21",
+      "createdAt": "2026-04-10T15:59:38.060Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
