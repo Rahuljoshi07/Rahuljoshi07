@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775843962201,
+      "repository": "GoogleChrome/chromium-dashboard",
+      "issueTitle": "My third party apps no longer have run capabilities.",
+      "url": "https://github.com/GoogleChrome/chromium-dashboard/issues/6247",
+      "createdAt": "2026-04-10T17:59:22.201Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
