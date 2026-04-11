@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775875889576,
+      "repository": "hw-native-sys/pypto",
+      "issueTitle": "[Bug] ExpandMixedKernel drops matmul when output is sliced before vector consumption",
+      "url": "https://github.com/hw-native-sys/pypto/issues/963",
+      "createdAt": "2026-04-11T02:51:29.576Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
