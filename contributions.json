@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775866098138,
-      "repository": "daisy/ace",
-      "issueTitle": "role=tree without children triggering axe error",
-      "url": "https://github.com/daisy/ace/issues/456",
-      "createdAt": "2026-04-11T00:08:18.138Z",
+      "id": 1775866133030,
+      "repository": "toolforge/video2commons",
+      "issueTitle": "[Bug]: An exception occurred: TaskError: pywikibot.Error",
+      "url": "https://github.com/toolforge/video2commons/issues/356",
+      "createdAt": "2026-04-11T00:08:53.030Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
