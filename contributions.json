@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775898253825,
+      "repository": "RuchiTanmay/nselib",
+      "issueTitle": "constituent_stock_list: ValueError: No such category in config: NiftyBroadMarketIndices",
+      "url": "https://github.com/RuchiTanmay/nselib/issues/98",
+      "createdAt": "2026-04-11T09:04:13.825Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
