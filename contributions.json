@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1775871408884,
-      "repository": "aws-neuron/aws-neuron-sdk",
-      "issueTitle": "NCC_ILLC059: nkc.collectives.all_reduce (SBUF or HBM) fails to compile when tp_degree >= 2 and   NEURON_LOGICAL_NC_CONFIG=2",
-      "url": "https://github.com/aws-neuron/aws-neuron-sdk/issues/1305",
-      "createdAt": "2026-04-11T01:36:48.884Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
