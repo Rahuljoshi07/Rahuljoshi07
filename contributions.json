@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775949089809,
+      "id": 1775949128114,
       "repository": "dmonad/lib0",
-      "issueTitle": "ObservableV2 template is too permissive",
-      "url": "https://github.com/dmonad/lib0/issues/83",
-      "createdAt": "2026-04-11T23:11:29.809Z",
+      "issueTitle": "sideEffects and tree-shaking",
+      "url": "https://github.com/dmonad/lib0/issues/58",
+      "createdAt": "2026-04-11T23:12:08.114Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
