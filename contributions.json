@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775927082078,
+      "repository": "DjangoCRM/django-crm",
+      "issueTitle": "Create unit tests for the file_upload view",
+      "url": "https://github.com/DjangoCRM/django-crm/issues/410",
+      "createdAt": "2026-04-11T17:04:42.078Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. This suggestion is particularly relevant..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
