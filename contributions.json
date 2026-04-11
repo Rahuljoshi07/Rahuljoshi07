@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1775932478572,
+      "id": 1775932528392,
       "repository": "nikkiluzader/mapng",
       "issueTitle": "[BUG] Coordinate input fields prevent high-precision manual entry (Precision Clamping)",
       "url": "https://github.com/nikkiluzader/mapng/issues/3",
-      "createdAt": "2026-04-11T18:34:38.572Z",
+      "createdAt": "2026-04-11T18:35:28.392Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
