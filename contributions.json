@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775925339613,
+      "repository": "cuttle-cards/cuttle",
+      "issueTitle": "[DevEx]: Refactor to consolidate `check-game-state-for-win` and `check-game-state-for-win-sync`",
+      "url": "https://github.com/cuttle-cards/cuttle/issues/1325",
+      "createdAt": "2026-04-11T16:35:39.614Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
