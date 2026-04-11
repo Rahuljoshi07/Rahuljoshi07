@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775905434960,
+      "repository": "chhuax/praxis-devos",
+      "issueTitle": "[中] /devos-docs-init 存在重复写入与证据收敛不稳定问题",
+      "url": "https://github.com/chhuax/praxis-devos/issues/60",
+      "createdAt": "2026-04-11T11:03:54.960Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
