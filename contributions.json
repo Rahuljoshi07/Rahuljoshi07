@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775873509851,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Pin .pre-commit-config.yaml hook versions to immutable SHAs",
+      "url": "https://github.com/OWASP/Nest/issues/4527",
+      "createdAt": "2026-04-11T02:11:49.851Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
