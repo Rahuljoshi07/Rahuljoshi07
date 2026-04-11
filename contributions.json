@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1775916214921,
-      "repository": "OpenLake/Student_Database_COSA",
-      "issueTitle": "Room booking race condition — two concurrent requests can double-book the same slot",
-      "url": "https://github.com/OpenLake/Student_Database_COSA/issues/242",
-      "createdAt": "2026-04-11T14:03:34.921Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
