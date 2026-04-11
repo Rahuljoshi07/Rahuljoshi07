@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775908160769,
+      "repository": "deeppavlov/AutoIntent",
+      "issueTitle": "Проблема с удалением артефактов (?) в _optimization_info.py",
+      "url": "https://github.com/deeppavlov/AutoIntent/issues/262",
+      "createdAt": "2026-04-11T11:49:20.769Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
