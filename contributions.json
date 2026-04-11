@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775914656309,
+      "repository": "nowledge-co/community",
+      "issueTitle": "[bug] ChatGPT HTML bulk import failed.",
+      "url": "https://github.com/nowledge-co/community/issues/181",
+      "createdAt": "2026-04-11T13:37:36.309Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
