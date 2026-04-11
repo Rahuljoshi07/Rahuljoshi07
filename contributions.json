@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775900495117,
+      "id": 1775900529150,
       "repository": "DevSnicket/eunice",
       "issueTitle": "unknown C# issue in static local function",
       "url": "https://github.com/DevSnicket/eunice/issues/180",
-      "createdAt": "2026-04-11T09:41:35.117Z",
+      "createdAt": "2026-04-11T09:42:09.150Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
