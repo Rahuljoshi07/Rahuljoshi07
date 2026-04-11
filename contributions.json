@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775908471209,
+      "repository": "infinito-nexus/core",
+      "issueTitle": "[Bug]: Compose build fails because Docker cannot resolve `ghcr.io` during Postgres image build",
+      "url": "https://github.com/infinito-nexus/core/issues/150",
+      "createdAt": "2026-04-11T11:54:31.209Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
