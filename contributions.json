@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775944772791,
+      "repository": "Unsupervisedcom/deepwork",
+      "issueTitle": "Sub-agents cannot call MCP tools due to agent-type tool restrictions",
+      "url": "https://github.com/Unsupervisedcom/deepwork/issues/341",
+      "createdAt": "2026-04-11T21:59:32.791Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
