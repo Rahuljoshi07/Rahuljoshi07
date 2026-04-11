@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775940171009,
+      "repository": "evilz/vscode-reveal",
+      "issueTitle": "Replace the timeout-based HTML export flow with an explicit completion signal",
+      "url": "https://github.com/evilz/vscode-reveal/issues/1403",
+      "createdAt": "2026-04-11T20:42:51.009Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
