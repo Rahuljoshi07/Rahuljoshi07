@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775915338519,
+      "repository": "wikimedia/stylelint-config-wikimedia",
+      "issueTitle": "Bug report: Fix imports for ESM-style module resolution for all rules to be applied",
+      "url": "https://github.com/wikimedia/stylelint-config-wikimedia/issues/267",
+      "createdAt": "2026-04-11T13:48:58.519Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
