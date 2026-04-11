@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775936682602,
+      "repository": "tolwi/hassio-ecoflow-cloud",
+      "issueTitle": "[Bug]:  46 PowerStream online status and values ​​\"flicker\"",
+      "url": "https://github.com/tolwi/hassio-ecoflow-cloud/issues/692",
+      "createdAt": "2026-04-11T19:44:42.603Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
