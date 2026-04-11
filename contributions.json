@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775943670180,
+      "repository": "nodejs/node-core-utils",
+      "issueTitle": "git node wpt <name> crashes if <name> isn't found",
+      "url": "https://github.com/nodejs/node-core-utils/issues/664",
+      "createdAt": "2026-04-11T21:41:10.181Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
