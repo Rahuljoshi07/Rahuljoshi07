@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775929121044,
+      "repository": "GTBitsOfGood/VolunTrack",
+      "issueTitle": "[PMT] - Greptile-Found Bugs",
+      "url": "https://github.com/GTBitsOfGood/VolunTrack/issues/540",
+      "createdAt": "2026-04-11T17:38:41.044Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
