@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775868818516,
+      "repository": "amancevice/terraform-aws-slackbot",
+      "issueTitle": "A few Terraform tweaks for the serverless Slackbot (Cost safeguards & API Gateway/Lambda hardening)",
+      "url": "https://github.com/amancevice/terraform-aws-slackbot/issues/17",
+      "createdAt": "2026-04-11T00:53:38.516Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
