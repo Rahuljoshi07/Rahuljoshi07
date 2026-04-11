@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775931191764,
+      "repository": "rg-engineering/ioBroker.ebus",
+      "issueTitle": "Version 4.0.1 does not open the configuration page",
+      "url": "https://github.com/rg-engineering/ioBroker.ebus/issues/513",
+      "createdAt": "2026-04-11T18:13:11.764Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
