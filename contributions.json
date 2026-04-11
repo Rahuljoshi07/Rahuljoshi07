@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775865749866,
+      "repository": "toebes/ciphers",
+      "issueTitle": "The \"Autosolver unable to completely solve Checkerboard\" error occurs after the TQ",
+      "url": "https://github.com/toebes/ciphers/issues/776",
+      "createdAt": "2026-04-11T00:02:29.866Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
