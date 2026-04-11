@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775903227017,
+      "repository": "daisy/ace-gui",
+      "issueTitle": "\"did-fail-load\" error message \"Failed to check Content Document\", v1.3.6 and other past versions?",
+      "url": "https://github.com/daisy/ace-gui/issues/184",
+      "createdAt": "2026-04-11T10:27:07.017Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
