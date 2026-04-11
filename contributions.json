@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775922076932,
+      "repository": "pglombardo/pwpush-cli",
+      "issueTitle": "Unable to connect to own Docker instance",
+      "url": "https://github.com/pglombardo/pwpush-cli/issues/1093",
+      "createdAt": "2026-04-11T15:41:16.932Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
