@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775937396446,
+      "repository": "Davidvandijcke/coarse",
+      "issueTitle": "fix(deploy): one-off stuck 'running' review (f38cccdd) — Modal container SIGTERM races except handler",
+      "url": "https://github.com/Davidvandijcke/coarse/issues/56",
+      "createdAt": "2026-04-11T19:56:36.446Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
