@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775976289302,
+      "id": 1775976314091,
       "repository": "aabhinavg1/compilersutra",
       "issueTitle": "AMP Auto Ads Causing React Hydration Error (#418)",
       "url": "https://github.com/aabhinavg1/compilersutra/issues/281",
-      "createdAt": "2026-04-12T06:44:49.302Z",
+      "createdAt": "2026-04-12T06:45:14.091Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
     }
   ],
   "stats": {
