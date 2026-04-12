@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776013075771,
+      "repository": "django-commons/django-tailwind-cli",
+      "issueTitle": "Add best-practice section for production deployment to the documentation",
+      "url": "https://github.com/django-commons/django-tailwind-cli/issues/139",
+      "createdAt": "2026-04-12T16:57:55.771Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
