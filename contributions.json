@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775962613315,
+      "repository": "rpbouman/huey",
+      "issueTitle": "MAP data type derivations entries, keyset, valueset not working.",
+      "url": "https://github.com/rpbouman/huey/issues/691",
+      "createdAt": "2026-04-12T02:56:53.315Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
