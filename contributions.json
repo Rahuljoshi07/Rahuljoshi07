@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776032915282,
+      "repository": "Overwatch-1-Emulator/ow1-emulator",
+      "issueTitle": "Enemy can break Sombra translocator without direct LOS",
+      "url": "https://github.com/Overwatch-1-Emulator/ow1-emulator/issues/1599",
+      "createdAt": "2026-04-12T22:28:35.282Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
