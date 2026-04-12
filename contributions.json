@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775998566824,
+      "repository": "ZapprTV/channels",
+      "issueTitle": "50 - Sky TG24: Format/server error (unknown to Zappr)",
+      "url": "https://github.com/ZapprTV/channels/issues/569",
+      "createdAt": "2026-04-12T12:56:06.824Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
