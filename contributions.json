@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775955458859,
+      "repository": "rotorflight/rotorflight-configurator",
+      "issueTitle": "Presets - Source Editing -  Does not Save or retain after  closing RF Config",
+      "url": "https://github.com/rotorflight/rotorflight-configurator/issues/393",
+      "createdAt": "2026-04-12T00:57:38.859Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
