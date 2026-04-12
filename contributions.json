@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775968481691,
+      "repository": "ZzZZCHS/Chat-Scene",
+      "issueTitle": "how about the performances of chat-scene on the other datasets?",
+      "url": "https://github.com/ZzZZCHS/Chat-Scene/issues/70",
+      "createdAt": "2026-04-12T04:34:41.691Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
