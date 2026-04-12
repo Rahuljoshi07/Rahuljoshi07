@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775967887647,
+      "repository": "openfga/python-sdk",
+      "issueTitle": "OpenFGA SDK doesn't seem to support async_req parameter",
+      "url": "https://github.com/openfga/python-sdk/issues/194",
+      "createdAt": "2026-04-12T04:24:47.647Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
