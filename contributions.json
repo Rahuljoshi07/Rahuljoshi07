@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776033957447,
+      "repository": "symgraph/IDAssist",
+      "issueTitle": "Crashes IDA Pro 9.2 on Windows due to PySide6 6.8.0 bug",
+      "url": "https://github.com/symgraph/IDAssist/issues/7",
+      "createdAt": "2026-04-12T22:45:57.447Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
