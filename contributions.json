@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775962396553,
+      "repository": "Australian-Protein-Design-Initiative/nf-binder-design",
+      "issueTitle": "Concurrent GPU usage across RFDiffusion_DESIGNS_PARTIAL/AF2_INITIAL_GUESS/BOLTZ steps causes out-of-memory errors",
+      "url": "https://github.com/Australian-Protein-Design-Initiative/nf-binder-design/issues/14",
+      "createdAt": "2026-04-12T02:53:16.553Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
