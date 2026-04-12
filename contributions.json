@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775953166201,
+      "id": 1775953198149,
       "repository": "shaack/cm-chessboard",
-      "issueTitle": "In current Markers extensions class, we're comparing JS objects with '==='. And this result in errors removing markers with accuracy.",
-      "url": "https://github.com/shaack/cm-chessboard/issues/155",
-      "createdAt": "2026-04-12T00:19:26.201Z",
+      "issueTitle": "Update ReadMe for stylesheet's correct URL (cm-chessboard.css doesn't exist)",
+      "url": "https://github.com/shaack/cm-chessboard/issues/153",
+      "createdAt": "2026-04-12T00:19:58.150Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. (Suggested by..."
     }
   ],
   "stats": {
