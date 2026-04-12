@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776000564526,
+      "repository": "lxfight/astrbot_plugin_mnemosyne",
+      "issueTitle": "[Bug]到达总结对话轮次没用自动总结，重新安装前还能在日志里提示总结成功，但没有写入数据库，手动注入记忆可以正常写入数据库",
+      "url": "https://github.com/lxfight/astrbot_plugin_mnemosyne/issues/118",
+      "createdAt": "2026-04-12T13:29:24.526Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
