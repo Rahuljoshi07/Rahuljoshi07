@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776036929250,
+      "id": 1776036963318,
       "repository": "rpbouman/huey",
-      "issueTitle": "AttributeUi: derivation architecture improvements ",
-      "url": "https://github.com/rpbouman/huey/issues/689",
-      "createdAt": "2026-04-12T23:35:29.250Z",
+      "issueTitle": "i18n: titles for action buttons in AttributeUI and DataSourceUI aren't getting translated.",
+      "url": "https://github.com/rpbouman/huey/issues/697",
+      "createdAt": "2026-04-12T23:36:03.318Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
