@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776006912813,
+      "repository": "MTrab/landroid_cloud",
+      "issueTitle": "Rainsensor remaining not correct",
+      "url": "https://github.com/MTrab/landroid_cloud/issues/895",
+      "createdAt": "2026-04-12T15:15:12.813Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
