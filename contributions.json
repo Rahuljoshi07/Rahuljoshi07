@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1775952623921,
+      "id": 1775952659303,
       "repository": "shaack/cm-chessboard",
-      "issueTitle": "Unable to run code after move animation finishes",
-      "url": "https://github.com/shaack/cm-chessboard/issues/154",
-      "createdAt": "2026-04-12T00:10:23.921Z",
+      "issueTitle": "In current Markers extensions class, we're comparing JS objects with '==='. And this result in errors removing markers with accuracy.",
+      "url": "https://github.com/shaack/cm-chessboard/issues/155",
+      "createdAt": "2026-04-12T00:10:59.303Z",
       "type": "comment",
-      "content": "Consider using ES6 features like arrow functions and const/let for better performance. (Suggested by..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
