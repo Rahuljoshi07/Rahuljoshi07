@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775953324283,
+      "repository": "volotat/Anagnorisis",
+      "issueTitle": "Critical bug: jina-embeddings-v3 fails to load with TypeError in transformers 5.1.0",
+      "url": "https://github.com/volotat/Anagnorisis/issues/16",
+      "createdAt": "2026-04-12T00:22:04.283Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
