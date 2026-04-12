@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776023698794,
+      "repository": "dolkensp/HangarXPLOR",
+      "issueTitle": "Hangar Filter selection dropdown toggle inverted",
+      "url": "https://github.com/dolkensp/HangarXPLOR/issues/132",
+      "createdAt": "2026-04-12T19:54:58.794Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
