@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775999931207,
+      "repository": "GNS3/gns3-server",
+      "issueTitle": "[BUG] When restoring a snapshot the gns3 exits the project",
+      "url": "https://github.com/GNS3/gns3-server/issues/2649",
+      "createdAt": "2026-04-12T13:18:51.207Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
