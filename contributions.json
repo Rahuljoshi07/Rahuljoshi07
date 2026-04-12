@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1775985549061,
+      "repository": "EFForg/badger-sett",
+      "issueTitle": "Timeout loop where every website times out",
+      "url": "https://github.com/EFForg/badger-sett/issues/97",
+      "createdAt": "2026-04-12T09:19:09.061Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
