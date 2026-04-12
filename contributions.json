@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776011196358,
+      "repository": "craftbase-org/craftbase",
+      "issueTitle": "bug: rectangle resize mixes with pencil draw",
+      "url": "https://github.com/craftbase-org/craftbase/issues/56",
+      "createdAt": "2026-04-12T16:26:36.358Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
