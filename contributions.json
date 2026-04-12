@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776017406822,
+      "repository": "foxhui/WebAI2API",
+      "issueTitle": "Chatgpt输入文字后使用鼠标无法点击提交prompt按钮",
+      "url": "https://github.com/foxhui/WebAI2API/issues/59",
+      "createdAt": "2026-04-12T18:10:06.822Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
