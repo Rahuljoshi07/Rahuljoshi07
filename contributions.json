@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776056946826,
+      "id": 1776056979057,
       "repository": "fampiyush/virtual-meet",
       "issueTitle": "Texture is immutable warning",
       "url": "https://github.com/fampiyush/virtual-meet/issues/3",
-      "createdAt": "2026-04-13T05:09:06.826Z",
+      "createdAt": "2026-04-13T05:09:39.057Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
