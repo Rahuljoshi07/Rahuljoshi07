@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776093733316,
+      "repository": "sdv-dev/SDGym",
+      "issueTitle": "Latest PyTorch (2.11.0) is not compatible with current GCP GPU benchmark environment",
+      "url": "https://github.com/sdv-dev/SDGym/issues/589",
+      "createdAt": "2026-04-13T15:22:13.316Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
