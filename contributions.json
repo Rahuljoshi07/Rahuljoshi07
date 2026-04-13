@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776098402266,
+      "repository": "neurobooth/neurobooth-os",
+      "issueTitle": "Mbient that fails to connect at startup is never retried for the rest of the session",
+      "url": "https://github.com/neurobooth/neurobooth-os/issues/676",
+      "createdAt": "2026-04-13T16:40:02.266Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
