@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776081089341,
+      "repository": "Aohzan/hass-prixcarburant",
+      "issueTitle": "Erreur GMT updated_date et days_since_last_update",
+      "url": "https://github.com/Aohzan/hass-prixcarburant/issues/178",
+      "createdAt": "2026-04-13T11:51:29.341Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
