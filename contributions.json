@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776056399136,
+      "repository": "libyal/winreg-kb",
+      "issueTitle": "TypeError: object if type 'filter' hs no len() in winregrc/sam.py",
+      "url": "https://github.com/libyal/winreg-kb/issues/5",
+      "createdAt": "2026-04-13T04:59:59.136Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
