@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776089590667,
+      "repository": "Geotab/mg-api-js",
+      "issueTitle": "Error: JSONRPCError - Invalid session @ '<database>'",
+      "url": "https://github.com/Geotab/mg-api-js/issues/56",
+      "createdAt": "2026-04-13T14:13:10.668Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
