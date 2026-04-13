@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776098060759,
+      "repository": "shinglokto/openclaw-claude-bridge",
+      "issueTitle": "Still getting 3rd party billing error",
+      "url": "https://github.com/shinglokto/openclaw-claude-bridge/issues/6",
+      "createdAt": "2026-04-13T16:34:20.759Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
