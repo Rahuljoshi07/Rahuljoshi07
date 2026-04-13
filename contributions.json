@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776072563213,
+      "repository": "mailmojo/screenie-server",
+      "issueTitle": "Screenshots fails when you add a PDF as url",
+      "url": "https://github.com/mailmojo/screenie-server/issues/21",
+      "createdAt": "2026-04-13T09:29:23.213Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
