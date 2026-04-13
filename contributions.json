@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776089015047,
+      "repository": "jfernandz/pyst2",
+      "issueTitle": "AttributesError: 'unicode' object has no attribute 'send-action'",
+      "url": "https://github.com/jfernandz/pyst2/issues/69",
+      "createdAt": "2026-04-13T14:03:35.047Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
