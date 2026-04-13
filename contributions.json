@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776065633346,
+      "repository": "TiBillet/Lespass",
+      "issueTitle": "Problème de filtres dans le tableau comptable des ventes",
+      "url": "https://github.com/TiBillet/Lespass/issues/383",
+      "createdAt": "2026-04-13T07:33:53.346Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
