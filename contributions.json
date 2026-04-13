@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776099284045,
+      "repository": "ROCm/TheRock",
+      "issueTitle": "[Issue] JAX:  `core_test` failures due to XLA autotuning `No valid config found` in portable wheel CI",
+      "url": "https://github.com/ROCm/TheRock/issues/4270",
+      "createdAt": "2026-04-13T16:54:44.045Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
