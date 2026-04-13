@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776091140698,
+      "repository": "antoniorodr/memo",
+      "issueTitle": "[BUG] Upon edit, semantic styling is lost",
+      "url": "https://github.com/antoniorodr/memo/issues/34",
+      "createdAt": "2026-04-13T14:39:00.698Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
