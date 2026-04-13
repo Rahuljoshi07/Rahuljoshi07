@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776117933328,
+      "repository": "caretdev/sqlalchemy-iris",
+      "issueTitle": "Install causes error with intersystems-irispython connection",
+      "url": "https://github.com/caretdev/sqlalchemy-iris/issues/31",
+      "createdAt": "2026-04-13T22:05:33.328Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
