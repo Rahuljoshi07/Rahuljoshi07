@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776075856449,
+      "repository": "kurrent-io/KurrentDB-Client-NodeJS",
+      "issueTitle": "discovery cluster connection with multiple DNS entry does not work if first node is down",
+      "url": "https://github.com/kurrent-io/KurrentDB-Client-NodeJS/issues/414",
+      "createdAt": "2026-04-13T10:24:16.449Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
