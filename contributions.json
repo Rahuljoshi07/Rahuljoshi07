@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776097613627,
-      "repository": "marshmallow-code/flask-marshmallow",
-      "issueTitle": "'DummySession' object has no attribute 'query'",
-      "url": "https://github.com/marshmallow-code/flask-marshmallow/issues/44",
-      "createdAt": "2026-04-13T16:26:53.627Z",
+      "id": 1776097653697,
+      "repository": "Blosc/python-blosc2",
+      "issueTitle": "Bug: `ndarray_from_cframe(copy=True)` crashes with `munmap_chunk(): invalid pointer` when cframe contains a SPECIAL chunk before a NORMAL chunk",
+      "url": "https://github.com/Blosc/python-blosc2/issues/611",
+      "createdAt": "2026-04-13T16:27:33.697Z",
       "type": "comment",
-      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
