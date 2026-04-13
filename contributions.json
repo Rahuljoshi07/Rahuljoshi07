@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776059613919,
-      "repository": "browniebroke/django-codemod",
-      "issueTitle": "Option to show diffs",
-      "url": "https://github.com/browniebroke/django-codemod/issues/501",
-      "createdAt": "2026-04-13T05:53:33.919Z",
+      "id": 1776059650251,
+      "repository": "openedx/xblock-sdk",
+      "issueTitle": "Issue with xblock-lti-consumer==2.7.4",
+      "url": "https://github.com/openedx/xblock-sdk/issues/199",
+      "createdAt": "2026-04-13T05:54:10.251Z",
       "type": "comment",
-      "content": "Adding type hints would improve code readability and IDE support. This suggestion is particularly re..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
