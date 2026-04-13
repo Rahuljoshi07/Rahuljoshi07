@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776110934937,
+      "repository": "catalyst-cooperative/pudl-archiver",
+      "issueTitle": "`mshamines` and `phmsagas` fail on `UnicodeDecodeError`",
+      "url": "https://github.com/catalyst-cooperative/pudl-archiver/issues/1080",
+      "createdAt": "2026-04-13T20:08:54.937Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
