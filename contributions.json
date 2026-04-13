@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776103919316,
+      "repository": "sakalond/StableGen",
+      "issueTitle": "[TRELLIS.2] Installation fails on Ubuntu 20.04 — nvdiffrast glibc mismatch & PyTorch 2.4 lacks Python 3.13 wheels",
+      "url": "https://github.com/sakalond/StableGen/issues/93",
+      "createdAt": "2026-04-13T18:11:59.317Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
