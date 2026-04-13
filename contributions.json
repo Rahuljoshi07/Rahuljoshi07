@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776097613627,
+      "repository": "marshmallow-code/flask-marshmallow",
+      "issueTitle": "'DummySession' object has no attribute 'query'",
+      "url": "https://github.com/marshmallow-code/flask-marshmallow/issues/44",
+      "createdAt": "2026-04-13T16:26:53.627Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
