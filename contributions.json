@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776118694444,
+      "repository": "qualcomm/ai-hub-models",
+      "issueTitle": "[BUG] Premature precision/runtime validation when using --checkpoint DEFAULT_<PRECISION>",
+      "url": "https://github.com/qualcomm/ai-hub-models/issues/297",
+      "createdAt": "2026-04-13T22:18:14.444Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
