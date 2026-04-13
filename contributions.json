@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776112197623,
+      "repository": "vectara/python-sdk",
+      "issueTitle": "Query with no results returns ApiError instead of an empty fallback when metadata filters are applied",
+      "url": "https://github.com/vectara/python-sdk/issues/48",
+      "createdAt": "2026-04-13T20:29:57.623Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
