@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776077867922,
+      "repository": "ome/omero-figure",
+      "issueTitle": "Polygon discrepancies pdf vs figure",
+      "url": "https://github.com/ome/omero-figure/issues/455",
+      "createdAt": "2026-04-13T10:57:47.922Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
