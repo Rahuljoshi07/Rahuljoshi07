@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776074583174,
+      "repository": "ebibibi/claude-code-discord-bridge",
+      "issueTitle": "[BUG] --dangerously-skip-permissions does not bypass sensitive file checks on Edit/Write tools (CLI v2.1.78+ regression)",
+      "url": "https://github.com/ebibibi/claude-code-discord-bridge/issues/345",
+      "createdAt": "2026-04-13T10:03:03.174Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
