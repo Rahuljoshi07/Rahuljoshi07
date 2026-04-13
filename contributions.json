@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776122543432,
+      "repository": "catalyst-cooperative/ferc-xbrl-extractor",
+      "issueTitle": "Output to DuckDB instead of SQLite",
+      "url": "https://github.com/catalyst-cooperative/ferc-xbrl-extractor/issues/342",
+      "createdAt": "2026-04-13T23:22:23.432Z",
+      "type": "comment",
+      "content": "Using generators could help with memory efficiency for large datasets. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
