@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776121268749,
+      "repository": "evanp/activitypub-bot",
+      "issueTitle": "Request throttler isn't great with concurrency",
+      "url": "https://github.com/evanp/activitypub-bot/issues/189",
+      "createdAt": "2026-04-13T23:01:08.749Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
