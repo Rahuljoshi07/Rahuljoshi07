@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776060077877,
+      "repository": "microsoft/semantic-link-labs",
+      "issueTitle": "deploy_semantic_model using perspective failing to deploy",
+      "url": "https://github.com/microsoft/semantic-link-labs/issues/1140",
+      "createdAt": "2026-04-13T06:01:17.877Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
