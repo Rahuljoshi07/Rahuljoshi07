@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776078191164,
+      "repository": "follow-redirects/follow-redirects",
+      "issueTitle": "DEP0169 on Node 24: legacy url.parse/url.resolve/url.format usage still present in runtime paths",
+      "url": "https://github.com/follow-redirects/follow-redirects/issues/283",
+      "createdAt": "2026-04-13T11:03:11.164Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
