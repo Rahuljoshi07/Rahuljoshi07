@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776122359598,
+      "repository": "ysard/ebusd_configuration_chaffoteaux_bridgenet",
+      "issueTitle": "unable to parse poll-read boiler error_slot_9",
+      "url": "https://github.com/ysard/ebusd_configuration_chaffoteaux_bridgenet/issues/16",
+      "createdAt": "2026-04-13T23:19:19.598Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
