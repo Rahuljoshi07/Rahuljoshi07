@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776039157973,
+      "repository": "cnighswonger/claude-code-cache-fix",
+      "issueTitle": "Identity string mismatch between Agent() and SendMessage() busts cache prefix",
+      "url": "https://github.com/cnighswonger/claude-code-cache-fix/issues/6",
+      "createdAt": "2026-04-13T00:12:37.973Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
