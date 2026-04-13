@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776089827872,
+      "repository": "tompassarelli/palefox",
+      "issueTitle": "Cannot use install.sh curl: (22) The requested URL returned error: 404",
+      "url": "https://github.com/tompassarelli/palefox/issues/31",
+      "createdAt": "2026-04-13T14:17:07.872Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
