@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776046708778,
+      "id": 1776046743523,
       "repository": "askalf/dario",
       "issueTitle": "Unable to login via OAuth",
       "url": "https://github.com/askalf/dario/issues/18",
-      "createdAt": "2026-04-13T02:18:28.778Z",
+      "createdAt": "2026-04-13T02:19:03.523Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
     }
   ],
   "stats": {
