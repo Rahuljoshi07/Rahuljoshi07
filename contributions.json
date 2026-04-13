@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776073320598,
+      "repository": "remotebrowser/mcp-getgather",
+      "issueTitle": "Error 422 when using noauth mcp",
+      "url": "https://github.com/remotebrowser/mcp-getgather/issues/1126",
+      "createdAt": "2026-04-13T09:42:00.599Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
