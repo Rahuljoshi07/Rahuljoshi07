@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776109085973,
+      "repository": "mozilla/remote-settings",
+      "issueTitle": "Clearing a field in a form and updating an attachment ignores the field change",
+      "url": "https://github.com/mozilla/remote-settings/issues/791",
+      "createdAt": "2026-04-13T19:38:05.973Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
