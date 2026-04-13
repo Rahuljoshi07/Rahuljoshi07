@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776064780323,
+      "repository": "Open-CMSIS-Pack/cmsis-toolbox",
+      "issueTitle": "[Bug]: Clang's command line option --sysroot=<path> is not considered during cmake processing phase",
+      "url": "https://github.com/Open-CMSIS-Pack/cmsis-toolbox/issues/567",
+      "createdAt": "2026-04-13T07:19:40.323Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
