@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776052059032,
+      "repository": "UKGovernmentBEIS/inspect_evals",
+      "issueTitle": "ifeval: kwargs items are strings after to_list(), causing AttributeError",
+      "url": "https://github.com/UKGovernmentBEIS/inspect_evals/issues/1416",
+      "createdAt": "2026-04-13T03:47:39.032Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
