@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776099133308,
-      "repository": "Koenvh1/ets2-local-radio",
-      "issueTitle": "San Felipe Mexico Bug",
-      "url": "https://github.com/Koenvh1/ets2-local-radio/issues/271",
-      "createdAt": "2026-04-13T16:52:13.308Z",
+      "id": 1776099181747,
+      "repository": "rwth-i6/returnn",
+      "issueTitle": "test_ConvLayer_empty_out fails: InvalidArgumentError: Incompatible shapes: [7] vs. [1,1,5]",
+      "url": "https://github.com/rwth-i6/returnn/issues/1775",
+      "createdAt": "2026-04-13T16:53:01.747Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
