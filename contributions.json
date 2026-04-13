@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776088543535,
+      "repository": "MTrab/landroid_cloud",
+      "issueTitle": "Zone select, selects the wrong zone",
+      "url": "https://github.com/MTrab/landroid_cloud/issues/1208",
+      "createdAt": "2026-04-13T13:55:43.535Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
