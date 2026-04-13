@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776038571281,
+      "repository": "rullerzhou-afk/clawd-on-desk",
+      "issueTitle": "bug(macOS): session menu cannot focus the specific Ghostty terminal",
+      "url": "https://github.com/rullerzhou-afk/clawd-on-desk/issues/59",
+      "createdAt": "2026-04-13T00:02:51.281Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
