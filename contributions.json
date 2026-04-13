@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776072668662,
+      "repository": "CycloneDX/cyclonedx-python",
+      "issueTitle": "chore: use dependabot cooldowns",
+      "url": "https://github.com/CycloneDX/cyclonedx-python/issues/1038",
+      "createdAt": "2026-04-13T09:31:08.662Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
