@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776118991092,
+      "repository": "ancsemi/Haven",
+      "issueTitle": "Error 413 - Uploading larger files more then 1 MB seems to error.",
+      "url": "https://github.com/ancsemi/Haven/issues/5245",
+      "createdAt": "2026-04-13T22:23:11.092Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
