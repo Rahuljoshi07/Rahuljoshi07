@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776075735176,
+      "repository": "infinito-nexus/core",
+      "issueTitle": "[Bug]: Playwright test image pulled live from MCR is blocked in CI",
+      "url": "https://github.com/infinito-nexus/core/issues/138",
+      "createdAt": "2026-04-13T10:22:15.176Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
