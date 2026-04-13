@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1776108177796,
-      "repository": "newrelic/newrelic-python-agent",
-      "issueTitle": "RecursionError in GC sampler callback on Python 3.13 (re-entrant gc_data.record_gc)",
-      "url": "https://github.com/newrelic/newrelic-python-agent/issues/1706",
-      "createdAt": "2026-04-13T19:22:57.796Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
