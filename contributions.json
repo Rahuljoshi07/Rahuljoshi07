@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776073585496,
+      "repository": "PyAutoLabs/PyAutoArray",
+      "issueTitle": "fix: release build failures from plot API and autofit bugs",
+      "url": "https://github.com/PyAutoLabs/PyAutoArray/issues/269",
+      "createdAt": "2026-04-13T09:46:25.496Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
