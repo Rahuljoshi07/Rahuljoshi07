@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776198246262,
+      "repository": "shaack/cm-pgn",
+      "issueTitle": "Parsing fails on PGN with multiple comments after final move",
+      "url": "https://github.com/shaack/cm-pgn/issues/17",
+      "createdAt": "2026-04-14T20:24:06.262Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. (Suggested by..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
