@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776147314206,
+      "repository": "django-cms/django-sekizai",
+      "issueTitle": "Is it possible to detect an empty block?",
+      "url": "https://github.com/django-cms/django-sekizai/issues/162",
+      "createdAt": "2026-04-14T06:15:14.207Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
