@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1776168783470,
-      "repository": "volcengine/veadk-python",
-      "issueTitle": "Bug: the trace information will be split, with both the parent and child agents having independent trace IDs when the root agent invokes the child agent.",
-      "url": "https://github.com/volcengine/veadk-python/issues/549",
-      "createdAt": "2026-04-14T12:13:03.470Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
