@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776180102412,
+      "repository": "noobaa/noobaa-core",
+      "issueTitle": "Authorization flow should be separated from S3 Authentication flow",
+      "url": "https://github.com/noobaa/noobaa-core/issues/5889",
+      "createdAt": "2026-04-14T15:21:42.412Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
