@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776125452702,
-      "repository": "mozilla/releases-comm-central",
-      "issueTitle": "Feature Request: Warning if no recipient has been entered in the \"TO\" field",
-      "url": "https://github.com/mozilla/releases-comm-central/issues/113",
-      "createdAt": "2026-04-14T00:10:52.702Z",
+      "id": 1776125512506,
+      "repository": "in-the-loop-labs/pair-review",
+      "issueTitle": "Pi provider crashes with RangeError: Invalid string length on large responses",
+      "url": "https://github.com/in-the-loop-labs/pair-review/issues/442",
+      "createdAt": "2026-04-14T00:11:52.506Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
