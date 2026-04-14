@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776146500996,
+      "repository": "AltimateAI/vscode-dbt-power-user",
+      "issueTitle": "Extension is incompatible with upstream-prod package",
+      "url": "https://github.com/AltimateAI/vscode-dbt-power-user/issues/1875",
+      "createdAt": "2026-04-14T06:01:40.996Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
