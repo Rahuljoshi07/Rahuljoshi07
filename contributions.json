@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776146326579,
+      "repository": "pytr-org/pytr",
+      "issueTitle": "Bug Expecting value: line 1 column 1 (char 0) is back",
+      "url": "https://github.com/pytr-org/pytr/issues/330",
+      "createdAt": "2026-04-14T05:58:46.579Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
