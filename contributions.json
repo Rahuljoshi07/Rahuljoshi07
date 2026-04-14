@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776165757037,
+      "repository": "StacklokLabs/mcp-optimizer",
+      "issueTitle": "Cannot use MCP Optimizer with Podman Desktop on Windows",
+      "url": "https://github.com/StacklokLabs/mcp-optimizer/issues/25",
+      "createdAt": "2026-04-14T11:22:37.037Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
