@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776184633707,
+      "repository": "stadelmanma/tree-sitter-fortran",
+      "issueTitle": "[Bug] Parser incorrectly falls back to implicit 'program' when 'module' is preceded by multiple preprocessor blocks",
+      "url": "https://github.com/stadelmanma/tree-sitter-fortran/issues/180",
+      "createdAt": "2026-04-14T16:37:13.707Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
