@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776163528856,
+      "repository": "LiYu0524/iDeer",
+      "issueTitle": "rate limit error",
+      "url": "https://github.com/LiYu0524/iDeer/issues/12",
+      "createdAt": "2026-04-14T10:45:28.857Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
