@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776177500522,
+      "repository": "clearlydefined/clearlydefined",
+      "issueTitle": "Yarn no scenarios error",
+      "url": "https://github.com/clearlydefined/clearlydefined/issues/219",
+      "createdAt": "2026-04-14T14:38:20.522Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
