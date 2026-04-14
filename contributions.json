@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776125588437,
+      "repository": "djust-org/djust",
+      "issueTitle": "Incremental Rust state sync silently skips derived context vars when instance attr is mutated in-place",
+      "url": "https://github.com/djust-org/djust/issues/703",
+      "createdAt": "2026-04-14T00:13:08.437Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
