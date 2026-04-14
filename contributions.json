@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776143882130,
+      "repository": "rohankishore/Aura-Text",
+      "issueTitle": "[BUG] When clicked on a file which is already open, instead of switching tabs, it opens that file again",
+      "url": "https://github.com/rohankishore/Aura-Text/issues/151",
+      "createdAt": "2026-04-14T05:18:02.130Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
