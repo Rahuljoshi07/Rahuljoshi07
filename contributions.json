@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776182796079,
+      "repository": "dream7180/foobox-en",
+      "issueTitle": "【Bug 反馈】foobox 8.1 无法加载特定 WMA 文件的内嵌封面 (800x800)，原版foobar2000可以正常加载显示该封面",
+      "url": "https://github.com/dream7180/foobox-en/issues/19",
+      "createdAt": "2026-04-14T16:06:36.079Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
