@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776174914546,
-      "repository": "bpmn-io/form-js",
-      "issueTitle": "Document Preview while Uploading with File Picker",
-      "url": "https://github.com/bpmn-io/form-js/issues/1501",
-      "createdAt": "2026-04-14T13:55:14.546Z",
+      "id": 1776174957463,
+      "repository": "shaack/cm-chessboard",
+      "issueTitle": "In current Markers extensions class, we're comparing JS objects with '==='. And this result in errors removing markers with accuracy.",
+      "url": "https://github.com/shaack/cm-chessboard/issues/155",
+      "createdAt": "2026-04-14T13:55:57.463Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
