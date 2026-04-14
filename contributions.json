@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776206519389,
+      "repository": "SpinW/pySpinW",
+      "issueTitle": "Rotating frame intensity bug",
+      "url": "https://github.com/SpinW/pySpinW/issues/146",
+      "createdAt": "2026-04-14T22:41:59.389Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
