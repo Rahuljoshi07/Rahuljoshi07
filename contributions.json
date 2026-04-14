@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776153698524,
-      "repository": "AvolitesLtd/TitanManual",
-      "issueTitle": "Double-tapping the [Help] hardware key on an applicable console causes the manual to open with a JS error",
-      "url": "https://github.com/AvolitesLtd/TitanManual/issues/537",
-      "createdAt": "2026-04-14T08:01:38.524Z",
+      "id": 1776153759989,
+      "repository": "scverse/PyDESeq2",
+      "issueTitle": "[BUG] Overflow in `.deseq2()` and and `lfc_shrink()`",
+      "url": "https://github.com/scverse/PyDESeq2/issues/169",
+      "createdAt": "2026-04-14T08:02:39.989Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
