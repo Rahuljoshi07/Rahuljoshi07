@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776145194069,
+      "repository": "jpawlowski/hass.tibber_prices",
+      "issueTitle": "Best price calculation not optimal on days with v-shaped minimums",
+      "url": "https://github.com/jpawlowski/hass.tibber_prices/issues/108",
+      "createdAt": "2026-04-14T05:39:54.069Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
