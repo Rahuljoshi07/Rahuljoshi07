@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776130493626,
+      "repository": "Lellansin/node-scanf",
+      "issueTitle": "gets opens stdin on every call",
+      "url": "https://github.com/Lellansin/node-scanf/issues/46",
+      "createdAt": "2026-04-14T01:34:53.626Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
