@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776175381701,
-      "repository": "acolite/acolite",
-      "issueTitle": "Progress performance optimization work by porting to Rust",
-      "url": "https://github.com/acolite/acolite/issues/118",
-      "createdAt": "2026-04-14T14:03:01.701Z",
+      "id": 1776175418754,
+      "repository": "ecmwf/earthkit-plots",
+      "issueTitle": "interpolate kwarg passed to pcolormesh/contourf leaks through to matplotlib when style is also provided",
+      "url": "https://github.com/ecmwf/earthkit-plots/issues/183",
+      "createdAt": "2026-04-14T14:03:38.754Z",
       "type": "comment",
-      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
