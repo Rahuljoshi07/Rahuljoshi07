@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776131559451,
+      "repository": "nextcloud/photos",
+      "issueTitle": "[Bug]: Video playback fails (503) on publicly shared albums - null user ID in DAV URL",
+      "url": "https://github.com/nextcloud/photos/issues/3442",
+      "createdAt": "2026-04-14T01:52:39.451Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
