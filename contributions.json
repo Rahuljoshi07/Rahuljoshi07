@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776151233876,
+      "repository": "CLARIN-PL/Inforex",
+      "issueTitle": "Installation under Ubuntu 20.04, 'Annotation sets' error",
+      "url": "https://github.com/CLARIN-PL/Inforex/issues/140",
+      "createdAt": "2026-04-14T07:20:33.876Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
