@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776195199216,
+      "repository": "RajjjAryan/career-copilot",
+      "issueTitle": "Score parsing accepts invalid ranges (e.g. \"99/5\", \"-1/5\")",
+      "url": "https://github.com/RajjjAryan/career-copilot/issues/41",
+      "createdAt": "2026-04-14T19:33:19.217Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
