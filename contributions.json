@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776137517707,
+      "repository": "pallets-eco/flask-security",
+      "issueTitle": "Add support for anti-brute force",
+      "url": "https://github.com/pallets-eco/flask-security/issues/207",
+      "createdAt": "2026-04-14T03:31:57.707Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
