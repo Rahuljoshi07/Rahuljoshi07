@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776126191916,
+      "repository": "cisco-ai-defense/mcp-scanner",
+      "issueTitle": "Allow global log level configuration for mcpscanner",
+      "url": "https://github.com/cisco-ai-defense/mcp-scanner/issues/68",
+      "createdAt": "2026-04-14T00:23:11.916Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
