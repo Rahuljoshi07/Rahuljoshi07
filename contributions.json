@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776160522406,
-      "repository": "2M4U/2m4u",
-      "issueTitle": "Possible fixes for update.js",
-      "url": "https://github.com/2M4U/2m4u/issues/6",
-      "createdAt": "2026-04-14T09:55:22.406Z",
+      "id": 1776160562026,
+      "repository": "eslint/json",
+      "issueTitle": "Bug: `sort-keys` autofix requires multiple passes",
+      "url": "https://github.com/eslint/json/issues/222",
+      "createdAt": "2026-04-14T09:56:02.026Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
