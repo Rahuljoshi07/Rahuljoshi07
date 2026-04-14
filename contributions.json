@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776145487805,
+      "repository": "PFingan-Code/PF-GUGUBot",
+      "issueTitle": "[BUG]改id会导致活跃检查失效",
+      "url": "https://github.com/PFingan-Code/PF-GUGUBot/issues/217",
+      "createdAt": "2026-04-14T05:44:47.805Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
