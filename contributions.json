@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776142498092,
+      "repository": "iLib-js/iLib",
+      "issueTitle": "video player error Cannot read property 'supportedLocalesOf' of undefined  ",
+      "url": "https://github.com/iLib-js/iLib/issues/435",
+      "createdAt": "2026-04-14T04:54:58.092Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
