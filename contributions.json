@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776173339064,
+      "repository": "testomatio/check-tests",
+      "issueTitle": "pull command ignores -d --dir option",
+      "url": "https://github.com/testomatio/check-tests/issues/236",
+      "createdAt": "2026-04-14T13:28:59.064Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
