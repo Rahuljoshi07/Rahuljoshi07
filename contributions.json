@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776192392685,
+      "repository": "LiveTL/LiveTL",
+      "issueTitle": "[Bug]: Nothing picked up in Firefox twitch",
+      "url": "https://github.com/LiveTL/LiveTL/issues/475",
+      "createdAt": "2026-04-14T18:46:32.685Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
