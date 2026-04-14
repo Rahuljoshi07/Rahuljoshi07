@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776130137245,
+      "repository": "xarray-contrib/xarray-spatial",
+      "issueTitle": "CuPy cost_distance Bellman-Ford terminates early on maze-like friction surfaces",
+      "url": "https://github.com/xarray-contrib/xarray-spatial/issues/1191",
+      "createdAt": "2026-04-14T01:28:57.245Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
