@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1776201287125,
-      "repository": "Infisical/infisical-mcp-server",
-      "issueTitle": "Schema validation error: invite-members-to-project missing `items` field for array parameters",
-      "url": "https://github.com/Infisical/infisical-mcp-server/issues/14",
-      "createdAt": "2026-04-14T21:14:47.126Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
