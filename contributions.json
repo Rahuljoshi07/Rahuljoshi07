@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776161821792,
+      "repository": "oldcordapp/Oldcord",
+      "issueTitle": "Implement cache-control & remove quick cache (V4)",
+      "url": "https://github.com/oldcordapp/Oldcord/issues/160",
+      "createdAt": "2026-04-14T10:17:01.792Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
