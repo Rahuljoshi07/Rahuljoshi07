@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776155949329,
+      "repository": "genrobot-ai/das-datakit",
+      "issueTitle": "Conversion to h5 really slow",
+      "url": "https://github.com/genrobot-ai/das-datakit/issues/1",
+      "createdAt": "2026-04-14T08:39:09.329Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
