@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776210331154,
+      "repository": "IBM/nodejs-idb-pconnector",
+      "issueTitle": "bindParam() is deprecated and you should use bindParameters() instead",
+      "url": "https://github.com/IBM/nodejs-idb-pconnector/issues/135",
+      "createdAt": "2026-04-14T23:45:31.154Z",
+      "type": "comment",
+      "content": "Consider implementing proper error boundaries for better error handling. This suggestion is particul..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
