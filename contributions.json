@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776150513623,
+      "repository": "BIM2SIM/bim2sim",
+      "issueTitle": "Permission issues when running EnergyPlus simulation with user not having write permissions for bim2sim assets directory",
+      "url": "https://github.com/BIM2SIM/bim2sim/issues/850",
+      "createdAt": "2026-04-14T07:08:33.623Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
