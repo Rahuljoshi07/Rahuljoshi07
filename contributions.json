@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776205444197,
+      "repository": "sotnrando/sotnrando",
+      "issueTitle": "Wrong default icons when starting with \"null\" equipment",
+      "url": "https://github.com/sotnrando/sotnrando/issues/172",
+      "createdAt": "2026-04-14T22:24:04.197Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
