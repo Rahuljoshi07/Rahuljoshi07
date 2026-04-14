@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776129115409,
+      "repository": "fesvhtr/CUVA",
+      "issueTitle": "RuntimeError: The size of tensor a (2048) must match the size of tensor b (2049) at non-singleton dimension 3",
+      "url": "https://github.com/fesvhtr/CUVA/issues/8",
+      "createdAt": "2026-04-14T01:11:55.409Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
