@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776173735778,
+      "repository": "richkuo/go-trader",
+      "issueTitle": "Bug: Perps positions valued like spot (multiplier=0) gives inflated portfolio values",
+      "url": "https://github.com/richkuo/go-trader/issues/254",
+      "createdAt": "2026-04-14T13:35:35.778Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
