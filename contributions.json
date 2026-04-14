@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776136731053,
+      "repository": "intel/torch-xpu-ops",
+      "issueTitle": "channel last aten::hardswish_ will call extra copy",
+      "url": "https://github.com/intel/torch-xpu-ops/issues/1856",
+      "createdAt": "2026-04-14T03:18:51.054Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
