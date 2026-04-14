@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776155299802,
+      "repository": "philgyford/django-spectator",
+      "issueTitle": "Use uv in GitHub Actions",
+      "url": "https://github.com/philgyford/django-spectator/issues/89",
+      "createdAt": "2026-04-14T08:28:19.802Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
