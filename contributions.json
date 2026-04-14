@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776128275463,
+      "repository": "intrinsic-dev/aic",
+      "issueTitle": "reversed cable end passes through sc ports in mujoco",
+      "url": "https://github.com/intrinsic-dev/aic/issues/482",
+      "createdAt": "2026-04-14T00:57:55.463Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
