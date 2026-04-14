@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776171909051,
+      "repository": "openSUSE/orthos2",
+      "issueTitle": "Orthos 2 not compatible with NetBox v2 Tokens",
+      "url": "https://github.com/openSUSE/orthos2/issues/383",
+      "createdAt": "2026-04-14T13:05:09.051Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
