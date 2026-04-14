@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776154733426,
+      "repository": "ex-em/EVUI",
+      "issueTitle": "fix: Chart > 마지막 시리즈가 빈배열일 경우 축의 min, max가 0, 1로 잡힘",
+      "url": "https://github.com/ex-em/EVUI/issues/2212",
+      "createdAt": "2026-04-14T08:18:53.426Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
