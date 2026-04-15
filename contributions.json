@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776235522348,
+      "repository": "Anantys-oss/koan",
+      "issueTitle": "Cold-start Telegram burst re-fires on every non-productive iteration (passive/idle wake loop)",
+      "url": "https://github.com/Anantys-oss/koan/issues/1193",
+      "createdAt": "2026-04-15T06:45:22.348Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
