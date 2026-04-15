@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776247649292,
+      "repository": "geosolutions-it/MapStore2",
+      "issueTitle": "Link popup overflows on dashboard text editor",
+      "url": "https://github.com/geosolutions-it/MapStore2/issues/12094",
+      "createdAt": "2026-04-15T10:07:29.292Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
