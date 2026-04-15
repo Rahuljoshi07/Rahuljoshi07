@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776217600064,
+      "repository": "nextcloud/notes",
+      "issueTitle": "Cannot share a note in Nextcloud webui",
+      "url": "https://github.com/nextcloud/notes/issues/1803",
+      "createdAt": "2026-04-15T01:46:40.064Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
