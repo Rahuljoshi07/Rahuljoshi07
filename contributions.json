@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776282528915,
+      "repository": "dkratzert/FinalCif",
+      "issueTitle": "Add loops edit functions",
+      "url": "https://github.com/dkratzert/FinalCif/issues/83",
+      "createdAt": "2026-04-15T19:48:48.915Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
