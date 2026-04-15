@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776245325539,
+      "repository": "coinpaprika/coinpaprika-api-nodejs-client",
+      "issueTitle": "CORS error in getAllTickers method",
+      "url": "https://github.com/coinpaprika/coinpaprika-api-nodejs-client/issues/9",
+      "createdAt": "2026-04-15T09:28:45.539Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
