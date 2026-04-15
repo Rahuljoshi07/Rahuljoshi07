@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776276972507,
+      "repository": "ZapprTV/channels",
+      "issueTitle": "26 - Cielo: Format/server error (200 OK)",
+      "url": "https://github.com/ZapprTV/channels/issues/641",
+      "createdAt": "2026-04-15T18:16:12.507Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
