@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776271495390,
+      "repository": "recurly/recurly-client-python",
+      "issueTitle": "Intermittent NetworkError",
+      "url": "https://github.com/recurly/recurly-client-python/issues/378",
+      "createdAt": "2026-04-15T16:44:55.390Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
