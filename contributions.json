@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776294852273,
+      "repository": "jmagar/unraid-mcp",
+      "issueTitle": ".mcp.json HTTP server causes spurious failed MCP entry in Claude Code",
+      "url": "https://github.com/jmagar/unraid-mcp/issues/18",
+      "createdAt": "2026-04-15T23:14:12.273Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
