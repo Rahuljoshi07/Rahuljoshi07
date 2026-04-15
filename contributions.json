@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1776261930733,
-      "repository": "DataDog/dd-trace-js",
-      "issueTitle": "[BUG]: Increased memory usage",
-      "url": "https://github.com/DataDog/dd-trace-js/issues/8009",
-      "createdAt": "2026-04-15T14:05:30.733Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
