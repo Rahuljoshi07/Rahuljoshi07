@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776256005987,
+      "repository": "hillerlab/TOGA2",
+      "issueTitle": "CRITICAL error during SpliceAI result aggregation due to out-of-bounds coordinates at chromosome ends",
+      "url": "https://github.com/hillerlab/TOGA2/issues/25",
+      "createdAt": "2026-04-15T12:26:45.988Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
