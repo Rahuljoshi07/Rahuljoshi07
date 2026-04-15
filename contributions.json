@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776248394596,
+      "repository": "nextcloud/HaRP",
+      "issueTitle": "Main NC proxy is not configured to support the 1800s request timeout",
+      "url": "https://github.com/nextcloud/HaRP/issues/45",
+      "createdAt": "2026-04-15T10:19:54.597Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
