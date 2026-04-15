@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776225045772,
+      "repository": "travisghansen/hass-opnsense",
+      "issueTitle": "[Bug]: No \"Firewall rules and NAT rules switches\" permission in granular sync list",
+      "url": "https://github.com/travisghansen/hass-opnsense/issues/566",
+      "createdAt": "2026-04-15T03:50:45.772Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
