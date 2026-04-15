@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776286468660,
+      "repository": "djust-org/djust",
+      "issueTitle": "fix: WebSocket close race on TurboNav from non-LiveView to LiveView page",
+      "url": "https://github.com/djust-org/djust/issues/732",
+      "createdAt": "2026-04-15T20:54:28.661Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
