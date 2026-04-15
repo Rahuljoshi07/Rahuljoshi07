@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776242474846,
+      "repository": "boutproject/xBOUT",
+      "issueTitle": "HDF5 error on loading slab dataset",
+      "url": "https://github.com/boutproject/xBOUT/issues/329",
+      "createdAt": "2026-04-15T08:41:14.846Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
