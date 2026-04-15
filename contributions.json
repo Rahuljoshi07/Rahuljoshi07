@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776222793207,
+      "repository": "ModelEngine-Group/unified-cache-management",
+      "issueTitle": "[Bug]: ucm0.5.0rc1同时5并发时报错",
+      "url": "https://github.com/ModelEngine-Group/unified-cache-management/issues/900",
+      "createdAt": "2026-04-15T03:13:13.207Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
