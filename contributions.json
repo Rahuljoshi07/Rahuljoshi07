@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776282266571,
+      "repository": "Rootly-AI-Labs/rootly-mcp-server",
+      "issueTitle": "Bug: Tool schema validation fails in VS Code Copilot — array type missing items property",
+      "url": "https://github.com/Rootly-AI-Labs/rootly-mcp-server/issues/82",
+      "createdAt": "2026-04-15T19:44:26.571Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
