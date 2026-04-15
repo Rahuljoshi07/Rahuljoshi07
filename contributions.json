@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1776211456027,
-      "repository": "alisaifee/coredis",
-      "issueTitle": "Unbounded memory growth — `CommandRequest` objects accumulate, held by a `dict` with `(self,)` tuple keys",
-      "url": "https://github.com/alisaifee/coredis/issues/361",
-      "createdAt": "2026-04-15T00:04:16.027Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
