@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776283313498,
-      "repository": "apache/cordova-js",
-      "issueTitle": "Event listener function overloads are too brittle, error if evt is undefined",
-      "url": "https://github.com/apache/cordova-js/issues/244",
-      "createdAt": "2026-04-15T20:01:53.498Z",
+      "id": 1776283373208,
+      "repository": "apache/cordova-docs",
+      "issueTitle": "exitApp should be documented",
+      "url": "https://github.com/apache/cordova-docs/issues/1242",
+      "createdAt": "2026-04-15T20:02:53.208Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
     }
   ],
   "stats": {
