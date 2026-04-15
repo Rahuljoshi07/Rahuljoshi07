@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776238197291,
+      "repository": "nephila/djangocms-blog",
+      "issueTitle": "install on djangocms 4.1",
+      "url": "https://github.com/nephila/djangocms-blog/issues/788",
+      "createdAt": "2026-04-15T07:29:57.291Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
