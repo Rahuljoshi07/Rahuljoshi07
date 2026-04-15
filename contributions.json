@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776291676310,
+      "repository": "AdobeDocs/app-builder",
+      "issueTitle": "Lint issues in PRs",
+      "url": "https://github.com/AdobeDocs/app-builder/issues/462",
+      "createdAt": "2026-04-15T22:21:16.310Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
