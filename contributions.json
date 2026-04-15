@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776295063164,
+      "id": 1776295096412,
       "repository": "tompassarelli/palefox",
-      "issueTitle": "feat: persist user JS customizations across updates",
-      "url": "https://github.com/tompassarelli/palefox/issues/32",
-      "createdAt": "2026-04-15T23:17:43.164Z",
+      "issueTitle": "bug: collapse layout contextmenu name not changing based on state in horizontal tabs",
+      "url": "https://github.com/tompassarelli/palefox/issues/41",
+      "createdAt": "2026-04-15T23:18:16.412Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
