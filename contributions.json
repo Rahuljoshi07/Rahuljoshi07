@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776272443155,
+      "repository": "cap-js/change-tracking",
+      "issueTitle": "Changes are not correctly logged for \"one to many Composition\"",
+      "url": "https://github.com/cap-js/change-tracking/issues/238",
+      "createdAt": "2026-04-15T17:00:43.155Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
