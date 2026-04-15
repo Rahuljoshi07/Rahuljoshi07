@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776221336161,
+      "repository": "ROCm/ATOM",
+      "issueTitle": "[Perf Regression] 16 config(s) regressed @ 4dc185c8",
+      "url": "https://github.com/ROCm/ATOM/issues/567",
+      "createdAt": "2026-04-15T02:48:56.162Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
