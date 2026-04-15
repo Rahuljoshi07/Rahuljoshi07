@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776236351731,
+      "id": 1776236392328,
       "repository": "mozilla/releases-comm-central",
-      "issueTitle": "Feature Request: Warning if no recipient has been entered in the \"TO\" field",
-      "url": "https://github.com/mozilla/releases-comm-central/issues/113",
-      "createdAt": "2026-04-15T06:59:11.731Z",
+      "issueTitle": "[BUG] Accepting invitation",
+      "url": "https://github.com/mozilla/releases-comm-central/issues/111",
+      "createdAt": "2026-04-15T06:59:52.328Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
