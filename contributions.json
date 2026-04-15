@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776226993622,
+      "repository": "pypa/build",
+      "issueTitle": "Error \"Backend 'X' is not available\" when PYTHONPATH contains a build dependency",
+      "url": "https://github.com/pypa/build/issues/1037",
+      "createdAt": "2026-04-15T04:23:13.622Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
