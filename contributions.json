@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776262034813,
+      "repository": "aligfellow/xyzrender",
+      "issueTitle": "plot 2 atoms file error",
+      "url": "https://github.com/aligfellow/xyzrender/issues/108",
+      "createdAt": "2026-04-15T14:07:14.813Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
