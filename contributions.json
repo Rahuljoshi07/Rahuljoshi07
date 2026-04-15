@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776257157517,
+      "repository": "sugarlabs/musicblocks",
+      "issueTitle": "[Bug] Interval Number block returns wrong value for enharmonic notes B and B#",
+      "url": "https://github.com/sugarlabs/musicblocks/issues/6629",
+      "createdAt": "2026-04-15T12:45:57.517Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
