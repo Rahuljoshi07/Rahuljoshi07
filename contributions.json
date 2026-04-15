@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776236974433,
+      "repository": "pulp/pulpcore",
+      "issueTitle": "Repository Version deletion is slow",
+      "url": "https://github.com/pulp/pulpcore/issues/7594",
+      "createdAt": "2026-04-15T07:09:34.434Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
