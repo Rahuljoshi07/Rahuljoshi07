@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1776229726339,
-      "repository": "nvuillam/npm-groovy-lint",
-      "issueTitle": "This package is hardcoding a specific version of axios, which now has multiple security issues",
-      "url": "https://github.com/nvuillam/npm-groovy-lint/issues/565",
-      "createdAt": "2026-04-15T05:08:46.339Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
