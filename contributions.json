@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776221427285,
+      "repository": "langgenius/dify-official-plugins",
+      "issueTitle": "Azure OpenAI Image Plugin API method bug when using OpenAI Image 1.5",
+      "url": "https://github.com/langgenius/dify-official-plugins/issues/2881",
+      "createdAt": "2026-04-15T02:50:27.285Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
