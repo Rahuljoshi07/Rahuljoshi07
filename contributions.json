@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776228481304,
+      "repository": "okta/okta-sdk-python",
+      "issueTitle": "‎UserFactorClient.list_factors always return null for \"result\"",
+      "url": "https://github.com/okta/okta-sdk-python/issues/387",
+      "createdAt": "2026-04-15T04:48:01.304Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
