@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776237941973,
+      "repository": "tomcounsell/ai",
+      "issueTitle": "SDLC pipeline halts after first stage: race between _handle_dev_session_completion and _finalize_parent_sync",
+      "url": "https://github.com/tomcounsell/ai/issues/987",
+      "createdAt": "2026-04-15T07:25:41.973Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
