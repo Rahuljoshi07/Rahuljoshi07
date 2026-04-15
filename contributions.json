@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776240662359,
+      "repository": "ansys/pyaedt-toolkits-common",
+      "issueTitle": "Bug located in Sphere and Cube Example",
+      "url": "https://github.com/ansys/pyaedt-toolkits-common/issues/388",
+      "createdAt": "2026-04-15T08:11:02.359Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
