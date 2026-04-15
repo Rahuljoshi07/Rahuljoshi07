@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776223390713,
+      "repository": "Meteor-Community-Packages/meteor-link-accounts",
+      "issueTitle": "Redirect style will create new user",
+      "url": "https://github.com/Meteor-Community-Packages/meteor-link-accounts/issues/58",
+      "createdAt": "2026-04-15T03:23:10.713Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
