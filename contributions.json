@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776293362285,
+      "repository": "ancsemi/Haven",
+      "issueTitle": "Screen sharing with audio from one application crashes the desktop application",
+      "url": "https://github.com/ancsemi/Haven/issues/5254",
+      "createdAt": "2026-04-15T22:49:22.285Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
