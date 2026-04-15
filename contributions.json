@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776290950586,
+      "repository": "gbroeckling/padspanHA",
+      "issueTitle": "Removing unknown panel padspan-ha",
+      "url": "https://github.com/gbroeckling/padspanHA/issues/31",
+      "createdAt": "2026-04-15T22:09:10.586Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. (Suggested by R..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
