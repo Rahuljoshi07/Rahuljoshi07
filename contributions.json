@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776219960570,
+      "repository": "MINT-SJTU/RoboClaw",
+      "issueTitle": "ImportError: cannot import name 'OperatingMode' from 'lerobot.motors.motors_bus'",
+      "url": "https://github.com/MINT-SJTU/RoboClaw/issues/35",
+      "createdAt": "2026-04-15T02:26:00.570Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
