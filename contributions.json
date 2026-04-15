@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776227515744,
+      "repository": "lumina37/aiotieba",
+      "issueTitle": "`get_unblock_appeals` 失效",
+      "url": "https://github.com/lumina37/aiotieba/issues/358",
+      "createdAt": "2026-04-15T04:31:55.744Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
