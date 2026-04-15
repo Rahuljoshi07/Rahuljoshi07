@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776251530646,
+      "repository": "hiall-fyi/tado_ce",
+      "issueTitle": "Bug: offset_celsius reporting raw Fahrenheit temperature",
+      "url": "https://github.com/hiall-fyi/tado_ce/issues/221",
+      "createdAt": "2026-04-15T11:12:10.646Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
