@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776258717383,
+      "repository": "cenfun/monocart-reporter",
+      "issueTitle": "[Bug] can not resolve source-map on Next.js 15",
+      "url": "https://github.com/cenfun/monocart-reporter/issues/161",
+      "createdAt": "2026-04-15T13:11:57.383Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
