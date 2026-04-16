@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776381990344,
+      "repository": "JinGuYuan/jinguyuan-dumpling-skill",
+      "issueTitle": "当前 MCP 服务在 streamable-http 场景下与官方 MCP Client SDK 的兼容性问题",
+      "url": "https://github.com/JinGuYuan/jinguyuan-dumpling-skill/issues/23",
+      "createdAt": "2026-04-16T23:26:30.344Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
