@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776302452787,
+      "repository": "sandialabs/snl-quest",
+      "issueTitle": "Fix installation error for snl_btm on macOS Apple silicon",
+      "url": "https://github.com/sandialabs/snl-quest/issues/73",
+      "createdAt": "2026-04-16T01:20:52.787Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
