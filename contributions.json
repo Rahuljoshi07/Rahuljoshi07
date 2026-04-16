@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776334144279,
+      "repository": "peviitor-ro/search-engine",
+      "issueTitle": "Jobs for Vilnius are diplayed",
+      "url": "https://github.com/peviitor-ro/search-engine/issues/1082",
+      "createdAt": "2026-04-16T10:09:04.279Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
