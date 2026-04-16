@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776324234654,
+      "repository": "MrAntares/roBrowserLegacy",
+      "issueTitle": "[BUG] msgstring table and some other data files has less entries in build mode then the development mode",
+      "url": "https://github.com/MrAntares/roBrowserLegacy/issues/857",
+      "createdAt": "2026-04-16T07:23:54.654Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
