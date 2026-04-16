@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776321925603,
+      "repository": "jkawamoto/mcp-youtube-transcript",
+      "issueTitle": "Error 429 mcp client Claude Desktop",
+      "url": "https://github.com/jkawamoto/mcp-youtube-transcript/issues/34",
+      "createdAt": "2026-04-16T06:45:25.603Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
