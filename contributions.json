@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776318884499,
+      "repository": "llnl/llnl.github.io",
+      "issueTitle": "Issues with Safari and IE",
+      "url": "https://github.com/llnl/llnl.github.io/issues/425",
+      "createdAt": "2026-04-16T05:54:44.499Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
