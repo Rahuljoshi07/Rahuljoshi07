@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776316500726,
+      "repository": "2dengine/love.js",
+      "issueTitle": "Window setup in love.load results in weird error \"File main.lua  does not exist on disk\"",
+      "url": "https://github.com/2dengine/love.js/issues/3",
+      "createdAt": "2026-04-16T05:15:00.726Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
