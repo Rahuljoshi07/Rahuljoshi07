@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776339907981,
+      "repository": "Pigotka/ha-cc-jablotron-cloud",
+      "issueTitle": "BYPASS-TIMED error on arm/disarm via Home Assistant (works in official app)",
+      "url": "https://github.com/Pigotka/ha-cc-jablotron-cloud/issues/67",
+      "createdAt": "2026-04-16T11:45:07.981Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
