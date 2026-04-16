@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776315197318,
+      "repository": "omni-us/jsonargparse",
+      "issueTitle": " Using relative config files in dicts and lists raises `Unexpected import path format`",
+      "url": "https://github.com/omni-us/jsonargparse/issues/557",
+      "createdAt": "2026-04-16T04:53:17.318Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
