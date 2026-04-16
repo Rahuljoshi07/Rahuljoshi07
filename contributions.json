@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776352315436,
+      "repository": "in-the-loop-labs/pair-review",
+      "issueTitle": "Pi provider crashes with RangeError: Invalid string length on large responses",
+      "url": "https://github.com/in-the-loop-labs/pair-review/issues/442",
+      "createdAt": "2026-04-16T15:11:55.436Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
