@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776366155297,
+      "repository": "ExtraE113/moltbook_data",
+      "issueTitle": "Cannot run with uv sync and error HTTP 429 when run with uv run python",
+      "url": "https://github.com/ExtraE113/moltbook_data/issues/8",
+      "createdAt": "2026-04-16T19:02:35.297Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
