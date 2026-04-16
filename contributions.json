@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776358801164,
+      "repository": "nasa-fornax/fornax-demo-notebooks",
+      "issueTitle": "BUG: clean_sample function needs to be bit more resillient for data issues",
+      "url": "https://github.com/nasa-fornax/fornax-demo-notebooks/issues/666",
+      "createdAt": "2026-04-16T17:00:01.164Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
