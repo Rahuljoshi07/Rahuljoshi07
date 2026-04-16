@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776307415401,
+      "repository": "vinimoz/agora",
+      "issueTitle": "i18n: Many issues after last commit",
+      "url": "https://github.com/vinimoz/agora/issues/19",
+      "createdAt": "2026-04-16T02:43:35.401Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
