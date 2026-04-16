@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776320326651,
+      "repository": "mholzi/beatify",
+      "issueTitle": "[Code Review: bugs] async_unload_entry does not cancel tasks or close connections",
+      "url": "https://github.com/mholzi/beatify/issues/672",
+      "createdAt": "2026-04-16T06:18:46.651Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
