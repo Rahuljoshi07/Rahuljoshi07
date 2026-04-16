@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776302039919,
+      "repository": "jesus2099/konami-command",
+      "issueTitle": "RELEASE_CLONER xhr_release_cloner error",
+      "url": "https://github.com/jesus2099/konami-command/issues/945",
+      "createdAt": "2026-04-16T01:13:59.919Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
