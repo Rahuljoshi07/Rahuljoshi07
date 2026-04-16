@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776308317303,
+      "repository": "emiller42/splunk-statsd-backend",
+      "issueTitle": "Break up namespace by delimiter",
+      "url": "https://github.com/emiller42/splunk-statsd-backend/issues/2",
+      "createdAt": "2026-04-16T02:58:37.303Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
