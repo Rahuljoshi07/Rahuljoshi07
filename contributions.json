@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776368500895,
+      "repository": "tomer-w/ha-victron-mqtt",
+      "issueTitle": "[Bug]:  Translation",
+      "url": "https://github.com/tomer-w/ha-victron-mqtt/issues/361",
+      "createdAt": "2026-04-16T19:41:40.895Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
