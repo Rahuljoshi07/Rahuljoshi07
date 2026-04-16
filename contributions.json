@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776329550205,
+      "repository": "cap-js/cds-dbs",
+      "issueTitle": "Plain SQL ignores parameters in Postgres",
+      "url": "https://github.com/cap-js/cds-dbs/issues/1577",
+      "createdAt": "2026-04-16T08:52:30.205Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
