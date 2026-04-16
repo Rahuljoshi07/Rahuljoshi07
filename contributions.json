@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776376320708,
+      "repository": "griptape-ai/griptape-nodes",
+      "issueTitle": "Dragging images from the chat sidebar to the node graph produces an error",
+      "url": "https://github.com/griptape-ai/griptape-nodes/issues/4367",
+      "createdAt": "2026-04-16T21:52:00.708Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
