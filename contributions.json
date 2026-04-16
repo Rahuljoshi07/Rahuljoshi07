@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776341401114,
+      "repository": "polyai/adk",
+      "issueTitle": "fix: poly branch create silently fails for non-main branches — should error with explanation",
+      "url": "https://github.com/polyai/adk/issues/26",
+      "createdAt": "2026-04-16T12:10:01.114Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
