@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776353813833,
+      "repository": "witsa/synapps",
+      "issueTitle": "Variable en Niveau INVITE",
+      "url": "https://github.com/witsa/synapps/issues/550",
+      "createdAt": "2026-04-16T15:36:53.833Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
