@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776351842433,
+      "repository": "hunter-read/grimoire",
+      "issueTitle": "PWA: stale cache prevents updates from reaching installed app",
+      "url": "https://github.com/hunter-read/grimoire/issues/42",
+      "createdAt": "2026-04-16T15:04:02.433Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
