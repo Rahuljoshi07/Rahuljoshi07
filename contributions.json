@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776311406308,
-      "repository": "Map1en/VRCX-0",
-      "issueTitle": "Known Issues (rolling)",
-      "url": "https://github.com/Map1en/VRCX-0/issues/5",
-      "createdAt": "2026-04-16T03:50:06.308Z",
+      "id": 1776311444397,
+      "repository": "fitlab-ai/agent-infra",
+      "issueTitle": "bug(test): windows 基线测试存在问题",
+      "url": "https://github.com/fitlab-ai/agent-infra/issues/190",
+      "createdAt": "2026-04-16T03:50:44.397Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
     }
   ],
   "stats": {
