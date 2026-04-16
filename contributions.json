@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776300052358,
+      "repository": "JinHo-von-Choi/memento-mcp",
+      "issueTitle": "MCP가 등록되지 않습니다.",
+      "url": "https://github.com/JinHo-von-Choi/memento-mcp/issues/11",
+      "createdAt": "2026-04-16T00:40:52.358Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
