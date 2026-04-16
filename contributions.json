@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776334541567,
+      "repository": "equinor/template-fastapi-react",
+      "issueTitle": "Investigate better ways to integrate the template with Varia",
+      "url": "https://github.com/equinor/template-fastapi-react/issues/438",
+      "createdAt": "2026-04-16T10:15:41.567Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
