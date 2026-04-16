@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1776352605870,
+      "id": 1776352644091,
       "repository": "AdguardTeam/Scriptlets",
       "issueTitle": "Fix 'href-sanitizer' — does not work with Google tracking URLs",
       "url": "https://github.com/AdguardTeam/Scriptlets/issues/475",
-      "createdAt": "2026-04-16T15:16:45.870Z",
+      "createdAt": "2026-04-16T15:17:24.091Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
