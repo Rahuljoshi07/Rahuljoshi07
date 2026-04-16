@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776353370176,
+      "repository": "MonetDB/pymonetdb",
+      "issueTitle": "methods of a closed cursor do not raise error",
+      "url": "https://github.com/MonetDB/pymonetdb/issues/132",
+      "createdAt": "2026-04-16T15:29:30.176Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
