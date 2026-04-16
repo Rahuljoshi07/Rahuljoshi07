@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776344788087,
+      "repository": "txemi/immich-autotag",
+      "issueTitle": "CRAZY_DEBUG mode: abs_total too low (<200000) exception crashes run for libraries under 200,000 assets",
+      "url": "https://github.com/txemi/immich-autotag/issues/46",
+      "createdAt": "2026-04-16T13:06:28.087Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
