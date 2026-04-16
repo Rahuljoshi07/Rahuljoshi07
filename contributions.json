@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776334456210,
+      "repository": "qiime2/q2cli",
+      "issueTitle": "improve error message from `qiime tools replay-proveance` on invalid input file path",
+      "url": "https://github.com/qiime2/q2cli/issues/321",
+      "createdAt": "2026-04-16T10:14:16.210Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
