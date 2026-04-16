@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776312838602,
+      "repository": "reactjs/ko.react.dev",
+      "issueTitle": "[번역 필요]: API 참고서 > Hook > useEffect 일부 미번역",
+      "url": "https://github.com/reactjs/ko.react.dev/issues/1496",
+      "createdAt": "2026-04-16T04:13:58.602Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
