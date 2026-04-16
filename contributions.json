@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776311761078,
+      "repository": "ijry/uview-plus",
+      "issueTitle": "升级到3.7.37版本编译报错，Could not resolve \"./libs/theme/theme.js\"，缺少theme.js文件",
+      "url": "https://github.com/ijry/uview-plus/issues/1005",
+      "createdAt": "2026-04-16T03:56:01.078Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
