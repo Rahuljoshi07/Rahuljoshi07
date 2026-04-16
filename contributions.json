@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776337086251,
+      "id": 1776337113166,
       "repository": "third-culture-software/bhima",
       "issueTitle": "Cashflow report is painfully slow",
       "url": "https://github.com/third-culture-software/bhima/issues/8696",
-      "createdAt": "2026-04-16T10:58:06.251Z",
+      "createdAt": "2026-04-16T10:58:33.166Z",
       "type": "comment",
-      "content": "Using web workers for heavy computations could improve UI responsiveness. This suggestion is particu..."
+      "content": "Debouncing or throttling might help with frequent event handlers. This suggestion is particularly re..."
     }
   ],
   "stats": {
