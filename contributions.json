@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776307814059,
+      "repository": "langchain-ai/langchain-community",
+      "issueTitle": "Problem with invoke ChatLlamaCpp - can only concatenate str (not \"list\") to str",
+      "url": "https://github.com/langchain-ai/langchain-community/issues/634",
+      "createdAt": "2026-04-16T02:50:14.059Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
