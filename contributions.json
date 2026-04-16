@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776360593308,
+      "repository": "elyra-ai/canvas",
+      "issueTitle": "Error message isn't cleared in list control using custom condition",
+      "url": "https://github.com/elyra-ai/canvas/issues/2716",
+      "createdAt": "2026-04-16T17:29:53.308Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
