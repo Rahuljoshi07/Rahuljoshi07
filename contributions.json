@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776300458768,
+      "repository": "fal-ai/fal",
+      "issueTitle": "Account locked despite positive balance ($9.15) - unlocking mechanism bug",
+      "url": "https://github.com/fal-ai/fal/issues/922",
+      "createdAt": "2026-04-16T00:47:38.768Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
