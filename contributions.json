@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776375571105,
+      "id": 1776375621790,
       "repository": "mgiesen/Image-Comments",
-      "issueTitle": "[Feature Request] Extend preview to also include special previewers which generate an image - for example D2 or PlantUML",
-      "url": "https://github.com/mgiesen/Image-Comments/issues/17",
-      "createdAt": "2026-04-16T21:39:31.105Z",
+      "issueTitle": "Regexp problem if there is no comment in front of the image path",
+      "url": "https://github.com/mgiesen/Image-Comments/issues/11",
+      "createdAt": "2026-04-16T21:40:21.790Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
