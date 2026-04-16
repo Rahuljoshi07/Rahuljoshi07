@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776369456331,
+      "repository": "CatChen/eslint-suggestion-action",
+      "issueTitle": "\"The command line is too long.\" from Windows",
+      "url": "https://github.com/CatChen/eslint-suggestion-action/issues/656",
+      "createdAt": "2026-04-16T19:57:36.331Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
