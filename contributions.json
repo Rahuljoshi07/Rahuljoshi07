@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776348595085,
+      "repository": "emanuelegreco29/Ksenia_Lares_4.0-HASS_Addon",
+      "issueTitle": "[BUG] Missing Cover Entities after 2.2.4",
+      "url": "https://github.com/emanuelegreco29/Ksenia_Lares_4.0-HASS_Addon/issues/70",
+      "createdAt": "2026-04-16T14:09:55.086Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
