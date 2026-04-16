@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776338234674,
+      "repository": "parse-community/parse-server-push-adapter",
+      "issueTitle": "Parse Server crash on FCM network error using http/2",
+      "url": "https://github.com/parse-community/parse-server-push-adapter/issues/342",
+      "createdAt": "2026-04-16T11:17:14.674Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
