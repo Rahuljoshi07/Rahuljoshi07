@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776306318103,
-      "repository": "fitlab-ai/agent-infra",
-      "issueTitle": "feat(skills): 优化 create-pr 元数据原子化与门禁校验",
-      "url": "https://github.com/fitlab-ai/agent-infra/issues/212",
-      "createdAt": "2026-04-16T02:25:18.104Z",
+      "id": 1776306357882,
+      "repository": "pact-foundation/pact-python",
+      "issueTitle": "Intermittent 'RuntimeError: Pact mock server could not be started for PactHandle' (race in find_free_port)",
+      "url": "https://github.com/pact-foundation/pact-python/issues/1541",
+      "createdAt": "2026-04-16T02:25:57.882Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
