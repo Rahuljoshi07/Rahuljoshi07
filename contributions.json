@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776344867041,
+      "repository": "third-culture-software/bhima",
+      "issueTitle": "Cashflow report is painfully slow",
+      "url": "https://github.com/third-culture-software/bhima/issues/8696",
+      "createdAt": "2026-04-16T13:07:47.041Z",
+      "type": "comment",
+      "content": "Consider code splitting and lazy loading for better initial load times. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
