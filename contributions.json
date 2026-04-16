@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776373609747,
+      "repository": "Ishidawg/LeShade",
+      "issueTitle": "Upgrading from an earlier version doesn't work (FFXIV)",
+      "url": "https://github.com/Ishidawg/LeShade/issues/46",
+      "createdAt": "2026-04-16T21:06:49.747Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
