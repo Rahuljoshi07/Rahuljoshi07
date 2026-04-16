@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776322963478,
+      "repository": "hostinger/api-mcp-server",
+      "issueTitle": "[BUG] Directory permissions changed to 700 after deploying static website via `hosting_deployStaticWebsite`",
+      "url": "https://github.com/hostinger/api-mcp-server/issues/18",
+      "createdAt": "2026-04-16T07:02:43.478Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
