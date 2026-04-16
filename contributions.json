@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776372427174,
+      "repository": "SenteraLLC/py-radiometric-corrections",
+      "issueTitle": "Better error reporting when input folder contains no valid images",
+      "url": "https://github.com/SenteraLLC/py-radiometric-corrections/issues/51",
+      "createdAt": "2026-04-16T20:47:07.174Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
