@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776298787406,
+      "repository": "ProjectSidewalk/SidewalkWebpage",
+      "issueTitle": "Mapillary: \"Uh-oh, you're quite far away from the route\" shows temporarily when moving to new street",
+      "url": "https://github.com/ProjectSidewalk/SidewalkWebpage/issues/4174",
+      "createdAt": "2026-04-16T00:19:47.406Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
