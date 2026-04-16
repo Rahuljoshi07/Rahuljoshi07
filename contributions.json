@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1776351115927,
-      "repository": "openwisp/django-loci",
-      "issueTitle": "[bug] Vulnerability in pillow <12.1.1",
-      "url": "https://github.com/openwisp/django-loci/issues/215",
-      "createdAt": "2026-04-16T14:51:55.927Z",
-      "type": "comment",
-      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
