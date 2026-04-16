@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776367188546,
+      "repository": "oprypin/mkdocs-section-index",
+      "issueTitle": "section-index returns error when using in combination with material's blog plugin",
+      "url": "https://github.com/oprypin/mkdocs-section-index/issues/22",
+      "createdAt": "2026-04-16T19:19:48.546Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
