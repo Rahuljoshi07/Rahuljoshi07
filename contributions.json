@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1776341560619,
-      "repository": "SemanticMediaWiki/SemanticResultFormats",
-      "issueTitle": "[graph] Error `Call to undefined method SMWTimeValue::getDisplayTitle()` when using `Modification date::+`",
-      "url": "https://github.com/SemanticMediaWiki/SemanticResultFormats/issues/988",
-      "createdAt": "2026-04-16T12:12:40.620Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
