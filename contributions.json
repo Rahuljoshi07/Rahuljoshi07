@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776378671978,
+      "repository": "Flowm/satvis",
+      "issueTitle": "DOM XSS in Cesium InfoBox via unsanitized ?gs name (requires ground-station click)",
+      "url": "https://github.com/Flowm/satvis/issues/99",
+      "createdAt": "2026-04-16T22:31:11.978Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
