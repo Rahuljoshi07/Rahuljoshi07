@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1776358187842,
-      "repository": "aws-samples/amazon-ivs-player-web-sample",
-      "issueTitle": "AWS IVS Player doesn't trigger the event PlayerEventType.ERROR on IOS device when revoking session (Safari and Chrome)",
-      "url": "https://github.com/aws-samples/amazon-ivs-player-web-sample/issues/108",
-      "createdAt": "2026-04-16T16:49:47.842Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
