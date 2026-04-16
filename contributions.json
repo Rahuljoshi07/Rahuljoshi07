@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776306443021,
+      "repository": "langchain-ai/langchain-google",
+      "issueTitle": "fix(genai): attribute tool use tokens in usage metadata",
+      "url": "https://github.com/langchain-ai/langchain-google/issues/1662",
+      "createdAt": "2026-04-16T02:27:23.021Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
