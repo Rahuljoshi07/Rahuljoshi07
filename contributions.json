@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776352555919,
-      "repository": "ar27111994/webhook-debugger-logger",
-      "issueTitle": "🚨 ACTOR.BUILD.FAILED: undefined",
-      "url": "https://github.com/ar27111994/webhook-debugger-logger/issues/64",
-      "createdAt": "2026-04-16T15:15:55.919Z",
+      "id": 1776352605870,
+      "repository": "AdguardTeam/Scriptlets",
+      "issueTitle": "Fix 'href-sanitizer' — does not work with Google tracking URLs",
+      "url": "https://github.com/AdguardTeam/Scriptlets/issues/475",
+      "createdAt": "2026-04-16T15:16:45.870Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
