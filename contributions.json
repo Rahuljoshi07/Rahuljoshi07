@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776366625155,
+      "repository": "LSSTDESC/firecrown",
+      "issueTitle": "Not sampling HMCode parameters with CosmoSIS",
+      "url": "https://github.com/LSSTDESC/firecrown/issues/612",
+      "createdAt": "2026-04-16T19:10:25.155Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
