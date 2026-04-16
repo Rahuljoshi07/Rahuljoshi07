@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776348885472,
+      "repository": "okta/okta-sdk-nodejs",
+      "issueTitle": "schemaApi.updateApplicationUserProfile body no longer supports items field for custom attributes",
+      "url": "https://github.com/okta/okta-sdk-nodejs/issues/480",
+      "createdAt": "2026-04-16T14:14:45.472Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
