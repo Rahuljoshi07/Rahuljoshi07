@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776304594252,
+      "repository": "larowlan/vite-plugin-twig-drupal",
+      "issueTitle": "Unable to correctly parse dynamic import",
+      "url": "https://github.com/larowlan/vite-plugin-twig-drupal/issues/18",
+      "createdAt": "2026-04-16T01:56:34.252Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
