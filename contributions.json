@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776382440102,
+      "repository": "rubyjs/mini_racer",
+      "issueTitle": "Error installing v0.18.1 on Ruby v3.4.8 on MacOSX x86",
+      "url": "https://github.com/rubyjs/mini_racer/issues/388",
+      "createdAt": "2026-04-16T23:34:00.102Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
