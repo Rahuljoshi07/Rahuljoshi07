@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776310036941,
+      "repository": "Dreamlinerm/Netflix-Prime-Auto-Skip",
+      "issueTitle": "[BUG] - Crunchyroll Skip are not working under special conditions",
+      "url": "https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip/issues/225",
+      "createdAt": "2026-04-16T03:27:16.941Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
