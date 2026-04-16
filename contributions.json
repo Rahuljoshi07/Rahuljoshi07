@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776349699269,
+      "repository": "MOVIBALE/Lumina-Layers",
+      "issueTitle": "[Problem]Error:Connection to the server was lost. Attempting reconnection...",
+      "url": "https://github.com/MOVIBALE/Lumina-Layers/issues/220",
+      "createdAt": "2026-04-16T14:28:19.269Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
