@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776312467912,
+      "repository": "zapier/zapier-platform",
+      "issueTitle": "[Bug]: zapier-platform-schema uses insecure lodash",
+      "url": "https://github.com/zapier/zapier-platform/issues/1232",
+      "createdAt": "2026-04-16T04:07:47.912Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
