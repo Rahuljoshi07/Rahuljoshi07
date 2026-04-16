@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776298479103,
+      "repository": "VoltCyclone/PCILeechFWGenerator",
+      "issueTitle": "[BUG] Broken installation and TUI initialization on Python 3.12",
+      "url": "https://github.com/VoltCyclone/PCILeechFWGenerator/issues/576",
+      "createdAt": "2026-04-16T00:14:39.103Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
