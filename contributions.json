@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776341763494,
+      "repository": "yanxxl/X-tools",
+      "issueTitle": "许个愿，同时反馈一下bug",
+      "url": "https://github.com/yanxxl/X-tools/issues/10",
+      "createdAt": "2026-04-16T12:16:03.495Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
