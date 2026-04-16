@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776367926846,
+      "repository": "NetApp/netapp-dataops-toolkit",
+      "issueTitle": "Triggering snapshots when Volume Snapshots are not enabled in K8s returns a vague error.",
+      "url": "https://github.com/NetApp/netapp-dataops-toolkit/issues/7",
+      "createdAt": "2026-04-16T19:32:06.846Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
