@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776302537888,
+      "repository": "p2r3/epochtal",
+      "issueTitle": "Voting for arbitrary strings possible",
+      "url": "https://github.com/p2r3/epochtal/issues/89",
+      "createdAt": "2026-04-16T01:22:17.889Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
