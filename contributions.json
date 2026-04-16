@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776305211878,
+      "repository": "cyruzzo/AboveVTT",
+      "issueTitle": "AboveApi network error for 'getCampaignData': Failed to fetch",
+      "url": "https://github.com/cyruzzo/AboveVTT/issues/4280",
+      "createdAt": "2026-04-16T02:06:51.878Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
