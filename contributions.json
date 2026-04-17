@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776385867014,
+      "repository": "TryGhost/Ghost-CLI",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/TryGhost/Ghost-CLI/issues/1540",
+      "createdAt": "2026-04-17T00:31:07.014Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
