@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776401513418,
+      "repository": "DawnbrandBots/yaml-yugi",
+      "issueTitle": "TBA Rush Duel card \"Gateway to the Wooly Wunderworld\" breaks the pipeline",
+      "url": "https://github.com/DawnbrandBots/yaml-yugi/issues/281",
+      "createdAt": "2026-04-17T04:51:53.418Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
