@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776401760349,
+      "repository": "ether/ep_table_of_contents",
+      "issueTitle": "The plugin does not work with docker",
+      "url": "https://github.com/ether/ep_table_of_contents/issues/152",
+      "createdAt": "2026-04-17T04:56:00.349Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
