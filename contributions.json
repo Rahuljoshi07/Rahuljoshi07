@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776403234574,
+      "repository": "NotePlan/plugins",
+      "issueTitle": "Dashboard: Interactive Processing (sometimes) not working with cycle up down priority then making a final change (e.g. reschedule)",
+      "url": "https://github.com/NotePlan/plugins/issues/744",
+      "createdAt": "2026-04-17T05:20:34.575Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
