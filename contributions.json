@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776403046036,
+      "repository": "muchdogesec/obstracts",
+      "issueTitle": "KB ID filter still not working.",
+      "url": "https://github.com/muchdogesec/obstracts/issues/460",
+      "createdAt": "2026-04-17T05:17:26.036Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
