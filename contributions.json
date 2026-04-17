@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776391802379,
+      "repository": "albertogasparin/react-magnetic-di",
+      "issueTitle": "react-magnetic-di/order rule should ignore pragma",
+      "url": "https://github.com/albertogasparin/react-magnetic-di/issues/119",
+      "createdAt": "2026-04-17T02:10:02.379Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
