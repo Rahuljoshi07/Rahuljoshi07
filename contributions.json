@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776396138715,
+      "id": 1776396176356,
       "repository": "oldcordapp/Oldcord",
-      "issueTitle": "Sync member lists between each channel in a guild",
-      "url": "https://github.com/oldcordapp/Oldcord/issues/153",
-      "createdAt": "2026-04-17T03:22:18.715Z",
+      "issueTitle": "Fix message acknowledgement bug",
+      "url": "https://github.com/oldcordapp/Oldcord/issues/169",
+      "createdAt": "2026-04-17T03:22:56.356Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
