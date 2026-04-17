@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776396982865,
+      "repository": "SalviaSWC/FreeODwiki",
+      "issueTitle": "文档中的格式问题：⬅返回 超链接与一级标题的先后顺序错乱",
+      "url": "https://github.com/SalviaSWC/FreeODwiki/issues/61",
+      "createdAt": "2026-04-17T03:36:22.866Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
