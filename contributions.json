@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776397178505,
+      "repository": "openwrt/asu",
+      "issueTitle": "build: upstream_url not used for setup",
+      "url": "https://github.com/openwrt/asu/issues/1623",
+      "createdAt": "2026-04-17T03:39:38.505Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
