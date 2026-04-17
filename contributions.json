@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776391151124,
+      "repository": "error311/FileRise",
+      "issueTitle": "Config.php file contains global functions and requires updating on new versions",
+      "url": "https://github.com/error311/FileRise/issues/111",
+      "createdAt": "2026-04-17T01:59:11.125Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
