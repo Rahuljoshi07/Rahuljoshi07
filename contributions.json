@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776386454098,
+      "repository": "BeiDouMS/BeiDou-Server",
+      "issueTitle": "[Bug] 设置怪物金币最低爆3以下最高5会出现爆出最大值金币的情况",
+      "url": "https://github.com/BeiDouMS/BeiDou-Server/issues/626",
+      "createdAt": "2026-04-17T00:40:54.098Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
