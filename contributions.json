@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776392197803,
+      "repository": "agentscope-ai/agentscope-runtime",
+      "issueTitle": "[Bug] OpenAI Responses stream shows no tool calls even when the assistant claims to use tools",
+      "url": "https://github.com/agentscope-ai/agentscope-runtime/issues/486",
+      "createdAt": "2026-04-17T02:16:37.803Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
