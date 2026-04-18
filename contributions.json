@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776501261500,
+      "repository": "bhovhannes/svg-url-loader",
+      "issueTitle": "[Webpack]Error report of introducing SVG file into img tag ?  Please refer to the screenshot.",
+      "url": "https://github.com/bhovhannes/svg-url-loader/issues/486",
+      "createdAt": "2026-04-18T08:34:21.500Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
