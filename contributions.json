@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776482183641,
-      "repository": "kiyohken2000/feedown",
-      "issueTitle": "bug: Refresh fails for users with many feeds due to Cloudflare Workers subrequest limit (50/invocation)",
-      "url": "https://github.com/kiyohken2000/feedown/issues/2",
-      "createdAt": "2026-04-18T03:16:23.641Z",
+      "id": 1776482215869,
+      "repository": "XasYer/ws-plugin",
+      "issueTitle": "BUG: 临时会话拦截功能失效",
+      "url": "https://github.com/XasYer/ws-plugin/issues/43",
+      "createdAt": "2026-04-18T03:16:55.870Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
