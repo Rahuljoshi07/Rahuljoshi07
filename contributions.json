@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776475923871,
+      "repository": "TheWisker/Cavasik",
+      "issueTitle": "[BUG] Bug template on GitHub does not allow to specify own Cavasik version.",
+      "url": "https://github.com/TheWisker/Cavasik/issues/33",
+      "createdAt": "2026-04-18T01:32:03.871Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
