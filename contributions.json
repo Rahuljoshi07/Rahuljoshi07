@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776480202252,
+      "repository": "elidickinson/pi-claude-bridge",
+      "issueTitle": "Bug: \"No conversation found\" after first multi-tool turn",
+      "url": "https://github.com/elidickinson/pi-claude-bridge/issues/4",
+      "createdAt": "2026-04-18T02:43:22.253Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
