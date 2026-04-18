@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776529183778,
+      "repository": "jwadow/kiro-gateway",
+      "issueTitle": "Kiro's proxy Claude code is no longer working; risk control is very strict.",
+      "url": "https://github.com/jwadow/kiro-gateway/issues/115",
+      "createdAt": "2026-04-18T16:19:43.778Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
