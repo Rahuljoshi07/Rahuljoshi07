@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776490643302,
+      "repository": "promptdriven/pdd",
+      "issueTitle": "Bug: generate_prompt produces meta-prompts that instruct LLM to write a prompt instead of code",
+      "url": "https://github.com/promptdriven/pdd/issues/783",
+      "createdAt": "2026-04-18T05:37:23.302Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
