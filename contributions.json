@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776487160018,
+      "repository": "goastian/midori-desktop",
+      "issueTitle": "[Bug]: workspaces only has the \"Default\" when Midori starts.",
+      "url": "https://github.com/goastian/midori-desktop/issues/128",
+      "createdAt": "2026-04-18T04:39:20.019Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
