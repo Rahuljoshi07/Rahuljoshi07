@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776541903637,
+      "repository": "python-hyper/hpack",
+      "issueTitle": "Use trace log level instead of debug",
+      "url": "https://github.com/python-hyper/hpack/issues/273",
+      "createdAt": "2026-04-18T19:51:43.637Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
