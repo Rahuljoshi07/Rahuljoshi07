@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1776475377374,
-      "repository": "nextcloud/mail",
-      "issueTitle": "If a user has an IMAP account with additional shared folders, Nextcloud Mail will use any sent folder as the default folder for sent emails.",
-      "url": "https://github.com/nextcloud/mail/issues/12551",
-      "createdAt": "2026-04-18T01:22:57.374Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
