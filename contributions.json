@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776536588061,
+      "repository": "firstof9/openevse",
+      "issueTitle": "[Bug]: Sensor Flapping After Vehicle Unplug When Previously in Divert/Solar Production Mode",
+      "url": "https://github.com/firstof9/openevse/issues/571",
+      "createdAt": "2026-04-18T18:23:08.061Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
