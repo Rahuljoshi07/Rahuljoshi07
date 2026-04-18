@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776478704576,
+      "id": 1776478741577,
       "repository": "nextcloud/integration_mattermost",
-      "issueTitle": "Authenticated ciphertext could not be decoded.",
-      "url": "https://github.com/nextcloud/integration_mattermost/issues/82",
-      "createdAt": "2026-04-18T02:18:24.576Z",
+      "issueTitle": "Reuse OAuth2 Token with Mattermost?",
+      "url": "https://github.com/nextcloud/integration_mattermost/issues/56",
+      "createdAt": "2026-04-18T02:19:01.577Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
