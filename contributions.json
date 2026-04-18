@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776506831753,
+      "repository": "Pantheon-Security/medusa",
+      "issueTitle": "feat: Plugin architecture for paid tier (medusa-pro as separate package)",
+      "url": "https://github.com/Pantheon-Security/medusa/issues/3",
+      "createdAt": "2026-04-18T10:07:11.754Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
