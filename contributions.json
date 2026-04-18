@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776553447263,
+      "repository": "GamesDoneQuick/donation-tracker",
+      "issueTitle": "Unknown error attempting to donate",
+      "url": "https://github.com/GamesDoneQuick/donation-tracker/issues/913",
+      "createdAt": "2026-04-18T23:04:07.263Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
