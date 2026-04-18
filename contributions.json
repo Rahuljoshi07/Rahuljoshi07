@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776490448319,
+      "repository": "fails-components/webtransport",
+      "issueTitle": "quic_bug_12724_4: Tried to add writer into blocked list when it shouldn't be added",
+      "url": "https://github.com/fails-components/webtransport/issues/442",
+      "createdAt": "2026-04-18T05:34:08.319Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
