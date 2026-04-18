@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776512893148,
+      "id": 1776512927239,
       "repository": "SeJonJ/ChatForYou",
-      "issueTitle": "feat::예외처리 개선",
-      "url": "https://github.com/SeJonJ/ChatForYou/issues/104",
-      "createdAt": "2026-04-18T11:48:13.148Z",
+      "issueTitle": "bug:: 방에 입장 시에 카메라 사용 입장한기존 사용자 화면이 보이지 않는 현상",
+      "url": "https://github.com/SeJonJ/ChatForYou/issues/114",
+      "createdAt": "2026-04-18T11:48:47.239Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
