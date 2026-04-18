@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776482183641,
+      "repository": "kiyohken2000/feedown",
+      "issueTitle": "bug: Refresh fails for users with many feeds due to Cloudflare Workers subrequest limit (50/invocation)",
+      "url": "https://github.com/kiyohken2000/feedown/issues/2",
+      "createdAt": "2026-04-18T03:16:23.641Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
