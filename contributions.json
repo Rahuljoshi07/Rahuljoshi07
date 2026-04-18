@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776491102054,
-      "repository": "iuccio/csvToJson",
-      "issueTitle": "Convert JSON to CSV",
-      "url": "https://github.com/iuccio/csvToJson/issues/112",
-      "createdAt": "2026-04-18T05:45:02.054Z",
+      "id": 1776491161677,
+      "repository": "bahmutov/cyclope",
+      "issueTitle": "Having TypeError: Cannot read properties of undefined (reading 'realHover')",
+      "url": "https://github.com/bahmutov/cyclope/issues/85",
+      "createdAt": "2026-04-18T05:46:01.677Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. This suggestion i..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
