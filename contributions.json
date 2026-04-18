@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776474933732,
+      "repository": "marin-community/marin",
+      "issueTitle": "[iris] Terminate workers w/ \"No accelerator found\" errors",
+      "url": "https://github.com/marin-community/marin/issues/4817",
+      "createdAt": "2026-04-18T01:15:33.733Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
