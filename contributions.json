@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776482626279,
+      "repository": "TheWisker/Shikai",
+      "issueTitle": "Login fails and power buttons are unresponsive on Ubuntu",
+      "url": "https://github.com/TheWisker/Shikai/issues/20",
+      "createdAt": "2026-04-18T03:23:46.279Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
