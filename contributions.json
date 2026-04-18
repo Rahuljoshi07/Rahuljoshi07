@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776498961799,
+      "repository": "Larkinabout/fvtt-token-action-hud-core",
+      "issueTitle": "[BUG] Escape Key Doesn't Deselect Tokens",
+      "url": "https://github.com/Larkinabout/fvtt-token-action-hud-core/issues/347",
+      "createdAt": "2026-04-18T07:56:01.800Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
