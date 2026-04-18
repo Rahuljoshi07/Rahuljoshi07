@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776514038891,
+      "repository": "tomcounsell/ai",
+      "issueTitle": "Recalibrate /do-pr-review: introduce explicit rubric + disclosure parser + prior-review context",
+      "url": "https://github.com/tomcounsell/ai/issues/1045",
+      "createdAt": "2026-04-18T12:07:18.891Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
