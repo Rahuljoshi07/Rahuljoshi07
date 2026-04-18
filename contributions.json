@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776483205223,
+      "repository": "Joanium/Joanium",
+      "issueTitle": "[Bug]: Add support for thinking output",
+      "url": "https://github.com/Joanium/Joanium/issues/23",
+      "createdAt": "2026-04-18T03:33:25.223Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
