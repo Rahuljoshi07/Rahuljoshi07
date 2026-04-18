@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776548831287,
+      "repository": "JATOS/JATOS",
+      "issueTitle": "[Windows] Study import fails on 3.10.1 due to two path separator bugs in Component.getHtmlFilePath() and IOUtils.REGEX_ILLEGAL_IN_PATH",
+      "url": "https://github.com/JATOS/JATOS/issues/339",
+      "createdAt": "2026-04-18T21:47:11.287Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
