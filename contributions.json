@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1776535118750,
-      "repository": "angelosalatino/cso-classifier",
-      "issueTitle": " Getting requirements to build wheel ... error  >>>  Error compiling Cython file: spacy/vocab.pxd:28:10: Variables cannot be declared with 'cpdef'. Use 'cdef' instead.",
-      "url": "https://github.com/angelosalatino/cso-classifier/issues/16",
-      "createdAt": "2026-04-18T17:58:38.750Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
