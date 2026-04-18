@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776553866174,
+      "repository": "browniebroke/django-codemod",
+      "issueTitle": "Django 4  django.dispatch.Signal unexpected keyword argument providing_args",
+      "url": "https://github.com/browniebroke/django-codemod/issues/502",
+      "createdAt": "2026-04-18T23:11:06.174Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
