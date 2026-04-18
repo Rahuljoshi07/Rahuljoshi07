@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776506972985,
+      "repository": "iobroker-community-adapters/ioBroker.device-watcher",
+      "issueTitle": "LowBattery wird nicht erkannt (Homematic-IP)",
+      "url": "https://github.com/iobroker-community-adapters/ioBroker.device-watcher/issues/636",
+      "createdAt": "2026-04-18T10:09:32.985Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
