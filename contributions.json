@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776516439438,
+      "repository": "ServiceStack/llms",
+      "issueTitle": "Error adding custom provider (perplexity) \"unsupported operand type(s) for +=: 'int' and 'str'\"",
+      "url": "https://github.com/ServiceStack/llms/issues/42",
+      "createdAt": "2026-04-18T12:47:19.438Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
