@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776532504872,
+      "repository": "AllTheMods/All-the-Mons",
+      "issueTitle": "[Modpack Bug]: airship_choc_factory doesn't generate",
+      "url": "https://github.com/AllTheMods/All-the-Mons/issues/504",
+      "createdAt": "2026-04-18T17:15:04.872Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
