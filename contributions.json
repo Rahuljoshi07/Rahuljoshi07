@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776528581391,
+      "repository": "stcarrez/ada-asf",
+      "issueTitle": "Install files with gprinstall",
+      "url": "https://github.com/stcarrez/ada-asf/issues/10",
+      "createdAt": "2026-04-18T16:09:41.391Z",
+      "type": "comment",
+      "content": "Using a bundler like Webpack or Vite could improve performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
