@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776573567969,
+      "repository": "munich-quantum-toolkit/bench",
+      "issueTitle": "❌ Qiskit Upstream Tests Failure",
+      "url": "https://github.com/munich-quantum-toolkit/bench/issues/888",
+      "createdAt": "2026-04-19T04:39:27.969Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
