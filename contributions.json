@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776574480611,
+      "repository": "josephrcox/easy-reddit-downloader",
+      "issueTitle": "Exits without downloading",
+      "url": "https://github.com/josephrcox/easy-reddit-downloader/issues/118",
+      "createdAt": "2026-04-19T04:54:40.611Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
