@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776629144172,
+      "repository": "djust-org/djust",
+      "issueTitle": "tech-debt: theming/components template tests need dedicated Django settings",
+      "url": "https://github.com/djust-org/djust/issues/777",
+      "createdAt": "2026-04-19T20:05:44.172Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
