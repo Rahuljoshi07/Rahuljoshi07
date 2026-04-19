@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776578992773,
+      "repository": "asxez/MusicBox",
+      "issueTitle": "[BUG] 歌词页无法显示歌词但是桌面歌词却正常显示",
+      "url": "https://github.com/asxez/MusicBox/issues/48",
+      "createdAt": "2026-04-19T06:09:52.773Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
