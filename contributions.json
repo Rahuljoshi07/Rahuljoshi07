@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776603100935,
+      "repository": "soxoj/telegram-bot-dumper",
+      "issueTitle": "Reported issue #1",
+      "url": "https://github.com/soxoj/telegram-bot-dumper/issues/13",
+      "createdAt": "2026-04-19T12:51:40.935Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
