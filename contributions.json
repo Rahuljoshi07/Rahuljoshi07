@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776633728268,
+      "repository": "FranckyB/ComfyUI-Prompt-Manager",
+      "issueTitle": "Error when running model Qwen3.5-9B: Error: Server did not start in time",
+      "url": "https://github.com/FranckyB/ComfyUI-Prompt-Manager/issues/27",
+      "createdAt": "2026-04-19T21:22:08.268Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
