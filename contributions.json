@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776584736351,
+      "repository": "kaixinol/BiliCache2MP4",
+      "issueTitle": "对于早期客户端的分段式缓存不能正确拼接，只转换第一段。",
+      "url": "https://github.com/kaixinol/BiliCache2MP4/issues/5",
+      "createdAt": "2026-04-19T07:45:36.351Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
