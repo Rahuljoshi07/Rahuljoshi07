@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776579390160,
+      "repository": "ChronalLabs/ChronOS",
+      "issueTitle": "Static assets not using Flask \"url_for\" convention",
+      "url": "https://github.com/ChronalLabs/ChronOS/issues/75",
+      "createdAt": "2026-04-19T06:16:30.160Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
