@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776632397756,
+      "repository": "attractify-logan/pecron-monitor",
+      "issueTitle": "Home Assistant: filter 0.0V readings on voltage-class entities (and other 'clearly invalid' values)",
+      "url": "https://github.com/attractify-logan/pecron-monitor/issues/36",
+      "createdAt": "2026-04-19T20:59:57.756Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
