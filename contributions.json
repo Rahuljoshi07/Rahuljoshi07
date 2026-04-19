@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776621244313,
+      "repository": "laurigates/claude-plugins",
+      "issueTitle": "feedback(configure-plugin): gh pr merge --auto --delete-branch misleading error when branch is checked out locally",
+      "url": "https://github.com/laurigates/claude-plugins/issues/1093",
+      "createdAt": "2026-04-19T17:54:04.313Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
