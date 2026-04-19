@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776608560689,
+      "repository": "magicsunday/webtrees-pedigree-chart",
+      "issueTitle": "[BUG] Error en la ejecución del módulo con la nueva versión webtrees 2.2",
+      "url": "https://github.com/magicsunday/webtrees-pedigree-chart/issues/81",
+      "createdAt": "2026-04-19T14:22:40.689Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
