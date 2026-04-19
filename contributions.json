@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776639384012,
+      "repository": "Overwatch-1-Emulator/ow1-emulator",
+      "issueTitle": "Pressing slam again after hitting the ground pushes you forward",
+      "url": "https://github.com/Overwatch-1-Emulator/ow1-emulator/issues/1579",
+      "createdAt": "2026-04-19T22:56:24.012Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
