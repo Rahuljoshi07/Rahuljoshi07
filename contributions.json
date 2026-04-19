@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776575054588,
+      "repository": "kytmanov/obsidian-llm-wiki-local",
+      "issueTitle": "olw init creates empty wiki/INDEX.md, but normal workflows use wiki/index.md",
+      "url": "https://github.com/kytmanov/obsidian-llm-wiki-local/issues/27",
+      "createdAt": "2026-04-19T05:04:14.588Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
