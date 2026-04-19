@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776568830525,
+      "repository": "Entropy-Increase-Team/endfield-plugin",
+      "issueTitle": "[BUG] 修复控制台主页帝江号干员名缺失",
+      "url": "https://github.com/Entropy-Increase-Team/endfield-plugin/issues/44",
+      "createdAt": "2026-04-19T03:20:30.526Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
