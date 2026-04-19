@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1776618074050,
-      "repository": "maciej-gol/tenant-schemas-celery",
-      "issueTitle": "Please a simple explanation on how to use celery beat. I have django_celery_beat in both SHARED_APPS and TENANT_APPS which means each schema has it's own periodic tasks table. The issue I'm having is when I run celery beat and it's time for a task to be run for a particular tenant, celery couldn't pick up the task name. I have followed the docs but still can't get it right and I don't know what I'm missing out. I'm using the TenantAwareDatabaseaScheduler for beat.",
-      "url": "https://github.com/maciej-gol/tenant-schemas-celery/issues/181",
-      "createdAt": "2026-04-19T17:01:14.050Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
