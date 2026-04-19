@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776581103336,
+      "repository": "itcon-pty-au/stremio-ai-search",
+      "issueTitle": "[Bug Report] trakt oaut fails",
+      "url": "https://github.com/itcon-pty-au/stremio-ai-search/issues/187",
+      "createdAt": "2026-04-19T06:45:03.336Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
