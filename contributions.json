@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776623919141,
+      "repository": "fuhrysteve/marshmallow-jsonschema",
+      "issueTitle": "Union Causing Issues",
+      "url": "https://github.com/fuhrysteve/marshmallow-jsonschema/issues/173",
+      "createdAt": "2026-04-19T18:38:39.141Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
