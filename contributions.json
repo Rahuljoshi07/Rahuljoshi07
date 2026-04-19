@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776607032936,
+      "repository": "qgisred/QGISRed",
+      "issueTitle": "AttributeError: 'NoneType' object has no attribute 'type' ",
+      "url": "https://github.com/qgisred/QGISRed/issues/87",
+      "createdAt": "2026-04-19T13:57:12.936Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
