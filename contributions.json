@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776619578181,
+      "repository": "davidusb-geek/emhass",
+      "issueTitle": "`perfect-optim` crashes with TypeError in `_get_closest_index`: datetime64[s] vs datetime64[us, TZ]",
+      "url": "https://github.com/davidusb-geek/emhass/issues/786",
+      "createdAt": "2026-04-19T17:26:18.181Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
