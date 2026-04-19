@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776629253635,
+      "repository": "smysnk/sikuli-framework",
+      "issueTitle": "[error] ResourceLoaderBasic: loadLib: Fatal Error 110: loading: WinUtil.dll --Sikuli frame work not working for Java version 1.8.0_261.",
+      "url": "https://github.com/smysnk/sikuli-framework/issues/7",
+      "createdAt": "2026-04-19T20:07:33.635Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
