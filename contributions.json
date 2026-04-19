@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776619448313,
+      "repository": "jsonresume/jsonresume.org",
+      "issueTitle": "[Bug]: docs.jsonresume.org is down",
+      "url": "https://github.com/jsonresume/jsonresume.org/issues/271",
+      "createdAt": "2026-04-19T17:24:08.314Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
