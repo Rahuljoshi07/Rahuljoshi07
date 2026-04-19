@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776604025389,
+      "repository": "ascii-supply-networks/dagster-slurm",
+      "issueTitle": "[bug] ray, leonardo, worker termination",
+      "url": "https://github.com/ascii-supply-networks/dagster-slurm/issues/72",
+      "createdAt": "2026-04-19T13:07:05.389Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
