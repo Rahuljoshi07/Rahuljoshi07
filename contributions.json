@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776611649297,
+      "repository": "bagofwords1/bagofwords",
+      "issueTitle": "Agent crashes with estimate_completion_tokens error when using Ollama qwen3:8b after Docker restart",
+      "url": "https://github.com/bagofwords1/bagofwords/issues/137",
+      "createdAt": "2026-04-19T15:14:09.297Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
