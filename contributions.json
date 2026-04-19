@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776596244037,
+      "repository": "Maseshi/Shioru",
+      "issueTitle": "Unhandled Promise Risk from manager.spawn() in shard.js",
+      "url": "https://github.com/Maseshi/Shioru/issues/335",
+      "createdAt": "2026-04-19T10:57:24.037Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. (Suggested by..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
