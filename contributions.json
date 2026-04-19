@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776635928118,
+      "repository": "hasansezertasan/fastui-tutorials",
+      "issueTitle": "Pydantic 2.10, Python 3.11, FastUI 0.6.0 causes typing errors ",
+      "url": "https://github.com/hasansezertasan/fastui-tutorials/issues/33",
+      "createdAt": "2026-04-19T21:58:48.118Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
