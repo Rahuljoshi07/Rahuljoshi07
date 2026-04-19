@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776635339336,
+      "repository": "emvaized/open-in-popup-window-extension",
+      "issueTitle": "[Bug] Shift + Click on selection still trigger pop-up even though disabled in config",
+      "url": "https://github.com/emvaized/open-in-popup-window-extension/issues/35",
+      "createdAt": "2026-04-19T21:48:59.337Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
