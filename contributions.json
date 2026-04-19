@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776566686340,
+      "repository": "chinmay29hub/haiku-readme",
+      "issueTitle": "[BUG] Text Overflow in compact mode.",
+      "url": "https://github.com/chinmay29hub/haiku-readme/issues/81",
+      "createdAt": "2026-04-19T02:44:46.340Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
