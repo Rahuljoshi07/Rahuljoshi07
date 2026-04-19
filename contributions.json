@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776633283424,
+      "repository": "Edwardvaneechoud/Flowfile",
+      "issueTitle": "Unpivot Dark Mode Text Readability Cosmetic Issue",
+      "url": "https://github.com/Edwardvaneechoud/Flowfile/issues/362",
+      "createdAt": "2026-04-19T21:14:43.424Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
