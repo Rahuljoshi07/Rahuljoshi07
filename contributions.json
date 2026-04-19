@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776580973505,
+      "repository": "AlphaGPU/leetgpu-challenges",
+      "issueTitle": "[Bug] 500 Internal Server Error when posting a comment",
+      "url": "https://github.com/AlphaGPU/leetgpu-challenges/issues/247",
+      "createdAt": "2026-04-19T06:42:53.505Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
