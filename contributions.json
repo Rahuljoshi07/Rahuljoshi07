@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776559441326,
+      "repository": "Moonfin-Client/Smart-TV",
+      "issueTitle": "[Playback] DTS-HD MA audio doesnt direct play and also PGS subtitles dont really show even when its enabled",
+      "url": "https://github.com/Moonfin-Client/Smart-TV/issues/175",
+      "createdAt": "2026-04-19T00:44:01.326Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
