@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776616366943,
+      "id": 1776616400633,
       "repository": "physicshub/physicshub.github.io",
       "issueTitle": "[Bug]: p5 wrapper failed to fetcg",
       "url": "https://github.com/physicshub/physicshub.github.io/issues/280",
-      "createdAt": "2026-04-19T16:32:46.943Z",
+      "createdAt": "2026-04-19T16:33:20.633Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
