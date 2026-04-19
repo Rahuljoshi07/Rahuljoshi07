@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776578257217,
+      "repository": "boettiger-lab/mcp-data-server",
+      "issueTitle": "query-optimization.md: pre-aggregation in a CTE defeats DPP — document aggregate-after-join pattern",
+      "url": "https://github.com/boettiger-lab/mcp-data-server/issues/83",
+      "createdAt": "2026-04-19T05:57:37.217Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
