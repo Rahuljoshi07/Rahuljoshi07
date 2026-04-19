@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776598247016,
+      "repository": "nextcloud/text",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/nextcloud/text/issues/3159",
+      "createdAt": "2026-04-19T11:30:47.016Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
