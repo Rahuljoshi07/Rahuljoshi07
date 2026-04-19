@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776600928149,
+      "repository": "colophon-group/jobseek",
+      "issueTitle": "Workday/Deloitte/Uber scrape bot-blocks (403/406) — 5.4k errors/12h",
+      "url": "https://github.com/colophon-group/jobseek/issues/2214",
+      "createdAt": "2026-04-19T12:15:28.149Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
