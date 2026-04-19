@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776642416064,
+      "repository": "afairgiant/MediKeep",
+      "issueTitle": "Date Selector ignores date format",
+      "url": "https://github.com/afairgiant/MediKeep/issues/786",
+      "createdAt": "2026-04-19T23:46:56.064Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
