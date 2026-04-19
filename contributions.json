@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776614623651,
+      "repository": "SuperWaterGod/MaaGakumasu",
+      "issueTitle": "关于V1.3.3更新后第一次选卡时无法正确选卡，重复点击左上角BUG反馈",
+      "url": "https://github.com/SuperWaterGod/MaaGakumasu/issues/17",
+      "createdAt": "2026-04-19T16:03:43.651Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
