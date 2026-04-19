@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776576741759,
+      "repository": "Joanium/Joanium",
+      "issueTitle": "[Bug]: Add support for thinking output",
+      "url": "https://github.com/Joanium/Joanium/issues/23",
+      "createdAt": "2026-04-19T05:32:21.759Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
