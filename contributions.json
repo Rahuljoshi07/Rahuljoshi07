@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776637022632,
+      "repository": "superdingo101/skylight-calendar-card",
+      "issueTitle": "recurring sch error issue",
+      "url": "https://github.com/superdingo101/skylight-calendar-card/issues/198",
+      "createdAt": "2026-04-19T22:17:02.633Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
