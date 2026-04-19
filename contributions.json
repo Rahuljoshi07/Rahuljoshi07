@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776617173736,
+      "repository": "cables-gl/cables",
+      "issueTitle": "Windows Standalone: no compiler errors reported when building a CustomShader",
+      "url": "https://github.com/cables-gl/cables/issues/8236",
+      "createdAt": "2026-04-19T16:46:13.736Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
