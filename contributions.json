@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776574725723,
+      "repository": "tomcounsell/ai",
+      "issueTitle": "Replace root-requiring newsyslog with user-space log rotation",
+      "url": "https://github.com/tomcounsell/ai/issues/1030",
+      "createdAt": "2026-04-19T04:58:45.723Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
