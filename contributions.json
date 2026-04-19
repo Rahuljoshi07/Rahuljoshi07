@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776621755996,
+      "repository": "sjmf/kvm-serial",
+      "issueTitle": "Could not load the Qt platform plugin \"xcb\" (Possibly documentation or code issue on QT dependencies)",
+      "url": "https://github.com/sjmf/kvm-serial/issues/32",
+      "createdAt": "2026-04-19T18:02:35.996Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
