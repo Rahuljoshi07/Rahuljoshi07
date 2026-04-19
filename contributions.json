@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776562344659,
+      "id": 1776562370392,
       "repository": "cliffano/bob",
       "issueTitle": "bob clean resulted in Intermittent ENOTEMPTY error",
       "url": "https://github.com/cliffano/bob/issues/48",
-      "createdAt": "2026-04-19T01:32:24.660Z",
+      "createdAt": "2026-04-19T01:32:50.392Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
