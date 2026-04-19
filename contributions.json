@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776579945309,
+      "repository": "NovaSquirrel/TilemapTown",
+      "issueTitle": "/mapscreenshot doesn't seem to work anymore",
+      "url": "https://github.com/NovaSquirrel/TilemapTown/issues/202",
+      "createdAt": "2026-04-19T06:25:45.309Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
