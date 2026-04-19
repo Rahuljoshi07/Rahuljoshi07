@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776587906303,
-      "repository": "dorlugasigal/TermBeam",
-      "issueTitle": "[aw] OpenSSF Scorecard Monitor failed",
-      "url": "https://github.com/dorlugasigal/TermBeam/issues/191",
-      "createdAt": "2026-04-19T08:38:26.303Z",
+      "id": 1776587958601,
+      "repository": "yjeroen/foundry-shadowrun6-eden",
+      "issueTitle": "[Bug] Changing the \"Mod\" column in an NPC Spirt overwrites all data in stats",
+      "url": "https://github.com/yjeroen/foundry-shadowrun6-eden/issues/278",
+      "createdAt": "2026-04-19T08:39:18.601Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
