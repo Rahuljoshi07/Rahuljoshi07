@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776597875638,
+      "repository": "AOrbitron/Eridanus",
+      "issueTitle": "[BUG] b站更新占用异常问题",
+      "url": "https://github.com/AOrbitron/Eridanus/issues/222",
+      "createdAt": "2026-04-19T11:24:35.638Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
