@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776602909629,
+      "repository": "nicola02nb/BetterDiscord-Stuff",
+      "issueTitle": "[BUG] - Forced completion",
+      "url": "https://github.com/nicola02nb/BetterDiscord-Stuff/issues/46",
+      "createdAt": "2026-04-19T12:48:29.629Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
