@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776715464524,
+      "repository": "bitwisecook/tcl-lsp",
+      "issueTitle": "lower: namespace_imports/exports recorded from dead code can globalise calls incorrectly",
+      "url": "https://github.com/bitwisecook/tcl-lsp/issues/189",
+      "createdAt": "2026-04-20T20:04:24.524Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
