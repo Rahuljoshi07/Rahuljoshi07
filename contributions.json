@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776722538777,
-      "repository": "juntagrico/juntagrico",
-      "issueTitle": "Conditions for Trial Subscriptions",
-      "url": "https://github.com/juntagrico/juntagrico/issues/862",
-      "createdAt": "2026-04-20T22:02:18.777Z",
+      "id": 1776722568319,
+      "repository": "ansys/pymechanical",
+      "issueTitle": "Bug exporting Harmonic Acoustics results - Ansys Sound opened everytime \"ExportToXMLFile\" is called.",
+      "url": "https://github.com/ansys/pymechanical/issues/1400",
+      "createdAt": "2026-04-20T22:02:48.319Z",
       "type": "comment",
-      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
