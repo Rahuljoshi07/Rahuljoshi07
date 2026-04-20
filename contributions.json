@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776687422787,
+      "repository": "pallets-eco/flask-caching",
+      "issueTitle": "Enable mypy strict mode",
+      "url": "https://github.com/pallets-eco/flask-caching/issues/429",
+      "createdAt": "2026-04-20T12:17:02.787Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
