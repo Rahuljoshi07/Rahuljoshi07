@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776671476572,
+      "repository": "vaadin/web-components",
+      "issueTitle": "Loading spinner is shown in non-thumbnails upload-file-list",
+      "url": "https://github.com/vaadin/web-components/issues/11497",
+      "createdAt": "2026-04-20T07:51:16.572Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
