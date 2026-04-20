@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776708097184,
-      "repository": "datacite/bracco",
-      "issueTitle": "Form does not indicate where the error is when the https is missing from URL",
-      "url": "https://github.com/datacite/bracco/issues/944",
-      "createdAt": "2026-04-20T18:01:37.185Z",
+      "id": 1776708138216,
+      "repository": "catanadj/taskwarrior-nautical",
+      "issueTitle": "NAUTICAL_CORE_PATH env is read too late leading to errors if the hooks are symlinked",
+      "url": "https://github.com/catanadj/taskwarrior-nautical/issues/15",
+      "createdAt": "2026-04-20T18:02:18.216Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
