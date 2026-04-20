@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776671058845,
+      "repository": "aliyun/alibabacloud-python-sdk",
+      "issueTitle": "Please disable your fucking DEBUG logging",
+      "url": "https://github.com/aliyun/alibabacloud-python-sdk/issues/35",
+      "createdAt": "2026-04-20T07:44:18.845Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
