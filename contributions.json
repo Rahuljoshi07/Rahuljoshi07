@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776657884451,
+      "repository": "tomcounsell/ai",
+      "issueTitle": "refactor(reflections): one file per reflection under reflections/{group}/, condense dashboard",
+      "url": "https://github.com/tomcounsell/ai/issues/1028",
+      "createdAt": "2026-04-20T04:04:44.451Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
