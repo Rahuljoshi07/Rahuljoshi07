@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776655191308,
+      "repository": "infokiller/web-search-navigator",
+      "issueTitle": "[Bug]: This extension is no longer available because it doesn't follow best practices for Chrome extensions",
+      "url": "https://github.com/infokiller/web-search-navigator/issues/629",
+      "createdAt": "2026-04-20T03:19:51.308Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
