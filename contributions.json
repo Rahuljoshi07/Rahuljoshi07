@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1776684973959,
-      "repository": "Blosc/python-blosc2",
-      "issueTitle": "Bug: `ndarray_from_cframe(copy=True)` crashes with `munmap_chunk(): invalid pointer` when cframe contains a SPECIAL chunk before a NORMAL chunk",
-      "url": "https://github.com/Blosc/python-blosc2/issues/611",
-      "createdAt": "2026-04-20T11:36:13.959Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
