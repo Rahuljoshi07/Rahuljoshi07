@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776671803506,
+      "repository": "edgardomortiz/Captus",
+      "issueTitle": "Error cmd_info.json not created during Salmon depth estimation",
+      "url": "https://github.com/edgardomortiz/Captus/issues/36",
+      "createdAt": "2026-04-20T07:56:43.506Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
