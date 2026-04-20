@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776671257115,
+      "repository": "0b01001001/spectree",
+      "issueTitle": "feat: add an abstract layer to support pydantic/msgspec",
+      "url": "https://github.com/0b01001001/spectree/issues/329",
+      "createdAt": "2026-04-20T07:47:37.115Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
