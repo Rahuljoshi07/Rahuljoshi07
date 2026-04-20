@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776717589092,
+      "repository": "cfpb/consumerfinance.gov",
+      "issueTitle": "Bug: All feedback is missing from consumerfinance.gov / Consumer Complaint Database! See #240",
+      "url": "https://github.com/cfpb/consumerfinance.gov/issues/9034",
+      "createdAt": "2026-04-20T20:39:49.092Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
