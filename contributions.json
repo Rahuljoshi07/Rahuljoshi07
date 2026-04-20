@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776686113936,
+      "repository": "qgisred/QGISRed",
+      "issueTitle": "'Allocate Nodal Base Demands' doesn't work",
+      "url": "https://github.com/qgisred/QGISRed/issues/102",
+      "createdAt": "2026-04-20T11:55:13.936Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
