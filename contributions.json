@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776669784458,
+      "repository": "SmartBase-SK/django-smartbase-admin",
+      "issueTitle": "Is there any possibility of having an integration with the django-import-export library?",
+      "url": "https://github.com/SmartBase-SK/django-smartbase-admin/issues/97",
+      "createdAt": "2026-04-20T07:23:04.458Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
