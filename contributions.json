@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776646398159,
+      "repository": "mak448a/Qtcord",
+      "issueTitle": "Account gets locked when logging in",
+      "url": "https://github.com/mak448a/Qtcord/issues/132",
+      "createdAt": "2026-04-20T00:53:18.159Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
