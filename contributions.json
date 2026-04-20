@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776697667932,
+      "repository": "kjkoeller/EclipsingBinaries",
+      "issueTitle": "gaia.py takes a long time to complete and often results in HTTP 500 errors",
+      "url": "https://github.com/kjkoeller/EclipsingBinaries/issues/457",
+      "createdAt": "2026-04-20T15:07:47.932Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
