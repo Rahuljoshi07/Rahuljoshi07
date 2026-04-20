@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776685856556,
+      "repository": "diverso-lab/uvlhub",
+      "issueTitle": "Automated cycle with fmfactlabel, uvl, flamapy and uvlhub",
+      "url": "https://github.com/diverso-lab/uvlhub/issues/112",
+      "createdAt": "2026-04-20T11:50:56.556Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
