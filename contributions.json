@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776726853729,
+      "repository": "adamchainz/django-watchfiles",
+      "issueTitle": "OSError: OS file watch limit reached",
+      "url": "https://github.com/adamchainz/django-watchfiles/issues/135",
+      "createdAt": "2026-04-20T23:14:13.729Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
