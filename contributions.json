@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776721945637,
+      "repository": "barneyonline/ha-enphase-energy",
+      "issueTitle": "[Bug]: Charge Battery From Grid returns HTTP 403 Forbidden on IQ Battery site",
+      "url": "https://github.com/barneyonline/ha-enphase-energy/issues/460",
+      "createdAt": "2026-04-20T21:52:25.637Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
