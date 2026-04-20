@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776649276482,
+      "repository": "shenjianan97/persistent-agent-runtime",
+      "issueTitle": "Worker LLM calls: no streaming, no enforced timeout, no maxTokens cap — slow/long-output models silently ReadTimeoutError after ~5 min",
+      "url": "https://github.com/shenjianan97/persistent-agent-runtime/issues/85",
+      "createdAt": "2026-04-20T01:41:16.482Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
