@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776689258716,
+      "repository": "pnpm/get.pnpm.io",
+      "issueTitle": "Current issues with Accept-Headers / Compression when installing pnpm with curl versions without \"brotli\" support",
+      "url": "https://github.com/pnpm/get.pnpm.io/issues/34",
+      "createdAt": "2026-04-20T12:47:38.716Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
