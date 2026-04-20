@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776685377570,
+      "repository": "Larkinabout/fvtt-token-action-hud-core",
+      "issueTitle": "[BUG] Overlapping & Vertical HUD (instead of Horizontal)",
+      "url": "https://github.com/Larkinabout/fvtt-token-action-hud-core/issues/339",
+      "createdAt": "2026-04-20T11:42:57.570Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
