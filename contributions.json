@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776650703144,
+      "repository": "nebhead/PiFire",
+      "issueTitle": "Fan stops in hold mode",
+      "url": "https://github.com/nebhead/PiFire/issues/241",
+      "createdAt": "2026-04-20T02:05:03.144Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
