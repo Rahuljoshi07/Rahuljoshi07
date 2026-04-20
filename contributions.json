@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776715559566,
+      "repository": "SpanPanel/span",
+      "issueTitle": "Names are occluded in narrow view",
+      "url": "https://github.com/SpanPanel/span/issues/232",
+      "createdAt": "2026-04-20T20:05:59.566Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
