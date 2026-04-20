@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776657259320,
+      "repository": "weiesky/cc-viewer",
+      "issueTitle": "【bug】新版本，终端展示有点问题，混乱了",
+      "url": "https://github.com/weiesky/cc-viewer/issues/67",
+      "createdAt": "2026-04-20T03:54:19.321Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
