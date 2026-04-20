@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776721709605,
+      "repository": "oracle/python-oracledb",
+      "issueTitle": "Code uses non-C99 compliant constructs",
+      "url": "https://github.com/oracle/python-oracledb/issues/555",
+      "createdAt": "2026-04-20T21:48:29.605Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
