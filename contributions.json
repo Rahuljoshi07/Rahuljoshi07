@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776670122693,
+      "repository": "OpenWSGR/AutoWSGR",
+      "issueTitle": "[Bug]决战总览页签名误匹配出征/战役面板，导致 goto_page(MAP) 导航走错路径",
+      "url": "https://github.com/OpenWSGR/AutoWSGR/issues/447",
+      "createdAt": "2026-04-20T07:28:42.694Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
