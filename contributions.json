@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1776664446639,
-      "repository": "octokit/graphql-action",
-      "issueTitle": "[BUG]: Different result from a graphql postman request than from a github action/ github explorer graphql",
-      "url": "https://github.com/octokit/graphql-action/issues/276",
-      "createdAt": "2026-04-20T05:54:06.639Z",
+      "id": 1776664498653,
+      "repository": "auth0/auth0-deploy-cli",
+      "issueTitle": "`TypeError: Cannot read properties of undefined (reading 'includes')` when importing databases with `AUTH0_EXCLUDED_CLIENTS` and legacy enabled_clients toggle off",
+      "url": "https://github.com/auth0/auth0-deploy-cli/issues/1363",
+      "createdAt": "2026-04-20T05:54:58.653Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
