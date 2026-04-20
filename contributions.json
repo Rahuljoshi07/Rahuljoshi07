@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776704519027,
+      "repository": "Open-EO/openeo-geopyspark-driver",
+      "issueTitle": "job description no longers gives all the available usage metrics",
+      "url": "https://github.com/Open-EO/openeo-geopyspark-driver/issues/1422",
+      "createdAt": "2026-04-20T17:01:59.027Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
