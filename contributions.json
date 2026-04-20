@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776651040577,
+      "repository": "qualcomm/ai-hub-models",
+      "issueTitle": "Error 5005 when running Genie with serialized binary on SM8750 (Snapdragon 8 Elite)",
+      "url": "https://github.com/qualcomm/ai-hub-models/issues/289",
+      "createdAt": "2026-04-20T02:10:40.577Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
