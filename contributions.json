@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776682408637,
+      "repository": "gbtami/pychess-variants",
+      "issueTitle": "Page loads slowly",
+      "url": "https://github.com/gbtami/pychess-variants/issues/2111",
+      "createdAt": "2026-04-20T10:53:28.637Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
