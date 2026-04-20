@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776658078907,
+      "repository": "fizyk/pyramid_fullauth",
+      "issueTitle": "DetachedInstanceError on login",
+      "url": "https://github.com/fizyk/pyramid_fullauth/issues/79",
+      "createdAt": "2026-04-20T04:07:58.907Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
