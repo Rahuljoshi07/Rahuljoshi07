@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776657813180,
+      "repository": "pierreb-devkit/Node",
+      "issueTitle": "test: `describe('Logout')` blocks reuse logged-out agent, invalidating cookie for subsequent tests",
+      "url": "https://github.com/pierreb-devkit/Node/issues/3472",
+      "createdAt": "2026-04-20T04:03:33.181Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
