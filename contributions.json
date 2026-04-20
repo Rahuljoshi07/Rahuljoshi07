@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776683330087,
+      "repository": "gardenlinux/gardenlinux",
+      "issueTitle": "KVM enablement for openstack image",
+      "url": "https://github.com/gardenlinux/gardenlinux/issues/4605",
+      "createdAt": "2026-04-20T11:08:50.087Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
