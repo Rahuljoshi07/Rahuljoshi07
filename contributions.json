@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776643433607,
+      "repository": "prettier/plugin-xml",
+      "issueTitle": "Bug: incorrectly indenting inner elements",
+      "url": "https://github.com/prettier/plugin-xml/issues/986",
+      "createdAt": "2026-04-20T00:03:53.607Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
