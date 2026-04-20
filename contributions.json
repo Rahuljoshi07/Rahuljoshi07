@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776726362542,
+      "repository": "voxel51/eta",
+      "issueTitle": "`cv2.imread` will read error while the sample path contains chinese characters on Windows",
+      "url": "https://github.com/voxel51/eta/issues/689",
+      "createdAt": "2026-04-20T23:06:02.542Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
