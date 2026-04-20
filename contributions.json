@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776680864710,
+      "repository": "OranAi-Ltd/oransim",
+      "issueTitle": "百万智能体图谱failed to fetch",
+      "url": "https://github.com/OranAi-Ltd/oransim/issues/2",
+      "createdAt": "2026-04-20T10:27:44.710Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
