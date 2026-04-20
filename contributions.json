@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776712128073,
+      "repository": "Vanic24/VPN",
+      "issueTitle": "exception: YAML::TypedBadConversion<bool>   what(): yaml-cpp: error at line 2, column 312: bad conversion",
+      "url": "https://github.com/Vanic24/VPN/issues/5",
+      "createdAt": "2026-04-20T19:08:48.073Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
