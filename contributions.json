@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776708426538,
+      "repository": "tykeal/homeassistant-rental-control",
+      "issueTitle": "Calendar sometimes stays unavailable after boot until manual integration reload",
+      "url": "https://github.com/tykeal/homeassistant-rental-control/issues/285",
+      "createdAt": "2026-04-20T18:07:06.538Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
