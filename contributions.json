@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1776717144625,
+      "id": 1776717172834,
       "repository": "yjs/yhub",
-      "issueTitle": "Handling of errors in uWebSockets handlers",
-      "url": "https://github.com/yjs/yhub/issues/30",
-      "createdAt": "2026-04-20T20:32:24.625Z",
+      "issueTitle": "worker prints empty newlines",
+      "url": "https://github.com/yjs/yhub/issues/33",
+      "createdAt": "2026-04-20T20:32:52.834Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
