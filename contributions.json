@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776691439829,
+      "repository": "linuxmint/cinnamon-spices-desklets",
+      "issueTitle": "Weather Desklet Open Meteo Non-commercial Feed doesn't include Forecast Pressure or Humidity",
+      "url": "https://github.com/linuxmint/cinnamon-spices-desklets/issues/1813",
+      "createdAt": "2026-04-20T13:23:59.829Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
