@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776684208993,
+      "repository": "theCalcaholic/nextcloud-secrets",
+      "issueTitle": "Error: \"object not found\"",
+      "url": "https://github.com/theCalcaholic/nextcloud-secrets/issues/91",
+      "createdAt": "2026-04-20T11:23:28.993Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
