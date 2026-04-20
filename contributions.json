@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776716951697,
+      "repository": "aimagelab/mammoth",
+      "issueTitle": "Suggestion to use GridSearcher for SBATCH",
+      "url": "https://github.com/aimagelab/mammoth/issues/58",
+      "createdAt": "2026-04-20T20:29:11.697Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. (Suggested by Rahul Joshi..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
