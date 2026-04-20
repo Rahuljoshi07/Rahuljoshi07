@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776692045214,
+      "repository": "pypa/bandersnatch",
+      "issueTitle": "Issues serving via S3 static website ",
+      "url": "https://github.com/pypa/bandersnatch/issues/1611",
+      "createdAt": "2026-04-20T13:34:05.215Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
