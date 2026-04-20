@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776727188383,
+      "repository": "qmk/qmk_cli",
+      "issueTitle": "[Bug] qmk make fails with latest ghcr.io/qmk/qmk_cli due to missing Python packages.",
+      "url": "https://github.com/qmk/qmk_cli/issues/220",
+      "createdAt": "2026-04-20T23:19:48.383Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
