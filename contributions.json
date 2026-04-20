@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776687422787,
-      "repository": "pallets-eco/flask-caching",
-      "issueTitle": "Enable mypy strict mode",
-      "url": "https://github.com/pallets-eco/flask-caching/issues/429",
-      "createdAt": "2026-04-20T12:17:02.787Z",
+      "id": 1776687470469,
+      "repository": "bastibe/python-soundfile",
+      "issueTitle": "sf_error(NULL) race condition: LibsndfileError.code=0 under concurrent sf_open_virtual calls",
+      "url": "https://github.com/bastibe/python-soundfile/issues/479",
+      "createdAt": "2026-04-20T12:17:50.469Z",
       "type": "comment",
-      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
