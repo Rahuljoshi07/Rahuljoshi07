@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776715099109,
+      "repository": "kineticman/FastChannels",
+      "issueTitle": "ISSUE: Crash While Saving Feed / Can't Save Feeds",
+      "url": "https://github.com/kineticman/FastChannels/issues/2",
+      "createdAt": "2026-04-20T19:58:19.109Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
