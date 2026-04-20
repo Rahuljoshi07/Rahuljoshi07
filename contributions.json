@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776643252833,
+      "repository": "jparkerweb/rich-foot",
+      "issueTitle": "‼️ Conflict with Hover Editor Plugin",
+      "url": "https://github.com/jparkerweb/rich-foot/issues/36",
+      "createdAt": "2026-04-20T00:00:52.833Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
