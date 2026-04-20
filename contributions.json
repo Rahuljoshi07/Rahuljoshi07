@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776727482413,
+      "repository": "openwallet-foundation/acapy",
+      "issueTitle": "[BUG] - Failing verification of BbsBlsSignature2020 presentations",
+      "url": "https://github.com/openwallet-foundation/acapy/issues/4073",
+      "createdAt": "2026-04-20T23:24:42.413Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
