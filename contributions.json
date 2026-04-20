@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776648218009,
+      "repository": "ICSM/pgmuvi",
+      "issueTitle": "[BUG] Dynamic range in lightcurves",
+      "url": "https://github.com/ICSM/pgmuvi/issues/108",
+      "createdAt": "2026-04-20T01:23:38.009Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
