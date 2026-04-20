@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776658587683,
+      "id": 1776658621663,
       "repository": "khusika/FeelIt",
-      "issueTitle": "[FEATURE] Use dart-sass as transpiler",
-      "url": "https://github.com/khusika/FeelIt/issues/112",
-      "createdAt": "2026-04-20T04:16:27.683Z",
+      "issueTitle": "[BUG] Exceeding the limit in reduced width (mobile device)",
+      "url": "https://github.com/khusika/FeelIt/issues/152",
+      "createdAt": "2026-04-20T04:17:01.663Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
