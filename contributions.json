@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776664446639,
+      "repository": "octokit/graphql-action",
+      "issueTitle": "[BUG]: Different result from a graphql postman request than from a github action/ github explorer graphql",
+      "url": "https://github.com/octokit/graphql-action/issues/276",
+      "createdAt": "2026-04-20T05:54:06.639Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
