@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776702206662,
+      "repository": "amyjko/faculty",
+      "issueTitle": "Convert to accessible markup tags",
+      "url": "https://github.com/amyjko/faculty/issues/166",
+      "createdAt": "2026-04-20T16:23:26.662Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
