@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776697176008,
+      "repository": "anchore/scan-action",
+      "issueTitle": "Closing/dismissing alerts",
+      "url": "https://github.com/anchore/scan-action/issues/504",
+      "createdAt": "2026-04-20T14:59:36.008Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
