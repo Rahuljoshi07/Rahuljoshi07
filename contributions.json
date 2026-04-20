@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776651974358,
+      "repository": "sync-different/alt-core",
+      "issueTitle": "[webapp] issue call to backend LLM via @altbot nomenclature",
+      "url": "https://github.com/sync-different/alt-core/issues/47",
+      "createdAt": "2026-04-20T02:26:14.358Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
