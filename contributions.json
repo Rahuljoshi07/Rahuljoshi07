@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776652142378,
+      "id": 1776652183578,
       "repository": "rstackjs/rspack-playground",
-      "issueTitle": "[REPL] Type hint in the config",
-      "url": "https://github.com/rstackjs/rspack-playground/issues/4",
-      "createdAt": "2026-04-20T02:29:02.378Z",
+      "issueTitle": "[Rspack] Panic when calling some rust api from javascript",
+      "url": "https://github.com/rstackjs/rspack-playground/issues/9",
+      "createdAt": "2026-04-20T02:29:43.578Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
