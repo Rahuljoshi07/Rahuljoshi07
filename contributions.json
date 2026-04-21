@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776760489451,
+      "repository": "ansys/pyedb",
+      "issueTitle": "Bug located in ...pip install git+https://github.com/ansys/pyedb",
+      "url": "https://github.com/ansys/pyedb/issues/2018",
+      "createdAt": "2026-04-21T08:34:49.451Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
