@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776781574994,
+      "repository": "i4Ds/Karabo-Pipeline",
+      "issueTitle": "Karabo Dask Util incompatible with Calculon",
+      "url": "https://github.com/i4Ds/Karabo-Pipeline/issues/676",
+      "createdAt": "2026-04-21T14:26:14.995Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
