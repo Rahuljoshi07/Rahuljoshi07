@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776775404331,
+      "repository": "ferrumio/pydynox",
+      "issueTitle": "[REFACTOR]: S3 operations return a wrong format`Result<_, String>`",
+      "url": "https://github.com/ferrumio/pydynox/issues/259",
+      "createdAt": "2026-04-21T12:43:24.331Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
