@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776731013351,
+      "repository": "BlazeUp-AI/Observal",
+      "issueTitle": "IDE field not populated for Kiro CLI traces",
+      "url": "https://github.com/BlazeUp-AI/Observal/issues/456",
+      "createdAt": "2026-04-21T00:23:33.352Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
