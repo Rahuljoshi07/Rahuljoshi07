@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776770600169,
+      "repository": "foXaCe/Fluidra-pool",
+      "issueTitle": "I get 2,22 in PH  and  the pool temperature es 22,2",
+      "url": "https://github.com/foXaCe/Fluidra-pool/issues/55",
+      "createdAt": "2026-04-21T11:23:20.169Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
