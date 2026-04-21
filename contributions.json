@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776734867524,
+      "repository": "sugarlabs/musicblocks",
+      "issueTitle": "[Bug] `TypeError` (Null Dereference) in `backward` block execution logic",
+      "url": "https://github.com/sugarlabs/musicblocks/issues/6760",
+      "createdAt": "2026-04-21T01:27:47.524Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
