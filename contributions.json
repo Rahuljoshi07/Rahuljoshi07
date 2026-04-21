@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776805746084,
+      "repository": "Lexonight1/thermalright-trcc-linux",
+      "issueTitle": "[BUG] 0416:5302 — CLI theme-load fails for user themes, resume sends wrong theme (HID Type 2)",
+      "url": "https://github.com/Lexonight1/thermalright-trcc-linux/issues/125",
+      "createdAt": "2026-04-21T21:09:06.084Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
