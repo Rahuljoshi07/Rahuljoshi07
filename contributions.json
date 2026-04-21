@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776799908850,
+      "repository": "Refloow/Refloow-Geo-Forensics",
+      "issueTitle": "Fix splash screen not showing on LINUX",
+      "url": "https://github.com/Refloow/Refloow-Geo-Forensics/issues/16",
+      "createdAt": "2026-04-21T19:31:48.850Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
