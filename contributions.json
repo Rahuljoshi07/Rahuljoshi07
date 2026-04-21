@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776732680967,
+      "repository": "geneontology/go-annotation",
+      "issueTitle": "PAINT issue:  GO:0019888 | protein phosphatase regulator activity | or complex scaffold",
+      "url": "https://github.com/geneontology/go-annotation/issues/6382",
+      "createdAt": "2026-04-21T00:51:20.967Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
