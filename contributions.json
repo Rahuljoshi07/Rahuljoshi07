@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776748520828,
+      "repository": "amigavision/AmigaVision",
+      "issueTitle": "8-bit jungle DOS-Error #205",
+      "url": "https://github.com/amigavision/AmigaVision/issues/126",
+      "createdAt": "2026-04-21T05:15:20.828Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
