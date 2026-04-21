@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776797134264,
+      "repository": "Pyomo/mpi-sppy",
+      "issueTitle": "ProperBundler + --linearize-proximal-terms: KeyError in nonant_cost_coeffs",
+      "url": "https://github.com/Pyomo/mpi-sppy/issues/668",
+      "createdAt": "2026-04-21T18:45:34.264Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
