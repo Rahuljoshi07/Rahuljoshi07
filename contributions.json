@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776780379076,
+      "repository": "CodeLogicIncEngineering/codelogic-mcp-server",
+      "issueTitle": "[Bug]: No server info found error when invoking the MCP server on MacOS",
+      "url": "https://github.com/CodeLogicIncEngineering/codelogic-mcp-server/issues/11",
+      "createdAt": "2026-04-21T14:06:19.076Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
