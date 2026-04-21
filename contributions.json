@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1776806029878,
+      "id": 1776806071133,
       "repository": "webtides/element-js",
-      "issueTitle": "Bug: TypeError when setting on property as interpolated string",
-      "url": "https://github.com/webtides/element-js/issues/163",
-      "createdAt": "2026-04-21T21:13:49.878Z",
+      "issueTitle": "[RENDERER]: Bug with conditional rendering",
+      "url": "https://github.com/webtides/element-js/issues/157",
+      "createdAt": "2026-04-21T21:14:31.133Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
