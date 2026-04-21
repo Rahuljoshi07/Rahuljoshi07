@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776815180750,
+      "repository": "simonmichael/hledger_site",
+      "issueTitle": "code sections are invisible in dark mode",
+      "url": "https://github.com/simonmichael/hledger_site/issues/85",
+      "createdAt": "2026-04-21T23:46:20.750Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
