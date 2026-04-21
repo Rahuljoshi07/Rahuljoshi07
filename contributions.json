@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776762583385,
+      "repository": "c-hive/gha-remove-artifacts",
+      "issueTitle": "HttpError: You have exceeded a secondary rate limit. Please wait a few minutes before you try again.",
+      "url": "https://github.com/c-hive/gha-remove-artifacts/issues/49",
+      "createdAt": "2026-04-21T09:09:43.385Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
