@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776786060437,
+      "repository": "dataxid/dataxid-python",
+      "issueTitle": "ModelConfig throws TypeError: unexpected keyword argument 'epochs' indicating API/Documentation mismatch",
+      "url": "https://github.com/dataxid/dataxid-python/issues/87",
+      "createdAt": "2026-04-21T15:41:00.437Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
