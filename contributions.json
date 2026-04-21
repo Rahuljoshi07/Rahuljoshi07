@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776781254468,
+      "repository": "camunda/camunda-modeler-token-simulation-plugin",
+      "issueTitle": "Task does not await incomming message flows after resumed at breakpoint.",
+      "url": "https://github.com/camunda/camunda-modeler-token-simulation-plugin/issues/120",
+      "createdAt": "2026-04-21T14:20:54.468Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
