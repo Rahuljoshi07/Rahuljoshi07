@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776792284842,
-      "repository": "Kpa-clawbot/CoreScope",
-      "issueTitle": "Investigate server returning packets without hash/timestamp",
-      "url": "https://github.com/Kpa-clawbot/CoreScope/issues/871",
-      "createdAt": "2026-04-21T17:24:44.842Z",
+      "id": 1776792320862,
+      "repository": "coreproject-moe/coreproject",
+      "issueTitle": "[`Tracker`]: Investigate memoryview for zero allocation",
+      "url": "https://github.com/coreproject-moe/coreproject/issues/5265",
+      "createdAt": "2026-04-21T17:25:20.863Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
     }
   ],
   "stats": {
