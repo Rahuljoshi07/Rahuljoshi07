@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776775339893,
+      "repository": "WeblateOrg/website",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/WeblateOrg/website/issues/1199",
+      "createdAt": "2026-04-21T12:42:19.893Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
