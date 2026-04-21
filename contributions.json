@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776806029878,
+      "repository": "webtides/element-js",
+      "issueTitle": "Bug: TypeError when setting on property as interpolated string",
+      "url": "https://github.com/webtides/element-js/issues/163",
+      "createdAt": "2026-04-21T21:13:49.878Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
