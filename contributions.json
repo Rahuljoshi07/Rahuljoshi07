@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776809429943,
+      "repository": "hillerlab/TOGA2",
+      "issueTitle": "Issue with toga2.py test",
+      "url": "https://github.com/hillerlab/TOGA2/issues/20",
+      "createdAt": "2026-04-21T22:10:29.943Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
