@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1776735748385,
-      "repository": "cmgrayb/hass-dyson",
-      "issueTitle": "Deadlock on startup when device raises UnsupportedDeviceError: async_remove waits on setup_lock that is still held",
-      "url": "https://github.com/cmgrayb/hass-dyson/issues/336",
-      "createdAt": "2026-04-21T01:42:28.385Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
