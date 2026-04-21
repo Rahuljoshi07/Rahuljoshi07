@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776782215901,
+      "repository": "beatrizsmerino/vue-todolist",
+      "issueTitle": "fix(workflow): add monorepo workspaces support to `update-node-npm.yml`",
+      "url": "https://github.com/beatrizsmerino/vue-todolist/issues/1129",
+      "createdAt": "2026-04-21T14:36:55.901Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
