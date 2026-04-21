@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776730523260,
+      "repository": "markabrahams/node-net-snmp",
+      "issueTitle": "oidInSubtree crashes on null OID in varbind response",
+      "url": "https://github.com/markabrahams/node-net-snmp/issues/298",
+      "createdAt": "2026-04-21T00:15:23.261Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
