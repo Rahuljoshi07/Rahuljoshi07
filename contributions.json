@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776737477535,
+      "repository": "mm7894215/TokenTracker",
+      "issueTitle": "[bug]: npx tokentracker serve --port 7681 E404",
+      "url": "https://github.com/mm7894215/TokenTracker/issues/30",
+      "createdAt": "2026-04-21T02:11:17.535Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
