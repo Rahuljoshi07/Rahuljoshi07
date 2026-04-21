@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776793903482,
+      "repository": "bytedance/xpu-perf",
+      "issueTitle": "clean_extra_files有bug",
+      "url": "https://github.com/bytedance/xpu-perf/issues/187",
+      "createdAt": "2026-04-21T17:51:43.482Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
