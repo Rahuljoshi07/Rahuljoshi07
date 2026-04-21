@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1776745470191,
+      "id": 1776745505731,
       "repository": "nextcloud/notes",
-      "issueTitle": "Bug: Key mismatch between SettingsService and NoteUtil causes note sync failure",
-      "url": "https://github.com/nextcloud/notes/issues/1810",
-      "createdAt": "2026-04-21T04:24:30.191Z",
+      "issueTitle": "Notes sharing not working",
+      "url": "https://github.com/nextcloud/notes/issues/1199",
+      "createdAt": "2026-04-21T04:25:05.731Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
