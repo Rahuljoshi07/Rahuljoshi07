@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776776007351,
+      "repository": "ThanatosShinji/onnx-tool",
+      "issueTitle": "NotImplementedError: this Node xxx has no value_infer",
+      "url": "https://github.com/ThanatosShinji/onnx-tool/issues/97",
+      "createdAt": "2026-04-21T12:53:27.351Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
