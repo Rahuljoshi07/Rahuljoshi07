@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776777285838,
+      "repository": "Barracuda09/PyPSADiag",
+      "issueTitle": "IVI config: add missing options (auto lights, parking sensors menu, RPM widget, TPMS init) + known issues (turn signal sound, language sync, trip km mismatch)",
+      "url": "https://github.com/Barracuda09/PyPSADiag/issues/121",
+      "createdAt": "2026-04-21T13:14:45.839Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
