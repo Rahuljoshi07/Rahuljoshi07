@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1776803991177,
+      "id": 1776804038099,
       "repository": "fantasycalendar/FoundryVTT-Sequencer",
-      "issueTitle": "[BUG] - Sequencer is causing LiveKit a/v to fail",
-      "url": "https://github.com/fantasycalendar/FoundryVTT-Sequencer/issues/435",
-      "createdAt": "2026-04-21T20:39:51.177Z",
+      "issueTitle": "[BUG] - `attachTo` function is missing `bindRotation` in its types",
+      "url": "https://github.com/fantasycalendar/FoundryVTT-Sequencer/issues/433",
+      "createdAt": "2026-04-21T20:40:38.099Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
