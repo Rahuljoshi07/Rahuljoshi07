@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776786933668,
+      "repository": "ROCm/TheRock",
+      "issueTitle": "[Issue] Packaging: build_package.py aborts when RCCL docs artifact manifest is missing (amdrocm-rccl)",
+      "url": "https://github.com/ROCm/TheRock/issues/4673",
+      "createdAt": "2026-04-21T15:55:33.668Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
