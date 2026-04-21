@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776814339000,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Using an optional chain expression",
+      "url": "https://github.com/OWASP/Nest/issues/4572",
+      "createdAt": "2026-04-21T23:32:19.000Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
