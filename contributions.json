@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776770856045,
+      "repository": "mo-tunn/OpenGuider",
+      "issueTitle": "[Bug] Pointer hint renders on wrong monitor and disappears off-screen in dual-monitor setup",
+      "url": "https://github.com/mo-tunn/OpenGuider/issues/4",
+      "createdAt": "2026-04-21T11:27:36.045Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
