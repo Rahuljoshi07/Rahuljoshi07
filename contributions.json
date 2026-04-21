@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776784619292,
+      "repository": "CrazyBebop/WARP0716",
+      "issueTitle": "Allow 65k Hairstyle crash when using 43 hairstyle",
+      "url": "https://github.com/CrazyBebop/WARP0716/issues/23",
+      "createdAt": "2026-04-21T15:16:59.292Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
