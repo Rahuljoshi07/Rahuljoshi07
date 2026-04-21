@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776783692516,
+      "repository": "opensanctions/yente",
+      "issueTitle": "Surface per-document BulkIndexError detail in the ES provider's bulk_index",
+      "url": "https://github.com/opensanctions/yente/issues/1108",
+      "createdAt": "2026-04-21T15:01:32.516Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
