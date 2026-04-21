@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776754114754,
+      "repository": "nextcloud/guests",
+      "issueTitle": "Access denied when confirming additional email addresses",
+      "url": "https://github.com/nextcloud/guests/issues/1533",
+      "createdAt": "2026-04-21T06:48:34.754Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
