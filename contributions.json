@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776750835582,
+      "repository": "ymjoo12/soma-calendar",
+      "issueTitle": "[BUG] 강의 상태 및 인원 정보 업데이트 불일치",
+      "url": "https://github.com/ymjoo12/soma-calendar/issues/41",
+      "createdAt": "2026-04-21T05:53:55.582Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
