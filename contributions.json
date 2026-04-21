@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1776773576199,
-      "repository": "webtides/element-js",
-      "issueTitle": "[RENDERER]: Bug with conditional rendering",
-      "url": "https://github.com/webtides/element-js/issues/157",
-      "createdAt": "2026-04-21T12:12:56.199Z",
+      "id": 1776773617897,
+      "repository": "arteck/ioBroker.fullybrowser",
+      "issueTitle": "TypeError: Aedes is not a constructor at new MqttServer",
+      "url": "https://github.com/arteck/ioBroker.fullybrowser/issues/369",
+      "createdAt": "2026-04-21T12:13:37.897Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
