@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776731230321,
+      "repository": "nextcloud/assistant",
+      "issueTitle": "Major bug in the OpenAI integration with Nextcloud 32.0.3",
+      "url": "https://github.com/nextcloud/assistant/issues/427",
+      "createdAt": "2026-04-21T00:27:10.321Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
