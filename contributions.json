@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776746921549,
+      "repository": "meshcore-dev/meshcore-ha",
+      "issueTitle": "Admonishing warning in Home Assistant Core log",
+      "url": "https://github.com/meshcore-dev/meshcore-ha/issues/208",
+      "createdAt": "2026-04-21T04:48:41.549Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
