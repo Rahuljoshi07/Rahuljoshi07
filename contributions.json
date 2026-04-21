@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776797703986,
+      "repository": "CodingTrain/thecodingtrain.com",
+      "issueTitle": "YouTube Error 153",
+      "url": "https://github.com/CodingTrain/thecodingtrain.com/issues/1972",
+      "createdAt": "2026-04-21T18:55:03.986Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
