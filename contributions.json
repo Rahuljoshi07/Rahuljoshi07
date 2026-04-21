@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1776741508672,
+      "id": 1776741551340,
       "repository": "TryGhost/gscan",
-      "issueTitle": "Fix latent labs-enabled helpers bugs in lib/checker.js before activating the feature",
-      "url": "https://github.com/TryGhost/gscan/issues/724",
-      "createdAt": "2026-04-21T03:18:28.672Z",
+      "issueTitle": "Unable to use {{#author}} in author-:slug.hbs",
+      "url": "https://github.com/TryGhost/gscan/issues/457",
+      "createdAt": "2026-04-21T03:19:11.340Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
