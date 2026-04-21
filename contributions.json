@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776740963043,
+      "repository": "llnl/benchpark",
+      "issueTitle": "Tag before/after spack core changes",
+      "url": "https://github.com/llnl/benchpark/issues/1316",
+      "createdAt": "2026-04-21T03:09:23.043Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
