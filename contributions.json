@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776738302814,
+      "repository": "celenityy/Phoenix",
+      "issueTitle": "[OTHER/BUG] Space width broken on websites with font-family set to a system font, tables broken. (Kubuntu 25.10)",
+      "url": "https://github.com/celenityy/Phoenix/issues/14",
+      "createdAt": "2026-04-21T02:25:02.814Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
