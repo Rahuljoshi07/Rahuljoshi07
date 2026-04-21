@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1776769392962,
-      "repository": "Oratorian/emby-watchparty",
-      "issueTitle": "Pause/seek silently ignored after host reconnects due to stale selected_by socket ID",
-      "url": "https://github.com/Oratorian/emby-watchparty/issues/28",
-      "createdAt": "2026-04-21T11:03:12.962Z",
-      "type": "comment",
-      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
