@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1776774976152,
-      "repository": "adobe/skills",
-      "issueTitle": "fix(scrape-webpage): harden analyze-webpage.js against bot detection and HTTP/2 errors",
-      "url": "https://github.com/adobe/skills/issues/82",
-      "createdAt": "2026-04-21T12:36:16.152Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
