@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776731945213,
+      "repository": "lincolnloop/django-layout",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/lincolnloop/django-layout/issues/138",
+      "createdAt": "2026-04-21T00:39:05.213Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
