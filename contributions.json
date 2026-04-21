@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776775912561,
+      "repository": "remorses/unframer",
+      "issueTitle": "MCP plugin shows connected but server returns 'plugin not connected' error",
+      "url": "https://github.com/remorses/unframer/issues/48",
+      "createdAt": "2026-04-21T12:51:52.561Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
