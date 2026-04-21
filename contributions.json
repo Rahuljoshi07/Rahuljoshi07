@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776805606068,
+      "repository": "bartfeenstra/betty",
+      "issueTitle": "Do not enable auto service plugins if their requirements are unmet",
+      "url": "https://github.com/bartfeenstra/betty/issues/4101",
+      "createdAt": "2026-04-21T21:06:46.068Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
