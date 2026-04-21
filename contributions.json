@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776810947064,
+      "repository": "sandialabs/ctadl",
+      "issueTitle": "User Invalid Jar Path Error",
+      "url": "https://github.com/sandialabs/ctadl/issues/15",
+      "createdAt": "2026-04-21T22:35:47.064Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
