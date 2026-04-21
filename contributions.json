@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776785206745,
+      "repository": "Kpa-clawbot/CoreScope",
+      "issueTitle": "bug: Packet Detail dialog conflates per-observation with cross-observer aggregate — show exactly the clicked packet",
+      "url": "https://github.com/Kpa-clawbot/CoreScope/issues/849",
+      "createdAt": "2026-04-21T15:26:46.745Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
