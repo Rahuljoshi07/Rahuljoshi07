@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776815776755,
+      "repository": "open-reaction-database/ord-data",
+      "issueTitle": "ord_dataset-5c9a10329a8a48968d18879a48bb8ab2.pb.gz",
+      "url": "https://github.com/open-reaction-database/ord-data/issues/234",
+      "createdAt": "2026-04-21T23:56:16.755Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
