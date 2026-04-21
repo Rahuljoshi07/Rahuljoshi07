@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776775200132,
+      "repository": "ferrumio/pydynox",
+      "issueTitle": "[BUG] transaction commit doesn't update model version attribute and breaks optimistic locking",
+      "url": "https://github.com/ferrumio/pydynox/issues/310",
+      "createdAt": "2026-04-21T12:40:00.132Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
