@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776770062877,
+      "repository": "mo-tunn/OpenGuider",
+      "issueTitle": "Bug: Groq provider fails with 400 when screenshots are enabled",
+      "url": "https://github.com/mo-tunn/OpenGuider/issues/2",
+      "createdAt": "2026-04-21T11:14:22.877Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
