@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776767301051,
+      "repository": "Dobot-Arm/DOBOT_6Axis_ROS2_V3",
+      "issueTitle": "ModuleNotFoundError: No module named 'moveit_configs_utils'",
+      "url": "https://github.com/Dobot-Arm/DOBOT_6Axis_ROS2_V3/issues/4",
+      "createdAt": "2026-04-21T10:28:21.051Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
