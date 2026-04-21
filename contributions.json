@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776813834440,
+      "repository": "microsoft/PromptKit",
+      "issueTitle": "Notify users when a newer PromptKit CLI version is available",
+      "url": "https://github.com/microsoft/PromptKit/issues/250",
+      "createdAt": "2026-04-21T23:23:54.441Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
