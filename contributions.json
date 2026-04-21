@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776757658349,
+      "repository": "airbus-cyber/graylog-plugin-alert-wizard",
+      "issueTitle": "Rename the grace parameter",
+      "url": "https://github.com/airbus-cyber/graylog-plugin-alert-wizard/issues/27",
+      "createdAt": "2026-04-21T07:47:38.349Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
