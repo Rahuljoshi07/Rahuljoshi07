@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776809612253,
+      "repository": "caid-technologies/OpenCAD",
+      "issueTitle": "ERROR: No matching distribution found for OCP>=7.7; extra == \"occt\"",
+      "url": "https://github.com/caid-technologies/OpenCAD/issues/26",
+      "createdAt": "2026-04-21T22:13:32.253Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
