@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776760634196,
+      "repository": "dwgx/WindsurfAPI",
+      "issueTitle": "调用模型时报错Error: neither PlanModel nor RequestedModel specified. You must specify a valid model",
+      "url": "https://github.com/dwgx/WindsurfAPI/issues/8",
+      "createdAt": "2026-04-21T08:37:14.196Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
