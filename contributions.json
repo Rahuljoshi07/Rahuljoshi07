@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776763558576,
+      "repository": "jtenniswood/espcontrol",
+      "issueTitle": "Night time screensaver brightness settings",
+      "url": "https://github.com/jtenniswood/espcontrol/issues/64",
+      "createdAt": "2026-04-21T09:25:58.577Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
