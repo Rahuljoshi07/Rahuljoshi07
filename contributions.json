@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776753007170,
+      "repository": "Kpa-clawbot/CoreScope",
+      "issueTitle": "perf: add GOMEMLIMIT support and bound cold-load transient allocations",
+      "url": "https://github.com/Kpa-clawbot/CoreScope/issues/836",
+      "createdAt": "2026-04-21T06:30:07.170Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
