@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776789493156,
+      "repository": "9600dev/mmr",
+      "issueTitle": "twsstart.sh throws ConnectionRefusedError for 127.0.0.1, 7496 and 7497 ports, how to Enable ActiveX and Socket clients on TWS UI",
+      "url": "https://github.com/9600dev/mmr/issues/4",
+      "createdAt": "2026-04-21T16:38:13.156Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
