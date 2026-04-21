@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776789763370,
+      "id": 1776789799458,
       "repository": "ArnaudBuchholz/ui5-test-runner",
-      "issueTitle": "Cannot pass complex npm script to --start Flag",
-      "url": "https://github.com/ArnaudBuchholz/ui5-test-runner/issues/169",
-      "createdAt": "2026-04-21T16:42:43.370Z",
+      "issueTitle": "Use the browser agent to detect unexpected situations",
+      "url": "https://github.com/ArnaudBuchholz/ui5-test-runner/issues/162",
+      "createdAt": "2026-04-21T16:43:19.458Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
