@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1776790148637,
-      "repository": "newrelic/node-newrelic",
-      "issueTitle": "Memory leak with Node.js 24 due to AsyncContextFrame + enterWith()",
-      "url": "https://github.com/newrelic/node-newrelic/issues/3870",
-      "createdAt": "2026-04-21T16:49:08.637Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
