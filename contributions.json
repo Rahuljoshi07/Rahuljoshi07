@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776756813200,
+      "repository": "hybrowlabs/ERPNext-India-Payroll",
+      "issueTitle": "LOP Reversal: False Validation Error + Missing Year in Month Selector + Wrong Salary Slip Selection",
+      "url": "https://github.com/hybrowlabs/ERPNext-India-Payroll/issues/89",
+      "createdAt": "2026-04-21T07:33:33.200Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
