@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776808693786,
+      "repository": "KanashiiDev/discord-music-rpc",
+      "issueTitle": "Soundcloud implementation currently broken. Always getting a \"Skipping Update\" message in browser plugin (Linux)",
+      "url": "https://github.com/KanashiiDev/discord-music-rpc/issues/17",
+      "createdAt": "2026-04-21T21:58:13.786Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
