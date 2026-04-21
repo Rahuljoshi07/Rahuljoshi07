@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776760396951,
+      "repository": "Map1en/VRCX-0",
+      "issueTitle": "Known Issues (rolling)",
+      "url": "https://github.com/Map1en/VRCX-0/issues/5",
+      "createdAt": "2026-04-21T08:33:16.951Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
