@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776736517655,
+      "repository": "SUPERCILEX/gnome-clipboard-history",
+      "issueTitle": "Broken on GNOME 49",
+      "url": "https://github.com/SUPERCILEX/gnome-clipboard-history/issues/211",
+      "createdAt": "2026-04-21T01:55:17.655Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
