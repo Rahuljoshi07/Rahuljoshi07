@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776769615542,
+      "repository": "MaStr/batcontrol",
+      "issueTitle": "Multi arch build  fails for armv6 & armv7",
+      "url": "https://github.com/MaStr/batcontrol/issues/341",
+      "createdAt": "2026-04-21T11:06:55.542Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
