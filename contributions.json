@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776803991177,
+      "repository": "fantasycalendar/FoundryVTT-Sequencer",
+      "issueTitle": "[BUG] - Sequencer is causing LiveKit a/v to fail",
+      "url": "https://github.com/fantasycalendar/FoundryVTT-Sequencer/issues/435",
+      "createdAt": "2026-04-21T20:39:51.177Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
