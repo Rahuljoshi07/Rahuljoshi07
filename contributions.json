@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776807436773,
+      "repository": "askalf/dario",
+      "issueTitle": "Authentication error with “dario accounts add”",
+      "url": "https://github.com/askalf/dario/issues/71",
+      "createdAt": "2026-04-21T21:37:16.773Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
