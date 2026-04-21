@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776774611577,
+      "repository": "ZToolsCenter/ZTools-plugins",
+      "issueTitle": "[BUG?] workflow中启用了pnpm但没使用",
+      "url": "https://github.com/ZToolsCenter/ZTools-plugins/issues/94",
+      "createdAt": "2026-04-21T12:30:11.577Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
