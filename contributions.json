@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1776745535835,
+      "id": 1776745562611,
       "repository": "nextcloud/notes",
-      "issueTitle": "Directly sharing a note from the notes app (4.13.1) doesn't work after update to nextcloud 33.0.2.2",
-      "url": "https://github.com/nextcloud/notes/issues/1817",
-      "createdAt": "2026-04-21T04:25:35.835Z",
+      "issueTitle": "Bug: Key mismatch between SettingsService and NoteUtil causes note sync failure",
+      "url": "https://github.com/nextcloud/notes/issues/1810",
+      "createdAt": "2026-04-21T04:26:02.611Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
