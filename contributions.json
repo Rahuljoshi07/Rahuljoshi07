@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1776773617897,
-      "repository": "arteck/ioBroker.fullybrowser",
-      "issueTitle": "TypeError: Aedes is not a constructor at new MqttServer",
-      "url": "https://github.com/arteck/ioBroker.fullybrowser/issues/369",
-      "createdAt": "2026-04-21T12:13:37.897Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
