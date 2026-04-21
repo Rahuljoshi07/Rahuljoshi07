@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776766612761,
+      "repository": "manojmallick/sigmap",
+      "issueTitle": "--cwd flag doesn't restrict file scanning to the given directory",
+      "url": "https://github.com/manojmallick/sigmap/issues/98",
+      "createdAt": "2026-04-21T10:16:52.761Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
