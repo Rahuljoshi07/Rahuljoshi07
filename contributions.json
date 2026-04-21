@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776739873116,
+      "repository": "ZZZure/ZZZeroUID",
+      "issueTitle": "【角色数据bug？】配置了优先mys，日志显示进入了pass，最后还是调用的enka",
+      "url": "https://github.com/ZZZure/ZZZeroUID/issues/37",
+      "createdAt": "2026-04-21T02:51:13.116Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
