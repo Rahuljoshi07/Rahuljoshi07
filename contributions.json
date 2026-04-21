@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776788875757,
+      "repository": "Kpa-clawbot/CoreScope",
+      "issueTitle": "Various Minor UI and Analytic Issues",
+      "url": "https://github.com/Kpa-clawbot/CoreScope/issues/843",
+      "createdAt": "2026-04-21T16:27:55.758Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
