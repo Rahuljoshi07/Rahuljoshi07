@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776733746068,
+      "repository": "dedalus-labs/wingman",
+      "issueTitle": "[Bug]: Gemini end stream on tool",
+      "url": "https://github.com/dedalus-labs/wingman/issues/20",
+      "createdAt": "2026-04-21T01:09:06.068Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
