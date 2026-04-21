@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776773908084,
+      "repository": "blackbird-agency/hyva-algolia-search",
+      "issueTitle": "SSR not supported – SEO and catalog page indexation issues",
+      "url": "https://github.com/blackbird-agency/hyva-algolia-search/issues/15",
+      "createdAt": "2026-04-21T12:18:28.084Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
