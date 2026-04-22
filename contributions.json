@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776892878406,
+      "repository": "intrafind/ihub-apps",
+      "issueTitle": "WCAG issue: Websearch can't be activated via keys",
+      "url": "https://github.com/intrafind/ihub-apps/issues/1295",
+      "createdAt": "2026-04-22T21:21:18.406Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
