@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776882824987,
+      "id": 1776882861146,
       "repository": "geturbackend/urBackend",
       "issueTitle": "follow-up: address remaining review issues from PR #124 (mail templates)",
       "url": "https://github.com/geturbackend/urBackend/issues/126",
-      "createdAt": "2026-04-22T18:33:44.987Z",
+      "createdAt": "2026-04-22T18:34:21.146Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
