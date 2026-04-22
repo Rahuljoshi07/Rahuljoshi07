@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776844853097,
+      "repository": "Soju06/codex-lb",
+      "issueTitle": "`previous_response_not_found` after `wait_agent` timeout on `responses` websocket",
+      "url": "https://github.com/Soju06/codex-lb/issues/464",
+      "createdAt": "2026-04-22T08:00:53.097Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
