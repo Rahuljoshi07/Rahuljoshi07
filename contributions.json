@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776893791363,
+      "repository": "Xerophayze/TTS-Story",
+      "issueTitle": "Pinokio RuntimeError: IndexTTS worker produced no output (exit code 2)",
+      "url": "https://github.com/Xerophayze/TTS-Story/issues/16",
+      "createdAt": "2026-04-22T21:36:31.363Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
