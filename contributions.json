@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776823851684,
+      "repository": "VangelisTech/archetype",
+      "issueTitle": "bug: simulation and query routes return 500 for invalid UUID world_id",
+      "url": "https://github.com/VangelisTech/archetype/issues/183",
+      "createdAt": "2026-04-22T02:10:51.684Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
