@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776846947270,
+      "repository": "canonical/postgresql-k8s-operator",
+      "issueTitle": "[postgresql-k8s] AttributeError in tls_transfer._on_certificate_removed: relation.app is None during stop hook",
+      "url": "https://github.com/canonical/postgresql-k8s-operator/issues/1405",
+      "createdAt": "2026-04-22T08:35:47.270Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
