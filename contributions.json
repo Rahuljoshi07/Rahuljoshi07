@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776867047968,
+      "repository": "open-risk/equinox",
+      "issueTitle": "jazzmin interface broken for some screen sizes",
+      "url": "https://github.com/open-risk/equinox/issues/32",
+      "createdAt": "2026-04-22T14:10:47.968Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
