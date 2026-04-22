@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776893113675,
+      "repository": "djust-org/djust",
+      "issueTitle": "tech-debt: automate CHANGELOG test-count validation against actual test file",
+      "url": "https://github.com/djust-org/djust/issues/908",
+      "createdAt": "2026-04-22T21:25:13.675Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
