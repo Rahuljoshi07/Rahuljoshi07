@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776901252967,
-      "repository": "djust-org/djust",
-      "issueTitle": "tech-debt: audit all HttpResponseRedirect / redirect() sites for missing url_has_allowed_host_and_scheme guards",
-      "url": "https://github.com/djust-org/djust/issues/921",
-      "createdAt": "2026-04-22T23:40:52.967Z",
+      "id": 1776901287134,
+      "repository": "SignalK/n2k-signalk",
+      "issueTitle": "BUG - Unhandled rejection: TypeError: Cannot read properties of undefined (reading 'emit')",
+      "url": "https://github.com/SignalK/n2k-signalk/issues/313",
+      "createdAt": "2026-04-22T23:41:27.134Z",
       "type": "comment",
-      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
