@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776882824987,
+      "repository": "geturbackend/urBackend",
+      "issueTitle": "follow-up: address remaining review issues from PR #124 (mail templates)",
+      "url": "https://github.com/geturbackend/urBackend/issues/126",
+      "createdAt": "2026-04-22T18:33:44.987Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
