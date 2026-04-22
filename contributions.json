@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776843385207,
+      "repository": "cap-js/change-tracking",
+      "issueTitle": "Formatting of Decimal Fields as Integer in Change Log Table",
+      "url": "https://github.com/cap-js/change-tracking/issues/137",
+      "createdAt": "2026-04-22T07:36:25.207Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
