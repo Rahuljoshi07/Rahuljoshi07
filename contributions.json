@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776859279011,
+      "repository": "bobmatnyc/claude-mpm",
+      "issueTitle": "--sdk --prompt oneshot mode fails silently when claude-agent-sdk is installed (exits code 1, never reaches run_sdk_oneshot)",
+      "url": "https://github.com/bobmatnyc/claude-mpm/issues/486",
+      "createdAt": "2026-04-22T12:01:19.011Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
