@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776829331988,
+      "repository": "gbroeckling/padspanHA",
+      "issueTitle": "Many devices created",
+      "url": "https://github.com/gbroeckling/padspanHA/issues/30",
+      "createdAt": "2026-04-22T03:42:11.988Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. (Suggested by R..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
