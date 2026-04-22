@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776848415687,
+      "repository": "CERNDocumentServer/cds-videos",
+      "issueTitle": "Migrate lecturemedia + digitized records",
+      "url": "https://github.com/CERNDocumentServer/cds-videos/issues/2167",
+      "createdAt": "2026-04-22T09:00:15.687Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
