@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776861918511,
+      "repository": "SynapseWeb/PyReconstruct",
+      "issueTitle": "Right-click deletes trace when using the scissors tool and all other traces are hidden",
+      "url": "https://github.com/SynapseWeb/PyReconstruct/issues/51",
+      "createdAt": "2026-04-22T12:45:18.511Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
