@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776893954502,
+      "repository": "djust-org/djust",
+      "issueTitle": "tech-debt: 10 py-format-drift files in python/djust/ (pre-existing, not ruff-formatted)",
+      "url": "https://github.com/djust-org/djust/issues/915",
+      "createdAt": "2026-04-22T21:39:14.502Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
