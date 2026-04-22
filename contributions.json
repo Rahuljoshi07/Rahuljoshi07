@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776872467753,
+      "repository": "jyutjyucom/Jyutjyu",
+      "issueTitle": "[ENTRY-ERROR] 「噉頭」嘅「頭」應係變調",
+      "url": "https://github.com/jyutjyucom/Jyutjyu/issues/20",
+      "createdAt": "2026-04-22T15:41:07.753Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
