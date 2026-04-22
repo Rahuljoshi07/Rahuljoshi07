@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776834425572,
+      "repository": "nearform-actions/github-action-check-linked-issues",
+      "issueTitle": "Issues not linked (projectwise) to pullrequests with loose-matching",
+      "url": "https://github.com/nearform-actions/github-action-check-linked-issues/issues/531",
+      "createdAt": "2026-04-22T05:07:05.572Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
