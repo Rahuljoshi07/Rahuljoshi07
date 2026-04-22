@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776843045329,
+      "repository": "ably-labs/NextJS-chat-app",
+      "issueTitle": "Got 40105 error on vercel",
+      "url": "https://github.com/ably-labs/NextJS-chat-app/issues/9",
+      "createdAt": "2026-04-22T07:30:45.329Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
