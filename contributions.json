@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776846053561,
+      "repository": "amd/ZenDNN-pytorch-plugin",
+      "issueTitle": "INT8 inference issues w8a8",
+      "url": "https://github.com/amd/ZenDNN-pytorch-plugin/issues/4",
+      "createdAt": "2026-04-22T08:20:53.561Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
