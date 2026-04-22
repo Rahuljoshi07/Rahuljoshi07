@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776876741075,
+      "repository": "samueljun/tomato-clock",
+      "issueTitle": "Timers don't restart when you quit and restart the browser",
+      "url": "https://github.com/samueljun/tomato-clock/issues/93",
+      "createdAt": "2026-04-22T16:52:21.075Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
