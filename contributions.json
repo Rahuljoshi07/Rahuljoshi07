@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776878475350,
+      "repository": "iobroker-community-adapters/ioBroker.shelly",
+      "issueTitle": "Please consider fixing issues detected by repository checker",
+      "url": "https://github.com/iobroker-community-adapters/ioBroker.shelly/issues/1423",
+      "createdAt": "2026-04-22T17:21:15.351Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
