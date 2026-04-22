@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776825897202,
+      "repository": "djust-org/djust",
+      "issueTitle": "tech-debt: extract shared _walk_subclasses / _is_user_class helpers (3x duplication)",
+      "url": "https://github.com/djust-org/djust/issues/852",
+      "createdAt": "2026-04-22T02:44:57.202Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
