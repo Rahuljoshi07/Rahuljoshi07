@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776861791625,
+      "repository": "langchain-ai/langchain-ibm",
+      "issueTitle": "Error message unclear when passing a \"None\" model parameter to ChatWatsonX",
+      "url": "https://github.com/langchain-ai/langchain-ibm/issues/160",
+      "createdAt": "2026-04-22T12:43:11.625Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
