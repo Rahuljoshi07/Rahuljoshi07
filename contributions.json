@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776848834844,
+      "repository": "lmk1010/EasyAIConfig",
+      "issueTitle": "“系统设置”选项会导致软件直接进入无响应",
+      "url": "https://github.com/lmk1010/EasyAIConfig/issues/4",
+      "createdAt": "2026-04-22T09:07:14.844Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
