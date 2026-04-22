@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776858283915,
+      "repository": "NVIDIA-NeMo/Run",
+      "issueTitle": "SkypilotJobsExecutor crashes after submission when SkyPilot returns job id as `[1]`",
+      "url": "https://github.com/NVIDIA-NeMo/Run/issues/481",
+      "createdAt": "2026-04-22T11:44:43.916Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
