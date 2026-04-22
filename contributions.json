@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776867173638,
+      "repository": "MoegirlPediaInterfaceAdmins/MoegirlPediaInterfaceCodes",
+      "issueTitle": "参考文献提示工具在moeskin下无法从页脚重新启用",
+      "url": "https://github.com/MoegirlPediaInterfaceAdmins/MoegirlPediaInterfaceCodes/issues/870",
+      "createdAt": "2026-04-22T14:12:53.638Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
