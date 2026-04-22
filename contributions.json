@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776816347681,
+      "repository": "adafruit/Adafruit_Blinka",
+      "issueTitle": "not able to get it working on my jetson orin nano, running on jetpack 6.2.1",
+      "url": "https://github.com/adafruit/Adafruit_Blinka/issues/1023",
+      "createdAt": "2026-04-22T00:05:47.681Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
