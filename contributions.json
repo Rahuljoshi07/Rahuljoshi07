@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776840911911,
+      "repository": "g3w-suite/g3w-client",
+      "issueTitle": "Default `false` value not retrieved when adding a new entity",
+      "url": "https://github.com/g3w-suite/g3w-client/issues/876",
+      "createdAt": "2026-04-22T06:55:11.911Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
