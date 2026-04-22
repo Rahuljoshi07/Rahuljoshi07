@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776891584398,
+      "repository": "openwisp/openwisp-users",
+      "issueTitle": "[feature] Support user expiration with automatic deactivation and notification emails",
+      "url": "https://github.com/openwisp/openwisp-users/issues/499",
+      "createdAt": "2026-04-22T20:59:44.398Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
