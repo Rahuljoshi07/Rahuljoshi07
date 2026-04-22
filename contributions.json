@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776901252967,
+      "repository": "djust-org/djust",
+      "issueTitle": "tech-debt: audit all HttpResponseRedirect / redirect() sites for missing url_has_allowed_host_and_scheme guards",
+      "url": "https://github.com/djust-org/djust/issues/921",
+      "createdAt": "2026-04-22T23:40:52.967Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
