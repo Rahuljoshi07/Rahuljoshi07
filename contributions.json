@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776860281089,
+      "repository": "adamlui/chatgpt-widescreen",
+      "issueTitle": "Taller Chatbox shoves it offscreen when ChatGPT responds now",
+      "url": "https://github.com/adamlui/chatgpt-widescreen/issues/305",
+      "createdAt": "2026-04-22T12:18:01.089Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
