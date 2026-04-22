@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776882380873,
+      "repository": "catamphetamine/write-excel-file",
+      "issueTitle": "throwing an error if i pass 'null' or 'undefined' value for column span.",
+      "url": "https://github.com/catamphetamine/write-excel-file/issues/6",
+      "createdAt": "2026-04-22T18:26:20.873Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
