@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776887153471,
+      "repository": "YiDingg/YiDingg",
+      "issueTitle": "First Issue!",
+      "url": "https://github.com/YiDingg/YiDingg/issues/1",
+      "createdAt": "2026-04-22T19:45:53.472Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
