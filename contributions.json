@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776889285927,
+      "repository": "TerraFirmaGreg-Team/Modpack-Modern",
+      "issueTitle": "Dead Radishes look like an error cube",
+      "url": "https://github.com/TerraFirmaGreg-Team/Modpack-Modern/issues/3870",
+      "createdAt": "2026-04-22T20:21:25.927Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
