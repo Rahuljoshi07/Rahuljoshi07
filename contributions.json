@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776865992284,
+      "repository": "MrAntares/roBrowserLegacy",
+      "issueTitle": "Sprites & Effects don't show behind glass walls",
+      "url": "https://github.com/MrAntares/roBrowserLegacy/issues/95",
+      "createdAt": "2026-04-22T13:53:12.284Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
