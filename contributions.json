@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776888346306,
+      "repository": "PolicyEngine/policyengine-us",
+      "issueTitle": "SNAP eligibility incorrectly passes when student and immigration filters are satisfied by different household members",
+      "url": "https://github.com/PolicyEngine/policyengine-us/issues/8133",
+      "createdAt": "2026-04-22T20:05:46.306Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
