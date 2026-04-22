@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776888534266,
+      "repository": "michaelarnauts/home-assistant-comfoconnect",
+      "issueTitle": "Missing invalid_host error string in strings.json",
+      "url": "https://github.com/michaelarnauts/home-assistant-comfoconnect/issues/141",
+      "createdAt": "2026-04-22T20:08:54.266Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
