@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776816894851,
+      "repository": "jansel/opentuner",
+      "issueTitle": "Error report when run ./examples/rosenbrock/rosenbrock.py",
+      "url": "https://github.com/jansel/opentuner/issues/168",
+      "createdAt": "2026-04-22T00:14:54.851Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
