@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776893323377,
+      "repository": "nitrobass24/seedsync",
+      "issueTitle": "[BUG:?] v0.15.0 Pagination during scrolling on mobile (FF)",
+      "url": "https://github.com/nitrobass24/seedsync/issues/370",
+      "createdAt": "2026-04-22T21:28:43.377Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
