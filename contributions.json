@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776899684226,
+      "repository": "spaceraccoon/vulnerability-spoiler-alert",
+      "issueTitle": "[Vulnerability] django/django: Server Error / Information disclosure via unhandled exception (HTTP 500 instead of 400)",
+      "url": "https://github.com/spaceraccoon/vulnerability-spoiler-alert/issues/132",
+      "createdAt": "2026-04-22T23:14:44.226Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
