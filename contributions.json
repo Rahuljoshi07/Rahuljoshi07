@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776845070884,
+      "repository": "tree-sitter/tree-sitter-c",
+      "issueTitle": "bug: failure to parse valid function definition",
+      "url": "https://github.com/tree-sitter/tree-sitter-c/issues/301",
+      "createdAt": "2026-04-22T08:04:30.884Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. (Suggested by R..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
