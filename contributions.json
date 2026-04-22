@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776867962432,
+      "repository": "adapt-security/adapt-authoring",
+      "issueTitle": "Update package-lock.json to pull in latest dependency fixes",
+      "url": "https://github.com/adapt-security/adapt-authoring/issues/735",
+      "createdAt": "2026-04-22T14:26:02.432Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
