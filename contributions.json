@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776897623576,
+      "repository": "modal-labs/modal-client",
+      "issueTitle": "Multipart upload completion fails on S3 503 SlowDown with no retry",
+      "url": "https://github.com/modal-labs/modal-client/issues/3917",
+      "createdAt": "2026-04-22T22:40:23.576Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
