@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776869356894,
+      "repository": "adamlui/autoclear-chatgpt-history",
+      "issueTitle": "no longer works, neither gui nor functionality",
+      "url": "https://github.com/adamlui/autoclear-chatgpt-history/issues/58",
+      "createdAt": "2026-04-22T14:49:16.894Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
