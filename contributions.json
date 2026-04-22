@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776831291068,
+      "repository": "Kpa-clawbot/CoreScope",
+      "issueTitle": "Bug: Node Details button still doesn't work",
+      "url": "https://github.com/Kpa-clawbot/CoreScope/issues/890",
+      "createdAt": "2026-04-22T04:14:51.069Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
