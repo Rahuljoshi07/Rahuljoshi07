@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776901386638,
+      "repository": "SignalK/n2k-signalk",
+      "issueTitle": "BUG - Unhandled rejection: TypeError: Cannot read properties of undefined (reading 'emit')",
+      "url": "https://github.com/SignalK/n2k-signalk/issues/313",
+      "createdAt": "2026-04-22T23:43:06.639Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
