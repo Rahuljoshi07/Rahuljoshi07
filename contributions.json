@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776948522410,
+      "repository": "orthoseg/orthoseg",
+      "issueTitle": "ENH: check if polygonize performance can be improved",
+      "url": "https://github.com/orthoseg/orthoseg/issues/252",
+      "createdAt": "2026-04-23T12:48:42.411Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
