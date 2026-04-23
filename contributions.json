@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776942871592,
+      "repository": "xpandit/tableau_write-back_extension",
+      "issueTitle": "Write-back errors",
+      "url": "https://github.com/xpandit/tableau_write-back_extension/issues/5",
+      "createdAt": "2026-04-23T11:14:31.592Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
