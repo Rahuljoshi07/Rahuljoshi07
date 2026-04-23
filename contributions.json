@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776916923404,
+      "repository": "bahmutov/cypress-network-idle",
+      "issueTitle": "print current outstanding network calls is not coming & throwing anything ",
+      "url": "https://github.com/bahmutov/cypress-network-idle/issues/185",
+      "createdAt": "2026-04-23T04:02:03.404Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
