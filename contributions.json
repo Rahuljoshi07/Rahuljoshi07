@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776957116739,
+      "repository": "influxdata/iot-api-js",
+      "issueTitle": "Update app to use InfluxDB 3 Enterprise",
+      "url": "https://github.com/influxdata/iot-api-js/issues/39",
+      "createdAt": "2026-04-23T15:11:56.739Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
