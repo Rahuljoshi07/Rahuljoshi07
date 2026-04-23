@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776902547580,
+      "id": 1776902605588,
       "repository": "konstaui/konstaui.com",
       "issueTitle": "Konsta UI v5 released! All previous issues and PRs are closed",
       "url": "https://github.com/konstaui/konstaui.com/issues/44",
-      "createdAt": "2026-04-23T00:02:27.580Z",
+      "createdAt": "2026-04-23T00:03:25.588Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
