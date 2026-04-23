@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1776910729278,
-      "repository": "djust-org/djust",
-      "issueTitle": "tech-debt: FormArrayNode drops inner template content (latent bug surfaced during PR #929 review)",
-      "url": "https://github.com/djust-org/djust/issues/930",
-      "createdAt": "2026-04-23T02:18:49.278Z",
-      "type": "comment",
-      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
