@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776904157907,
+      "repository": "corrin/akahu_to_budget",
+      "issueTitle": "Decimal Conversion Error",
+      "url": "https://github.com/corrin/akahu_to_budget/issues/14",
+      "createdAt": "2026-04-23T00:29:17.907Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
