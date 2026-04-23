@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776921445807,
+      "repository": "djust-org/djust",
+      "issueTitle": "docs: update classifiers to include Django 5.1, 5.2 (pyproject.toml)",
+      "url": "https://github.com/djust-org/djust/issues/912",
+      "createdAt": "2026-04-23T05:17:25.807Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
