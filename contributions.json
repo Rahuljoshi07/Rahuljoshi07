@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776902547580,
+      "repository": "konstaui/konstaui.com",
+      "issueTitle": "Konsta UI v5 released! All previous issues and PRs are closed",
+      "url": "https://github.com/konstaui/konstaui.com/issues/44",
+      "createdAt": "2026-04-23T00:02:27.580Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
