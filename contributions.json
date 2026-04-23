@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776927759038,
+      "repository": "macbre/analyze-css",
+      "issueTitle": "ul li selector considered redundant",
+      "url": "https://github.com/macbre/analyze-css/issues/1188",
+      "createdAt": "2026-04-23T07:02:39.038Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
