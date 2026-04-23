@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776947573508,
+      "repository": "marktnoonan/transcription",
+      "issueTitle": "Bug: Save/Share Transcript text disappears when dark mode toggled on.",
+      "url": "https://github.com/marktnoonan/transcription/issues/54",
+      "createdAt": "2026-04-23T12:32:53.508Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
