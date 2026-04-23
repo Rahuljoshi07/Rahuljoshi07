@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1776908212114,
-      "repository": "ProjectEvergreen/greenwood",
-      "issueTitle": "flaky / intermittent `Response.clone: Body has already been consumed` errors",
-      "url": "https://github.com/ProjectEvergreen/greenwood/issues/1572",
-      "createdAt": "2026-04-23T01:36:52.115Z",
-      "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
