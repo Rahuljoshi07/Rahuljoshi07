@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776953532152,
+      "repository": "dwgx/WindsurfAPI",
+      "issueTitle": "[Bug] claude code读取不到真实目录",
+      "url": "https://github.com/dwgx/WindsurfAPI/issues/38",
+      "createdAt": "2026-04-23T14:12:12.153Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
