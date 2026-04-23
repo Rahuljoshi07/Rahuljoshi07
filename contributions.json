@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776949187949,
+      "repository": "superdesk/superdesk",
+      "issueTitle": "  Blank  Page,  (getting error GET http://192.168.7.200:8080/api/client_config 502 (Bad Gateway)) on console ",
+      "url": "https://github.com/superdesk/superdesk/issues/3361",
+      "createdAt": "2026-04-23T12:59:47.949Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
