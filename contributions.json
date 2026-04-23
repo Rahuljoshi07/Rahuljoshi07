@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776928200954,
+      "repository": "Giswater/giswater_qgis_plugin",
+      "issueTitle": "Error Executing Mincut in Hydraulic Network Project with QGIS + PostgreSQL/PostGIS",
+      "url": "https://github.com/Giswater/giswater_qgis_plugin/issues/922",
+      "createdAt": "2026-04-23T07:10:00.954Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
