@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776909773874,
+      "repository": "nextcloud/text",
+      "issueTitle": "[Bug]: Rich workspace block page rendering when SAMBA mount missing Readme.md",
+      "url": "https://github.com/nextcloud/text/issues/6634",
+      "createdAt": "2026-04-23T02:02:53.874Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
