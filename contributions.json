@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776941482820,
-      "repository": "cylc/cylc-ui",
-      "issueTitle": "Dependency Dashboard",
-      "url": "https://github.com/cylc/cylc-ui/issues/1014",
-      "createdAt": "2026-04-23T10:51:22.820Z",
+      "id": 1776941534151,
+      "repository": "AdguardTeam/Scriptlets",
+      "issueTitle": "Fix 'prevent-addEventListener' — prevent detection by getOwnPropertyDescriptor(), use 'window' context as fallback",
+      "url": "https://github.com/AdguardTeam/Scriptlets/issues/266",
+      "createdAt": "2026-04-23T10:52:14.151Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
