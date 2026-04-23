@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776930650268,
+      "repository": "linux-is-awesome/gnome_extension_rocketbar",
+      "issueTitle": "Dash killing feature",
+      "url": "https://github.com/linux-is-awesome/gnome_extension_rocketbar/issues/46",
+      "createdAt": "2026-04-23T07:50:50.268Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
