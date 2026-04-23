@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776931315575,
+      "repository": "nextcloud/registration",
+      "issueTitle": "Additional fields in the registration process",
+      "url": "https://github.com/nextcloud/registration/issues/242",
+      "createdAt": "2026-04-23T08:01:55.575Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
