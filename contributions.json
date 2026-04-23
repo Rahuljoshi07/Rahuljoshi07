@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776936053402,
-      "repository": "conveyordata/data-product-portal",
-      "issueTitle": "Check if we can make a card radio",
-      "url": "https://github.com/conveyordata/data-product-portal/issues/3238",
-      "createdAt": "2026-04-23T09:20:53.402Z",
+      "id": 1776936088647,
+      "repository": "iobroker-community-adapters/ioBroker.proxmox",
+      "issueTitle": "only one device update data even several devices added",
+      "url": "https://github.com/iobroker-community-adapters/ioBroker.proxmox/issues/612",
+      "createdAt": "2026-04-23T09:21:28.647Z",
       "type": "comment",
-      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
