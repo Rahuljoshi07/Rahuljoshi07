@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776902418839,
+      "repository": "ApiLogicServer/ApiLogicServer-src",
+      "issueTitle": "\"id\" is a jsonapi reserved field - tables that use \"id\" as primary key do not return this attribute in the results",
+      "url": "https://github.com/ApiLogicServer/ApiLogicServer-src/issues/9",
+      "createdAt": "2026-04-23T00:00:18.839Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
