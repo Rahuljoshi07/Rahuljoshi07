@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776936053402,
+      "repository": "conveyordata/data-product-portal",
+      "issueTitle": "Check if we can make a card radio",
+      "url": "https://github.com/conveyordata/data-product-portal/issues/3238",
+      "createdAt": "2026-04-23T09:20:53.402Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
