@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776908438069,
+      "repository": "nextcloud/polls",
+      "issueTitle": "postgresql: during Upgrade to version 9.0.0, there are multiple errors because of duplicate indices",
+      "url": "https://github.com/nextcloud/polls/issues/4619",
+      "createdAt": "2026-04-23T01:40:38.069Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
