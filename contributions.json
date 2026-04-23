@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1776918412074,
+      "id": 1776918446494,
       "repository": "evanp/activitypub-bot",
-      "issueTitle": "ActivityDistributor should call onPublic() for local bots when an activity is distributed to the Public",
-      "url": "https://github.com/evanp/activitypub-bot/issues/198",
-      "createdAt": "2026-04-23T04:26:52.074Z",
+      "issueTitle": "Local IP address in LitePubRelayClientBot 'relay' option crashes the server",
+      "url": "https://github.com/evanp/activitypub-bot/issues/200",
+      "createdAt": "2026-04-23T04:27:26.494Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
