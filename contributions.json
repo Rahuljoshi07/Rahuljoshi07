@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776909341060,
+      "repository": "nextcloud/sharereview",
+      "issueTitle": "Return value must be of type bool",
+      "url": "https://github.com/nextcloud/sharereview/issues/54",
+      "createdAt": "2026-04-23T01:55:41.060Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
