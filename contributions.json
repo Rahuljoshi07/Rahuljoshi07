@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776937657653,
+      "repository": "SAP-samples/codejam-cap-llm",
+      "issueTitle": "Find a way to log the masked data from the orchestration client",
+      "url": "https://github.com/SAP-samples/codejam-cap-llm/issues/20",
+      "createdAt": "2026-04-23T09:47:37.653Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
