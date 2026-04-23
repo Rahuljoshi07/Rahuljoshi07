@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776951333426,
+      "repository": "qgis-deployment/qgis-deployment-toolbelt-cli",
+      "issueTitle": "[BUG]: 0.41.1 tests : deployment is unsuccessfull",
+      "url": "https://github.com/qgis-deployment/qgis-deployment-toolbelt-cli/issues/796",
+      "createdAt": "2026-04-23T13:35:33.426Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
