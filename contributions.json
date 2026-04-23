@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776934027567,
+      "repository": "gaureshpai/create-next-quick",
+      "issueTitle": "[Bug]: Duplication of commands",
+      "url": "https://github.com/gaureshpai/create-next-quick/issues/76",
+      "createdAt": "2026-04-23T08:47:07.567Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
