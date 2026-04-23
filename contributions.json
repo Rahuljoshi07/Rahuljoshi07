@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776951714389,
+      "repository": "dwgx/WindsurfAPI",
+      "issueTitle": "[Bug] 反代后在cc无法使用了，一直停止",
+      "url": "https://github.com/dwgx/WindsurfAPI/issues/41",
+      "createdAt": "2026-04-23T13:41:54.389Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
