@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776934204536,
+      "repository": "apache/tooling-trusted-releases",
+      "issueTitle": "Prevent the reuse of detached session objects in database commit contexts",
+      "url": "https://github.com/apache/tooling-trusted-releases/issues/299",
+      "createdAt": "2026-04-23T08:50:04.536Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
