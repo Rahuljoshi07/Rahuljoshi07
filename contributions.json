@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776945494869,
+      "repository": "tomcounsell/ai",
+      "issueTitle": "PM harness sessions missing SESSION_TYPE env and persona — hook enforcement and SDLC rules absent",
+      "url": "https://github.com/tomcounsell/ai/issues/1148",
+      "createdAt": "2026-04-23T11:58:14.869Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
