@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776912650946,
+      "repository": "djust-org/djust",
+      "issueTitle": "tech-debt: 3 pre-existing main test failures (test_api_response, test_observability_*)",
+      "url": "https://github.com/djust-org/djust/issues/935",
+      "createdAt": "2026-04-23T02:50:50.946Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
