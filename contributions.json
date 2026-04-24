@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776994496947,
+      "repository": "megumiss/qq-farm-copilot",
+      "issueTitle": "[Bug]: 识别5-1时，一直识别，卡住任务。",
+      "url": "https://github.com/megumiss/qq-farm-copilot/issues/70",
+      "createdAt": "2026-04-24T01:34:56.947Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
