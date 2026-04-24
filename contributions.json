@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1777035133405,
-      "repository": "remorses/unframer",
-      "issueTitle": "MCP plugin shows connected but server returns 'plugin not connected' error",
-      "url": "https://github.com/remorses/unframer/issues/48",
-      "createdAt": "2026-04-24T12:52:13.405Z",
+      "id": 1777035203162,
+      "repository": "docling-project/docling-eval",
+      "issueTitle": "Performance optimisations for the computation of the evaluation metrics and the data loading",
+      "url": "https://github.com/docling-project/docling-eval/issues/192",
+      "createdAt": "2026-04-24T12:53:23.162Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
