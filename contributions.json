@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777054072071,
+      "repository": "dwgx/WindsurfAPI",
+      "issueTitle": "[Bug] 为什么一直使用cascade，关闭了对话还在使用",
+      "url": "https://github.com/dwgx/WindsurfAPI/issues/52",
+      "createdAt": "2026-04-24T18:07:52.071Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
