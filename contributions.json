@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1777011251625,
-      "repository": "carverauto/serviceradar",
-      "issueTitle": "bug(flow-collector): not handling sFlow packets correctly",
-      "url": "https://github.com/carverauto/serviceradar/issues/3073",
-      "createdAt": "2026-04-24T06:14:11.625Z",
+      "id": 1777011333557,
+      "repository": "FHIR/sql-on-fhir-v2",
+      "issueTitle": "Test `fn_boundary.json`: column type should be `dateTime` for `date lowBoundary` / `date highBoundary`",
+      "url": "https://github.com/FHIR/sql-on-fhir-v2/issues/336",
+      "createdAt": "2026-04-24T06:15:33.557Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
