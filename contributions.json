@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777042027690,
+      "repository": "mongodb/django-mongodb-backend",
+      "issueTitle": "Test DB creation fails: create_permissions unhashable ContentType with multi-database setup",
+      "url": "https://github.com/mongodb/django-mongodb-backend/issues/522",
+      "createdAt": "2026-04-24T14:47:07.690Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
