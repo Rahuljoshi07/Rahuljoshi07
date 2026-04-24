@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777051345958,
+      "repository": "cloudsmith-io/cloudsmith-cli",
+      "issueTitle": "[BUG] install cli error",
+      "url": "https://github.com/cloudsmith-io/cloudsmith-cli/issues/285",
+      "createdAt": "2026-04-24T17:22:25.958Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
