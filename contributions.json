@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777039968083,
+      "repository": "bobmatnyc/claude-mpm",
+      "issueTitle": "fix: session pause/resume broken by test fixture pollution and wrong git path",
+      "url": "https://github.com/bobmatnyc/claude-mpm/issues/487",
+      "createdAt": "2026-04-24T14:12:48.083Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
