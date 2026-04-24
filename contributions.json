@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1777037653295,
-      "repository": "jest-community/jest-junit",
-      "issueTitle": "Security issue in v8 of uuid module, current version is 14 (GHSA-w5hq-g745-h8pq)",
-      "url": "https://github.com/jest-community/jest-junit/issues/283",
-      "createdAt": "2026-04-24T13:34:13.295Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
