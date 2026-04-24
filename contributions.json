@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777024072097,
+      "repository": "oar-team/oar3",
+      "issueTitle": "oarapi broken with Postgresql security update 17.8",
+      "url": "https://github.com/oar-team/oar3/issues/130",
+      "createdAt": "2026-04-24T09:47:52.098Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
