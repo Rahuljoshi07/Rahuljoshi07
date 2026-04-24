@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777051206307,
+      "repository": "tomcounsell/ai",
+      "issueTitle": "Telegram read tooling: silent wrong-chat match, stale-cache confusion, fragmented entry points (8 defects)",
+      "url": "https://github.com/tomcounsell/ai/issues/1163",
+      "createdAt": "2026-04-24T17:20:06.308Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
