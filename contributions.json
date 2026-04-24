@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777008736993,
+      "repository": "jwadow/kiro-gateway",
+      "issueTitle": "BUG: RemoteProtocolError mid-stream - Kiro API drops connection during chunked transfer",
+      "url": "https://github.com/jwadow/kiro-gateway/issues/129",
+      "createdAt": "2026-04-24T05:32:16.993Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
