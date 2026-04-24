@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777037388111,
+      "repository": "jest-community/jest-junit",
+      "issueTitle": "Security issue in v8 of uuid module, current version is 14 (GHSA-w5hq-g745-h8pq)",
+      "url": "https://github.com/jest-community/jest-junit/issues/283",
+      "createdAt": "2026-04-24T13:29:48.111Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
