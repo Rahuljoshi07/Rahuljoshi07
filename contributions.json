@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777003480064,
+      "repository": "pierreb-devkit/Node",
+      "issueTitle": "chore(auth): improve OAuth error logging and redirect payload",
+      "url": "https://github.com/pierreb-devkit/Node/issues/3495",
+      "createdAt": "2026-04-24T04:04:40.064Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
