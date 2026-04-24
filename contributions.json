@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1776996712254,
+      "repository": "Cyfrin/audit-repo-cloner",
+      "issueTitle": "HTTP 408 error",
+      "url": "https://github.com/Cyfrin/audit-repo-cloner/issues/17",
+      "createdAt": "2026-04-24T02:11:52.254Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
