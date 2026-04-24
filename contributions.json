@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777047806197,
+      "repository": "partcleda/macro-place-challenge-2026",
+      "issueTitle": "Issue with local ORFS Eval",
+      "url": "https://github.com/partcleda/macro-place-challenge-2026/issues/64",
+      "createdAt": "2026-04-24T16:23:26.197Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
