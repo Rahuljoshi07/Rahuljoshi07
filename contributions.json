@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777022699231,
+      "repository": "missionpinball/mpf-monitor",
+      "issueTitle": "PyQt and PyQt-Qt Version Errors",
+      "url": "https://github.com/missionpinball/mpf-monitor/issues/44",
+      "createdAt": "2026-04-24T09:24:59.231Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
