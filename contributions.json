@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777048901328,
+      "repository": "sassoftware/python-sasctl",
+      "issueTitle": "Unable to install sasctl on Viya Stable 2024.07 (20240806.1722930536493)",
+      "url": "https://github.com/sassoftware/python-sasctl/issues/207",
+      "createdAt": "2026-04-24T16:41:41.328Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
