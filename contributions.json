@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1777009181205,
-      "repository": "ata-core/ata-validator",
-      "issueTitle": "ReferenceError: _o0 is not defined — nested `additionalProperties: false` (Tier-0 codegen)",
-      "url": "https://github.com/ata-core/ata-validator/issues/18",
-      "createdAt": "2026-04-24T05:39:41.206Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
