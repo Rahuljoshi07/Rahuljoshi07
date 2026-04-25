@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777081021490,
+      "repository": "Resgrid/Core",
+      "issueTitle": "New users are being made as department admin by default.",
+      "url": "https://github.com/Resgrid/Core/issues/310",
+      "createdAt": "2026-04-25T01:37:01.490Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
