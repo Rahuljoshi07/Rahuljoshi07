@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777137861086,
+      "repository": "dwgx/WindsurfAPI",
+      "issueTitle": "[Bug] 客户端是Openclaw时报错",
+      "url": "https://github.com/dwgx/WindsurfAPI/issues/28",
+      "createdAt": "2026-04-25T17:24:21.086Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
