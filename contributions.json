@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1777113291072,
-      "repository": "DataDog/dd-trace-js",
-      "issueTitle": "[BUG]: LLM Obs anthropic plugin mutates caller's options.messages array",
-      "url": "https://github.com/DataDog/dd-trace-js/issues/8105",
-      "createdAt": "2026-04-25T10:34:51.072Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
