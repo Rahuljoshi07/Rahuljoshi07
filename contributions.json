@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777132219889,
+      "repository": "giovtorres/docker-centos7-slurm",
+      "issueTitle": "jobs in debug partition run indefinitely",
+      "url": "https://github.com/giovtorres/docker-centos7-slurm/issues/43",
+      "createdAt": "2026-04-25T15:50:19.889Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
