@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777116714259,
+      "repository": "cloudinary/cloudinary_npm",
+      "issueTitle": "[Dependency] lodash range ≥4.0.0 ≤4.17.22 flagged by audit (cloudinary → lodash)",
+      "url": "https://github.com/cloudinary/cloudinary_npm/issues/734",
+      "createdAt": "2026-04-25T11:31:54.259Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
