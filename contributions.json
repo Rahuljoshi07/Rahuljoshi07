@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777108841070,
+      "repository": "dtzp555-max/ocp",
+      "issueTitle": "bug(streaming): CLAUDE_TIMEOUT path does not res.end() or emit SSE error frame",
+      "url": "https://github.com/dtzp555-max/ocp/issues/48",
+      "createdAt": "2026-04-25T09:20:41.070Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
