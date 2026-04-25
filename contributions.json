@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777091304314,
+      "repository": "andrewitsover/midnight",
+      "issueTitle": "NOT NULL constraint error on default fields",
+      "url": "https://github.com/andrewitsover/midnight/issues/14",
+      "createdAt": "2026-04-25T04:28:24.314Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
