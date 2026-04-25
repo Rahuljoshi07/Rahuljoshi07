@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777157635305,
+      "repository": "nodejs/github-bot",
+      "issueTitle": "Bot comments three times on V8 CI",
+      "url": "https://github.com/nodejs/github-bot/issues/355",
+      "createdAt": "2026-04-25T22:53:55.305Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
