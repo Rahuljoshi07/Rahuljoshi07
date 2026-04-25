@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1777139567461,
-      "repository": "jtalk22/slack-mcp-server",
-      "issueTitle": "[Bug]",
-      "url": "https://github.com/jtalk22/slack-mcp-server/issues/121",
-      "createdAt": "2026-04-25T17:52:47.461Z",
+      "id": 1777139638186,
+      "repository": "openwisp/openwisp-controller",
+      "issueTitle": "[bug] Device Map UI breaks if \"closed\"",
+      "url": "https://github.com/openwisp/openwisp-controller/issues/1339",
+      "createdAt": "2026-04-25T17:53:58.186Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
     }
   ],
   "stats": {
