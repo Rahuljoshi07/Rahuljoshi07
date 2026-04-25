@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777150539360,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Ternary operators should not be nested",
+      "url": "https://github.com/OWASP/Nest/issues/4582",
+      "createdAt": "2026-04-25T20:55:39.360Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
