@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777120409669,
+      "repository": "sugarlabs/musicblocks",
+      "issueTitle": "[Bug] Rhythm Maker note values appearing as literal HTML and bracket symbols",
+      "url": "https://github.com/sugarlabs/musicblocks/issues/6854",
+      "createdAt": "2026-04-25T12:33:29.669Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
