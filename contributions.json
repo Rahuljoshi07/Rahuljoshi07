@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777142709191,
+      "repository": "corneel27/day-ahead",
+      "issueTitle": "Bug: DAO 2026.04.3  zet \"entity pv switch\" meteen weer aan na het uitschakelen wanneer de PV onder battery hangt (niet wanneer PV onder solar hangt)",
+      "url": "https://github.com/corneel27/day-ahead/issues/654",
+      "createdAt": "2026-04-25T18:45:09.191Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
