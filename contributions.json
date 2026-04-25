@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777114130359,
+      "repository": "NVIDIA-NeMo/Megatron-Bridge",
+      "issueTitle": "[bug] CUDA Graphs Hang in MoE Token Dispatcher",
+      "url": "https://github.com/NVIDIA-NeMo/Megatron-Bridge/issues/3517",
+      "createdAt": "2026-04-25T10:48:50.359Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
