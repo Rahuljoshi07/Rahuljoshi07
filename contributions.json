@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777224543603,
+      "repository": "JenspederM/kedro-databricks",
+      "issueTitle": "[BUG] Node-based deployment using in-memory dataset fails to run on Databricks",
+      "url": "https://github.com/JenspederM/kedro-databricks/issues/176",
+      "createdAt": "2026-04-26T17:29:03.603Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
