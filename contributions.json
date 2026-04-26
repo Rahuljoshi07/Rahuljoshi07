@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1777206628788,
+      "id": 1777206685254,
       "repository": "periodo/periodo-client",
       "issueTitle": "Disallow importing partial datasets from the server",
       "url": "https://github.com/periodo/periodo-client/issues/297",
-      "createdAt": "2026-04-26T12:30:28.788Z",
+      "createdAt": "2026-04-26T12:31:25.254Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
