@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777247170768,
+      "repository": "djust-org/djust",
+      "issueTitle": "tech-debt: CodeQL js/tainted-format-string self-review checkpoint",
+      "url": "https://github.com/djust-org/djust/issues/1124",
+      "createdAt": "2026-04-26T23:46:10.768Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
