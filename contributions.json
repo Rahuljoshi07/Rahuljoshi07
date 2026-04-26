@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777235472205,
+      "repository": "djust-org/djust",
+      "issueTitle": "tech-debt: dynamic test fixture pattern — type(name, bases, dict) over class mutation",
+      "url": "https://github.com/djust-org/djust/issues/1109",
+      "createdAt": "2026-04-26T20:31:12.205Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
