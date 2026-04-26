@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777202473514,
+      "repository": "Fu-Jie/openwebui-extensions",
+      "issueTitle": "[BUG] Async Context Compress not working in v0.8.12",
+      "url": "https://github.com/Fu-Jie/openwebui-extensions/issues/65",
+      "createdAt": "2026-04-26T11:21:13.514Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
