@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777167110647,
+      "repository": "miurahr/pykakasi",
+      "issueTitle": "Tracking benchmark scores",
+      "url": "https://github.com/miurahr/pykakasi/issues/123",
+      "createdAt": "2026-04-26T01:31:50.647Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
