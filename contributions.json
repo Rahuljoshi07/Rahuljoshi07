@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777162022907,
+      "repository": "guptarohit/cryptoCMD",
+      "issueTitle": "TypeError: 'NoneType' object is not subscriptable",
+      "url": "https://github.com/guptarohit/cryptoCMD/issues/130",
+      "createdAt": "2026-04-26T00:07:02.907Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
