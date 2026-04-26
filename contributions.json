@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777199950248,
+      "repository": "nextcloud/contacts",
+      "issueTitle": "Contacts web app unusable, possible after adding a contact with a not expected date field — TypeError: can't access property \"getAllSubcomponents\", this.component is null in sortContacts",
+      "url": "https://github.com/nextcloud/contacts/issues/5250",
+      "createdAt": "2026-04-26T10:39:10.248Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
