@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777241905893,
+      "repository": "jfarmer08/wyze-api",
+      "issueTitle": "Add calls to use async request(url, data = {}) command instead of direct",
+      "url": "https://github.com/jfarmer08/wyze-api/issues/18",
+      "createdAt": "2026-04-26T22:18:25.893Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
