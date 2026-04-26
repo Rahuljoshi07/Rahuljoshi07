@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777240493214,
+      "repository": "Purfview/IMDb-Scout-Mod",
+      "issueTitle": "getStuffFromIMDb error/ Get a genre Error / Start Redesign Error",
+      "url": "https://github.com/Purfview/IMDb-Scout-Mod/issues/325",
+      "createdAt": "2026-04-26T21:54:53.214Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
