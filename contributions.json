@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777222628092,
+      "repository": "swayam03275/SkillsSphere-AI",
+      "issueTitle": "issue: replace sandbox Mailtrap SMTP with third-party production service",
+      "url": "https://github.com/swayam03275/SkillsSphere-AI/issues/125",
+      "createdAt": "2026-04-26T16:57:08.092Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
