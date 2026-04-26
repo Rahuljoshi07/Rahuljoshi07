@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777236787791,
+      "repository": "lbedner/aegis-stack",
+      "issueTitle": "AUTH-015: Add auth check to GET /auth/users/{user_id}",
+      "url": "https://github.com/lbedner/aegis-stack/issues/580",
+      "createdAt": "2026-04-26T20:53:07.791Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
