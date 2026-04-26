@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777209781823,
+      "repository": "Pratiyush/llm-wiki",
+      "issueTitle": "epic: Opus security audit findings — 5 HIGH (no BLOCK), 9 MEDIUM, 8 LOW",
+      "url": "https://github.com/Pratiyush/llm-wiki/issues/472",
+      "createdAt": "2026-04-26T13:23:01.824Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
