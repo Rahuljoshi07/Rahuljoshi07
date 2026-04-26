@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777214633369,
+      "repository": "beatrizsmerino/vue-todolist",
+      "issueTitle": "fix(workflow): validate `check-node.yml` matrix format (`[X.Y.Z]` single-version pinned)",
+      "url": "https://github.com/beatrizsmerino/vue-todolist/issues/1140",
+      "createdAt": "2026-04-26T14:43:53.369Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
