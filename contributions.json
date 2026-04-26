@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777217641987,
+      "repository": "dwgx/WindsurfAPI",
+      "issueTitle": "[Bug]  Read 缓存在读取被截断后返回不含正文的 stub，导致重复读取和多文件正文验证不可靠。",
+      "url": "https://github.com/dwgx/WindsurfAPI/issues/71",
+      "createdAt": "2026-04-26T15:34:01.987Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
