@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777211200426,
+      "repository": "DaddyBoard/BD-Plugins",
+      "issueTitle": "[Bug Report] Plugin Crash - PingNotification v9.4.0",
+      "url": "https://github.com/DaddyBoard/BD-Plugins/issues/91",
+      "createdAt": "2026-04-26T13:46:40.426Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
