@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777232749515,
+      "repository": "djust-org/djust",
+      "issueTitle": "tech-debt: dynamic test fixture pattern — type(name, bases, dict) over class mutation",
+      "url": "https://github.com/djust-org/djust/issues/1109",
+      "createdAt": "2026-04-26T19:45:49.515Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
