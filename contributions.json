@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777210020702,
+      "repository": "codebucks27/wibe-studio",
+      "issueTitle": "Issue in reloading.",
+      "url": "https://github.com/codebucks27/wibe-studio/issues/14",
+      "createdAt": "2026-04-26T13:27:00.702Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
