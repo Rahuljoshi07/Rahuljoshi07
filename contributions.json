@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777162254404,
+      "repository": "meshery/meshery.io",
+      "issueTitle": "[Bug] Typo: \"Well-architectured\" should be \"Well-Architected\" on Catalog page",
+      "url": "https://github.com/meshery/meshery.io/issues/2650",
+      "createdAt": "2026-04-26T00:10:54.404Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
