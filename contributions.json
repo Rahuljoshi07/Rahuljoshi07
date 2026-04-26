@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777172598344,
+      "repository": "entrius/gittensor",
+      "issueTitle": "Incomplete fix of #694: `gitt miner` commands still forward typo'd `--network` strings as endpoints",
+      "url": "https://github.com/entrius/gittensor/issues/795",
+      "createdAt": "2026-04-26T03:03:18.345Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
