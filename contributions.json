@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777218610868,
+      "repository": "neurobooth/neurobooth-os",
+      "issueTitle": "Make #697 early log_sensor_file failures actually propagate, not just log CRITICAL",
+      "url": "https://github.com/neurobooth/neurobooth-os/issues/704",
+      "createdAt": "2026-04-26T15:50:10.868Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
