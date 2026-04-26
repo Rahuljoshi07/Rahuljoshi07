@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777191927230,
+      "repository": "kube-HPC/hkube",
+      "issueTitle": "elastic search link issues - UI",
+      "url": "https://github.com/kube-HPC/hkube/issues/2406",
+      "createdAt": "2026-04-26T08:25:27.230Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
