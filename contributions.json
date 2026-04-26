@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777246469524,
+      "repository": "mue/mue",
+      "issueTitle": "[Bug] Default search engine not being used correctly",
+      "url": "https://github.com/mue/mue/issues/1152",
+      "createdAt": "2026-04-26T23:34:29.524Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
