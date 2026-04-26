@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777228289870,
+      "repository": "nicola02nb/BetterDiscord-Stuff",
+      "issueTitle": "[BUG] - CompleteDiscordQuest not switching on",
+      "url": "https://github.com/nicola02nb/BetterDiscord-Stuff/issues/48",
+      "createdAt": "2026-04-26T18:31:29.870Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
