@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777214488456,
+      "repository": "HBehrens/puncover",
+      "issueTitle": "Path issue when src_root and source is in same folder",
+      "url": "https://github.com/HBehrens/puncover/issues/133",
+      "createdAt": "2026-04-26T14:41:28.456Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
