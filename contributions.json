@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1777271806106,
+      "id": 1777271835639,
       "repository": "adrianjost/files-sync-action",
-      "issueTitle": "Sync only a section of a file.",
-      "url": "https://github.com/adrianjost/files-sync-action/issues/219",
-      "createdAt": "2026-04-27T06:36:46.106Z",
+      "issueTitle": "Unable to find files from SRC_REPO Branch ",
+      "url": "https://github.com/adrianjost/files-sync-action/issues/131",
+      "createdAt": "2026-04-27T06:37:15.640Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
