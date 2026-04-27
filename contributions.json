@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777278001567,
+      "repository": "langgenius/dify-official-plugins",
+      "issueTitle": "Daemon ignores requirements.txt and allows dependency drift for Python plugins",
+      "url": "https://github.com/langgenius/dify-official-plugins/issues/2764",
+      "createdAt": "2026-04-27T08:20:01.567Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
