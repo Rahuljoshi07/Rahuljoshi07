@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777264574855,
+      "repository": "axisrow/tg_content_factory",
+      "issueTitle": "tests: radical fix for ResourceWarning chaos under -W error (anyio migration or pytest-asyncio upgrade)",
+      "url": "https://github.com/axisrow/tg_content_factory/issues/489",
+      "createdAt": "2026-04-27T04:36:14.855Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
