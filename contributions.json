@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777262668343,
+      "repository": "ex-em/EVUI",
+      "issueTitle": "chart: fill(with null) 차트에서 null 시리즈가 잘못 선택되는 onClick 버그",
+      "url": "https://github.com/ex-em/EVUI/issues/2248",
+      "createdAt": "2026-04-27T04:04:28.343Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
