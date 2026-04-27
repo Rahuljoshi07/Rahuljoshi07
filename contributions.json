@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777278071493,
+      "repository": "nextcloud/documentation",
+      "issueTitle": "This repo's README links to an outdated NextCloud admin doc",
+      "url": "https://github.com/nextcloud/documentation/issues/14649",
+      "createdAt": "2026-04-27T08:21:11.494Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
