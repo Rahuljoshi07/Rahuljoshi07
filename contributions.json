@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777283192226,
+      "repository": "cap-js/mcp-server",
+      "issueTitle": "search_docs fails  (issue reaching the CAP docs endpoint).",
+      "url": "https://github.com/cap-js/mcp-server/issues/99",
+      "createdAt": "2026-04-27T09:46:32.226Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
