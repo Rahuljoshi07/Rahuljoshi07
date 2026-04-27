@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777263014991,
+      "repository": "snakemake/snakefmt",
+      "issueTitle": "Ignore unmodified files",
+      "url": "https://github.com/snakemake/snakefmt/issues/1",
+      "createdAt": "2026-04-27T04:10:14.991Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and IDE support. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
