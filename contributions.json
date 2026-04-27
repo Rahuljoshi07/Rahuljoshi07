@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777299757807,
+      "repository": "babalae/bettergi-scripts-list",
+      "issueTitle": "[Bug]: 调整游戏时间腳本報錯，截至最新版本未修復",
+      "url": "https://github.com/babalae/bettergi-scripts-list/issues/3162",
+      "createdAt": "2026-04-27T14:22:37.808Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
