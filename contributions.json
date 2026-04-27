@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1777283192226,
-      "repository": "cap-js/mcp-server",
-      "issueTitle": "search_docs fails  (issue reaching the CAP docs endpoint).",
-      "url": "https://github.com/cap-js/mcp-server/issues/99",
-      "createdAt": "2026-04-27T09:46:32.226Z",
+      "id": 1777283230632,
+      "repository": "pmario/file-backups",
+      "issueTitle": "improve check for valid file names / path names and provide better feedback",
+      "url": "https://github.com/pmario/file-backups/issues/20",
+      "createdAt": "2026-04-27T09:47:10.632Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
