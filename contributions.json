@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777264759175,
+      "repository": "NixOS/amis",
+      "issueTitle": "Figure out vhd/raw issue with Hydra",
+      "url": "https://github.com/NixOS/amis/issues/369",
+      "createdAt": "2026-04-27T04:39:19.175Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
