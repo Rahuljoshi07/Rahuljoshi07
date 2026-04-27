@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777257403228,
+      "repository": "guybedford/chomp-extensions",
+      "issueTitle": "Terser versioning issue",
+      "url": "https://github.com/guybedford/chomp-extensions/issues/9",
+      "createdAt": "2026-04-27T02:36:43.228Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
