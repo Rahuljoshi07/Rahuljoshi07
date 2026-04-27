@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1777289227920,
+      "id": 1777289261466,
       "repository": "physicshub/physicshub.github.io",
       "issueTitle": "[Bug]: pendulum in SimplePendulum simulation is rotating inverted",
       "url": "https://github.com/physicshub/physicshub.github.io/issues/224",
-      "createdAt": "2026-04-27T11:27:07.920Z",
+      "createdAt": "2026-04-27T11:27:41.466Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
