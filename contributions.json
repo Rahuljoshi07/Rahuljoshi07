@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777300736002,
+      "repository": "AaronWong1999/hermesclaw",
+      "issueTitle": "[bug] Install failure - line 107 mapfile not found",
+      "url": "https://github.com/AaronWong1999/hermesclaw/issues/5",
+      "createdAt": "2026-04-27T14:38:56.002Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
