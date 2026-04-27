@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777283105370,
+      "repository": "eyalway2cu/eyal_scripts",
+      "issueTitle": "מקבל הודעת שגיאה TypeError: utm_medium_field.setAttribute is not a function",
+      "url": "https://github.com/eyalway2cu/eyal_scripts/issues/2",
+      "createdAt": "2026-04-27T09:45:05.370Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
