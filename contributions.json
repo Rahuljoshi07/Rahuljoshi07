@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777265887444,
+      "repository": "unoplat/unoplat-code-confluence",
+      "issueTitle": "[BUG] Dependency guide runner silently drops per-dependency failures from agent_errors",
+      "url": "https://github.com/unoplat/unoplat-code-confluence/issues/1348",
+      "createdAt": "2026-04-27T04:58:07.444Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
