@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777262445259,
+      "repository": "manzt/anywidget",
+      "issueTitle": "model.get() returns default value in render() on browser refresh",
+      "url": "https://github.com/manzt/anywidget/issues/985",
+      "createdAt": "2026-04-27T04:00:45.259Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
