@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777260660561,
+      "repository": "pmario/file-backups",
+      "issueTitle": "V0.4.0 extension stops working",
+      "url": "https://github.com/pmario/file-backups/issues/34",
+      "createdAt": "2026-04-27T03:31:00.561Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
