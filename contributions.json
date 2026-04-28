@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777378181063,
+      "repository": "bluesky/scanspec",
+      "issueTitle": "Aliased specs can't be deserialised",
+      "url": "https://github.com/bluesky/scanspec/issues/199",
+      "createdAt": "2026-04-28T12:09:41.063Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
