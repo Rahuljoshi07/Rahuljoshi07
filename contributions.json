@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777382318925,
+      "repository": "ori-drs/oxford_spires_dataset",
+      "issueTitle": "Minor LiDAR timestamp error on 2024-03-12-keble-college-02 sequence",
+      "url": "https://github.com/ori-drs/oxford_spires_dataset/issues/59",
+      "createdAt": "2026-04-28T13:18:38.925Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
