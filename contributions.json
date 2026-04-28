@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777358711011,
+      "repository": "cockpit-project/bots",
+      "issueTitle": "When installing/uninstalling FreeIPA support with realmd, uninstalling crashes with ScriptError",
+      "url": "https://github.com/cockpit-project/bots/issues/2485",
+      "createdAt": "2026-04-28T06:45:11.011Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
