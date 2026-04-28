@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777367724695,
+      "repository": "ComPlat/chemotion_ELN",
+      "issueTitle": "create sample not possible",
+      "url": "https://github.com/ComPlat/chemotion_ELN/issues/3196",
+      "createdAt": "2026-04-28T09:15:24.695Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
