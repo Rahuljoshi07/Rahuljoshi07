@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777344016654,
+      "repository": "vllm-project/recipes",
+      "issueTitle": "DEEPSEEK-V4-PRO ON H20-141G*8 SINGLE NODE ERROR",
+      "url": "https://github.com/vllm-project/recipes/issues/390",
+      "createdAt": "2026-04-28T02:40:16.654Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
