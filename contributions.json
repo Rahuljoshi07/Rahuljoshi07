@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777354769856,
+      "repository": "ether/ep_cursortrace",
+      "issueTitle": "wrong cursor position in some cases",
+      "url": "https://github.com/ether/ep_cursortrace/issues/60",
+      "createdAt": "2026-04-28T05:39:29.856Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
