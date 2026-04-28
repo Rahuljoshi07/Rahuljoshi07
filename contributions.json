@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777365368583,
+      "repository": "MISP/misp-stix",
+      "issueTitle": "Bug: Hash names of STIX 2.1 output do not comply with the official specification",
+      "url": "https://github.com/MISP/misp-stix/issues/78",
+      "createdAt": "2026-04-28T08:36:08.583Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
