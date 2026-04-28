@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777368541194,
+      "repository": "gabrii/Cursor-Azure-GPT-5",
+      "issueTitle": "TypeError when logging Chat Completions requests with Azure GPT‑5.2‑Codex (content is list)",
+      "url": "https://github.com/gabrii/Cursor-Azure-GPT-5/issues/78",
+      "createdAt": "2026-04-28T09:29:01.194Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
