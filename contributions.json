@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777459182860,
+      "repository": "EodHistoricalData/EODHD-APIs-Python-Financial-Library",
+      "issueTitle": "Attempting to retrieve more that 1 year of data using a free API key results in a Pandas error rather than useful warning message",
+      "url": "https://github.com/EodHistoricalData/EODHD-APIs-Python-Financial-Library/issues/66",
+      "createdAt": "2026-04-29T10:39:42.860Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
