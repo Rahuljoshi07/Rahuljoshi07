@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777432649073,
+      "repository": "hw-native-sys/pypto",
+      "issueTitle": "[Bug] a2a3 FP32 matmul with b_trans=True gives wrong results for [16,16384] x [32,16384].T",
+      "url": "https://github.com/hw-native-sys/pypto/issues/1213",
+      "createdAt": "2026-04-29T03:17:29.074Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
