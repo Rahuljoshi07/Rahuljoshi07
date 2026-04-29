@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777445204823,
+      "repository": "infly-ai/INF-MLLM",
+      "issueTitle": "Issue with flash-attn Installation – Infinity Parser Setup",
+      "url": "https://github.com/infly-ai/INF-MLLM/issues/43",
+      "createdAt": "2026-04-29T06:46:44.823Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
