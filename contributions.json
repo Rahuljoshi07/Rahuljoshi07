@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777432884190,
+      "repository": "ICOS-Carbon-Portal/pylib",
+      "issueTitle": "error while reading collection as digital object",
+      "url": "https://github.com/ICOS-Carbon-Portal/pylib/issues/154",
+      "createdAt": "2026-04-29T03:21:24.190Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
