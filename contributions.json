@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1777448017467,
+      "id": 1777448079086,
       "repository": "lirantal/create-node-lib",
       "issueTitle": "Bug: scaffolding a new project shows the following error about engines support",
       "url": "https://github.com/lirantal/create-node-lib/issues/42",
-      "createdAt": "2026-04-29T07:33:37.467Z",
+      "createdAt": "2026-04-29T07:34:39.086Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
