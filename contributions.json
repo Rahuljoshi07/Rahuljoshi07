@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777468333525,
+      "repository": "OvertureMaps/explore-site",
+      "issueTitle": "Admin and water area issues on map display - Australia",
+      "url": "https://github.com/OvertureMaps/explore-site/issues/295",
+      "createdAt": "2026-04-29T13:12:13.526Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
