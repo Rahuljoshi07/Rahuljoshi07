@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1777462502820,
-      "repository": "noho/dayu-agent",
-      "issueTitle": "Bug: `read_section` 在跨文档切换时可能复用上一份 filing 的 `ref`，导致章节读取误报不存在",
-      "url": "https://github.com/noho/dayu-agent/issues/102",
-      "createdAt": "2026-04-29T11:35:02.820Z",
-      "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
