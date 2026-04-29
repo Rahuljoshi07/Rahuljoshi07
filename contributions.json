@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777430353487,
+      "repository": "neka-nat/freecad-mcp",
+      "issueTitle": "ShapeColor AttributeError in get_objects/get_object tools",
+      "url": "https://github.com/neka-nat/freecad-mcp/issues/28",
+      "createdAt": "2026-04-29T02:39:13.487Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
