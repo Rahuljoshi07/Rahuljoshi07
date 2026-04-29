@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777474052524,
+      "repository": "Eshajha19/agri",
+      "issueTitle": "Large bundles increase initial load time, which is critical for farmers in areas with low bandwidth.",
+      "url": "https://github.com/Eshajha19/agri/issues/217",
+      "createdAt": "2026-04-29T14:47:32.525Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
