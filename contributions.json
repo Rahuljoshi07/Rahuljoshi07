@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1777448079086,
-      "repository": "lirantal/create-node-lib",
-      "issueTitle": "Bug: scaffolding a new project shows the following error about engines support",
-      "url": "https://github.com/lirantal/create-node-lib/issues/42",
-      "createdAt": "2026-04-29T07:34:39.086Z",
+      "id": 1777448147088,
+      "repository": "mununki/ppx_spice",
+      "issueTitle": "We have had an issue with a user trying to use this on a linux ARM machine",
+      "url": "https://github.com/mununki/ppx_spice/issues/76",
+      "createdAt": "2026-04-29T07:35:47.088Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
