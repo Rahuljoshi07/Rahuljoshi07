@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777440423037,
+      "repository": "stackitcloud/stackit-sdk-python",
+      "issueTitle": "iaas component is trying to regex match on an UUID",
+      "url": "https://github.com/stackitcloud/stackit-sdk-python/issues/3534",
+      "createdAt": "2026-04-29T05:27:03.037Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
