@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777515406215,
+      "repository": "baileyh8/hermes-feishu-streaming-card",
+      "issueTitle": "卡片里表格过多会报错飞书后台：Failed to create card content, ext=ErrCode: 11310; ErrMsg: card table number over limit; ErrorValue: table;",
+      "url": "https://github.com/baileyh8/hermes-feishu-streaming-card/issues/10",
+      "createdAt": "2026-04-30T02:16:46.215Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
