@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777517362005,
+      "repository": "djust-org/djust",
+      "issueTitle": "chore: pre-commit mixed-line-ending cleanup pass for two .pxd files with lingering issues",
+      "url": "https://github.com/djust-org/djust/issues/1215",
+      "createdAt": "2026-04-30T02:49:22.005Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
