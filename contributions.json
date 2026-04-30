@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777514694327,
+      "repository": "web-dashers/web-dashers.github.io",
+      "issueTitle": "Teleport, robot, and spider portals. And level end screen issues.",
+      "url": "https://github.com/web-dashers/web-dashers.github.io/issues/62",
+      "createdAt": "2026-04-30T02:04:54.327Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
