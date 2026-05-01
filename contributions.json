@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777664893376,
+      "repository": "Scottcjn/Rustchain",
+      "issueTitle": "docs: 文档中 miner 示例命令缺少 --dry-run 参数说明",
+      "url": "https://github.com/Scottcjn/Rustchain/issues/2767",
+      "createdAt": "2026-05-01T19:48:13.377Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
