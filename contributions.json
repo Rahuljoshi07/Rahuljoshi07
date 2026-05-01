@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777610287496,
+      "repository": "1CatAI/1Cat-vLLM",
+      "issueTitle": "[Bug]: There is an issue with the `<think>` tags output by Qwen 3.5.",
+      "url": "https://github.com/1CatAI/1Cat-vLLM/issues/18",
+      "createdAt": "2026-05-01T04:38:07.496Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
