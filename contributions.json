@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777637022648,
+      "repository": "ancsemi/Haven",
+      "issueTitle": "[Bug] Windows app several issues",
+      "url": "https://github.com/ancsemi/Haven/issues/184",
+      "createdAt": "2026-05-01T12:03:42.648Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
