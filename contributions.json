@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777647425561,
+      "repository": "lklynet/aurral",
+      "issueTitle": "Discover tab does not load when using nginx reverse proxy site",
+      "url": "https://github.com/lklynet/aurral/issues/276",
+      "createdAt": "2026-05-01T14:57:05.561Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
