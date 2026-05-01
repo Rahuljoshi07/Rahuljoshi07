@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777626298200,
+      "repository": "tile-ai/TileOPs",
+      "issueTitle": "[Bug][Ops] 3 pre-existing GQA T.tma_copy tilelang-compat failures in tests/ops/ (follow-up to #1121)",
+      "url": "https://github.com/tile-ai/TileOPs/issues/1129",
+      "createdAt": "2026-05-01T09:04:58.200Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
