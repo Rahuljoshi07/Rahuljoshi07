@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777633885823,
+      "repository": "pierreb-devkit/Node",
+      "issueTitle": "fix(billing): expose billing.{enabled,meterMode} in authenticated /api/auth/config",
+      "url": "https://github.com/pierreb-devkit/Node/issues/3565",
+      "createdAt": "2026-05-01T11:11:25.823Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
