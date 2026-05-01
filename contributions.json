@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777615149531,
+      "repository": "lirantal/Riess.js",
+      "issueTitle": "Create a sessionsHelper to separate the session store code in socket.io and express from being coupled to MongoDB sessions",
+      "url": "https://github.com/lirantal/Riess.js/issues/18",
+      "createdAt": "2026-05-01T05:59:09.531Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
