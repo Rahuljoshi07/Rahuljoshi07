@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777633086399,
+      "repository": "grindsa/acme2certifier",
+      "issueTitle": "Validation failed due to a bad CSR",
+      "url": "https://github.com/grindsa/acme2certifier/issues/315",
+      "createdAt": "2026-05-01T10:58:06.399Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
