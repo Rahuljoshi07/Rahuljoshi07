@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777629598768,
+      "repository": "RamezIssac/django-slick-reporting",
+      "issueTitle": "Report Form Duplicate Input Filter when CrossTab field is a ForeignKey",
+      "url": "https://github.com/RamezIssac/django-slick-reporting/issues/117",
+      "createdAt": "2026-05-01T09:59:58.768Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
