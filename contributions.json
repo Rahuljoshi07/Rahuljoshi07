@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777610462498,
+      "repository": "TryGhost/framework",
+      "issueTitle": "Replace bunyan with actively maintained logging library",
+      "url": "https://github.com/TryGhost/framework/issues/454",
+      "createdAt": "2026-05-01T04:41:02.498Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
