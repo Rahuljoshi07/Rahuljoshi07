@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777600235959,
+      "repository": "fastify/fastify-nextjs",
+      "issueTitle": "Support Next.js v14",
+      "url": "https://github.com/fastify/fastify-nextjs/issues/956",
+      "createdAt": "2026-05-01T01:50:35.960Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
