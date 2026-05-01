@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777605074424,
+      "repository": "Tokisaki-Galaxy/luci-app-tailscale-community",
+      "issueTitle": "EXIT NODE config issue",
+      "url": "https://github.com/Tokisaki-Galaxy/luci-app-tailscale-community/issues/42",
+      "createdAt": "2026-05-01T03:11:14.425Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
