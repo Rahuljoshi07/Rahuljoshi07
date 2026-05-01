@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777660625545,
+      "repository": "openfoodfacts/open-prices",
+      "issueTitle": "OpenApi spec doesn't match actual result for paginated APIs",
+      "url": "https://github.com/openfoodfacts/open-prices/issues/1279",
+      "createdAt": "2026-05-01T18:37:05.545Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
