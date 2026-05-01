@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777664027212,
+      "repository": "django-commons/django-enum",
+      "issueTitle": "Delete uv.lock when test dependency on mysqlclient <2 goes away",
+      "url": "https://github.com/django-commons/django-enum/issues/172",
+      "createdAt": "2026-05-01T19:33:47.212Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
