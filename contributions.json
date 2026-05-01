@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777640805860,
+      "repository": "pyArchimate/pyArchimate",
+      "issueTitle": "Issue: pyArchimate does not fully conform to Archimate standards v3.x",
+      "url": "https://github.com/pyArchimate/pyArchimate/issues/41",
+      "createdAt": "2026-05-01T13:06:45.860Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
