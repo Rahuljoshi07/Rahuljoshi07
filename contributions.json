@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777636868374,
+      "repository": "django-cms/djangocms-bootstrap4",
+      "issueTitle": "Icons aren't rendered / API mismatch with djangocms-icon",
+      "url": "https://github.com/django-cms/djangocms-bootstrap4/issues/124",
+      "createdAt": "2026-05-01T12:01:08.374Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
