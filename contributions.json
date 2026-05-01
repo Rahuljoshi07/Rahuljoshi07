@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777657694104,
+      "repository": "eshlon/onenotemcp",
+      "issueTitle": "listNotebooks names return as undefined. Simple fix included.",
+      "url": "https://github.com/eshlon/onenotemcp/issues/5",
+      "createdAt": "2026-05-01T17:48:14.104Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
