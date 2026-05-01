@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777632458547,
+      "repository": "AprilSylph/Palettes-for-Tumblr",
+      "issueTitle": "Custom Palettes: \"brand\" colours are not affected (blue, purple, pink, red, orange, yellow, green)",
+      "url": "https://github.com/AprilSylph/Palettes-for-Tumblr/issues/280",
+      "createdAt": "2026-05-01T10:47:38.547Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
