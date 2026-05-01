@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777628890820,
+      "repository": "victorpoughon/torchlensmaker",
+      "issueTitle": "Opaque / unrelated error when json file missing in HTML viewer: tlmviewer error: SyntaxError: Unexpected token '<', \"",
+      "url": "https://github.com/victorpoughon/torchlensmaker/issues/10",
+      "createdAt": "2026-05-01T09:48:10.820Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
