@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777662597821,
+      "repository": "ptarmiganlabs/butler-sos",
+      "issueTitle": "Duplicate Code: Tag Sanitization Functions in InfluxDB v3 Modules",
+      "url": "https://github.com/ptarmiganlabs/butler-sos/issues/1282",
+      "createdAt": "2026-05-01T19:09:57.821Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
