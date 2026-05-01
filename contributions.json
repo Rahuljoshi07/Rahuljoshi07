@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777642045421,
+      "repository": "Loping151/XutheringWavesUID",
+      "issueTitle": "外置登录等待 ck 超时会抛出 TimeoutError 并打印完整 traceback，建议友好处理登录超时",
+      "url": "https://github.com/Loping151/XutheringWavesUID/issues/52",
+      "createdAt": "2026-05-01T13:27:25.421Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
