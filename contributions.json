@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777635838411,
+      "repository": "BlazeUp-AI/Observal",
+      "issueTitle": "[BUG] observal pull agent_name (old syntax) still works without warning",
+      "url": "https://github.com/BlazeUp-AI/Observal/issues/673",
+      "createdAt": "2026-05-01T11:43:58.411Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
