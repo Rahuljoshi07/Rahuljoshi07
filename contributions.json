@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777665530381,
+      "repository": "jbatonnet/Rinkhals",
+      "issueTitle": "[Kobra 3 / Kobra 3 Combo] Printing without ACE Pro fails with error 11503 \"filament hub not exist\"",
+      "url": "https://github.com/jbatonnet/Rinkhals/issues/433",
+      "createdAt": "2026-05-01T19:58:50.381Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
