@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777686071488,
+      "repository": "barneyonline/ha-enphase-energy",
+      "issueTitle": "[Bug]: `effective_mode` attribute does not reflect charger's actual operating mode — `mode` integer field from status API is not mapped",
+      "url": "https://github.com/barneyonline/ha-enphase-energy/issues/640",
+      "createdAt": "2026-05-02T01:41:11.489Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
