@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777686517674,
+      "repository": "Moonlark-Dev/Moonlark",
+      "issueTitle": "[Bug 反馈] OneBot 11 协议下群员列表缓存使用 QQ 昵称导致 AT 替换失败",
+      "url": "https://github.com/Moonlark-Dev/Moonlark/issues/1069",
+      "createdAt": "2026-05-02T01:48:37.674Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
