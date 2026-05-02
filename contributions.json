@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777684985510,
+      "repository": "ansible-collections/community.zabbix",
+      "issueTitle": "Troubleshoot MySQL 8.4",
+      "url": "https://github.com/ansible-collections/community.zabbix/issues/1732",
+      "createdAt": "2026-05-02T01:23:05.510Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
