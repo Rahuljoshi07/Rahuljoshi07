@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777687619948,
+      "repository": "activescott/serverless-aws-static-file-handler",
+      "issueTitle": "e2e_tests check don't work on a PR from a fork due to AWS' configure-aws-credentials bug",
+      "url": "https://github.com/activescott/serverless-aws-static-file-handler/issues/205",
+      "createdAt": "2026-05-02T02:06:59.948Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
