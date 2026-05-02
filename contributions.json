@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777691074046,
+      "repository": "freelawproject/courtlistener",
+      "issueTitle": "scrape_pacer_free_opinions: SDNY stalled since 2025-11-26, peer districts lag 2-3 months — likely caused by slow WrtOpRpt.pl + bail-on-error per-court loop",
+      "url": "https://github.com/freelawproject/courtlistener/issues/7316",
+      "createdAt": "2026-05-02T03:04:34.046Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
