@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777692986214,
+      "repository": "GNOME-Nepal/website",
+      "issueTitle": "[Bug]: Clicking \"Docs\" link in the navbar takes to a 404 page",
+      "url": "https://github.com/GNOME-Nepal/website/issues/122",
+      "createdAt": "2026-05-02T03:36:26.214Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
