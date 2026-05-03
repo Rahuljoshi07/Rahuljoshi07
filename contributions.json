@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777784811568,
+      "repository": "yohaybn/HA_aliexpress_package_tracker_sensor",
+      "issueTitle": "BUG v2.9.1 : Detected blocking call to open with args (PosixPath('/config/custom_components/aliexpress_package_tracker/manifest.json'),)",
+      "url": "https://github.com/yohaybn/HA_aliexpress_package_tracker_sensor/issues/27",
+      "createdAt": "2026-05-03T05:06:51.568Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
