@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777781639548,
+      "repository": "Silent1566/OmniBox-Spider",
+      "issueTitle": "[Bug] Emby/模板一.js 剧集详情页缺失集数编号",
+      "url": "https://github.com/Silent1566/OmniBox-Spider/issues/170",
+      "createdAt": "2026-05-03T04:13:59.548Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
