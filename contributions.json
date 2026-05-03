@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1777827341036,
+      "id": 1777827397970,
       "repository": "lirantal/create-node-lib",
       "issueTitle": "Bug: scaffolding a new project shows the following error about engines support",
       "url": "https://github.com/lirantal/create-node-lib/issues/42",
-      "createdAt": "2026-05-03T16:55:41.036Z",
+      "createdAt": "2026-05-03T16:56:37.970Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
