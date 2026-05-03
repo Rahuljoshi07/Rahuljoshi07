@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777798647874,
+      "repository": "Noobsai/transparent-window-moving",
+      "issueTitle": "[BUG] Certain applications become stuck in \"transparent\" mode when double-clicking them",
+      "url": "https://github.com/Noobsai/transparent-window-moving/issues/13",
+      "createdAt": "2026-05-03T08:57:27.874Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
