@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777780748285,
+      "repository": "open-reaction-database/ord-schema",
+      "issueTitle": "Broken link for reaction template in doc",
+      "url": "https://github.com/open-reaction-database/ord-schema/issues/797",
+      "createdAt": "2026-05-03T03:59:08.285Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
