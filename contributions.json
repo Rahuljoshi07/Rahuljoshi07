@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777828087864,
+      "repository": "koerismo/PBR-2-Source",
+      "issueTitle": "crashes when saving on linux",
+      "url": "https://github.com/koerismo/PBR-2-Source/issues/27",
+      "createdAt": "2026-05-03T17:08:07.864Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
