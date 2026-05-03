@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777791097504,
+      "repository": "noho/dayu-agent",
+      "issueTitle": "[Bug] 引擎 sse_parser 解析 Gemini 原生工具调用时因缺少 index 字段导致执行中断",
+      "url": "https://github.com/noho/dayu-agent/issues/137",
+      "createdAt": "2026-05-03T06:51:37.504Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
