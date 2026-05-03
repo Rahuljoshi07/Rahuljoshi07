@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1777844605130,
-      "repository": "foundryvtt/crucible",
-      "issueTitle": "Fixed a bug where chat messages for skill checks and attack rolls displayed full result details to non-recipients when sent in blind, GM, or self-whisper modes.",
-      "url": "https://github.com/foundryvtt/crucible/issues/942",
-      "createdAt": "2026-05-03T21:43:25.130Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
