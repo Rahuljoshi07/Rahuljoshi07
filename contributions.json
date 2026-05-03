@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777826408674,
+      "repository": "isayevlab/aimnetcentral",
+      "issueTitle": "Very bad performance for molecular crystals.",
+      "url": "https://github.com/isayevlab/aimnetcentral/issues/15",
+      "createdAt": "2026-05-03T16:40:08.674Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
