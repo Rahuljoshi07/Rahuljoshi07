@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777851438407,
+      "repository": "PiotrMachowski/Home-Assistant-custom-components-Custom-Templates",
+      "issueTitle": "Integration not loading on 2025.10.0: AttributeError: 'function' object has no attribute 'is_safe_callable'",
+      "url": "https://github.com/PiotrMachowski/Home-Assistant-custom-components-Custom-Templates/issues/34",
+      "createdAt": "2026-05-03T23:37:18.408Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
