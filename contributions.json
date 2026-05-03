@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1777793294933,
+      "id": 1777793362624,
       "repository": "yeyang52/yenai-plugin",
-      "issueTitle": "[建议] 关于notice_group.js的建议",
-      "url": "https://github.com/yeyang52/yenai-plugin/issues/165",
-      "createdAt": "2026-05-03T07:28:14.933Z",
+      "issueTitle": "[Bug] 群主/管理员邀请的新成员仍然需要验证",
+      "url": "https://github.com/yeyang52/yenai-plugin/issues/166",
+      "createdAt": "2026-05-03T07:29:22.624Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
