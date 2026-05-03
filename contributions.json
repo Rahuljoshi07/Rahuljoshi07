@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777851060914,
+      "repository": "derek-larson14/obsidian-claude-sidebar",
+      "issueTitle": "[BUG] Terminal freezes after opening",
+      "url": "https://github.com/derek-larson14/obsidian-claude-sidebar/issues/69",
+      "createdAt": "2026-05-03T23:31:00.914Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
