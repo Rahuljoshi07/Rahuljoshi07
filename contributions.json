@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777797526756,
+      "repository": "eddmpython/dartlab",
+      "issueTitle": "[Bug]: Claude Desktop attach 실패 — uvx dartlab mcp 방식 (status: running 표시되나 attach 불가)",
+      "url": "https://github.com/eddmpython/dartlab/issues/28",
+      "createdAt": "2026-05-03T08:38:46.756Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
