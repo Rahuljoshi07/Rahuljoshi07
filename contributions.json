@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777793952399,
+      "repository": "fastxl2024/mass-search-card",
+      "issueTitle": "validate-condition.ts:97 Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'includes')",
+      "url": "https://github.com/fastxl2024/mass-search-card/issues/5",
+      "createdAt": "2026-05-03T07:39:12.400Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
