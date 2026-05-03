@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777822190102,
+      "repository": "SN-Koarashi/ig-helper",
+      "issueTitle": "HTML Video Controller funtionality broken",
+      "url": "https://github.com/SN-Koarashi/ig-helper/issues/143",
+      "createdAt": "2026-05-03T15:29:50.102Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
