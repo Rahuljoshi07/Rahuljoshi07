@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777798072179,
+      "repository": "UB-Mannheim/zotero-ocr",
+      "issueTitle": "After click the OCR selected PDF button, software raise a [JavaScript Application]ERROR",
+      "url": "https://github.com/UB-Mannheim/zotero-ocr/issues/113",
+      "createdAt": "2026-05-03T08:47:52.179Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
