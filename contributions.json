@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777824317763,
+      "repository": "antoniandre/vue-cal",
+      "issueTitle": "[Bug] #cell-content` slot renders per schedule within cell but lacks identifying data",
+      "url": "https://github.com/antoniandre/vue-cal/issues/121",
+      "createdAt": "2026-05-03T16:05:17.763Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
