@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777865364415,
+      "repository": "ParasolJS/parasol-es",
+      "issueTitle": "hideAxes issue: Cannot read 'type' of undefined",
+      "url": "https://github.com/ParasolJS/parasol-es/issues/14",
+      "createdAt": "2026-05-04T03:29:24.416Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
