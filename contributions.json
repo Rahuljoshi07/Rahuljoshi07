@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777900303656,
+      "repository": "calkit/calkit",
+      "issueTitle": "Bug in `save --to git` where `--to` is ignored",
+      "url": "https://github.com/calkit/calkit/issues/669",
+      "createdAt": "2026-05-04T13:11:43.656Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
