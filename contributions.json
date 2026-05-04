@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777866490933,
+      "repository": "murtaza-nasir/whisperx-asr-service",
+      "issueTitle": "Error 137 while transcribing",
+      "url": "https://github.com/murtaza-nasir/whisperx-asr-service/issues/12",
+      "createdAt": "2026-05-04T03:48:10.933Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
