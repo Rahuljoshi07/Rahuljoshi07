@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777879690045,
+      "repository": "rpm-software-management/mock",
+      "issueTitle": "`config_opts['update_before_build'] = False` option is not respected anymore",
+      "url": "https://github.com/rpm-software-management/mock/issues/1420",
+      "createdAt": "2026-05-04T07:28:10.045Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
