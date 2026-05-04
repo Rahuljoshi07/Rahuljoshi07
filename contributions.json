@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777886255867,
+      "repository": "GeotrekCE/Geotrek-admin",
+      "issueTitle": "[GTAMv1] Synchro Référentiel de saisie des données",
+      "url": "https://github.com/GeotrekCE/Geotrek-admin/issues/5434",
+      "createdAt": "2026-05-04T09:17:35.867Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
