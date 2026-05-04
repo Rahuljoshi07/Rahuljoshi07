@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777883437983,
+      "repository": "tomcounsell/ai",
+      "issueTitle": "Duplicate Telegram replies: completion runner can't see what was already sent in-session",
+      "url": "https://github.com/tomcounsell/ai/issues/1262",
+      "createdAt": "2026-05-04T08:30:37.983Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
