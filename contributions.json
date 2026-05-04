@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777904818300,
+      "repository": "Deltares/hydromt",
+      "issueTitle": "Write mode overwrites existing model",
+      "url": "https://github.com/Deltares/hydromt/issues/1451",
+      "createdAt": "2026-05-04T14:26:58.300Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
