@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777897342417,
+      "repository": "ansys/pyaedt",
+      "issueTitle": "Apparent upstream issue with AEDT GetChildObject",
+      "url": "https://github.com/ansys/pyaedt/issues/7553",
+      "createdAt": "2026-05-04T12:22:22.417Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
