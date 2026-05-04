@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777866088621,
+      "repository": "Flow-Launcher/Flow.Launcher.PluginsManifest",
+      "issueTitle": "LatestReleaseDate and DateAdded should not be allowed in plugin file validation",
+      "url": "https://github.com/Flow-Launcher/Flow.Launcher.PluginsManifest/issues/649",
+      "createdAt": "2026-05-04T03:41:28.621Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
