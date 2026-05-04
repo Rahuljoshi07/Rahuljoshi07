@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777888390487,
+      "repository": "openzim/zimfarm",
+      "issueTitle": "StackExchange watcher uploaded new dumps but did not requested a single recipe",
+      "url": "https://github.com/openzim/zimfarm/issues/1892",
+      "createdAt": "2026-05-04T09:53:10.487Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
