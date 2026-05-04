@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777863140360,
+      "repository": "exa-labs/exa-py",
+      "issueTitle": "TypeError: ContentStatus.__init__() got an unexpected keyword argument 'error'",
+      "url": "https://github.com/exa-labs/exa-py/issues/104",
+      "createdAt": "2026-05-04T02:52:20.360Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
