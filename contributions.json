@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777871066751,
+      "repository": "bidyashish/vedicpanchanga.com",
+      "issueTitle": "Update Performance",
+      "url": "https://github.com/bidyashish/vedicpanchanga.com/issues/19",
+      "createdAt": "2026-05-04T05:04:26.751Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. This suggestion is particularly releva..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
