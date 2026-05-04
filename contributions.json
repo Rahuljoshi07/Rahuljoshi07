@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777908450200,
+      "repository": "nextcloud/user_migration",
+      "issueTitle": "Add option to tell migrator to delete existing data before import (use app for backup and restore)",
+      "url": "https://github.com/nextcloud/user_migration/issues/1096",
+      "createdAt": "2026-05-04T15:27:30.200Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
