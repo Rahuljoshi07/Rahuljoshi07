@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1777986723041,
-      "repository": "klein0r/ioBroker.lametric",
-      "issueTitle": "Please consider fixing issues detected by repository checker",
-      "url": "https://github.com/klein0r/ioBroker.lametric/issues/345",
-      "createdAt": "2026-05-05T13:12:03.041Z",
+      "id": 1777986812685,
+      "repository": "sbhooley/ainativelang",
+      "issueTitle": "Codebase audit: compact condition bug, strict/runtime drift, conformance gap, and CI hardening",
+      "url": "https://github.com/sbhooley/ainativelang/issues/40",
+      "createdAt": "2026-05-05T13:13:32.685Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
