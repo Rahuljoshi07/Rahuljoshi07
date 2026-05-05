@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777990246066,
+      "repository": "klein0r/ioBroker.comfoairq",
+      "issueTitle": "Please consider fixing issues detected by repository checker",
+      "url": "https://github.com/klein0r/ioBroker.comfoairq/issues/324",
+      "createdAt": "2026-05-05T14:10:46.066Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
