@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777965973451,
+      "repository": "deepmodeling/jax-fem",
+      "issueTitle": "ImportError: libpetsc.so.3.23: undefined symbol: MPI_Neighbor_alltoallv_init",
+      "url": "https://github.com/deepmodeling/jax-fem/issues/82",
+      "createdAt": "2026-05-05T07:26:13.451Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
