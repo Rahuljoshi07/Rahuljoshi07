@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777985327174,
+      "repository": "MihanEntalpo/cryptboard.io",
+      "issueTitle": "Refactor frontend.js code to split it into \"logic\" and \"ui\"",
+      "url": "https://github.com/MihanEntalpo/cryptboard.io/issues/73",
+      "createdAt": "2026-05-05T12:48:47.174Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
