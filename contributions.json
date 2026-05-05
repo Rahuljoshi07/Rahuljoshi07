@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1777965637244,
-      "repository": "mia-platform/lc39",
-      "issueTitle": "The prefix with or without trailing slash is applied erroneously to the simple API /",
-      "url": "https://github.com/mia-platform/lc39/issues/380",
-      "createdAt": "2026-05-05T07:20:37.244Z",
+      "id": 1777965723512,
+      "repository": "mbi/django-front",
+      "issueTitle": "Get rid of the jQuery dependency",
+      "url": "https://github.com/mbi/django-front/issues/18",
+      "createdAt": "2026-05-05T07:22:03.512Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
     }
   ],
   "stats": {
