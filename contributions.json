@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777975341283,
+      "repository": "buildingjoshbetter/TrueMemory",
+      "issueTitle": "fix: tier upgrade error message says 'pip install' — should detect uv and show correct command",
+      "url": "https://github.com/buildingjoshbetter/TrueMemory/issues/168",
+      "createdAt": "2026-05-05T10:02:21.283Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
