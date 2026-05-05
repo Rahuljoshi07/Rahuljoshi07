@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777957289529,
+      "repository": "elewin/pi-weather-station",
+      "issueTitle": "Network Error on Right hand Panel",
+      "url": "https://github.com/elewin/pi-weather-station/issues/67",
+      "createdAt": "2026-05-05T05:01:29.529Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
