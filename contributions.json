@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777963200688,
+      "repository": "dbmdz/mirador-textoverlay",
+      "issueTitle": "Performance issues during panning/zooming",
+      "url": "https://github.com/dbmdz/mirador-textoverlay/issues/313",
+      "createdAt": "2026-05-05T06:40:00.688Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
