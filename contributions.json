@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777983004414,
+      "repository": "gardenlinux/gardenlinux",
+      "issueTitle": "building `arm64` images on `amd64` machines and vise versa",
+      "url": "https://github.com/gardenlinux/gardenlinux/issues/4565",
+      "createdAt": "2026-05-05T12:10:04.414Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
