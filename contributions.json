@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1777963200688,
-      "repository": "dbmdz/mirador-textoverlay",
-      "issueTitle": "Performance issues during panning/zooming",
-      "url": "https://github.com/dbmdz/mirador-textoverlay/issues/313",
-      "createdAt": "2026-05-05T06:40:00.688Z",
+      "id": 1777963255384,
+      "repository": "helmholtz-analytics/heat",
+      "issueTitle": "[Bug]: IO tests failing due to newer zarr versions",
+      "url": "https://github.com/helmholtz-analytics/heat/issues/2272",
+      "createdAt": "2026-05-05T06:40:55.384Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
