@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777977621530,
+      "repository": "dimagi/open-chat-studio",
+      "issueTitle": "perf: drop redundant team__slug joins across views (~74 sites)",
+      "url": "https://github.com/dimagi/open-chat-studio/issues/3278",
+      "createdAt": "2026-05-05T10:40:21.530Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
