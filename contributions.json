@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777965503360,
+      "repository": "dumbm1/ai_scripts",
+      "issueTitle": "Question [not an issue] on a file",
+      "url": "https://github.com/dumbm1/ai_scripts/issues/2",
+      "createdAt": "2026-05-05T07:18:23.360Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
