@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777957007270,
+      "repository": "GrantBirki/json-yaml-validate",
+      "issueTitle": "Unable to use \"string\" in enum as a value",
+      "url": "https://github.com/GrantBirki/json-yaml-validate/issues/38",
+      "createdAt": "2026-05-05T04:56:47.270Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
