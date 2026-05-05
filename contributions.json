@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777976452606,
+      "repository": "box/box-ui-elements",
+      "issueTitle": "[Uploader] Unable to re-add an individual file that has been cancelled.",
+      "url": "https://github.com/box/box-ui-elements/issues/4395",
+      "createdAt": "2026-05-05T10:20:52.606Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
