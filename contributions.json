@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1777980699804,
-      "repository": "rulezet/rulezet-core",
-      "issueTitle": "Direct git interface to rulezet",
-      "url": "https://github.com/rulezet/rulezet-core/issues/45",
-      "createdAt": "2026-05-05T11:31:39.804Z",
+      "id": 1777980762176,
+      "repository": "mycoboco/canary",
+      "issueTitle": "unneeded try to invoke mdns-js",
+      "url": "https://github.com/mycoboco/canary/issues/39",
+      "createdAt": "2026-05-05T11:32:42.176Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
