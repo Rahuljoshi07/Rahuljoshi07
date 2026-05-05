@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777949432328,
+      "repository": "neoxr/neoxr-bot",
+      "issueTitle": "[BUG] Tolong Tambahkan Fitur Auto Restart Jika Terjadi Semantic validation failed",
+      "url": "https://github.com/neoxr/neoxr-bot/issues/193",
+      "createdAt": "2026-05-05T02:50:32.328Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
