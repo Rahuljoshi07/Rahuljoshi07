@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1777945846215,
+      "repository": "sonic-net/sonic-mgmt",
+      "issueTitle": "[Bug]: test_telemetry_queue_buffer_cnt needs multi-asic support",
+      "url": "https://github.com/sonic-net/sonic-mgmt/issues/15393",
+      "createdAt": "2026-05-05T01:50:46.215Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
