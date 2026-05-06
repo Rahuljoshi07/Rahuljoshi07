@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778053541157,
+      "repository": "pinecone-io/python-sdk",
+      "issueTitle": "[Bug] Unpin packaging in pinecone-plugin-assistan",
+      "url": "https://github.com/pinecone-io/python-sdk/issues/615",
+      "createdAt": "2026-05-06T07:45:41.157Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
