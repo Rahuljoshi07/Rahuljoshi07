@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1778035582791,
-      "repository": "djust-org/djust",
-      "issueTitle": "0.9.4rc1: ReferenceError: Cannot access 'G' before initialization in _ensureHooksInit",
-      "url": "https://github.com/djust-org/djust/issues/1370",
-      "createdAt": "2026-05-06T02:46:22.791Z",
-      "type": "comment",
-      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
