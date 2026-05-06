@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778033364238,
+      "repository": "braedonsaunders/homerun",
+      "issueTitle": "Audit alembic migration chain for from-empty replayability",
+      "url": "https://github.com/braedonsaunders/homerun/issues/305",
+      "createdAt": "2026-05-06T02:09:24.238Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for react ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
