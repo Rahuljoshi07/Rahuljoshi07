@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1778035504789,
-      "repository": "RobotWebTools/rclnodejs",
-      "issueTitle": "Roadmap: Prepare rclnodejs for ROS 2 Lyrical Luth",
-      "url": "https://github.com/RobotWebTools/rclnodejs/issues/1458",
-      "createdAt": "2026-05-06T02:45:04.789Z",
+      "id": 1778035582791,
+      "repository": "djust-org/djust",
+      "issueTitle": "0.9.4rc1: ReferenceError: Cannot access 'G' before initialization in _ensureHooksInit",
+      "url": "https://github.com/djust-org/djust/issues/1370",
+      "createdAt": "2026-05-06T02:46:22.791Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
     }
   ],
   "stats": {
