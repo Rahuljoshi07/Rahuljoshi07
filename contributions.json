@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778067367335,
+      "repository": "sgkit-dev/vcztools",
+      "issueTitle": "BedEncoder.__init__ calls _pre_walk() which is too slow",
+      "url": "https://github.com/sgkit-dev/vcztools/issues/333",
+      "createdAt": "2026-05-06T11:36:07.336Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
