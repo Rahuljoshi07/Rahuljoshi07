@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778074928085,
+      "repository": "ncbi/icn3d",
+      "issueTitle": "please do reactive python binding via anywidget",
+      "url": "https://github.com/ncbi/icn3d/issues/129",
+      "createdAt": "2026-05-06T13:42:08.085Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
