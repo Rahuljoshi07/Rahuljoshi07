@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778050916034,
+      "repository": "jupyter-server/jupyter_server",
+      "issueTitle": "2.15 release notes include things which were merged in 2.14",
+      "url": "https://github.com/jupyter-server/jupyter_server/issues/1490",
+      "createdAt": "2026-05-06T07:01:56.034Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
