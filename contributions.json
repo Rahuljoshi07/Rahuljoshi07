@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778053914562,
+      "repository": "regro/cf-scripts",
+      "issueTitle": "`_apply_env_dep_comparison` crashes with ValueError when dep in cf_minus_df doesn't match recipe text exactly",
+      "url": "https://github.com/regro/cf-scripts/issues/5996",
+      "createdAt": "2026-05-06T07:51:54.562Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
