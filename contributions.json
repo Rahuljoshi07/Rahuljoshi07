@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778067572768,
+      "repository": "babalae/bettergi-scripts-list",
+      "issueTitle": "[Bug] 锄地一条龙 脚本 pathing 未定义 + A017 路线卡死脱困超时",
+      "url": "https://github.com/babalae/bettergi-scripts-list/issues/3186",
+      "createdAt": "2026-05-06T11:39:32.768Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
