@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778076325274,
+      "repository": "KaykCaputo/oracletrace",
+      "issueTitle": "[Bug]: _is_user_code path-prefix heuristic produces false positives",
+      "url": "https://github.com/KaykCaputo/oracletrace/issues/44",
+      "createdAt": "2026-05-06T14:05:25.274Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
