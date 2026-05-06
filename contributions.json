@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778054274599,
+      "repository": "JiayuXu0/FastAPI-Template",
+      "issueTitle": "[BUG] await cache_manager.connect() 初始化redis这句是不是没有执行到？导致redis被禁用？",
+      "url": "https://github.com/JiayuXu0/FastAPI-Template/issues/17",
+      "createdAt": "2026-05-06T07:57:54.599Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
