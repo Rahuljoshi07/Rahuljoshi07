@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778059131883,
+      "repository": "johnzfitch/claude-cowork-linux",
+      "issueTitle": "Unsupported platform: linux-x64 thrown from getHostPlatform() during session init; cascading binary/version mismatches downstream",
+      "url": "https://github.com/johnzfitch/claude-cowork-linux/issues/97",
+      "createdAt": "2026-05-06T09:18:51.884Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
