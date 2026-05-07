@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778119962828,
+      "repository": "QuEraComputing/kirin",
+      "issueTitle": "peephole optimization",
+      "url": "https://github.com/QuEraComputing/kirin/issues/140",
+      "createdAt": "2026-05-07T02:12:42.828Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
