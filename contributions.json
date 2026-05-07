@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778175087349,
+      "repository": "tradermonty/finviz-mcp-server",
+      "issueTitle": "[Bug] eps_revision is never populated from earnings_trading screener (CSV view v=151 lacks the column)",
+      "url": "https://github.com/tradermonty/finviz-mcp-server/issues/19",
+      "createdAt": "2026-05-07T17:31:27.349Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
