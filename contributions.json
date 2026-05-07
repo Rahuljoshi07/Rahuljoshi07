@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778139305120,
+      "repository": "mozilla/remote-settings",
+      "issueTitle": "Self-created collections on DEV are lacking write permission",
+      "url": "https://github.com/mozilla/remote-settings/issues/1271",
+      "createdAt": "2026-05-07T07:35:05.120Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
