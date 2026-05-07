@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778180835452,
+      "repository": "oyvhov/Tunet",
+      "issueTitle": "[Bug] Not sure if this is a bug or not but CPU usage",
+      "url": "https://github.com/oyvhov/Tunet/issues/153",
+      "createdAt": "2026-05-07T19:07:15.452Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
