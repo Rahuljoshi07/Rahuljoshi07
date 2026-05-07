@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778179528991,
+      "repository": "jjang-ai/vmlx",
+      "issueTitle": "ZAYA1-8B unsupported in vMLX/MLX Studio: conversion shape error + runtime missing zaya model class",
+      "url": "https://github.com/jjang-ai/vmlx/issues/151",
+      "createdAt": "2026-05-07T18:45:28.991Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
