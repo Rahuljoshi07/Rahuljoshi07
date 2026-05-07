@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778143060510,
+      "repository": "aboutcode-org/python-inspector",
+      "issueTitle": "InconsistentCandidate: Pre-Release not allow",
+      "url": "https://github.com/aboutcode-org/python-inspector/issues/257",
+      "createdAt": "2026-05-07T08:37:40.510Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
