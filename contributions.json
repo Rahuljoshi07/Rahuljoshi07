@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1778180067160,
-      "repository": "celenityy/Phoenix",
-      "issueTitle": "[BUG] Reverting denial of canvas permissions",
-      "url": "https://github.com/celenityy/Phoenix/issues/18",
-      "createdAt": "2026-05-07T18:54:27.160Z",
+      "id": 1778180120248,
+      "repository": "kagenti/kagenti",
+      "issueTitle": ":bug: setup-kagenti.sh --dry-run should escape braces",
+      "url": "https://github.com/kagenti/kagenti/issues/1508",
+      "createdAt": "2026-05-07T18:55:20.248Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
