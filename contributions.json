@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778159888121,
+      "repository": "Eilen6316/LinuxAgent",
+      "issueTitle": "bug: 生成远程执行的命令时出现找不到集群主机和数据捕获不成功",
+      "url": "https://github.com/Eilen6316/LinuxAgent/issues/8",
+      "createdAt": "2026-05-07T13:18:08.121Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
