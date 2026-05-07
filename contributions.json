@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778172376342,
+      "repository": "openwisp/django-swappable-models",
+      "issueTitle": "[ci] add changelog bot",
+      "url": "https://github.com/openwisp/django-swappable-models/issues/65",
+      "createdAt": "2026-05-07T16:46:16.343Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
