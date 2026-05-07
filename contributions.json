@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778148761848,
+      "repository": "epam/ai-dial-adapter-vertexai",
+      "issueTitle": "Error code 500 on request to Veo models when 'enhance_prompt' is set to False",
+      "url": "https://github.com/epam/ai-dial-adapter-vertexai/issues/450",
+      "createdAt": "2026-05-07T10:12:41.848Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
