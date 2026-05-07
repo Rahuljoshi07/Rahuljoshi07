@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778121041673,
+      "repository": "Kpa-clawbot/CoreScope",
+      "issueTitle": "bug(packets): layout chaos — path chips spill rows, +N popover overlaps, filter chips collide with toolbar, Saved dropdown bleeds through",
+      "url": "https://github.com/Kpa-clawbot/CoreScope/issues/1128",
+      "createdAt": "2026-05-07T02:30:41.674Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
