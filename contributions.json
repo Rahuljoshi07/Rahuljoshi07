@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778149256059,
+      "repository": "DIAGNijmegen/rse-grand-challenge",
+      "issueTitle": "Automatic redirect when on permission request page",
+      "url": "https://github.com/DIAGNijmegen/rse-grand-challenge/issues/4695",
+      "createdAt": "2026-05-07T10:20:56.059Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
