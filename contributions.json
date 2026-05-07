@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778193460378,
+      "repository": "nextstrain/auspice",
+      "issueTitle": "Outputting SVG with some labels hidden, that can be honoured in Inkscape",
+      "url": "https://github.com/nextstrain/auspice/issues/2038",
+      "createdAt": "2026-05-07T22:37:40.378Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
