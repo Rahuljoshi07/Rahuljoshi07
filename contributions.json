@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778161662109,
+      "repository": "langchain-ai/langchain-litellm",
+      "issueTitle": "Bug: When an api_key is provided but not passed and is overridden by environment variables",
+      "url": "https://github.com/langchain-ai/langchain-litellm/issues/135",
+      "createdAt": "2026-05-07T13:47:42.109Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
