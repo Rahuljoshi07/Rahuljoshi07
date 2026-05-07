@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778146792257,
+      "repository": "linagora/twake-drive",
+      "issueTitle": "Shared Folder | Error when I click on the recipients list",
+      "url": "https://github.com/linagora/twake-drive/issues/3832",
+      "createdAt": "2026-05-07T09:39:52.258Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
