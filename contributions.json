@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778155429627,
+      "repository": "ether/ep_comments_page",
+      "issueTitle": "multiple comments in one line",
+      "url": "https://github.com/ether/ep_comments_page/issues/181",
+      "createdAt": "2026-05-07T12:03:49.627Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
