@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778144011542,
+      "repository": "sailpoint-oss/python-sdk",
+      "issueTitle": "[Bug] TaskStatus Validation Error - modified",
+      "url": "https://github.com/sailpoint-oss/python-sdk/issues/132",
+      "createdAt": "2026-05-07T08:53:31.542Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
