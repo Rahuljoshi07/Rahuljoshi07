@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778126007330,
+      "repository": "Kpa-clawbot/CoreScope",
+      "issueTitle": "bug(live): region filter wipes all packets and lines from view (regression on master since #1080)",
+      "url": "https://github.com/Kpa-clawbot/CoreScope/issues/1136",
+      "createdAt": "2026-05-07T03:53:27.330Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
