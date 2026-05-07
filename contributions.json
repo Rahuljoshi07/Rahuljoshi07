@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778173766893,
+      "repository": "biopragmatics/pyobo",
+      "issueTitle": "Error when running obo-lexical-review: ModuleNotFoundError: No module named 'gilda'",
+      "url": "https://github.com/biopragmatics/pyobo/issues/487",
+      "createdAt": "2026-05-07T17:09:26.893Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
