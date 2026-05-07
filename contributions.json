@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778173130739,
+      "repository": "open-contracting/kingfisher-collect",
+      "issueTitle": "tanzania_bulk_releases: 60% of files return error 500",
+      "url": "https://github.com/open-contracting/kingfisher-collect/issues/1260",
+      "createdAt": "2026-05-07T16:58:50.739Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
