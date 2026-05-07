@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778189954179,
+      "repository": "crnormand/gurps",
+      "issueTitle": "Dice Rolling is Always Public as GM",
+      "url": "https://github.com/crnormand/gurps/issues/2654",
+      "createdAt": "2026-05-07T21:39:14.179Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
