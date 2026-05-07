@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778178837891,
+      "repository": "jupyterhealth/jupyterhealth-exchange",
+      "issueTitle": "Add AuxResource model for FHIR resource storage",
+      "url": "https://github.com/jupyterhealth/jupyterhealth-exchange/issues/374",
+      "createdAt": "2026-05-07T18:33:57.891Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
