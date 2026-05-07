@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1778158125750,
+      "id": 1778158207236,
       "repository": "nezanuha/markdown-text-editor",
-      "issueTitle": "Bug: When I make text bold then italic, it ends up only italic instead of bold+italic.",
-      "url": "https://github.com/nezanuha/markdown-text-editor/issues/22",
-      "createdAt": "2026-05-07T12:48:45.750Z",
+      "issueTitle": "Bug: When creating a new list (unordered, ordered, check) the markers shouldn't be selected",
+      "url": "https://github.com/nezanuha/markdown-text-editor/issues/24",
+      "createdAt": "2026-05-07T12:50:07.236Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
