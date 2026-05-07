@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778155150484,
+      "repository": "smilebasti/npmGrafStats",
+      "issueTitle": "Influxv3 - don't use docker tag influxdb:latest",
+      "url": "https://github.com/smilebasti/npmGrafStats/issues/57",
+      "createdAt": "2026-05-07T11:59:10.484Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
