@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778190467554,
+      "repository": "scheilch/opencloudtouch",
+      "issueTitle": "[Bug]: SSH reported as connected, but no operations work on SoundTouch 10",
+      "url": "https://github.com/scheilch/opencloudtouch/issues/148",
+      "createdAt": "2026-05-07T21:47:47.554Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
