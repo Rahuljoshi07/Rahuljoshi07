@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778142716271,
+      "repository": "asyncapi/nodejs-template",
+      "issueTitle": "[BUG] Incoming messages' payload are not parsed into objects",
+      "url": "https://github.com/asyncapi/nodejs-template/issues/322",
+      "createdAt": "2026-05-07T08:31:56.271Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
