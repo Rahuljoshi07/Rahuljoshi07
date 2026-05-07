@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778139795294,
+      "repository": "DemocracyClub/yournextrepresentative",
+      "issueTitle": "[Bug] When an image is queued for moderation, the relevant entrant in `/accounts/me`'s “Recent edits” section states “Couldn't find version for person”.",
+      "url": "https://github.com/DemocracyClub/yournextrepresentative/issues/2734",
+      "createdAt": "2026-05-07T07:43:15.295Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
