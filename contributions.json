@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778207207867,
+      "repository": "nextcloud/integration_excalidraw",
+      "issueTitle": "3.1.0 Error: Could not find resource integration_excalidraw/js/integration_excalidraw-standalone.js to load",
+      "url": "https://github.com/nextcloud/integration_excalidraw/issues/54",
+      "createdAt": "2026-05-08T02:26:47.867Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
