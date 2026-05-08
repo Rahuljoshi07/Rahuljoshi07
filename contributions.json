@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778202003147,
+      "repository": "mistval/unofficial-jisho-api",
+      "issueTitle": "Errors in parsing furigana",
+      "url": "https://github.com/mistval/unofficial-jisho-api/issues/3",
+      "createdAt": "2026-05-08T01:00:03.148Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
