@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778296433503,
+      "repository": "stajichlab/AAFTF",
+      "issueTitle": "No such file or directory: 'aaftf-polish_7d3918f9/polished1.changes'",
+      "url": "https://github.com/stajichlab/AAFTF/issues/36",
+      "createdAt": "2026-05-09T03:13:53.503Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
