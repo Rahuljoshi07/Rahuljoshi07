@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778305202100,
+      "repository": "carbon-design-system/carbon-react-router-starter",
+      "issueTitle": "Avoid confusing error when trying to run in production",
+      "url": "https://github.com/carbon-design-system/carbon-react-router-starter/issues/309",
+      "createdAt": "2026-05-09T05:40:02.101Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
