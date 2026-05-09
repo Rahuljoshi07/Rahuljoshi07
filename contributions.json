@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778319588816,
+      "repository": "numerique-gouv/django-dsfr",
+      "issueTitle": "Ajouter un setting pour contrôler l'échappement dans les composants avant déprécation",
+      "url": "https://github.com/numerique-gouv/django-dsfr/issues/299",
+      "createdAt": "2026-05-09T09:39:48.816Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
