@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778301109613,
+      "repository": "vllm-project/recipes",
+      "issueTitle": "Gemma4: max_num_batched_tokens error for 26B MoE on 1× A100/H100 (BF16) command",
+      "url": "https://github.com/vllm-project/recipes/issues/441",
+      "createdAt": "2026-05-09T04:31:49.613Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
