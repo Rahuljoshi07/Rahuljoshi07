@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778330183898,
+      "repository": "okorach/sonar-tools",
+      "issueTitle": "sonar-findings-sync add an option to only sync issues, or hotspots, or dependency risks",
+      "url": "https://github.com/okorach/sonar-tools/issues/2373",
+      "createdAt": "2026-05-09T12:36:23.898Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
