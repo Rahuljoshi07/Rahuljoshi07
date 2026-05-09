@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778292213034,
+      "repository": "activeloopai/hivemind",
+      "issueTitle": "Rename: `skilify` → `skillify` (fix typo)",
+      "url": "https://github.com/activeloopai/hivemind/issues/114",
+      "createdAt": "2026-05-09T02:03:33.035Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
