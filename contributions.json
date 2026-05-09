@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778322796221,
+      "repository": "PierreGode/Ragnar",
+      "issueTitle": "[Bug] RagnarConnect network connection fails + Auto pentest mode persistence issue",
+      "url": "https://github.com/PierreGode/Ragnar/issues/274",
+      "createdAt": "2026-05-09T10:33:16.221Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
