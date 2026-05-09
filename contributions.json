@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1778322983983,
+      "id": 1778323049050,
       "repository": "bigbluebutton/bbb-playback",
       "issueTitle": "Bug: `shape.parentId` is readyonly value",
       "url": "https://github.com/bigbluebutton/bbb-playback/issues/315",
-      "createdAt": "2026-05-09T10:36:23.984Z",
+      "createdAt": "2026-05-09T10:37:29.050Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
