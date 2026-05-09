@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778307861304,
+      "repository": "openyida/openyida",
+      "issueTitle": "[Bug] Qoder 使用openyida，登录遇到问题",
+      "url": "https://github.com/openyida/openyida/issues/355",
+      "createdAt": "2026-05-09T06:24:21.304Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
