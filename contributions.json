@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778302424157,
+      "repository": "SakuraByteCore/codexmate",
+      "issueTitle": "fix(mcp): write permission silent failure, UI has no awareness",
+      "url": "https://github.com/SakuraByteCore/codexmate/issues/147",
+      "createdAt": "2026-05-09T04:53:44.157Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
