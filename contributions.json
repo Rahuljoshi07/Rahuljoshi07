@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778296849653,
+      "repository": "luolingchun/flask-openapi",
+      "issueTitle": "utils.py: backward condition silently drops single-line docstring descriptions; HEAD/OPTIONS methods silently ignored",
+      "url": "https://github.com/luolingchun/flask-openapi/issues/262",
+      "createdAt": "2026-05-09T03:20:49.654Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
