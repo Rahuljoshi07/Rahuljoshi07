@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778333862904,
+      "repository": "Elaniobro/MMM-nyc-transit",
+      "issueTitle": "Mta API issue",
+      "url": "https://github.com/Elaniobro/MMM-nyc-transit/issues/109",
+      "createdAt": "2026-05-09T13:37:42.904Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
