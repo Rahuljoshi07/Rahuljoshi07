@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778320608233,
+      "repository": "haseeb-heaven/gworkspace-agent",
+      "issueTitle": "[Bug] `_safe_getattr` defined but never registered in sandbox_globals — getattr guard is silently skipped",
+      "url": "https://github.com/haseeb-heaven/gworkspace-agent/issues/107",
+      "createdAt": "2026-05-09T09:56:48.233Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
