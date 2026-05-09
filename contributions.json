@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778298501747,
+      "repository": "djust-org/djust",
+      "issueTitle": "Pre-render theme_panel/theme_mode_toggle/theme_preset_selector as context strings",
+      "url": "https://github.com/djust-org/djust/issues/1435",
+      "createdAt": "2026-05-09T03:48:21.747Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
