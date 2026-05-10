@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778393684988,
+      "repository": "codekie/openapi-examples-validator",
+      "issueTitle": "Allow for extensions",
+      "url": "https://github.com/codekie/openapi-examples-validator/issues/188",
+      "createdAt": "2026-05-10T06:14:44.988Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
