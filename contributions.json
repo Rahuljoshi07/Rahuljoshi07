@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778400981321,
+      "repository": "ether/ep_table_of_contents",
+      "issueTitle": "Prevents colibris full-width-editor variant",
+      "url": "https://github.com/ether/ep_table_of_contents/issues/65",
+      "createdAt": "2026-05-10T08:16:21.321Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
