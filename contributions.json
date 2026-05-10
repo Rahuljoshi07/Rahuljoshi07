@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778415139778,
+      "repository": "turboderp-org/exllamav3",
+      "issueTitle": "Optimize Ampere Implementation (Exllamav3 slower than Koboldcpp)",
+      "url": "https://github.com/turboderp-org/exllamav3/issues/144",
+      "createdAt": "2026-05-10T12:12:19.778Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
