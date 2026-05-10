@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778417136086,
+      "repository": "nicklambourne/slackblocks",
+      "issueTitle": "NumberInput drops min_value=0 / max_value=0 and has typo'd error message",
+      "url": "https://github.com/nicklambourne/slackblocks/issues/146",
+      "createdAt": "2026-05-10T12:45:36.086Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
