@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778402102858,
+      "repository": "nezanuha/markdown-text-editor",
+      "issueTitle": "Bug: When I make text bold then italic, it ends up only italic instead of bold+italic.",
+      "url": "https://github.com/nezanuha/markdown-text-editor/issues/22",
+      "createdAt": "2026-05-10T08:35:02.858Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
