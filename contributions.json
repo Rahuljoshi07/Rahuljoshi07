@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778453259088,
+      "repository": "JeanExtreme002/FlightRadarAPI",
+      "issueTitle": "Fix/Workaround for 403 Forbidden Error (Cloudflare Bypass)",
+      "url": "https://github.com/JeanExtreme002/FlightRadarAPI/issues/98",
+      "createdAt": "2026-05-10T22:47:39.088Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
