@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778441296506,
+      "repository": "JeanChristopheMorinPerso/rez-pip",
+      "issueTitle": "Package names inconsistent between requirements and installed packages",
+      "url": "https://github.com/JeanChristopheMorinPerso/rez-pip/issues/55",
+      "createdAt": "2026-05-10T19:28:16.506Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
