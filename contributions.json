@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778437541687,
+      "repository": "Carrotstudio0/Carrots-Game-Engine",
+      "issueTitle": "Save system issue",
+      "url": "https://github.com/Carrotstudio0/Carrots-Game-Engine/issues/5",
+      "createdAt": "2026-05-10T18:25:41.687Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
