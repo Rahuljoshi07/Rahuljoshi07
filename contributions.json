@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1778436855511,
+      "id": 1778436928929,
       "repository": "JeanExtreme002/FlightRadarAPI",
-      "issueTitle": "Fix/Workaround for 403 Forbidden Error (Cloudflare Bypass)",
-      "url": "https://github.com/JeanExtreme002/FlightRadarAPI/issues/98",
-      "createdAt": "2026-05-10T18:14:15.511Z",
+      "issueTitle": "403 Forbidden error caused by Cloudflare bot protection",
+      "url": "https://github.com/JeanExtreme002/FlightRadarAPI/issues/96",
+      "createdAt": "2026-05-10T18:15:28.929Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
