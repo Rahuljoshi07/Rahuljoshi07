@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778378551004,
+      "repository": "schmitech/orbit",
+      "issueTitle": "reload adapter: associated skills not loading",
+      "url": "https://github.com/schmitech/orbit/issues/167",
+      "createdAt": "2026-05-10T02:02:31.005Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
