@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1778437345074,
+      "id": 1778437416305,
       "repository": "JeanExtreme002/FlightRadarAPI",
       "issueTitle": "Fix/Workaround for 403 Forbidden Error (Cloudflare Bypass)",
       "url": "https://github.com/JeanExtreme002/FlightRadarAPI/issues/98",
-      "createdAt": "2026-05-10T18:22:25.075Z",
+      "createdAt": "2026-05-10T18:23:36.305Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
