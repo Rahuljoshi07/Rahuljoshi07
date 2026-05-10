@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778413673911,
+      "repository": "colophon-group/jobseek",
+      "issueTitle": "bug: LocationSearchModal accumulator persists across close+reopen mid-scroll",
+      "url": "https://github.com/colophon-group/jobseek/issues/3000",
+      "createdAt": "2026-05-10T11:47:53.911Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
