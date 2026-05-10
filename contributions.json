@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778378426134,
+      "repository": "iambumblehead/esmock",
+      "issueTitle": "Using `import:` to mock globals messes up coverage (with c8)",
+      "url": "https://github.com/iambumblehead/esmock/issues/296",
+      "createdAt": "2026-05-10T02:00:26.134Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. (Suggested by..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
