@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778398009828,
+      "repository": "ffunes/Marstek-Venus-Energy-Manager",
+      "issueTitle": "[BUG] SOC always goes to 100% disobeying limits",
+      "url": "https://github.com/ffunes/Marstek-Venus-Energy-Manager/issues/185",
+      "createdAt": "2026-05-10T07:26:49.828Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
