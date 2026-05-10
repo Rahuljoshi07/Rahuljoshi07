@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778396763968,
+      "repository": "lonr-6/cc-desktop-switch",
+      "issueTitle": "[Question]: This is an error in connecting after the latest update or something else",
+      "url": "https://github.com/lonr-6/cc-desktop-switch/issues/18",
+      "createdAt": "2026-05-10T07:06:03.968Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
