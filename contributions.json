@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778423791543,
+      "repository": "jsiek/deduce",
+      "issueTitle": "Error reported against outer goal instead of inner `have` goal in nested `cases`",
+      "url": "https://github.com/jsiek/deduce/issues/419",
+      "createdAt": "2026-05-10T14:36:31.543Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
