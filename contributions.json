@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778384869651,
+      "repository": "Flow-Launcher/Flow.Launcher.PluginsManifest",
+      "issueTitle": "Add validation for UrlSourceCode to ensure consistent format",
+      "url": "https://github.com/Flow-Launcher/Flow.Launcher.PluginsManifest/issues/653",
+      "createdAt": "2026-05-10T03:47:49.651Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
