@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778383153271,
+      "repository": "StevenAleong/FirefoxRandomBookmark",
+      "issueTitle": "Unnoticeable icons on dark mode (Firefox Nightly)",
+      "url": "https://github.com/StevenAleong/FirefoxRandomBookmark/issues/3",
+      "createdAt": "2026-05-10T03:19:13.272Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
