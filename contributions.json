@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778455033377,
+      "repository": "michalowskil/flex-cells-card",
+      "issueTitle": "Upgrade to Core 2026.5.0 broken text edits",
+      "url": "https://github.com/michalowskil/flex-cells-card/issues/44",
+      "createdAt": "2026-05-10T23:17:13.377Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
