@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778451663285,
+      "repository": "Kruithne/wow.export",
+      "issueTitle": "Character weapon sheathing",
+      "url": "https://github.com/Kruithne/wow.export/issues/523",
+      "createdAt": "2026-05-10T22:21:03.285Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
