@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778401887444,
+      "repository": "codeking-ai/cligate",
+      "issueTitle": "[Bug] 你不觉得超级难用吗！Don't you think it's incredibly difficult to use?",
+      "url": "https://github.com/codeking-ai/cligate/issues/3",
+      "createdAt": "2026-05-10T08:31:27.444Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
