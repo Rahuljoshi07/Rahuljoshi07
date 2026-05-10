@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778415761039,
+      "repository": "alexlenk/ecowitt_local",
+      "issueTitle": "Bug: 0x04 Wind Chill from common_list silently dropped (in spec example)",
+      "url": "https://github.com/alexlenk/ecowitt_local/issues/170",
+      "createdAt": "2026-05-10T12:22:41.040Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
