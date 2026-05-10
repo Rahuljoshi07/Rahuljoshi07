@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778429602248,
+      "repository": "algoscope-hq/AlgoScope",
+      "issueTitle": "fix: update broken links in the Footer component",
+      "url": "https://github.com/algoscope-hq/AlgoScope/issues/31",
+      "createdAt": "2026-05-10T16:13:22.248Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
