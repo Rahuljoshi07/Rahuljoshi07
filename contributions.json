@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778472732253,
+      "repository": "wills106/homeassistant-solax-modbus",
+      "issueTitle": "[Bug]: 'Sofar' - 'HYD10KTL-3P 2nd' device group check not success",
+      "url": "https://github.com/wills106/homeassistant-solax-modbus/issues/1864",
+      "createdAt": "2026-05-11T04:12:12.253Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
