@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778463937950,
+      "repository": "browniebroke/django-codemod",
+      "issueTitle": "Simplify import checking with LibCST's FullyQualifiedNameProvider",
+      "url": "https://github.com/browniebroke/django-codemod/issues/362",
+      "createdAt": "2026-05-11T01:45:37.950Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
