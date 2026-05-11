@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778490413327,
+      "repository": "pierreb-devkit/Node",
+      "issueTitle": "feat(observability): forward Winston `error`-level logs to PostHog Error Tracking via custom transport",
+      "url": "https://github.com/pierreb-devkit/Node/issues/3651",
+      "createdAt": "2026-05-11T09:06:53.327Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
