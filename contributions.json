@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1778488618043,
-      "repository": "GeotrekCE/Geotrek-admin",
-      "issueTitle": "Bug duplication interventions",
-      "url": "https://github.com/GeotrekCE/Geotrek-admin/issues/3845",
-      "createdAt": "2026-05-11T08:36:58.043Z",
+      "id": 1778488666073,
+      "repository": "hdmf-dev/hdmf",
+      "issueTitle": "Validating empty array against spec should show better error",
+      "url": "https://github.com/hdmf-dev/hdmf/issues/317",
+      "createdAt": "2026-05-11T08:37:46.073Z",
       "type": "comment",
-      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
