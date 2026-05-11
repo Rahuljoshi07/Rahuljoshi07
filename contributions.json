@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778505948966,
+      "repository": "emersonfelipesp/netbox-proxbox",
+      "issueTitle": "Netbox/Proxbox does not respect Tenant/Site definition",
+      "url": "https://github.com/emersonfelipesp/netbox-proxbox/issues/390",
+      "createdAt": "2026-05-11T13:25:48.966Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
