@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778458548734,
+      "repository": "n0rt0nthec4t/homebridge-nest-accfactory",
+      "issueTitle": "[Bug]: Nest Protect is offline after upgrading to 0.4.0",
+      "url": "https://github.com/n0rt0nthec4t/homebridge-nest-accfactory/issues/329",
+      "createdAt": "2026-05-11T00:15:48.734Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
