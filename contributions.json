@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778502051306,
+      "repository": "manojmallick/sigmap",
+      "issueTitle": "bug: Status bar health grade isnt visible",
+      "url": "https://github.com/manojmallick/sigmap/issues/173",
+      "createdAt": "2026-05-11T12:20:51.306Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
