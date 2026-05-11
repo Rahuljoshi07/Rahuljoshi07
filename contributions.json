@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778482444755,
+      "repository": "fancyui/Gobel-Battery-HA-Addon",
+      "issueTitle": "pacebms_rs232 - ERROR - Invalid command or response code: 46 42",
+      "url": "https://github.com/fancyui/Gobel-Battery-HA-Addon/issues/23",
+      "createdAt": "2026-05-11T06:54:04.755Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
