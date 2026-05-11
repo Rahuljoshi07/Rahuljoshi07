@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778506259226,
+      "repository": "javiarmesto/ALDC-AL-Development-Collection",
+      "issueTitle": "[BUG] Install Path is not taken into account when checking installation",
+      "url": "https://github.com/javiarmesto/ALDC-AL-Development-Collection/issues/31",
+      "createdAt": "2026-05-11T13:30:59.226Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
