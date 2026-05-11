@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1778498499246,
-      "repository": "manojmallick/sigmap",
-      "issueTitle": "bug: Status bar health grade isnt visible",
-      "url": "https://github.com/manojmallick/sigmap/issues/173",
-      "createdAt": "2026-05-11T11:21:39.246Z",
+      "id": 1778498555816,
+      "repository": "aallan/vera",
+      "issueTitle": "Cross-module imports don't propagate _fn_ret_type_exprs (#614 / #602 cross-module gap)",
+      "url": "https://github.com/aallan/vera/issues/628",
+      "createdAt": "2026-05-11T11:22:35.816Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
