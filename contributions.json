@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778471510701,
+      "repository": "formatho/awesome-ai-tools",
+      "issueTitle": "⚠️ Auto-update workflow failed",
+      "url": "https://github.com/formatho/awesome-ai-tools/issues/10",
+      "createdAt": "2026-05-11T03:51:50.701Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
