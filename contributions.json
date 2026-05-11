@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778483700914,
+      "repository": "spack/spack-packages",
+      "issueTitle": "Installation issue: capnproto",
+      "url": "https://github.com/spack/spack-packages/issues/4783",
+      "createdAt": "2026-05-11T07:15:00.914Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
