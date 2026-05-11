@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778474078561,
+      "repository": "deftai/directive",
+      "issueTitle": "scripts/issue_ingest.py + cache chain corrupts vBRIEF Overview when issue body contains literal JSON-escape substrings (\\v -> U+000B, \\t -> U+0009)",
+      "url": "https://github.com/deftai/directive/issues/1036",
+      "createdAt": "2026-05-11T04:34:38.561Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
