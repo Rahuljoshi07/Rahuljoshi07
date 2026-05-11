@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778494664915,
+      "repository": "aallan/vera",
+      "issueTitle": "Cross-module imports don't propagate _fn_ret_type_exprs (#614 / #602 cross-module gap)",
+      "url": "https://github.com/aallan/vera/issues/628",
+      "createdAt": "2026-05-11T10:17:44.915Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
