@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778503238176,
+      "repository": "tempus2016/taskmate",
+      "issueTitle": "[Bug]: Config flow error when enabling 'Skip confirmation' for assignee skipping",
+      "url": "https://github.com/tempus2016/taskmate/issues/350",
+      "createdAt": "2026-05-11T12:40:38.176Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
