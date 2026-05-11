@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778499609128,
+      "repository": "bjodah/pyodesys",
+      "issueTitle": "minor issue - Depends on pycodeexport (but not listed anywhere) ",
+      "url": "https://github.com/bjodah/pyodesys/issues/115",
+      "createdAt": "2026-05-11T11:40:09.128Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
