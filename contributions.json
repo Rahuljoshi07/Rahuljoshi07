@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778485318951,
+      "repository": "mvfc/backvault",
+      "issueTitle": "failed to register layer: failed to mknod('/usr/lib/libhwasan.so.0', S_IFCHR, 0): file exists",
+      "url": "https://github.com/mvfc/backvault/issues/52",
+      "createdAt": "2026-05-11T07:41:58.951Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
