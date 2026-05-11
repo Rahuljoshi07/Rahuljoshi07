@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778480408492,
+      "repository": "ClusterLabs/fence-agents",
+      "issueTitle": "BUG: ssh_options are ignored, at least in fence_ilo4_ssh",
+      "url": "https://github.com/ClusterLabs/fence-agents/issues/633",
+      "createdAt": "2026-05-11T06:20:08.492Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
