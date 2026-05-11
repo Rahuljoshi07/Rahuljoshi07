@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778494064694,
+      "repository": "fabiocaccamo/django-maintenance-mode",
+      "issueTitle": "How to work with JWT authentication?",
+      "url": "https://github.com/fabiocaccamo/django-maintenance-mode/issues/233",
+      "createdAt": "2026-05-11T10:07:44.694Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. This suggestion is partic..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
