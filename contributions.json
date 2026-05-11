@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778495343186,
+      "repository": "auth0/auth0-deploy-cli",
+      "issueTitle": "Social Connections not deleting on import with AUTH0_ALLOW_DELETE=true",
+      "url": "https://github.com/auth0/auth0-deploy-cli/issues/1376",
+      "createdAt": "2026-05-11T10:29:03.186Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
