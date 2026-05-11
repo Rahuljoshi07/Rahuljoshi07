@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778482338005,
+      "repository": "pharmpy/pharmpy",
+      "issueTitle": "BUG found in IIVSearch for PKPD models",
+      "url": "https://github.com/pharmpy/pharmpy/issues/4296",
+      "createdAt": "2026-05-11T06:52:18.006Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
