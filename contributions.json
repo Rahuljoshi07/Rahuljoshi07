@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778484168945,
+      "repository": "openyida/openyida",
+      "issueTitle": "bug: 宜搭原生报表多指标(多yField/多KPI)渲染触发页面死循环",
+      "url": "https://github.com/openyida/openyida/issues/354",
+      "createdAt": "2026-05-11T07:22:48.945Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
