@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778501419704,
+      "repository": "Eshajha19/agri",
+      "issueTitle": "[Bug]: /api/whatsapp/trigger-alert - Anyone Can Broadcast to All Subscribers - No Authentication too",
+      "url": "https://github.com/Eshajha19/agri/issues/556",
+      "createdAt": "2026-05-11T12:10:19.704Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
