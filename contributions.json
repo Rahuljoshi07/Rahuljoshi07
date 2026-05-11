@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778490129202,
+      "repository": "tprouvot/Salesforce-Inspector-reloaded",
+      "issueTitle": "[bug]: incorrect language flag icons for Catalan and Basque",
+      "url": "https://github.com/tprouvot/Salesforce-Inspector-reloaded/issues/1196",
+      "createdAt": "2026-05-11T09:02:09.202Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
