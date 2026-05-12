@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778551586798,
+      "repository": "taoAIGC/AICompare",
+      "issueTitle": "v3.2.0 在 MS Edge 上有很严重的问题",
+      "url": "https://github.com/taoAIGC/AICompare/issues/60",
+      "createdAt": "2026-05-12T02:06:26.798Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
