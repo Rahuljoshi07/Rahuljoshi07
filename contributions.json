@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778704065740,
+      "repository": "ironmonk108/monks-tokenbar",
+      "issueTitle": "[BUG] MATT Request Contested Roll for Tokens Within Tile",
+      "url": "https://github.com/ironmonk108/monks-tokenbar/issues/602",
+      "createdAt": "2026-05-13T20:27:45.740Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
