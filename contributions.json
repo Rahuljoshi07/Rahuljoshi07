@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778663525730,
+      "repository": "thekhan1122/k-flow-card",
+      "issueTitle": "issue with the battery recharge ETA calculation.",
+      "url": "https://github.com/thekhan1122/k-flow-card/issues/6",
+      "createdAt": "2026-05-13T09:12:05.731Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
