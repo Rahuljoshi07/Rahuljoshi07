@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778687769240,
+      "repository": "TheFeloniousMonk/Augustus",
+      "issueTitle": "Build Packaging Error",
+      "url": "https://github.com/TheFeloniousMonk/Augustus/issues/6",
+      "createdAt": "2026-05-13T15:56:09.240Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
