@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778661663784,
+      "repository": "nanorepublica/django-prodserver",
+      "issueTitle": "Splitting out the backends and the core API",
+      "url": "https://github.com/nanorepublica/django-prodserver/issues/98",
+      "createdAt": "2026-05-13T08:41:03.784Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
