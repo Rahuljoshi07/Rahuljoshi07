@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1778708518103,
-      "repository": "tmhglnd/mercury-playground",
-      "issueTitle": "timediv() doesn't seem to work as advertised (or maybe it does ;-)",
-      "url": "https://github.com/tmhglnd/mercury-playground/issues/42",
-      "createdAt": "2026-05-13T21:41:58.103Z",
+      "id": 1778708593603,
+      "repository": "inspect-js/is-equal",
+      "issueTitle": "Comparing objects with cycles",
+      "url": "https://github.com/inspect-js/is-equal/issues/21",
+      "createdAt": "2026-05-13T21:43:13.603Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. (Suggested by R..."
     }
   ],
   "stats": {
