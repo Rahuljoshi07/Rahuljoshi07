@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778669155761,
+      "repository": "AxDSan/mnemosyne",
+      "issueTitle": "TypeError in summarize_memories: _summarize_chunk() got unexpected keyword argument 'source'",
+      "url": "https://github.com/AxDSan/mnemosyne/issues/113",
+      "createdAt": "2026-05-13T10:45:55.762Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
