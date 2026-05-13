@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1778702030426,
-      "repository": "DawnbrandBots/yaml-yugi",
-      "issueTitle": "Problematic TBA Rush Ritual Spell \"Bluefin Oath\"",
-      "url": "https://github.com/DawnbrandBots/yaml-yugi/issues/264",
-      "createdAt": "2026-05-13T19:53:50.426Z",
+      "id": 1778702095839,
+      "repository": "rustychris/stompy",
+      "issueTitle": "Optimization: Replace (a * b).sum(axis=-1) with np.einsum('...i,...i->...') in mydot for better performance and clarity",
+      "url": "https://github.com/rustychris/stompy/issues/11",
+      "createdAt": "2026-05-13T19:54:55.839Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
