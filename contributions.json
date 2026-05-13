@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778665372313,
+      "repository": "eclipse-qrisp/Qrisp",
+      "issueTitle": "\"Missing\" definition of state_init gate in jaspr/mlir",
+      "url": "https://github.com/eclipse-qrisp/Qrisp/issues/550",
+      "createdAt": "2026-05-13T09:42:52.313Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
