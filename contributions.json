@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778675227020,
+      "repository": "kaanozhan/Frame",
+      "issueTitle": "BUG: Esc in Fileview cancels CLI tool",
+      "url": "https://github.com/kaanozhan/Frame/issues/69",
+      "createdAt": "2026-05-13T12:27:07.021Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. (Suggested by R..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
