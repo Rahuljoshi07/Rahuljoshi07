@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778675918654,
+      "repository": "Pigamer37/animeflv-stremio-addon",
+      "issueTitle": "Handle Cinemeta's season 0 (specials)",
+      "url": "https://github.com/Pigamer37/animeflv-stremio-addon/issues/20",
+      "createdAt": "2026-05-13T12:38:38.655Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
