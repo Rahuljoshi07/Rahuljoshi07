@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778681618488,
+      "repository": "new-usemame/Calibre-Web-NextGen",
+      "issueTitle": "[bug] processed_books/fixed_originals zips written as root",
+      "url": "https://github.com/new-usemame/Calibre-Web-NextGen/issues/162",
+      "createdAt": "2026-05-13T14:13:38.488Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
