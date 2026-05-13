@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778670173314,
+      "repository": "DataDog/dd-trace-js",
+      "issueTitle": "npm install -g dd-trace` fails with EUNSUPPORTEDPROTOCOL",
+      "url": "https://github.com/DataDog/dd-trace-js/issues/8455",
+      "createdAt": "2026-05-13T11:02:53.314Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
