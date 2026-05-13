@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778645047724,
+      "repository": "pierreb-devkit/Node",
+      "issueTitle": "fix(observability): logger.error(err.stack) bypasses Winston PostHog dedup → 2 $exception events per uncaught error",
+      "url": "https://github.com/pierreb-devkit/Node/issues/3655",
+      "createdAt": "2026-05-13T04:04:07.724Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
