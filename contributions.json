@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778683875093,
+      "repository": "testomatio/pytestomatio",
+      "issueTitle": "Failed report on version 2.11.0",
+      "url": "https://github.com/testomatio/pytestomatio/issues/94",
+      "createdAt": "2026-05-13T14:51:15.093Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
