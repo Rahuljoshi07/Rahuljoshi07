@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1778669155761,
+      "id": 1778669207136,
       "repository": "AxDSan/mnemosyne",
-      "issueTitle": "TypeError in summarize_memories: _summarize_chunk() got unexpected keyword argument 'source'",
-      "url": "https://github.com/AxDSan/mnemosyne/issues/113",
-      "createdAt": "2026-05-13T10:45:55.762Z",
+      "issueTitle": "Breaking: _get_connection requires Path not str for db_path (Hermes plugin crashes)",
+      "url": "https://github.com/AxDSan/mnemosyne/issues/117",
+      "createdAt": "2026-05-13T10:46:47.136Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
