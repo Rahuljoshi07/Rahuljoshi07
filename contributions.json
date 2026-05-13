@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778677610883,
+      "repository": "ZigZagExchange/zksync-lite-frontend",
+      "issueTitle": "/fix Console does not log error when DEX does not recognise wallet",
+      "url": "https://github.com/ZigZagExchange/zksync-lite-frontend/issues/1191",
+      "createdAt": "2026-05-13T13:06:50.883Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
