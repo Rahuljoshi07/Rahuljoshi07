@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778677711382,
+      "repository": "pixaroma/ComfyUI-Pixaroma",
+      "issueTitle": "AudioReact node runs into out of memory error",
+      "url": "https://github.com/pixaroma/ComfyUI-Pixaroma/issues/28",
+      "createdAt": "2026-05-13T13:08:31.382Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
