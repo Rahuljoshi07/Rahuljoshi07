@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778638862147,
+      "repository": "Jeffser/Nocturne",
+      "issueTitle": "No module named tinytag error in Debian package",
+      "url": "https://github.com/Jeffser/Nocturne/issues/134",
+      "createdAt": "2026-05-13T02:21:02.148Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
