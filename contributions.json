@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778689779042,
+      "repository": "agoenergy/pypsa-spice",
+      "issueTitle": "[BUG] Categorisation of Renewables and Fossil Fuels in `pow_gen_by_category_share_yearly`",
+      "url": "https://github.com/agoenergy/pypsa-spice/issues/95",
+      "createdAt": "2026-05-13T16:29:39.042Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
