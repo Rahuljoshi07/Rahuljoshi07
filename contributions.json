@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1778682157375,
+      "id": 1778682233680,
       "repository": "cap-js/audit-logging",
-      "issueTitle": "cds.requires.<srv>.outbox is deprecated",
-      "url": "https://github.com/cap-js/audit-logging/issues/203",
-      "createdAt": "2026-05-13T14:22:37.375Z",
+      "issueTitle": "Bad request after publish auditlog event",
+      "url": "https://github.com/cap-js/audit-logging/issues/180",
+      "createdAt": "2026-05-13T14:23:53.680Z",
       "type": "comment",
-      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
