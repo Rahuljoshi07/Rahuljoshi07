@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778643060054,
+      "repository": "mphacker/TeslaUSB",
+      "issueTitle": "p2-indexing-enqueue-transactional: enqueue_many_for_indexing has the same autocommit-with-context-manager bug PR #119 fixed for archive_queue",
+      "url": "https://github.com/mphacker/TeslaUSB/issues/120",
+      "createdAt": "2026-05-13T03:31:00.054Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
