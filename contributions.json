@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778797285648,
+      "repository": "miguelgrinberg/flask-sock",
+      "issueTitle": "response time slows down after time",
+      "url": "https://github.com/miguelgrinberg/flask-sock/issues/42",
+      "createdAt": "2026-05-14T22:21:25.648Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
