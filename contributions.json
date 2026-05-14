@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778796141101,
+      "repository": "agit8or1/clientst0r",
+      "issueTitle": "installer not working",
+      "url": "https://github.com/agit8or1/clientst0r/issues/131",
+      "createdAt": "2026-05-14T22:02:21.101Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
