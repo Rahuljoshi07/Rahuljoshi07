@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778754919130,
+      "repository": "vas3k/vas3k.club",
+      "issueTitle": "Баг: GET /user/<slug>/badges.json падает с FieldError на любого пользователя",
+      "url": "https://github.com/vas3k/vas3k.club/issues/1476",
+      "createdAt": "2026-05-14T10:35:19.130Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
