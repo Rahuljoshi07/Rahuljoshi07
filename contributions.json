@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778750109358,
+      "repository": "BlackyWhoElse/streamer.bot-actions",
+      "issueTitle": "[Bug] 1.0.5 Update breaks the websocket connection?",
+      "url": "https://github.com/BlackyWhoElse/streamer.bot-actions/issues/127",
+      "createdAt": "2026-05-14T09:15:09.358Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
