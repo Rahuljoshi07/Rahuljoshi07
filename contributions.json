@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778794285927,
+      "repository": "danilokhury/Synabun",
+      "issueTitle": "[Bug] OpenCode sidepanel project selector",
+      "url": "https://github.com/danilokhury/Synabun/issues/32",
+      "createdAt": "2026-05-14T21:31:25.928Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
