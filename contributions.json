@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778759549438,
+      "repository": "iobroker-community-adapters/ioBroker.rainbird",
+      "issueTitle": "Connection indication needs evaluation",
+      "url": "https://github.com/iobroker-community-adapters/ioBroker.rainbird/issues/30",
+      "createdAt": "2026-05-14T11:52:29.438Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
