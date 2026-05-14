@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778739313457,
+      "repository": "django-parler/django-parler",
+      "issueTitle": "Making existing fields translatable not working",
+      "url": "https://github.com/django-parler/django-parler/issues/363",
+      "createdAt": "2026-05-14T06:15:13.457Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
