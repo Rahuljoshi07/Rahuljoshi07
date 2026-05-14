@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778772107732,
+      "repository": "devnen/qwen3.6-windows-server",
+      "issueTitle": "【RTX5090-NVFP4】After starting in this mode, it falls into an infinite loop",
+      "url": "https://github.com/devnen/qwen3.6-windows-server/issues/15",
+      "createdAt": "2026-05-14T15:21:47.732Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
