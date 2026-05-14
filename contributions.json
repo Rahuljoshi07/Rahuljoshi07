@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778799531154,
+      "repository": "d4lfteam/d4lf",
+      "issueTitle": "Error in vision mode (Could not detect item_seperator_short)",
+      "url": "https://github.com/d4lfteam/d4lf/issues/697",
+      "createdAt": "2026-05-14T22:58:51.154Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
