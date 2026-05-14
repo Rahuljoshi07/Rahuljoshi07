@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1778724869226,
-      "repository": "a-synchronous/rubico",
-      "issueTitle": "update iterator and async iterator reducer function signatures to reducer(accumulator, item, undefined, iterator) -> Promise|boolean|any",
-      "url": "https://github.com/a-synchronous/rubico/issues/312",
-      "createdAt": "2026-05-14T02:14:29.226Z",
-      "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
