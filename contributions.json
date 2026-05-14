@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778802264822,
+      "repository": "Lexonight1/thermalright-trcc-linux",
+      "issueTitle": "Fedora 44 KDE Plasma Spin (Report+Not Working)",
+      "url": "https://github.com/Lexonight1/thermalright-trcc-linux/issues/144",
+      "createdAt": "2026-05-14T23:44:24.822Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
