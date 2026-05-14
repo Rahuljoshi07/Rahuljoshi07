@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778720760348,
+      "repository": "paninski-lab/lightning-pose",
+      "issueTitle": "RuntimeError: Fewer than 3 valid keypoints in 3d data augmentation; this error should have been caught earlier!",
+      "url": "https://github.com/paninski-lab/lightning-pose/issues/396",
+      "createdAt": "2026-05-14T01:06:00.348Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
