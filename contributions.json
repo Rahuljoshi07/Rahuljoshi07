@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778797782790,
+      "repository": "eScholarship/jschol",
+      "issueTitle": "Page loading issues in eScholarship front end, CMS",
+      "url": "https://github.com/eScholarship/jschol/issues/1035",
+      "createdAt": "2026-05-14T22:29:42.790Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
