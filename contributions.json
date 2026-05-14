@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778738879995,
+      "repository": "TeacherOp/NoobBook",
+      "issueTitle": "Mixpanel: event property not recognised by bot",
+      "url": "https://github.com/TeacherOp/NoobBook/issues/253",
+      "createdAt": "2026-05-14T06:07:59.995Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
