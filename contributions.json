@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778756612227,
+      "repository": "SciML/diffeqpy",
+      "issueTitle": "`pip install diffeqpy` fails in a clean environment in python-based installation",
+      "url": "https://github.com/SciML/diffeqpy/issues/175",
+      "createdAt": "2026-05-14T11:03:32.227Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
