@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778739606432,
+      "repository": "w3c/wcag2ict",
+      "issueTitle": "Success Criterion 3.3.6 Error Prevention (All) (Level AAA)",
+      "url": "https://github.com/w3c/wcag2ict/issues/564",
+      "createdAt": "2026-05-14T06:20:06.432Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
