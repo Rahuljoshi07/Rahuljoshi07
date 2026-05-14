@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778748882446,
+      "repository": "django-parler/django-parler",
+      "issueTitle": "Making existing fields translatable not working",
+      "url": "https://github.com/django-parler/django-parler/issues/363",
+      "createdAt": "2026-05-14T08:54:42.446Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
