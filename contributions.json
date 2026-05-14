@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778750766893,
+      "repository": "colophon-group/jobseek",
+      "issueTitle": "audit-follow-up: 3rd api_sniffer truncation site at :1371-1372 in _discover_auto (#3267 scope split)",
+      "url": "https://github.com/colophon-group/jobseek/issues/3336",
+      "createdAt": "2026-05-14T09:26:06.893Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
