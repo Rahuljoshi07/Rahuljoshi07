@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778739681073,
+      "repository": "ferrumio/pydynox",
+      "issueTitle": "[IDEA] refactor of Model onto pydantic BaseModel",
+      "url": "https://github.com/ferrumio/pydynox/issues/364",
+      "createdAt": "2026-05-14T06:21:21.073Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
