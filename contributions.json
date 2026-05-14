@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778741530067,
+      "repository": "anvie/evonic",
+      "issueTitle": "Bug: Sub-agent replies not forwarded to parent agent (empty report_to_id)",
+      "url": "https://github.com/anvie/evonic/issues/21",
+      "createdAt": "2026-05-14T06:52:10.067Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
