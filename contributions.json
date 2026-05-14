@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778756135399,
+      "repository": "misutesu-desu/MudaRemote",
+      "issueTitle": "[BUG] Slash commands not working",
+      "url": "https://github.com/misutesu-desu/MudaRemote/issues/57",
+      "createdAt": "2026-05-14T10:55:35.400Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
