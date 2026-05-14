@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1778773791636,
-      "repository": "RSeidelsohn/license-checker-rseidelsohn",
-      "issueTitle": "Workspaces support",
-      "url": "https://github.com/RSeidelsohn/license-checker-rseidelsohn/issues/36",
-      "createdAt": "2026-05-14T15:49:51.637Z",
+      "id": 1778773877011,
+      "repository": "brianpetro/obsidian-smart-env",
+      "issueTitle": "Bug: `merge_tags` throws TypeError when frontmatter `tags:` array contains non-string scalars",
+      "url": "https://github.com/brianpetro/obsidian-smart-env/issues/1",
+      "createdAt": "2026-05-14T15:51:17.011Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
