@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778747290398,
+      "repository": "tarantool/test-run",
+      "issueTitle": "`--luacov` option doesn't produce `luacov.stats.out`  for any kind of tests",
+      "url": "https://github.com/tarantool/test-run/issues/419",
+      "createdAt": "2026-05-14T08:28:10.398Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
