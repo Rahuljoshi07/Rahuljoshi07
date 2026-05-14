@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778749815075,
+      "repository": "apache/cordova-cli",
+      "issueTitle": "target of 'resource-file' in config.xml path correct?",
+      "url": "https://github.com/apache/cordova-cli/issues/582",
+      "createdAt": "2026-05-14T09:10:15.075Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
