@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778735022532,
+      "repository": "fancyui/Gobel-Battery-HA-Addon",
+      "issueTitle": "APP cannot be installed - An unknown error occurred while trying to build the image for app f455f9b4_gobel_battery_monitor",
+      "url": "https://github.com/fancyui/Gobel-Battery-HA-Addon/issues/26",
+      "createdAt": "2026-05-14T05:03:42.532Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
