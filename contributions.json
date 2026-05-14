@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778732930685,
+      "repository": "meichthys/church",
+      "issueTitle": "'Recipient' field in Prayer Request web-form submission doesn't save",
+      "url": "https://github.com/meichthys/church/issues/184",
+      "createdAt": "2026-05-14T04:28:50.685Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
