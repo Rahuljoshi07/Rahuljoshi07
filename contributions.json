@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778744569678,
+      "repository": "didi/dimina",
+      "issueTitle": "最新main分支代码 运行一直处于loading状态",
+      "url": "https://github.com/didi/dimina/issues/131",
+      "createdAt": "2026-05-14T07:42:49.678Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
