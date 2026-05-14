@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778741870949,
+      "repository": "ex-em/EVUI",
+      "issueTitle": "fix: timeCategory, time 축을 가진 차트끼리 syncHover을 사용할 경우 이상 동작",
+      "url": "https://github.com/ex-em/EVUI/issues/2264",
+      "createdAt": "2026-05-14T06:57:50.949Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
