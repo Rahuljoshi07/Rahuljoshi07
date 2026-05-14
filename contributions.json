@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778718685044,
+      "repository": "ixchio/tas",
+      "issueTitle": "[BUG] Doesn't split files by Telegram limit",
+      "url": "https://github.com/ixchio/tas/issues/2",
+      "createdAt": "2026-05-14T00:31:25.044Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
