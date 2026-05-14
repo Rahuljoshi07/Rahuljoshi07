@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778766443371,
+      "repository": "speakeasy-api/speakeasy",
+      "issueTitle": "terraform: missing BoolNull() else-branch when nullable nested struct is flattened to top-level Computed attributes",
+      "url": "https://github.com/speakeasy-api/speakeasy/issues/2031",
+      "createdAt": "2026-05-14T13:47:23.371Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
