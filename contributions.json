@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778749331768,
+      "repository": "MarcusGastaldello/FRICOSIPY",
+      "issueTitle": "Saturated Hydraulic Conductivity - Shimizu 1970 Bug",
+      "url": "https://github.com/MarcusGastaldello/FRICOSIPY/issues/16",
+      "createdAt": "2026-05-14T09:02:11.768Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
