@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778746037477,
+      "repository": "Hubs-Foundation/photomnemonic",
+      "issueTitle": "Dependency management issues with the Dockerfile and the package and package-lock json files",
+      "url": "https://github.com/Hubs-Foundation/photomnemonic/issues/32",
+      "createdAt": "2026-05-14T08:07:17.477Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
