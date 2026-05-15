@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778820357693,
+      "repository": "nguyenthienthanh/aura-frog",
+      "issueTitle": "Migrate .aura/security/mcp-audit.jsonl + .aura/plans/traces/*.jsonl to SQLite WAL",
+      "url": "https://github.com/nguyenthienthanh/aura-frog/issues/8",
+      "createdAt": "2026-05-15T04:45:57.693Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
