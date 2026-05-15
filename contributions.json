@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778815018501,
+      "repository": "wso2/product-integrator-si",
+      "issueTitle": "Error occurred when trying to start the wso2si-tooling-4.1.0 with JDK 11 and 17",
+      "url": "https://github.com/wso2/product-integrator-si/issues/365",
+      "createdAt": "2026-05-15T03:16:58.501Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
