@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778812333063,
+      "repository": "CDCgov/phoenix",
+      "issueTitle": "Slow cache recovery after sample removal and resume",
+      "url": "https://github.com/CDCgov/phoenix/issues/187",
+      "createdAt": "2026-05-15T02:32:13.063Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
