@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778821332301,
+      "repository": "willsanderson/Hemma",
+      "issueTitle": "No action on tapping & other issues",
+      "url": "https://github.com/willsanderson/Hemma/issues/29",
+      "createdAt": "2026-05-15T05:02:12.302Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
