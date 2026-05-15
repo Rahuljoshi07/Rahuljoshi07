@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1778817791859,
-      "repository": "vitejs/docs-es",
-      "issueTitle": "Dependency Dashboard",
-      "url": "https://github.com/vitejs/docs-es/issues/825",
-      "createdAt": "2026-05-15T04:03:11.859Z",
+      "id": 1778817832954,
+      "repository": "pierreb-devkit/Node",
+      "issueTitle": "fix(observability): logger.error(err.stack) bypasses Winston PostHog dedup → 2 $exception events per uncaught error",
+      "url": "https://github.com/pierreb-devkit/Node/issues/3655",
+      "createdAt": "2026-05-15T04:03:52.954Z",
       "type": "comment",
-      "content": "Adding TypeScript could improve code quality and maintainability. (Suggested by Rahul Joshi)..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
