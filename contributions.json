@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778806502987,
+      "repository": "nextcloud/forms",
+      "issueTitle": "Ask for confirmation before submitting form",
+      "url": "https://github.com/nextcloud/forms/issues/1048",
+      "createdAt": "2026-05-15T00:55:02.987Z",
+      "type": "comment",
+      "content": "Consider implementing proper error boundaries for better error handling. This suggestion is particul..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
