@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1778817887349,
-      "repository": "pierreb-devkit/Node",
-      "issueTitle": "fix(observability): logger.error(err.stack) bypasses Winston PostHog dedup → 2 $exception events per uncaught error",
-      "url": "https://github.com/pierreb-devkit/Node/issues/3655",
-      "createdAt": "2026-05-15T04:04:47.349Z",
+      "id": 1778817935747,
+      "repository": "RapidFireAI/rapidfireai",
+      "issueTitle": "[BUG] Evals config_set silently renames api_config to \"pipeline\" and accepts unknown keys that are never consumed",
+      "url": "https://github.com/RapidFireAI/rapidfireai/issues/245",
+      "createdAt": "2026-05-15T04:05:35.747Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
     }
   ],
   "stats": {
