@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778811467670,
+      "repository": "sususweet/midea_auto_cloud",
+      "issueTitle": "Thermostat Setpoint Issues when Changing Modes",
+      "url": "https://github.com/sususweet/midea_auto_cloud/issues/154",
+      "createdAt": "2026-05-15T02:17:47.670Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
