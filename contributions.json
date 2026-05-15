@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1778807065276,
+      "id": 1778807104843,
       "repository": "konstaui/konstaui.com",
       "issueTitle": "Konsta UI v5 released! All previous issues and PRs are closed",
       "url": "https://github.com/konstaui/konstaui.com/issues/44",
-      "createdAt": "2026-05-15T01:04:25.276Z",
+      "createdAt": "2026-05-15T01:05:04.844Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
