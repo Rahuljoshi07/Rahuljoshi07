@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778813475898,
+      "repository": "platberlitz/SillyBunny",
+      "issueTitle": "Compatibility issue: some SillyTavern character cards / presets with embedded HTML scripts fail to render or execute correctly",
+      "url": "https://github.com/platberlitz/SillyBunny/issues/94",
+      "createdAt": "2026-05-15T02:51:15.899Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
