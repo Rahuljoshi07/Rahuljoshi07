@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1778817832954,
+      "id": 1778817887349,
       "repository": "pierreb-devkit/Node",
       "issueTitle": "fix(observability): logger.error(err.stack) bypasses Winston PostHog dedup → 2 $exception events per uncaught error",
       "url": "https://github.com/pierreb-devkit/Node/issues/3655",
-      "createdAt": "2026-05-15T04:03:52.954Z",
+      "createdAt": "2026-05-15T04:04:47.349Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
