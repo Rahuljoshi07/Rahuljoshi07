@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778817091810,
+      "repository": "0rigin-c0de/PiperChat01",
+      "issueTitle": "[Bug]: Frontend env variables use REACT_APP_ prefix instead of VITE_",
+      "url": "https://github.com/0rigin-c0de/PiperChat01/issues/27",
+      "createdAt": "2026-05-15T03:51:31.810Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
