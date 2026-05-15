@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778814871004,
+      "repository": "openyida/openyida",
+      "issueTitle": "bug: process TableField 中文字段回读和更新可能出现乱码",
+      "url": "https://github.com/openyida/openyida/issues/361",
+      "createdAt": "2026-05-15T03:14:31.004Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
