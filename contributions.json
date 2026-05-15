@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778812584835,
+      "repository": "pponce/homebridge-script2",
+      "issueTitle": "Many entries of GetState logging expected or an error in my config?",
+      "url": "https://github.com/pponce/homebridge-script2/issues/74",
+      "createdAt": "2026-05-15T02:36:24.835Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
