@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778956090008,
+      "repository": "Hyacinthe-primus/File_Converter_Pro",
+      "issueTitle": "Traceback (most recent call last):   File \"main.py\", line 36, in <module> ImportError: DLL load failed while importing QtWidgets: Не найден указанный модуль.",
+      "url": "https://github.com/Hyacinthe-primus/File_Converter_Pro/issues/7",
+      "createdAt": "2026-05-16T18:28:10.008Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
