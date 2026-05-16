@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1778905176227,
-      "repository": "RMA-MUN/LangChain-RAG-FastAPI-Service",
-      "issueTitle": "`vector_store.py` 中存在大量直接操作MD5文件的代码，与 `md5_store.py` 的职责高度重复：",
-      "url": "https://github.com/RMA-MUN/LangChain-RAG-FastAPI-Service/issues/5",
-      "createdAt": "2026-05-16T04:19:36.227Z",
-      "type": "comment",
-      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
