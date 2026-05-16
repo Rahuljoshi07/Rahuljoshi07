@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778971218119,
+      "repository": "digitalbazaar/did-io",
+      "issueTitle": "Ensure a DID with a path isn't resolved unless how to resolve that path is understood (raise an error instead)",
+      "url": "https://github.com/digitalbazaar/did-io/issues/65",
+      "createdAt": "2026-05-16T22:40:18.119Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
