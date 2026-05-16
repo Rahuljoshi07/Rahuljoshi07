@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778950394116,
+      "repository": "open-risk/equinox",
+      "issueTitle": "sidebar does not remain closed on reload for large screen size",
+      "url": "https://github.com/open-risk/equinox/issues/36",
+      "createdAt": "2026-05-16T16:53:14.116Z",
+      "type": "comment",
+      "content": "Using a bundler like Webpack or Vite could improve performance. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
