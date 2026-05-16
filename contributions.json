@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778954847356,
+      "repository": "GrottoCenter/grottocenter-api",
+      "issueTitle": "Bug (Import CSV) le développement ne s'importe plus",
+      "url": "https://github.com/GrottoCenter/grottocenter-api/issues/1591",
+      "createdAt": "2026-05-16T18:07:27.356Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
