@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778952937939,
+      "repository": "santanu-atta03/Intervyo",
+      "issueTitle": "[BUG] Dark Theme Inconsistencies in Legal Pages and Chatbot",
+      "url": "https://github.com/santanu-atta03/Intervyo/issues/331",
+      "createdAt": "2026-05-16T17:35:37.939Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
