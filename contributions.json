@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778922746536,
+      "repository": "time4tea/gopro-dashboard-overlay",
+      "issueTitle": "Poor time series loading performance when GPX data contains additional unused points",
+      "url": "https://github.com/time4tea/gopro-dashboard-overlay/issues/274",
+      "createdAt": "2026-05-16T09:12:26.537Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
