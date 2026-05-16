@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778907177985,
+      "repository": "patonlab/GoodVibes",
+      "issueTitle": "check option causes error for gas phase calculation (ORCA6)",
+      "url": "https://github.com/patonlab/GoodVibes/issues/96",
+      "createdAt": "2026-05-16T04:52:57.985Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
