@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778959706640,
+      "repository": "gregrs-uk/fhodot",
+      "issueTitle": "Malformed fhrs:id out of integer range causes data updates to fail",
+      "url": "https://github.com/gregrs-uk/fhodot/issues/29",
+      "createdAt": "2026-05-16T19:28:26.640Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
