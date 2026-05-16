@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778946170123,
+      "repository": "Eternal-Snowstorm/CodeNameCIM2",
+      "issueTitle": "部分流体无对应标签导致无法利用流体管道过滤",
+      "url": "https://github.com/Eternal-Snowstorm/CodeNameCIM2/issues/337",
+      "createdAt": "2026-05-16T15:42:50.123Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
