@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1778899430325,
+      "id": 1778899466493,
       "repository": "NeteaseCloudMusicApiEnhanced/api-enhanced",
       "issueTitle": "[Bug] 听歌打卡接口功能失效",
       "url": "https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced/issues/167",
-      "createdAt": "2026-05-16T02:43:50.325Z",
+      "createdAt": "2026-05-16T02:44:26.493Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
