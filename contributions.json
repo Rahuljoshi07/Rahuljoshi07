@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1778896907816,
-      "repository": "nextcloud/whiteboard",
-      "issueTitle": "[BUG] Websocket error Version 1.5.8",
-      "url": "https://github.com/nextcloud/whiteboard/issues/1198",
-      "createdAt": "2026-05-16T02:01:47.816Z",
+      "id": 1778896965909,
+      "repository": "aio-libs/aiodns",
+      "issueTitle": "Incompatible with aiodns 4.0.0",
+      "url": "https://github.com/aio-libs/aiodns/issues/226",
+      "createdAt": "2026-05-16T02:02:45.909Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
