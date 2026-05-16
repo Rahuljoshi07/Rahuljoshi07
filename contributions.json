@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778964959217,
+      "repository": "apache/cordova-docs",
+      "issueTitle": "exitApp should be documented",
+      "url": "https://github.com/apache/cordova-docs/issues/1242",
+      "createdAt": "2026-05-16T20:55:59.217Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
