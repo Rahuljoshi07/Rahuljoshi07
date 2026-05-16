@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778951667543,
+      "repository": "Zen4-bit/Proxima",
+      "issueTitle": "[Bug]",
+      "url": "https://github.com/Zen4-bit/Proxima/issues/36",
+      "createdAt": "2026-05-16T17:14:27.543Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
