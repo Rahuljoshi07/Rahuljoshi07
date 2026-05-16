@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778953307548,
+      "repository": "WirlyWirly/quiCKIE",
+      "issueTitle": "\"Stopped working\", Only a smiley-face...",
+      "url": "https://github.com/WirlyWirly/quiCKIE/issues/14",
+      "createdAt": "2026-05-16T17:41:47.548Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
