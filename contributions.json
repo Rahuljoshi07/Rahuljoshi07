@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778952345076,
+      "repository": "notebook-intelligence/notebook-intelligence",
+      "issueTitle": "First message after a new Claude session fails",
+      "url": "https://github.com/notebook-intelligence/notebook-intelligence/issues/264",
+      "createdAt": "2026-05-16T17:25:45.076Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
