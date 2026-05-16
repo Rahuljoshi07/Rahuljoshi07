@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778952157694,
+      "repository": "inducer/relate",
+      "issueTitle": "`shuffle` in `ChoicesAnswer` for `InlineMultiQuestion` does not seem to work",
+      "url": "https://github.com/inducer/relate/issues/1496",
+      "createdAt": "2026-05-16T17:22:37.694Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
