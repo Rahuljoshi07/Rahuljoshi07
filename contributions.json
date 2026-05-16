@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778903506437,
+      "repository": "0-Shimanshu/ADIUVARE",
+      "issueTitle": "[Bug]: schema.sql not shipped in the built package",
+      "url": "https://github.com/0-Shimanshu/ADIUVARE/issues/68",
+      "createdAt": "2026-05-16T03:51:46.437Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
