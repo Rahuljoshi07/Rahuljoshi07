@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778962572028,
+      "repository": "humdrum-tools/verovio-humdrum-viewer",
+      "issueTitle": "cint - k option issue 2",
+      "url": "https://github.com/humdrum-tools/verovio-humdrum-viewer/issues/772",
+      "createdAt": "2026-05-16T20:16:12.028Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
