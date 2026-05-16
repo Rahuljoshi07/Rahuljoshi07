@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1778956762702,
-      "repository": "2M4U/2m4u",
-      "issueTitle": "Possible fixes for update.js",
-      "url": "https://github.com/2M4U/2m4u/issues/6",
-      "createdAt": "2026-05-16T18:39:22.702Z",
+      "id": 1778956793550,
+      "repository": "lanchuske/local-mcp-releases",
+      "issueTitle": "[Bug] Incessant Permission Requests Raised in macOS",
+      "url": "https://github.com/lanchuske/local-mcp-releases/issues/3",
+      "createdAt": "2026-05-16T18:39:53.550Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
