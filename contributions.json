@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778970965505,
+      "repository": "TurboDocx/html-to-docx",
+      "issueTitle": "Page number and total pages are not rendered in the footer",
+      "url": "https://github.com/TurboDocx/html-to-docx/issues/192",
+      "createdAt": "2026-05-16T22:36:05.505Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
