@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778943571740,
+      "repository": "MIDA-group/CytoBrowser",
+      "issueTitle": "At times OSD rendering seems completely off.",
+      "url": "https://github.com/MIDA-group/CytoBrowser/issues/343",
+      "createdAt": "2026-05-16T14:59:31.740Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
