@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778943163771,
+      "repository": "Map1en/VRCX-0",
+      "issueTitle": "VRCX-0 login menu appears stretched on portrait displays",
+      "url": "https://github.com/Map1en/VRCX-0/issues/121",
+      "createdAt": "2026-05-16T14:52:43.771Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
