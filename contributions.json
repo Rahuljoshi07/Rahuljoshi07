@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778973050667,
+      "repository": "ironmonk108/monks-active-tiles",
+      "issueTitle": "[BUG] Play Sound",
+      "url": "https://github.com/ironmonk108/monks-active-tiles/issues/975",
+      "createdAt": "2026-05-16T23:10:50.667Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
