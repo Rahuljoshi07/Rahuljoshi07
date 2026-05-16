@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1778973761110,
+      "id": 1778973794019,
       "repository": "link-assistant/hive-mind",
-      "issueTitle": "Duplicate summary for Codex tool run",
-      "url": "https://github.com/link-assistant/hive-mind/issues/1813",
-      "createdAt": "2026-05-16T23:22:41.110Z",
+      "issueTitle": "Instead of our own implementation of i18n, we should use https://github.com/link-foundation/lino-i18n",
+      "url": "https://github.com/link-assistant/hive-mind/issues/1814",
+      "createdAt": "2026-05-16T23:23:14.020Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
     }
   ],
   "stats": {
