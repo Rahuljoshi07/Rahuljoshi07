@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778962033340,
+      "repository": "Fiestaboard/FiestaBoard",
+      "issueTitle": "Plugin - Generic Data - Always 400 Error",
+      "url": "https://github.com/Fiestaboard/FiestaBoard/issues/747",
+      "createdAt": "2026-05-16T20:07:13.341Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
