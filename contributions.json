@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778931812698,
+      "repository": "lzhenn/cmip6-to-wrfinterm",
+      "issueTitle": "Psl key Error Issue while converting CMIP6.  MPI_ESM_1_2_HR historical (1980_2014)",
+      "url": "https://github.com/lzhenn/cmip6-to-wrfinterm/issues/9",
+      "createdAt": "2026-05-16T11:43:32.699Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
