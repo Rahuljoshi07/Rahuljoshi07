@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779031886638,
+      "repository": "frappe/press",
+      "issueTitle": "Don't allow SSH attempt to 1 year old bench",
+      "url": "https://github.com/frappe/press/issues/6443",
+      "createdAt": "2026-05-17T15:31:26.638Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
