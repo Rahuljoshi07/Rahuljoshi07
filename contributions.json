@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779034486709,
+      "repository": "sjmotew/NarwalIntegration",
+      "issueTitle": "Room clean ignores HA selection, reverts to Narwal-app shortcut (newer firmware)",
+      "url": "https://github.com/sjmotew/NarwalIntegration/issues/37",
+      "createdAt": "2026-05-17T16:14:46.709Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
