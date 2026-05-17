@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779041208746,
+      "repository": "Checkora/Checkora",
+      "issueTitle": "Session freeze upon eminent checkmate",
+      "url": "https://github.com/Checkora/Checkora/issues/749",
+      "createdAt": "2026-05-17T18:06:48.746Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
