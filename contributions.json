@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779014170756,
+      "id": 1779014217117,
       "repository": "SandeepVashishtha/Eventra",
       "issueTitle": "UI Bug: Inconsistent Text Color on Dark Background (Readability Issue)",
       "url": "https://github.com/SandeepVashishtha/Eventra/issues/954",
-      "createdAt": "2026-05-17T10:36:10.756Z",
+      "createdAt": "2026-05-17T10:36:57.117Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
