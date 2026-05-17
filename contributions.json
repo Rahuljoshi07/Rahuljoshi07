@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779017994762,
+      "repository": "vanshaj-pahwa/scenic",
+      "issueTitle": "Buggy website",
+      "url": "https://github.com/vanshaj-pahwa/scenic/issues/1",
+      "createdAt": "2026-05-17T11:39:54.762Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
