@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778991852867,
+      "repository": "sanskrit-lexicon/csl-orig",
+      "issueTitle": "MW - avaDAraRa - Missing {as} and {am} in MW text",
+      "url": "https://github.com/sanskrit-lexicon/csl-orig/issues/2811",
+      "createdAt": "2026-05-17T04:24:12.867Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
