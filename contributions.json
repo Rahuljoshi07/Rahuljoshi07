@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779046917591,
+      "repository": "adam9899/MC-Eternal-2",
+      "issueTitle": "[Bug] Summons AI attacking all entities (neutral/allies) in Modpack environment",
+      "url": "https://github.com/adam9899/MC-Eternal-2/issues/830",
+      "createdAt": "2026-05-17T19:41:57.592Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
