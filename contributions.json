@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779013582885,
+      "repository": "SECTL/SecRandom",
+      "issueTitle": "在安装程序选择\"仅为我安装\"后无法正常运行",
+      "url": "https://github.com/SECTL/SecRandom/issues/235",
+      "createdAt": "2026-05-17T10:26:22.885Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
