@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779004132556,
+      "repository": "ok-oldking/ok-script",
+      "issueTitle": "录制功能的小bug，引号用错\n了",
+      "url": "https://github.com/ok-oldking/ok-script/issues/56",
+      "createdAt": "2026-05-17T07:48:52.556Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
