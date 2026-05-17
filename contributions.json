@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779003996772,
+      "repository": "123nhh/tempmail",
+      "issueTitle": "[BUG]在系统设置修改serverip后，无法被dns记录校验使用",
+      "url": "https://github.com/123nhh/tempmail/issues/1",
+      "createdAt": "2026-05-17T07:46:36.772Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
