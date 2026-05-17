@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779050247141,
+      "repository": "exercism/python-test-runner",
+      "issueTitle": "When Using subtest, all subtest captured output is written into the Parent Output Property",
+      "url": "https://github.com/exercism/python-test-runner/issues/67",
+      "createdAt": "2026-05-17T20:37:27.141Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
