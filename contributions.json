@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779052057233,
+      "repository": "pszafer/epson_projector",
+      "issueTitle": "Unknown error occured when adding a projector",
+      "url": "https://github.com/pszafer/epson_projector/issues/24",
+      "createdAt": "2026-05-17T21:07:37.234Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
