@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778976190208,
+      "repository": "ironmonk108/monks-active-tiles",
+      "issueTitle": "[BUG] Active Tile Animations Not Functioning",
+      "url": "https://github.com/ironmonk108/monks-active-tiles/issues/1031",
+      "createdAt": "2026-05-17T00:03:10.208Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
