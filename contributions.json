@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779033514446,
+      "id": 1779033546476,
       "repository": "SakuraByteCore/codexmate",
       "issueTitle": "fix(mcp): write permission silent failure, UI has no awareness",
       "url": "https://github.com/SakuraByteCore/codexmate/issues/147",
-      "createdAt": "2026-05-17T15:58:34.446Z",
+      "createdAt": "2026-05-17T15:59:06.476Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
