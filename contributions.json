@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779041709409,
-      "repository": "CCDirectLink/CCLoader",
-      "issueTitle": "Update checker",
-      "url": "https://github.com/CCDirectLink/CCLoader/issues/17",
-      "createdAt": "2026-05-17T18:15:09.409Z",
+      "id": 1779041744964,
+      "repository": "brianpetro/obsidian-smart-env",
+      "issueTitle": "Bug: `merge_tags` throws TypeError when frontmatter `tags:` array contains non-string scalars",
+      "url": "https://github.com/brianpetro/obsidian-smart-env/issues/1",
+      "createdAt": "2026-05-17T18:15:44.964Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
