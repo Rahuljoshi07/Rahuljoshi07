@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779024795524,
+      "repository": "Eshajha19/agri",
+      "issueTitle": "[Bug]: /api/experts Hardcodes Real Phone Numbers in Fallback Data That Is Returned to All Unauthenticated Callers",
+      "url": "https://github.com/Eshajha19/agri/issues/755",
+      "createdAt": "2026-05-17T13:33:15.524Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
