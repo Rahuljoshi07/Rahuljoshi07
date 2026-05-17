@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779049797076,
+      "repository": "BANANASJIM/rdc-cli",
+      "issueTitle": "_match_capture_gpu() falls back to integrated GPU on multi-GPU D3D12 systems, causing OpenCapture heap failure",
+      "url": "https://github.com/BANANASJIM/rdc-cli/issues/225",
+      "createdAt": "2026-05-17T20:29:57.076Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
