@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779034972312,
+      "repository": "whiteguo233/OpenBiliClaw",
+      "issueTitle": "[BUG]使用LM Studio时返回'response_format.type' must be 'json_schema' or 'text'",
+      "url": "https://github.com/whiteguo233/OpenBiliClaw/issues/12",
+      "createdAt": "2026-05-17T16:22:52.312Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
