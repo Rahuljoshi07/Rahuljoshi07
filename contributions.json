@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779004424797,
+      "repository": "spacetx/starfish",
+      "issueTitle": "fix: repair broken AWS S3 links and add missing data links in osmFISH and ISS breast data-formatting examples",
+      "url": "https://github.com/spacetx/starfish/issues/2216",
+      "createdAt": "2026-05-17T07:53:44.797Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
