@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778990451864,
+      "repository": "Eshajha19/agri",
+      "issueTitle": "[Bug]: Fix ESLint errors for unused variables",
+      "url": "https://github.com/Eshajha19/agri/issues/725",
+      "createdAt": "2026-05-17T04:00:51.864Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
