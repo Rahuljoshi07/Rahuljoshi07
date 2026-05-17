@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779047317259,
+      "repository": "anubhavxdev/Event-management-system-main",
+      "issueTitle": "[BUG] Bug: Contact Support Button in FAQ Section Does Not Work",
+      "url": "https://github.com/anubhavxdev/Event-management-system-main/issues/181",
+      "createdAt": "2026-05-17T19:48:37.259Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
