@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779048238402,
+      "repository": "Qizhan7/imprint-memory",
+      "issueTitle": "Bug: os not imported in server.py (experience_append failure)",
+      "url": "https://github.com/Qizhan7/imprint-memory/issues/4",
+      "createdAt": "2026-05-17T20:03:58.402Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
