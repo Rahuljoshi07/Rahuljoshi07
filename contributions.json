@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779038454116,
+      "repository": "Harsh-2006-git/Smart-Pilgrims-Assistant-App",
+      "issueTitle": "[Bug] Password field shows vague error message with no  validation requirements on Complete Profile page",
+      "url": "https://github.com/Harsh-2006-git/Smart-Pilgrims-Assistant-App/issues/51",
+      "createdAt": "2026-05-17T17:20:54.116Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
