@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779009467976,
+      "repository": "vanshaj-pahwa/scenic",
+      "issueTitle": "Buggy website",
+      "url": "https://github.com/vanshaj-pahwa/scenic/issues/1",
+      "createdAt": "2026-05-17T09:17:47.976Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
