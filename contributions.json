@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779045666609,
+      "repository": "mholzi/beatify",
+      "issueTitle": "Game appears stuck in REVEAL — no auto-advance to next round",
+      "url": "https://github.com/mholzi/beatify/issues/936",
+      "createdAt": "2026-05-17T19:21:06.609Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
