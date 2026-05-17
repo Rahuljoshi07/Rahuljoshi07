@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779036313682,
+      "repository": "visjs/vis-graph3d",
+      "issueTitle": "Small and weirdly rotated axis labels",
+      "url": "https://github.com/visjs/vis-graph3d/issues/67",
+      "createdAt": "2026-05-17T16:45:13.683Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
