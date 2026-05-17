@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779032368630,
+      "repository": "david-a-wheeler/flawfinder",
+      "issueTitle": "Code reference issue",
+      "url": "https://github.com/david-a-wheeler/flawfinder/issues/93",
+      "createdAt": "2026-05-17T15:39:28.630Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
