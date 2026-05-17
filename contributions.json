@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779033028601,
+      "repository": "AditthyaSS/iloveAgents",
+      "issueTitle": "[Bug]: Replace hardcoded Gemini model configuration with dynamic provider model fetching",
+      "url": "https://github.com/AditthyaSS/iloveAgents/issues/180",
+      "createdAt": "2026-05-17T15:50:28.601Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
