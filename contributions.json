@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779015707380,
+      "repository": "AditthyaSS/iloveAgents",
+      "issueTitle": "[Bug]: GitHub / contribute links point to a generic GitHub homepage",
+      "url": "https://github.com/AditthyaSS/iloveAgents/issues/172",
+      "createdAt": "2026-05-17T11:01:47.380Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
