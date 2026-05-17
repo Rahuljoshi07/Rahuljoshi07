@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779037638814,
+      "repository": "deftai/directive",
+      "issueTitle": "Strategy files produce inconsistent output — some pre-v0.20, some partially v0.20, none fully conformant",
+      "url": "https://github.com/deftai/directive/issues/1166",
+      "createdAt": "2026-05-17T17:07:18.814Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
