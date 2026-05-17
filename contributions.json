@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779028966137,
+      "repository": "SamXop123/samdev-pulse",
+      "issueTitle": "Enhancement: Add SVG Fallback for Errors",
+      "url": "https://github.com/SamXop123/samdev-pulse/issues/6",
+      "createdAt": "2026-05-17T14:42:46.137Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
