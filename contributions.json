@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1778993960714,
-      "repository": "hst1189/hst1189.github.io",
-      "issueTitle": "Vol.47 Copy Fail CVE-2026-31431",
-      "url": "https://github.com/hst1189/hst1189.github.io/issues/48",
-      "createdAt": "2026-05-17T04:59:20.714Z",
+      "id": 1778993994293,
+      "repository": "openyida/openyida",
+      "issueTitle": "bug: 宜搭原生报表多指标(多yField/多KPI)渲染触发页面死循环",
+      "url": "https://github.com/openyida/openyida/issues/354",
+      "createdAt": "2026-05-17T04:59:54.293Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
     }
   ],
   "stats": {
