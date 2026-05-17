@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779028870383,
+      "repository": "askalf/dario",
+      "issueTitle": "CC template drift detected (2026-05-17)",
+      "url": "https://github.com/askalf/dario/issues/301",
+      "createdAt": "2026-05-17T14:41:10.383Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
