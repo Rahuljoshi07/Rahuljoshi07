@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779030598418,
+      "repository": "BioSTEAMDevelopmentGroup/biosteam",
+      "issueTitle": "Pump Error with Pseudo-Biomass Chemical: liquid viscosity method 'NEGLECT_P' is not valid",
+      "url": "https://github.com/BioSTEAMDevelopmentGroup/biosteam/issues/232",
+      "createdAt": "2026-05-17T15:09:58.418Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
