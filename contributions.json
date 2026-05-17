@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779021305771,
+      "repository": "frappe/print_designer",
+      "issueTitle": "Emails don't send automatically: \"ModuleNotFoundError: No module named 'print_designer'\"",
+      "url": "https://github.com/frappe/print_designer/issues/538",
+      "createdAt": "2026-05-17T12:35:05.771Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
