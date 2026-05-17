@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1778993994293,
+      "id": 1778994048032,
       "repository": "openyida/openyida",
-      "issueTitle": "bug: 宜搭原生报表多指标(多yField/多KPI)渲染触发页面死循环",
-      "url": "https://github.com/openyida/openyida/issues/354",
-      "createdAt": "2026-05-17T04:59:54.293Z",
+      "issueTitle": "create-app 的 layoutDirection 在创建后切换无效，顶部操作栏行为不一致",
+      "url": "https://github.com/openyida/openyida/issues/365",
+      "createdAt": "2026-05-17T05:00:48.033Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
