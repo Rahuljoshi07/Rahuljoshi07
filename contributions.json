@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778984884263,
+      "repository": "new-usemame/Calibre-Web-NextGen",
+      "issueTitle": "[bug] OPDS issues",
+      "url": "https://github.com/new-usemame/Calibre-Web-NextGen/issues/121",
+      "createdAt": "2026-05-17T02:28:04.263Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
