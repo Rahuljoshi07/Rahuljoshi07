@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779026650783,
+      "repository": "insin/control-panel-for-youtube",
+      "issueTitle": "[Bug] - Hide \"Experiencing interruptions?\" popup",
+      "url": "https://github.com/insin/control-panel-for-youtube/issues/273",
+      "createdAt": "2026-05-17T14:04:10.783Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
