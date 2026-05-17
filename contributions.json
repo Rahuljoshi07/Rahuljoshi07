@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779050033051,
+      "repository": "learning-unlimited/ESP-Website",
+      "issueTitle": "[Bug]: Teachers can't edit class website pages inline",
+      "url": "https://github.com/learning-unlimited/ESP-Website/issues/5794",
+      "createdAt": "2026-05-17T20:33:53.051Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
