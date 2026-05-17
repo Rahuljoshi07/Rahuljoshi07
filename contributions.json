@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779037249837,
+      "repository": "Vaskivskyi/ha-asusrouter",
+      "issueTitle": "[Bug] 6GHz band",
+      "url": "https://github.com/Vaskivskyi/ha-asusrouter/issues/1091",
+      "createdAt": "2026-05-17T17:00:49.837Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
