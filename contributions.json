@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779054527254,
+      "id": 1779054563931,
       "repository": "anubhavxdev/Event-management-system-main",
       "issueTitle": "[BUG] Issue: Missing UI imports causing page load failure",
       "url": "https://github.com/anubhavxdev/Event-management-system-main/issues/183",
-      "createdAt": "2026-05-17T21:48:47.254Z",
+      "createdAt": "2026-05-17T21:49:23.931Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
