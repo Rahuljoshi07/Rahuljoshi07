@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779021544807,
+      "repository": "mloda-ai/mloda",
+      "issueTitle": "bug: socket not guaranteed to close on exception in create_location()",
+      "url": "https://github.com/mloda-ai/mloda/issues/430",
+      "createdAt": "2026-05-17T12:39:04.807Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
