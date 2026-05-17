@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1778978519894,
+      "repository": "admonstrator/paperless-ai-next",
+      "issueTitle": "[Bug]: Rag Chat only wiht gpt-40-mini",
+      "url": "https://github.com/admonstrator/paperless-ai-next/issues/167",
+      "createdAt": "2026-05-17T00:41:59.894Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
