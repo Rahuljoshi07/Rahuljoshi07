@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1779022779927,
-      "repository": "jfrog/jfrog-azure-devops-extension",
-      "issueTitle": "The JfrogCliV2@1 task for connecting Azure DevOps to Artifactory does not add the variables (oidc_user and oidc_token).",
-      "url": "https://github.com/jfrog/jfrog-azure-devops-extension/issues/564",
-      "createdAt": "2026-05-17T12:59:39.927Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
