@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779096645012,
+      "repository": "kaifansariw/GameHub",
+      "issueTitle": "[BUG] api_save_score does not validate score type and can return 500",
+      "url": "https://github.com/kaifansariw/GameHub/issues/365",
+      "createdAt": "2026-05-18T09:30:45.012Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
