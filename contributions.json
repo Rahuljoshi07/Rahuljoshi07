@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779081272810,
+      "repository": "ansible/ansible-dev-tools",
+      "issueTitle": "BUG: Devcontainer running in Docker does not set UID",
+      "url": "https://github.com/ansible/ansible-dev-tools/issues/376",
+      "createdAt": "2026-05-18T05:14:32.810Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
