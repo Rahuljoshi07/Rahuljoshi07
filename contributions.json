@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779069925514,
+      "id": 1779069959925,
       "repository": "nextcloud/text",
       "issueTitle": "Error: <linearGradient> attribute gradientTransform: Expected '(', \"rotateX(285)\".",
       "url": "https://github.com/nextcloud/text/issues/8165",
-      "createdAt": "2026-05-18T02:05:25.514Z",
+      "createdAt": "2026-05-18T02:05:59.925Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
