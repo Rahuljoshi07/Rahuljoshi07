@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779065461669,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Mobile responsiveness broken on Issues page",
+      "url": "https://github.com/OWASP/Nest/issues/4568",
+      "createdAt": "2026-05-18T00:51:01.669Z",
+      "type": "comment",
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
