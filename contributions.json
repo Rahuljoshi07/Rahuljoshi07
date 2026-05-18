@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779138552010,
+      "repository": "faisalkindi/CrimsonDesert-UltimateModsManager",
+      "issueTitle": "[Bug] JSON v3 and field.JSON can't install correctly (macOS)",
+      "url": "https://github.com/faisalkindi/CrimsonDesert-UltimateModsManager/issues/105",
+      "createdAt": "2026-05-18T21:09:12.010Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
