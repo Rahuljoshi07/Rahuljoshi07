@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779063884697,
+      "repository": "signalflatpak/signal",
+      "issueTitle": "Attaching a specific PDF file results in an error and crash. The file draft then cannot be dismissed.",
+      "url": "https://github.com/signalflatpak/signal/issues/15",
+      "createdAt": "2026-05-18T00:24:44.697Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
