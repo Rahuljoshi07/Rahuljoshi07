@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779142141412,
+      "repository": "ArmDeveloperEcosystem/arm-learning-paths",
+      "issueTitle": "Potential Bug in SVE_MATCH learning path",
+      "url": "https://github.com/ArmDeveloperEcosystem/arm-learning-paths/issues/3302",
+      "createdAt": "2026-05-18T22:09:01.413Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
