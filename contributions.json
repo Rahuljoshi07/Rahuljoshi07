@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779092495430,
+      "repository": "openeuropa/bootstrap-component-library",
+      "issueTitle": "Blockquote footer color contrast issue",
+      "url": "https://github.com/openeuropa/bootstrap-component-library/issues/707",
+      "createdAt": "2026-05-18T08:21:35.430Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
