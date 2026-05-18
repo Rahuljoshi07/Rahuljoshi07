@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1779101327254,
-      "repository": "nextcloud/photos",
-      "issueTitle": "Can't add shared photos to an album (`Can't add file to album, only files from USER can be added`)",
-      "url": "https://github.com/nextcloud/photos/issues/2095",
-      "createdAt": "2026-05-18T10:48:47.254Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
