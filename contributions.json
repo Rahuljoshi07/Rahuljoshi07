@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779073733349,
+      "repository": "usnistgov/pyproject2conda",
+      "issueTitle": "0.23.0: AttributeError: 'CondaRequirement' object has no attribute 'channel' in _iter_parts",
+      "url": "https://github.com/usnistgov/pyproject2conda/issues/94",
+      "createdAt": "2026-05-18T03:08:53.349Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
