@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779125073213,
+      "repository": "ArnaudLigny/Open-New-Tab-After-Current-Tab",
+      "issueTitle": "When opening a link from a pinned tab, behaviour changes !",
+      "url": "https://github.com/ArnaudLigny/Open-New-Tab-After-Current-Tab/issues/49",
+      "createdAt": "2026-05-18T17:24:33.214Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
