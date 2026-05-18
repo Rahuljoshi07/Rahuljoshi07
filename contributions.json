@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779084083982,
+      "repository": "SandeepVashishtha/Eventra",
+      "issueTitle": "[GSSoC26] bug: Notification and Privacy settings not persisted to localStorage in Settings page",
+      "url": "https://github.com/SandeepVashishtha/Eventra/issues/1126",
+      "createdAt": "2026-05-18T06:01:23.982Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
