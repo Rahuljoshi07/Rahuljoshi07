@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779097538849,
+      "repository": "ttimpe/homebridge-midea",
+      "issueTitle": "Errormessage „ (homebridge-midea] [MideaPlatform.ts] sendCommand (Intent: [upda teValues](fetch \"$ 790 : 401 params?) attempt 1/2) returned error invalidsession“ and re-login failed",
+      "url": "https://github.com/ttimpe/homebridge-midea/issues/60",
+      "createdAt": "2026-05-18T09:45:38.849Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
