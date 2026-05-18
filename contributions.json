@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779099533437,
+      "repository": "GeneGulanesJr/LaPis",
+      "issueTitle": "Issue: Code Indexer Fails to Extract Symbols from Codebase",
+      "url": "https://github.com/GeneGulanesJr/LaPis/issues/110",
+      "createdAt": "2026-05-18T10:18:53.437Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
