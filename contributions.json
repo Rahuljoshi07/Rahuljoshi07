@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779134760117,
+      "repository": "4xmen/x-tree-select",
+      "issueTitle": "Demo of current release (2.1.3 stable) doesn't work",
+      "url": "https://github.com/4xmen/x-tree-select/issues/10",
+      "createdAt": "2026-05-18T20:06:00.117Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
