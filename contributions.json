@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779089122763,
+      "repository": "EryXenX/GoatBot-Pro",
+      "issueTitle": "[Bug]: Potential Memory Leak / High Memory Usage on Startup",
+      "url": "https://github.com/EryXenX/GoatBot-Pro/issues/2",
+      "createdAt": "2026-05-18T07:25:22.763Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
