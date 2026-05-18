@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779144378601,
+      "repository": "bvis/aegis-hass",
+      "issueTitle": "[Bug]: GCM register request attempt 1 out of 2 has failed with Error=PHONE_REGISTRATION_ERROR",
+      "url": "https://github.com/bvis/aegis-hass/issues/155",
+      "createdAt": "2026-05-18T22:46:18.601Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
