@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779063757594,
+      "repository": "jkitchin/discopt",
+      "issueTitle": "Gas network MINLP: 500x slower than GAMS/DICOPT on 19-variable benchmark",
+      "url": "https://github.com/jkitchin/discopt/issues/15",
+      "createdAt": "2026-05-18T00:22:37.594Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
