@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779103705672,
+      "repository": "testomatio/check-tests",
+      "issueTitle": "Batch sending data on big filesystems",
+      "url": "https://github.com/testomatio/check-tests/issues/260",
+      "createdAt": "2026-05-18T11:28:25.672Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
