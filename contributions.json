@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779113525212,
+      "repository": "valory-xyz/trader",
+      "issueTitle": "Polymarket redeem: data-API failure crashes the whole agent (unhandled error response)",
+      "url": "https://github.com/valory-xyz/trader/issues/970",
+      "createdAt": "2026-05-18T14:12:05.212Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
