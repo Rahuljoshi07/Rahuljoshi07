@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779141684600,
+      "repository": "new-usemame/Calibre-Web-NextGen",
+      "issueTitle": "[bug] when loading page during ingress",
+      "url": "https://github.com/new-usemame/Calibre-Web-NextGen/issues/234",
+      "createdAt": "2026-05-18T22:01:24.600Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
