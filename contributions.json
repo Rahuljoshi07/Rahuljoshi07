@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779112385338,
+      "repository": "Premshaw23/Learnova",
+      "issueTitle": "[Bug] Face attendance broken due to useLabels API mismatch",
+      "url": "https://github.com/Premshaw23/Learnova/issues/114",
+      "createdAt": "2026-05-18T13:53:05.338Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
