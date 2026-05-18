@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779115387214,
+      "repository": "Checkora/Checkora",
+      "issueTitle": "bug: get_ai_move() called twice in ai_move view — double engine computation",
+      "url": "https://github.com/Checkora/Checkora/issues/814",
+      "createdAt": "2026-05-18T14:43:07.214Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
