@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779091939824,
+      "repository": "ain/smartbanner.js",
+      "issueTitle": "Node v26 support",
+      "url": "https://github.com/ain/smartbanner.js/issues/980",
+      "createdAt": "2026-05-18T08:12:19.824Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
