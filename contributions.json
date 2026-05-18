@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779136454935,
+      "repository": "get-convex/convex-py",
+      "issueTitle": "Client doesn't surface auth errors",
+      "url": "https://github.com/get-convex/convex-py/issues/5",
+      "createdAt": "2026-05-18T20:34:14.935Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
