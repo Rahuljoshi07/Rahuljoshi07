@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1779134464268,
-      "repository": "bitfocus/companion-module-etc-eos",
-      "issueTitle": "[BUG] CIE_X / CIE_Y variables not updating due to case mismatch in ParamMap lookup",
-      "url": "https://github.com/bitfocus/companion-module-etc-eos/issues/96",
-      "createdAt": "2026-05-18T20:01:04.268Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
