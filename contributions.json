@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779069418671,
+      "repository": "aws-samples/toolkit-for-aws-transfer-family",
+      "issueTitle": "[Enhancement]: Log the LDAP server hostname as INFO instead of DEBUG",
+      "url": "https://github.com/aws-samples/toolkit-for-aws-transfer-family/issues/26",
+      "createdAt": "2026-05-18T01:56:58.671Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
