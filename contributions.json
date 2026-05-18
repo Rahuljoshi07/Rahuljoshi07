@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779075268842,
+      "repository": "rjwalters/kicad-tools",
+      "issueTitle": "Generic stub-endpoint collision detection in pin_nets loops (LDOBlock, GateDriverBlock, DebugConnector)",
+      "url": "https://github.com/rjwalters/kicad-tools/issues/3015",
+      "createdAt": "2026-05-18T03:34:28.842Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
