@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779071338745,
+      "repository": "eldertek/duplicatefinder",
+      "issueTitle": "[Bug]: a LOT of update in oc_filecache due to duplicatefinder?",
+      "url": "https://github.com/eldertek/duplicatefinder/issues/164",
+      "createdAt": "2026-05-18T02:28:58.745Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
