@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779126226558,
+      "repository": "skills-il/tax-and-finance",
+      "issueTitle": "[Bug]: israeli-tax-returns: missing Section 17(11) CPA-fee deduction and field 011/012 havraa-reduction handling",
+      "url": "https://github.com/skills-il/tax-and-finance/issues/12",
+      "createdAt": "2026-05-18T17:43:46.558Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
