@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779137830238,
+      "repository": "OvertureMaps/explore-site",
+      "issueTitle": "Fix presentation of bathymetry layer in Explorer",
+      "url": "https://github.com/OvertureMaps/explore-site/issues/307",
+      "createdAt": "2026-05-18T20:57:10.238Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
