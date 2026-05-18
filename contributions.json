@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779141084058,
+      "repository": "Draver93/ff-studio",
+      "issueTitle": "[BUG] Change asset names and add checksum in releases",
+      "url": "https://github.com/Draver93/ff-studio/issues/24",
+      "createdAt": "2026-05-18T21:51:24.059Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
