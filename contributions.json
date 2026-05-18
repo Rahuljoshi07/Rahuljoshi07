@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779141204247,
+      "repository": "miratcan/Resmin",
+      "issueTitle": "Store user avatars in MinIO instead of local disk",
+      "url": "https://github.com/miratcan/Resmin/issues/243",
+      "createdAt": "2026-05-18T21:53:24.247Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
