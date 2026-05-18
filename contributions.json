@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779118522593,
+      "repository": "subzeroid/aiograpi-rest",
+      "issueTitle": "[BUG] invalid literal for int() with base 10",
+      "url": "https://github.com/subzeroid/aiograpi-rest/issues/75",
+      "createdAt": "2026-05-18T15:35:22.593Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
