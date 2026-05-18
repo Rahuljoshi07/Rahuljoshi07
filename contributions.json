@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779089506414,
+      "repository": "terminators2025/RealMirror",
+      "issueTitle": "libomni.syntheticdata.plugin errors",
+      "url": "https://github.com/terminators2025/RealMirror/issues/5",
+      "createdAt": "2026-05-18T07:31:46.414Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
