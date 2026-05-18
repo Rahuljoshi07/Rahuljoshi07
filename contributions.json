@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779069254859,
+      "repository": "Nextdoor/kingpin",
+      "issueTitle": "fix(actors): Tornado-to-asyncio conversion audit — tracking issue",
+      "url": "https://github.com/Nextdoor/kingpin/issues/685",
+      "createdAt": "2026-05-18T01:54:14.859Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
