@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779110179853,
+      "repository": "DataDog/dd-trace-js",
+      "issueTitle": "Logs/traces correlation missing since v2.2.1",
+      "url": "https://github.com/DataDog/dd-trace-js/issues/1908",
+      "createdAt": "2026-05-18T13:16:19.853Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
