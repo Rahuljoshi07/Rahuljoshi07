@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779074310502,
+      "repository": "Arcadia-1/ADCToolbox",
+      "issueTitle": "Fix Nyquist-bin handling in spectrum analysis",
+      "url": "https://github.com/Arcadia-1/ADCToolbox/issues/17",
+      "createdAt": "2026-05-18T03:18:30.503Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
