@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779079609240,
+      "repository": "auth0/auth0-python",
+      "issueTitle": "Pydantic validation error when calling user.get",
+      "url": "https://github.com/auth0/auth0-python/issues/826",
+      "createdAt": "2026-05-18T04:46:49.240Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
