@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779086993443,
+      "repository": "minorua/Qgis2threejs",
+      "issueTitle": "THREE.WebGLRenderer: Error creating WebGL context. - GPU acceleration and WebGL are disabled within QWebEngineView in QGIS 4.0",
+      "url": "https://github.com/minorua/Qgis2threejs/issues/413",
+      "createdAt": "2026-05-18T06:49:53.443Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
