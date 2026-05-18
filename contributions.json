@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779065180923,
+      "repository": "python-zeroconf/python-zeroconf",
+      "issueTitle": "Some tests are still slow",
+      "url": "https://github.com/python-zeroconf/python-zeroconf/issues/1707",
+      "createdAt": "2026-05-18T00:46:20.923Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
