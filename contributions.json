@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779114279481,
-      "repository": "cap-js/change-tracking",
-      "issueTitle": "Bug in combination of changelog with roles and restrictions with filter conditions",
-      "url": "https://github.com/cap-js/change-tracking/issues/312",
-      "createdAt": "2026-05-18T14:24:39.481Z",
+      "id": 1779114322569,
+      "repository": "CrowdStrike/falcon-mcp",
+      "issueTitle": "[Bug]: IDP error responses leak raw Pydantic FieldInfo objects in search_criteria",
+      "url": "https://github.com/CrowdStrike/falcon-mcp/issues/384",
+      "createdAt": "2026-05-18T14:25:22.569Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
