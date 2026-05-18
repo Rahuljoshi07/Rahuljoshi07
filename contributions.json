@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779072113677,
+      "repository": "Allen-xxa/ComfyNexus",
+      "issueTitle": "图片保存bug",
+      "url": "https://github.com/Allen-xxa/ComfyNexus/issues/43",
+      "createdAt": "2026-05-18T02:41:53.677Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
