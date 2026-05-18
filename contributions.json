@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779063485697,
+      "repository": "alxmrs/xarray-sql",
+      "issueTitle": "xarray-sql is slow to install with `uv` in a new python environment on an M1 mac",
+      "url": "https://github.com/alxmrs/xarray-sql/issues/163",
+      "createdAt": "2026-05-18T00:18:05.697Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
