@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779092329643,
+      "repository": "miratcan/Resmin",
+      "issueTitle": "Waitlist onay ve davetiye gönderim mekanizması eksik",
+      "url": "https://github.com/miratcan/Resmin/issues/241",
+      "createdAt": "2026-05-18T08:18:49.643Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for django..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
