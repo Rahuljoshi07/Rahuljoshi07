@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779107294173,
+      "repository": "alltheplaces/alltheplaces",
+      "issueTitle": "AutoZone spider has incorrect opening hours format",
+      "url": "https://github.com/alltheplaces/alltheplaces/issues/16285",
+      "createdAt": "2026-05-18T12:28:14.173Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
