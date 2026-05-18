@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779111177934,
+      "repository": "DataDog/dd-trace-js",
+      "issueTitle": "Initialising the tracer before the logger is imported is unergonomic",
+      "url": "https://github.com/DataDog/dd-trace-js/issues/8524",
+      "createdAt": "2026-05-18T13:32:57.934Z",
+      "type": "comment",
+      "content": "Adding TypeScript could improve code quality and maintainability. This suggestion is particularly re..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
