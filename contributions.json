@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779132595314,
+      "repository": "hartwork/wnpp.debian.net",
+      "issueTitle": "RSS feed flooded by duplicate entries",
+      "url": "https://github.com/hartwork/wnpp.debian.net/issues/1685",
+      "createdAt": "2026-05-18T19:29:55.314Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
