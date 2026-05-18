@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779082547249,
+      "repository": "new-usemame/Calibre-Web-NextGen",
+      "issueTitle": "Consistent error messages in the OPDS feed",
+      "url": "https://github.com/new-usemame/Calibre-Web-NextGen/issues/224",
+      "createdAt": "2026-05-18T05:35:47.249Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
