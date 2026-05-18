@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779088766746,
+      "repository": "Entropy-Increase-Team/endfield-plugin",
+      "issueTitle": "[BUG] 蓝图库内无1.2相关素材数据",
+      "url": "https://github.com/Entropy-Increase-Team/endfield-plugin/issues/63",
+      "createdAt": "2026-05-18T07:19:26.746Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
