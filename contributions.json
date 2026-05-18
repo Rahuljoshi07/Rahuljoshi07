@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779135253887,
+      "repository": "service-mesh-patterns/service-mesh-patterns",
+      "issueTitle": "[CI] Create CI job to have an automated check that fails if a pattern file has an issue, model data missing, etc. (mesheryctl or etc.)",
+      "url": "https://github.com/service-mesh-patterns/service-mesh-patterns/issues/111",
+      "createdAt": "2026-05-18T20:14:13.887Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
