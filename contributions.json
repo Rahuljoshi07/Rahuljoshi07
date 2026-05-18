@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779063576322,
+      "repository": "axonops/axonops-workbench",
+      "issueTitle": "bug: local cluster always created with 1 node regardless of node count slider",
+      "url": "https://github.com/axonops/axonops-workbench/issues/1076",
+      "createdAt": "2026-05-18T00:19:36.322Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
