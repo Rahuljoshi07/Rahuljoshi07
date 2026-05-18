@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779144871370,
+      "repository": "rjwalters/kicad-tools",
+      "issueTitle": "boards/external/softstart: 39 ERC errors + 5 single_pad_net DRC errors (netlist drift?)",
+      "url": "https://github.com/rjwalters/kicad-tools/issues/3050",
+      "createdAt": "2026-05-18T22:54:31.370Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
