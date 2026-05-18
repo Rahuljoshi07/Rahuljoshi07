@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779145489143,
+      "repository": "rustic-ai/rustic-ui-components",
+      "issueTitle": "Update MUI to v9.0.1",
+      "url": "https://github.com/rustic-ai/rustic-ui-components/issues/428",
+      "createdAt": "2026-05-18T23:04:49.143Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
