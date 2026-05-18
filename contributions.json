@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779132727235,
+      "repository": "NAL-i5K/GFF3toolkit",
+      "issueTitle": "gff3_QC error",
+      "url": "https://github.com/NAL-i5K/GFF3toolkit/issues/137",
+      "createdAt": "2026-05-18T19:32:07.235Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
