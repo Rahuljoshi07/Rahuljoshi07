@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779134196747,
+      "repository": "RocketChat/EmbeddedChat",
+      "issueTitle": "bug : Forwarded Message UI to match Rocket.Chat native UI",
+      "url": "https://github.com/RocketChat/EmbeddedChat/issues/1294",
+      "createdAt": "2026-05-18T19:56:36.747Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
