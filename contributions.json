@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779146943827,
+      "repository": "nwg-piotr/nwg-panel",
+      "issueTitle": "[BUG] Increasing the display scaling factor does not update nwg-panel",
+      "url": "https://github.com/nwg-piotr/nwg-panel/issues/421",
+      "createdAt": "2026-05-18T23:29:03.827Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
