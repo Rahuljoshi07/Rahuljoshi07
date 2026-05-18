@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779098702052,
+      "repository": "Supervertaler/Supervertaler-Workbench",
+      "issueTitle": "[Perf] Profile grid-related slowness and decide between optimisation, PyO3, or rewrite",
+      "url": "https://github.com/Supervertaler/Supervertaler-Workbench/issues/203",
+      "createdAt": "2026-05-18T10:05:02.052Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
