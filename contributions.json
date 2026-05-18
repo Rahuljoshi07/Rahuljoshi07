@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779116780434,
+      "id": 1779116815300,
       "repository": "natancabral/pdfkit-table",
-      "issueTitle": "Typescript errors even in the most basic examples",
-      "url": "https://github.com/natancabral/pdfkit-table/issues/67",
-      "createdAt": "2026-05-18T15:06:20.434Z",
+      "issueTitle": "Tables overwrite previous tables on the same page",
+      "url": "https://github.com/natancabral/pdfkit-table/issues/38",
+      "createdAt": "2026-05-18T15:06:55.300Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
