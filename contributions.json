@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779097997667,
+      "repository": "kraken-tech/django-subatomic",
+      "issueTitle": "`durable` fails pytest tests without a database",
+      "url": "https://github.com/kraken-tech/django-subatomic/issues/126",
+      "createdAt": "2026-05-18T09:53:17.667Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
