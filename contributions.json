@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779095396180,
+      "repository": "lsfusion-solutions/mycompany",
+      "issueTitle": "Possible Build and Dependency Issues in pom.xml",
+      "url": "https://github.com/lsfusion-solutions/mycompany/issues/311",
+      "createdAt": "2026-05-18T09:09:56.180Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
