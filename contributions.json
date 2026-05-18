@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779109177908,
+      "repository": "geophysics-ubonn/reda",
+      "issueTitle": "TDIP-Class does not support importing from Syscal text files",
+      "url": "https://github.com/geophysics-ubonn/reda/issues/78",
+      "createdAt": "2026-05-18T12:59:37.908Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
