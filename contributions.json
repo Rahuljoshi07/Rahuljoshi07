@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779185421359,
+      "id": 1779185456947,
       "repository": "carbon-design-system/ibm-products",
       "issueTitle": "[a11y]: PageHeader - Multiple Accessibility Issues Across All Variants",
       "url": "https://github.com/carbon-design-system/ibm-products/issues/9417",
-      "createdAt": "2026-05-19T10:10:21.359Z",
+      "createdAt": "2026-05-19T10:10:56.947Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
