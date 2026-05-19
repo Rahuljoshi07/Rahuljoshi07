@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779182553727,
+      "repository": "Positronic-Robotics/positronic",
+      "issueTitle": "LocalDataset._scan_timestamps computes first_ts as max-of-mins, collapsing duration_ns",
+      "url": "https://github.com/Positronic-Robotics/positronic/issues/395",
+      "createdAt": "2026-05-19T09:22:33.727Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
