@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779179501904,
+      "repository": "hiero-ledger/hiero-sdk-js",
+      "issueTitle": "FreezeTransaction.endTime is deprecated: what do we use instead",
+      "url": "https://github.com/hiero-ledger/hiero-sdk-js/issues/4067",
+      "createdAt": "2026-05-19T08:31:41.904Z",
+      "type": "comment",
+      "content": "Adding TypeScript could improve code quality and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
