@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779175289628,
+      "repository": "CS-SI/eodag",
+      "issueTitle": "JSONDecodeError when searching LANDSAT_C2L1 on USGS provider",
+      "url": "https://github.com/CS-SI/eodag/issues/2191",
+      "createdAt": "2026-05-19T07:21:29.628Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
