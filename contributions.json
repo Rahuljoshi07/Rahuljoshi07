@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779170631612,
+      "repository": "duncanlang/Letterboxd-Extras",
+      "issueTitle": "[BUG] Budget and Box Office get added to details header",
+      "url": "https://github.com/duncanlang/Letterboxd-Extras/issues/87",
+      "createdAt": "2026-05-19T06:03:51.612Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
