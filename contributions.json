@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779209169187,
+      "repository": "synesenom/ran",
+      "issueTitle": "Investigate NoncentralBeta/NoncentralF tail precision under Anderson-Darling GoF",
+      "url": "https://github.com/synesenom/ran/issues/267",
+      "createdAt": "2026-05-19T16:46:09.187Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
