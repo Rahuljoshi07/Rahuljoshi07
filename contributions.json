@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779177950503,
+      "repository": "fastify/csrf-protection",
+      "issueTitle": "Bug with sessionPlugin in NestJS with Fastify",
+      "url": "https://github.com/fastify/csrf-protection/issues/135",
+      "createdAt": "2026-05-19T08:05:50.503Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
