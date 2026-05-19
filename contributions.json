@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779188196194,
+      "repository": "Hyundai-Kia-Connect/hyundai_kia_connect_api",
+      "issueTitle": "An unexpected error occurred: 'NoneType' object has no attribute 'group'",
+      "url": "https://github.com/Hyundai-Kia-Connect/hyundai_kia_connect_api/issues/954",
+      "createdAt": "2026-05-19T10:56:36.194Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
