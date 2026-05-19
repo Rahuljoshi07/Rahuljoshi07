@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779194848105,
+      "repository": "saeyslab/harpy",
+      "issueTitle": "harpy.im.pixel_clustering_preprocess with scale_factors error",
+      "url": "https://github.com/saeyslab/harpy/issues/243",
+      "createdAt": "2026-05-19T12:47:28.105Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
