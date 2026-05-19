@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779205234918,
+      "id": 1779205267021,
       "repository": "remotestorage/armadietto",
       "issueTitle": "Classic (Monolithic) server: When restoring a backup for a non-existent document ,Armadietto responds with a 412 conflict status",
       "url": "https://github.com/remotestorage/armadietto/issues/164",
-      "createdAt": "2026-05-19T15:40:34.918Z",
+      "createdAt": "2026-05-19T15:41:07.021Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
