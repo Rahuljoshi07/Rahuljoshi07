@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779183314724,
+      "repository": "hotosm/tasking-manager",
+      "issueTitle": "[BUG] Statistics on project level are not loading, giving an error page",
+      "url": "https://github.com/hotosm/tasking-manager/issues/7245",
+      "createdAt": "2026-05-19T09:35:14.724Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
