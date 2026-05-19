@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779181130343,
+      "repository": "parthbuilds-community/FitMart",
+      "issueTitle": "Enhancement: Graceful error handling for Gemini AI Chatbot API limits",
+      "url": "https://github.com/parthbuilds-community/FitMart/issues/365",
+      "createdAt": "2026-05-19T08:58:50.344Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
