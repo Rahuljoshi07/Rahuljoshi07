@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779181726221,
+      "repository": "inmanta/inmanta-core",
+      "issueTitle": "Scheduler stops receiving new version notifications after DB disconnect due to stale `tid_endpoint_to_session` entry",
+      "url": "https://github.com/inmanta/inmanta-core/issues/10351",
+      "createdAt": "2026-05-19T09:08:46.221Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
