@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779182413954,
+      "id": 1779182446223,
       "repository": "jodal/comics",
       "issueTitle": "Feed generation has multiple errors",
       "url": "https://github.com/jodal/comics/issues/611",
-      "createdAt": "2026-05-19T09:20:13.954Z",
+      "createdAt": "2026-05-19T09:20:46.223Z",
       "type": "comment",
-      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+      "content": "Unicode encoding issues might be causing this problem. This suggestion is particularly relevant for ..."
     }
   ],
   "stats": {
