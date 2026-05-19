@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779184455627,
+      "repository": "open-risk/openNPL",
+      "issueTitle": "Fixtures are missing Non Property Collateral Protection Identifier",
+      "url": "https://github.com/open-risk/openNPL/issues/23",
+      "createdAt": "2026-05-19T09:54:15.627Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
