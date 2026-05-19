@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779157008097,
+      "repository": "nextcloud/text",
+      "issueTitle": "[Bug]: Folder description (readme.md) is cut off (not shown completely) in web view",
+      "url": "https://github.com/nextcloud/text/issues/8524",
+      "createdAt": "2026-05-19T02:16:48.097Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
