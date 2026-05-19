@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779213084069,
+      "repository": "rroy676/Stationarr",
+      "issueTitle": "Bugs",
+      "url": "https://github.com/rroy676/Stationarr/issues/4",
+      "createdAt": "2026-05-19T17:51:24.069Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
