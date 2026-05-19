@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779183582049,
+      "repository": "im-anishraj/arnio",
+      "issueTitle": "Bug: fill_nulls permits lossy and non-finite numeric fill values",
+      "url": "https://github.com/im-anishraj/arnio/issues/713",
+      "createdAt": "2026-05-19T09:39:42.049Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
