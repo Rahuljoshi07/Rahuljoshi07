@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779234099139,
+      "repository": "aws-deadline/deadline-cloud-for-maya",
+      "issueTitle": "Bug: V-Ray ignores submitted resolution when VFB resolution scale (imgOpt_ratio) is below 100%",
+      "url": "https://github.com/aws-deadline/deadline-cloud-for-maya/issues/386",
+      "createdAt": "2026-05-19T23:41:39.139Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
