@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779231662050,
+      "repository": "chrisguttandin/midi-json-parser",
+      "issueTitle": "ReferenceError: Worker is not defined",
+      "url": "https://github.com/chrisguttandin/midi-json-parser/issues/389",
+      "createdAt": "2026-05-19T23:01:02.050Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
