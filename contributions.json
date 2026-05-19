@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779221288709,
+      "repository": "steam-bell-92/python-mini-project",
+      "issueTitle": "🐛 [Bug]: Color Palette Suggestor Fails to Generate Output🎨",
+      "url": "https://github.com/steam-bell-92/python-mini-project/issues/459",
+      "createdAt": "2026-05-19T20:08:08.710Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
