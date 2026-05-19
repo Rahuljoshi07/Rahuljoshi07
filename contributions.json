@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779196587503,
+      "repository": "dynawo/dyn-grid-compliance-verification",
+      "issueTitle": "Performance tests failing in the examples (Sheet I10)",
+      "url": "https://github.com/dynawo/dyn-grid-compliance-verification/issues/31",
+      "createdAt": "2026-05-19T13:16:27.503Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
