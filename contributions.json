@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779225725504,
+      "repository": "sonichi/sutando",
+      "issueTitle": "CI: doc-only PRs sit forever in BLOCKED because workflow path filter excludes their changes [priority/medium]",
+      "url": "https://github.com/sonichi/sutando/issues/900",
+      "createdAt": "2026-05-19T21:22:05.504Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
