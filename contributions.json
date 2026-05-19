@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779205483397,
+      "id": 1779205520041,
       "repository": "veliovgroup/mail-time",
       "issueTitle": "Error handler for bad transport",
       "url": "https://github.com/veliovgroup/mail-time/issues/44",
-      "createdAt": "2026-05-19T15:44:43.397Z",
+      "createdAt": "2026-05-19T15:45:20.041Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
