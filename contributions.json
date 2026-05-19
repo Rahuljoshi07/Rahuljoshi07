@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779177860482,
+      "repository": "MarcSerraPeralta/surface-sim",
+      "issueTitle": "`noiseless` is still not working perfectly",
+      "url": "https://github.com/MarcSerraPeralta/surface-sim/issues/443",
+      "createdAt": "2026-05-19T08:04:20.482Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
