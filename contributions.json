@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779160376509,
+      "repository": "GrottoCenter/grottocenter-api",
+      "issueTitle": "bug(api): [23503] tdocument - FK violation j_document_entrance on permanent delete",
+      "url": "https://github.com/GrottoCenter/grottocenter-api/issues/1596",
+      "createdAt": "2026-05-19T03:12:56.509Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
