@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779200934659,
+      "repository": "Parachord/parachord",
+      "issueTitle": "Sync: cancel-on-focus fires on Parachord-internal interactions, starves sync during active use",
+      "url": "https://github.com/Parachord/parachord/issues/821",
+      "createdAt": "2026-05-19T14:28:54.659Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
