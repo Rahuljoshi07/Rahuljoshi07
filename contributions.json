@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779230715207,
+      "id": 1779230751318,
       "repository": "Refloow/Steam-Card-Bot-PRO",
-      "issueTitle": "Bot for increasing badge count of advanced users",
-      "url": "https://github.com/Refloow/Steam-Card-Bot-PRO/issues/47",
-      "createdAt": "2026-05-19T22:45:15.207Z",
+      "issueTitle": "Improving calculating badges [Bot crashes if there is too many]",
+      "url": "https://github.com/Refloow/Steam-Card-Bot-PRO/issues/36",
+      "createdAt": "2026-05-19T22:45:51.318Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
