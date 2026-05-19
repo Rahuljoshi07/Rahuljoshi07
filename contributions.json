@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779179708991,
+      "repository": "swayam03275/SkillsSphere-AI",
+      "issueTitle": "[bug] analyzeResume swallows all errors with a generic 500 response — failures are invisible",
+      "url": "https://github.com/swayam03275/SkillsSphere-AI/issues/407",
+      "createdAt": "2026-05-19T08:35:08.991Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
