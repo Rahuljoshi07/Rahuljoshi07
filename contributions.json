@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779148858731,
+      "repository": "adobe/spectrum-design-data",
+      "issueTitle": "feat(sdk): promote SPEC-017 from Warning to Error at spec 2.0.0",
+      "url": "https://github.com/adobe/spectrum-design-data/issues/953",
+      "createdAt": "2026-05-19T00:00:58.731Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
