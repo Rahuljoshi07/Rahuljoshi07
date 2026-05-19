@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779211898566,
+      "repository": "oidlabs-com/Lexoid",
+      "issueTitle": "Test fails on test_parsing_docx_type",
+      "url": "https://github.com/oidlabs-com/Lexoid/issues/177",
+      "createdAt": "2026-05-19T17:31:38.566Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
