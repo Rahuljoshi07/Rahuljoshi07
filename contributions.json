@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779214134045,
+      "repository": "Bluetooth-Devices/bthome-ble",
+      "issueTitle": "CI is missing python 3.14",
+      "url": "https://github.com/Bluetooth-Devices/bthome-ble/issues/362",
+      "createdAt": "2026-05-19T18:08:54.045Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
