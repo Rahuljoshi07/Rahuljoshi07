@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779226082625,
+      "repository": "aio-libs/propcache",
+      "issueTitle": "Performance regression in yarl CI is real",
+      "url": "https://github.com/aio-libs/propcache/issues/244",
+      "createdAt": "2026-05-19T21:28:02.625Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
