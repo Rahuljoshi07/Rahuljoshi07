@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779156725220,
+      "repository": "browniebroke/django-codemod",
+      "issueTitle": "Codemodder: remove `context` argument of `Field.from_db_value()` and `Expression.convert_value()`",
+      "url": "https://github.com/browniebroke/django-codemod/issues/116",
+      "createdAt": "2026-05-19T02:12:05.220Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
