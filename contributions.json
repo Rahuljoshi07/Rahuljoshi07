@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1779202217641,
+      "id": 1779202260408,
       "repository": "magiccode1412/magicpush",
       "issueTitle": "Fix Bug: 登录死锁",
       "url": "https://github.com/magiccode1412/magicpush/issues/15",
-      "createdAt": "2026-05-19T14:50:17.642Z",
+      "createdAt": "2026-05-19T14:51:00.408Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
