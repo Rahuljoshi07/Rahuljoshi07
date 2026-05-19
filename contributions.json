@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779194212544,
+      "repository": "witsa/synapps",
+      "issueTitle": "Dégradation des performances lors de la prévisualisation",
+      "url": "https://github.com/witsa/synapps/issues/995",
+      "createdAt": "2026-05-19T12:36:52.544Z",
+      "type": "comment",
+      "content": "Debouncing or throttling might help with frequent event handlers. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
