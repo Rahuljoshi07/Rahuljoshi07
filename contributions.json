@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779176612288,
+      "repository": "SandeepVashishtha/Eventra",
+      "issueTitle": "UI Bug: Inconsistent Text Color on Dark Background (Readability Issue)",
+      "url": "https://github.com/SandeepVashishtha/Eventra/issues/954",
+      "createdAt": "2026-05-19T07:43:32.288Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
