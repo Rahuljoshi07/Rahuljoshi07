@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779197753676,
+      "repository": "astropy/pyvo",
+      "issueTitle": "web_profile_server is not properly shutting down in astropy.vo.samp",
+      "url": "https://github.com/astropy/pyvo/issues/738",
+      "createdAt": "2026-05-19T13:35:53.676Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
