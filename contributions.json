@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779200710959,
+      "repository": "sdiehl/usolver",
+      "issueTitle": "OSError: Readme file does not exist: README.md",
+      "url": "https://github.com/sdiehl/usolver/issues/5",
+      "createdAt": "2026-05-19T14:25:10.959Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
