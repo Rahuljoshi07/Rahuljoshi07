@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779222724581,
+      "repository": "oweitman/ioBroker.squeezeboxrpc",
+      "issueTitle": "Please consider fixing issues detected by repository checker",
+      "url": "https://github.com/oweitman/ioBroker.squeezeboxrpc/issues/248",
+      "createdAt": "2026-05-19T20:32:04.581Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
