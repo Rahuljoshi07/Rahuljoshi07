@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779216538393,
+      "repository": "Kaggle/kaggle-environments",
+      "issueTitle": "[BUG] there is bug with scrolling in [CRAWL] environment[ON CALL NEEDED]",
+      "url": "https://github.com/Kaggle/kaggle-environments/issues/1113",
+      "createdAt": "2026-05-19T18:48:58.393Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
