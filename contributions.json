@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779151998671,
+      "repository": "deepfounder-ai/castor",
+      "issueTitle": "skill_creator: AST-level fix for code outside if/elif branches",
+      "url": "https://github.com/deepfounder-ai/castor/issues/14",
+      "createdAt": "2026-05-19T00:53:18.671Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
