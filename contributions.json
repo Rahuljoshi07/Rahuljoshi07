@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779195090218,
+      "repository": "BenPru/luxtronik",
+      "issueTitle": "Hassfest error: [MANIFEST] Domain does not match dir name",
+      "url": "https://github.com/BenPru/luxtronik/issues/455",
+      "createdAt": "2026-05-19T12:51:30.218Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
