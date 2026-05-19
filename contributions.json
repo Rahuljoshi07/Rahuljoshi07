@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779193566857,
+      "repository": "adamlui/chatgpt-widescreen",
+      "issueTitle": "Wider Chatbar exceeds main bounds on skinny ChatGPT",
+      "url": "https://github.com/adamlui/chatgpt-widescreen/issues/308",
+      "createdAt": "2026-05-19T12:26:06.857Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
