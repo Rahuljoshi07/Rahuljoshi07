@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779235060795,
+      "repository": "Minato-mba/web-apps",
+      "issueTitle": "[Chest-UI-Editor-BETA] - Drag selection is buggy when you scroll down in the UI Layout (Bug)",
+      "url": "https://github.com/Minato-mba/web-apps/issues/31",
+      "createdAt": "2026-05-19T23:57:40.795Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
