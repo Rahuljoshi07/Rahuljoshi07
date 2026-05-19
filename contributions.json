@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779164312575,
+      "repository": "uhop/stream-fork",
+      "issueTitle": "stream-fork still not delivering error event from underlying streams",
+      "url": "https://github.com/uhop/stream-fork/issues/3",
+      "createdAt": "2026-05-19T04:18:32.575Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
