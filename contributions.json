@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779152807215,
+      "repository": "nextcloud/forms",
+      "issueTitle": "Cron cleanup: Did expect one result but found none",
+      "url": "https://github.com/nextcloud/forms/issues/3061",
+      "createdAt": "2026-05-19T01:06:47.215Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
