@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779195241947,
+      "repository": "netinvent/npbackup",
+      "issueTitle": "snapshots sometimes do not fit in window",
+      "url": "https://github.com/netinvent/npbackup/issues/211",
+      "createdAt": "2026-05-19T12:54:01.947Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
