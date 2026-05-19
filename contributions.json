@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779217356717,
+      "repository": "kid-sid/claude-spellbook",
+      "issueTitle": "fix: security description overlaps with auth on implementing authentication",
+      "url": "https://github.com/kid-sid/claude-spellbook/issues/26",
+      "createdAt": "2026-05-19T19:02:36.717Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
