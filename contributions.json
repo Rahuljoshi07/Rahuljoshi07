@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779195594339,
+      "repository": "im-anishraj/arnio",
+      "issueTitle": "Memory Safety: to_numpy_* bindings risk use-after-free via dangling GC references",
+      "url": "https://github.com/im-anishraj/arnio/issues/28",
+      "createdAt": "2026-05-19T12:59:54.339Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
