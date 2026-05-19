@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779219910194,
+      "repository": "joklee/ha_daikin_altherma4_modbus",
+      "issueTitle": "Weird temperature display for heating",
+      "url": "https://github.com/joklee/ha_daikin_altherma4_modbus/issues/56",
+      "createdAt": "2026-05-19T19:45:10.194Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
