@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1779196111004,
-      "repository": "pimcore/admin-ui-classic-bundle",
-      "issueTitle": "[Bug]: UserController::getAction() causes OOM fatal error when user has many object references",
-      "url": "https://github.com/pimcore/admin-ui-classic-bundle/issues/1106",
-      "createdAt": "2026-05-19T13:08:31.004Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
