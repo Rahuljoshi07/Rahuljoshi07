@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779218061866,
+      "repository": "iTwin/bis-schemas",
+      "issueTitle": "Units schema version 01.00.10 release",
+      "url": "https://github.com/iTwin/bis-schemas/issues/704",
+      "createdAt": "2026-05-19T19:14:21.866Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
