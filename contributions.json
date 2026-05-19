@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779149797343,
+      "repository": "djust-org/djust",
+      "issueTitle": "VDOM diff mis-paths SetText patches when 2+ {{ }} text values change in one update",
+      "url": "https://github.com/djust-org/djust/issues/1529",
+      "createdAt": "2026-05-19T00:16:37.343Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
