@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779161754906,
+      "repository": "adobe/helix-deploy",
+      "issueTitle": "[aws] ci deploy branch changes existing function configuration",
+      "url": "https://github.com/adobe/helix-deploy/issues/594",
+      "createdAt": "2026-05-19T03:35:54.906Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
