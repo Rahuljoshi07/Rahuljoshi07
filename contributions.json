@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779177031223,
+      "repository": "Angrido/Lidarr-YouTube-Downloader",
+      "issueTitle": "[Bug] Import doesnt work",
+      "url": "https://github.com/Angrido/Lidarr-YouTube-Downloader/issues/50",
+      "createdAt": "2026-05-19T07:50:31.223Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
