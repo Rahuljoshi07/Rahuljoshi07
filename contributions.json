@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779217796747,
+      "repository": "OpenJobDescription/openjd-model-for-python",
+      "issueTitle": "Bug: some failure tests are wrongly set up and not testing intended behavior",
+      "url": "https://github.com/OpenJobDescription/openjd-model-for-python/issues/266",
+      "createdAt": "2026-05-19T19:09:56.747Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
