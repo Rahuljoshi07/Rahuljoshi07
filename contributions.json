@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779175080463,
+      "repository": "intel/torch-xpu-ops",
+      "issueTitle": "[Bug Skip] test_ts2ep_convert_quantized_model1 fails on XPU: TS->EP allclose mismatch on quantized model",
+      "url": "https://github.com/intel/torch-xpu-ops/issues/3531",
+      "createdAt": "2026-05-19T07:18:00.463Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
