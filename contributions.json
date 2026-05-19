@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779163445543,
+      "repository": "apache/cordova-plugin-screen-orientation",
+      "issueTitle": "Calling .unlock() causes screen to rotate twice in iOS",
+      "url": "https://github.com/apache/cordova-plugin-screen-orientation/issues/128",
+      "createdAt": "2026-05-19T04:04:05.543Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
