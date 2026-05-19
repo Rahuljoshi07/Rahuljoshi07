@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779165260312,
+      "repository": "agentscope-ai/agentscope-runtime",
+      "issueTitle": "[Bug] AGUIAdapterUtils does not distinguish MessageType.REASONING from MessageType.MESSAGE, causing thinking content to be emitted as regular TEXT_MESSAGE_* events in AG-UI stream",
+      "url": "https://github.com/agentscope-ai/agentscope-runtime/issues/504",
+      "createdAt": "2026-05-19T04:34:20.312Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
