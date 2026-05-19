@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779156550980,
+      "repository": "langchain-ai/langsmith-sdk",
+      "issueTitle": "Issue: Unable to read run using `langsmith_client.read_run(run_id)`",
+      "url": "https://github.com/langchain-ai/langsmith-sdk/issues/2872",
+      "createdAt": "2026-05-19T02:09:10.980Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
