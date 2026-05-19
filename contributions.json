@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779170836729,
+      "repository": "activeloopai/hivemind",
+      "issueTitle": "Embeddings silently disabled for upgrading users (HIVEMIND_EMBEDDINGS unset → enabled=false)",
+      "url": "https://github.com/activeloopai/hivemind/issues/184",
+      "createdAt": "2026-05-19T06:07:16.729Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
