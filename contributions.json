@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779212633166,
+      "repository": "rroy676/Stationarr",
+      "issueTitle": "Improve performance for very large playlists",
+      "url": "https://github.com/rroy676/Stationarr/issues/5",
+      "createdAt": "2026-05-19T17:43:53.166Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
