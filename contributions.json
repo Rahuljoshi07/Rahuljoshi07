@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779270771486,
+      "repository": "Eshajha19/agri",
+      "issueTitle": "[Bug]: Firestore Listener Memory Leak from Improper Auth Listener Cleanup",
+      "url": "https://github.com/Eshajha19/agri/issues/846",
+      "createdAt": "2026-05-20T09:52:51.486Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
