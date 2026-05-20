@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779244572201,
+      "repository": "stevezau/media_preview_generator",
+      "issueTitle": "[Bug]: Two Plex Instance, only runs on one (re-opened — original #244 deleted)",
+      "url": "https://github.com/stevezau/media_preview_generator/issues/246",
+      "createdAt": "2026-05-20T02:36:12.201Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
