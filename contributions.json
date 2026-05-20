@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779263466887,
+      "repository": "model-bakers/model_bakery",
+      "issueTitle": "Using `related` with reverse M2M relation leads to AttributeError: 'ManyRelatedManager' object has no attribute 'field'",
+      "url": "https://github.com/model-bakers/model_bakery/issues/601",
+      "createdAt": "2026-05-20T07:51:06.887Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
