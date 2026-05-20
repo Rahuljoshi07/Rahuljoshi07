@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779265124070,
+      "repository": "openwrt/asu",
+      "issueTitle": "ext4_allocate_best_fit_partial: failed to allocate 28 blocks, out of space?",
+      "url": "https://github.com/openwrt/asu/issues/1382",
+      "createdAt": "2026-05-20T08:18:44.070Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
