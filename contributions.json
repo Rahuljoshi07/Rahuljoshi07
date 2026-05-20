@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779262587989,
+      "repository": "NewLifeX/NewLife.Cube",
+      "issueTitle": "LoginInfo页遇到Code已过期时跳回登录页",
+      "url": "https://github.com/NewLifeX/NewLife.Cube/issues/116",
+      "createdAt": "2026-05-20T07:36:27.989Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
