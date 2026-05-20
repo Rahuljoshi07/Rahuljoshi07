@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779284538957,
+      "repository": "taskcluster/taskcluster",
+      "issueTitle": "Investigate checkWorker Timeouts - https://mozilla.sentry.io/issues/7417554128/?project=6459385",
+      "url": "https://github.com/taskcluster/taskcluster/issues/8664",
+      "createdAt": "2026-05-20T13:42:18.957Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
