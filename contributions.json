@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779317556749,
+      "repository": "growthxai/output",
+      "issueTitle": "[Bug]: Default blog review workflow fails in the evaluation step giving Invalid schema error for OpenAI provider",
+      "url": "https://github.com/growthxai/output/issues/201",
+      "createdAt": "2026-05-20T22:52:36.749Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
