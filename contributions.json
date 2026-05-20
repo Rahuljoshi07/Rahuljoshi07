@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779274558908,
+      "repository": "thinson/RS-PaperClaw",
+      "issueTitle": "[20260519] Learning-Accelerated Optimization-based Trajectory Planning for Cooperative Aerial-Ground Handover Missions",
+      "url": "https://github.com/thinson/RS-PaperClaw/issues/580",
+      "createdAt": "2026-05-20T10:55:58.908Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
