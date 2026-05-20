@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779272705656,
+      "repository": "scylladb/nodejs-rs-driver",
+      "issueTitle": "Test for built-in retry policies",
+      "url": "https://github.com/scylladb/nodejs-rs-driver/issues/385",
+      "createdAt": "2026-05-20T10:25:05.656Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
