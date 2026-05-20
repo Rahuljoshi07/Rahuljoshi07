@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779297140839,
+      "repository": "MuckRock/muckrock",
+      "issueTitle": "'PaymentInfoTask' object has no attribute 'get_absolute_url'",
+      "url": "https://github.com/MuckRock/muckrock/issues/2175",
+      "createdAt": "2026-05-20T17:12:20.839Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
