@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779299852756,
+      "repository": "DjangoCRM/django-crm",
+      "issueTitle": "Create unit tests for the file_upload view",
+      "url": "https://github.com/DjangoCRM/django-crm/issues/410",
+      "createdAt": "2026-05-20T17:57:32.756Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
