@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779282891417,
+      "repository": "cap-js/mcp-server",
+      "issueTitle": "FAILED: Repository Linter Issue: rl-assigned_teams",
+      "url": "https://github.com/cap-js/mcp-server/issues/112",
+      "createdAt": "2026-05-20T13:14:51.417Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
