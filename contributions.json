@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779240034959,
+      "repository": "kiyohken2000/feedown",
+      "issueTitle": "bug: Refresh fails for users with many feeds due to Cloudflare Workers subrequest limit (50/invocation)",
+      "url": "https://github.com/kiyohken2000/feedown/issues/2",
+      "createdAt": "2026-05-20T01:20:34.959Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
