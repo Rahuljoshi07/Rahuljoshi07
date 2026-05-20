@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779264875728,
+      "repository": "AzureAD/microsoft-authentication-library-for-python",
+      "issueTitle": "[Bug] Broker token acquisition fails on macOS (Intel) with error code -42000",
+      "url": "https://github.com/AzureAD/microsoft-authentication-library-for-python/issues/908",
+      "createdAt": "2026-05-20T08:14:35.728Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
