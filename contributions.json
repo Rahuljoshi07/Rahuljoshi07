@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779249530329,
+      "repository": "mikey0000/PyMammotion",
+      "issueTitle": "AttributeError: 'GenerateRouteInformation' object has no attribute 'zone_hashs'. Did you mean: 'one_hashs'?",
+      "url": "https://github.com/mikey0000/PyMammotion/issues/146",
+      "createdAt": "2026-05-20T03:58:50.329Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
