@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1779264087877,
-      "repository": "g3w-suite/g3w-admin",
-      "issueTitle": "For Elasticsearch indexing features, only the latest indexed project is retained, while previously indexed projects are deleted.",
-      "url": "https://github.com/g3w-suite/g3w-admin/issues/1359",
-      "createdAt": "2026-05-20T08:01:27.878Z",
-      "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
