@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779302523550,
+      "repository": "Angrido/Lidarr-YouTube-Downloader",
+      "issueTitle": "BUG: Audio quality is sometimes really bad",
+      "url": "https://github.com/Angrido/Lidarr-YouTube-Downloader/issues/58",
+      "createdAt": "2026-05-20T18:42:03.550Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
