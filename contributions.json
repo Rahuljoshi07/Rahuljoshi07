@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779237404643,
+      "repository": "anurag3407/career-pilot",
+      "issueTitle": "[Feature]: Add React Error Boundary to Prevent App Crashes on API Failures",
+      "url": "https://github.com/anurag3407/career-pilot/issues/1011",
+      "createdAt": "2026-05-20T00:36:44.644Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
