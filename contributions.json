@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779261629244,
+      "repository": "gardenlinux/gardenlinux",
+      "issueTitle": "Update `containerd` for 1877.18 to `2.2`",
+      "url": "https://github.com/gardenlinux/gardenlinux/issues/4792",
+      "createdAt": "2026-05-20T07:20:29.244Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
