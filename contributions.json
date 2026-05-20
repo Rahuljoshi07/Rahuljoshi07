@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779280013704,
+      "repository": "meta-pytorch/autoparallel",
+      "issueTitle": "AutoParallel fails on HF transformers Llama-3 / Qwen-2.5: AssertionError in scaled_dot_product_cudnn_attention strategy",
+      "url": "https://github.com/meta-pytorch/autoparallel/issues/456",
+      "createdAt": "2026-05-20T12:26:53.704Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
