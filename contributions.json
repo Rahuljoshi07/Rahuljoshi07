@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779315617216,
-      "repository": "meshery/qa",
-      "issueTitle": "Replace existing navigation menu",
-      "url": "https://github.com/meshery/qa/issues/51",
-      "createdAt": "2026-05-20T22:20:17.216Z",
+      "id": 1779315654405,
+      "repository": "SharkPool-SP/SharkPools-Extensions",
+      "issueTitle": "[Bug] [My Blocks+]: Cross-sprite Custom Block references break if the caller is imported before the provider",
+      "url": "https://github.com/SharkPool-SP/SharkPools-Extensions/issues/265",
+      "createdAt": "2026-05-20T22:20:54.405Z",
       "type": "comment",
-      "content": "Adding TypeScript could improve code quality and maintainability. (Suggested by Rahul Joshi)..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
