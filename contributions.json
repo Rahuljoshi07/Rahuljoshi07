@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779262891718,
+      "repository": "khemssharma/StudyNotion",
+      "issueTitle": "verifyPayment is crashing on new payment object.",
+      "url": "https://github.com/khemssharma/StudyNotion/issues/34",
+      "createdAt": "2026-05-20T07:41:31.718Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
