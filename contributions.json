@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779307315584,
+      "repository": "w3c/wcag2ict",
+      "issueTitle": "AG WG Review: 3.3.6 Error Prevention (All) (Level AAA) WCAG2ICT Guidance",
+      "url": "https://github.com/w3c/wcag2ict/issues/929",
+      "createdAt": "2026-05-20T20:01:55.584Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
