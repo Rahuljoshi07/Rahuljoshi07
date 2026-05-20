@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779305461819,
+      "repository": "scheilch/opencloudtouch",
+      "issueTitle": "[Bug]: Multi-room zone drops 3rd/4th device — only 2 of 4 speakers remain in group",
+      "url": "https://github.com/scheilch/opencloudtouch/issues/203",
+      "createdAt": "2026-05-20T19:31:01.819Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
