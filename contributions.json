@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779254997434,
+      "repository": "0-Shimanshu/ADIUVARE",
+      "issueTitle": "[Bug]: load_config() raises AttributeError on non-dict YAML instead of a validation error",
+      "url": "https://github.com/0-Shimanshu/ADIUVARE/issues/107",
+      "createdAt": "2026-05-20T05:29:57.434Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
