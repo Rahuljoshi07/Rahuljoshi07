@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779286677349,
+      "id": 1779286721532,
       "repository": "ilia-pluzhnikov/claude-code-statusline",
       "issueTitle": "Optional debug log for swallowed errors",
       "url": "https://github.com/ilia-pluzhnikov/claude-code-statusline/issues/3",
-      "createdAt": "2026-05-20T14:17:57.349Z",
+      "createdAt": "2026-05-20T14:18:41.532Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
