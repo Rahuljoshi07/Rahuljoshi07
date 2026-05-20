@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779288897174,
+      "repository": "calkit/calkit",
+      "issueTitle": "Stages currently not invalidated based upon env var deps",
+      "url": "https://github.com/calkit/calkit/issues/898",
+      "createdAt": "2026-05-20T14:54:57.174Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
