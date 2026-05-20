@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779274049911,
+      "repository": "rainx0r/metaworld-algorithms",
+      "issueTitle": "Possible memory leak when running examples/multi_task/mtsac_mt10.py",
+      "url": "https://github.com/rainx0r/metaworld-algorithms/issues/8",
+      "createdAt": "2026-05-20T10:47:29.911Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
