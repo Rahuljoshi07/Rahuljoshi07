@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779287554823,
+      "repository": "DenisovAV/flutter_gemma",
+      "issueTitle": "[Bug] FastVLM-0.5B outputs raw <start_of_*> tokens on macOS (M4) — text and vision both broken",
+      "url": "https://github.com/DenisovAV/flutter_gemma/issues/268",
+      "createdAt": "2026-05-20T14:32:34.823Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
