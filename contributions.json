@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779313462256,
+      "repository": "llnl/FPChecker",
+      "issueTitle": "fpc-create-report giving 'input' error",
+      "url": "https://github.com/llnl/FPChecker/issues/14",
+      "createdAt": "2026-05-20T21:44:22.256Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
