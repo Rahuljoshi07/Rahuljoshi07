@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779392952773,
+      "id": 1779392989839,
       "repository": "Premshaw23/Learnova",
-      "issueTitle": "[Bug]: Camera stream memory leak on FaceRecognizer component unmount",
-      "url": "https://github.com/Premshaw23/Learnova/issues/387",
-      "createdAt": "2026-05-21T19:49:12.773Z",
+      "issueTitle": "[Bug]: Fatal client-side crash on root layout due to ReferenceError: onAuthStateChanged is not defined",
+      "url": "https://github.com/Premshaw23/Learnova/issues/388",
+      "createdAt": "2026-05-21T19:49:49.839Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
