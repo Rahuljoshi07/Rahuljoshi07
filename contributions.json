@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779378480243,
-      "repository": "lstein/PhotoMapAI",
-      "issueTitle": "ERROR: Package 'photomapai' requires a different Python: 3.14.2 not in '<3.14,>=3.10'",
-      "url": "https://github.com/lstein/PhotoMapAI/issues/207",
-      "createdAt": "2026-05-21T15:48:00.243Z",
+      "id": 1779378517761,
+      "repository": "AIDrive-Research/Custom-Algorithm",
+      "issueTitle": "Error for pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/",
+      "url": "https://github.com/AIDrive-Research/Custom-Algorithm/issues/1",
+      "createdAt": "2026-05-21T15:48:37.761Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
   ],
   "stats": {
