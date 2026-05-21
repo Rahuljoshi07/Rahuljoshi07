@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779337220808,
+      "repository": "Premshaw23/Learnova",
+      "issueTitle": "[Bug]: Fixed-top navbar overlapping main page layout and causing visual truncation on scroll",
+      "url": "https://github.com/Premshaw23/Learnova/issues/238",
+      "createdAt": "2026-05-21T04:20:20.808Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
