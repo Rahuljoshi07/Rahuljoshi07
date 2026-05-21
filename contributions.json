@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779398333110,
+      "repository": "lo-th/phy",
+      "issueTitle": "Loading GLB models with phy.load() fails with 'Unexpected token '<'' error in Vue+Vite",
+      "url": "https://github.com/lo-th/phy/issues/71",
+      "createdAt": "2026-05-21T21:18:53.110Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
