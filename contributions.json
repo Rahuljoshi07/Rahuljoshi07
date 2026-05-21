@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1779352447451,
-      "repository": "scidsg/hushline",
-      "issueTitle": "Improve homepage performance by lazy-loading tab data",
-      "url": "https://github.com/scidsg/hushline/issues/1994",
-      "createdAt": "2026-05-21T08:34:07.451Z",
-      "type": "comment",
-      "content": "Consider caching with functools.lru_cache for expensive computations. This suggestion is particularl..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
