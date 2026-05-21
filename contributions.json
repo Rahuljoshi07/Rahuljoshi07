@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779372347130,
+      "repository": "ZapprTV/channels",
+      "issueTitle": "1 - BBC One: Errore formato/server (403 Forbidden)",
+      "url": "https://github.com/ZapprTV/channels/issues/794",
+      "createdAt": "2026-05-21T14:05:47.130Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
