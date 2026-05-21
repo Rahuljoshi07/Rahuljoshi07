@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779360029718,
+      "repository": "Doorman11991/smallcode",
+      "issueTitle": "bugs to install and run",
+      "url": "https://github.com/Doorman11991/smallcode/issues/24",
+      "createdAt": "2026-05-21T10:40:29.718Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
