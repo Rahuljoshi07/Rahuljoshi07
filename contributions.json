@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1779372256198,
-      "repository": "Zerogiven-OpenWRT-Packages/luci-app-podman",
-      "issueTitle": "Syntax error in `podman_http.uc` causes rpcd module to fail loading (`RPCError -32000: Object not found`)",
-      "url": "https://github.com/Zerogiven-OpenWRT-Packages/luci-app-podman/issues/21",
-      "createdAt": "2026-05-21T14:04:16.198Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
