@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779360875657,
+      "repository": "iTwin/bis-schemas",
+      "issueTitle": "Clarify guidelines for shared data organization in the DictionaryModel",
+      "url": "https://github.com/iTwin/bis-schemas/issues/700",
+      "createdAt": "2026-05-21T10:54:35.657Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
