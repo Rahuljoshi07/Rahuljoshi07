@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779402374289,
+      "repository": "bitwisecook/tcl-lsp",
+      "issueTitle": "Bug: new feature, \"Support settings.json at the folder level\" is incomplete",
+      "url": "https://github.com/bitwisecook/tcl-lsp/issues/407",
+      "createdAt": "2026-05-21T22:26:14.289Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
