@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779346250733,
+      "repository": "ROCm/ATOM",
+      "issueTitle": "[Issue]: readme example fails on gfx1201 (R9700)",
+      "url": "https://github.com/ROCm/ATOM/issues/867",
+      "createdAt": "2026-05-21T06:50:50.733Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
