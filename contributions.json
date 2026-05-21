@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779357817480,
+      "repository": "inspect-js/is-equal",
+      "issueTitle": "Comparing objects with cycles",
+      "url": "https://github.com/inspect-js/is-equal/issues/21",
+      "createdAt": "2026-05-21T10:03:37.480Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
