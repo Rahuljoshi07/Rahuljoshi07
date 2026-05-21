@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779333004811,
+      "repository": "new-usemame/Calibre-Web-NextGen",
+      "issueTitle": "[bug] Metadata Search issues with apostrophes",
+      "url": "https://github.com/new-usemame/Calibre-Web-NextGen/issues/217",
+      "createdAt": "2026-05-21T03:10:04.811Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
