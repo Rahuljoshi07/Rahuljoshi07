@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779385499476,
+      "repository": "ietf-tools/datatracker",
+      "issueTitle": "Add a celery task to generate BibXML files for RFC subseries",
+      "url": "https://github.com/ietf-tools/datatracker/issues/10914",
+      "createdAt": "2026-05-21T17:44:59.476Z",
+      "type": "comment",
+      "content": "Using f-strings would make string formatting more readable. This suggestion is particularly relevant..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
