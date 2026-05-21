@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1779365796204,
-      "repository": "retracesoftware/retracesoftware",
-      "issueTitle": "fakeredis replay loses _thread.lock ownership during Condition notify",
-      "url": "https://github.com/retracesoftware/retracesoftware/issues/23",
-      "createdAt": "2026-05-21T12:16:36.205Z",
+      "id": 1779365833010,
+      "repository": "meta-pytorch/autoparallel",
+      "issueTitle": "AutoParallel fails on HF transformers Llama-3 / Qwen-2.5: AssertionError in scaled_dot_product_cudnn_attention strategy",
+      "url": "https://github.com/meta-pytorch/autoparallel/issues/456",
+      "createdAt": "2026-05-21T12:17:13.010Z",
       "type": "comment",
       "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
     }
