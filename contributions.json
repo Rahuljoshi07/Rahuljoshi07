@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779326946157,
+      "repository": "JeffCurless/argon-oneup",
+      "issueTitle": "Hardcoded VOLTAGE_NOW and TEMP return fake values",
+      "url": "https://github.com/JeffCurless/argon-oneup/issues/44",
+      "createdAt": "2026-05-21T01:29:06.157Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
