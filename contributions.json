@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779328536656,
+      "repository": "Teyliu/PVZF-Translation",
+      "issueTitle": "\u001b[38;2;205;92;92m[17:35:10.203] plthook_open error: Cannot get module C:\\Users\\User\\OneDrive\\Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»\\PvZ.Fusion.3.6.1.Multi-lang.Release.by.Blooms\\Game Files\\UnityPlayer.dll: Не найден указанный модуль. \u001b[0m",
+      "url": "https://github.com/Teyliu/PVZF-Translation/issues/155",
+      "createdAt": "2026-05-21T01:55:36.656Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
