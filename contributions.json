@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779379436276,
+      "repository": "TuYv/pounce",
+      "issueTitle": "[Bug] 在github new issue页面调起浮窗，输入光标不在pounce的浮窗内，而是在issue填写的框里",
+      "url": "https://github.com/TuYv/pounce/issues/8",
+      "createdAt": "2026-05-21T16:03:56.276Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
