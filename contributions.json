@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779338654631,
+      "repository": "Premshaw23/Learnova",
+      "issueTitle": "[Bug]:Unable to Login and signup",
+      "url": "https://github.com/Premshaw23/Learnova/issues/242",
+      "createdAt": "2026-05-21T04:44:14.631Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
