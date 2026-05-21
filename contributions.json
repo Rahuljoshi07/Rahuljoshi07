@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779376427312,
+      "id": 1779376489367,
       "repository": "openyida/openyida",
-      "issueTitle": "[Feature] 提供 Decimal/高精度数值计算工具函数",
-      "url": "https://github.com/openyida/openyida/issues/370",
-      "createdAt": "2026-05-21T15:13:47.312Z",
+      "issueTitle": "bug: 宜搭原生报表多指标(多yField/多KPI)渲染触发页面死循环",
+      "url": "https://github.com/openyida/openyida/issues/354",
+      "createdAt": "2026-05-21T15:14:49.368Z",
       "type": "comment",
-      "content": "Adding TypeScript could prevent type-related bugs and improve maintainability. (Suggested by Rahul J..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
     }
   ],
   "stats": {
