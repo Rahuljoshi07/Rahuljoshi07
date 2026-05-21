@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779402684633,
+      "repository": "new-usemame/Calibre-Web-NextGen",
+      "issueTitle": "[bug] UI bugs in books list page",
+      "url": "https://github.com/new-usemame/Calibre-Web-NextGen/issues/283",
+      "createdAt": "2026-05-21T22:31:24.633Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
