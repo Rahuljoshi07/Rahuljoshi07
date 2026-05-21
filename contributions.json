@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779341230741,
+      "repository": "OpenCTI-Platform/connectors",
+      "issueTitle": "[MISP] Connector loops indefinitely on first run when \"import_from_date\" is not set (defaults to \"now\")",
+      "url": "https://github.com/OpenCTI-Platform/connectors/issues/6412",
+      "createdAt": "2026-05-21T05:27:10.741Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
