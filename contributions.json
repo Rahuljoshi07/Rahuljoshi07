@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779407043180,
+      "repository": "rcriii42/DHLLDV",
+      "issueTitle": "Miscalculated Cvi for very fine material",
+      "url": "https://github.com/rcriii42/DHLLDV/issues/28",
+      "createdAt": "2026-05-21T23:44:03.180Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
