@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779334834199,
+      "repository": "alibaba/ROCK",
+      "issueTitle": "[Bug] Admin service throws \"connection is closed\" after DB restart",
+      "url": "https://github.com/alibaba/ROCK/issues/986",
+      "createdAt": "2026-05-21T03:40:34.199Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
