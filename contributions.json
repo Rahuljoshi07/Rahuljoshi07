@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779352521457,
+      "repository": "alphagov/frontend",
+      "issueTitle": "Styles for Flexible Sections still refer to old section names and have mild margin issues",
+      "url": "https://github.com/alphagov/frontend/issues/5554",
+      "createdAt": "2026-05-21T08:35:21.457Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
