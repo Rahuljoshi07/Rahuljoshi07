@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779384061004,
+      "repository": "eLifePathways/sciencebeam-parser",
+      "issueTitle": "Bug Report: Incorrect Title Extraction for Documents with Front Pages",
+      "url": "https://github.com/eLifePathways/sciencebeam-parser/issues/561",
+      "createdAt": "2026-05-21T17:21:01.004Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
