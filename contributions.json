@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779380177877,
+      "repository": "ocadotechnology/rapid-router",
+      "issueTitle": "Some text is too small and not positioned properly in Python commands popup in level 16",
+      "url": "https://github.com/ocadotechnology/rapid-router/issues/1785",
+      "createdAt": "2026-05-21T16:16:17.877Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
