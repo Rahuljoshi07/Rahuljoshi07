@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779381518557,
+      "repository": "dnotitia/akb",
+      "issueTitle": "MCP akb_search omits user_id / vault read check, risking unauthorized search results",
+      "url": "https://github.com/dnotitia/akb/issues/66",
+      "createdAt": "2026-05-21T16:38:38.557Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
