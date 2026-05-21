@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779327924644,
+      "repository": "pallets-eco/flask-security",
+      "issueTitle": "Possible open-redirect due to hostname mangling - 5.8.1",
+      "url": "https://github.com/pallets-eco/flask-security/issues/1222",
+      "createdAt": "2026-05-21T01:45:24.644Z",
+      "type": "comment",
+      "content": "Consider using virtual environments for dependency management. This suggestion is particularly relev..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
