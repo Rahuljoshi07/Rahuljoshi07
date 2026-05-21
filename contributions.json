@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779397863973,
+      "id": 1779397903333,
       "repository": "HarperFast/harper",
       "issueTitle": "JS heap OOM causing SIGSEGV during traffic spikes on production nodes",
       "url": "https://github.com/HarperFast/harper/issues/704",
-      "createdAt": "2026-05-21T21:11:03.974Z",
+      "createdAt": "2026-05-21T21:11:43.333Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
