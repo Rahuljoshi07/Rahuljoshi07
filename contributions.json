@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779337730115,
+      "repository": "nextcloud/appstore",
+      "issueTitle": "Unable to login through github.Says server internal error(500)",
+      "url": "https://github.com/nextcloud/appstore/issues/1485",
+      "createdAt": "2026-05-21T04:28:50.115Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
