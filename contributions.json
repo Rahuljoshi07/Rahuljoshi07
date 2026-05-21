@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779337411530,
+      "id": 1779337450801,
       "repository": "SandeepVashishtha/Eventra",
       "issueTitle": "UI Bug: Extra colon appears beside the Dark mode toggle in navbar",
       "url": "https://github.com/SandeepVashishtha/Eventra/issues/1275",
-      "createdAt": "2026-05-21T04:23:31.530Z",
+      "createdAt": "2026-05-21T04:24:10.801Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
