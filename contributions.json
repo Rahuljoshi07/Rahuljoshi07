@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779331640714,
+      "id": 1779331680060,
       "repository": "andrewitsover/midnight",
       "issueTitle": "NOT NULL constraint error on default fields",
       "url": "https://github.com/andrewitsover/midnight/issues/14",
-      "createdAt": "2026-05-21T02:47:20.714Z",
+      "createdAt": "2026-05-21T02:48:00.060Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
