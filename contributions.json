@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779340581024,
+      "repository": "woopstar/hsem",
+      "issueTitle": "bug(selector): _validate_candidate silently accepts soc == 0.0 despite floor > 0",
+      "url": "https://github.com/woopstar/hsem/issues/456",
+      "createdAt": "2026-05-21T05:16:21.024Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
