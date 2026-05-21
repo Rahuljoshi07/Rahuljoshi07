@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779346878310,
+      "repository": "flowintel/flowintel",
+      "issueTitle": "REST API error when adding deadline time to case creation request",
+      "url": "https://github.com/flowintel/flowintel/issues/178",
+      "createdAt": "2026-05-21T07:01:18.310Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
