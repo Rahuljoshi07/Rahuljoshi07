@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779381617577,
+      "repository": "NickCharlie/astrbot_plugin_self_learning",
+      "issueTitle": "[Bug] 无法正确识别嵌入跟重排序模型",
+      "url": "https://github.com/NickCharlie/astrbot_plugin_self_learning/issues/109",
+      "createdAt": "2026-05-21T16:40:17.578Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
