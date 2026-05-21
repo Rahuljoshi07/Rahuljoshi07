@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779387013962,
+      "repository": "esphome/device-builder",
+      "issueTitle": "[Bug] Inconsistent UI regarding “...”",
+      "url": "https://github.com/esphome/device-builder/issues/927",
+      "createdAt": "2026-05-21T18:10:13.962Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
