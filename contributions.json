@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779381772932,
+      "repository": "Suhani1234-5/TourEase",
+      "issueTitle": "[UX]No \"back to top\" button on long distance iternary",
+      "url": "https://github.com/Suhani1234-5/TourEase/issues/242",
+      "createdAt": "2026-05-21T16:42:52.933Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
