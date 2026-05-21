@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779367203321,
+      "repository": "F3-Nation/f3-nation-slack-bot",
+      "issueTitle": "Q Lineup Message not showing on mobile but shows on desktop",
+      "url": "https://github.com/F3-Nation/f3-nation-slack-bot/issues/62",
+      "createdAt": "2026-05-21T12:40:03.321Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
