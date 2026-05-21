@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1779347580073,
-      "repository": "sleep2agi/agent-network",
-      "issueTitle": "[bug][commhub] /api/task 接受发往已死 alias 的 dispatch — HTTP 200 + 孤儿 inbox 行（静默丢失）",
-      "url": "https://github.com/sleep2agi/agent-network/issues/172",
-      "createdAt": "2026-05-21T07:13:00.073Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
