@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779340149932,
+      "repository": "talmolab/sleap-io",
+      "issueTitle": "Defensive read_metadata: raise helpful error when metadata JSON attribute is missing",
+      "url": "https://github.com/talmolab/sleap-io/issues/429",
+      "createdAt": "2026-05-21T05:09:09.933Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
