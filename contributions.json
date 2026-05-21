@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779346483503,
+      "repository": "formvuelate/formvuelate",
+      "issueTitle": "Vue warns \"provide() can only be used inside setup()\" when calling \"useSchemaForm()\" inside a function.",
+      "url": "https://github.com/formvuelate/formvuelate/issues/302",
+      "createdAt": "2026-05-21T06:54:43.503Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
