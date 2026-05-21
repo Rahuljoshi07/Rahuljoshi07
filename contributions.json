@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779331404380,
+      "repository": "zzzhhh1/2024-",
+      "issueTitle": "ERROR: unauthenticated",
+      "url": "https://github.com/zzzhhh1/2024-/issues/1",
+      "createdAt": "2026-05-21T02:43:24.380Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
