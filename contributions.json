@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779344719450,
+      "repository": "Premshaw23/Learnova",
+      "issueTitle": "[Bug]: Architectural Pattern Violation in Interview Progress Validation",
+      "url": "https://github.com/Premshaw23/Learnova/issues/254",
+      "createdAt": "2026-05-21T06:25:19.450Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
