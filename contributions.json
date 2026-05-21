@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779335268476,
+      "repository": "hw-native-sys/pypto",
+      "issueTitle": "[Pass Bug] pl.spmd inside if/else branches triggers SSA scope error after ConvertToSSA",
+      "url": "https://github.com/hw-native-sys/pypto/issues/1439",
+      "createdAt": "2026-05-21T03:47:48.476Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
