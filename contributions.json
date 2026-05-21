@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779386636213,
+      "repository": "UniversityOfHelsinkiCS/palaute",
+      "issueTitle": "Remove double scroll bar",
+      "url": "https://github.com/UniversityOfHelsinkiCS/palaute/issues/1655",
+      "createdAt": "2026-05-21T18:03:56.213Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
