@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779353249953,
+      "repository": "minislively/fooks",
+      "issueTitle": "Fix Node 20 status artifacts JSON output failure",
+      "url": "https://github.com/minislively/fooks/issues/1012",
+      "createdAt": "2026-05-21T08:47:29.953Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
