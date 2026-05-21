@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779347292464,
+      "repository": "exelearning/exelearning",
+      "issueTitle": "SCORM 1.2 export uses unloadPage() on onunload, causing Chrome Permissions Policy violation and lost scores in Moodle",
+      "url": "https://github.com/exelearning/exelearning/issues/1831",
+      "createdAt": "2026-05-21T07:08:12.464Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
