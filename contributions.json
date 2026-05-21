@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779339641226,
+      "repository": "wimglenn/johnnydep",
+      "issueTitle": "DistributionNotFound error",
+      "url": "https://github.com/wimglenn/johnnydep/issues/139",
+      "createdAt": "2026-05-21T05:00:41.226Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
