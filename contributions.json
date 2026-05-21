@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779400033475,
+      "repository": "djust-org/djust",
+      "issueTitle": "feat(bug-capture): iter B — read-only replay viewer at /__djust__/replay/<blob>",
+      "url": "https://github.com/djust-org/djust/issues/1562",
+      "createdAt": "2026-05-21T21:47:13.475Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
