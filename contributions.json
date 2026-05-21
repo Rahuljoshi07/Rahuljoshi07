@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779334231366,
+      "repository": "ItsVikasA/Innovision-Open-Source",
+      "issueTitle": "UI Bug: Card alignment disturbed on dropdown interaction",
+      "url": "https://github.com/ItsVikasA/Innovision-Open-Source/issues/326",
+      "createdAt": "2026-05-21T03:30:31.366Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
