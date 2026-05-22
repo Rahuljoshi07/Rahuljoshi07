@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779456100315,
+      "repository": "Premshaw23/Learnova",
+      "issueTitle": "[Bug]: Hover effect causes poor text visibility on feature and team cards",
+      "url": "https://github.com/Premshaw23/Learnova/issues/496",
+      "createdAt": "2026-05-22T13:21:40.316Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
