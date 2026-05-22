@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779494267348,
+      "repository": "jazzband/django-eav2",
+      "issueTitle": "Django 6",
+      "url": "https://github.com/jazzband/django-eav2/issues/845",
+      "createdAt": "2026-05-22T23:57:47.348Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
