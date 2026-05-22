@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779426018593,
+      "id": 1779426052973,
       "repository": "SandeepVashishtha/Eventra",
-      "issueTitle": "Bug : FAQ cards overlap each other while scrolling",
-      "url": "https://github.com/SandeepVashishtha/Eventra/issues/1432",
-      "createdAt": "2026-05-22T05:00:18.593Z",
+      "issueTitle": "[Performance Bug] markAllAsRead sends excessive parallel notification requests instead of using bulk API endpoint",
+      "url": "https://github.com/SandeepVashishtha/Eventra/issues/1430",
+      "createdAt": "2026-05-22T05:00:52.974Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
