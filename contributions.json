@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779491949795,
+      "repository": "materialyzeai/matgl",
+      "issueTitle": "Bug: SoftExponential.forward branches on a learnable parameter, breaking autograd and producing NaNs",
+      "url": "https://github.com/materialyzeai/matgl/issues/788",
+      "createdAt": "2026-05-22T23:19:09.795Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
