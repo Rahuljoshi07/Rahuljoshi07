@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779472695544,
+      "repository": "jupyterhub/oauthenticator",
+      "issueTitle": "\"Unable to decode id token\" on singleuser pod spawn with short-lived id tokens",
+      "url": "https://github.com/jupyterhub/oauthenticator/issues/793",
+      "createdAt": "2026-05-22T17:58:15.545Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
