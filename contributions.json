@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779474242150,
+      "repository": "Xunil99/ha-bosch-ebike",
+      "issueTitle": "2D, 3D and satellite maps display errors",
+      "url": "https://github.com/Xunil99/ha-bosch-ebike/issues/20",
+      "createdAt": "2026-05-22T18:24:02.150Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
