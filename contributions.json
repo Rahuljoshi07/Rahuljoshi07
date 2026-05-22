@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779441247041,
+      "id": 1779441293207,
       "repository": "pierreb-devkit/Node",
-      "issueTitle": "fix(billing): refine retryWithBackoff — short-circuit on non-transient Stripe errors + restore err.stack",
-      "url": "https://github.com/pierreb-devkit/Node/issues/3691",
-      "createdAt": "2026-05-22T09:14:07.041Z",
+      "issueTitle": "test(billing): use fake timers in checkout webhook unit test (slow regression)",
+      "url": "https://github.com/pierreb-devkit/Node/issues/3689",
+      "createdAt": "2026-05-22T09:14:53.207Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "Debouncing or throttling might help with frequent event handlers. This suggestion is particularly re..."
     }
   ],
   "stats": {
