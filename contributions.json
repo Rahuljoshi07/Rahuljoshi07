@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779469869214,
+      "repository": "mariadb-corporation/mariadb-connector-nodejs",
+      "issueTitle": "Regression \"Right-hand side of 'instanceof' is not callable\" on `error instanceof SqlError`",
+      "url": "https://github.com/mariadb-corporation/mariadb-connector-nodejs/issues/348",
+      "createdAt": "2026-05-22T17:11:09.214Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
