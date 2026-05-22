@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779488084516,
-      "repository": "GrottoCenter/grottocenter-api",
-      "issueTitle": "Organization responsible for geographic entity",
-      "url": "https://github.com/GrottoCenter/grottocenter-api/issues/1598",
-      "createdAt": "2026-05-22T22:14:44.516Z",
+      "id": 1779488125688,
+      "repository": "openclaw/clownfish",
+      "issueTitle": "[Bug]: --open-execute-window gate restore uses || \"1\" fallback — CLOWNFISH_ALLOW_EXECUTE permanently set after unset-prior run",
+      "url": "https://github.com/openclaw/clownfish/issues/10",
+      "createdAt": "2026-05-22T22:15:25.688Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
