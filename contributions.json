@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779470610886,
+      "repository": "Premshaw23/Learnova",
+      "issueTitle": "[Security/Bug] Missing role validation in middleware allows unauthorized dashboard access",
+      "url": "https://github.com/Premshaw23/Learnova/issues/550",
+      "createdAt": "2026-05-22T17:23:30.886Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
