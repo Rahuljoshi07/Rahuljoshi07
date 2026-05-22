@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779470322127,
+      "repository": "xarray-contrib/xarray-spatial",
+      "issueTitle": "geotiff corpus: determinism test is toolchain-coupled (conda-forge GDAL differs from fixture-build env)",
+      "url": "https://github.com/xarray-contrib/xarray-spatial/issues/2299",
+      "createdAt": "2026-05-22T17:18:42.127Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
