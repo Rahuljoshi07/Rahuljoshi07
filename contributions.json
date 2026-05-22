@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779480058981,
+      "repository": "spacetelescope/crds",
+      "issueTitle": "`RuntimeError: Unique names are not defined for 2026 and beyond.`",
+      "url": "https://github.com/spacetelescope/crds/issues/1169",
+      "createdAt": "2026-05-22T20:00:58.981Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
