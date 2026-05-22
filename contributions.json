@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779456452605,
+      "repository": "steam-bell-92/python-mini-project",
+      "issueTitle": "🐛 [Bug]: Web app has duplicate content, broken logo, and Python runner fails on infinite loops",
+      "url": "https://github.com/steam-bell-92/python-mini-project/issues/600",
+      "createdAt": "2026-05-22T13:27:32.605Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
