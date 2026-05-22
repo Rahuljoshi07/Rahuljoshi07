@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779461203230,
+      "repository": "haowjy/meridian-cli",
+      "issueTitle": "Bug: Codex spawn can hang when app-server never emits turn/completed",
+      "url": "https://github.com/haowjy/meridian-cli/issues/249",
+      "createdAt": "2026-05-22T14:46:43.230Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
