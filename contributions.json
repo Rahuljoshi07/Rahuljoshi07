@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779489975835,
+      "repository": "nextcloud/forms",
+      "issueTitle": "a11y: Checkboxes not working correctly with keyboard",
+      "url": "https://github.com/nextcloud/forms/issues/3350",
+      "createdAt": "2026-05-22T22:46:15.835Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
