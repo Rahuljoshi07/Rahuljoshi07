@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779410627829,
+      "repository": "kernalix7/winpodx",
+      "issueTitle": "[Bug] Apps wont launch on Arch linux",
+      "url": "https://github.com/kernalix7/winpodx/issues/213",
+      "createdAt": "2026-05-22T00:43:47.829Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
