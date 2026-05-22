@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779493857423,
+      "repository": "sonichi/sutando",
+      "issueTitle": "bug(cross-node-sync): rsync of live conversation.sqlite corrupts the database",
+      "url": "https://github.com/sonichi/sutando/issues/1040",
+      "createdAt": "2026-05-22T23:50:57.423Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
