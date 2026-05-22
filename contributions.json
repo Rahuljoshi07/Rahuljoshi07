@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779419099881,
+      "repository": "Arize-ai/openinference",
+      "issueTitle": "[bug][claude-agent-sdk] _update_tool_spans_from_messages throws away result_content on tool errors",
+      "url": "https://github.com/Arize-ai/openinference/issues/3138",
+      "createdAt": "2026-05-22T03:04:59.881Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
