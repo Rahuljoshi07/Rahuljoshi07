@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779481350771,
+      "repository": "aws/aws-durable-execution-docs",
+      "issueTitle": "docs: add error-handling example for BatchResult on Map operations page",
+      "url": "https://github.com/aws/aws-durable-execution-docs/issues/159",
+      "createdAt": "2026-05-22T20:22:30.772Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
