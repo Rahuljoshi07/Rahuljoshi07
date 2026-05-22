@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779488355476,
+      "repository": "danjac/django-studio",
+      "issueTitle": "Remove just check-all step from dj-deploy-cron skill",
+      "url": "https://github.com/danjac/django-studio/issues/378",
+      "createdAt": "2026-05-22T22:19:15.476Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
