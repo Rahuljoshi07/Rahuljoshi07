@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779482105375,
+      "repository": "Juwan-Hwang/Zephyr",
+      "issueTitle": "Failed to create core dir:当文件已存在时,无法创建该文件。(os error183)",
+      "url": "https://github.com/Juwan-Hwang/Zephyr/issues/182",
+      "createdAt": "2026-05-22T20:35:05.375Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
