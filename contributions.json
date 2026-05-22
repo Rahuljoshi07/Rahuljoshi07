@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779459658162,
+      "repository": "zowe/docs-site",
+      "issueTitle": "Issue with docs.zowe.org/stable/user-guide/configure-caching-service-ha",
+      "url": "https://github.com/zowe/docs-site/issues/4114",
+      "createdAt": "2026-05-22T14:20:58.162Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
