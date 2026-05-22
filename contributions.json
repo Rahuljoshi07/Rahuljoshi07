@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779474412673,
+      "repository": "swayam03275/SkillsSphere-AI",
+      "issueTitle": "Bug: Semantic Resume-JD matching silently fails when HuggingFace free tier rate limit (429) is hit — no user feedback or fallback",
+      "url": "https://github.com/swayam03275/SkillsSphere-AI/issues/597",
+      "createdAt": "2026-05-22T18:26:52.674Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
