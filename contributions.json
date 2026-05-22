@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779464295454,
+      "repository": "N4S4/synology-api",
+      "issueTitle": "create_folder() fails with error 3300 on DSM 7.3.2",
+      "url": "https://github.com/N4S4/synology-api/issues/359",
+      "createdAt": "2026-05-22T15:38:15.454Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
