@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779431345148,
+      "repository": "iobroker-community-adapters/ioBroker.sony-bravia",
+      "issueTitle": "Please consider fixing issues detected by repository checker",
+      "url": "https://github.com/iobroker-community-adapters/ioBroker.sony-bravia/issues/321",
+      "createdAt": "2026-05-22T06:29:05.148Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
