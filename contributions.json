@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779471535059,
-      "repository": "ably/ably-js",
-      "issueTitle": "Presence messages NACK'd with \"not currently attached\" after reconnect from transient disconnect",
-      "url": "https://github.com/ably/ably-js/issues/2220",
-      "createdAt": "2026-05-22T17:38:55.059Z",
+      "id": 1779471567771,
+      "repository": "Premshaw23/Learnova",
+      "issueTitle": "[Bug]: Edge Runtime destroys in-memory JWKS cache in middleware, risking HTTP 429 Rate Limits",
+      "url": "https://github.com/Premshaw23/Learnova/issues/559",
+      "createdAt": "2026-05-22T17:39:27.771Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
