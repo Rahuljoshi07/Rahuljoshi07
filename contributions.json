@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779414174746,
+      "repository": "nextcloud/mail",
+      "issueTitle": "Mail 5.8.0 fails to send emails when sender display name contains Cyrillic characters",
+      "url": "https://github.com/nextcloud/mail/issues/12965",
+      "createdAt": "2026-05-22T01:42:54.746Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
