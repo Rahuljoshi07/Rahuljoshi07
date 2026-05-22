@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779437967059,
+      "repository": "AditthyaSS/iloveAgents",
+      "issueTitle": "Bug: Dark mode transition hanging between states — not smooth",
+      "url": "https://github.com/AditthyaSS/iloveAgents/issues/254",
+      "createdAt": "2026-05-22T08:19:27.059Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
