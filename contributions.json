@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779433953208,
+      "repository": "BrettKinny/dotty-stackchan",
+      "issueTitle": "quickstart: Flash the firmware: StackChan stuck in boot crash loop after installing firmware fw-v1.3.1",
+      "url": "https://github.com/BrettKinny/dotty-stackchan/issues/83",
+      "createdAt": "2026-05-22T07:12:33.208Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
