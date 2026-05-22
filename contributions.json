@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779457040708,
+      "repository": "dataforgoodfr/14_ValorisationDonneeMeteo",
+      "issueTitle": "[Bug] Dans l'onglet ITN, en granularité mensuelle, il est possible de sélectionner des périodes avant 1947",
+      "url": "https://github.com/dataforgoodfr/14_ValorisationDonneeMeteo/issues/609",
+      "createdAt": "2026-05-22T13:37:20.708Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
