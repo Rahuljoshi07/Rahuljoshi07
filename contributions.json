@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779469426363,
+      "repository": "gbook/nidb",
+      "issueTitle": "[BUG] Crash on searches",
+      "url": "https://github.com/gbook/nidb/issues/133",
+      "createdAt": "2026-05-22T17:03:46.363Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
