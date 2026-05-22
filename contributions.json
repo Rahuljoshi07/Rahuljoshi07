@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779486675166,
+      "repository": "marbl/MetagenomeScope",
+      "issueTitle": "Avoiding storing the entire graph in memory",
+      "url": "https://github.com/marbl/MetagenomeScope/issues/423",
+      "createdAt": "2026-05-22T21:51:15.166Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
