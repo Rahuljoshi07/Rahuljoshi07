@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779464389867,
+      "repository": "fox-in-the-box-ai/fox-in-the-box",
+      "issueTitle": "On Windows: 'How this container should be accessed' displayed behind install window",
+      "url": "https://github.com/fox-in-the-box-ai/fox-in-the-box/issues/330",
+      "createdAt": "2026-05-22T15:39:49.867Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
