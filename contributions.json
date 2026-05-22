@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779474817184,
+      "repository": "gunjanghate/GitGenie",
+      "issueTitle": "[Bug]: Documentation Page Header Persistence and Sidebar Responsiveness",
+      "url": "https://github.com/gunjanghate/GitGenie/issues/137",
+      "createdAt": "2026-05-22T18:33:37.184Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
