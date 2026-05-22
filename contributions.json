@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779466788676,
+      "repository": "sh4rkman/SquadCalc",
+      "issueTitle": "Switching map remove weapons but weapon selector is still displayed",
+      "url": "https://github.com/sh4rkman/SquadCalc/issues/480",
+      "createdAt": "2026-05-22T16:19:48.676Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
