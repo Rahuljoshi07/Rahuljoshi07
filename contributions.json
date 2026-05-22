@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779430432693,
+      "repository": "AshutoshRaj1260/FoodGram",
+      "issueTitle": "Bug: No file size limit on video uploads — large files can crash the server",
+      "url": "https://github.com/AshutoshRaj1260/FoodGram/issues/85",
+      "createdAt": "2026-05-22T06:13:52.693Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
