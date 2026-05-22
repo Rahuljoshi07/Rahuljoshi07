@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779461432839,
+      "repository": "iTwin/bis-schemas",
+      "issueTitle": "Rebar schema: Separate short-term vs. mid/long-term concepts in different schema versions",
+      "url": "https://github.com/iTwin/bis-schemas/issues/116",
+      "createdAt": "2026-05-22T14:50:32.839Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
