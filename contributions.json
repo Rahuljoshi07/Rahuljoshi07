@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779419463891,
+      "repository": "uriyyo/fastapi-filters",
+      "issueTitle": "`fix_docs` does not work in the fastapi==0.136.1",
+      "url": "https://github.com/uriyyo/fastapi-filters/issues/729",
+      "createdAt": "2026-05-22T03:11:03.891Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
