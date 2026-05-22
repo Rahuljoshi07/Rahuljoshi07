@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779465898568,
+      "repository": "elkimek/get-based",
+      "issueTitle": "Cannot sync fitbit data",
+      "url": "https://github.com/elkimek/get-based/issues/243",
+      "createdAt": "2026-05-22T16:04:58.568Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
