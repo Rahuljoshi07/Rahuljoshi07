@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1779417959009,
-      "repository": "0-Shimanshu/ADIUVARE",
-      "issueTitle": "[Bug]: AiConfig.mode is unvalidated str — typos silently disable AI",
-      "url": "https://github.com/0-Shimanshu/ADIUVARE/issues/105",
-      "createdAt": "2026-05-22T02:45:59.009Z",
-      "type": "comment",
-      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
