@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779466898686,
+      "repository": "inyokaproject/inyoka",
+      "issueTitle": "Wrong case in interwikilinks",
+      "url": "https://github.com/inyokaproject/inyoka/issues/1023",
+      "createdAt": "2026-05-22T16:21:38.686Z",
+      "type": "comment",
+      "content": "Consider checking for None values to prevent AttributeError exceptions. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
