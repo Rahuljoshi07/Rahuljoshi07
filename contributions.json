@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779485997522,
-      "repository": "conda-forge/admin-requests",
-      "issueTitle": "`create_feedstocks`: bug with `conda_build_config.yaml`?",
-      "url": "https://github.com/conda-forge/admin-requests/issues/2092",
-      "createdAt": "2026-05-22T21:39:57.522Z",
+      "id": 1779486032487,
+      "repository": "brianpetro/obsidian-smart-env",
+      "issueTitle": "Bug: `merge_tags` throws TypeError when frontmatter `tags:` array contains non-string scalars",
+      "url": "https://github.com/brianpetro/obsidian-smart-env/issues/1",
+      "createdAt": "2026-05-22T21:40:32.487Z",
       "type": "comment",
-      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
