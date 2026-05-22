@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779426914619,
+      "repository": "AlexDev505/AudioBookPlayer",
+      "issueTitle": "Баг в сканере папки с книгами при инициализации (ручное добавление)",
+      "url": "https://github.com/AlexDev505/AudioBookPlayer/issues/43",
+      "createdAt": "2026-05-22T05:15:14.619Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
