@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779450773438,
-      "repository": "meshery/qa",
-      "issueTitle": "Replace existing navigation menu",
-      "url": "https://github.com/meshery/qa/issues/51",
-      "createdAt": "2026-05-22T11:52:53.438Z",
+      "id": 1779450810109,
+      "repository": "stephanwagner/svgMap",
+      "issueTitle": "No Typescript compatibility, and 'window is not defined' error on Next.js",
+      "url": "https://github.com/stephanwagner/svgMap/issues/72",
+      "createdAt": "2026-05-22T11:53:30.109Z",
       "type": "comment",
-      "content": "Adding TypeScript could improve code quality and maintainability. (Suggested by Rahul Joshi)..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
