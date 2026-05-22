@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779459151704,
+      "repository": "github-community-projects/evergreen",
+      "issueTitle": "Unable to Pin Specific Minor Version of Evergreen Action in GitHub Workflow",
+      "url": "https://github.com/github-community-projects/evergreen/issues/221",
+      "createdAt": "2026-05-22T14:12:31.704Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
