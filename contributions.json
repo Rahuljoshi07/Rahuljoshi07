@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779427604857,
+      "repository": "WhatDreamsCost/WhatDreamsCost-ComfyUI",
+      "issueTitle": "RuntimeError: Input type (float) and bias type (c10::BFloat16) should be the same",
+      "url": "https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI/issues/74",
+      "createdAt": "2026-05-22T05:26:44.857Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
