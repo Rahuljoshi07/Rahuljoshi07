@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779418226829,
+      "repository": "sipyourdrink-ltd/bernstein",
+      "issueTitle": "Content-addressed store get() returns blob bytes without re-hashing against the requested digest",
+      "url": "https://github.com/sipyourdrink-ltd/bernstein/issues/1849",
+      "createdAt": "2026-05-22T02:50:26.829Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
