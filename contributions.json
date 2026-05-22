@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779455521572,
+      "repository": "kenzok8/openwrt-clashoo",
+      "issueTitle": "[Bug]: 大陆 IP 绕过内核",
+      "url": "https://github.com/kenzok8/openwrt-clashoo/issues/6",
+      "createdAt": "2026-05-22T13:12:01.572Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
