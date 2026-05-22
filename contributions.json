@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779486327495,
-      "repository": "taskcluster/taskcluster",
-      "issueTitle": "Task Group profiler improvements",
-      "url": "https://github.com/taskcluster/taskcluster/issues/8681",
-      "createdAt": "2026-05-22T21:45:27.495Z",
+      "id": 1779486354208,
+      "repository": "openclaw/clownfish",
+      "issueTitle": "[Bug]: --open-execute-window gate restore uses || \"1\" fallback — CLOWNFISH_ALLOW_EXECUTE permanently set after unset-prior run",
+      "url": "https://github.com/openclaw/clownfish/issues/10",
+      "createdAt": "2026-05-22T21:45:54.208Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
