@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779472767493,
+      "repository": "mensfeld/code-on-incus",
+      "issueTitle": "IP refresh task output displaying in claude tmux terminal",
+      "url": "https://github.com/mensfeld/code-on-incus/issues/372",
+      "createdAt": "2026-05-22T17:59:27.493Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
