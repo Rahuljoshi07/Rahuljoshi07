@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779491251892,
+      "repository": "alistaitsacle/free-llm-api-keys",
+      "issueTitle": "Error: 分组 default 下模型 claude-opus-4-7 无可用渠道（distributor） (request id: 20260512105710380018775zeJuFyNc)",
+      "url": "https://github.com/alistaitsacle/free-llm-api-keys/issues/7",
+      "createdAt": "2026-05-22T23:07:31.892Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
