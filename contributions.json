@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779468217108,
+      "repository": "Sakura520222/Sakura-AI-Reviewer",
+      "issueTitle": "[bug][high] 知识提取功能配置已就位但执行逻辑未实现，功能不生效",
+      "url": "https://github.com/Sakura520222/Sakura-AI-Reviewer/issues/319",
+      "createdAt": "2026-05-22T16:43:37.108Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
