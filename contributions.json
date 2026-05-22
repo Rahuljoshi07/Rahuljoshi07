@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779468718314,
+      "repository": "synesenom/ran",
+      "issueTitle": "Fix stub Champernowne distribution: empty generator, wrong CDF, unnormalized PDF",
+      "url": "https://github.com/synesenom/ran/issues/337",
+      "createdAt": "2026-05-22T16:51:58.314Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
