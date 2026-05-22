@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779485188005,
+      "repository": "alexbosworth/balanceofsatoshis",
+      "issueTitle": "Issue with telegram Bot",
+      "url": "https://github.com/alexbosworth/balanceofsatoshis/issues/596",
+      "createdAt": "2026-05-22T21:26:28.005Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
