@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779441585636,
+      "repository": "pierreb-devkit/Node",
+      "issueTitle": "test(billing): use fake timers in checkout webhook unit test (slow regression)",
+      "url": "https://github.com/pierreb-devkit/Node/issues/3689",
+      "createdAt": "2026-05-22T09:19:45.636Z",
+      "type": "comment",
+      "content": "Consider code splitting and lazy loading for better initial load times. This suggestion is particula..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
