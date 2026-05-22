@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779408221680,
+      "repository": "mikey0000/Mammotion-HA",
+      "issueTitle": "AttributeError: zone_hashs + repeated mow_path_fetch / map_fetch saga failures",
+      "url": "https://github.com/mikey0000/Mammotion-HA/issues/741",
+      "createdAt": "2026-05-22T00:03:41.680Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
