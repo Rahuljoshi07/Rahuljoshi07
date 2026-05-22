@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779470418610,
+      "repository": "jyutjyucom/Jyutjyu",
+      "issueTitle": "[ENTRY-ERROR] 字音与字义谬误或多音未标明",
+      "url": "https://github.com/jyutjyucom/Jyutjyu/issues/30",
+      "createdAt": "2026-05-22T17:20:18.610Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
