@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779454930551,
+      "repository": "AMWA-TV/nmos-testing",
+      "issueTitle": "Investigate performance of mock APIs",
+      "url": "https://github.com/AMWA-TV/nmos-testing/issues/713",
+      "createdAt": "2026-05-22T13:02:10.552Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
