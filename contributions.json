@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779433289652,
+      "repository": "equinor/isar",
+      "issueTitle": "Cannot know if robot is both home and protective stop",
+      "url": "https://github.com/equinor/isar/issues/808",
+      "createdAt": "2026-05-22T07:01:29.652Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
