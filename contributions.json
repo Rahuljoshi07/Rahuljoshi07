@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779463301893,
+      "repository": "elkimek/get-based",
+      "issueTitle": "[Bug] Can't add older resting heart rate",
+      "url": "https://github.com/elkimek/get-based/issues/240",
+      "createdAt": "2026-05-22T15:21:41.893Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
