@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779436709400,
+      "repository": "viru0909-dev/nyay-setu-working",
+      "issueTitle": "[BUG]: GitHub Icon Redirects to Repository Instead of Profile and Email icons was not working",
+      "url": "https://github.com/viru0909-dev/nyay-setu-working/issues/438",
+      "createdAt": "2026-05-22T07:58:29.400Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
