@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779486929712,
+      "repository": "JeffCurless/argon-oneup",
+      "issueTitle": "Implement VOLTAGE_NOW and TEMP",
+      "url": "https://github.com/JeffCurless/argon-oneup/issues/51",
+      "createdAt": "2026-05-22T21:55:29.712Z",
+      "type": "comment",
+      "content": "Consider using list comprehensions for better performance. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
