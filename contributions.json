@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779475689267,
+      "repository": "xsrazy/Tiktok-Mass-Downloader",
+      "issueTitle": "error",
+      "url": "https://github.com/xsrazy/Tiktok-Mass-Downloader/issues/9",
+      "createdAt": "2026-05-22T18:48:09.267Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
