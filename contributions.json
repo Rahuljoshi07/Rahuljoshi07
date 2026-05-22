@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779418628147,
+      "repository": "tile-ai/tilelang-metax",
+      "issueTitle": "MACA backend: FP16 accumulation MMA compile error",
+      "url": "https://github.com/tile-ai/tilelang-metax/issues/69",
+      "createdAt": "2026-05-22T02:57:08.148Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
