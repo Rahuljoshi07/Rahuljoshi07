@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779432904423,
+      "id": 1779432932781,
       "repository": "Premshaw23/Learnova",
       "issueTitle": "[Bug]:  AdminDashboard uses useEffect without importing it",
       "url": "https://github.com/Premshaw23/Learnova/issues/431",
-      "createdAt": "2026-05-22T06:55:04.423Z",
+      "createdAt": "2026-05-22T06:55:32.781Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
