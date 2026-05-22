@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779419563794,
+      "id": 1779419596071,
       "repository": "Premshaw23/Learnova",
       "issueTitle": "[Bug] Register page loading state missing spinner — shows plain text instead",
       "url": "https://github.com/Premshaw23/Learnova/issues/402",
-      "createdAt": "2026-05-22T03:12:43.794Z",
+      "createdAt": "2026-05-22T03:13:16.071Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
