@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779492491156,
+      "repository": "Charcoal-SE/SmokeDetector",
+      "issueTitle": "Improve error reporting when requests fail — retire \"Expecting value: line 1 column 1 (char 0)\", report HTTP code instead",
+      "url": "https://github.com/Charcoal-SE/SmokeDetector/issues/15227",
+      "createdAt": "2026-05-22T23:28:11.156Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
