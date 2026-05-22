@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779416751963,
+      "repository": "minislively/fooks",
+      "issueTitle": "Dogfood: treat epic-only open issue as idle until child exists",
+      "url": "https://github.com/minislively/fooks/issues/1033",
+      "createdAt": "2026-05-22T02:25:51.964Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
