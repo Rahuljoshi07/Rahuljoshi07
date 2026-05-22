@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779433594640,
+      "repository": "cap-js/mcp-server",
+      "issueTitle": "FAILED: Repository Linter Issue: rl-assigned_teams",
+      "url": "https://github.com/cap-js/mcp-server/issues/112",
+      "createdAt": "2026-05-22T07:06:34.640Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
