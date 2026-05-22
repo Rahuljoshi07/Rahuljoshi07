@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779421932830,
+      "repository": "OWASP/DockSec",
+      "issueTitle": "[ENHANCEMENT] Add structured logging with configurable verbosity levels (--verbose / --debug)",
+      "url": "https://github.com/OWASP/DockSec/issues/52",
+      "createdAt": "2026-05-22T03:52:12.830Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
