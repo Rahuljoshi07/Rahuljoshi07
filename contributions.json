@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779459801943,
+      "repository": "yjs/y-prosemirror",
+      "issueTitle": "V2 suggestions (BlockNote): move blocks / indent",
+      "url": "https://github.com/yjs/y-prosemirror/issues/247",
+      "createdAt": "2026-05-22T14:23:21.943Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
