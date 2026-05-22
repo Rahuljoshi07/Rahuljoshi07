@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779417202546,
+      "id": 1779417231707,
       "repository": "mclemente/simplefog",
-      "issueTitle": "A simple way to put the fog under the actors/tokens.",
-      "url": "https://github.com/mclemente/simplefog/issues/32",
-      "createdAt": "2026-05-22T02:33:22.546Z",
+      "issueTitle": "[BUG] Module darkens the map",
+      "url": "https://github.com/mclemente/simplefog/issues/27",
+      "createdAt": "2026-05-22T02:33:51.707Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
