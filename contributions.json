@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779477911827,
+      "repository": "Sudo-Ali-Dev/Rankistan",
+      "issueTitle": "Data-loss bug: one transient GitHub search failure can wipe a whole batch",
+      "url": "https://github.com/Sudo-Ali-Dev/Rankistan/issues/36",
+      "createdAt": "2026-05-22T19:25:11.827Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
