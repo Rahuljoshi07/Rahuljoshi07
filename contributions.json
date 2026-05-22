@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779473816307,
+      "repository": "link-assistant/hive-mind",
+      "issueTitle": "Some tasks in /hive command just stuck, and didn't finish without clear fail or stop",
+      "url": "https://github.com/link-assistant/hive-mind/issues/1811",
+      "createdAt": "2026-05-22T18:16:56.307Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
