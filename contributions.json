@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779454190634,
+      "id": 1779454227093,
       "repository": "Premshaw23/Learnova",
       "issueTitle": "[Bug]: ReferenceError: \\decodedToken` is not defined in `/api/settings` PATCH route — auth always crashes",
       "url": "https://github.com/Premshaw23/Learnova/issues/491",
-      "createdAt": "2026-05-22T12:49:50.634Z",
+      "createdAt": "2026-05-22T12:50:27.093Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
