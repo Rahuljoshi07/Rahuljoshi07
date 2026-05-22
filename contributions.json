@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779472270525,
+      "repository": "Premshaw23/Learnova",
+      "issueTitle": "[Bug]: Edge Runtime destroys in-memory JWKS cache in middleware, risking HTTP 429 Rate Limits",
+      "url": "https://github.com/Premshaw23/Learnova/issues/559",
+      "createdAt": "2026-05-22T17:51:10.525Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
