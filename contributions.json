@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779435636701,
+      "repository": "steam-bell-92/python-mini-project",
+      "issueTitle": "🐛 [Bug]: Input field text not visible in Coordinate to Polar Transformation project",
+      "url": "https://github.com/steam-bell-92/python-mini-project/issues/583",
+      "createdAt": "2026-05-22T07:40:36.701Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
