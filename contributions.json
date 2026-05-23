@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779510845330,
+      "repository": "adamlui/userscripts",
+      "issueTitle": "DuckDuckGPT safari",
+      "url": "https://github.com/adamlui/userscripts/issues/10",
+      "createdAt": "2026-05-23T04:34:05.330Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
