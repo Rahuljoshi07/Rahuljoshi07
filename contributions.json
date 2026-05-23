@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779507305695,
+      "id": 1779507332721,
       "repository": "Premshaw23/Learnova",
       "issueTitle": "security: Multiple debug console.log statements left in production auth code exposing sensitive user data",
       "url": "https://github.com/Premshaw23/Learnova/issues/596",
-      "createdAt": "2026-05-23T03:35:05.696Z",
+      "createdAt": "2026-05-23T03:35:32.721Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
