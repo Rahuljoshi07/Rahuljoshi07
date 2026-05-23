@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779497185816,
-      "repository": "nextcloud/collectives",
-      "issueTitle": "Deleting a Collective does not remove the associated Circle — orphaned Team remains in Contacts",
-      "url": "https://github.com/nextcloud/collectives/issues/2529",
-      "createdAt": "2026-05-23T00:46:25.816Z",
+      "id": 1779497220580,
+      "repository": "cogent3/cogent3",
+      "issueTitle": "ENH: improve performance of `.counts_per_seq()` method",
+      "url": "https://github.com/cogent3/cogent3/issues/2215",
+      "createdAt": "2026-05-23T00:47:00.581Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
