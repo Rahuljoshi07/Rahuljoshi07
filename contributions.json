@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779495231852,
+      "repository": "m4heshd/better-sqlite3-multiple-ciphers",
+      "issueTitle": "Performance issues with Node v22 and v24",
+      "url": "https://github.com/m4heshd/better-sqlite3-multiple-ciphers/issues/126",
+      "createdAt": "2026-05-23T00:13:51.853Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
