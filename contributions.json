@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779514045047,
+      "repository": "SciCrunch/sparc-curation",
+      "issueTitle": "samples.xlsx subject id and was derived conflict to make it impossible to catch certain types of errors or require redundant information",
+      "url": "https://github.com/SciCrunch/sparc-curation/issues/124",
+      "createdAt": "2026-05-23T05:27:25.047Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
