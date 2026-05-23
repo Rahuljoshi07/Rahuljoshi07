@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779507208828,
+      "repository": "Premshaw23/Learnova",
+      "issueTitle": "security: Multiple debug console.log statements left in production auth code exposing sensitive user data",
+      "url": "https://github.com/Premshaw23/Learnova/issues/596",
+      "createdAt": "2026-05-23T03:33:28.828Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
