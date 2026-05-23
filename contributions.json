@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779503502087,
+      "repository": "TIGER-AI-Lab/ClawBench",
+      "issueTitle": "Test case 089 (and 086): instruction conflicts with extra_info/job_links.json (placeholder not substituted)",
+      "url": "https://github.com/TIGER-AI-Lab/ClawBench/issues/201",
+      "createdAt": "2026-05-23T02:31:42.087Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
