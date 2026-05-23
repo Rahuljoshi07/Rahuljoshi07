@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779515030249,
+      "repository": "ext/semantic-release-lerna",
+      "issueTitle": "Error: packageConfigs.some is not a function",
+      "url": "https://github.com/ext/semantic-release-lerna/issues/237",
+      "createdAt": "2026-05-23T05:43:50.249Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
