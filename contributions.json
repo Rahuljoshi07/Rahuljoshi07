@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779497006516,
+      "repository": "SecureBananaLabs/bug-bounty",
+      "issueTitle": "Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/30",
+      "createdAt": "2026-05-23T00:43:26.516Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
