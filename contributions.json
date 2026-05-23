@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779504460814,
+      "repository": "conda-forge/admin-requests",
+      "issueTitle": "`create_feedstocks`: bug with `conda_build_config.yaml`?",
+      "url": "https://github.com/conda-forge/admin-requests/issues/2092",
+      "createdAt": "2026-05-23T02:47:40.814Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
