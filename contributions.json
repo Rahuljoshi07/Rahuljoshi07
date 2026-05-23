@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779499374503,
+      "repository": "juyterman1000/entroly",
+      "issueTitle": "Error when using Claude:  API Error: 400 `temperature`...",
+      "url": "https://github.com/juyterman1000/entroly/issues/56",
+      "createdAt": "2026-05-23T01:22:54.503Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
