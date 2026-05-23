@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779501766734,
+      "repository": "arturgrochau/macos-monitor-HiDPI-setup-tool",
+      "issueTitle": "GUI: bug: mouse-over scale causes rectangles to jump to other position",
+      "url": "https://github.com/arturgrochau/macos-monitor-HiDPI-setup-tool/issues/8",
+      "createdAt": "2026-05-23T02:02:46.734Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
