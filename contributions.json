@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779501185321,
+      "repository": "maniacx/BudsLink",
+      "issueTitle": "[Bug]: CMF Buds 2a Not detected",
+      "url": "https://github.com/maniacx/BudsLink/issues/42",
+      "createdAt": "2026-05-23T01:53:05.321Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
