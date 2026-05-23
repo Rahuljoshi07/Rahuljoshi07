@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779511491594,
+      "id": 1779511525310,
       "repository": "somiibo/instagram-bot",
-      "issueTitle": "insta reporting bot",
-      "url": "https://github.com/somiibo/instagram-bot/issues/5",
-      "createdAt": "2026-05-23T04:44:51.594Z",
+      "issueTitle": "Error: Cannot find module 'registry-js'",
+      "url": "https://github.com/somiibo/instagram-bot/issues/1",
+      "createdAt": "2026-05-23T04:45:25.310Z",
       "type": "comment",
-      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
