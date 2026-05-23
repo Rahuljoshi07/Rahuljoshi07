@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779497323800,
+      "repository": "nextcloud/contacts",
+      "issueTitle": "Teams Page Deck Creation Not Working",
+      "url": "https://github.com/nextcloud/contacts/issues/5071",
+      "createdAt": "2026-05-23T00:48:43.800Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
