@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779514466318,
+      "repository": "drkrillo/good-first-issues",
+      "issueTitle": "[BUG]: Incorrect parsing of some issues",
+      "url": "https://github.com/drkrillo/good-first-issues/issues/91",
+      "createdAt": "2026-05-23T05:34:26.318Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
