@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779513131865,
+      "repository": "fabriziosalmi/nis2-public",
+      "issueTitle": "Flaky E2E: test_change_password_success_invalidates_other_sessions intermittently 401s client A",
+      "url": "https://github.com/fabriziosalmi/nis2-public/issues/109",
+      "createdAt": "2026-05-23T05:12:11.865Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
