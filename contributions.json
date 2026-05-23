@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1779506232102,
+      "id": 1779506268889,
       "repository": "Premshaw23/Learnova",
-      "issueTitle": "[Bug]: Google authentication flow in `app/auth/page.js` still contains multiple development/debug logging statements",
-      "url": "https://github.com/Premshaw23/Learnova/issues/579",
-      "createdAt": "2026-05-23T03:17:12.102Z",
+      "issueTitle": "[Bug] ReferenceError: \\query` is not defined in `/api/labels` — endpoint permanently broken`",
+      "url": "https://github.com/Premshaw23/Learnova/issues/502",
+      "createdAt": "2026-05-23T03:17:48.889Z",
       "type": "comment",
       "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
