@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779515775751,
+      "repository": "openclaw/clownfish",
+      "issueTitle": "[Bug]: --open-execute-window gate restore uses || \"1\" fallback — CLOWNFISH_ALLOW_EXECUTE permanently set after unset-prior run",
+      "url": "https://github.com/openclaw/clownfish/issues/10",
+      "createdAt": "2026-05-23T05:56:15.751Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
