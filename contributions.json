@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779516108802,
+      "repository": "dessant/support-requests",
+      "issueTitle": "Crashes when labels (which were used by existing issues) are deleted (wiped from existence)",
+      "url": "https://github.com/dessant/support-requests/issues/12",
+      "createdAt": "2026-05-23T06:01:48.802Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
