@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779514810336,
+      "repository": "Nsanjayboruds/RIVETO",
+      "issueTitle": "[Bug]: Wiishlisting",
+      "url": "https://github.com/Nsanjayboruds/RIVETO/issues/181",
+      "createdAt": "2026-05-23T05:40:10.336Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
