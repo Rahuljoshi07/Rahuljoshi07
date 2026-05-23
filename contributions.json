@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779503321991,
+      "repository": "modal-labs/modal-client",
+      "issueTitle": "Sandbox.exec timeout kills only the direct process — child/grandchild processes survive as orphans",
+      "url": "https://github.com/modal-labs/modal-client/issues/3992",
+      "createdAt": "2026-05-23T02:28:41.991Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
