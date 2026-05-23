@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779497732550,
+      "repository": "ryanbr/network-scanner",
+      "issueTitle": "Add --no-exit for debugging in headful mode",
+      "url": "https://github.com/ryanbr/network-scanner/issues/40",
+      "createdAt": "2026-05-23T00:55:32.551Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
