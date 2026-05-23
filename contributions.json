@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779507063239,
+      "repository": "Bluetooth-Devices/habluetooth",
+      "issueTitle": "Bluetooth proxy connection slots can become permanently stuck, blocking all BLE connections until proxy reboot",
+      "url": "https://github.com/Bluetooth-Devices/habluetooth/issues/340",
+      "createdAt": "2026-05-23T03:31:03.239Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
