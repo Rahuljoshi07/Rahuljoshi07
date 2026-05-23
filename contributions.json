@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779513180840,
-      "repository": "steve02081504/fount",
-      "issueTitle": "无法在不重启的前提下重载部件",
-      "url": "https://github.com/steve02081504/fount/issues/11",
-      "createdAt": "2026-05-23T05:13:00.841Z",
+      "id": 1779513233073,
+      "repository": "calf-ai/calfkit-sdk",
+      "issueTitle": "Silent hang: tool worker returns Silent() when state.get_tool_call() is None",
+      "url": "https://github.com/calf-ai/calfkit-sdk/issues/147",
+      "createdAt": "2026-05-23T05:13:53.073Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
     }
   ],
   "stats": {
