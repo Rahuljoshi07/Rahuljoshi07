@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779598815928,
+      "repository": "somiibo/facebook-bot",
+      "issueTitle": "Error when run \"NPM Start\"",
+      "url": "https://github.com/somiibo/facebook-bot/issues/3",
+      "createdAt": "2026-05-24T05:00:15.928Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
