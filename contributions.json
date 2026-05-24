@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779608071144,
+      "repository": "SandeepVashishtha/Eventra",
+      "issueTitle": "[BUG] Events page fails to load event data and shows \"No events found\"",
+      "url": "https://github.com/SandeepVashishtha/Eventra/issues/1564",
+      "createdAt": "2026-05-24T07:34:31.144Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
