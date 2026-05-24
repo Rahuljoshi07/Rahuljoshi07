@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779649351298,
+      "repository": "hoangsonww/Moodify-Emotion-Music-App",
+      "issueTitle": "Feature: Pluggable Music Provider Layer with Track Normalization",
+      "url": "https://github.com/hoangsonww/Moodify-Emotion-Music-App/issues/32",
+      "createdAt": "2026-05-24T19:02:31.298Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
