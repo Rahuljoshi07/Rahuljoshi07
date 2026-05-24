@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779637977751,
+      "repository": "EnigmaticaModpacks/EnigmaticSkies",
+      "issueTitle": "No exit button",
+      "url": "https://github.com/EnigmaticaModpacks/EnigmaticSkies/issues/202",
+      "createdAt": "2026-05-24T15:52:57.751Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
