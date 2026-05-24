@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779608580125,
+      "id": 1779608611361,
       "repository": "Premshaw23/Learnova",
-      "issueTitle": "[Bug]: API route lacks proper error handling causing server crashes",
-      "url": "https://github.com/Premshaw23/Learnova/issues/629",
-      "createdAt": "2026-05-24T07:43:00.126Z",
+      "issueTitle": "[FEATURE]  [Security] unsafe-inline in script-src CSP allows arbitrary inline script execution",
+      "url": "https://github.com/Premshaw23/Learnova/issues/1051",
+      "createdAt": "2026-05-24T07:43:31.361Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Consider implementing proper error boundaries for better error handling. This suggestion is particul..."
     }
   ],
   "stats": {
