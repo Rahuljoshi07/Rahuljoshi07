@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779603792156,
+      "repository": "david-cattermole/mayaMatchMoveSolver",
+      "issueTitle": "Surface Cluster - Deformation Evaluation Is Incorrect",
+      "url": "https://github.com/david-cattermole/mayaMatchMoveSolver/issues/254",
+      "createdAt": "2026-05-24T06:23:12.156Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
