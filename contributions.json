@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779661604918,
+      "repository": "AdguardTeam/HostlistsRegistry",
+      "issueTitle": "Playstation telemetry domains to block",
+      "url": "https://github.com/AdguardTeam/HostlistsRegistry/issues/802",
+      "createdAt": "2026-05-24T22:26:44.918Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
