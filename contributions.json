@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779644329568,
+      "repository": "bvis/aegis-hass",
+      "issueTitle": "[Bug]: Outlet type E wrong voltage/current/power readings",
+      "url": "https://github.com/bvis/aegis-hass/issues/179",
+      "createdAt": "2026-05-24T17:38:49.568Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
