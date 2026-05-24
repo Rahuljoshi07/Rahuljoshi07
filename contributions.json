@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779655656034,
+      "id": 1779655720936,
       "repository": "mulkymalikuldhrs/jsputer-proxy",
       "issueTitle": "internal error on all prompt",
       "url": "https://github.com/mulkymalikuldhrs/jsputer-proxy/issues/2",
-      "createdAt": "2026-05-24T20:47:36.034Z",
+      "createdAt": "2026-05-24T20:48:40.936Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
