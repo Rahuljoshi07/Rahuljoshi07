@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779615717349,
+      "repository": "gbtami/pychess-variants",
+      "issueTitle": "Borderlands mini game layout problem on lobby page",
+      "url": "https://github.com/gbtami/pychess-variants/issues/2144",
+      "createdAt": "2026-05-24T09:41:57.349Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
