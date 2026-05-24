@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779632999303,
+      "repository": "Durgeshwar-AI/pdfToPng",
+      "issueTitle": "[BUG] <Brief Description>Alignment Issue",
+      "url": "https://github.com/Durgeshwar-AI/pdfToPng/issues/97",
+      "createdAt": "2026-05-24T14:29:59.303Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
