@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779648946901,
+      "repository": "scidsg/hushline",
+      "issueTitle": "Close test coverage gaps from PR #2006",
+      "url": "https://github.com/scidsg/hushline/issues/2007",
+      "createdAt": "2026-05-24T18:55:46.901Z",
+      "type": "comment",
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
