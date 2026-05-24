@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779642822194,
+      "repository": "IdreesInc/Pocket-Bird",
+      "issueTitle": "[BUG?]: No Hats?",
+      "url": "https://github.com/IdreesInc/Pocket-Bird/issues/23",
+      "createdAt": "2026-05-24T17:13:42.194Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
