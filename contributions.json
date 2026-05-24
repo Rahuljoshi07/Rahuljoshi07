@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779590736158,
+      "repository": "biopragmatics/bioversions",
+      "issueTitle": "Error getting latest chebi version",
+      "url": "https://github.com/biopragmatics/bioversions/issues/49",
+      "createdAt": "2026-05-24T02:45:36.158Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
