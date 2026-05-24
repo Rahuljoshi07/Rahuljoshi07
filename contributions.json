@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779652798878,
+      "repository": "lieser/dkim_verifier",
+      "issueTitle": "Plan to move away from privileged experiments - possible upcoming feature removals",
+      "url": "https://github.com/lieser/dkim_verifier/issues/580",
+      "createdAt": "2026-05-24T19:59:58.878Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
