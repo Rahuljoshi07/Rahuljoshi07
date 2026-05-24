@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779646481779,
+      "repository": "Eshajha19/agri",
+      "issueTitle": "[Bug]: PredictRequest Allows Arbitrary Field Injection Through Mass Assignment",
+      "url": "https://github.com/Eshajha19/agri/issues/1109",
+      "createdAt": "2026-05-24T18:14:41.779Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
