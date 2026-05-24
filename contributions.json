@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779627694301,
+      "repository": "D3adlyRocket/All-in-One-Nuvio",
+      "issueTitle": "Some sources give error",
+      "url": "https://github.com/D3adlyRocket/All-in-One-Nuvio/issues/21",
+      "createdAt": "2026-05-24T13:01:34.301Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
