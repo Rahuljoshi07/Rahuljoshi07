@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779651250774,
+      "repository": "Strencher/BetterDiscordStuff",
+      "issueTitle": "[Bug]: DM's Jump up when clicking users",
+      "url": "https://github.com/Strencher/BetterDiscordStuff/issues/458",
+      "createdAt": "2026-05-24T19:34:10.775Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
