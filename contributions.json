@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779595866622,
+      "id": 1779595925935,
       "repository": "Premshaw23/Learnova",
-      "issueTitle": "BUG: Improve Contact Form Validation",
-      "url": "https://github.com/Premshaw23/Learnova/issues/928",
-      "createdAt": "2026-05-24T04:11:06.623Z",
+      "issueTitle": "fix: remove debug console.log from Service Worker (app/sw.js)",
+      "url": "https://github.com/Premshaw23/Learnova/issues/941",
+      "createdAt": "2026-05-24T04:12:05.936Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
