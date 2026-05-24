@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779663931933,
-      "repository": "toa-io/comq",
-      "issueTitle": "fix: reconnect on `ETIMEDOUT`",
-      "url": "https://github.com/toa-io/comq/issues/195",
-      "createdAt": "2026-05-24T23:05:31.933Z",
+      "id": 1779664003465,
+      "repository": "opendatacube/datacube-ows",
+      "issueTitle": "Style API pulling in Flask dependency",
+      "url": "https://github.com/opendatacube/datacube-ows/issues/1590",
+      "createdAt": "2026-05-24T23:06:43.465Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "You might want to add proper exception handling. This suggestion is particularly relevant for flask ..."
     }
   ],
   "stats": {
