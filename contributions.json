@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779614456665,
+      "repository": "boytchev/disfigure",
+      "issueTitle": "Unnatural bump in armpits",
+      "url": "https://github.com/boytchev/disfigure/issues/9",
+      "createdAt": "2026-05-24T09:20:56.666Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
