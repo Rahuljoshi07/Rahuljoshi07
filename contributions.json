@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779664328927,
+      "repository": "toa-io/comq",
+      "issueTitle": "fix: handle connection timeout",
+      "url": "https://github.com/toa-io/comq/issues/106",
+      "createdAt": "2026-05-24T23:12:08.927Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
