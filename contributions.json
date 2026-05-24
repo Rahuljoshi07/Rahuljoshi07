@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779615243104,
+      "repository": "Saibot393/perceptive",
+      "issueTitle": "Vision Channels Not Working for Tiles/Walls",
+      "url": "https://github.com/Saibot393/perceptive/issues/148",
+      "createdAt": "2026-05-24T09:34:03.104Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
