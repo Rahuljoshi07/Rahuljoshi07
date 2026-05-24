@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779653524122,
+      "repository": "theRealCarneiro/pulsemeeter",
+      "issueTitle": "Error when installing nightly on Mint 21.2",
+      "url": "https://github.com/theRealCarneiro/pulsemeeter/issues/166",
+      "createdAt": "2026-05-24T20:12:04.122Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
