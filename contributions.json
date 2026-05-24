@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779651789211,
+      "repository": "jrsteensen/OpenHornet",
+      "issueTitle": "[Bug]: OH2A3A1-1 item 24 shows incorrect material and description likely needs update",
+      "url": "https://github.com/jrsteensen/OpenHornet/issues/1224",
+      "createdAt": "2026-05-24T19:43:09.212Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
