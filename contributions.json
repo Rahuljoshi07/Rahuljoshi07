@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779588866777,
+      "repository": "shootthesound/ComfyUI-Angelo",
+      "issueTitle": "Tensor shape mismatch error with Qwen Image Edit 2511",
+      "url": "https://github.com/shootthesound/ComfyUI-Angelo/issues/14",
+      "createdAt": "2026-05-24T02:14:26.777Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
