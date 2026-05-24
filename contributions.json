@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779591089517,
+      "repository": "apacheli/discord-api-libs",
+      "issueTitle": "Dynamic repository data is unused",
+      "url": "https://github.com/apacheli/discord-api-libs/issues/67",
+      "createdAt": "2026-05-24T02:51:29.517Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
