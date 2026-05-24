@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1779629608334,
-      "repository": "Premshaw23/Learnova",
-      "issueTitle": "[BUG] CSP nonce generation uses btoa(crypto.randomUUID()) which is not Edge-safe in some runtimes",
-      "url": "https://github.com/Premshaw23/Learnova/issues/1152",
-      "createdAt": "2026-05-24T13:33:28.334Z",
-      "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
