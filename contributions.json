@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779623312071,
+      "id": 1779623340663,
       "repository": "Premshaw23/Learnova",
       "issueTitle": "fix: add missing key props to .map() calls across components",
       "url": "https://github.com/Premshaw23/Learnova/issues/1137",
-      "createdAt": "2026-05-24T11:48:32.072Z",
+      "createdAt": "2026-05-24T11:49:00.664Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
