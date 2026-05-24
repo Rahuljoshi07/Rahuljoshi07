@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779589984050,
+      "repository": "Very-cool-guy/Very-cool-guy.github.io",
+      "issueTitle": "barrel roll issues",
+      "url": "https://github.com/Very-cool-guy/Very-cool-guy.github.io/issues/107",
+      "createdAt": "2026-05-24T02:33:04.050Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
