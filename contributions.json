@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779633950198,
+      "repository": "jrhubott/adaptive-cover-pro",
+      "issueTitle": "default_after_sunset incorrectly applied as fallback during daytime when sun_not_visible",
+      "url": "https://github.com/jrhubott/adaptive-cover-pro/issues/438",
+      "createdAt": "2026-05-24T14:45:50.198Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
