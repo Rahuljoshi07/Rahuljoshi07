@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779596767239,
+      "id": 1779596796482,
       "repository": "Premshaw23/Learnova",
       "issueTitle": "[BUG] Alphanumeric Passcode Entry Restricted by Client-Side Regex",
       "url": "https://github.com/Premshaw23/Learnova/issues/945",
-      "createdAt": "2026-05-24T04:26:07.239Z",
+      "createdAt": "2026-05-24T04:26:36.482Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
