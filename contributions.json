@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779629502948,
-      "repository": "Premshaw23/Learnova",
-      "issueTitle": "[BUG] CSP nonce generation uses btoa(crypto.randomUUID()) which is not Edge-safe in some runtimes",
-      "url": "https://github.com/Premshaw23/Learnova/issues/1152",
-      "createdAt": "2026-05-24T13:31:42.948Z",
+      "id": 1779629536648,
+      "repository": "whoami-shubham/obfuscator-io-metro-plugin",
+      "issueTitle": "Error reading obfuscated files: ENOENT: no such file or directory, open ...\\.jso\\dist\\undefined",
+      "url": "https://github.com/whoami-shubham/obfuscator-io-metro-plugin/issues/29",
+      "createdAt": "2026-05-24T13:32:16.648Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
