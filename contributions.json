@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779663017692,
+      "id": 1779663053510,
       "repository": "toa-io/comq",
-      "issueTitle": "fix: reconnect on `ETIMEDOUT`",
-      "url": "https://github.com/toa-io/comq/issues/195",
-      "createdAt": "2026-05-24T22:50:17.692Z",
+      "issueTitle": "fix: throw exception when access refused",
+      "url": "https://github.com/toa-io/comq/issues/184",
+      "createdAt": "2026-05-24T22:50:53.510Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
