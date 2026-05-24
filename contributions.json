@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779661739298,
+      "repository": "HansvanMeer/pyMC_WM1303",
+      "issueTitle": "[BUG] AU915 TX silently rejected — hardcoded EU tx_freq limits in _generate_bridge_conf()",
+      "url": "https://github.com/HansvanMeer/pyMC_WM1303/issues/4",
+      "createdAt": "2026-05-24T22:28:59.299Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
