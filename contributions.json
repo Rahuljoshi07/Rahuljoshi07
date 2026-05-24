@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779605035616,
+      "repository": "Guepard-Corp/qwery-core",
+      "issueTitle": "🐛 [BUG] - Notebook \"Add Prompt Cell\" has slow broken text input",
+      "url": "https://github.com/Guepard-Corp/qwery-core/issues/189",
+      "createdAt": "2026-05-24T06:43:55.616Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
