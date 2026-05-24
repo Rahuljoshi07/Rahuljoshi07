@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779623095901,
+      "repository": "bustimes/bustimes.org",
+      "issueTitle": "Issues with the Manifest causing the PWA to fail",
+      "url": "https://github.com/bustimes/bustimes.org/issues/404",
+      "createdAt": "2026-05-24T11:44:55.901Z",
+      "type": "comment",
+      "content": "This could be a mutable default argument issue. Consider using None as default. This suggestion is p..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
