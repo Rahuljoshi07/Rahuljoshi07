@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779615376527,
+      "repository": "pipipi-pikachu/pptxtojson",
+      "issueTitle": "提Issue前必看",
+      "url": "https://github.com/pipipi-pikachu/pptxtojson/issues/62",
+      "createdAt": "2026-05-24T09:36:16.527Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
