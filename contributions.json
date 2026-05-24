@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779656259065,
+      "repository": "Shruti070107/ReGenX",
+      "issueTitle": "[Security/Bug] Hardware Leak: Rapid clicks on AI Vision Scanner leaves camera permanently active in background",
+      "url": "https://github.com/Shruti070107/ReGenX/issues/272",
+      "createdAt": "2026-05-24T20:57:39.065Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
