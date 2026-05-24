@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779595357433,
+      "repository": "Premshaw23/Learnova",
+      "issueTitle": "BUG: Improve Contact Form Validation",
+      "url": "https://github.com/Premshaw23/Learnova/issues/928",
+      "createdAt": "2026-05-24T04:02:37.433Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
