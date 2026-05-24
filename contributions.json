@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779650056126,
+      "repository": "Suhani1234-5/TourEase",
+      "issueTitle": "Google Sign-In Authentication Not Working",
+      "url": "https://github.com/Suhani1234-5/TourEase/issues/370",
+      "createdAt": "2026-05-24T19:14:16.126Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
