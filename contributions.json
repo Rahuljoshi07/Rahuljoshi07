@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779625298316,
+      "repository": "roshankumar0036singh/Uni-Event",
+      "issueTitle": "[CRITICAL] Feedback Resubmission Exploitation (Inflation of Points & Ratings)",
+      "url": "https://github.com/roshankumar0036singh/Uni-Event/issues/187",
+      "createdAt": "2026-05-24T12:21:38.317Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
