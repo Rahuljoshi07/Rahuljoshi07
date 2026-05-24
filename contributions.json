@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779629908062,
+      "id": 1779629946363,
       "repository": "Premshaw23/Learnova",
       "issueTitle": "[BUG] Firestore role fetch in middleware uses fetch(..., { cache: \"force-cache\", next: { revalidate: 300 } }) which can fail or be ignored in Edge",
       "url": "https://github.com/Premshaw23/Learnova/issues/1153",
-      "createdAt": "2026-05-24T13:38:28.062Z",
+      "createdAt": "2026-05-24T13:39:06.363Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
