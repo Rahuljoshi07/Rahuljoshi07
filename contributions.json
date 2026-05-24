@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779595568426,
+      "repository": "kunchenguid/lavish-axi",
+      "issueTitle": "\"Send to Agent\" does not automatically resume Antigravity agent session",
+      "url": "https://github.com/kunchenguid/lavish-axi/issues/25",
+      "createdAt": "2026-05-24T04:06:08.426Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
