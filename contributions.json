@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779648086511,
+      "repository": "dashnowlab/STRchive",
+      "issueTitle": "HPO term validation too strict",
+      "url": "https://github.com/dashnowlab/STRchive/issues/472",
+      "createdAt": "2026-05-24T18:41:26.511Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
