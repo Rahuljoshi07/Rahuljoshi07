@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779664946731,
-      "repository": "ORESoftware/live-mutex",
-      "issueTitle": "actually evict serverside/brokerside and timeout on clientside",
-      "url": "https://github.com/ORESoftware/live-mutex/issues/120",
-      "createdAt": "2026-05-24T23:22:26.731Z",
+      "id": 1779664976313,
+      "repository": "toa-io/comq",
+      "issueTitle": "fix: reconnect on `ETIMEDOUT`",
+      "url": "https://github.com/toa-io/comq/issues/195",
+      "createdAt": "2026-05-24T23:22:56.313Z",
       "type": "comment",
-      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
