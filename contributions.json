@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779591333976,
+      "repository": "servo/internal-wpt-dashboard",
+      "issueTitle": "Rewrite score calculation in Rust",
+      "url": "https://github.com/servo/internal-wpt-dashboard/issues/25",
+      "createdAt": "2026-05-24T02:55:33.976Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
