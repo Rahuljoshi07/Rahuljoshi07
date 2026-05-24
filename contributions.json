@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779655452092,
+      "repository": "crlngn/crlngn-ui",
+      "issueTitle": "The battle carousel looks strange in the simple list mode.",
+      "url": "https://github.com/crlngn/crlngn-ui/issues/265",
+      "createdAt": "2026-05-24T20:44:12.092Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
