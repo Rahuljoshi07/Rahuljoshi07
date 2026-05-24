@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779632585456,
+      "repository": "laminlabs/lamindb",
+      "issueTitle": "Uploading empty file to lamin instance that already has an empty file in a space triggers InsufficientPrivilege Error",
+      "url": "https://github.com/laminlabs/lamindb/issues/3633",
+      "createdAt": "2026-05-24T14:23:05.456Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
