@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779596496774,
+      "id": 1779596528864,
       "repository": "Premshaw23/Learnova",
       "issueTitle": "[BUG] Broken Form Validation Unit Tests due to Outdated Error Assertions",
       "url": "https://github.com/Premshaw23/Learnova/issues/944",
-      "createdAt": "2026-05-24T04:21:36.774Z",
+      "createdAt": "2026-05-24T04:22:08.864Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
