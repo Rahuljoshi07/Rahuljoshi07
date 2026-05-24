@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779630208275,
+      "repository": "Premshaw23/Learnova",
+      "issueTitle": "[BUG] Duplicate Time Validation Logic Causes Inconsistent Attendance Window State",
+      "url": "https://github.com/Premshaw23/Learnova/issues/1154",
+      "createdAt": "2026-05-24T13:43:28.275Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
