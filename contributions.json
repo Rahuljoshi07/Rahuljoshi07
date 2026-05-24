@@ -228,21 +228,11 @@
       "deletions": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1779641999151,
-      "repository": "destinygg/chat-bot",
-      "issueTitle": "Using `!addban` without supplying a phrase to ban unexpectedly bans the phrase `null`",
-      "url": "https://github.com/destinygg/chat-bot/issues/153",
-      "createdAt": "2026-05-24T16:59:59.151Z",
-      "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
-    }
-  ],
+  "comments": [],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 1,
+    "totalComments": 0,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
