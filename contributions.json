@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779659536115,
+      "repository": "jtenniswood/espcontrol",
+      "issueTitle": "4-inch 4848S040 Display Streaks",
+      "url": "https://github.com/jtenniswood/espcontrol/issues/239",
+      "createdAt": "2026-05-24T21:52:16.115Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
