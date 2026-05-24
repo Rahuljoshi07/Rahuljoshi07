@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779660982016,
+      "repository": "worldbank/data360-mcp",
+      "issueTitle": "expand search metadata ranking",
+      "url": "https://github.com/worldbank/data360-mcp/issues/92",
+      "createdAt": "2026-05-24T22:16:22.016Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
