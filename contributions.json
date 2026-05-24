@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779648454034,
+      "id": 1779648490444,
       "repository": "SandeepVashishtha/Eventra",
       "issueTitle": "[Bug] Replace native alert() calls with toast notifications",
       "url": "https://github.com/SandeepVashishtha/Eventra/issues/1632",
-      "createdAt": "2026-05-24T18:47:34.035Z",
+      "createdAt": "2026-05-24T18:48:10.444Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
