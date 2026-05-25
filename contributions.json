@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779724859801,
+      "id": 1779724893937,
       "repository": "Premshaw23/Learnova",
       "issueTitle": "Face-API Confidence Score Trust Issue (Client-Side Spoofing)",
       "url": "https://github.com/Premshaw23/Learnova/issues/1342",
-      "createdAt": "2026-05-25T16:00:59.801Z",
+      "createdAt": "2026-05-25T16:01:33.937Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
