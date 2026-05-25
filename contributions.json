@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779745451857,
+      "repository": "rjwalters/kicad-tools",
+      "issueTitle": "router: CoupledPathfinder quality follow-up to #3089 — board 06 re-route still emits 817 diffpair_clearance_intra errors (blocks #3097)",
+      "url": "https://github.com/rjwalters/kicad-tools/issues/3115",
+      "createdAt": "2026-05-25T21:44:11.857Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
