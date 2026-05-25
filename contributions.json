@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779746407682,
+      "repository": "timraay/Barricade",
+      "issueTitle": "No notification is sent when a player is unbanned after being edited out of a report",
+      "url": "https://github.com/timraay/Barricade/issues/36",
+      "createdAt": "2026-05-25T22:00:07.682Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
