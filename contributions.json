@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779678516390,
-      "repository": "guyellis/learn",
-      "issueTitle": "Update React dependencies",
-      "url": "https://github.com/guyellis/learn/issues/833",
-      "createdAt": "2026-05-25T03:08:36.390Z",
+      "id": 1779678558495,
+      "repository": "nextcloud/user_saml",
+      "issueTitle": "[BUG] RememberLocalGroupsForPotentialMigrations silently activates destructive group sync on upgrade with no opt-in",
+      "url": "https://github.com/nextcloud/user_saml/issues/1106",
+      "createdAt": "2026-05-25T03:09:18.495Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
