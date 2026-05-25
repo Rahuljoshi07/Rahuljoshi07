@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779717891489,
+      "id": 1779717938766,
       "repository": "Fefedu973/SignalRGB-To-OpenRGB-Bridge",
       "issueTitle": "Issue with installation to SignalRGB",
       "url": "https://github.com/Fefedu973/SignalRGB-To-OpenRGB-Bridge/issues/12",
-      "createdAt": "2026-05-25T14:04:51.489Z",
+      "createdAt": "2026-05-25T14:05:38.766Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
