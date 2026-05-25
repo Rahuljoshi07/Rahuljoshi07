@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779694166710,
+      "id": 1779694207628,
       "repository": "Premshaw23/Learnova",
       "issueTitle": "[BUG] Incorrect JWT Validation Allows Future Tokens (Security Vulnerability)",
       "url": "https://github.com/Premshaw23/Learnova/issues/1265",
-      "createdAt": "2026-05-25T07:29:26.710Z",
+      "createdAt": "2026-05-25T07:30:07.628Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
