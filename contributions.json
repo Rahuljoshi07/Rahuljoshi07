@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779720244958,
+      "repository": "aallan/vera-bench",
+      "issueTitle": "Per-test subprocess failures should capture error_message (Aver + AILANG)",
+      "url": "https://github.com/aallan/vera-bench/issues/72",
+      "createdAt": "2026-05-25T14:44:04.958Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
