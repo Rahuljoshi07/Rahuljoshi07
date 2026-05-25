@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779704854768,
+      "repository": "mulkymalikuldhrs/jsputer-proxy",
+      "issueTitle": "internal error on all prompt",
+      "url": "https://github.com/mulkymalikuldhrs/jsputer-proxy/issues/2",
+      "createdAt": "2026-05-25T10:27:34.768Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
