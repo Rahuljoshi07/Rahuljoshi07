@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779697636349,
+      "repository": "OpenTermsArchive/engine",
+      "issueTitle": "Links to latest versions and snapshots in reported issues are broken",
+      "url": "https://github.com/OpenTermsArchive/engine/issues/1174",
+      "createdAt": "2026-05-25T08:27:16.349Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
