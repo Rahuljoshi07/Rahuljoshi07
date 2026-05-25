@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779719180687,
+      "repository": "ericchansen/q2mm",
+      "issueTitle": "Experiment: pd-conjugate optimization with ratio_tol=None (borderline ratio 1.20)",
+      "url": "https://github.com/ericchansen/q2mm/issues/276",
+      "createdAt": "2026-05-25T14:26:20.687Z",
+      "type": "comment",
+      "content": "NumPy operations are typically faster than pure Python loops. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
