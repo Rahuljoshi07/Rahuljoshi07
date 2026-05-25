@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779688430813,
+      "repository": "CrazyBebop/WARP0716",
+      "issueTitle": "Add more options to hide buttons patch",
+      "url": "https://github.com/CrazyBebop/WARP0716/issues/24",
+      "createdAt": "2026-05-25T05:53:50.813Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
