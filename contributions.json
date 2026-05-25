@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779709017920,
+      "repository": "xeokit/sdk",
+      "issueTitle": "Error running exemple due to packages not found",
+      "url": "https://github.com/xeokit/sdk/issues/46",
+      "createdAt": "2026-05-25T11:36:57.920Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
