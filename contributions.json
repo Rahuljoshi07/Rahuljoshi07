@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779678060825,
+      "id": 1779678114616,
       "repository": "lsongdev/node-dns",
       "issueTitle": "[BUG]: DNS timeout",
       "url": "https://github.com/lsongdev/node-dns/issues/91",
-      "createdAt": "2026-05-25T03:01:00.825Z",
+      "createdAt": "2026-05-25T03:01:54.616Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
     }
   ],
   "stats": {
