@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779729782426,
+      "repository": "webtorrent/webtorrent-fixtures",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/webtorrent/webtorrent-fixtures/issues/10",
+      "createdAt": "2026-05-25T17:23:02.426Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
