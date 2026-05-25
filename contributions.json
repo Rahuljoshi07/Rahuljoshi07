@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779707771508,
+      "repository": "Parslee-ai/neo",
+      "issueTitle": "Rename or fix test_construct_search_relevance_ordering",
+      "url": "https://github.com/Parslee-ai/neo/issues/27",
+      "createdAt": "2026-05-25T11:16:11.508Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
