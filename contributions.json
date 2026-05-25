@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779725107828,
+      "repository": "open-gsd/get-shit-done-redux",
+      "issueTitle": "bug: worktree executor force-adds gitignored .planning/SUMMARY.md into worktree branch (regression of the skipped_gitignored SDK contract)",
+      "url": "https://github.com/open-gsd/get-shit-done-redux/issues/261",
+      "createdAt": "2026-05-25T16:05:07.828Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
