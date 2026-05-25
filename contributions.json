@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779722131082,
+      "repository": "Premshaw23/Learnova",
+      "issueTitle": "[BUG] Timezone Offset Issue: Attendance Sync Records Dates in strict UTC",
+      "url": "https://github.com/Premshaw23/Learnova/issues/1341",
+      "createdAt": "2026-05-25T15:15:31.082Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
