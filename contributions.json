@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779714125571,
+      "repository": "jianshuo/ccglass",
+      "issueTitle": "https://github.com/jianshuo/ccglass/issues/2 Reopen",
+      "url": "https://github.com/jianshuo/ccglass/issues/35",
+      "createdAt": "2026-05-25T13:02:05.571Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
