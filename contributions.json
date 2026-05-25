@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779736205379,
+      "repository": "OWASP/Nest",
+      "issueTitle": "Pin docker base images by their digest",
+      "url": "https://github.com/OWASP/Nest/issues/4749",
+      "createdAt": "2026-05-25T19:10:05.379Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
