@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779668448792,
+      "id": 1779668485931,
       "repository": "Fefedu973/SignalRGB-To-OpenRGB-Bridge",
       "issueTitle": "Issue with installation to SignalRGB",
       "url": "https://github.com/Fefedu973/SignalRGB-To-OpenRGB-Bridge/issues/12",
-      "createdAt": "2026-05-25T00:20:48.792Z",
+      "createdAt": "2026-05-25T00:21:25.931Z",
       "type": "comment",
-      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
