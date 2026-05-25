@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779744288449,
+      "id": 1779744322153,
       "repository": "Muttley/foundryvtt-shadowdark",
-      "issueTitle": "Special Attack Roll with attack bonus +-0",
-      "url": "https://github.com/Muttley/foundryvtt-shadowdark/issues/1336",
-      "createdAt": "2026-05-25T21:24:48.449Z",
+      "issueTitle": "Selecting a spell able to be cast by multiple classes on a Scroll could prevent a viable class from casting it, depending on Spell Item's class",
+      "url": "https://github.com/Muttley/foundryvtt-shadowdark/issues/1339",
+      "createdAt": "2026-05-25T21:25:22.154Z",
       "type": "comment",
-      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
   ],
   "stats": {
