@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779670915425,
+      "repository": "Fefedu973/SignalRGB-To-OpenRGB-Bridge",
+      "issueTitle": "Error setting colors: Error: can't write to socket if not connected to OpenRGB",
+      "url": "https://github.com/Fefedu973/SignalRGB-To-OpenRGB-Bridge/issues/11",
+      "createdAt": "2026-05-25T01:01:55.425Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
