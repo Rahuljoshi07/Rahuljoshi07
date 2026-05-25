@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779709927031,
-      "repository": "Premshaw23/Learnova",
-      "issueTitle": "[BUG] UI fix colour contrast text at authorization page",
-      "url": "https://github.com/Premshaw23/Learnova/issues/1288",
-      "createdAt": "2026-05-25T11:52:07.031Z",
+      "id": 1779709959034,
+      "repository": "SandeepVashishtha/Eventra",
+      "issueTitle": "bug(auth): client-side scope derivation trusts plain-localStorage user object, enabling trivial privilege escalation to admin via DevTools",
+      "url": "https://github.com/SandeepVashishtha/Eventra/issues/2019",
+      "createdAt": "2026-05-25T11:52:39.034Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
