@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779697201586,
+      "repository": "music-encoding/music-encoding.github.io",
+      "issueTitle": "Outdated CSS for released Guidelines",
+      "url": "https://github.com/music-encoding/music-encoding.github.io/issues/880",
+      "createdAt": "2026-05-25T08:20:01.586Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
