@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779722812774,
+      "repository": "Premshaw23/Learnova",
+      "issueTitle": "[BUG] Service Worker: duplicate fetch event handlers cause InvalidStateError on every navigation request",
+      "url": "https://github.com/Premshaw23/Learnova/issues/1325",
+      "createdAt": "2026-05-25T15:26:52.774Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
