@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779716313208,
+      "id": 1779716341710,
       "repository": "SandeepVashishtha/Eventra",
-      "issueTitle": "React Console Warning — Uncontrolled Input Conversion in SubmitProject",
-      "url": "https://github.com/SandeepVashishtha/Eventra/issues/2035",
-      "createdAt": "2026-05-25T13:38:33.208Z",
+      "issueTitle": "Theme toggle button updates UI visually but ThemeContext still returns \"light\" value",
+      "url": "https://github.com/SandeepVashishtha/Eventra/issues/856",
+      "createdAt": "2026-05-25T13:39:01.710Z",
       "type": "comment",
-      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
     }
   ],
   "stats": {
