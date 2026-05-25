@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779734118839,
+      "repository": "IsaacCheng9/fairsplit",
+      "issueTitle": "Switch amount measurement from floating point to integers",
+      "url": "https://github.com/IsaacCheng9/fairsplit/issues/102",
+      "createdAt": "2026-05-25T18:35:18.839Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
