@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779709684739,
+      "repository": "SandeepVashishtha/Eventra",
+      "issueTitle": "bug(auth): client-side scope derivation trusts plain-localStorage user object, enabling trivial privilege escalation to admin via DevTools",
+      "url": "https://github.com/SandeepVashishtha/Eventra/issues/2019",
+      "createdAt": "2026-05-25T11:48:04.739Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
