@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779668134046,
+      "repository": "tryethernal/ethernal",
+      "issueTitle": "Sentry API scanner failing - authentication/server errors",
+      "url": "https://github.com/tryethernal/ethernal/issues/1304",
+      "createdAt": "2026-05-25T00:15:34.046Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
