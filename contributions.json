@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779717846833,
+      "repository": "aabhinavg1/compilersutra",
+      "issueTitle": "Dark mode issue while browsing some articles",
+      "url": "https://github.com/aabhinavg1/compilersutra/issues/296",
+      "createdAt": "2026-05-25T14:04:06.833Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. (S..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
