@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779727643134,
+      "repository": "Premshaw23/Learnova",
+      "issueTitle": "[BUG] : Critical Runtime Crash: ReferenceError: trimmedStatus is not defined",
+      "url": "https://github.com/Premshaw23/Learnova/issues/1360",
+      "createdAt": "2026-05-25T16:47:23.134Z",
+      "type": "comment",
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
