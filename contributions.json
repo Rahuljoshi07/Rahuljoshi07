@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779698204236,
+      "repository": "carbon-design-system/ibm-products",
+      "issueTitle": "Composable Cards: Define API and implementation approach for new Card component",
+      "url": "https://github.com/carbon-design-system/ibm-products/issues/9419",
+      "createdAt": "2026-05-25T08:36:44.236Z",
+      "type": "comment",
+      "content": "Consider using ES6 features like arrow functions and const/let for better performance. This suggesti..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
