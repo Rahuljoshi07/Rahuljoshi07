@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779685770657,
+      "repository": "MShekow/ng-outlook-google-calendar-sync",
+      "issueTitle": "Compute calendar modification actions is erroring with 500",
+      "url": "https://github.com/MShekow/ng-outlook-google-calendar-sync/issues/53",
+      "createdAt": "2026-05-25T05:09:30.657Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
