@@ -230,11 +230,11 @@
   ],
   "comments": [
     {
-      "id": 1779709726824,
+      "id": 1779709762430,
       "repository": "SandeepVashishtha/Eventra",
       "issueTitle": "bug(auth): client-side scope derivation trusts plain-localStorage user object, enabling trivial privilege escalation to admin via DevTools",
       "url": "https://github.com/SandeepVashishtha/Eventra/issues/2019",
-      "createdAt": "2026-05-25T11:48:46.824Z",
+      "createdAt": "2026-05-25T11:49:22.430Z",
       "type": "comment",
       "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
     }
