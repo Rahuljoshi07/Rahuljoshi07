@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779732769635,
+      "repository": "dewet22/givenergy-modbus",
+      "issueTitle": "Library-side corruption on register_caches[0x32]: IR(100) and IR(59) substituted with non-wire values",
+      "url": "https://github.com/dewet22/givenergy-modbus/issues/82",
+      "createdAt": "2026-05-25T18:12:49.635Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
