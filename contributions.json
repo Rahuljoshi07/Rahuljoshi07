@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779680935412,
+      "repository": "ORESoftware/live-mutex",
+      "issueTitle": "actually evict serverside/brokerside and timeout on clientside",
+      "url": "https://github.com/ORESoftware/live-mutex/issues/120",
+      "createdAt": "2026-05-25T03:48:55.412Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
