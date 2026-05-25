@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779710564393,
+      "repository": "camunda/camunda-bpmn-js",
+      "issueTitle": "Improve release time",
+      "url": "https://github.com/camunda/camunda-bpmn-js/issues/429",
+      "createdAt": "2026-05-25T12:02:44.393Z",
+      "type": "comment",
+      "content": "Consider using modern JavaScript features like destructuring and spread operators. (Suggested by Rah..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
