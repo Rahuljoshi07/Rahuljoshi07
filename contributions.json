@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779722678220,
+      "repository": "g3w-suite/g3w-admin",
+      "issueTitle": "Title: WFS-T editing works for superuser only, non-admin users get 200 response with 0 changes applied",
+      "url": "https://github.com/g3w-suite/g3w-admin/issues/1314",
+      "createdAt": "2026-05-25T15:24:38.220Z",
+      "type": "comment",
+      "content": "This might be a closure-related issue. Consider checking variable scope and binding. This suggestion..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
