@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779677416170,
+      "repository": "ErixWong/touwaka-ai-mate",
+      "issueTitle": "fix: 统一所有技能路径规则与 FS 技能一致",
+      "url": "https://github.com/ErixWong/touwaka-ai-mate/issues/742",
+      "createdAt": "2026-05-25T02:50:16.170Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
