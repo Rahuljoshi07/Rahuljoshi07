@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779686182456,
+      "repository": "Xunil99/ha-bosch-ebike",
+      "issueTitle": "Bug: Dashboard card flickers continuously (bosch-ebike-map-card.js reloads constantly)",
+      "url": "https://github.com/Xunil99/ha-bosch-ebike/issues/19",
+      "createdAt": "2026-05-25T05:16:22.456Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
