@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779683103039,
+      "repository": "Premshaw23/Learnova",
+      "issueTitle": "[Critical] 14 of 17 API endpoints lack rate limiting — DoS, database flooding, and storage billing abuse",
+      "url": "https://github.com/Premshaw23/Learnova/issues/1237",
+      "createdAt": "2026-05-25T04:25:03.039Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
