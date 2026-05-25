@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779710305223,
+      "repository": "packit/packit",
+      "issueTitle": "`packit validate` failed, HTTPSConnectionPool(host='src.fedoraproject.org', port=443): Max retries exceeded with url: /api/0/-/whoami (Caused by ResponseError('too many 401 error responses'))",
+      "url": "https://github.com/packit/packit/issues/2716",
+      "createdAt": "2026-05-25T11:58:25.223Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
