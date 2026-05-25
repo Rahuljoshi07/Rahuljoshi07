@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779697546332,
+      "repository": "vert-x3/vertx-unit",
+      "issueTitle": "Empty code block in docs",
+      "url": "https://github.com/vert-x3/vertx-unit/issues/78",
+      "createdAt": "2026-05-25T08:25:46.332Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
