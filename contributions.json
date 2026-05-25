@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779707603396,
+      "repository": "agentic-in/elephant-agent",
+      "issueTitle": "Add ADP support for agent-to-agent communication",
+      "url": "https://github.com/agentic-in/elephant-agent/issues/2",
+      "createdAt": "2026-05-25T11:13:23.396Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. (Suggested by Rahul Joshi..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
