@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779668605303,
+      "repository": "yllhwa/RSSWorker",
+      "issueTitle": "500 - Internal Server Error - cf炸了之后",
+      "url": "https://github.com/yllhwa/RSSWorker/issues/29",
+      "createdAt": "2026-05-25T00:23:25.303Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
