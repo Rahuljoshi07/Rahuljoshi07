@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779680302930,
+      "repository": "sdras/js-explorer",
+      "issueTitle": "TypeError when choosing 'Object -> manage prototypes -> set a prototype of the object'",
+      "url": "https://github.com/sdras/js-explorer/issues/11",
+      "createdAt": "2026-05-25T03:38:22.930Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
