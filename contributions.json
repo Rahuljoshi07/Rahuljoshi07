@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779713366370,
+      "repository": "pyiron/pyiron_atomistics",
+      "issueTitle": "Recursion error with `h5io`",
+      "url": "https://github.com/pyiron/pyiron_atomistics/issues/1788",
+      "createdAt": "2026-05-25T12:49:26.370Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
