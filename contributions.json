@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779709762430,
-      "repository": "SandeepVashishtha/Eventra",
-      "issueTitle": "bug(auth): client-side scope derivation trusts plain-localStorage user object, enabling trivial privilege escalation to admin via DevTools",
-      "url": "https://github.com/SandeepVashishtha/Eventra/issues/2019",
-      "createdAt": "2026-05-25T11:49:22.430Z",
+      "id": 1779709817281,
+      "repository": "Fefedu973/SignalRGB-To-OpenRGB-Bridge",
+      "issueTitle": "Error setting colors: Error: can't write to socket if not connected to OpenRGB",
+      "url": "https://github.com/Fefedu973/SignalRGB-To-OpenRGB-Bridge/issues/11",
+      "createdAt": "2026-05-25T11:50:17.282Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
