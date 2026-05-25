@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779698270069,
+      "repository": "Siixii00/sxiphone00",
+      "issueTitle": "老师您好 发现了一个疑似世界书的bug",
+      "url": "https://github.com/Siixii00/sxiphone00/issues/1",
+      "createdAt": "2026-05-25T08:37:50.069Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
