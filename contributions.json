@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779716341710,
+      "id": 1779716381867,
       "repository": "SandeepVashishtha/Eventra",
-      "issueTitle": "Theme toggle button updates UI visually but ThemeContext still returns \"light\" value",
-      "url": "https://github.com/SandeepVashishtha/Eventra/issues/856",
-      "createdAt": "2026-05-25T13:39:01.710Z",
+      "issueTitle": "React State Update During Render Cycle in ProtectedRoute",
+      "url": "https://github.com/SandeepVashishtha/Eventra/issues/2037",
+      "createdAt": "2026-05-25T13:39:41.867Z",
       "type": "comment",
-      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
