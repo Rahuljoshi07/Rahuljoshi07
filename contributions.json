@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779696837740,
+      "repository": "nodejs/nodejs-dist-indexer",
+      "issueTitle": "Add SWC ahd SQLite versions to the dist-indexer",
+      "url": "https://github.com/nodejs/nodejs-dist-indexer/issues/33",
+      "createdAt": "2026-05-25T08:13:57.740Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
