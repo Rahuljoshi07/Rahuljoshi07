@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779739105681,
+      "repository": "webtorrent/webtorrent.io",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/webtorrent/webtorrent.io/issues/177",
+      "createdAt": "2026-05-25T19:58:25.681Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
