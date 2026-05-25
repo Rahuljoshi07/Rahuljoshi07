@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779738630891,
+      "repository": "lsongdev/node-dns",
+      "issueTitle": "Gate PRs on successful build test",
+      "url": "https://github.com/lsongdev/node-dns/issues/107",
+      "createdAt": "2026-05-25T19:50:30.891Z",
+      "type": "comment",
+      "content": "You might want to add error handling and input validation. This suggestion is particularly relevant ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
