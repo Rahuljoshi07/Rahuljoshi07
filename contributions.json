@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779715986675,
+      "repository": "PatelHarsh2006/ChaatBazaar",
+      "issueTitle": "handle localStorage quota exceeded errors",
+      "url": "https://github.com/PatelHarsh2006/ChaatBazaar/issues/253",
+      "createdAt": "2026-05-25T13:33:06.676Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
