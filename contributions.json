@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779705578527,
+      "repository": "3nly/StyleChan",
+      "issueTitle": "Feature Request: Limit subject line to 100 char. to avoid \"field too long\" errors when posting",
+      "url": "https://github.com/3nly/StyleChan/issues/23",
+      "createdAt": "2026-05-25T10:39:38.527Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
