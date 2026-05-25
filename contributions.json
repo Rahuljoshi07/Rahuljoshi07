@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779732224570,
+      "repository": "opendatacube/datacube-ows",
+      "issueTitle": "Style API pulling in Flask dependency",
+      "url": "https://github.com/opendatacube/datacube-ows/issues/1590",
+      "createdAt": "2026-05-25T18:03:44.570Z",
+      "type": "comment",
+      "content": "Adding type hints would improve code readability and maintainability. This suggestion is particularl..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
