@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779721162758,
+      "repository": "katelyynn/bleh",
+      "issueTitle": "Line graph next to pie chart on profile blacked out/not showing properly",
+      "url": "https://github.com/katelyynn/bleh/issues/425",
+      "createdAt": "2026-05-25T14:59:22.758Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
