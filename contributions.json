@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779752639634,
+      "repository": "JoshuaVandaele/SuperISOUpdater",
+      "issueTitle": "Add support for Windows Server",
+      "url": "https://github.com/JoshuaVandaele/SuperISOUpdater/issues/29",
+      "createdAt": "2026-05-25T23:43:59.634Z",
+      "type": "comment",
+      "content": "Consider using context managers (with statements) for resource management. (Suggested by Rahul Joshi..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
