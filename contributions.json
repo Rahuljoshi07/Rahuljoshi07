@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779723100028,
+      "repository": "Pikselkroken/pixlstash",
+      "issueTitle": "Improve handling of inanimate objects in PixlStash tagger",
+      "url": "https://github.com/Pikselkroken/pixlstash/issues/302",
+      "createdAt": "2026-05-25T15:31:40.029Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. This suggestion is particularly relevant for..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
