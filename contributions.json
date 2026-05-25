@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779688781954,
+      "repository": "TeamAOF/Craftoria",
+      "issueTitle": "[Bug Report]: Spectrum Multitool / Workstaffs Disabled by knife unification script",
+      "url": "https://github.com/TeamAOF/Craftoria/issues/810",
+      "createdAt": "2026-05-25T05:59:41.954Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
