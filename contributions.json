@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779749139217,
+      "repository": "sliamh11/Deus",
+      "issueTitle": "runtime[pino]: Error f789513a",
+      "url": "https://github.com/sliamh11/Deus/issues/479",
+      "createdAt": "2026-05-25T22:45:39.218Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
