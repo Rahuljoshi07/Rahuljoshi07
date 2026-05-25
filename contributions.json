@@ -230,13 +230,13 @@
   ],
   "comments": [
     {
-      "id": 1779728343455,
+      "id": 1779728376198,
       "repository": "Premshaw23/Learnova",
       "issueTitle": "[Bug]: Failing Unit Test in API Route",
       "url": "https://github.com/Premshaw23/Learnova/issues/844",
-      "createdAt": "2026-05-25T16:59:03.455Z",
+      "createdAt": "2026-05-25T16:59:36.198Z",
       "type": "comment",
-      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+      "content": "This bug might be related to asynchronous operations. Consider using proper async/await patterns. Th..."
     }
   ],
   "stats": {
