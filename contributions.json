@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779677852172,
+      "repository": "SoulMelody/LibreSVIP",
+      "issueTitle": "Support structured (JSON/YAML) input and output in CLI",
+      "url": "https://github.com/SoulMelody/LibreSVIP/issues/1226",
+      "createdAt": "2026-05-25T02:57:32.172Z",
+      "type": "comment",
+      "content": "Consider using dataclasses for cleaner data structures. (Suggested by Rahul Joshi)..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
