@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779753183488,
+      "repository": "bikespace/bikespace",
+      "issueTitle": "Add comment and status system for issues to help track when/if they have been resolved",
+      "url": "https://github.com/bikespace/bikespace/issues/382",
+      "createdAt": "2026-05-25T23:53:03.488Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
