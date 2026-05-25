@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779725579943,
+      "repository": "Premshaw23/Learnova",
+      "issueTitle": "[BUG] Silent Error Handling in Stats Service Causes Hidden Failures",
+      "url": "https://github.com/Premshaw23/Learnova/issues/1317",
+      "createdAt": "2026-05-25T16:12:59.943Z",
+      "type": "comment",
+      "content": "Event listener cleanup might be needed to prevent memory leaks. This suggestion is particularly rele..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
