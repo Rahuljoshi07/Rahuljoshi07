@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779716622724,
+      "repository": "kagenti/kagenti",
+      "issueTitle": ":bug: Broken link in docs/ocp/openshift-install.md: https://github.com/orgs/kagenti/packages?repo_name=agent-examples",
+      "url": "https://github.com/kagenti/kagenti/issues/1664",
+      "createdAt": "2026-05-25T13:43:42.724Z",
+      "type": "comment",
+      "content": "This might be an indentation or scope issue. Python is sensitive to whitespace. (Suggested by Rahul ..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
