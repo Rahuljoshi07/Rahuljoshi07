@@ -126,18 +126,6 @@ const rahul = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahuljoshi07&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=Rahuljoshi07&theme=dark&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&sideNums=00D4FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahuljoshi07&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=00D4FF)
-
-</div>
-
 ---
 
 ## 🏆 Achievements & Milestones
