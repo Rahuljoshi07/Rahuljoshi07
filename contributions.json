@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779693481112,
+      "repository": "jtenniswood/espcontrol",
+      "issueTitle": "Rotation issue with 4\" 4848S040",
+      "url": "https://github.com/jtenniswood/espcontrol/issues/249",
+      "createdAt": "2026-05-25T07:18:01.112Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
