@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779700533953,
+      "repository": "cockpit-project/cockpit-ostree",
+      "issueTitle": "Remote \"ostree-image-signed:docker://quay.io/fedora/fedora-coreos\" not found error in frontend (CoreOS)",
+      "url": "https://github.com/cockpit-project/cockpit-ostree/issues/988",
+      "createdAt": "2026-05-25T09:15:33.953Z",
+      "type": "comment",
+      "content": "JavaScript type coercion could be causing this issue. Consider using strict equality (===) compariso..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
