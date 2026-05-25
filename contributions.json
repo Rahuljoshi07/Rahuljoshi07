@@ -228,11 +228,21 @@
       "deletions": 5
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": 1779730450637,
+      "repository": "webtorrent/load-ip-set",
+      "issueTitle": "Dependency Dashboard",
+      "url": "https://github.com/webtorrent/load-ip-set/issues/17",
+      "createdAt": "2026-05-25T17:34:10.637Z",
+      "type": "comment",
+      "content": "Consider implementing proper async/await patterns for better readability. This suggestion is particu..."
+    }
+  ],
   "stats": {
     "totalIssues": 9,
     "totalPRs": 9,
-    "totalComments": 0,
+    "totalComments": 1,
     "acceptedPRs": 0,
     "closedIssues": 0,
     "successRate": 0
